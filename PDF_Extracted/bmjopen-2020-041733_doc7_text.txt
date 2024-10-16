@@ -1,0 +1,23 @@
+# Open access
+
+As sequencing and library construction costs decrease, it will be feasible to carry out shotgun metagenomics on a significant portion of the stool samples. We aim to reduce costs so it is possible to perform this on all samples but if this is not possible, we will perform shotgun metagenomics on at least 20% of randomly selected samples from each group. Metagenomic sequencing libraries will be constructed using NEBNext Ultra DNA Library kits with modifications to reduce reaction volume. Libraries will be sequenced to ~15 000 000 reads per sample (150nt paired-end) on an Illumina NovaSeq. After filtering and trimming for sequence quality and primer removal, DeconSeq will be performed on the remaining reads in order to remove reads of human DNA. Genes and functional predictions and comparisons across sample groups will be computed using HUMAnN and MetaPHlAn for functional microbiome analysis.
+
+# Microbiome analysis
+
+Microbiome analysis will include α-diversity metrics for each sample (observed species, chao1, Shannon diversity) and β-diversity measures will be used to compare diversity between samples. For the latter, centred log-ratio transformation of the read count data will be carried out to account for the compositional nature of microbiome data and visualised using Aitchison principal-component analysis. Statistical analyses will be carried out in R using PhyloSeq, and ALDEx2 in R. Using generalised linear mixed models, we will identify microbial taxa and/or genes associated with disease phenotypes/progression, response to treatment, genotype, diet and other measured parameters. The large number of samples will also allow for application of machine learning methods such as random forest and support vector machine methods.
+
+# Metabolomics processing and analyses
+
+Urinary metabolomic profiles will be determined and analysed together with microbial and dietary profiles to identify relationships and associations with disease status and clinical phenotypes/response to therapies. Urinary metabolic profiles will be analysed by 1H- NMR on a 4- channel Varian INOVA 600 MHz NMR spectrometer. Assignment of endogenous urinary metabolites will be done using Chenomx NMR Suite V.8.5 and online databases. Metabolite concentrations will be log10 transformed to normalise data prior to statistical analyses. Metabolome association study analyses will be done using multiple linear regression models in the R Project for Statistical Computing. Projection-based PCA, partial least-squares discriminant analysis, orthogonal partial-least squares analysis will be performed using R program.
+
+# Subgroup analyses
+
+There are a number of subgroup analyses planned. In particular, we will analyse the primary and secondary outcomes by sex. We will strive to ensure representative enrolment of men and women with a wide range of life experience and at different life stages. When women are surveyed or otherwise evaluated, we will take note of past, anticipated and ongoing pregnancies, obtain a menstrual history and use instruments that are sensitive to the influence of gender on outcomes.
+
+# Genetic analyses
+
+In terms of genetic analyses, genomic DNA samples will be tested using two different approaches: (1) genome-wide genotyping to capture common genetic variation and enable genome-wide association studies and (2) whole exome sequencing will primarily be used to capture rare genetic variation and identify non-synonymous coding.
+
+The paediatric population (IBD cases 4–18 years of age) is also an important group to study. All the primary and secondary outcomes described above will also be.
+
+MoayyedifiP, et al. BMJ Open 2020;10:e041733. doi:10.1136/bmjopen-2020-041733

@@ -1,0 +1,37 @@
+# Metabolic modelling reveals broad changes in gut microbial metabolism in inflammatory bowel disease patients with dysbiosis
+
+Almut Heinken 1,2, Johannes Hertel 1,2,3 and Ines Thiele 1,2,4,5 ✉
+
+Inflammatory bowel diseases, such as Crohn’s Disease, are characterised by an altered blood and faecal metabolome, and changes in gut microbiome composition. Here, we present an efficient, scalable, tractable systems biology framework to mechanistically link microbial strains and faecal metabolites. We retrieve strain-level relative abundances from metagenomics data from a cohort of paediatric Crohn’s Disease patients with and without dysbiosis and healthy control children and construct and interrogate a personalised microbiome model for each sample. Predicted faecal secretion profiles and strain-level contributions to each metabolite vary broadly between healthy, dysbiotic, and non-dysbiotic microbiomes. The reduced microbial diversity in IBD results in reduced numbers of secreted metabolites, especially in sulfur metabolism. We demonstrate that increased potential to synthesise amino acids is linked to Proteobacteria contributions, in agreement with experimental observations. The established modelling framework yields testable hypotheses that may result in novel therapeutic and dietary interventions targeting the host-gut microbiome-diet axis.
+
+npj Systems Biology and Applications (2021) 7:19 ; https://doi.org/10.1038/s41540-021-00178-6
+
+# INTRODUCTION
+
+The human gut microbiome plays an important role in human health and disease. It performs important functions, such as maturation of the host immune system, digestion of food, synthesis of short-chain fatty acids, vitamins, and amino acids, and protection against pathogens. Changes in microbiome composition have been linked to complex multifactorial diseases, e.g., type 2 diabetes, metabolic syndrome, and non-alcoholic fatty liver syndrome, as well as inflammatory bowel disease (IBD).
+
+IBD can be separated into two subtypes, Crohn’s Disease and ulcerative colitis. Factors contributing to the IBD pathogenesis include genetics, diet, lifestyle, and the gut microbiome. There is an urgent need for a mechanistic understanding of the role of these complex host-microbiome–environment interactions in personalised treatment. A number of studies have reported differences in the abundances of certain taxa between IBD patients and healthy controls, identified through 16S rRNA sequencing or metagenomic approaches.
+
+However, different functional metabolic activity of the microbiome alone is insufficient to infer the contributions of microbial and host metabolism to altered metabolite levels. Mechanism-based computational models that integrate omics data (e.g., metagenomics, metabolomics, and metatranscriptomics), as well as dietary information could mechanistically link changes in microbe abundances and metabolite levels and, ultimately, propose potential disease mechanisms, biomarkers, and personalised therapies.
+
+One such mechanistic modelling approach is constraint-based reconstruction and analysis (COBRA). Briefly, COBRA relies on a manually curated genome-scale reconstruction of metabolism of a target organism, which can be converted into a mathematical model and subsequently interrogated through simulations, using established methods, such as flux balance analysis. COBRA models can be readily contextualised by implementing different types of data as constraints, e.g., metagenomics, metabolomics, or dietary information.
+
+To enable constraint-based modelling that captures the diversity of the human gut microbiome, we have assembled a resource of microbes, AGORA. The reconstructions have been built on curated genome-scale reconstructions of human gut microbes, at the strain level from refined genome annotations and experimental data. AGORA enables the creation of personalised microbiome models from metagenomics data that freely allow host–microbe and microbe–microbe metabolic interactions.
+
+Thus, these microbiome models have valuable applications in studying microbe–microbe and host–microbe interactions. Several studies have already successfully applied AGORA to predict microbiome metabolism in IBD, such as predicting changes in the faecal metabolome between IBD patients and cohorts.
+
+# Affiliations
+
+1 School of Medicine, National University of Ireland, Galway, Ireland.
+
+2 Ryan Institute, National University of Ireland, Galway, Ireland.
+
+3 Department of Psychiatry and Psychotherapy, University Medicine Greifswald, Greifswald, Germany.
+
+4 Division of Microbiology, National University of Galway, Galway, Ireland.
+
+5 APC Microbiome Ireland, Cork, Ireland.
+
+✉ email: ines.thiele@nuigalway.ie
+
+Published in partnership with the Systems Biology Institute

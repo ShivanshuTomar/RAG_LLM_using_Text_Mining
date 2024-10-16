@@ -1,0 +1,51 @@
+# Cochrane Library
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Rossen 2015 (Continued)
+
+# Secondary outcomes
+
+- Clinical response (reduction ≥ 1.5 points on SCCAI) at weeks 6 and 12
+- Clinical remission (SCCAI ≤ 2) at weeks 6 and 12
+- Endoscopic response at weeks 6 and 12
+- Change in median IBDQ score from baseline to week 6
+- Adverse events up to week 12
+
+# Notes
+
+Study was stopped early due to futility.
+
+Multiple donors were recruited for the study, but each participant received feces from 1 donor only.
+
+Data extraction: data on quality-of-life scores were depicted in box plots and, therefore, were not included in our meta-analysis.
+
+Data interpretation: study authors used an mITT analysis, in which only the participants who received ≥ 1 study dose were considered. For each group, the postrandomization n values were reported on an mITT basis only, so those are the numbers we extracted.
+
+Funding: MLDS grant 2011 (WO 11-17) to Noortje G Rossen and NWO-Spinoza grant 2008 to Willem M de Vos.
+
+# Risk of bias
+
+|Bias|Authors' judgement|Support for judgement|
+|---|---|---|
+|Random sequence generation (selection bias)|Low risk|Quote from study protocol: "Alea software will be used to perform randomisation."|
+| | |Comment: most likely done.|
+|Allocation concealment (selection bias)|Low risk|Quote from study protocol: "Randomisation and preparation of the feces will be performed by one of the research nurses, she is the only person who will know which treatment the patient will be given and will have no role in further part of the study."|
+| | |Comment: most likely done.|
+|Blinding of participants and personnel (performance bias)|Low risk|Quote: "Blinding of participants and trial members was guaranteed by collecting both donor and recipient feces on both treatment days." (page 111)|
+|All outcomes| |Comment: most likely done.|
+|Blinding of outcome assessment (detection bias)|Low risk|Quote: "Endoscopy videos and pictures recorded at baseline and 6 and 12 weeks after the first FMT were scored by the Critical Event Committee, who were not aware of the allocated treatment, in a random order." (page 111)|
+|All outcomes| |Comment: most likely done.|
+|Incomplete outcome data (attrition bias)|Low risk|Comment: 17/23 participants in the intervention group and 20/25 in the control group completed the follow-up. Attrition was similar in both groups. Less likely that the findings were at high risk of bias due to attrition bias.|
+|Selective reporting (reporting bias)|Low risk|Comment: protocol was available for review, and all intended outcomes were reported in the paper. Trial was registered on ClinicalTrials.gov (NCT01650038).|
+|Other bias|Low risk|Comment: trial was stopped early due to futility; however, the data were completely described for included participants.|
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

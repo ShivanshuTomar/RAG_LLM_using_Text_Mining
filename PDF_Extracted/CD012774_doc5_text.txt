@@ -1,0 +1,43 @@
+# Cochrane Library
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Main results
+
+We included 12 studies with 550 participants. Three studies were conducted in Australia; two in Canada; and one in each of the following: China, the Czech Republic, France, India, the Netherlands, and the USA. One study was conducted in both Israel and Italy. FMT was administered in the form of capsules or suspensions and delivered by mouth, nasoduodenal tube, enema, or colonoscopy. One study delivered FMT by both oral capsules and colonoscopy. Six studies were at overall low risk of bias, while the others had either unclear or high risk of bias.
+
+Ten studies with 468 participants, of which nine studies focused on adults and one focused on children, reported induction of clinical remission in people with UC at longest follow-up (range 6 to 12 weeks) and showed that FMT may increase rates of induction of clinical remission in UC compared to control (risk ratio (RR) 1.79, 95% confidence interval (CI) 1.13 to 2.84; low-certainty evidence). Five studies showed that FMT may increase rates of induction of endoscopic remission in UC at longest follow-up (range 8 to 12 weeks); however, the CIs around the summary estimate were wide and included a possible null effect (RR 1.45, 95% CI 0.64 to 3.29; low-certainty evidence). Nine studies with 417 participants showed that FMT may result in little to no difference in rates of any adverse events (RR 0.99, 95% CI 0.85 to 1.16; low-certainty evidence). The evidence was very uncertain about the risk of serious adverse events (RR 1.77, 95% CI 0.88 to 3.55; very low-certainty evidence) and improvement in quality of life (mean difference (MD) 15.34, 95% CI −3.84 to 34.52; very low-certainty evidence) when FMT was used to induce remission in UC.
+
+Two studies, of which one also contributed data for induction of remission in active UC, assessed maintenance of remission in people with controlled UC at longest follow-up (range 48 to 56 weeks). The evidence was very uncertain about the use of FMT for maintenance of clinical remission (RR 2.97, 95% CI 0.26 to 34.42; very low-certainty evidence) and endoscopic remission (RR 3.28, 95% CI 0.73 to 14.74; very low-certainty evidence). The evidence was also very uncertain about the risk of serious adverse events, risk of any adverse events, and improvement in quality of life when FMT was used to maintain remission in UC.
+
+None of the included studies assessed use of FMT for induction of remission in people with CD.
+
+One study with 21 participants reported data on FMT for maintenance of remission in people with CD. The evidence was very uncertain about the use of FMT for maintenance of clinical remission in CD at 24 weeks (RR 1.21, 95% CI 0.36 to 4.14; very low-certainty evidence). The evidence was also very uncertain about the risk of serious or any adverse events when FMT was used to maintain remission in CD. None of the studies reported data on use of FMT for maintenance of endoscopic remission or improvement in quality of life in people with CD.
+
+# Authors' conclusions
+
+FMT may increase the proportion of people with active UC who achieve clinical and endoscopic remission. The evidence was very uncertain about whether use of FMT in people with active UC impacted the risk of serious adverse events or improvement in quality of life. The evidence was also very uncertain about the use of FMT for maintenance of remission in people with UC, as well as induction and maintenance of remission in people with CD, and no conclusive statements could be made in this regard. Further studies are needed to address the beneficial effects and safety profile of FMT in adults and children with active UC and CD, as well as its potential to promote longer-term maintenance of remission in UC and CD.
+
+# PLAIN LANGUAGE SUMMARY
+
+# Stool transplantation for treatment of inflammatory bowel disease
+
+# Key messages
+
+- Ulcerative colitis (UC) and Crohn disease (CD) are two forms of inflammatory bowel disease (IBD). IBD is an autoimmune disease affecting the gut, as the body's immune system mistakenly attacks healthy cells, tissues, and organs.
+- Fecal transplantation may increase the proportion of people with active UC who achieve control of the disease, defined as clinical remission (disease control defined based on clinical symptoms) and endoscopic remission (disease control defined based on endoscopic findings), and may have little to no effect on rates of any adverse events (unwanted events that causes harm to the person).
+- The evidence was very uncertain about the risk of serious adverse events and improvement in quality of life when fecal transplantation was used for control of active UC.
+- The evidence was also very uncertain about the use of fecal transplantation for induction of remission in people with active CD and maintenance of remission in people with UC or CD.
+- Fecal transplantation is an evolving therapy and further studies are needed to evaluate its benefits and risks in both adults and children with active UC or CD, as well as its potential use for long-term control of UC and CD.
+
+# What is inflammatory bowel disease?
+
+UC and CD are two forms of IBD that can cause weight loss, abdominal pain, and blood loss due to inflammation (pain and swelling) in the gastrointestinal (GI) tract, affecting an estimated 6.8 million people worldwide. The exact reasons that people develop IBD are still to be determined.
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

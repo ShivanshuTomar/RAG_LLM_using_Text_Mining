@@ -1,0 +1,30 @@
+# Methods
+
+# Database
+
+The first step of the workflow (see Fig. 6) starts from the raw data which was taken from the Inflammatory Bowel Disease Multi’omics Database (IBDMDB)41 is one of the first publicly available comprehensive studies of the gut ecosystem’s multiple molecular properties involved in the IBD dynamics. Some of the measurements of the microbiome offered by the study are metagenomics, metatranscriptomics and metabolomics. The data is related to 132 subjects approached in the following five medical centres: Cincinnati Children’s Hospital, Emory University Hospital, Massachusetts General Hospital, Massachusetts General Hospital for Children, and Cedars-Sinai Medical Centre. The patients recruited for the study initially arrived at the hospitals either for routine age-related colorectal cancer screening, the presence of other gastrointestinal symptoms, or suspected IBD. The latter could be a consequence of positive imaging, symptoms of chronic diarrhoea or rectal bleeding. If there were no conditions for exclusion right after enrolment, a preliminary colonoscopy was performed to determine the study strata. Based on initial analyses, the subjects that were not diagnosed with IBD (non-IBD) were labelled as ‘NI’ controls. This group of subjects included the patients who arrived for routine screening and those with more.
+
+# Raw data
+
+# Data pre-processing
+
+# NETWORK CONSTRUCTION
+
+|Correlation network|Co-expression network|
+|---|---|
+|Calculation of the Pearson correlation between the subjects|Binarization of the biadjacency matrix (RCA)|
+|Percolation threshold.|Randomization and creation of a null model.|
+|Binarization of the edges|Projection of the bipartite network|
+|Extraction of significant edges| |
+
+# NETWORK ANALYSIS
+
+|CENTRALITY MEASURES|COMMUNITY DETECTION|
+|---|---|
+|Degree centrality|Louvain|
+|Betweenness centrality| |
+|Eigenvector centrality| |
+
+Figure 6. Diagram representing the methods and the network tools used to analyse the microbiome networks. The part surrounded by the dashed line was performed by the IBDMDB.
+
+Scientific Reports | (2023) 13:19428 | https://doi.org/10.1038/s41598-023-46184-y

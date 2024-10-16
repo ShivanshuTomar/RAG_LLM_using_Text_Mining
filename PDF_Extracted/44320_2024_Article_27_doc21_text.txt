@@ -1,0 +1,19 @@
+# Amrisha Bhosle et al
+
+# Molecular Systems Biology
+
+# Expanded View Figures
+
+|Adjusted Rand Index (ARI)| | |
+|---|---|---|
+|0.010| | |
+|0.005| | |
+|0.000| | |
+|actual|GNPS|MACARRoN|
+|Randomized| | |
+
+# Figure EV1.
+
+Adjusted Rand Index (ARI) values for the overlap between actual and randomized MACARRoN modules and GNPS clusters (molecular networks). Overlap between GNPS cluster and MACARRoN module assignments of 1311 features in the sputum metabolomes was determined using ARI. GNPS cluster and MACARRoN module assignments were then shuffled and overlap with actual MACARRoN modules and GNPS clusters respectively was calculated. This was performed 1000 times each for both GNPS and MACARRoN. The ARI obtained by comparing actual assignments was significantly higher than ARIs where one assignment was randomized. Bounds of boxplots show 1st quartile and 3rd quartile and the line inside the box is the median.
+
+© The Author(s) Molecular Systems Biology Volume 20 | Issue 4 | April 2024 | 338 – 361 EV1

@@ -1,0 +1,55 @@
+# Scientific Reports
+
+# (2023) 13:19428
+
+# https://doi.org/10.1038/s41598-023-46184-y
+
+connected to Flavonifractor plautii via 5 nodes on the E. coli side and via 5 nodes on the F. plautii side. On the E. coli side:
+
+1. node FUCCAT-PWY|ESCHERICHIA_COLI;
+2. node PWY-6737|ESCHERICHIA_COLI;
+3. node PWY-6609|ESCHERICHIA_COLI;
+4. node PWY-6703|ESCHERICHIA_COLI;
+5. node PWY-7199|ESCHERICHIA_COLI.
+
+On the F. plautii side:
+
+1. node PWY-5188|FLAVONIFRACTOR_PLAUTII;
+2. node PWY-6122|FLAVONIFRACTOR_PLAUTII;
+3. node PWY-6277|FLAVONIFRACTOR_PLAUTII;
+4. node PEPTIDOGLYCANSYN-PWY|FLAVONIFRACTOR_PLAUTII;
+5. node PWY-6121|FLAVONIFRACTOR_PLAUTII.
+
+Curiously there was also a Enterocloster bolteae pathway well-connected to the E. coli main module (node PWY0-1296|ENTERO-CLOSTER_BOLTEAE). The remaining part of the E. coli group was represented by fatty acid metabolism pathways (node FAO-PWY|ESCHERICHIA_COLI) or pathways involving mannose biosynthesis, which were connected to other species’ pathways. Apart from these nodes scattered around the network, the species group had two main ball-shaped modules thanks to the well-connected nature of the nodes inside the module. Another interesting community was the module formed by the nodes of two different species L. bacterium 5 1 63FAA and A. hadrus. The edges connecting the nodes of the two species were so dense that the two groups formed a unique module. Similarly to the NI correlation network, the NI projected network (Table 10) has diverse central pathways compared to the CD and UC projected network (Tables 11 and 12).
+
+In the CD network projection, there were 910 nodes and 26505 edges. One of the immediately visible properties of the projected network was the isolated module composed of E. coli pathways. Compared to the NI case, there were no connections to the other species nodes. R. torques module was connected to A. hadrus module.
+
+# Table 10. Top 10 pathway nodes with the highest betweenness centrality in the non-IBD (NI) projected network with uncommon pathways.
+
+|Node|Pathway|Betweenness centrality|
+|---|---|---|
+|27|ARGSYNBSUB-PWY|BIFIDOBACTERIUM_LONGUM|0.153|
+|1309|VALSYN-PWY|ENTEROCLOSTER_BOLTEAE|0.148|
+|237|NONOXIPENT-PWY|ENTEROCLOSTER_BOLTEAE|0.142|
+|1044|PWY-7221|BIFIDOBACTERIUM_LONGUM|0.080|
+|878|PWY-6703|LACHNOSPIRACEAE_BACTERIUM_5_1_63FAA|0.070|
+|1253|SALVADEHYPOX-PWY|RUMINOCOCCUS_TORQUES|0.042|
+|891|PWY-6737|CLOSTRIDIUM_LEPTUM|0.041|
+|660|PWY-6151|RUMINOCOCCUS_OBEUM|0.037|
+|355|PWY-2942|LACHNOSPIRACEAE_BACTERIUM_5_1_63FAA|0.036|
+|55|BRANCHED-CHAIN-AA-SYN-PWY|BIFIDOBACTERIUM_LONGUM|0.033|
+
+# Table 11. Top 10 pathway nodes with the highest betweenness centrality in the Crohn’s disease (CD) projected network with uncommon pathways.
+
+|Node|Pathway|Betweenness centrality|
+|---|---|---|
+|697|PWY-621|ESCHERICHIA_COLI|0.207|
+|81|COA-PWY-1|DOREA_LONGICATENA|0.156|
+|680|PWY-6163|DOREA_LONGICATENA|0.098|
+|971|PWY-7208|PARASUTTERELLA_EXCREMENTIHOMINIS|0.098|
+|1265|SER-GLYSYN-PWY|RUMINOCOCCUS_BROMII|0.089|
+|625|PWY-6123|BACTEROIDES_XYLANISOLVENS|0.088|
+|584|PWY-6121|PARASUTTERELLA_EXCREMENTIHOMINIS|0.047|
+|615|PWY-6122|PARASUTTERELLA_EXCREMENTIHOMINIS|0.047|
+|729|PWY-6277|PARASUTTERELLA_EXCREMENTIHOMINIS|0.047|
+|950|PWY-7111|RUMINOCOCCUS_BROMII|0.047|

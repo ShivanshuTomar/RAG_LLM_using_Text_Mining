@@ -1,0 +1,60 @@
+# Zhao et al. Microbiome (2022) 10:115
+
+# Response of Min pigs and Yorkshire pigs to DSS-induced colitis
+
+|Control|Treatment with Sterile Saline|Dextran Sulfate Sodium induced inflammation|
+|---|---|---|
+|-10|-10|-10|
+|-9|-9|-9|
+|-8|-8|-8|
+|-7|-7|-7|
+|-6|-6|-6|
+|-5|-5|-5|
+|-4|-4|-4|
+|-3|-3|-3|
+|-2|-2|-2|
+|-1|-1|-1|
+|2|2|2|
+|3|3|3|
+|4|4|4|
+|5|5|5|
+
+# Min pig
+
+# Yorkshire pig
+
+# DAI values
+
+Min pigs and Yorkshire pigs were administered CON (control, sterile saline) or DSS (4% DSS in 100 mL of water) via gavage for 5 days. The first dose had a volume of 200 mL.
+
+# Histological activity index (HAI)
+
+Comparison of spleen coefficient, colon coefficient and colon length in Min pigs and Yorkshire pigs after DSS treatment (n = 8 samples/group).
+
+# Distal colon inflammation and histopathology score
+
+Min pigs and Yorkshire pigs after DSS treatment (n = 5 samples/group). Scale bar, 200 μm.
+
+Data are presented as the mean ± SEM and were analysed by the t-test; significance is reported as *P < 0.05, **P < 0.01
+
+# Harvest
+
+# Tissue
+
+# Day
+
+# days old
+
+# Yorkshire pig
+
+# CON
+
+# DSS
+
+# Yorkshire pig
+
+# CON
+
+# DSS
+
+# YDSS

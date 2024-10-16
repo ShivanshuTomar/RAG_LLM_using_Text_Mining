@@ -1,0 +1,74 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# NCT04997733 (Continued)
+
+# Interventions
+
+# Experimental arm
+
+- Colonoscopy + FMT (frozen preparation of 50 g of stools in 300 mL of saline [0.9% sodium chloride]) in terminal ileum or colon
+- At weeks 12 and 24 after first colonoscopy: treatment by capsule (15 capsules contain 0.8 g of stools by visit)
+
+# Control arm
+
+- Colonoscopy + sham transplantation (frozen preparation of 0.9% sodium chloride with 10% glycerol) in terminal ileum or colon
+- At weeks 12 and 24 after first colonoscopy: treatment by capsule (15 capsules contain placebo)
+
+# Outcomes
+
+# Primary outcome
+
+- Clinical remission (CDAI < 150) at week 52 (V8) without any flare between week 0 (colonoscopy [V2]) and week 52 (V8): flare defined by CDAI (see Addendum 2 in publication) > 250 or 150–250 points with 70-point increase from baseline over 2 consecutive weeks
+
+# Secondary outcomes
+
+- Relapse-free survival at week 52
+- Mucosal healing at week 52
+- Clinical remission at week 52
+- Endoscopic remission at week 52
+- Changes in complete blood count at weeks 6, 12, 24, 36, 48, and 52
+- Changes in CRP at weeks 6, 12, 24, 36, 48, and 52
+- Changes in fecal calprotectin at weeks 6, 12, 24, 36, 48, and 52
+- Changes in intestinal microbiota composition at weeks 6, 12, 24, 36, 48, and 52
+
+# Starting date
+
+First posted: 10 August 2021
+
+# Contact information
+
+# Notes
+
+# NCT05030064
+
+# Study name
+
+Clinical study on the fecal microbiota transplantation in the treatment of ulcerative colitis with depression
+
+# Methods
+
+RCT conducted in China
+
+# Participants
+
+# Inclusion criteria
+
+- Course of disease > 6 months, clearly diagnosed as UC with depression (diagnostic criteria: (2020) "JSGE Evidence-based Clinical Practice Guidelines: Inflammatory Bowel Disease" and Chinese Mental Disorders Classification and Diagnostic Standards-3); improved Mayo score ≤ 10 points, PHQ-9 score ≥ 5 points
+- Ages 18–65 years
+- BMI 18–30 kg/m2
+- Basic reading comprehension skills
+- Agreement to participate in study and sign informed consent form
+
+# Exclusion criteria
+
+Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

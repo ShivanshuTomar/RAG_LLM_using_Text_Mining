@@ -1,0 +1,54 @@
+# Imhann et al. BMC Gastroenterology (2019) 19:5
+
+# Stage 1.
+
+# Stage 2.
+
+# Stage 3.
+
+Debut cohort and described associated data to be released
+
+Make summary statistics available
+
+Publicly release the data (after access procedure)
+
+Fig. 3 Flow of research data from the 1000IBD project. In Stage 1, data that has been generated or will be generated is announced. In Stage 2, summary statistics will be made available. In Stage 3, the data itself will be publicly released.
+
+Microbiome data were integrated to look at the complex relations between these different data layers [8, 31].
+
+The 1000IBD data is a versatile resource. Researchers investigating IBD can use the data as a replication cohort or as a pilot cohort to test new hypotheses. Software developers can use the data to test new tools, for example those built to analyse the genome or the gut microbiome. Mathematicians and statisticians can apply new statistical models to the data. A major advantage of the 1000IBD data for all these researchers is that they will not have the considerable cost of building a cohort or of generating genotype, whole exome, transcriptome and gut microbiome data.
+
+# Sharing 1000IBD data in releases
+
+The 1000IBD data will be made available in three stages (Fig. 3). In Stage 1, data that has been generated or will be generated is announced. In Stage 2, summary statistics will be made available. In Stage 3, the data itself will be publicly released. In the end, all data that does not violate patient privacy regulations will be made publicly available.
+
+# Data release 1
+
+The first release of 1000IBD contains the basic phenotypes of 1215 participants, Immunochip genotypes of 314 participants and gut microbiome data of 315 participants. The content of the data release 1 is presented in Table 2.
+
+# Finding and exploring 1000IBD data
+
+The 1000IBD Project can be found in the European Genome-Phenome Archive https://ega-archive.org/studies/EGAS00001002702, and will be added to the local research data catalogue of the UMCG and the University of Groningen, the national biomedical research data catalogue BBMRI-NL (Biobanking and BioMolecular resources Research Infrastructure The Netherlands) www.bbmri.nl and the European biomedical research data catalogue BBMRI-ERIC [38] (Biobanking And BioMolecular Resources Research Infrastructure - European Research Infrastructure Consortium). The 1000IBD data can be explored online on our website: https://1000IBD.org. Here, summary statistics of the phenotypes of 1000IBD participants for the entire cohort and for the subsets of participants for whom omics data is available can be viewed.
+
+# Table 2 Content of Data release 1. Released on June 5th, 2018
+
+|Data|Available for number of participants|Format available|
+|---|---|---|
+|Clinical phenotypes|1215 of 1215 participants of 1000IBD|TSV (Tab-separated file)|
+|• Age in years|-omics data available from 557 of the 1215 participants of 1000IBD| |
+|• Sex| | |
+|• BMI| | |
+|• IBD diagnosis| | |
+|• Montreal classification:| | |
+|o A: Age of onset| | |
+|o L: Disease location (CD only)| | |
+|o B: Disease behaviour (CD only)| | |
+|o E: Disease extent (UC only)| | |
+|o S: Disease severity (UC only)| | |
+|Genome|314 of 1215 participants of 1000IBD|IDAT|
+|Microbiome|315 of 1215 participants of 1000IBD|FASTQ|
+|-16S rRNA gene sequences from stool samples| | |
+|Microbiome|107 of 1215 participants of 1000IBD|FASTQ|
+|-16S rRNA gene sequences from biopsies| | |
+|Microbiome|355 of 1215 participants of 1000IBD|FASTQ|
+|-Whole genome shotgun metagenomics sequences from stool samples| | |

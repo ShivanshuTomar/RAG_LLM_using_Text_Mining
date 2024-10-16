@@ -1,0 +1,43 @@
+# Molecular Systems Biology
+
+# Amrisha Bhosle et al
+
+that satisfy a predefined criteria for being distinct. MACARRoN uses the cube root of the total number of prevalent features as the “minClusterSize”. This choice of minClusterSize yields functionally homogeneous clusters and fewer singletons and is expected to be applicable to most real-world metabolomic datasets (“Results”). The resulting modules are either annotated (contain standards) or unannotated.
+
+# Quantitative annotations
+
+# Abundance versus anchor: (AVA)
+
+For all prevalent metabolic features, mean abundance in each phenotype is calculated. Then, in each module, the metabolic feature (or standard in an annotated-module) with the maximum mean abundance in any phenotype is chosen as the “anchor”. The anchor of an unannotated module is the metabolic feature with the highest mean abundance in any phenotype. In an annotated-module with only one standard, the standard is the anchor. If an annotated-module contains multiple standards, the anchor metabolite for that module is the standard with the highest mean abundance in any phenotype. The AVA of each feature f in a module m is then calculated as:
+
+AVA f = max(u1, u2, ..., un) / A
+
+where n is the number of phenotypes, u is the mean abundance in a phenotype and Ā is the maximum mean abundance of the co-clustered anchor.
+
+# Association with phenotype: q value
+
+MACARRoN integrates: MaAsLin 2 (Mallick et al, 2021) to efficiently capture multivariable associations between prevalent metabolic features and sample phenotypes (clinical or environmental metadata). Each metabolite feature is tested independently using a linear regression model:
+
+feature = X1 + ... + Xi + (1|R1) + ... + (1|R)
+
+where X and R are fixed and random effects in the metadata, respectively. X1 represents the categorical metadata variable containing case and control phenotypes of interest that are used for prioritization. Other effects are regressed-out. Upon specification of the “control” (reference) phenotype within X1, FDR-adjusted P values (q values) are determined for each feature for all pairs of case-control comparisons. Benjamini–Hochberg correction is applied to nominal P values to control the FDR for independent tests.
+
+# Association with phenotype: effect size
+
+For each feature f, for each “case” phenotype, the effect size (ES) is calculated as:
+
+ES f = u case - u control
+
+where u is the mean of the log-transformed abundances in a phenotype.
+
+# Integration of ranks and prioritization
+
+All prevalent metabolic features are ranked according to their AVA, effect size, and q value yielding three ranks. Then, the priority score for each feature is...
+
+# Classification of features
+
+In total, 81,867 total ion features were initially available from the HMP2 metabolomes. For initial annotation of confidently identified compounds, we (i) matched recorded RTs and m/zs to mixtures of reference metabolites analyzed in each batch and (ii) matched to an internal database of >600 compounds characterized using Broad Institute protocols (Lloyd-Price et al, 2019). To assign mass-matches to remaining features, we (iii) matched m/zs to monoisotopic molecular weights of entries in HMBD 5.0 (Wishart et al, 2022). For (i) and (ii), confident annotation of 596 features was possible with these strategies and we refer to these as standards.
+
+For (iii), mass-matching with HMDB entries, the following ionizations were considered for features detected using C8-pos and HILIC-pos: [M]+ (+0), [M + H]+ (+1.007825), [M+Na]+ (+22.98977), [M + NH4]+ (+18.03437), [M-H2O + H]+ (-17.00274). For features detected using C18-neg and HILIC-neg, they were: [M]-, [M-H]- (-1.007825), [M+FormicAcid-H]- (+44.9982026), [M+AceticAcid-H]- (+59.0127559). Feature m/zs were compared with an allowed deviation of 10 ppm. Note that we did not use mass-matching against HMDB results for assigning identities to any features or for biological interpretation. Such information was drawn only from standards, as compared with...
+
+352 Molecular Systems Biology Volume 20 | Issue 4 | April 2024 | 338 – 361 © The Author(s)

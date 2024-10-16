@@ -1,0 +1,24 @@
+# Applied Microbiology and Biotechnology
+
+# (2024) 108:333
+
+# Bacteroides
+
+# Akkermansia
+
+|10,00| |Lactobacius|Helicobacter|Paraprevotella|Eschenchia_Shgela|Parabacterides|Allbaculurn|Prevotella| |
+|---|---|---|---|---|---|---|---|---|---|
+|0 10| |Streptococcus|Bamesiella|Slreplophyta|Phenybbacterum|Ktrosoira| | | |
+|0 01| |Sedin boctenum|Clostridrum_XiVa|Value|Cbstrdium_IV|Andibacter| | | |
+| |200|Ruminccoccus|OTU Rank|Brficobactenum|Clostridium_XviI|Sphingobium|Gp15|Novosphingobium|Value|
+| |1 11|WesarizoblurnRalstoniaGp3|Burktioldena|Ohtaekwangia|unclassified_Pomphyromonadaceae|unclassified_Clstridials|unclassifed_Lachnospiraceae|unclassified_Bactena| |
+| | |unclassiied_Erysipellnchaccae|unclassified_Ruminococcaceae|unclassified_Boctero dales|unciassified Nonlaproteobactena|unclassiied_Desulfovibnonaceae|unclassiied_Betaproteobactena|unclassmied_Rhodospmnlals|unclassitied_Rhzobrales|
+| | |Wnclassi6edDhcoosniMaceae|unclassified_Gammapro eobactena|unclassieed Hyphomicrobiaceae|unclassified_Planctomycetaceae|unclassfied_Rhodocyclaceae| | | |
+
+# Fig. 4
+
+Gut microbiome changes after administration of bacteria in PBS (DSS−) (SRR25898823); 2, PBS (DSS+) (SRR25898822); 3, EcN (DSS+) (SRR25898821); 4, (SRR25898819); EcN-TNFαNb (DSS+) (SRR25898820); 5, EcN-IL10 (DSS) 6, EcN-TNFαNb + EcN-IL10 (DSS+) (SRR25898818)
+
+remains the cornerstone in the management of IBD, aiming to disease progression and alleviate symptoms.
+
+The use of engineered live bacterial therapeutics for delivering anti-inflammatory drugs exhibits tremendous potential as an effective treatment approach for IBD. With the increasing availability of genetic tools for microbial engineering, numerous probiotics can be modified and harnessed in IBD therapy (Steidler et al. 2000; Vandenbroucke et al. 2010). In this study, we constructed two engineered strains, EcN-TNFαNb and EcN-IL-10, capable of expressing and secreting anti-TNF-α nanobody and IL-10, respectively. Furthermore, an engineered strain EcN was constructed to secrete TNF-α nanobodies via the type III secretion apparatuses (T3SA) for the treatment of IBD (Lynch et al. 2023). We have thoroughly examined the therapeutic benefits of these strains on IBD through rigorous animal model-based investigations.

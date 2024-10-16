@@ -1,0 +1,47 @@
+# Armstrong et al. Microbiome (2023) 11:39
+
+ml,  p = 0.031), reflecting augmented pro-inflammatory responses to MMTV.
+
+As exogenous MMTV is milk borne, evidence of enteral infection can be found in weanling pup stomachs [14]. Accordingly, we made viral preparations from stomach lactoserum using the cell pellets from the stomach as controls and cloned total RNA into next-generation sequencing libraries using a capture method to enrich the Betaretrovirus sequences. By comparing read abundance in the Illumina sequencing libraries, more than a tenfold enrichment of MMTV reads was observed in the IL-10−/− compared to the SvEv WT lactoserum libraries (Table 1). Calculations of genome equivalents derived by RT-qPCR prior to the capture enrichment revealed a viral abundance of approximately 3.0 × 108 in the IL-10−/− lactoserum consistent with milk-borne infection [14]. The increased representation of MMTV reads in lactoserum versus cell pellet libraries is also consistent with enrichment of viral particles in the mouse milk (Table 1).
+
+Analysis of the mouse milk viral prep showed that over half of the Illumina reads in the IL-10−/− lactoserum library aligned with MMTV to provide a 99.40% coverage of the viral genome (Table 1, Supplemental Fig. 1). Following assembly, blastn searches showed that the nine MMTV contigs were mainly related to the endogenous Mtv-1 loci and the exogenous MMTV(HeJ) virus from C3H mice, which is a genetic recombinant of the endogenous Mtv1 provirus and exogenous MMTV (C3H) variant [22]. The two longest contigs shared 96.4 to 97.2% identity with the MMTV(HeJ) variant, whereas the shorter contigs shared identity to env and sag genes from Mtv1 −/− lactoserum showed a degree of variability in the (Table 2). The MMTV genome derived from the longest two contigs with 98.4% identity with each other.
+
+# Table 1
+
+Estimates of relative MMTV copy number calculated by number of MMTV reads per Illumina library and RT-PCR copy number in lactoserum RNA
+
+| |MMTV reads per library|MMTV reads % per library|Average read depth per MMTV genome|RT-PCR MMTVa|
+|---|---|---|---|---|
+|SvEv stomach pellet|174,491|1.53%|3548 ×| |
+|SvEv lactoserum|220,375|13.15%|5132 ×|1.2 × 106|
+|IL-10 stomach pellet|717,773|6.96%|15,270 ×| |
+|IL-10 lactoserum|2,886,869|51.33%|67,017 ×|3.0 × 108|
+
+a RT-PCR estimate of copy number × (amount of total RNA extracted from lactoserum viral preparation/amount of total RNA amount used for RT-PCR reaction)
+
+# Table 2
+
+Blastn analyses of contigs derived from IL-10 − / − lactoserum showing the top two significant alignments
+
+|Length (BP)|Description|Genomic region|Coverage|Identity|Accession number|
+|---|---|---|---|---|---|
+|Scaffold 1|4740 Endogenous MMTV Mtv1|gag/pro/pol env saga|100%|97.34%|AF228550.1|
+| |Exogenous MMTV HeJ| |100%|97.22%|AF228551.1|
+|Scaffold 2|2923 Endogenous MMTV Mtv1|gag/pro/pol|100%|97.57%|AF228550.1|
+| |Exogenous MMTV HeJ| |100%|97.47%|AF228551.1|
+|Scaffold 3|4740 Endogenous MMTV Mtv1|gag/pro/pol env|100%|96.52%|AF228550.1|
+| |Exogenous MMTV HeJ| |100%|96.39%|AF228551.1|
+|Scaffold 4|3591 Exogenous MMTV HeJ|env saga|97%|96.82%|AF228551.1|
+| |Endogenous MMTV Mtv1| |97%|96.82%|AF228550.1|
+|Scaffold 5|2999 Endogenous MMTV Mtv1|pro/pol env|100%|97.60%|AF228550.1|
+| |Exogenous MMTV HeJ| |100%|97.50%|AF228551.1|
+|Scaffold 6|907 MMTV LTR DNA|sag LTR b|100%|95.49%|L37517.1|
+| |Endogenous MMTV Mtv1| |100%|95.38%|AF228550.1|
+|Scaffold 7|1041 MMTV LTR DNA|sag LTR b|100%|95.78%|L37517.1|
+| |Endogenous MMTV Mtv1| |100%|95.69%|AF228550.1|
+|Scaffold 8|907 MMTV LTR DNA|sag LTR b|100%|95.93%|L37517.1|
+| |Endogenous MMTV Mtv1| |100%|95.82%|AF228550.1|
+|Scaffold 9|569 MMTV LTR DNA|LTR|86%|99.15%|L37517.1|
+| |Mtv17 LTR| |86%|99.15%|AY033511.1|
+
+Specific Blastn search MMTV sag gene alignment: amtv-17, bmtv-3

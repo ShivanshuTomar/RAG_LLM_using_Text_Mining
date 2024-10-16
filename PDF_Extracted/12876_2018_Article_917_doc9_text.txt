@@ -1,0 +1,68 @@
+# Competing interests
+
+FI received a speaker fee from AbbVie, KJvdV: none, RB: none, RA: none, MDV: none, AVV: none, CV: none, LMS: none; KWJvdS: none, VP: none, HMvD: none, MCV: none, EAMF: none, MAS: none, GD: none, RKW: none. These activities did not conflict with the work described in this article.
+
+# Publisher’s Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+# Author details
+
+1 Department of Gastroenterology and Hepatology, University of Groningen and University Medical Center Groningen, PO Box 30.001, 9700RB Groningen, the Netherlands.
+
+2 Department of Genetics, University of Groningen and University Medical Center Groningen, Groningen, the Netherlands.
+
+# Received
+
+6 June 2018
+
+# Accepted
+
+6 December 2018
+
+# Published online
+
+08 January 2019
+
+# References
+
+1. Abraham C, Cho JH. Inflammatory bowel disease. N Engl J Med. 2009;361:2066–78.
+2. Cleynen I, et al. Inherited determinants of Crohn’s disease and ulcerative colitis phenotypes: a genetic association study. Lancet. 2016;387:156–67.
+3. Jostins L, et al. Host-microbe interactions have shaped the genetic architecture of inflammatory bowel disease. Nature. 2012;491:119–24.
+4. Huang H, et al. Fine-mapping inflammatory bowel disease loci to single-variant resolution. Nature. 2017;547:173–8.
+5. Goyette P, et al. High-density mapping of the MHC identifies a shared role for HLA-DRB1∗01:03 in inflammatory bowel diseases and heterozygous advantage in ulcerative colitis. Nat. Genet. 2015;47:172–9.
+6. Liu JZ, et al. Association analyses identify 38 susceptibility loci for inflammatory bowel disease and highlight shared genetic risk across populations. Nat Genet. 2015;47:979–86.
+7. Gevers D, et al. The treatment-naive microbiome in new-onset Crohn’s disease. Cell Host Microbe. 2014;15:382–92.
+8. Imhann F, et al. Interplay of host genetics and gut microbiota underlying the onset and clinical presentation of inflammatory bowel disease. Gut. 2016;67:108–19.
+9. Ananthakrishnan AN. Epidemiology and risk factors for IBD. Nat Rev Gastroenterol Hepatol. 2015;12:205–17.
+10. Spekhorst LM, et al. Performance of the Montreal classification for inflammatory bowel diseases. World J Gastroenterol. 2014;20:15374–81.
+11. Integrative T. The integrative human microbiome project: dynamic analysis of microbiome-host omics profiles during periods of human health and disease corresponding author. Cell Host Microbe. 2014;16:276–89.
+12. Morgan XC, et al. Dysfunction of the intestinal microbiome in inflammatory bowel disease and treatment. Genome Biol. 2012;13:R79.
+13. Heap GA, et al. HLA-DQA1-HLA-DRB1 variants confer susceptibility to pancreatitis induced by thiopurine immunosuppressants. Nat. Genet. 2014;46:1131–4.
+14. Haberman Y, et al. Pediatric Crohn disease patients exhibit specific ileal transcriptome and microbiome signature. J Clin Invest. 2014;124:3617–33.
+15. Ananthakrishnan AN, et al. Gut microbiome function predicts response to anti-integrin biologic therapy in inflammatory bowel diseases. Cell Host Microbe. 2017;21:603–610.e3.
+16. Visschedijk MC, et al. Genomic and expression analyses identify a disease-modifying variant for Fibrostenotic Crohn’s disease. J Crohn's Colitis. 2018;12:582–8.
+17. Archive, E. G. European_Genome_Archive. Available at: https://www.ebi.ac.uk/ega/home.
+18. Centres., N. F. of U. M. ‘Collecting data at the source’ (Dutch title: Registratie aan de bron).
+19. Manniën J, et al. The Parelsnoer institute: a National Network of standardized clinical biobanks in the Netherlands. Open J Bioresour. 2017;4:1–8.
+20. Spekhorst LM, et al. Cohort profile: design and first results of the Dutch IBD biobank: a prospective, nationwide biobank of patients with inflammatory bowel disease. BMJ Open. 2017;7:e016695.
+21. Siebelink E, Geelen A, de Vries JHM. Self-reported energy intake by FFQ compared with actual energy intake to maintain body weight in 516 adults. Br J Nutr. 2011;106:274–81.
+22. Streppel MT, et al. Relative validity of the food frequency questionnaire used to assess dietary intake in the Leiden longevity study. Nutr J. 2013;12:1–8.
+23. van der Sloot KWJ, Weersma RK, Dijkstra G, Alizadeh BZ. Development and validation of a web-based questionnaire to identify environmental risk factors for inflammatory bowel disease: the Groningen IBD environmental questionnaire (GIEQ). J Gastroenterol. 2018. https://doi.org/10.1007/s00535-018-1501-z.
+24. Festen EAM, et al. Genetic analysis in a dutch study sample identifies more ulcerative colitis susceptibility loci and shows their additive role in disease risk. Am J Gastroenterol. 2010;105:395–402.
+25. Imhann F, et al. Interplay of host genetics and gut microbiota underlying the onset and clinical presentation of inflammatory bowel disease. Gut gutjnl-2016-312135. 2016. https://doi.org/10.1136/gutjnl-2016-312135.
+26. Shah TS, et al. OptiCall: a robust genotype-calling algorithm for rare, low-frequency and common variants. Bioinformatics. 2012;28:1598–603.
+27. Chang CC, et al. Second-generation PLINK: rising to the challenge of larger and richer datasets. Gigascience. 2015;4(7).
+28. Visschedijk MC, et al. Pooled resequencing of 122 ulcerative colitis genes in a large Dutch cohort suggests population-specific associations of rare variants in MUC2. PLoS One. 2016;11:e0159609.
+29. McKenna A, et al. The genome analysis toolkit: a MapReduce framework for analyzing next-generation DNA sequencing data. Genome Res. 2010;20:1297–303.
+30. Rivas MA, et al. Insights into the genetic epidemiology of Crohn’s and rare diseases in the Ashkenazi Jewish population. PLoS Genet. 2016:1–37. https://doi.org/10.1101/077180.
+31. Knights D, et al. Complex host genetics influence the microbiome in inflammatory bowel disease. Genome Med. 2014;6:107.
+32. Bolger AM, Lohse M, Usadel B. Trimmomatic: a flexible trimmer for Illumina sequence data. Bioinformatics. 2014;30:2114–20.
+33. de Jong MJ, et al. Telemedicine for management of inflammatory bowel disease (myIBDcoach): a pragmatic, multicentre, randomised controlled trial. Lancet. 2017;390:959–68.
+34. Swertz MA, et al. The MOLGENIS toolkit: rapid prototyping of biosoftware at the push of a button. BMC Bioinformatics. 2010;11:S12.
+35. van der Velde KJ, et al. MOLGENIS research: advanced bioinformatics data software for non-bioinformaticians. Bioinformatics. 2018. https://doi.org/10.1093/bioinformatics/bty742.
+36. NEN 7510:2011 Nl. Available at: https://www.nen.nl/NEN-Shop-2/Standard/NEN-75102011-nl.htm?gclid=CLyvgZvI8MMCFXLMtAodyg8ABA.
+37. International Organisation for Standardization and the International Electrotechnical Commission. Iso/Iec 27001:2013. 1–12 (2013). Available at: http://www.iso.org/iso/home/store/catalogue_ics/catalogue_detail_ics.htm?csnumber=54534.
+38. Holub P, et al. BBMRI-ERIC directory: 515 biobanks with over 60 million biological samples. Biopreserv Biobank. 2016;14:559–62.
+39. Wilkinson, M. D. et al. A design framework and exemplar metrics for FAIRness. bioRxiv 225490 (2017). doi:https://doi.org/10.1101/225490.
+40. Wilkinson MD, et al. The FAIR guiding principles for scientific data management and stewardship. Sci. Data. 2016;3:160018.

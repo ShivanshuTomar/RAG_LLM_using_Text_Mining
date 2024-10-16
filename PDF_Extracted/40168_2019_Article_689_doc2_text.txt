@@ -1,0 +1,36 @@
+# Heinken et al. Microbiome (2019) 7:75
+
+# Page 3 of 18
+
+# BA metabolite formulation
+
+|Unreconstructed Genomes|Carrying BA Genes|BA Reaction Formulation|AGORA Genomes|
+|---|---|---|---|
+|23|46 newly reconstructed genomes|223|773 AGORA genomes|
+|149 genomes not in PubSEED|21 unreconstructed genomes carrying BA genes|455 genomes without BA genes|818 strains|
+
+# Sample-specific Community Model
+
+Metagenomic samples
+
+- HMP
+- COMBO
+- PLEASE
+
+# Predicted BA Metabolism Profile
+
+Strain 1
+
+Strain 2
+
+COBRA Toolbox
+
+# Fig. 1
+
+Schematic overview of the workflow in this study. a Comparative genomic and metabolic reconstruction approach used to expand the AGORA resource with a bile acid (BA) deconjugation and biotransformation subsystem. The comparative genomic approach was performed in the PubSEED platform. Quality control and quality assurance (QC/QA) during reaction and metabolite formulation and addition to the AGORA reconstructions were ensured by using the reconstruction tool rBioNet. b Computational pipeline used to predict the sample-specific bile acid deconjugation and biotransformation by human gut microbiomes. First, publicly available metagenomic data was retrieved from HMP and the COMBO/PLEASE cohort. Next, the strain-level abundances were mapped onto the reference set of AGORA genomes. Microbial community models were constructed using the illustrated workflow, as implemented in the Microbiome Modeling Toolbox, and they account for the strain-level composition of each individual microbiome. Finally, each personalized community model was constrained with an “Average European” diet supplemented with conjugated primary bile acids and its individual-specific, primary bile acid deconjugation and biotransformation potential was computed using flux balance analysis.
+
+Pairs could produce up to 12 of the 13 bile acids, highlighting bile acid biotransformation as a microbial community task. Subsequently, we constructed functional and personalized gut microbiome models using metagenomics data from healthy and IBD individuals to predict an individual’s bile acid biosynthesis potential. We found inter-individual variation in the production capability of bile acids in healthy individuals as well as significant differences between healthy and IBD microbiomes. Moreover, we were able to compute the contribution of each strain to bile acid deconjugation and transformation while taking the metabolic network of the whole microbiome community and the applied constraints (e.g., dietary uptake) into account. Finally, we identified bottlenecks limiting the biotransformation potential into secondary bile acids. This mechanistic, microbiome-wide modeling approach can be readily applied to the personalized computation of other health-relevant human-microbial co-metabolites.
+
+# Distribution of Microbial Bile Acid Deconjugation and Biotransformation Pathways Across Taxa
+
+To determine how widely genes encoding for bile acid pathways are spread in human gut microbes, we performed a systematic comparative genomic analysis of the bile acid deconjugation and transformation pathway, starting with previously characterized enzymes for primary bile acid deconjugation and transformation into secondary bile acids. Of the currently 818 microbial AGORA reconstructions, which include 46 newly reconstructed gut microbes, only 670 genomes were available at the PubSEED database. We additionally analyzed 23 further microbial genomes, yielding a total of 693 considered genomes. We found the bile salt hydrolase (bsh) gene, which encodes the deconjugation of conjugated primary bile acids, in 204 of the 693 (29%) genomes, including two archaeal genomes, Methanobrevibacter smithii ATCC 35061 and Methanosphaera.

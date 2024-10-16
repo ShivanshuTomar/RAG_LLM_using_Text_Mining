@@ -1,0 +1,78 @@
+# Cochrane Library
+
+# Stallmach 2022 (Continued)
+
+Trusted evidence. Informed decisions. Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Interventions
+
+|Arm|Details|n|
+|---|---|---|
+|Experimental arm|Multidonor FMFT 5 capsules orally twice daily, 5 days per week for weeks 1–12|58|
+|Control arm|Placebo 5 capsules orally twice daily, 5 days per week for weeks 1–12| |
+
+# Outcomes
+
+# Primary outcome
+
+- Clinical remission (Mayo score ≤ 2, without any subscore > 1; participants unavailable at week 12 follow-up will be considered as non-responders) at week 12 after first FMT or FMFT
+
+# Secondary outcomes
+
+- Steroid-free clinical remission at week 12
+- Clinical response (decrease in Mayo score by 3 points with decrease in bleeding subscore by 1, or Total Mayo score 0–1) at week 12
+- Quality of life (IBDQ) at weeks 0, 4, 8, 12, 24, 36, and 52
+- Adverse events
+- Fecal calprotectin and histologic remission (based on Geboes Histologic Scores and Nancy Histological Index) at week 12
+- Microbiome/virome profiling
+
+# Starting date
+
+October 2021
+
+# Contact information
+
+Professor Andreas Stallmach
+
+Tel: +49-3641-9 ext 324401; email: andreas.stallmach@med.uni-jena.de
+
+# Notes
+
+UMIN000033127
+
+# Study name
+
+Multicenter randomized controlled trial to study the efficacy of multidonor fecal microbiota transplantation for Crohn's disease
+
+# Methods
+
+Multicenter RCT conducted in Japan
+
+# Participants
+
+# Inclusion criteria
+
+- People age 12 ≤ to < 80 years
+- Active CD (CDAI score ≥ 150)
+
+# Exclusion criteria
+
+- Past history of allergy to drugs used in study
+- Possibility of pregnancy
+- Complications such as fistulas and perforation, except anal fistulas
+
+# Interventions
+
+# Experimental arm
+
+- FMT
+
+# Control arm
+
+- Normal saline administration
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

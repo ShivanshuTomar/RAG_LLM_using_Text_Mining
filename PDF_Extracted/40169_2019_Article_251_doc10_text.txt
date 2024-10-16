@@ -1,0 +1,20 @@
+# Immunoregulation
+
+# Immune system
+
+|FMT|Damage repair|MSC|
+|---|---|---|
+|Colonic tissue|Colonic tissue|Restoration of diversity Restoration of composition Pathogenic bacteria eradication|
+| |Gut microbiome|Gut microbiome|
+
+Fig. 2 General therapeutic points of connection between FMT and MSC-therapy in IBD. The three main desired functional effects of the two transplants are immunoregulation aimed at dampening inflammation, tissue damage repair via proliferation and remodeling, and gut microbiota restoration including elimination of pathogenic bacteria.
+
+have also reported MSCs to increase the secretion of pro-inflammatory cytokines Th1 and Th17 while downregulating inflammatory cytokines IFN-γ, TNF-α, IL-6, IL-2 and IL-17 [109, 110]. According to Ahmed et al., genetic expression of inflammatory markers (IL-23, IFN-γ, TNF-α, ICAM-1) within the intestinal mucosa of MSC treated mice appreciably lowered, resulting in a significant improvement in weight gain, stool condition, as well as normal histopathology of tissues analyzed [111].
+
+Kol et al. reported that, while particular in vitro manipulations could produce an antigen presenting cell (APC) phenotypic shift in MSCs, the communication with physiologically important bacteria including even pathogenic bacteria Salmonella Typhi, did not trigger this potential harmful phenotypic shift [70]. Further investigations indicated that, intestinal bacteria-MSCs interactions triggered the enzymatic precursor for PGE2 (i.e., COX2) and pleiotropic cytokine IL6, which are both anti-inflammatory and pro-inflammatory mediators that inhibit Th17 differentiation, lymphocyte proliferation and M1 differentiation of monocytes [70, 112]. The various secretomes elicited within the MSC and FMT administered environment and their resultant effects are shown in Fig. 3.
+
+# Proliferation and tissue remodeling
+
+Regardless of the source of MSCs and the route of administration, they have been shown to be capable of engrafting into inflamed intestinal and mesenteric lymph nodes in IBD and self-proliferating as well as inducing the proliferation of intestinal cells to repair and replace damaged tissues. By self-proliferation, MSCs trigger colonic repair by differentiating into several cells and dampening inflammation [113] and by differentiating into fibroblast [51]. Many other researches have indicated the ability of MSC to regenerate, remold and induce proliferation of tissues [114, 115]. For instance, a systemic infusion of MSCs improved the proliferation and differentiation of intestinal epithelial cells [114, 116] while MSCs-conditioned medium (MSC-CM) also strongly induced cell proliferation, tissue remodeling and repair of intestinal submucosa injury in colitis [73]. MSCs within the intestine direct epithelial cells lineage differentiation [117, 118] and secrete RANKL (TNFSF11), which is known to induce the development, differentiation and maintenance of M cells [69, 119, 120].
+
+Gut microbiota constitute a complex ecosystem within which a progressive cross communication modulates several host cellular activities as well as metabolic pathways, including actively shaping and remodeling the mucosa of intestinal tissues [70]. Through NOD2 sensors, the gut–microbiota is associated with gut epithelial cell regeneration [121]. Although little is known about

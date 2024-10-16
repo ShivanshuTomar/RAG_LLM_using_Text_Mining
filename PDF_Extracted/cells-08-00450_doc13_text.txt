@@ -1,0 +1,29 @@
+# Funding
+
+The work of J.H.N. is supported by the SNSF grant 310030_175548.
+
+# Conflicts of Interest
+
+The authors declare no conflict of interest related to this work.
+
+# Abbreviations
+
+IBD: Inflammatory bowel disease; CD, Crohn’s disease; UC, ulcerative colitis; GI, gastrointestinal; NLRs, NOD-like receptors; PAMPs, pathogen-associated molecular patterns; SCFAs, short-chain fatty acids; HDAC, histone deacetylase; GPCRs, G protein-coupled receptors; Tregs, regulatory T cells; MCFAs, medium-chain fatty acids; LCFAs, long-chain fatty acids; NHS, Nurses’ Health Study; PUFA, polyunsaturated fatty acid; MCT1, monocarboxylate transporter 1; SMCT1, sodium monocarboxylate transporter 1; DCs, dendritic cells; AhR, aryl hydrocarbon receptor; IELs, intraepithelial lymphocytes; GWAS, genome wide association studies; cAMP, cyclic-adenosine monophosphate; TJ, tight junction; ZO-1, zonula occludens-1; AMPs, antimicrobial peptides.
+
+# References
+
+1. Strober, W.; Fuss, I.; Mannon, P. The fundamental basis of inflammatory bowel disease. J. Clin. Investig. 2007, 117, 514–521. [CrossRef]
+2. Baumgart, D.C.; Sandborn, W.J. Inflammatory bowel disease: Clinical aspects and established and evolving therapies. Lancet 2007, 369, 1641–1657. [CrossRef]
+3. Molodecky, N.A.; Soon, I.S.; Rabi, D.M.; Ghali, W.A.; Ferris, M.; Chernoff, G.; Benchimol, E.I.; Panaccione, R.; Ghosh, S.; Barkema, H.W.; et al. Increasing incidence and prevalence of the inflammatory bowel diseases with time, based on systematic review. Gastroenterology 2012, 142, 46–54. [CrossRef]
+4. Ng, S.C.; Bernstein, C.N.; Vatn, M.H.; Lakatos, P.L.; Loftus, E.V., Jr.; Tysk, C.; O’Morain, C.; Moum, B.; Colombel, J.F.; Epidemiology; et al. Geographical variability and environmental risk factors in inflammatory bowel disease. Gut 2013, 62, 630–649. [CrossRef] [PubMed]
+5. Ananthakrishnan, A.N.; Khalili, H.; Konijeti, G.G.; Higuchi, L.M.; de Silva, P.; Fuchs, C.S.; Willett, W.C.; Richter, J.M.; Chan, A.T. Long-term intake of dietary fat and risk of ulcerative colitis and Crohn’s disease. Gut 2014, 63, 776–784. [CrossRef]
+6. Hou, J.K.; Abraham, B.; El-Serag, H. Dietary intake and risk of developing inflammatory bowel disease: A systematic review of the literature. Am. J. Gastroenterol. 2011, 106, 563–573. [CrossRef]
+7. Ananthakrishnan, A.N.; Khalili, H.; Konijeti, G.G.; Higuchi, L.M.; de Silva, P.; Korzenik, J.R.; Fuchs, C.S.; Willett, W.C.; Richter, J.M.; Chan, A.T. A prospective study of long-term intake of dietary fiber and risk of Crohn’s disease and ulcerative colitis. Gastroenterology 2013, 145, 970–977. [CrossRef]
+8. Wikoff, W.R.; Anfora, A.T.; Liu, J.; Schultz, P.G.; Lesley, S.A.; Peters, E.C.; Siuzdak, G. Metabolomics analysis reveals large effects of gut microflora on mammalian blood metabolites. Proc. Natl. Acad. Sci. USA 2009, 106, 3698–3703. [CrossRef]
+9. Rasoamanana, R.; Darcel, N.; Fromentin, G.; Tome, D. Nutrient sensing and signalling by the gut. Proc. Nutr. Soc. 2012, 71, 446–455. [CrossRef]
+10. Alvarez-Curto, E.; Milligan, G. Metabolism meets immunity: The role of free fatty acid receptors in the immune system. Biochem. Pharm. 2016, 114, 3–13. [CrossRef]
+11. Postler, T.S.; Ghosh, S. Understanding the Holobiont: How Microbial Metabolites Affect Human Health and Shape the Immune System. Cell Metab. 2017, 26, 110–130. [CrossRef]
+12. Uchimura, Y.; Fuhrer, T.; Li, H.; Lawson, M.A.; Zimmermann, M.; Yilmaz, B.; Zindel, J.; Ronchi, F.; Sorribas, M.; Hapfelmeier, S.; et al. Antibodies Set Boundaries Limiting Microbial Metabolite Penetration and the Resultant Mammalian Host Response. Immunity 2018, 49, 545–559.e5. [CrossRef]
+13. Tan, J.K.; McKenzie, C.; Marino, E.; Macia, L.; Mackay, C.R. Metabolite-Sensing G Protein-Coupled Receptors-Facilitators of Diet-Related Immune Regulation. Annu. Rev. Immunol. 2017, 35, 371–402. [CrossRef]
+14. Ng, S.C.; Kaplan, G.G.; Tang, W.; Banerjee, R.; Adigopula, B.; Underwood, F.E.; Tanyingoh, D.; Wei, S.C.; Lin, W.C.; Lin, H.H.; et al. Population Density and Risk of Inflammatory Bowel Disease: A Prospective Population-Based Study in 13 Countries or Regions in Asia-Pacific. Am. J. Gastroenterol. 2019, 114, 107–115. [CrossRef]
+15. Ananthakrishnan, A.N.; Bernstein, C.N.; Iliopoulos, D.; Macpherson, A.; Neurath, M.F.; Ali, R.A.R.; Vavricka, S.R.; Fiocchi, C. Environmental triggers in IBD: A review of progress and evidence. Nat. Rev. Gastroenterol. Hepatol. 2018, 15, 39–49. [CrossRef]

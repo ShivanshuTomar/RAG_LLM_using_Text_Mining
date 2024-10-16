@@ -1,0 +1,40 @@
+# Abbas-Egbariya et al. Genome Biology
+
+# (2022) 23:61
+
+# References
+
+1. van den Bogert B, et al. Immunomodulatory properties of Streptococcus and Veillonella isolates from the human small intestine microbiota. PLoS One. 2014;9(12):e114277.
+2. Dubinsky V, et al. Predominantly antibiotic‑resistant intestinal microbiome persists in patients with pouchitis who respond to antibiotic therapy. Gastroenterology. 2020;158(3):610–624 e13.
+3. Lloyd‑Price J, et al. Multi‑omics of the gut microbial ecosystem in inflammatory bowel diseases. Nature. 2019;569(7758):655–62.
+4. Sartor RB. Microbial influences in inflammatory bowel diseases. Gastroenterology. 2008;134(2):577–94.
+5. Gupta VK, et al. A predictive index for health status using species‑level gut microbiome profiling. Nat Commun. 2020;11(1):4635.
+6. Magro DO, et al. Remission in Crohn’s disease is accompanied by alterations in the gut microbiota and mucins production. Sci Rep. 2019;9(1):13263.
+7. Amir A, et al. Gut microbiome development in early childhood is affected by day care attendance. NPJ Biofilms Microbiomes. 2022;8(1):2.
+8. Amir A, et al. Deblur rapidly resolves single‑nucleotide community sequence patterns. mSystems. 2017;2(2):e00191–16.
+9. Bolyen E, et al. Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2. Nat Biotechnol. 2019;37(8):852–7.
+10. Amir A, et al. Correcting for microbial blooms in fecal samples during room‑temperature shipping. mSystems. 2017;2(2):e00199–16.
+11. Bokulich NA, et al. Optimizing taxonomic classification of marker‑gene amplicon sequences with QIIME 2’s q2‑feature‑classifier plugin. Microbiome. 2018;6(1):90.
+12. Oksanen JEA. vegan: Community Ecology Package. R package version 2.5‑3; 2018.
+13. Xu ZZ, et al. Calour: an interactive, microbe‑centric analysis tool. mSystems. 2019;4(1):e00269–18.
+14. Halsey LG, et al. The fickle P value generates irreproducible results. Nat Methods. 2015;12(3):179–85.
+15. Haya A‑E, Yael H, Tzipi B, Rotem H, Lee D, Ohad G‑M, et al. Meta‑analysis defines predominant shared microbial responses in various diseases and a specific inflammatory bowel disease signal. Github.2022. https://github.com/amnona/paper-metaanalysis.git.
+
+# Publisher’s Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+# Ready to submit your research?
+
+Choose BMC and benefit from:
+
+- fast, convenient online submission
+- thorough peer review by experienced researchers in your field
+- rapid publication on acceptance
+- support for research data, including large and complex data types
+- gold Open Access which fosters wider collaboration and increased citations
+- maximum visibility for your research: over 100M website views per year
+
+At BMC, research is always in progress.
+
+Learn more biomedcentral.com/submissions

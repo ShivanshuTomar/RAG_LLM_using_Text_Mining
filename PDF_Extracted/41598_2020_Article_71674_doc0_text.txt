@@ -1,0 +1,23 @@
+# Elucidating Potential Molecular Signatures Through Host-Microbe Interactions for Reactive Arthritis and Inflammatory Bowel Disease Using Combinatorial Approach
+
+Anukriti Verma1, Shivani Sharda1*, Bhawna Rathi1, Pallavi Somvanshi2 & Bimlesh Dhar Pandey3
+
+Reactive Arthritis (ReA), a rare seronegative inflammatory arthritis, lacks exquisite classification under rheumatic autoimmunity. ReA is solely established using differential clinical diagnosis of the patient cohorts, where pathogenic triggers linked to enteric and urogenital microorganisms e.g. Salmonella, Shigella, Yersinia, Campylobacter, Chlamydia have been reported. Inflammatory Bowel Disease (IBD), an idiopathic enteric disorder co-evolved and attuned to present gut microbiome dysbiosis, can be correlated to the genesis of enteropathic arthropathies like ReA. Gut microbes symbolically modulate immune system homeostasis and are elementary for varied disease patterns in autoimmune disorders.
+
+The gut-microbiota axis structured on the core host-microbe interactions execute an imperative role in discerning the etiopathogenesis of ReA and IBD. This study predicts the molecular signatures for ReA with co-evolved IBD through the enveloped host-microbe interactions and microbe-microbe ‘interspecies communication’, using synonymous gene expression data for selective microbes. We have utilized a combinatorial approach that have concomitant in-silico work-pipeline and experimental validation to corroborate the findings.
+
+In-silico analysis involving text mining, metabolic network reconstruction, simulation, filtering, host-microbe interaction, docking and molecular mimicry studies results in robust drug target/s and biomarker/s for co-evolved IBD and ReA. Cross validation of the target/s or biomarker/s was done by targeted gene expression analysis following a non-probabilistic convenience sampling. Studies were performed to substantiate the host-microbe disease network consisting of protein-marker-symptom/disease-pathway-drug associations resulting in possible identification of vital drug targets, biomarkers, pathways and inhibitors for IBD and ReA.
+
+Our study identified Na(+)/H(+) anti-porter (NHAA) and Kynureninase (KYNU) to be robust early and essential host-microbe interacting targets for IBD co-evolved ReA. Other vital host-microbe interacting genes, proteins, pathways and drugs include Adenosine Deaminase (ADA), Superoxide Dismutase 2 (SOD2), Catalase (CAT), Angiotensin I Converting Enzyme (ACE), carbon metabolism (folate biosynthesis) and methotrexate. These can serve as potential prognostic/theranostic biomarkers and signatures that can be extrapolated to stratify ReA and related autoimmunity patient cohorts for further pilot studies.
+
+Enteropathic arthropathies symbolize the inflammation of the gut and the joint, where Reactive Arthritis (ReA) and Inflammatory Bowel Disease (IBD) associated arthropathies are caused by bacterial and parasitic infections of the gastrointestinal and urogenital tract. The grouped field of seronegative spondyloarthropathies show.
+
+1 Amity Institute of Biotechnology, J-3 Block, Amity University Campus, Sector-125, Noida, UP 201313, New Delhi 110070, India.
+
+2 Department of Biotechnology, TERI School of Advanced Studies, 10, Institutional Area, Vasant Kunj, India.
+
+3 Fortis Hospital, B-22, Sector 62, Gautam Buddh Nagar, Noida, Uttar Pradesh 201301, India.
+
+*email: ssharda@amity.edu
+
+Scientific Reports | (2020) 10:15131 | https://doi.org/10.1038/s41598-020-71674-8

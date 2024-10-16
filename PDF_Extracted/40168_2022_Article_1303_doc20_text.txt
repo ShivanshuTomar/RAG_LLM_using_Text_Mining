@@ -1,0 +1,55 @@
+# Zhao et al. Microbiome
+
+# (2022) 10:115
+
+# References
+
+1. Kinross JM, Darzi AW, Nicholson JK. Gut microbiome-host interactions in health and disease. Genome Med. 2011;3:1–12.
+2. O’Shea JJ, Jones RG. Autoimmunity Rubbing salt in the wound. Nature. 2013;496:437–9.
+3. Plugis NM, Weng N, Zhao Q, Palanski BA, Maecker HT, Habtezion A, et al. Interleukin 4 is inactivated via selective disulfide-bond reduction by extracellular thioredoxin. Proc Natl Acad Sci U S A. 2018;115:8781–6.
+4. Liang HE, Reinhardt RL, Bando JK, Sullivan BM, Ho IC, Locksley RM. Divergent expression patterns of IL-4 and IL-13 define unique functions in allergic immunity. Nat Immunol. 2011;13:58–66.
+5. Sender R, Fuchs S, Milo R. Are we really vastly outnumbered? Revisiting the ratio of bacterial to host cells in humans. Cell. 2016;164:337–40.
+6. Saha S, Jing XF, Park SY, Wang SY, Li XN, Gupta D, et al. Peptidoglycan recognition proteins protect mice from experimental colitis by promoting normal gut flora and preventing induction of interferon-gamma. Cell Host Microbe. 2010;8:147–62.
+7. Maslowski KM, Vieira AT, Ng A, Kranich J, Sierro F, Yu D, et al. Regulation of inflammatory responses by gut microbiota and chemoattractant receptor GPR43. Nature. 2009;461:1282–6.
+8. Xavier RJ, Podolsky DK. Unravelling the pathogenesis of inflammatory bowel disease. Nature. 2007;448:427–34.
+9. Lloyd-Price J, Arze C, Ananthakrishnan AN, Schirmer M, Avila-Pacheco J, Poon TW, et al. Multi-omics of the gut microbial ecosystem in inflammatory bowel diseases. Nature. 2019;569:655–62.
+10. Wu GD, Chen J, Hoffmann C, Bittinger K, Chen YY, Keilbaugh SA, et al. Linking long-term dietary patterns with gut microbial enterotypes. Science. 2011;334:105–8.
+11. Tsai HH, Dwarakanath AD, Hart CA, Milton JD, Rhodes JM. Increased faecal mucin sulphatase activity in ulcerative colitis: a potential target for treatment. Gut. 1995;36:570–6.
+12. Wright DP, Rosendale DI, Robertson AM. Prevotella enzymes involved in mucin oligosaccharide degradation and evidence for a small operon of genes expressed during growth on mucin. FEMS Microbiol Lett. 2000;190:73–9.
+13. Luis AS, Jin CS, Pereira GV, Glowacki RWP, Gugel SR, Singh S, et al. A single sulfatase is required to access colonic mucin by a gut bacterium. Nature. 2021;598:332–7.
+14. Kushkevych I, Dordevic D, Vitezova M. Possible synergy effect of hydrogen sulfide and acetate produced by sulfate-reducing bacteria on inflammatory bowel disease development. J Adv Res. 2021;27:71–8.
+15. Lavelle A, Sokol H. Gut microbiota-derived metabolites as key actors in inflammatory bowel disease. Nat Rev Gastroenterol Hepatol. 2020;17:223–37.
+16. Devkota S, Wang YW, Musch MW, Leone V, Fehlner-Peach H, Nadimpalli A, et al. Dietary-fat-induced taurocholic acid promotes pathobiont expansion and colitis in IL10 -/- mice. Nature. 2012;487:104–10.
+17. David LA, Maurice CF, Carmody RN, Gootenberg DB, Button JE, Wolfe BE, et al. Diet rapidly and reproducibly alters the human gut microbiome. Nature. 2014;505:559–63.
+18. Mukherjee A, Lordan C, Ross RP, Cotter PD. Gut microbes from the phylogenetically diverse genus Eubacterium and their various contributions to gut health. Gut Microbes. 2020;12:1802866.
+19. Shi H, Chang Y, Yuan G, Xiong W, Tang QJ. Dietary fucoidan of Acaudina molpadioides alters gut microbiota and mitigates intestinal mucosal injury induced by cyclophosphamide. Food Funct. 2017;8:3383–93.
+20. Sun M, Wu W, Liu Z, Cong Y. Microbiota metabolite short chain fatty acids, GPCR, and inflammatory bowel diseases. J Gastroenterol. 2017;52:1–8.
+21. Hamer HM, Jonkers D, Venema K, Vanhoutvin S, Troost FJ, Brummer RJ. Review article: the role of butyrate on colonic function. Aliment Pharmacol Ther. 2008;27:104–19.
+22. Xue CY, Lv H, Li Y, Dong N, Wang YH, Zhou JL, et al. Oleanolic acid reshapes the gut microbiota and alters immune-related gene expression of intestinal epithelial cells. J Sci Food Agric. 2022;102:764–73.
+23. Waters JL, Ley RE. The human gut bacteria Christensenellaceae are widespread, heritable, and associated with health. BMC Biol. 2019;17:1–11.
+24. McCarville JL, Chen GY, Cuevas VD, Troha K, Ayres JS. Microbiota metabolites in health and disease. Annu Rev Immunol. 2020;38:147–70.
+25. Ma DW, Chen YD, Chen TT. Vaginal microbiota transplantation for the treatment of bacterial vaginosis: a conceptual analysis. FEMS Microbiol Lett. 2019;366:fnz025.
+26. Yu QH, Yuan LX, Deng J, Yang Q. Lactobacillus protects the integrity of intestinal epithelial barrier damaged by pathogenic bacteria. Front Cell Infect Mi. 2015;5:26.
+27. Schirmer M, Garner A, Vlamakis H, Xavier RJ. Microbial genes and pathways in inflammatory bowel disease. Nat Rev Microbiol. 2019;17:497–511.
+28. Tuominen M. Comparison of the effect of anileridine and pethidine on the intracholedochal pressure during constant fluid perfusion. Acta Anaesthesiol Scand. 1976;20:177–82.
+29. Gobert AP, Latour YL, Asim M, Barry DP, Allaman MM, Finley JL, et al. Protective role of spermidine in colitis and colon carcinogenesis. Gastroenterology. 2022;162:813–27.
+30. Gonzalez-Gonzalez M, Diaz-Zepeda C, Eyzaguirre-Velasquez J, Gonzalez-Arancibia C, Bravo JA, Julio-Pieper M. Investigating gut permeability in animal models of disease. Front Physiol. 2019;9:1962.
+31. Martini E, Krug SM, Siegmund B, Neurath MF, Becker C. Mend your fences The epithelial barrier and its relationship with mucosal immunity in inflammatory bowel disease. Cell Mol Gastroenter. 2017;4:33–46.
+32. Zhang K, Lin WJ, Zhang JT, Zhao YW, Wang XQ, Zhao M. Effect of Toll-like receptor 4 on depressive-like behaviors induced by chronic social defeat stress. Brain Behav. 2020;10:e01525.
+33. Fritz JH, Le Bourhis L, Sellge G, Magalhaes JG, Fsihi H, Kufer TA, et al. Nod1-mediated innate immune recognition of peptidoglycan contributes to the onset of adaptive immunity. Immunity. 2007;26:445–59.
+34. Chu H, Mazmanian SK. Innate immune recognition of the microbiota promotes host-microbial symbiosis. Nat Immunol. 2013;14:668–75.
+35. Round JL, Mazmanian SK. The gut microbiota shapes intestinal immune responses during health and disease. Nat Rev Immunol. 2009;9:313–23.
+36. Kubinak JL, Round JL. Toll-like receptors promote mutually beneficial commensal-host interactions. PLoS Pathog. 2012;8:e1002785.
+37. Chassaing B, Aitken JD, Malleshappa M, Vijay-Kumar M. Dextran sulfate sodium (DSS)-induced colitis in mice. Curr Protoc Immunol. 2014;104:15–25.
+38. Borton MA, Sabag-Daigle A, Wu J, Solden LM, O’Banion BS, Daly RA, et al. Chemical and pathogen-induced inflammation disrupt the murine intestinal microbiome. Microbiome. 2017;5:1–15.
+39. Dennis VA, Dixit S, O’Brien SM, Alvarez X, Pahar B, Philipp MT. Live Borrelia burgdorferi spirochetes elicit inflammatory mediators from human monocytes via the toll-like receptor signaling pathway. Infect Immun. 2009;77:1238–45.
+40. Yeh ED. Characterisation of breast lesions with proton MR spectroscopy. AJR Am J Roentgenol. 2003;181:1273–4.
+41. Sprouse ML, Bates NA, Felix KM, Wu HJ. Impact of gut microbiota on gut-distal autoimmunity: a focus on T cells. Immunology. 2019;156:305–18.
+42. Scher JU, Sczesnak A, Longman RS, Segata N, Ubeda C, Bielski C, et al. Expansion of intestinal Prevotella copri correlates with enhanced susceptibility to arthritis. Elife. 2013;2:e01202.
+43. Akira S, Uematsu S, Takeuchi O. Pathogen recognition and innate immunity. Cell. 2006;124:783–801.
+44. Punit S, Dube PE, Liu CY, Girish N, Washington MK, Polk DB. Tumor necrosis factor receptor 2 restricts the pathogenicity of CD8+ T cells in mice with colitis. Gastroenterology. 2015;149:993–1005.
+45. Schreiber S, MacDermott RP, Raedler A, Pinnau R, Bertovich MJ, Nash GS. Increased activation of isolated intestinal lamina propria mononuclear cells in inflammatory bowel disease. Gastroenterology. 1991;101:1020–30.
+46. Jamwal DR, Marati RV, Harrison CA, Midura-Kiela MT, Figliuolo Paz VR, Besselsen DG, et al. Total CD3 T cells are necessary and sufficient to induce colitis in immunodeficient mice with dendritic cell-specific deletion of TGFbR2: a novel ibd model to study CD4 and CD8 T-cell interaction. Inflamm Bowel Dis. 2020;26:229–41.
+47. Roybal KT, Williams JZ, Morsut L, Rupp LJ, Kolinko I, Choe JH, et al. Engineering T cells with customized therapeutic response programs using synthetic notch receptors. Cell. 2016;167:419–32.
+48. Atarashi K, Tanoue T, Shima T, Imaoka A, Kuwahara T, Momose Y, et al. Induction of colonic regulatory T cells by indigenous Clostridium species. Science. 2011;331:337–41.
+49. Atarashi K, Tanoue T, Oshima K, Suda W, Nagano Y, Nishikawa H, et al. Treg induction by a rationally selected mixture of Clostridia strains from the human microbiota. Nature. 2013;500:232–6.

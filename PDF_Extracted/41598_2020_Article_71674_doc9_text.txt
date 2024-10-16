@@ -1,0 +1,36 @@
+# Microorganisms
+
+|Homologous residues|Identical residues|Homologous partners|Identical partners|
+|---|---|---|---|
+|Escherichia coli|FILA-B2Z|YANAITW FTLA-B5I|J47-18z /AVAITWAA ILA-DRBI|
+|NHAA|[12-126]|NHAA|hi2-14 pAG|
+|Klebsiella oxytoca|HHLA-B2Z|[116-159] AGDIAEA|DDARVLL HLA-B51|
+|NHAA|[14-156]|NHAA|1114-122|
+|Salmonella|HHLA-B27|pI2 HRFS|HLA-B5I|
+|kyphimurium|NHAA|13-13|NHAA|
+|(Shigella dysenteriae)|HHLA-B2Z|[22-146] NANAITW|HHLA-BSI|
+|NHAA|[12-126]|NHAA|NHTAA|
+|(Yersinia enterocolitica)|HHLA-B27|[16-135] ADGDYLL|HHLA-B5L|
+|IHAA|6349-373 ISTAA|NHAA|h1oz-164 |MGPADO|
+
+Figure 7. NHAA peptides from target microorganisms showing molecular mimicry with human HLA-B27, HLA-B51 and HLA-DRB1.
+
+# IBD
+
+There is lack of data available regarding KYNU differential expression in ReA, therefore the experimental evaluation of KYNU through targeted expression analysis in ReA patients was carried out. A non-probabilistic convenience sampling was followed for our single blind study.
+
+This study encompassed 15 individuals: 60% male with mean age of 45.7 and 40% female with mean age of 38 (9 males and 6 females). Out of these cases were: 10 with ReA and controls were: 3 currently undergoing treatment, 1 with Poncet’s Disease (PD) and 1 Healthy control (HC). The clinical characteristics of the patients recruited in the study included inflammatory back pain in 33%, fatigue in 60%, fever in 27%, swollen joint in 47%, Ankylosing Spondylitis (AS) that affects spine in 7%, dactylitis that is inflammation in finger or toe in 7% and Poncet’s Disease (PD) in 7% of participants. The clinical characteristics of the recruits are provided in Table 3.
+
+The expression of KYNU in Peripheral Blood Mononuclear Cells (PBMC’S) of ReA cases vs controls was evaluated using Relative Expression Software Tool (REST) software that estimated a sample’s relative expression ratio in relation to the control housekeeping gene (here GAPDH) by calculating an intermediate absolute concentration value:
+
+Concentration = efficiencyaverage CP (controls)−average CP (samples)
+
+where CP = point at which fluorescence escalates considerably above the background fluorescence.
+
+Here the CP values for reference and target genes are collectively redistributed to control and sample groups and the expression ratios are calculated based on the mean value.
+
+Relative expression = Concentration of gene of interest/Concentration of reference gene
+
+a reference gene and for calculating the statistical difference of variation between 2 groups. It utilises a bootstrapping technique providing a 95% confidence interval for expression ratios. It uses a P(H1) test for testing the significance between the samples and controls.
+
+According to our analysis, KYNU sample group is different to control group where P(H1) = 0.025. KYNU was found to be downregulated in sample group (in comparison to control group) by a mean factor of 0.115 (Standard error range is 0.018–0.837) as depicted in the whisker-box plot (Fig. 8). KYNU expression showed a ~ ninefold decline in ReA cases as compared to controls.

@@ -1,0 +1,63 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Outcome or subgroup title
+
+|Outcome or subgroup title|No. of studies|No. of participants|Statistical method|Effect size|
+|---|---|---|---|---|
+|2.3 Maintenance of clinical remission in UC: sensitivity analysis for available cases|2|64|Risk Ratio (M-H, Random, 95% CI)|1.66 [0.47, 5.81]|
+|2.4 Serious adverse events for maintenance of remission in UC|2|0|Risk Ratio (M-H, Random, 95% CI)|Not estimable|
+|2.5 Any adverse events for maintenance of remission in UC|2|71|Risk Ratio (M-H, Random, 95% CI)|1.16 [0.85, 1.59]|
+|2.6 Maintenance of endoscopic remission in UC|2|71|Risk Ratio (M-H, Random, 95% CI)|3.28 [0.73, 14.74]|
+|2.7 Withdrawals in studies on maintenance of remission in UC|2|71|Risk Ratio (M-H, Random, 95% CI)|0.30 [0.05, 1.73]|
+|2.8 Erythrocyte sedimentation rate (ESR) at longest follow-up for maintenance of remission in UC (mm/hour)|1|61|Mean Difference (IV, Random, 95% CI)|-10.40 [-12.54, -8.26]|
+|2.9 C-reactive protein (CRP) at longest follow-up for maintenance of remission in UC (mg/L)|1|61|Mean Difference (IV, Random, 95% CI)|-2.70 [-3.82, -1.58]|
+
+# Analysis 2.1. Comparison 2: Fecal microbiota transplantation (FMT) versus control for maintenance of remission in ulcerative colitis (UC), Outcome 1: Maintenance of clinical remission in UC
+
+|Study or Subgroup|FMT Events|FMT Total|Control Events|Control Total|Weight|Risk Ratio M-H, Random, 95% CI|Risk Ratio M-H, Random, 95% CI|Risk of Bias|
+|---|---|---|---|---|---|---|---|---|
+|Haifer 2022|4|4|0|6|36.3%|12.60 [0.86, 185.05]| |+ + + + + + +|
+|Sood 2019a (1)|27|31|20|30|63.7%|1.31 [0.98, 1.74]| |+ ? + + + +|
+|Total (95% CI)| |35| |36|100.0%|2.97 [0.26, 34.42]| | |
+
+Total events: 31 / 20
+
+Heterogeneity: Tau² = 2.43; Chi² = 3.56, df = 1 (P = 0.06); I² = 72%
+
+Test for overall effect: Z = 0.87 (P = 0.38)
+
+Favors FMT Favors control
+
+Test for subgroup differences: Not applicable
+
+# Footnotes
+
+(1) Mayo score ≤ 2 with all subscores ≤ 1 at week 48.
+
+# Risk of bias legend
+
+(A) Random sequence generation (selection bias)
+
+(B) Allocation concealment (selection bias)
+
+(C) Blinding of participants and personnel (performance bias)
+
+(D) Blinding of outcome assessment (detection bias)
+
+(E) Incomplete outcome data (attrition bias)
+
+(F) Selective reporting (reporting bias)
+
+(G) Other bias
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

@@ -1,0 +1,23 @@
+# Dikhnah Alshehri, et al.: Gut microbiota in IBD therapy
+
+# References
+
+1. Knox NC, Forbes JD, Van Domselaar G, Bernstein CN. The gut microbiome as a target for IBD treatment: Are we there yet? Curr Treat Options Gastroenterol 2019;17(1):115-26. https://doi.org/10.1007/s11938-019-00221-w.
+2. Byndloss MX, Olsan EE, Rivera-Chávez F, Tiffany CR, Cevallos SA, Lokken KL, et al. Microbiota-activated PPAR-γ signaling inhibits dysbiotic Enterobacteriaceae expansion. Science 2017;357(6351):570-5. https://doi.org/10.1126/science.aam9949.
+3. Litvak Y, Byndloss MX, Tsolis RM, Bäumler AJ. Dysbiotic Proteobacteria expansion: A microbial signature of epithelial dysfunction. Curr Opin Microbiol 2017;39:1-6. https://doi.org/10.1016/j.mib.2017.07.003.
+4. Shaw KA, Bertha M, Hofmekler T, Chopra P, Vatanen T, Srivatsa A, et al. Dysbiosis, inflammation, and response to treatment: A longitudinal study of pediatric subjects with newly diagnosed inflammatory bowel disease. Genome Med 2016;8(1):75. https://doi.org/10.1186/s13073-016-0331-y.
+5. Machiels K, Sabino J, Vandermosten L, Joossens M, Arijs I, de Bruyn M, et al. Specific members of the predominant gut microbiota predict pouchitis following colectomy and IPAA in UC. Gut 2017;66(1):79-88. https://doi.org/10.1136/gutjnl-2015-309398.
+6. Rajca S, Grondin V, Louis E, Vernier-Massouille G, Grimaud JC, Bouhnik Y, et al. Alterations in the intestinal microbiome (dysbiosis) as a predictor of relapse after infliximab withdrawal in Crohn’s disease. Inflamm Bowel Dis 2014;20(6):978-86. https://doi.org/10.1097/mib.0000000000000036.
+7. Moustafa A, Li W, Anderson EL, Wong EH, Dulai PS, Sandborn WJ, et al. Genetic risk, dysbiosis, and treatment stratification using host genome and gut microbiome in inflammatory bowel disease. Clin Transl Gastroenterol 2018;9(1):e132. https://doi.org/10.1038/ctg.2017.58.
+8. Imhann F, Vich Vila A, Bonder MJ, Fu J, Gevers D, Visschedijk MC, et al. Interplay of host genetics and gut microbiota underlying the onset and clinical presentation of inflammatory bowel disease. Gut 2018;67(1):108-19. https://doi.org/10.1136/gutjnl-2016-312135.
+9. Schroeder BO, Bäckhed F. Signals from the gut microbiota to distant organs in physiology and disease. Nat Med 2016;22(10):1079. https://doi.org/10.1038/nm.4185.
+10. Guinane CM, Cotter PD. Role of the gut microbiota in health and disease. https://doi.org/10.1186/gb-2012-13-9-r79.
+
+# Related articles published in BJBMS
+
+1. The potential of metabolic and lipid profiling in inflammatory bowel diseases: a Cristian Tefas et al., BJBMS, 2019
+2. Galectin-1 reduces the severity of dextran sulfate sodium (DSS)-induced oxidative stress response by suppressing inflammatory and ulcerative colitis: Pelin Arda-Pirincci et al., BJBMS, 2019
+
+Bosn J Basic Med Sci. 2021;21(3):270-283
+
+www.bjbms.org

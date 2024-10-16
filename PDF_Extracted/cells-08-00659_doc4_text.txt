@@ -1,0 +1,13 @@
+|Factor|Type of study|N|Intervention/Methodology|Outcome|Author(s)|Reference|
+|---|---|---|---|---|---|---|
+|Exercise|In-vivo mouse study|4 mice per group|Exercise training|Alleviated symptoms of acute colitis|Saxena, A. et al.|60|
+| |Prospective cohort study|194,711|Physical activity|Inversely associated with risk of CD|Khalili, H.|61|
+|Sleep disturbances|Uncontrolled pilot study|12|12-week walking program|Beneficial for IBD patients|Loudon, CP. et al.|63|
+|Longitudinal, internet-based cohort data| |3173|Questionnaire|Increased risk of disease flares in CD but not UC|Ananthakrishnan, AN. et al.|75|
+| |Clinical study|10|Disturbances in sleep-wake cycle|Sleep disturbances led to immunologic alterations|Born, J. et al.|76|
+| |Clinical study|47|Questionnaire assessing sleep quality|Impaired sleep quality is associated with pediatric IBD|Mahlmann, L. et al.|77|
+| |Clinical study|32|Questionnaire assessing sleep quality|Impaired quality of life in IBD|Keefer, L. et al.|78|
+|Prospective observational cohort study| |41|Pittsburgh sleep quality index (PSQI)|Strong association between poor sleep quality and IBD|Ali, T. et al.|79|
+| |In-vivo mouse study|33|Diet and sleep disturbances|Circadian disorganization impacts intestinal microbiota|Voigt, RM. et al.|80|
+
+CD = Crohn’s disease; GWAS = genome-wide association studies; NSAIDs = nonsteroidal anti-inflammatory drugs; OCP = oral contraceptive pill; SNP = single nucleotide polymorphism; UC = ulcerative colitis; UPS = ubiquitin protease system.

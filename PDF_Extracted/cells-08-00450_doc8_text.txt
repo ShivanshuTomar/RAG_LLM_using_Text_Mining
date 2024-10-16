@@ -1,0 +1,31 @@
+# Cells 2019, 8, 450
+
+# 10-hydroxy-cis-12-octadecenoic acid
+
+A bacterial metabolite of linoleic acid, ameliorated the intestinal epithelial barrier impairment partially via GPR40-MEK-ERK pathway [112].
+
+# GPR120
+
+GPR120, which shares 10% amino acid homology with GPR40, is identified as a receptor of omega-3 fatty acids, but in vitro, omega-6 fatty acids can also bind this receptor [113]. Hirasawa et al. showed that the activation of GPR120 by FFAs resulted in the elevation of intracellular Ca2+ and activation of the ERK cascade, which suggests an interactions with the Gαq family of G proteins [114]. The same study showed that this receptor is highly expressed in the intestinal epithelium particularly in the enteroendocrine [114]. Additionally, GPR120 was detectable in macrophages, adipocytes and type II taste cells [105, 115, 116]. Ichimura and colleagues have reported that GPR120-deficient mice fed with a high-fat diet develop obesity, glucose intolerance and fatty liver with decreased adipocyte differentiation and lipogenesis and enhanced hepatic lipogenesis [117].
+
+# GPR84
+
+MCFAs, with a chain length of 9–14 carbons, exclusively bind to this receptor [118]. The GPR84 receptor is expressed by adipose tissue and by various leucocyte types, particularly macrophages and neutrophils and its expression is increased under inflammatory conditions [118, 119]. Although the reported evidence showed that the absence of GPR84 selectively affects IL-4 production in CD4+ T cells [120], the biological relevance of this receptor remains poorly understood.
+
+# GPCRs for Amino Acids and Related Metabolites
+
+# GPR35
+
+GPR35 is a poorly characterized GPCR expressed in the GI tract particularly in the stomach, intestinal epithelial cells, DCs, and macrophages of the small intestine and colon [121]. Endogenous ligand candidates for GPR35 include kynurenic acid and 2-oleoyl lysophosphatidic acid while pamoic acid, zaprinast and YE120 are synthetic GPR35 agonists [122–126]. Furthermore, CXCL17, a chemokine that is crucial for homing of alveolar macrophages, was also proposed as a ligand for GPR35. However, another study showed that CXCL17 neither activates GPR35 signaling nor induces chemotaxis in GPR35-expressing cells [127–129]. Therefore, CXCL17 remains controversial in this context. The identification of the T108M missense single nucleotide polymorphism by genome wide association studies (GWAS) as a risk factor associated with UC and CD [130, 131] suggest that GPR35 play an essential role in intestinal homeostasis.
+
+# Bile Acid-Sensing GPCRs
+
+# GPR131
+
+GPR131 also named TGR5 was discovered in 2002 [132] and it is highly expressed in immune cells (monocytes and macrophages), muscle, spinal cord, adipocytes, and the enteric nervous system [133]. This receptor is particularly relevant for gut macrophages and monocytes because it can recognize primary and secondary bile acid metabolites [134]. Lithocholic acid and taurolithocholic acid, as secondary bile acids, are the most potent ligands of TGR5 [135]. In murine macrophages specific deletion of TGR5 leads to insulin resistance [136]. Moreover, genetic ablation of TGR5 aggravated the intestinal inflammation in DSS- and TNBS-induced colitis [137]. Guo et al. showed that TGR5 exerts an anti-inflammatory effect through NLRP3 inflammasome activation [138].
+
+# pH-Sensitive Receptor
+
+# GPR65
+
+Protons in extracellular acidic conditions bind to GPR65 [139] and act as surrogate receptors for acidic metabolites, such as SCFAs [13]; however, no evidence has verified this hypothesis. GPR65 is expressed on a variety of immune cells, including T and B lymphocytes, neutrophils, but is unusually high on eosinophils and mast cells. GWAS studies have associated single-nucleotide polymorphisms in GPR65 to increased IBD susceptibility [140, 141]. Multiple pieces of evidence have shown the cytoprotective effect of GPR65, since increased viability of eosinophils has been associated with activation of GPR65 under acidic conditions [142, 143]. Furthermore, the expression BCL2 (antiapoptotic protein B cell lymphoma 2) correlates with the expression of GPR65 in chronic lymphatic leukemia cells [144].

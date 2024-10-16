@@ -1,0 +1,33 @@
+# NATURE COMMUNICATIONS
+
+# https://doi.org/10.1038/s41467-020-17840-y
+
+# ARTICLE
+
+|s__Haemophilus_parainfluenzae| | | | | | | | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|s__Desulfovibrio_desulfuricans| | | | | | | | | | | | | | | |
+|s__Escherichia_coli|15|2| | | | | | | | | | | | | |
+|s__Oxalobacter_formigenes|14|3| | | | | | | | | | | | | |
+|s__Veillonella_parvula|s__Actinomyces_graevenitzii|s__Actinomyces_odontolyticus|s__Rothia_mucilaginosa| | | | | | | | | | | | |
+|s__Veillonella_dispar|s__Bifidobacterium_adolescentis|13|4| | | | | | | | | | | | |
+|s__Veillonella_atypica|s__Collinsella_aerofaciens|s__Bacteroidales_bacterium_ph8|s__Ruminococcus_torques|s__Alistipes_putredinis| | | | | | | | | | | |
+|s__Clostridium_ramosum|s__Streptococcus_anginosus|s__Streptococcus_mutans|s__Streptococcus_infantis|12|5| | | | | | | | | | |
+|s__Streptococcus_salivarius|s__Streptococcus_parasanguinis|s__Faecalibacterium_prausnitzii|s__Streptococcus_vestibularis| | | | | | | | | | | | |
+|s__Anaerostipes_hadrus|s__Clostridium_leptum|Reductive TCA| |1|Amino acids biosynthesis|2|Carbohydrates biosynthesis|10| |710|3|Carbohydrates degradation|4|Cell structures biosynthesis| |
+|5|Cofactor biosynthesis|9|8|11|Other|12|Quinone biosynthesis|6|Fatty acid and lipid biosynthesis| | |7|Glycolysis|8|NAD metabolism|
+|9|Nucleoside and nucleotide biosynthesis|15|Vitamin biosynthesis| | | | | | | | | | | | |
+
+# Fig. 4 Cohort-specific species and pathway co-abundances.
+
+a Cohort-specific co-abundances identified for three key species in the IBD cohort, involving 33 IBD-specific co-abundances. Each dot indicates one species. Red indicates IBD key species. Each line represents one IBD-specific co-abundance relationship.
+
+b Cohort-specific co-abundances identified for four key pathways in IBD and one key pathway in 300OB, involving 385 cohort-specific co-abundances. Each line represents a cohort-specific correlation between two pathways. Yellow lines represent obesity-specific co-abundances. Grey lines represent IBD-specific co-abundances. Each dot indicates one pathway. Pathways belonging to the same metabolic category have the same colour and are clustered as sub-circles. Colour legends are shown in the plot.
+
+Interestingly, E. coli shows positive co-abundance relationships with biosynthesis in IBD that may promote the growth of other species with pro-inflammatory properties, like Streptococcus mutans, microorganisms. Indeed, our study also revealed E. coli as a key and negative co-abundance relationships with species with anti-inflammatory properties, like F. prausnitzii (Supplementary Data 1). 15 species (Supplementary Data 5). Of these, strong positive correlation was observed for inflammation-related Streptococcus species, including S. mutans (Fig. 5d). Accordingly, higher correlations were observed between menaquinone biosynthesis and Streptococcus vestibularis and Streptococcus infantis in IBD than in the other cohorts (Fig. 5e, Supplementary Data 12).
+
+Key IBD pathways included a C1 compound utilization and assimilation pathway (P23-PWY: reductive tricarboxylic acid (TCA) cycle I), two vitamin biosynthesis pathways (FOLSYN-PWY: superpathway of tetrahydrofolate biosynthesis and salvage and PWY-6612: superpathway of tetrahydrofolate biosynthesis) and an amino acid biosynthesis pathway (PWY-5505: L-glutamate and L-glutamine biosynthesis) (Fig. 4b, Supplementary Data 6). The top key functional pathway in IBD was the reductive TCA cycle pathway (P23-PWY), which had 76 IBD-specific co-abundances, and 94.7% of these were replicated in the iHMP-IBD cohort (Supplementary Data 3 and 6). The reductive TCA cycle is a carbon dioxide fixation pathway that has been recognized as a primordial pathway for the production of organic molecules for the biosynthesis of sugars, lipids, amino acids, pyrimidines and menaquinone (Fig. 5a). For instance, one IBD-specific co-abundance relationship was related to the biosynthesis of menaquinone (PWY-5837), which is also known as vitamin K2. The co-abundance relationship for this pathway in IBD (r = 0.1) was weaker than in other cohorts (r = 0.3) (Fig. 5b), despite the higher abundance of this pathway in IBD (FDR < 0.05, Fig. 5c, Supplementary Data 6).
+
+E. coli is known to be an important species for the biosynthesis of menaquinone, a growth-promoting factor for a variety of microorganisms in the gut microbiota. In line with this, we found that 18.8% of the menaquinone biosynthesis pathway in IBD patients was contributed by E. coli, two times higher than in the two population-based cohorts (Wilcoxon test P < 3.0 × 10−11; Supplementary Data 11). This finding suggests E. coli as an important contributor to menaquinone biosynthesis.
+
+Key pathways in obesity: When we compared microbial co-abundances in the 300OB to the other 3 cohorts, we identified 281.

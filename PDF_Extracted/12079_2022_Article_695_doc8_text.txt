@@ -1,0 +1,17 @@
+# Role of interleukin-6-mediated inflammation in the pathogenesis of inflammatory bowel disease
+
+# Table 1 Effective probiotics and natural compounds in treating colitis mice models
+
+|Compound|Outcomes|Ref.|
+|---|---|---|
+|Moringa oleifera|Restoration of the number of Bifidobacteria and Lactobacilli ↓ IL-6|Elabd et al. (2018)|
+|Ginger|↓ colitis-associated pathological alterations ↓ IL-6 mRNA expression ↓ Muribaculaceae Regulating the gut microbiome structure in DSS-induced colitis mice|Guo et al. (2021)|
+|Water-soluble garlic polysaccharide (WSGP)|↓ Colonic damage and levels of IL-6 in DSS-induced colitis mice models ↑ The production of SCFAs Enhancing the mucosal barriers and the gut microbiome composition|Shao et al. (2020)|
+|Butyrate|↓ The signs of colitis and improved colonic histological injury ↓ The expression of inflammatory cytokines such as IL-6 and increasing the expression of CCR9 ↑ MDSCs recruitment|Xiao et al. (2021)|
+|Dehydroepiandrosterone (DHEA)|↓ IL-1β, IL-6, and TNF-α Improving colon barrier integrity and modulated gut microbiota composition ↓ Inflammatory responses in the intestine|Cao et al. (2020)|
+|Evodiamine (EVO)|↓ Tumor formation ↓ Tumor cell proliferation ↑ Tumor cell apoptosis ↓ Escherichia coli and Enterococcus faecalis ↑ Lactobacillus, Campylobacter, and Bifidobacterium ↓ The IL-6/STAT3/P65 pathway|Zhu et al. (2021)|
+|Shenling Baizhu San (SLBZS)|Improving the function of the intestinal barrier and modulating the gut microbiome ↑ The number of Oscillospira and Prevotella, which produce SCFA ↓ The number of Bilophila and Desulfovibrio ↓ The expression of IL-6 and MPO|Gu et al. (2020)|
+|Resveratrol|Balancing the gut microbiota composition ↓ The production of IL-1β, IL-2, IL-6, TNF-α, IFN-γ, GM-CSF, and CXCL1 ↓ The number of Bilophila, Sutterella, Akkermansia, and Dorea ↑ The abundance of Bifidobacterium|Li et al. (2020)|
+|Polysaccharide (SP) extracted from Gracilaria Lemaneiformis|Recovering physical conditions of the studied mice ↓ Weight loss and suppressing appetite ↓ The release of IL-1β, IL-6, and TNF-α in inflamed colon tissue Improving the expression of tight junction proteins Enhancing the intestinal barrier|Han et al. (2020a, b)|
+|Egg white peptides (EWPs)|Regulating the content of microbiota ↑ The number of Candidatus Saccharimonas and Lactobacillus ↓ The number of Akkermansia and Ruminiclostridium ↓ IL-1β, IL-6, and TNF-α|Ge et al. (2021)|
+|Food incidental NPs|Modulating the composition of the gut microbiome ↑ The abundance of Alloprevotella, Muribaculaceae, and Alistipes ↓ The number of harmful spices such as Helicobacter Balancing the production of inflammatory cytokines such as IL-6|Wang et al. (2022)|

@@ -1,0 +1,45 @@
+# References
+
+1. Round JL, Mazmanian SK. The gut microbiota shapes intestinal immune responses during health and disease. Nat Rev Immunol. 2009;9:313-323.
+2. Zheng D, Liwinski T, Elinav E. Interaction between microbiota and immunity in health and disease. Cell Res. 2020;30:492-506.
+3. Hapfelmeier S, Lawson MA, Slack E, et al. Reversible microbial colonization of germ-free mice reveals the dynamics of IgA immune responses. Science. 2010;328:1705-1709.
+4. Gomez de Agüero M, Ganal-Vonarburg SC, Fuhrer T, et al. The maternal microbiota drives early postnatal innate immune development. Science. 2016;351:1296-1302.
+5. Gaboriau-Routhiau V, Rakotobe S, Lécuyer E, et al. The key role of segmented filamentous bacteria in the coordinated maturation of gut helper T cell responses. Immunity. 2009;31:677-689.
+6. Atarashi K, Tanoue T, Oshima K, et al. Treg induction by a rationally selected mixture of Clostridia strains from the human microbiota. Nature. 2013;500:232-236.
+7. Bhaskaran N, Quigley C, Paw C, et al. Role of short chain fatty acids in controlling T(regs) and immunopathology during mucosal infection. Front Microbiol. 2018;9:1995.
+8. Ivanov II, Frutos Rde L, Manel N, et al. Specific microbiota direct the differentiation of IL-17-producing T-helper cells in the mucosa of the small intestine. Cell Host Microbe. 2008;4:337-349.
+9. Niess JH, Leithäuser F, Adler G, et al. Commensal gut flora drives the expansion of proinflammatory CD4 T cells in the colonic lamina propria under normal and inflammatory conditions. J Immunol. 2008;180:559-568.
+10. Pandiyan P, Bhaskaran N, Zou M, et al. Microbiome dependent regulation of T(regs) and Th17 cells in mucosa. Front Immunol. 2019;10:426.
+11. Khan R, Petersen FC, Shekhar S. Commensal bacteria: an emerging player in defense against respiratory pathogens. Front Immunol. 2019;10:1203.
+12. Fabich AJ, Jones SA, Chowdhury FZ, et al. Comparison of carbon nutrition for pathogenic and commensal Escherichia coli strains in the mouse intestine. Infect Immun. 2008;76:1143-1152.
+13. Momose Y, Hirayama K, Itoh K. Competition for proline between indigenous Escherichia coli and E. coli O157:H7 in gnotobiotic mice associated with infant intestinal microbiota and its contribution to the colonization resistance against E. coli O157:H7. Antonie Van Leeuwenhoek. 2008;94:165-171.
+14. Maltby R, Leatham-Jensen MP, Gibson T, et al. Nutritional basis for colonization resistance by human commensal Escherichia coli strains HS and Nissle 1917 against E. coli O157:H7 in the mouse intestine. PLoS One. 2013;8:e53957.
+15. Cotter PD, Ross RP, Hill C. Bacteriocins—a viable alternative to antibiotics? Nat Rev Microbiol. 2013;11:95-105.
+16. Rea MC, Sit CS, Clayton E, et al. Thuricin CD, a posttranslationally modified bacteriocin with a narrow spectrum of activity against Clostridium difficile. Proc Natl Acad Sci USA. 2010;107:9352-9357.
+17. Perše M, Cerar A. Dextran sodium sulphate colitis mouse model: traps and tricks. J Biomed Biotechnol. 2012;2012:718617.
+18. Wirtz S, Popp V, Kindermann M, et al. Chemically induced mouse models of acute and chronic intestinal inflammation. Nature Protocols. 2017;12:1295-1309.
+19. Mizoguchi A. Animal models of inflammatory bowel disease. Prog Mol Biol Transl Sci. 2012;105:263-320.
+20. Okayasu I, Hatakeyama S, Yamada M, et al. A novel method in the induction of reliable experimental acute and chronic ulcerative colitis in mice. Gastroenterology. 1990;98:694-702.
+21. Low D, Nguyen DD, Mizoguchi E. Animal models of ulcerative colitis and their application in drug research. Drug Des Devel Ther. 2013;7:1341-1357.
+22. Elson CO, Beagley KW, Sharmanov AT, et al. Hapten-induced model of murine inflammatory bowel disease: mucosa immune responses and protection by tolerance. J Immunol. 1996;157:2174-2185.
+23. Motavallian-Naeini A, Andalib S, Rabbani M, et al. Validation and optimization of experimental colitis induction in rats using 2, 4, 6-trinitrobenzene sulfonic acid. Res Pharmaceut Sci. 2012;7:159-169.
+24. Kawada M, Arihiro A, Mizoguchi E. Insights from advances in research of chemically induced experimental models of human inflammatory bowel disease. World J Gastroenterol. 2007;13:5581-5593.
+25. Wang YH, Ge B, Yang XL, et al. Proanthocyanidins from grape seeds modulates the nuclear factor-kappa B signal transduction pathways in rats with TNBS-induced recurrent ulcerative colitis. Int Immunopharmacol. 2011;11:1620-1627.
+26. Liu Y, Wang X, Hu CA. Therapeutic potential of amino acids in inflammatory bowel disease. Nutrients. 2017;9:920.
+27. Randhawa PK, Singh K, Singh N, et al. A review on chemical-induced inflammatory bowel disease models in rodents. Korean J Physiol Pharmacol. 2014;18:279-288.
+28. Niu X, Fan T, Li W, et al. Protective effect of sanguinarine against acetic acid-induced ulcerative colitis in mice. Toxicol Appl Pharmacol. 2013;267:256-265.
+29. Hwang JH, Kim TH, Kim YH, et al. Gadd45β promotes regeneration after injury through TGFβ-dependent restitution in experimental colitis. Exp Mol Med. 2019;51:1-14.
+30. Wales AD, Woodward MJ, Pearson GR. Attaching-effacing bacteria in animals. J Comp Pathol. 2005;132:1-26.
+31. Mundy R, MacDonald TT, Dougan G, et al. Citrobacter rodentium of mice and man. Cell Microbiol. 2005;7:1697-1706.
+32. Silberger DJ, Zindl CL, Weaver CT. Citrobacter rodentium: a model enteropathogen for understanding the interplay of innate and adaptive components of type 3 immunity. Mucosal Immunol. 2017;10:1108-1117.
+33. Collins JW, Keeney KM, Crepin VF, et al. Citrobacter rodentium: infection, inflammation and the microbiota. Nat Rev Microbiol. 2014;12:612-623.
+34. Bhinder G, Sham HP, Chan JM, et al. The Citrobacter rodentium mouse model: studying pathogen and host contributions to infectious colitis. J Vis Exp. 2013;72:e50222.
+35. Nell S, Suerbaum S, Josenhans C. The impact of the microbiota on the pathogenesis of IBD: lessons from mouse infection models. Nat Rev Microbiol. 2010;8:564-577.
+36. Petty NK, Bulgin R, Crepin VF, et al. The Citrobacter rodentium genome sequence reveals convergent evolution with human pathogenic Escherichia coli. J Bacteriol. 2010;192:525-538.
+37. Borenshtein D, McBee ME, Schauer DB. Utility of the Citrobacter rodentium infection model in laboratory mice. Curr Opin Gastroenterol. 2008;24:32-37.
+38. Borenshtein D, Nambiar PR, Groff EB, et al. Development of fatal colitis in FVB mice infected with Citrobacter rodentium. Infect Immun. 2007;75:3271-3281.
+39. Goyal N, Rana A, Ahlawat A, et al. Animal models of inflammatory bowel disease: a review. Inflammopharmacology. 2014;22:219-233.
+40. Zhang Y, Jiang D, Jin Y, et al. Glycine attenuates citrobacter rodentium-induced colitis by regulating ATF6-mediated endoplasmic reticulum stress in mice. Mol Nutr Food Res. 2021;65:e2001065.
+41. Hou YC, Wu JM, Wang MY, et al. Glutamine supplementation attenuates expressions of adhesion molecules and chemokine receptors on T cells in a murine model of acute colitis. Mediators Inflamm. 2014;2014:837107.
+42. Chu CC, Hou YC, Pai MH, et al. Pretreatment with alanyl-glutamine suppresses T-helper-cell-associated cytokine expression and reduces inflammatory responses in mice with acute DSS-induced colitis. J Nutr Biochem. 2012;23:1092-1099.
+43. Nunes NS, Chandran P, Sundby M, et al. Therapeutic ultrasound attenuates DSS-induced colitis through the cholinergic anti-inflammatory pathway. EBioMedicine. 2019;45:495-510.

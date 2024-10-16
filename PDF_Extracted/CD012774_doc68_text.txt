@@ -1,0 +1,71 @@
+# Cochrane Library
+
+# Jitsumura 2022 (Continued)
+
+Trusted evidence. Informed decisions. Better health.
+
+# Cochrane Database of Systematic Reviews
+
+- Neurologic, neurodevelopmental, or neurodegenerative disorders
+- Depression (requiring therapy)
+- Obesity (BMI > 35)
+- Malignancy
+- Use of antibiotics for any indication within past 3 months
+- Foreign travel to areas with enteric disease prevalence within 3 months
+- High-risk sexual behavior (e.g. sexual contact with anyone with HIV/HTLV/AIDS or hepatitis B/C carrier, men who have sex with men)
+- Known exposure to HIV or hepatitis B/C
+- Current/previous use of injected drugs or intranasal cocaine
+- Tattoos, piercings, cosmetic botulinum toxin (Botox) or permanent makeup within 120 days (in line with Welsh Blood Transfusion guidelines)
+- Recent transfusion, transplant, or skin graft
+- Risk factors for variant Creutzfeldt-Jakob disease, e.g. blood transfusion or transplant after 1 January 1980
+
+# Interventions
+
+# Experimental arm
+
+• FMT administered by retention enema either once only (group 1) or on 5 consecutive days (group 2)
+
+# Control arm
+
+• Bowel purgatives and antibiotic preparation without active administration of FMT (group 3)
+
+# Outcomes
+
+# Primary outcomes
+
+- Remission of UC (mucosal healing; Mayo score ≤ 2 with Endoscopic Mayo score of 0) at week 12, as assessed by sigmoidoscopy, participants' response, Mayo scoring system
+- Successful engraftment of donor fecal microbiota at week 12 as analyzed by 16S sequencing
+
+# Secondary outcomes
+
+- Rate of recruitment of participants
+- Disease-specific severity scoring after treatment
+- Histologic grading of colitis severity after treatment
+- Mucosal immunologic response to treatment
+- Rate of development of adverse effects of FMT
+
+# Notes
+
+Protocol article available
+
+Study results available in an abstract but insufficient details to include study in analysis.
+
+NCT02272868
+
+# Methods
+
+RCT conducted in the US
+
+# Participants
+
+# Inclusion criteria
+
+- Children and adolescents ages 12–21 years
+- Diagnosis of CD by primary gastroenterologist, based on history, physical exam, laboratory/radiologic studies and gastrointestinal histology
+- Mild or moderate disease activity, based on PCDAI score (15–45)
+- Ability of parent/guardian and child participant to comprehend consent and assent in English; and to attend study visits at baseline, and weeks 2, 6, and 12
+- No changes in IBD medications for ≥ 1 month prior to enrollment
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

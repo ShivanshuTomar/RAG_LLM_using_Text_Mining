@@ -1,0 +1,23 @@
+# Minot and Willis
+
+# Microbiome (2019) 7:110
+
+# Page 4 of 10
+
+|A|B|
+|---|---|
+|1.5 r=0.36; p&lt;ZE-16 1.0 0.5 0.0 0.5 -1.5 -2.0|r20,3; P&lt;2E-16 7 0.5 0.5 1.5 2.0|
+
+|C|D|
+|---|---|
+|Estimated Coefficient - Discovery 0.8 r=0.21; p&lt;ZE-16 0.6 0.4|Estimated Coefficient - Discovery (=0.2; p&lt;ZE-16|
+
+| | |E| | | | | | |
+|---|---|---|---|---|---|---|---|---|
+| |PRMMCC| | | | | | | |
+| | |Study|Study|Study|Study| | | |
+|shimtz018| |Lendlols|Schunez018|Mlols| | | | |
+| | | | |44z017|Lcakzols|Halzo1z|Srermer018| |
+| | | | | | | |Halzolt| |
+
+Fig. 2 Reproducible association of CAG abundance with disease status for CRC (a, e) and IBD (b, f). The estimated coefficient plotted in a–d represents the log10 change in relative abundance associated with health (positive values) or disease (negative values), for each disease state. The estimated coefficient for the discovery dataset is on the horizontal axis, and the estimated coefficient for the validation dataset is on the vertical axis. The results from CAG-based analysis are shown in a and b, while the results calculated from unclustered gene-level abundances are shown in c and d. The abundance of four representative CAGs are shown in e and f across all available datasets, with colors indicating the health status associated with each sample.

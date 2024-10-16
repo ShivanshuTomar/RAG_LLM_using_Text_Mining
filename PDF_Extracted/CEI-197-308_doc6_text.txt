@@ -1,0 +1,9 @@
+# C. D. Moulton et al.
+
+# NEURO-IMMUNE INTERACTIONS: HOW THE NERVOUS AND IMMUNE SYSTEMS INFLUENCE EACH OTHER
+
+Fig. 1. Pathways towards an inflammatory depression and its adverse impacts in inflammatory bowel disease (IBD). In predisposed individuals – such as females, smokers and those experiencing early life stress – changes to the gut microbiome occur, which leads to exaggerated or adverse immune responses. The result is a vicious cycle of worsening inflammation, particularly through interleukin (IL)-6- and IL-1β-related pathways, which is associated with worsening gastrointestinal symptoms and depressive symptoms – an ‘inflammatory depression’ – exacerbated by psychological distress. The presence of depressive symptoms thereby denotes significant dysfunction of the gut–brain axis, leading to a worse course of IBD in these patients.
+
+RCTs of standard anti-depressants are needed to test both their potential, and limits, in both reducing inflammation and improving IBD outcomes. As well as patients with severe gut dysfunction, experiments should recruit people with different chronic disease.
+
+© 2019 British Society for Immunology, Clinical and Experimental Immunology, 197: 308–318

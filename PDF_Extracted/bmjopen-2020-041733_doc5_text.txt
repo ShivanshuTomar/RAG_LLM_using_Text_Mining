@@ -1,0 +1,56 @@
+# Open access
+
+# Table 3 Continued
+
+|Subgroup|Adults|
+|---|---|
+|Healthy controls|- Demographic Questionnaire
+- GI symptoms
+- PROMIS Scale 5a (GI Belly Pain)
+- PROMIS Scale 6a (GI Diarrhoea)
+- PROMIS Scale 9a (GI Constipation)
+- PROMIS Scale 13a (GI Gas and Bloating)
+- Leeds Dyspepsia Questionnaire
+- General quality of life
+- Euro Quality of Life
+|
+|Psychological|- Patient Health Questionnaire
+- PROMIS-29 (Physical Function, Anxiety, Depression, Fatigue, Sleep Disturbance, Pain Interference and Intensity)
+- GAD-7
+- Perceived Stress Scale
+- Adverse Childhood Experiences
+- Brief Resiliency Survey
+- Pain Catastrophising Scale
+|
+|Productivity|- Work Productivity and Activity Index
+|
+|Diet|- Food Frequency Questionnaire
+- FODMAP Questionnaire
+|
+
+# Paediatrics
+
+- Demographics (exclusions apply)
+- PedsQL GI Symptoms Scale (stomach pain and hurt; discomfort when eating; heartburn and reflux; nausea and vomiting; gas and bloating; constipation; blood in BM; diarrhoea; worry about stomachaches; worry about BM)—age 5–17
+- Euro Quality of Life Youth—age 8–15
+- Euro Quality of Life 5 Level—age 16+
+- PROMIS-25 (Physical Function Mobility; Anxiety; Depressive Symptoms; Fatigue; Peer Relations; Pain Interference)—age 5–17
+- Brief Resiliency Survey—age 12–17
+- Pain Catastrophising Scale—age 8–17
+- Revised Child Anxiety and Depression Scale—age 6–17
+- Food Frequency Questionnaire
+- FODMAP Questionnaire
+
+BM, bowel movement; CD, Crohn's disease; FODMAP, fermentable oligo-di-monosacharides and polyols; GI, gastrointestinal; IBD, inflammatory bowel disease; IBS, irritable bowel syndrome; PCDAI, Pediatric Crohn's Disease Activity Index; PedsQL, Pediatric Quality of Life Inventory; PROMIS, Patient-Reported Outcomes Measurement Information System; PUCAI, Paediatric Ulcerative Colitis Activity Index; UC, ulcerative colitis.
+
+The user questionnaires are available in the REDCap platform stored at a central database collection centre, PHRI, at McMaster University. Study staff will review surveys within 2 weeks of receipt and highlight any missing answers that suggest a problem in completing the survey. These issues will be discussed with the principal investigator, site lead and study team. The staff contact participants up to three times by phone email or in person at a regular study visit to remind them to complete questionnaires and to acquire answers to missing items.
+
+# Patient and public involvement
+
+The research proposed in IMAGINE was informed by patients. Patient perspectives were sought in identifying priorities for strategic research funding opportunities. Diet, researching the gut microbiome and mental health were initially identified as key priorities through this process. Through the Crohn’s and Colitis Canada (CCC) ‘Gutsy Learning Series’, these priorities were further defined with 289 lay participants in person and online with IBD who gave feedback on what they felt were the most important research topics, identifying faecal transplants, diet and mental health as key priorities. Furthermore, through a workshop organised by the Canadian Digestive Health Foundation (CDHF) prior to this IMAGINE SPOR application, a key message was that patients with IBS are concerned about using current pharmacological therapies to relieve their symptoms and prefer approaches that correct the imbalances they perceive to be the root cause of their disorder rather than taking drugs. Patients with IBS are concerned with the long-term use of powerful and sometimes expensive agents and would like more exploration of the factors that are driving the disease. One of the major areas this patient group wanted more research on was the role of diet and also the role that gut bacteria (and probiotics) play in driving IBS. There is remarkable congruence in the research priorities of the patient communities with IBD and IBS. The IMAGINE SPOR proposal was informed by these priorities and seeks to address them by exploring the diet-gut microbiome-relationship and how this influences GI and mental symptoms of IBS and IBD.
+
+IMAGINE patient research partners were involved in the development of the MAGIC demographic questionnaire. They also served to pilot test the online questionnaires and provide feedback on user experience and feasibility.
+
+IMAGINE patient partners have been directly involved with study design and recruitment of subjects in IMAGINE and will support capacity development for patient engagement more broadly. In-person interviews are being conducted by our patient partners to identify strategies.
+
+MoayyedifiP, et al. BMJ Open 2020;10:e041733. doi:10.1136/bmjopen-2020-041733

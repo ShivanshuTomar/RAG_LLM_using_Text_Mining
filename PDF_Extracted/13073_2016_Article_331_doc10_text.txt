@@ -1,0 +1,64 @@
+# Shaw et al. Genome Medicine (2016) 8:75
+
+contributed to the study. Our sample population had a median values after 10,000 rarefactions (subsamplings) of the closed-reference.biom table. (XLSX 46 kb)
+
+Additional file 2: Supplementary tables and figures. Contains supplementary tables and figures referenced in the paper. (DOCX 838 kb)
+
+Additional file 3: De novo and rarefy analysis. Contains a table that compares results from the generalized estimating equation (GEE) analysis performed in the paper (using closed-reference OTU picking) to de novo OTU picking and rarefied closed-reference approaches. (XLSX 10 kb)
+
+# Abbreviations
+
+AUC, area under the curve; CD, Crohn’s disease; GEE, generalized estimating equation; IBD, inflammatory bowel disease; OTU, operational taxonomic unit; PCDAI, Pediatric Crohn’s Disease Activity Index; PUCAI, Pediatric Ulcerative Colitis Activity Index; ROC, receiver operating characteristic; UC, ulcerative colitis
+
+# Funding
+
+The Marcus Foundation (to SK) primarily supported this work, with further support from DK087694 (SK) and DK098231 (SK). KAS received support from BWF training grant ID 1008188 and NIH NRSA F31DK107229.
+
+# Availability of data and materials
+
+The dataset supporting the conclusions of this article is available in the NCBI Sequence Read Archive (SRA) repository under accession ID SRP076281: http://www.ncbi.nlm.nih.gov/sra/SRP076281.
+
+# Authors’ contributions
+
+MB, TH, CS, RJX, and SK conceptualized the study; ADK, GAS, and JGM provided the methodology, KAS, PC, and TV the formal analysis, KAS, PC, and TV the investigation, and MB, TH, JP, AK, and SK the resources. KAS, MB, TH, PC, ADK, TV, JP, AK, JGM, and SK wrote the original draft, and all authors reviewed and edited it. KAS, TV, and AS provided visualization, JGM, RJX, and SK supervision, and SK funding acquisition. All authors read and approved the final manuscript.
+
+# Conclusions
+
+New findings
+
+- Markers of inflammation and dysbiosis are increased in IBD; microbial dysbiosis improves over time but persists despite cessation of clinical disease activity and mucosal healing among responders.
+- The dysbiosis index does associate with calprotectin, a measure of inflammation, but it does not distinguish treatment responders (those with mucosal healing) from non-responders.
+- Other microbiome signatures do emerge at the genus level and warrant further investigation.
+
+# Impact on clinical practice
+
+- Treatment-naïve analysis of the microbiome could potentially be used to predict whether a subject will respond to treatment.
+- Sustained and deep remission may require normalizing the gut dysbiosis.
+
+# Author details
+
+1Graduate Program in Genetics and Molecular Biology, Graduate Division of Biological and Biomedical Sciences, Emory University, Atlanta, GA 30322, USA.
+
+2 Department of Pediatrics, Emory University School of Medicine & Children’s Healthcare of Atlanta, 2015 Uppergate Drive, room 248, Atlanta, GA 30322, USA.
+
+3Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA.
+
+4 Department of Computer Science, Aalto University School of Science, 02150 Espoo, Finland.
+
+5 Department of Human Genetics, Emory University, Atlanta, GA 30322, USA.
+
+6 Centers for Disease Control and Prevention, Atlanta, GA 30341, USA.
+
+7Center for Computational and Integrative Biology, Massachusetts General Hospital and Harvard Medical School, Boston, MA.
+
+8 Department of Epidemiology, Rollins School of Public Health, Emory University, Atlanta, GA 30322, USA.
+
+# Additional files
+
+Additional file 1: Microbiome samples sequencing and analysis summary. Contains a table that summarizes total reads, reads passing QC, and reads successfully classified under closed and de novo OTU-picking approaches for each sample. Also provided are the dysbiosis and Shannon index values for samples under the aforementioned approaches.
+
+Received: 17 February 2016 Accepted: 1 July 2016 Published online: 13 July 2016
+
+# References
+
+1. Knights D, Silverberg MS, Weersma RK, Gevers D, Dijkstra G, Huang H, Tyler AD, van Sommeren S, Imhann F, Stempak JM, et al. Complex host genetics influence the microbiome in inflammatory bowel disease. Genome Med. 2014;6:107.

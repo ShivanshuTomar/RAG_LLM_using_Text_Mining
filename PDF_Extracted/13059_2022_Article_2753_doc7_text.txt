@@ -1,0 +1,91 @@
+# Ma et al. Genome Biology (2022) 23:208
+
+on biopsy samples), disease status (IBD/control), and disease types (CD/UC, con-
+
+ditional on IBD) consistently had the strongest effect on the microbiome among
+
+studies. Several relationships between study design and phenotypic effects were
+
+apparent. Batches had a particularly strong effect in CS-PRISM and RISK, for exam-
+
+ple, where biopsy and stool samples were also perfectly separated by batch. Treat-
+
+ment exposures all had small effects on microbiome structure within studies, which
+
+typically reached statistical significance only when combined by meta-analysis; anti-
+
+biotics were an exception with slightly larger effects. Montreal classification did not
+
+generally correspond with significant variation, while age (at sample collection as
+
+stratified below and above 18, and at diagnosis by Montreal age classification [44])
+
+had small but significant effects. The effects of gender and race were not significant.
+
+Lastly, for longitudinal studies, relatively stable differences between subjects over
+
+time were large and significant, consistently for both longer-interval (HMP2) as
+
+well as densely sampled cohorts (Herfarth, daily samples), in agreement with previous
+
+individual studies’ observations [9, 23].
+
+We identified individual taxonomic features consistently associated with disease and
+
+treatment variables (Fig. 3b, Additional file 6: Table S4), with meta-analysis multivari-
+
+ate differential abundance analysis (MMUPHin_MetaDA), adjusting for common demo-
+
+graphics (age, gender, race) and further stratifying for sample type and disease when
+
+appropriate (“Methods,” Additional file 5: Table S3). At a very high level, differential
+
+abundance patterns between CD and control microbiomes were consistent with, and
+
+often more severe than contrasts between UC and control, confirming with increased
+
+resolution previous observations that CD patients tend to have more aggravated dys-
+
+biosis than UC patients [9]. As expected, our meta-analysis confirms many of the taxa
+
+associated with IBD reported by previous individual studies (Fig. 3b, detailed in Addi-
+
+tional file 2: Supplemental Notes); they also agreed with important features as identified
+
+through other types of predictive, rather than hypothesis testing, machine learning mod-
+
+els (Additional file 1: Fig. S11 [45]. These findings agree with the emerging hypotheses of
+
+pro-inflammatory aerotolerant clades (e.g., Escherichia and other Enterobacteriaceae)
+
+forming a positive feedback loop in the gut during inflammation, often of oral origin
+
+[7] (e.g., Fusobacterium, Dialister, Veillonella), and depleting the gut’s typical fastidious
+
+anaerobe population as a result (primarily Ruminococcaceae, Lachnospiraceae, and other
+
+Clostridia and Firmicutes clades) [9].
+
+We also identified two taxa not previously associated with IBD, both of modest effect
+
+sizes and likely newly detected by the meta-analysis’ increased power. The genus Acine-
+
+tobacter was enriched in CD, and Turicibacter was depleted. Turicibater in particular
+
+is poorly represented in reference sequence databases, with only nine genomes for one
+
+species (Turicibacter sanguinis) currently in the NCBI genome database; this makes it
+
+easy to overlook in shotgun metagenomic profiles relative to amplicon sequencing. The
+
+genus Acinetobacter, conversely, is quite well characterized due to its role in antimicro-
+
+bial resistant infections [46], and it was previously linked specifically to the primary scle-
+
+rosing cholangitis phenotype in UC [47], although without follow-up to our knowledge.
+
+Turicibacter is overall less characterized both in isolation and with respect to disease,
+
+although our findings and others’ suggest it might be inflammation-sensitive when pre-
+
+sent; it was one of many clades increased in mice during CD8+ T cell depletion [48] and

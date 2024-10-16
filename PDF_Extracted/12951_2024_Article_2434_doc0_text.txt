@@ -1,0 +1,23 @@
+# Attenuation of inflammatory bowel disease by oral administration of mucoadhesive polydopamine-coated yeast β-glucan via ROS scavenging and gut microbiota regulation
+
+# Fan Yang1, Yuting Su1, Chi Yan1, Tianfeng Chen2 and Peter Chi Keung Cheung1*
+
+# Abstract
+
+Treatment for inflammatory bowel disease (IBD) is challenging since current anti-inflammatory and immunosuppressive therapies do not address the underlying causes of the illness, which include increased levels of reactive oxygen species (ROS) and dysbiosis of the gut commensal microbiota. Additionally, these treatments often have systemic off-target effects and adverse side effects. In this study, we have developed a prebiotic yeast β-glucan nanocomplex coated with bio-adhesive polydopamine (YBNs@PDA) to effectively prolong their retention time in the gastrointestinal (GI) tract. The oral administration of YBNs@PDA restored the epithelium barriers, reduced ROS levels, and minimized systemic drug exposure while improved therapeutic efficacy in an acute colitis mouse model. Furthermore, 16S ribosomal RNA genes sequencing demonstrated a higher richness and diversity in gut microflora composition following the treatments. In particular, YBNs@PDA markedly augmented the abundance of Lachnospiraceae NK4A136 and Bifidobacterium, both of which are probiotics with crucial roles in relieving colitis via retaining gut homeostasis. Cumulatively, these results demonstrate that the potential of YBNs@PDA as a novel drug-free, ROS-scavenging and gut microbiota regulation nanoplatform for the treatment of GI disorders.
+
+# Keywords
+
+Yeast β-glucan, Polydopamine, Reactive oxygen species, Adhesiveness, Gut microbiome, Colitis
+
+# Introduction
+
+Inflammatory bowel disease (IBD) encompasses a group of autoimmune illnesses characterized by persistent intestinal inflammation [1, 2]. The pathogenesis of the disease remains uncertain, with various factors being implicated, including immune response dysregulation, genetic predisposition, reactive oxygen species (ROS) generation, and gut microbiota dysbiosis [3–5]. The interaction between these factors contributes to the magnitude and duration of IBD, posing significant hurdles to the development of efficacious therapies [6]. Particularly, inflammatory cells infiltrate the intestinal mucosa in individuals with IBD. These cells are responsible for the production and release of significant quantities of cytokines that promote inflammation [7]. Intestinal inflammation and tissue damage are perpetuated by the presence of these cytokines owing to their connection to the overproduction of ROS by immune cells [8, 9]. Meanwhile, the gut microbiota can be affected by such chronic intestinal inflammation and ROS generation. ROS eventually generate harmless by-products that act as terminal electron acceptors to promote the growth of facultative.
+
+# Correspondence
+
+1School of Life Sciences, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
+2College of Chemistry and Materials Science, Jinan University, Guangzhou, China
+
+© The Author(s) 2024. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.

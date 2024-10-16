@@ -1,0 +1,36 @@
+# Cochrane Library
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Costello 2019 (Continued)
+
+# Risk of bias
+
+|Bias|Authors' judgement|Support for judgement|
+|---|---|---|
+|Random sequence generation (selection bias)|Low risk|Quote: "Accrued participants were randomized 1:1 using a computer-generated simple randomization algorithm (http://www.random.org) to receive either pooled donor stool FMT (dFMT) or autologous FMT (aFMT)." (page 157)|
+|Allocation concealment (selection bias)|Low risk|Quote: "The randomization and blinding procedure was conducted by nursing staff who were not present at FMT administration. The randomization record was kept in a separate document to the patient record and other study data such that participants and clinicians performing the procedures and assessing the primary and secondary end points were blinded to the therapy received." (page 158)|
+|Blinding of participants and personnel (performance bias)|Low risk|Quote: "The randomization and blinding procedure was conducted by nursing staff who were not present at FMT administration. The randomization record was kept in a separate document to the patient record and other study data such that participants and clinicians performing the procedures and assessing the primary and secondary end points were blinded to the therapy received." (page 158)|
+|Blinding of outcome assessment (detection bias)|Low risk|Quote: "The randomization and blinding procedure was conducted by nursing staff who were not present at FMT administration. The randomization record was kept in a separate document to the patient record and other study data such that participants and clinicians performing the procedures and assessing the primary and secondary end points were blinded to the therapy received." (page 158)|
+|Incomplete outcome data (attrition bias)|Low risk|Quote: "The primary and secondary outcomes at week 8 between treatment groups were assessed on an intention-to-treat basis." (page 161)|
+| | |Comment: 3/38 participants withdrew in experimental group and 1/35 withdrew in control group, so less than 10% were lost to follow-up in both groups (page 159); there were no major concerns related to attrition in this study.|
+|Selective reporting (reporting bias)|Low risk|Comment: all intended outcomes were reported in the paper. Trial was registered at www.anzctr.org.au (ACTRN12613000236796).|
+|Other bias|Low risk|Comment: no other risk of bias noted.|
+
+# Crothers 2021
+
+# Study characteristics
+
+|Methods|Single-center, double-blind RCT conducted in the US|
+|---|---|
+|Participants|Inclusion criteria|
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

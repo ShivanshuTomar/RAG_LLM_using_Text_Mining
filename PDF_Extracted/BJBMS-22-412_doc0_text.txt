@@ -1,0 +1,57 @@
+# BJBMS
+
+# RESEARCH ARTICLE
+
+# MICROBIOLOGY
+
+# Attributes of intestinal microbiota composition and their correlation with clinical primary non-response to anti-TNF-α agents in inflammatory bowel disease patients
+
+# Marfat Alatawy1,2, Hadba Al-Amrah3,5, Omar I. Saadah4,5*, Vito Annese6, Rashad Al-Hindi1,1,8, Hanan Alatawi1,2, Mahmoud Mosli1, Dikhnah Alshehri1,2, Ahmad Bahieldin1,7, Sherif Edris
+
+# ABSTRACT
+
+The largest microbial aggregation in the human body exists in the gastrointestinal tract. The microbiota in the host gastrointestinal tract comprises a diverse ecosystem, and the intestinal microbiota plays a key role in maintaining gut homeostasis. This study aims to examine whether the gut microbiota influence unresponsiveness to anti-TNF-α treatments in primary non-responder patients and consequently identify the responsible microbes as biomarkers of unresponsiveness. Stool samples were collected from a cohort of patients with an established diagnosis of IBD, either ulcerative colitis or Crohn’s disease, following completion of the induction phase of anti-TNF therapy. 16S rRNA sequencing analysis was used to examine the pattern of microbiota communities in fecal samples. The quality and quantity of fecal microbiota were compared in responder and primary non-responder IBD patients following anti-TNF-α therapy. As per our hypothesis, a difference in gut microbiome composition between the two patient subgroups was observed. A decreased abundance of short-chain fatty acid (SCFA)-producing bacteria, including Anaerostipes, Coprococcus, Lachnospira, Roseburia, and Ruminococcus, was detected in non-responsive patients, which was the hallmark of dysbiosis. Biomarkers of dysbiosis that were identified as predictors of clinical non-response included Klebsiella, Eubacteriaceae, RF32, Bifidobacterium animalis, and Muribaculaceae previously known as S24-7. Signature biomarkers showed dramatic alteration in the composition of gut microbiota in patients who demonstrated primary non-response to anti-TNF-α agents. Dysbiosis, with features including a dropped biodiversity, augmentation in opportunistic pathogenic microbiota, and a lack of SCFA-producing bacteria, is a prominent feature of the microbiome of primary non-responders to anti-TNF-α therapy.
+
+# KEYWORDS:
+
+Inflammatory bowel disease; non-responders; microbiota
+
+# INTRODUCTION
+
+Ulcerative colitis (UC) and Crohn’s disease (CD) are the primary subtypes of inflammatory bowel disease (IBD), found in individuals with genetic susceptibility subject to particular environmental conditions [1]. IBD is a chronic and relapsing inflammatory condition of the gastrointestinal tract that occurs following immune system dysregulation [2]. Common clinical symptoms of IBD are abdominal pain, diarrhea, weight loss, and bloody stools [3,4].
+
+One hundred trillion different microorganisms live in the human gut, including bacteria, viruses, fungi, and protozoa [5]. According to various molecular studies in a number of different cultures with various genetic profiles, more than 1000 species of microbiota colonize the gastrointestinal ecosystem, including Firmicutes, Bacteroidetes, Proteobacteria, and Actinobacteria [2,6].
+
+The intestinal microbiota performs a vital role in the degradation of indigestible carbohydrates to produce short-chain fatty acids (SCFAs) and is important for vitamins synthesis (Vitamin K, Vitamin B12, and folic acid), amino acids synthesis, and regulation of fat metabolism. All these processes are necessary for the preservation of intestinal barrier functions [7]. The phyla Firmicutes and Bacteroidetes use the indigestible carbohydrates to produce SCFAs with the cooperation of bacteria specialized in the process of oligosaccharide fermentation, such as Bifidobacteria [8].
+
+Bosn J Basic Med Sci. 2022;22(3):412-426
+
+©The Author(s) (2022). This work is licensed under a Creative Commons Attribution 4.0 International License
+
+# Author Information
+
+1Department of Biological Sciences, Faculty of Science, King Abdulaziz University, Jeddah, Saudi Arabia
+
+2Department of Biological Sciences, University College of Haqel, University of Tabuk, Tabuk, Saudi Arabia
+
+3Department of Internal Medicine, Faculty of Medicine, King Abdulaziz University, Jeddah, Saudi Arabia
+
+4Department of Pediatrics, Faculty of Medicine, King Abdulaziz University, Jeddah, Saudi Arabia
+
+5Inflammatory Bowel Disease Research Group, King Abdulaziz University, Jeddah, Saudi Arabia
+
+6Department of Internal Medicine, Fakeeh University Hospital, Dubai, United Arab Emirates
+
+7Department of Genetics, Ain Shams University, Cairo, Egypt
+
+8Princess Al Jawhara Albrahim Centre of Excellence in Research of Hereditary Disorders (PACER-HD), King Abdulaziz University, Jeddah, Saudi Arabia
+
+*Corresponding author: Omar I. Saadah, Department of Pediatrics, Faculty of Medicine, King Abdulaziz University, Administration Street, Jeddah, Saudi Arabia. E-mail: osaadah@kau.edu.sa
+
+DOI: https://doi.org/10.17305/bjbms.2021.6436
+
+Submitted: 08 August 2021/Accepted: 05 November 2021/Published online: 10 November 2021
+
+Conflicts of interest: The authors declare no conflicts of interest.
+
+Funding: The authors received no specific funding for this work.

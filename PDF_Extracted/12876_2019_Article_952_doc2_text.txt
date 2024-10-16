@@ -1,0 +1,21 @@
+# Cronin et al. BMC Gastroenterology (2019) 19:29
+
+# Patients with IBD
+
+# Patients ineligible
+
+|MWcd|I0|Fhysically active|Geographically|Outside BM range|Acute disease|Smokers|Declined|
+|---|---|---|---|---|---|---|---|
+|Face-to-face screening|Eligible patients|n = 13 complete exercise phase|Control group|Exercise group|Control group|Exercise group|Control group|
+
+Fig. 1 Study outline indicating the number of participants at each stage of the study and reasons for exclusion from the trial
+
+Also excluded. Patients with a history of total colectomy were excluded.
+
+Provided eligibility was met, patients were then required to attend a face-to-face screening visit at the study site (Department of Medicine, Cork University Hospital, Ireland). Here, patients underwent further screening and a medical evaluation to ensure safe participation in the exercise program using an adapted version of the American College of Sports Medicine’s safe participation questionnaire [13]. Past or current medical history of co-morbidities such as cardiovascular disease or diabetes mellitus excluded patients from participation.
+
+# Intervention and control
+
+Patients randomized to the control phase of the study were instructed to maintain usual levels of physical activity (none or low) for the eight-week period. Participants assigned to the exercise arm of the study, primarily or following cross-over, participated in the same 8-week combined aerobic and resistance training program. This exercise was moderate in intensity and progressive, based on the couch to 5 km training programs. Participants received free gymnasium membership at the Mardyke Arena at University College Cork, Ireland, for the duration of the exercise intervention period and were required to attend three times per week for eight weeks. Before commencement, participants were familiarized with the training program during a 90-min induction session with a study-specific gym instructor. This included demonstration and practice with all aerobic and resistance training equipment. Practical support was provided for participants throughout by the designated gym staff and study investigators. Each participant was measured for individual differences in range of motion on the resistance training machines. The gym instructor observed the patients using the machines and provided correction and feedback where necessary. For resistance machines, one repetition maximum (1RM) values were calculated using the Brzycki formula [14].
+
+The outline of the exercise program used is identical to that described by the authors previously [15]. Volunteers were reminded of the desired intensities on each of their weekly exercise training program print-outs. Likewise, compliance with the prescribed exercise program was reviewed remotely by investigators using the FitLinxx® activity monitoring system (Shelton, Connecticut, USA) as outlined previously [15]. Prior to study commencement, the gym facility’s FitLinxx® software and hardware was re-calibrated and regularly maintained throughout.

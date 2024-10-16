@@ -1,0 +1,40 @@
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+a Downgraded one level for risk of bias. One study addressed induction of clinical remission and maintenance of clinical remission (Haifer 2022). The portion of maintenance of remission was open-label and there was significant attrition for this portion of the study.
+
+b Downgraded one level for inconsistency. The magnitude of effect differed widely between the two studies. I2 = 72%.
+
+c Downgraded two levels for imprecision. The number of events was small and the CIs around the summary estimate were very wide.
+
+d Downgraded one level for risk of bias. One study was open-label and had significant attrition when FMT was used for maintenance of remission, so the assessment of risk of serious adverse events could have been biased (Haifer 2022).
+
+e Downgraded two levels for very serious imprecision. There were no events in either study.
+
+f Downgraded one level for risk of bias. One study was open-label and had significant attrition when FMT was used for maintenance of remission, so the assessment of risk of adverse events could have been biased (Haifer 2022).
+
+g Downgraded two levels for severe imprecision. The CIs around the summary estimate were very wide.
+
+h Downgraded one level for risk of bias. One study was open-label and had significant attrition when FMT was used for maintenance of endoscopic remission.
+
+i Not downgraded for inconsistency as both studies had an effect in favor of the intervention.
+
+j Downgraded two levels for very serious imprecision. The number of events was small and CIs around the summary estimate were very wide.
+
+k Downgraded two levels for very serious imprecision. There was a low number of participants (10) and the CIs around the summary estimate were very wide.
+
+# Summary of findings 3. Fecal microbiota transplantation compared to control for induction of remission in Crohn disease
+
+Patient or population: people with active CD
+
+Setting: inpatient or outpatient
+
+Intervention: FMT
+
+Comparison: control
+
+|Outcomes|Anticipated absolute effects*|Relative effect|№ of participants (studies)|Certainty of the evidence (GRADE)|What happens|
+|---|---|---|---|---|---|
+|Induction of clinical remission in CD|—|—|Not estimable (0 studies)|—|No study reported data on use of FMT for induction of clinical remission in CD.|
+|Serious adverse events with use of FMT for induction of remission in CD|—|—|Not estimable (0 studies)|—|No study reported data for serious adverse events when FMT was used for induction of remission in CD.|
+|Any adverse events with use of FMT for induction of remission in CD|—|—|Not estimable (0 studies)|—|No study reported data for any adverse events when FMT was used for induction of remission in CD.|
+|Induction of endoscopic remission in CD|—|—|Not estimable (0 studies)|—|No study reported data on use of FMT for induction of endoscopic remission in CD.|

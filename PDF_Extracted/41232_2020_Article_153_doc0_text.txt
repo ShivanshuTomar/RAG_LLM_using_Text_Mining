@@ -1,0 +1,31 @@
+# Bacteriotherapy for inflammatory bowel disease
+
+# Yusuke Yoshimatsu, Yohei Mikami and Takanori Kanai*
+
+# Abstract
+
+The number of patients with inflammatory bowel disease is rapidly increasing in developed countries. The main cause of this increase is thought not to be genetic, but secondary to rapidly modernized environmental change. Changes in the environment have been detrimental to enteric probiotics useful for fermentation, inducing an increase in pathobionts that survive by means other than fermentation. This dysregulated microbiota composition, the so-called dysbiosis, is believed to have increased the incidence of inflammatory bowel disease. Bacteriotherapy, a treatment that prophylactically and therapeutically corrects the composition of disturbed intestinal microbiota, is a promising recent development. In fact, fecal microbiome transplantation for recurrent Clostridioides difficile infection in 2013 was a significant contribution for bacteriotherapy. In this paper, we comprehensively review bacteriotherapy in an easy-to-understand format.
+
+# Keywords
+
+Dysbiosis, Clostridioides (Clostridium) difficile infection, Fecal microbiome transplantation, Prebiotics, Probiotics, Bacteriotherapy
+
+# Highlights
+
+- Dysbiosis is considered as one of the major causes of intestinal diseases and beyond.
+- FMT is an alternative treatment option for patients with rCDI.
+- Bacteriotherapies are studied for the treatment of intestinal dysbiosis.
+
+# Introduction
+
+Humans have consistently consumed fermented food for a long time. Fermenters, types of bacteria known as "probiotics," allowed the invention of fermented food. It is thought that fermented foods were initially developed as a means of protecting food from corruption, but not for the purpose of health maintenance, disease prevention, or treatment. In 1911, the Russian immunologist Metchnikoff advocated probiotics’ agelessness theory that health could be enhanced and senility delayed by manipulating the intestinal microbiome with host-friendly bacteria found in yogurt because Bulgarians who consumed large amounts of yogurt had long life spans [1]. Fermentation was a prototypical example of the symbiotic relationship between humans and the gut microbiome, further forming a beneficial intestinal environment, including barrier function and immunity [2–7]. However, these symbiotic ties have gradually grown weaker since the invention of the antibiotic penicillin. Additionally, humans invented what was considered a “magical box” at the time, the refrigerator. The refrigerator enabled longer food preservation without any complex preparation and subsequently reduced the consumption of fermented food. Decreased fermented food intake was linked to decreased intake of dietary fibers, while concurrently, the intake of animal fat and protein gained popularity in developed countries.
+
+Over the last several decades, there has been a health boom in developed countries, and consumption of fermented foods, such as yogurt, has again grown in popularity. However, there is insufficient evidence to prove the beneficial effects of “health foods” including prebiotic or probiotic foods. Prebiotics are a rich source of fibers and natural sugars and harbor beneficial bacteria.
+
+# Correspondence
+
+* Correspondence: takagast@z2.keio.jp
+
+Division of Gastroenterology and Hepatology, Department of Internal Medicine, Keio University School of Medicine, 35 Shinanomachi, Shinjuku-ku, Tokyo 160-8582, Japan
+
+© The Author(s). 2021 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.

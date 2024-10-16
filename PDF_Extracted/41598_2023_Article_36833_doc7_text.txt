@@ -1,0 +1,50 @@
+# Ontology Summary
+
+|ONTOLOGY|ID|Description|p.adjust|Count|
+|---|---|---|---|---|
+|BP|GO:0030593|Neutrophil chemotaxis|&lt; 0.001|5|
+|BP|GO:1990266|Neutrophil migration|&lt; 0.001|5|
+|BP|GO:0071621|Granulocyte chemotaxis|&lt; 0.001|5|
+|BP|GO:0097530|Granulocyte migration|&lt; 0.001|5|
+|BP|GO:0032496|Response to lipopolysaccharide|&lt; 0.001|6|
+|BP|GO:0002237|Response to molecule of bacterial origin|&lt; 0.001|6|
+|BP|GO:0002544|Chronic inflammatory response|&lt; 0.001|3|
+|BP|GO:0051651|Maintenance of location in cell|&lt; 0.001|5|
+|BP|GO:0030595|Leukocyte chemotaxis|&lt; 0.001|5|
+|BP|GO:0097529|Myeloid leukocyte migration|&lt; 0.001|5|
+|CC|GO:0062023|collagen-Containing extracellular matrix|0.003|4|
+|CC|GO:0009897|external side of plasma membrane|0.003|4|
+|CC|GO:0101002|Ficolin-1-rich granule|0.003|3|
+|CC|GO:0034774|Secretory granule lumen|0.008|3|
+|CC|GO:0060205|Cytoplasmic vesicle lumen|0.008|3|
+|CC|GO:0031983|Vesicle lumen|0.008|3|
+|CC|GO:0016605|PML body|0.011|2|
+|CC|GO:1904813|Ficolin-1-rich granule lumen|0.014|2|
+|CC|GO:0070820|Tertiary granule|0.021|2|
+|CC|GO:1905370|Serine-type endopeptidase complex|0.034|1|
+|MF|GO:0008009|Chemokine activity|&lt; 0.001|3|
+|MF|GO:0042379|Chemokine receptor binding|&lt; 0.001|3|
+|MF|GO:0050786|RAGE receptor binding|&lt; 0.001|2|
+|MF|GO:0035325|Toll-like receptor binding|&lt; 0.001|2|
+|MF|GO:0001664|G protein-coupled receptor binding|&lt; 0.001|4|
+|MF|GO:0045236|CXCR chemokine receptor binding|&lt; 0.001|2|
+|MF|GO:0036041|Long-chain fatty acid binding|&lt; 0.001|2|
+|MF|GO:0031406|Carboxylic acid binding|0.003|3|
+|MF|GO:0043177|Organic acid binding|0.004|3|
+|MF|GO:0005504|Fatty acid binding|0.004|2|
+
+# Table 2. GO enrichment summary.
+
+|ID|Description|p.adjust|qvalue|Count|
+|---|---|---|---|---|
+|hsa04657|IL-17 signaling pathway|&lt; 0.001|&lt; 0.001|4|
+|hsa04061|Viral protein interaction with cytokine and cytokine receptor|0.006|0.005|3|
+|hsa05340|Primary immunodeficiency|0.016|0.012|2|
+|hsa04062|Chemokine signaling pathway|0.021|0.015|3|
+|hsa04662|B cell receptor signaling pathway|0.045|0.034|2|
+|hsa04060|Cytokine-cytokine receptor interaction|0.046|0.034|3|
+|hsa04620|Toll-like receptor signaling pathway|0.049|0.036|2|
+
+# Table 3. KEGG enrichment summary.
+
+Expression difference, while DUOX2 had a low expression difference (Fig. 6F); CXCL10, DUOX2, and CCL18 expressed fair discriminative efficiency (AUC > 0.7) (Fig. 6J). In the CD dataset, CXCL10, DUOX2, and CCL18 had high expression difference (Fig. 6G); CXCL10, DUOX2, and CCL18 expressed fair discriminative efficiency (AUC > 0.7) (Fig. 6K). In the UC dataset, CXCL10, DUOX2, and CCL18 had high expression difference (Fig. 6H); CXCL10, DUOX2, and CCL18 expressed fair discriminative efficiency (AUC > 0.7) (Fig. 6L). In the RA validation set, CXCL10 and CCL18 showed high expression difference, whereas DUOX2 showed no significant difference (Fig. 6I); CXCL10 and CCL18 expressed fair diagnostic efficiency (AUC > 0.7), whereas DUOX2 expressed poor discriminative efficiency (AUC < 0.7) (Fig. 6M). The shared specific genes in RA and IBD were selected as those with significant differences (P < 0.05) and AUC values of > 0.7 in all datasets for further analysis (CXCL10 and CCL18).

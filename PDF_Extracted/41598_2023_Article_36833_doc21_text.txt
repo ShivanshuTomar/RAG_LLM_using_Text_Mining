@@ -1,0 +1,51 @@
+# References
+
+1. Hänzelmann, S., Castelo, R. & Guinney, J. GSVA: Gene set variation analysis for microarray and RNA-seq data. BMC Bioinform. 14, 7. https://doi.org/10.1186/1471-2105-14-7 (2013).
+2. R. C. Team. R: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing, Vienna, Austria (2023). https://www.R-project.org/.
+3. Kanehisa, M. & Goto, S. KEGG: Kyoto encyclopedia of genes and genomes. Nucleic Acids Res. 28(1), 27–30. https://doi.org/10.1093/nar/28.1.27 (2000).
+4. Gao, J. et al. Role of chemokine (C-X-C Motif) ligand 10 (CXCL10) in renal diseases. Mediat. Inflamm. 2020, 6194864. https://doi.org/10.1155/2020/6194864 (2020).
+5. Antonelli, A. et al. CXCR3, CXCL10 and type 1 diabetes. Cytokine Growth Factor Rev. 25(1), 57–65. https://doi.org/10.1016/j.cytogfr.2014.01.006 (2014).
+6. Shibahara, T. et al. Characterization of epithelial chemoattractants for human intestinal intraepithelial lymphocytes. Gastroenterology 120(1), 60–70. https://doi.org/10.1053/gast.2001.20904 (2001).
+7. Dwinell, M. B. et al. Regulated production of interferon-inducible T-cell chemoattractants by human intestinal epithelial cells. Gastroenterology 120(1), 49–59. https://doi.org/10.1053/gast.2001.20914 (2001).
+8. Singh, U. P. et al. Inhibition of IFN-gamma-inducible protein-10 abrogates colitis in IL-10-/- mice. J. Immunol. 171(3), 1401–1406. https://doi.org/10.4049/jimmunol.171.3.1401 (2003).
+9. Hyun, J. G. et al. Anti-interferon-inducible chemokine, CXCL10, reduces colitis by impairing T helper-1 induction and recruitment in mice. Inflamm. Bowel Dis. 11(9), 799–805. https://doi.org/10.1097/01.mib.0000178263.34099.89 (2005).
+10. Patel, D. D., Zachariah, J. P. & Whichard, L. P. CXCR3 and CCR5 ligands in rheumatoid arthritis synovium. Clin. Immunol. 98(1), 39–45. https://doi.org/10.1006/clim.2000.4957 (2001).
+11. Gao, J. et al. Bone marrow mesenchymal stem cells improve bone erosion in collagen-induced arthritis by inhibiting osteoclasia-related factors and differentiating into chondrocytes. Stem Cell Res. Ther. 11(1), 171. https://doi.org/10.1186/s13287-020-01684-w (2020).
+12. Singh, K. P. et al. Intrahepatic CXCL10 is strongly associated with liver fibrosis in HIV-Hepatitis B co-infection. PLoS Pathog. 16(9), e1008744. https://doi.org/10.1371/journal.ppat.1008744 (2020).
+13. Trivedi, P. J. & Adams, D. H. Chemokines and chemokine receptors as therapeutic targets in inflammatory bowel disease; Pitfalls and Promise. J. Crohns Colitis. 12(suppl_2), S641-s652. https://doi.org/10.1093/ecco-jcc/jjx145 (2018).
+14. Yellin, M. et al. A phase II, randomized, double-blind, placebo-controlled study evaluating the efficacy and safety of MDX-1100, a fully human anti-CXCL10 monoclonal antibody, in combination with methotrexate in patients with rheumatoid arthritis. Arthritis Rheum. 64(6), 1730–1739. https://doi.org/10.1002/art.34330 (2012).
+15. Catrina, A. I., Deane, K. D. & Scher, J. U. Gene, environment, microbiome and mucosal immune tolerance in rheumatoid arthritis. Rheumatology (Oxford) 55(3), 391–402. https://doi.org/10.1093/rheumatology/keu469 (2016).
+16. Scher, J. U. et al. The lung microbiota in early rheumatoid arthritis and autoimmunity. Microbiome. 4(1), 60. https://doi.org/10.1186/s40168-016-0206-x (2016).
+17. Ménard, S. et al. Lactic acid bacteria secrete metabolites retaining anti-inflammatory properties after intestinal transport. Gut 53(6), 821–828. https://doi.org/10.1136/gut.2003.026252 (2004).
+18. Nagao-Kitamoto, H. & Kamada, N. Host-microbial cross-talk in inflammatory bowel disease. Immune Netw. 17(1), 1–12. https://doi.org/10.4110/in.2017.17.1.1 (2017).
+19. Akram, M. Citric acid cycle and role of its intermediates in metabolism. Cell Biochem. Biophys. 68(3), 475–478. https://doi.org/10.1007/s12013-013-9750-1 (2014).
+20. Harber, K. J. et al. Succinate is an inflammation-induced immunoregulatory metabolite in macrophages. Metabolites https://doi.org/10.3390/metabo10090372 (2020).
+21. Basri, F. et al. CD1d deficiency limits tolerogenic properties of peritoneal macrophages. BMB Rep. 54(4), 209–214. https://doi.org/10.5483/BMBRep.2021.54.4.183 (2021).
+22. Roberts, C. A., Dickinson, A. K. & Taams, L. S. The interplay between monocytes/macrophages and CD4(+) T cell subsets in rheumatoid arthritis. Front. Immunol. 6, 571. https://doi.org/10.3389/fimmu.2015.00571 (2015).
+23. Rana, A. K. et al. Monocytes in rheumatoid arthritis: Circulating precursors of macrophages and osteoclasts and their heterogeneity and plasticity role in RA pathogenesis. Int. Immunopharmacol. 65, 348–359. https://doi.org/10.1016/j.intimp.2018.10.016 (2018).
+24. Hedl, M. & Abraham, C. Distinct roles for Nod2 protein and autocrine interleukin-1beta in muramyl dipeptide-induced mitogen-activated protein kinase activation and cytokine secretion in human macrophages. J. Biol. Chem. 286(30), 26440–26449. https://doi.org/10.1074/jbc.M111.237495 (2011).
+25. Lassen, K. G. et al. Genetic coding variant in GPR65 alters lysosomal pH and links lysosomal dysfunction with colitis risk. Immunity 44(6), 1392–1405. https://doi.org/10.1016/j.immuni.2016.05.007 (2016).
+26. Baumgart, D. C. & Carding, S. R. Inflammatory bowel disease: Cause and immunobiology. Lancet 369(9573), 1627–1640. https://doi.org/10.1016/s0140-6736(07)60750-8 (2007).
+27. Domínguez Conde, C. & Teichmann, S. A. Deciphering immunity at high plexity and resolution. Nat. Rev. Immunol. 20(2), 77–78. https://doi.org/10.1038/s41577-019-0254-0 (2020).
+28. Zhu, W. et al. Disequilibrium of M1 and M2 macrophages correlates with the development of experimental inflammatory bowel diseases. Immunol. Investig. 43(7), 638–652. https://doi.org/10.3109/08820139.2014.909456 (2014).
+29. Tisza, M. J. & Buck, C. B. A catalog of tens of thousands of viruses from human metagenomes reveals hidden associations with chronic diseases. Proc. Natl. Acad. Sci. U. S. A. https://doi.org/10.1073/pnas.2023202118 (2021).
+
+# Author contributions
+
+Y.G.: Methodology, investigation, writing-original draft, writing – review & editing, software, visualization.
+
+Y.Z.: Methodology, investigation.
+
+Y.W.: Conceptualization, supervision, writing—review and editing.
+
+# Funding
+
+This work was supported by the National Natural Science Foundation of China (Grant numbers 81973769) and Postgraduate Research & Practice Innovation Program of Jiangsu Province (Grant numbers KYCX22_1941).
+
+# Competing interests
+
+The authors declare no competing interests.
+
+# Additional information
+
+The online version contains supplementary material available at https://doi.org/10.1038/s41598-023-36833-7.

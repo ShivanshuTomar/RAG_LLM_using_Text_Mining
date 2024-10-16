@@ -1,0 +1,83 @@
+# Amrisha Bhosle et al
+
+# Molecular Systems Biology
+
+Lavelle A, Sokol H (2020) Gut microbiota-derived metabolites as key actors in inflammatory bowel disease. Nat Rev Gastroenterol Hepatol 17:223–237
+
+Lavoie S, Chun E, Bae S, Brennan CA, Gallini Comeau CA, Lang JK, Michaud M, Hoveyda HR, Fraser GL, Fuller MH et al (2020) Expression of free fatty acid receptor 2 by dendritic cells prevents their expression of interleukin 27 and is required for maintenance of mucosal barrier and immune response against colorectal tumors in mice. Gastroenterology 158:1359–1372.e1359
+
+Law CW, Chen Y, Shi W, Smyth GK (2014) voom: precision weights unlock linear model analysis tools for RNA-seq read counts. Genome Biol 15:R29
+
+Li G, Lin J, Zhang C, Gao H, Lu H, Gao X, Zhu R, Li Z, Li M, Liu Z (2021) Microbiota metabolite butyrate constrains neutrophil functions and ameliorates mucosal inflammation in inflammatory bowel disease. Gut Microbes 13:1968257
+
+Lloyd-Price J, Arze C, Ananthakrishnan AN, Schirmer M, Avila-Pacheco J, Poon TW, Andrews E, Ajami NJ, Bonham KS, Brislawn CJ et al (2019) Multi-omics of the gut microbial ecosystem in inflammatory bowel diseases. Nature 569:655–662
+
+Mallick H, Rahnavard A, McIver LJ, Ma S, Zhang Y, Nguyen LH, Tickle TL, Weingart G, Ren B, Schwager EH et al (2021) Multivariable association discovery in population-scale meta-omics studies. PLoS Comput Biol 17:e1009442
+
+Marcobal A, Kashyap PC, Nelson TA, Aronov PA, Donia MS, Spormann A, Fischbach MA, Sonnenburg JL (2013) A metabolomic view of how the human gut microbiota impacts the host metabolome using humanized and gnotobiotic mice. ISME J 7:1933–1943
+
+Maslowski KM, Vieira AT, Ng A, Kranich J, Sierro F, Yu D, Schilter HC, Rolph MS, Mackay F, Artis D et al (2009) Regulation of inflammatory responses by gut microbiota and chemoattractant receptor GPR43. Nature 461:1282–1286
+
+McCarville JL, Chen GY, Cuevas VD, Troha K, Ayres JS (2020) Microbiota metabolites in health and disease. Annu Rev Immunol 38:147–170
+
+Meier KHU, Trouillon J, Li H, Lang M, Fuhrer T, Zamboni N, Sunagawa S, Macpherson AJ, Sauer U (2023) Metabolic landscape of the male mouse gut identifies different niches determined by microbial activities. Nat Metab 5:968–980
+
+Menni C, Zhu J, Le Roy CI, Mompeo O, Young K, Rebholz CM, Selvin E, North KE, Mohney RP, Bell JT et al (2020) Serum metabolites reflecting gut microbiome alpha diversity predict type 2 diabetes. Gut Microbes 11:1632–1642
+
+Mock A, Warta R, Dettling S, Brors B, Jager D, Herold-Mende C (2018) MetaboDiff: an R package for differential metabolomic analysis. Bioinformatics 34:3417–3418
+
+Murray KE, Shaw KJ, Adams RF, Conway PL (1993) Presence of N-acyl and acetoxy derivatives of putrescine and cadaverine in the human gut. Gut 34:489–493
+
+Naake T, Fernie AR (2019) MetNet: metabolite network prediction from high-resolution mass spectrometry data in R aiding metabolite annotation. Anal Chem 91:1768–1772
+
+Nobles CL, Green SI, Maresso AW (2013) A product of heme catabolism modulates bacterial function and survival. PLoS Pathog 9:e1003507
+
+North BV, Curtis D, Sham PC (2002) A note on the calculation of empirical P values from Monte Carlo procedures. Am J Hum Genet 71:439–441
+
+Ott SJ, Musfeldt M, Wenderoth DF, Hampe J, Brant O, Folsch UR, Timmis KN, Schreiber S (2004) Reduction in diversity of the colonic mucosa associated bacterial microflora in patients with active inflammatory bowel disease. Gut 53:685–693
+
+Paik D, Yao L, Zhang Y, Bae S, D’Agostino GD, Zhang M, Kim E, Franzosa EA, Avila-Pacheco J, Bisanz JE et al (2022) Human gut bacteria produce Tau(Eta) 17-modulating bile acid metabolites. Nature 603:907–912
+
+Pham TX, Bae M, Kim MB, Lee Y, Hu S, Kang H, Park YK, Lee JY (2019) Nicotinamide riboside, an NAD+ precursor, attenuates the development of liver fibrosis in a diet-induced mouse model of liver fibrosis. Biochim Biophys Acta Mol Basis Dis 1865:2451–2463
+
+Quinn RA, Adem S, Mills RH, Comstock W, DeRight Goldasich L, Humphrey G, Aksenov AA, Melnik AV, da Silva R, Ackermann G et al (2019) Neutrophilic proteolysis in the cystic fibrosis lung correlates with a pathogenic microbiome. Microbiome 7:23
+
+Quinn RA, Melnik AV, Vrbanac A, Fu T, Patras KA, Christy MP, Bodai Z, Belda-Ferre P, Tripathi A, Chung LK et al (2020) Global chemical effects of the microbiome include new bile-acid conjugations. Nature 579:123–129
+
+Rajman L, Chwalek K, Sinclair DA (2018) Therapeutic potential of NAD-boosting molecules: the in vivo evidence. Cell Metab 27:529–547
+
+Ritchie ME, Phipson B, Wu D, Hu Y, Law CW, Shi W, Smyth GK (2015) limma powers differential expression analyses for RNA-sequencing and microarray studies. Nucleic Acids Res 43:e47
+
+Rosenberg E, Zilber-Rosenberg I (2018) The hologenome concept of evolution after 10 years. Microbiome 6:78
+
+Rowland I, Gibson G, Heinken A, Scott K, Swann J, Thiele I, Tuohy K (2018) Gut microbiota functions: metabolism of nutrients and other food components. Eur J Nutr 57:1–24
+
+Saito Y, Sato T, Nomoto K, Tsuji H (2018) Identification of phenol- and p-cresol-producing intestinal bacteria by using media supplemented with tyrosine and its metabolites. FEMS Microbiol Ecol 94:fiy125
+
+Scott SA, Fu J, Chang PV (2020) Microbial tryptophan metabolites regulate gut barrier function via the aryl hydrocarbon receptor. Proc Natl Acad Sci USA 117:19376–19387
+
+Scrucca L, Fop M, Murphy TB, Raftery AE (2016) mclust 5: clustering, classification and density estimation using Gaussian finite mixture models. R J 8:289–317
+
+Shats I, Williams JG, Liu J, Makarov MV, Wu X, Lih FB, Deterding LJ, Lim C, Xu X, Randall TA et al (2020) Bacteria boost mammalian host NAD metabolism by engaging the deamidated biosynthesis pathway. Cell Metab 31:564–579.e567
+
+Shiels RG, Vidimce J, Pearson AG, Matthews B, Wagner KH, Battle AR, Sakellaris H, Bulmer AC (2019) Unprecedented microbial conversion of biliverdin into bilirubin-10-sulfonate. Sci Rep 9:2988
+
+Skupsky J, Sabui S, Hwang M, Nakasaki M, Cahalan MD, Said HM (2020) Biotin supplementation ameliorates murine colitis by preventing NF-kappaB activation. Cell Mol Gastroenterol Hepatol 9:557–567
+
+Smith PM, Howitt MR, Panikov N, Michaud M, Gallini CA, Bohlooly YM, Glickman JN, Garrett WS (2013) The microbial metabolites, short-chain fatty acids, regulate colonic Treg cell homeostasis. Science 341:569–573
+
+Smith SA, Ogawa SA, Chau L, Whelan KA, Hamilton KE, Chen J, Tan L, Chen EZ, Keilbaugh S, Fogt F et al (2021) Mitochondrial dysfunction in inflammatory bowel disease alters intestinal epithelial metabolism of hepatic acylcarnitines. J Clin Investig 131:e133371
+
+Steuer R (2006) Review: on the analysis and interpretation of correlations in metabolomic data. Brief Bioinform 7:151–158
+
+Thomas JP, Modos D, Rushbrook SM, Powell N, Korcsmaros T (2022) The emerging role of bile acids in the pathogenesis of inflammatory bowel disease. Front Immunol 13:829525
+
+Uppal K, Walker DI, Jones DP (2017) xMSannotator: an R package for network-based annotation of high-resolution metabolomics data. Anal Chem 89:1063–1067
+
+van Dam S, Vosa U, van der Graaf A, Franke L, de Magalhaes JP (2018) Gene co-expression analysis for functional classification and gene-disease predictions. Brief Bioinform 19:575–592
+
+Viant MR, Kurland IJ, Jones MR, Dunn WB (2017) How close are we to complete annotation of metabolomes? Curr Opin Chem Biol 36:64–69
+
+Vitek L, Majer F, Muchova L, Zelenka J, Jiraskova A, Branny P, Malina J, Ubik K (2006) Identification of bilirubin reduction products formed by Clostridium
+
+© The Author(s) Molecular Systems Biology Volume 20 | Issue 4 | April 2024 | 338 – 361

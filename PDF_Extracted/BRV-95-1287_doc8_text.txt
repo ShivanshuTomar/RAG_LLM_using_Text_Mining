@@ -1,0 +1,22 @@
+# Exosomes and IBD
+
+# Exosomes
+
+|Lactobacillus rhamnosus|Taken|Fnucleatum|
+|---|---|---|
+|Gut lumen|I-22|Regulate gene composition and diversity|
+|Regulate gut microbiota|Improves barrier function|Transcription growth|
+|Epithelial cells|Exosomes|Protects barrier function|
+|IEC proliferation|Improves barrier function|Compromised intestinal tract development|
+|Compromised tight barrier integrity|Decreased intestinal junction function|Decreased gut microbiota infiltration|
+|Increased tight junction proteins|NEAT 1|Reduced claudin-8 levels|
+|p53 gene|MAZ|miRNA-2|
+|MTZ|IL-1|miRNA-223|
+
+Fig 4 Exosomal-induced modulation of the gut microbiota and intestinal barrier in inflammatory bowel disease (IBD). Exosomes, through their functional components, directly or indirectly interact with gut microbiota and intestinal epithelial cells (IECs). Some gut microbes take up exosome components which in turn regulate their gene transcription and growth, producing improved microbiota diversity and composition, and restoring barrier integrity. Exosomes also directly induce the proliferation of IECs and the development of the intestinal tract, and indirectly enhance barrier functions by inhibiting components of the inflammatory environment that negatively impact tight junction molecules and IECs. Arg1, Arginase 1; CD206, cluster of differentiation 206; circRNA, circular RNA; I3A, ingenol-3-mebutate; IEC, intestinal epithelial cell; IL, interleukin; iNOS, inducible nitric oxide synthase; M, macrophage; MAZ, myc-associated zinc finger protein; miRNA, microRNA; MT2, melanotan 2; NEAT1, nuclear paraspeckle assembly transcript 1; PlncRNA1, long non-coding RNA PlncRNA-1; TNF-α, tumour necrosis factor α; ZO-1, zona occludens-1; φ, macrophage.
+
+The intestinal epithelial barrier and exosome-mediated polarization of macrophages. NEAT1 Inhibition downregulates TNF-α leading to increased activation of M2 macrophages and increased expression of the markers CD206, IL-10, and arginase-1(Arg-1) (Liu et al., 2018a).
+
+The crucial role of this network of lncRNA and miRNA has been analysed in diverse human diseases including IBD. One typical investigation documents that long non-coding RNA PlncRNA-1 and microRNA-34c (miR-34c) modulate the functions of the intestinal epithelial barrier through the regulation of tight junction proteins in IBD. The tight junction proteins zonula occludens-1(ZO-1) and occludin were modulated by myc-associated zinc finger protein (MAZ). The expression of MAZ was in turn targeted by miR-34c. Furthermore, upregulation of PlncRNA1 seemingly protected the intestinal epithelial barrier from dextran sulfate sodium (DSS)-induced injury, while miR-34c and PlncRNA1 coupled together to modulate ZO-1, MAZ and occludin expression (Chen et al., 2017). Claudin-8, a multigene family protein which forms the backbone of intestinal tight junctions, was discovered as a novel target of IL-23 in IBD. Levels of claudin-8 are appreciably decreased in IBD patients with inflamed colonic mucosa, and in TNBS-induced colitis in mice (Wang et al., 2016a). miR-223 (upregulated in IBD) is identified as a modulator of communication between the IL-23 signal pathway and claudin-8 in IBD development, hence acting as a modulator of the intestinal barrier (Wang et al., 2016a). Strategies to interrupt this crosstalk could represent novel therapeutic approaches for the management of IBD. Substance P (SP), a hormone or neuropeptide, and its receptor neurokinin-1 receptor (NK-1R) have been shown to modulate exosome biogenesis and exosome miRNA cargo sorting. The increased exosome production in turn promotes the migration and proliferation of target cells such as mouse colonic crypts and human colonic epithelial cells via exosomal miR-21(Bakirtzi et al., 2019). Additionally, let-7 miRNA and miR-375 enhance Paneth cell differentiation and proliferation of intestinal epithelial.
+
+Biological Reviews 95 (2020) 1287–1307 © 2020 The Authors. Biological Reviews published by John Wiley & Sons Ltd on behalf of Cambridge Philosophical Society.

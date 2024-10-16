@@ -1,0 +1,49 @@
+# Wang et al. Cell Death and Disease (2019) 10:391
+
+|CRH|DSS|DSS+CRH|
+|---|---|---|
+|Beclin-|LC3|18KDa|
+| |18KDi|CorlrclDSS|
+| |Control| |
+|LCX II|2|Vehicle|
+| |CRH| |
+|PS2/SOSTMI|EKDa|1|
+|GAPDH|37KCa| |
+| |Control|DSS|
+|B|Control|CRH|
+| |Vehicle|CRH|
+| |1| |
+| |Control|DSS|
+|D| |Control|
+| |CRH|DSS|
+| |DSS|CRH|
+
+# Fig. 5 (See legend on next page.)
+
+Page 7 of 17
+
+|Control|CRH|DSS+CRH|
+|---|---|---|
+| |Vehicle|CRH|
+|8|8000| |
+|6000|4000|2000|
+| |Control|DSS|
+
+GsAautophagy utilizing autophagic mechanism organization
+
+- PRKAA1
+- RS19
+- BAD
+- CLN3
+- 02/f4gi
+- AATG1GL 1
+- Mfor
+- ATGHC
+- ATG4A
+- TMem74
+- ATGSB
+- SNCAIFNG
+
+autophagy (Fig. 5a). Similar trends in changes such as those of Beclin-1 and LC3-II/I ratio were detected in the number of autophagosomes (Fig. 5b) and LC3 dots (Fig. 5c) in the left colon. We also used an autophagy-specific microarray to monitor the expression profiles of autophagy gene, including a total of 84 genes (Fig. 5d–g). The results showed that compared to the DSS group, the levels of several vital autophagy-related genes were significantly increased in the DSS + CRH group (Fig. 5d–f). Compared to the DSS group, the levels of several proteins vital in the induction and regulation of autophagy were significantly changed (Fig. 5g). We then ran western blotting analysis.
+
+Official journal of the Cell Death Differentiation Association

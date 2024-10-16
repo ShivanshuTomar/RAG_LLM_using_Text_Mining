@@ -1,0 +1,81 @@
+# Minot and Willis
+
+# Microbiome
+
+# (2019) 7:110
+
+Page 9 of 10
+
+difference in CLR abundance across disease groups of the same sign in the validation and discovery datasets. Since under the null, the test statistics are approximately Normal(0,1)-distributed,
+
+Pr H0 ðX ≥C2Þ≤ Pr H0 ðY ≥C2Þ
+
+! ¼ PrBinomial C1;0:5 ≥C2 ≈ Pr Normal 0; 1Þ≥ C2ffiffiffiffiffiffiffiffiffiffiffið pC1=2−C1=2
+
+giving us a conservative p value for the global null of no association.
+
+# Aligning protein-coding genes against RefSeq genomes
+
+The alignment of individual protein-coding genes against the RefSeq collection of genomes in NCBI was executed using the Docker image hosted at quay.io/fhcrc-microbiome/docker-diamond:v0.9.23—0 and built using the Dockerfile hosted at https://github.com/FredHutch/docker-diamond, running DIAMOND v0.9.23. The complete list of Prokaryotic RefSeq genomes was downloaded from https://www.ncbi.nlm.nih.gov/genome/browse#!/prokaryotes/ and the query proteins were aligned via DIAMOND against the annotated protein-coding sequences from each genome individually. We implemented this analysis on the Amazon Web Service using the Batch API for execution and resource management.
+
+# Quantification of co-abundant genes in uncultured single cells
+
+Datasets from published single-cell sequencing microbiome experiments [20] were downloaded and split by 10 × barcode (each corresponding to a single cell). The WGS data for each single cell was aligned against each reference gene catalog (for the CRC and IBD datasets) and filtered with FAMLI as described in workflow step 5 above. The result of this analysis was a count of the number of genes that were found in the same cell as another gene that is also part of the same CAG. As a comparison, we calculated the number of such genes that would be found with a randomly permuted set of CAG assignments.
+
+# Additional files
+
+- Additional file 1: Figure S1. The distribution of CAG size (genes per CAG; A and B) and the functional annotation of genes in CAGs is shown by CAG size (C and D). Each gene can be annotated with a range of biological functions, and the proportion of CAGs of a given size containing at least one functional annotation is shown (C and D). The CAGs generated from the CRC datasets are shown in A and C, while the CAGs generated from the IBD datasets are shown in B and D. The horizontal axis is shared between panels A and C, as well as B and D. (PDF 857 kb)
+- Additional file 2: Figure S2. Single-cell microbiome datasets were analyzed using the gene catalogs and CAG groupings from the CRC and IBD datasets. Co-occurrence was measured as the number of genes that were found in the same cell with another gene from the same CAG. Simulations were performed by random permutation, with 1000 replicates. Orange bars show mean and standard deviation. (PDF 288 kb)
+- Additional file 3: Figure S3. Alpha diversity by diagnosis across cohorts. The number of total genes in each sample was estimated with breakaway for both the CRC (A) and IBD (B) cohorts. (PDF 249 kb)
+- Additional file 4: Table S1. Description of genes associated with CRC, including the CAG grouping, correlation coefficient, taxonomic annotation, and functional annotation. Public repository URL: https://www.synapse.org/#!Synapse:syn17104367. (CSV 100,000 kb)
+- Additional file 5: Table S2. Description of genes associated with IBD, including the CAG grouping, correlation coefficient, taxonomic annotation, and functional annotation. Public repository URL: https://www.synapse.org/#!Synapse:syn17104250. (CSV 219,000 kb)
+
+# Acknowledgements
+
+The authors are grateful for support from the Fred Hutch Microbiome Research Initiative (SM), start-up funds from the Department of Biostatistics at the University of Washington (AW), and valuable intellectual contribution and support from Dr. Jonathan L. Golob.
+
+# Authors’ contributions
+
+SM developed the novel CAG identification method and performed all primary data analysis. AW developed the statistical analysis and discovery-validation framework. Both authors contributed to the figure generation and writing the manuscript. Both authors read and approved the final manuscript.
+
+# Funding
+
+Not applicable
+
+# Availability of data and materials
+
+The data produced in this analysis is available on the Synapse platform at https://www.synapse.org/#!Synapse:syn15623121 (doi:10.7303/syn15623121). The Synapse project will be made fully public upon acceptance for publication and is available to reviewers with the username and password “minot_guest” until that point. The repository includes documentation describing the organization and formatting of relevant data files and includes all of the outputs from the bioinformatic pipeline used for gene-level metagenomic analysis, as well as the Jupyter notebooks used to analyze those datasets and produce the figures and tables presented here.
+
+# Ethics approval and consent to participate
+
+Not applicable
+
+# Consent for publication
+
+Not applicable
+
+# Competing interests
+
+SM holds financial interest in Reference Genomics, Inc. (One Codex) and consults for the American Type Culture Collection (ATCC). The other author declares no competing interests.
+
+# Author details
+
+1Microbiome Research Initiative, Fred Hutchinson Cancer Research Center, Seattle, Washington, USA. 2 Department of Biostatistics, University of Washington, Seattle, Washington, USA.
+
+# Received:
+
+5 March 2019
+
+# Accepted:
+
+16 July 2019
+
+# Published online:
+
+01 August 2019
+
+# References
+
+1. Nasko DJ, Koren S, Phillippy AM, Treangen TJ. RefSeq database growth influences the accuracy of k-mer-based lowest common ancestor species identification. Genome Biol. 2018;19:165. https://doi.org/10.1186/s13059-018-1554-6.
+2. Schirmer M, Franzosa EA, Lloyd-Price J, McIver LJ, Schwager R, Poon TW, et al. Dynamics of metatranscription in the inflammatory bowel disease gut microbiome. Nat Microbiol. 2017, 2018:1. https://doi.org/10.1038/s41564-017-0089-z.
+3. Lewis JD, Chen EZ, Baldassano RN, Otley AR, Griffiths AM, Lee D, et al. Inflammation, antibiotics, and diet as environmental stressors of the gut microbiome in pediatric Crohn’s disease. Cell Host Microbe. 2015;18:489–500. https://doi.org/10.1016/j.chom.2015.09.008.

@@ -1,0 +1,42 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Sokol 2020 (Continued)
+
+an ITT analysis for maintenance of remission at week 24 and considered the total number of participants randomized to each group.
+
+The authors also reported that 13 "serious adverse events" occurred overall, but the breakdown provided did not add up to 13 events, and we were not sure if these were numbers of events or numbers of participants. Therefore, we did not analyze the data on serious adverse events for this study. The authors also evaluated CRP and fecal calprotectin levels, but they were reported in forms that could not be combined with those of other studies, so the results were narrated in the review text instead.
+
+Funding: grant from Programme Hospitalier de Recherche Clinique - PHRC PHRCR-13-029 (Ministère de la Santé), Assistance Publique – Hôpitaux de Paris (CRC16), Fondation de France (fond Inkermann), and Association Francois Aupetit.
+
+# Risk of bias
+
+|Bias|Authors' judgement|Support for judgement|
+|---|---|---|
+|Random sequence generation (selection bias)|Low risk|Quote: "Patients were randomized in a 1:1 ratio. Centralized block randomization was performed by an independent statistician from the clinical research platform (URC- Est) and the size of the blocks was not communicated to the investigator." (page 4)|
+| | |Comment: most likely done.|
+|Allocation concealment (selection bias)|Low risk|Quote: "Patients were randomized in a 1:1 ratio. Centralized block randomization was performed by an independent statistician from the clinical research platform (URC- Est) and the size of the blocks was not communicated to the investigator." (page 4)|
+| | |Comment: likely done.|
+|Blinding of participants and personnel (performance bias)|Low risk|Quote: "Patients were randomized in a 1:1 ratio. Centralized block randomization was performed by an independent statistician from the clinical research platform (URC- Est) and the size of the blocks was not communicated to the investigator." (page 4)|
+| | |Comment: study was described as single-blind; control group received sham FMT, and we assumed that participants were not aware of the treatment.|
+|Blinding of outcome assessment (detection bias)|High risk|Comment: blinding of the outcome assessment was not specifically mentioned in the paper.|
+|Incomplete outcome data (attrition bias)|High risk|Comment: 3/11 (27.3%) participants in the experimental group and 1/10 (10%) in the control group were not included in the ITT analysis. (page 6)|
+|Selective reporting (reporting bias)|Low risk|Comment: all intended outcomes were reported in the paper; the trial was registered on ClinicalTrials.gov (NCT02097797)|
+|Other bias|Low risk|Comment: no other risk of bias noted.|
+
+# Sood 2019a
+
+# Study characteristics
+
+Methods: Single-center, double-blind RCT conducted in India
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

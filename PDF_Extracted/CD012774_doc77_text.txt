@@ -1,0 +1,84 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# NCT03273465 (Continued)
+
+# Inclusion criteria
+
+- Ability to understand and willingness to sign written informed consent document, including willingness to accept risk of unrelated donor stool
+- Ability to swallow oral medications
+
+# Exclusion criteria
+
+- Severe, uncontrolled UC
+- Active or uncontrolled bacterial, viral, or fungal infection(s) requiring systemic therapy
+- Delayed gastric emptying syndrome
+- Known chronic aspiration
+- History of significant allergy to foods not excluded from the donor diet (excluded foods are tree nuts, peanuts, shellfish, eggs)
+- Pregnancy and lactation
+- Inability to swallow pills
+
+# Interventions
+
+# Experimental arm
+
+- FMT capsules
+
+# Control arm
+
+- Placebo capsules
+
+# Outcomes
+
+# Primary outcome
+
+- UC remission (SCCAI < 3) at week 12
+
+# Secondary outcomes
+
+- Improvement in UC symptoms (based on SCCAI) at week 12
+- Improvement in UC endoscopic score at week 12, and months 6 and 12
+- Markers of inflammation (CRP, WBC, ANC, stool calprotectin) at week 12, and months 6 and month 12
+- Change in gut microbiome (diversity and variability) at week 12, and months 6 and month 12
+- Use of treatments for UC (e.g. glucocorticoids, immunosuppressive therapy (e.g. azathioprine), or TNF antagonists) at months 6 and 12
+- Extra-intestinal disease manifestations at months 6 and 12
+
+# Starting date
+
+27 March 2017
+
+# Contact information
+
+Assaf-Harofeh Medical Center, Zerifin, Israel, 70300
+
+# Notes
+
+Phase 2 trial
+
+# NCT03483246
+
+# Study name
+
+Impact of fecal microbiota transplantation in ulcerative colitis (REBALANCE-UC)
+
+# Methods
+
+RCT conducted in France
+
+# Participants
+
+# Inclusion criteria
+
+- Age ≥ 18 to < 75 years
+- UC (according to the Lennard Jones criteria) diagnosed for ≥ 3 months and:
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

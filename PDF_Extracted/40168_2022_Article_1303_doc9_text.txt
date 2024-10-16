@@ -1,0 +1,27 @@
+# Zhao et al. Microbiome (2022) 10:115
+
+# Page 10 of 22
+
+|Min pig|Yorkshire pig|M-CON vs M-DSS|M-CON vs M-DSS| |
+|---|---|---|---|
+| | |CON|DSS|
+|TanCox0|nyncozon|Faral|2|
+|pentoln|Popnxnr|Pepbdonycdi|0|
+|IJocojod|TanCo0n|Pnen Anlnr n|Eosnlhes|
+|TanC0416|Matbalm|mpolaunnu mubbclem|2|
+|manCozen|Tnntontan matolm|Y-CON vs . Y-DSS|WL|
+|Pathwa;' Entry|Paihway Oclinitor|8_|mococ5sq|
+|Butanon|0 matatokin|macddino|mpulzizo|
+|Mic00z8o|Gkon|cnrconinc TabiJclksm|mrca|
+|Inuco075o|mutubolbm|179601230|Aaning aemalo ghtamalo mbalk m|
+|Min pig|Yorkshire pig|ncodico|Pronxianin|
+|mpul A0|Frcjinoalo Melbaliam|Mico0 73|0 Alnnumubalkm|
+|hypoluunn u muaboeM|Inucoo 80|Gulathlcnu riclubolne|Iypopha|
+
+Fig. 4 Differential functions of the microbiome between control and diseased Min pigs and Yorkshire pigs. a Bacterial community phenotypes of control and diseased Min pigs and Yorkshire pigs were predicted using BugBase (n = 6 samples/group). b Comparison of microbial KEGG modules between M-CON and M-DSS pigs and Y-CON and Y-DSS pigs (n = 6)
+
+To explore the underlying mechanisms of core bacterial protection of the host colon, the colon gene expression profiles of the two breeds were quantified by RNA-seq analysis. Figure 7a shows the volcano plots generated to visualise the distribution of expressed genes between control and diseased Min pigs and Yorkshire pigs. In total, 322 genes were upregulated and 159 genes were downregulated in M-DSS pigs compared with M-CON pigs, and 231 genes were upregulated and 174 genes were downregulated in Y-DSS pigs compared with Y-CON pigs (Fig. 7b). To gain insight into the biological processes of the immunological barrier and mechanical barrier that were differentially regulated between control and diseased Min and Yorkshire pigs, gene ontology (GO) enrichment analysis was performed (Fig. 7c–f).
+
+Compared with M-CON pigs, several terms involved in immunity, such as response to bacterium, immune response, inflammatory response, acute-phase response, type-2 immune response, CD4-positive, alpha-beta T-cell activation, negative regulation of T-helper 1 type immune response, negative regulation of CD8-positive, alpha-beta T-cell activation, antimicrobial humoral immune response mediated by antimicrobial peptide, toll-like receptor signalling pathway and MyD88-dependent toll-like receptor signalling pathway, were enriched in M-DSS pigs. The expression trends of the TLR7 and TLR8 genes identified by RNA-seq analysis were validated by qRT-PCR, which was downregulated in M-DSS pigs (P < 0.05) (Fig. 7d).
+
+In Y-DSS pigs, GO analysis showed that the following terms belonging to biological processes of immunity and the intestinal structure were enriched compared with Y-CON pigs: response to bacterium, inflammatory response, positive antimicrobial humoral immune response mediated by antimicrobial peptide, Toll-like receptor 4 binding and immune response. A few pathways were enriched in Y-DSS pigs but not M-DSS pigs.

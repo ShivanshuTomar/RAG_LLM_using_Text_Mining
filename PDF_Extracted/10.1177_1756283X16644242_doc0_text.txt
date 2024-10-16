@@ -1,0 +1,35 @@
+# Therapeutic Advances in Gastroenterology
+
+# Review
+
+# The intestinal microbiome, barrier function, and immune system in inflammatory bowel disease: a tripartite pathophysiological circuit with implications for new therapeutic directions
+
+# Stephen M. Vindigni, Timothy L. Zisman, David L. Suskind and Christopher J. Damman
+
+Abstract: We discuss the tripartite pathophysiological circuit of inflammatory bowel disease (IBD), involving the intestinal microbiota, barrier function, and immune system. Dysfunction in each of these physiological components (dysbiosis, leaky gut, and inflammation) contributes in a mutually interdependent manner to IBD onset and exacerbation. Genetic and environmental risk factors lead to disruption of gut homeostasis: genetic risks predominantly affect the immune system, environmental risks predominantly affect the microbiota, and both affect barrier function. Multiple genetic and environmental ‘hits’ are likely necessary to establish and exacerbate disease. Most conventional IBD therapies currently target only one component of the pathophysiological circuit, inflammation; however, many patients with IBD do not respond to immune-modulating therapies. Hope lies in new classes of therapies that target the microbiota and barrier function.
+
+Keywords: barrier function, Crohn’s disease, inflammatory bowel disease, leaky gut, microbiome
+
+# Introduction
+
+Inflammatory bowel disease (IBD) is a chronic relapsing inflammatory condition of the gastrointestinal tract which includes two partially overlapping clinical entities: Crohn’s disease (CD), characterized by patchy transmural inflammation that can involve the entire gastrointestinal tract, and ulcerative colitis (UC), characterized by mucosal inflammation limited to the colon. The incidence of CD and UC is rising worldwide and despite current medical treatments which focus primarily on immunosuppression, over 20% of patients with CD still require surgery and over 10% of patients with UC still require colectomy. The pathogenesis of IBD is multifactorial with genetic and environmental contributions believed to play a role in potentiating the immune system. Recent work has also highlighted the importance of the intestinal microbiome and mucosal barrier function in disease pathophysiology. The intestinal microbiome has been likened to a virtual organ composed of microorganisms exhibiting complex bidirectional crosstalk with the environment and other organ systems. The intestinal mucosal barrier is a virtual wall of tightly connected epithelial cells, buttressed by antimicrobial factors and mucus, that limits interaction between the microbiome and immune system. In health, homeostasis exists between the intestinal microbiome, mucosal barrier, and immune system. In IBD, this homeostasis is disrupted leading to durable alterations in the intestinal microbiome (dysbiosis), disrupted barrier function (leaky gut), and immune system activation (inflammation). Both genetic and environmental factors can influence transitions between health and disease.
+
+# Correspondence to:
+
+Christopher J. Damman, MD
+
+University of Washington
+
+School of Medicine, 1959 NE Pacific Street, Box 356424, Seattle, WA 98195-6424, USA
+
+cjdamman@uw.edu
+
+Stephen M. Vindigni, MD, MPH
+
+Timothy L. Zisman, MD, MPH
+
+Division of Gastroenterology, Department of Medicine, University of Washington, Seattle, WA, USA
+
+David L. Suskind, MD
+
+Department of Pediatrics, Seattle Children’s Hospital and University of Washington, Seattle, WA, USA

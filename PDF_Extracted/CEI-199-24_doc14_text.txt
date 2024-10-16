@@ -1,0 +1,14 @@
+# REVIEW SERIES: INTERACTIONS OF THE MICROBIOTA WITH THE MUCOSAL IMMUNE SYSTEM
+
+# M. N. Quraishi et al.
+
+gut-homing, IL-10-producing regulatory T cells. Mucosal
+
+|127|Roager HM, Licht TR. Microbial tryptophan catabolites in health and disease. Nat Commun 2018; 9:3294.|
+|---|---|
+|125|Carbo A, Hontecillas R, Hoops S et al. PPARγ activation drives Th17 cells into a Treg phenotype. J Immunol 2012; 188 (Supplement 1):163.7.|
+|126|Kelly D, Campbell JI, King TP et al. Commensal anaerobic gut bacteria attenuate inflammation by regulating nuclear-cytoplasmic shuttling of PPAR-gamma and RelA. Nat Immunol 2004; 5:104–12.|
+|128|Cervantes-Barragan L, Chai JN, Tianero MD et al. Lactobacillus reuteri induces gut intraepithelial CD4( + )CD8alphaalpha( +) T cells. Science 2017; 357:806–10.|
+|129|Wilck N, Matus MG, Kearney SM et al. Salt-responsive gut commensal modulates TH17 axis and disease. Nature 2017; 551:585–9.|
+
+© 2019 British Society for Immunology, Clinical and Experimental Immunology, 199: 24–38

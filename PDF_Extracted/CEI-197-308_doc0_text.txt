@@ -1,0 +1,44 @@
+# NEURO-IMMUNE INTERACTIONS: HOW THE NERVOUS AND IMMUNE SYSTEMS INFLUENCE EACH OTHER
+
+# Depressive symptoms in inflammatory bowel disease: an extraintestinal manifestation of inflammation?
+
+# OTHER ARTICLES PUBLISHED IN THIS REVIEW SERIES
+
+- Neuroimmune interactions: how the nervous and immune systems influence each other. Clinical and Experimental Immunology 2019, 197: 276-277.
+- Neuroimmunology – the past, present and future. Clinical and Experimental Immunology 2019, 197: 278-293.
+- The immune system and psychiatric disease: a basic science perspective. Clinical and Experimental Immunology 2019, 197: 294-307.
+- From early adversities to immune activation in psychiatric disorders: the role of the sympathetic nervous system. Clinical and Experimental Immunology 2019, 197: 319-328.
+
+# Authors
+
+C. D. Moulton, P. Pavlidis, C. Norton, S. Norton, C. Pariante, B. Hayee, N. Powell
+
+* Department of Psychological Medicine, Institute of Psychiatry, Psychology and Neuroscience, King’s College London
+
+† Centre for Inflammation Biology and Cancer Immunology, King’s College London
+
+‡ Florence Nightingale Faculty of Nursing, Midwifery and Palliative Care, King’s College London
+
+§ Health Psychology, Institute of Psychiatry, Psychology and Neuroscience, King’s College London
+
+¶ Department of Gastroenterology, King’s College Hospital NHS Foundation Trust, London, UK
+
+# Publication Details
+
+Accepted for publication 6 February 2019
+
+Correspondence: Dr. C. Moulton, Weston Education Centre (3.25), Department of Psychological Medicine, King’s College London, 10 Cutcombe Road, London SE5 9RJ, UK.
+
+E-mail: calum.moulton@kcl.ac.uk
+
+# Summary
+
+Depressive symptoms are reported by more than 20% of people with inflammatory bowel disease (IBD), while sleep difficulties and fatigue are even more common. Co-morbid depressive symptoms predict a poor IBD course, including increased risk of relapse and surgery, which is inconsistently improved by psychological treatments. Rather than being distinct systems, there is compelling evidence for bidirectional communication between gut and brain, driven by neural, metabolic, endocrine and inflammatory mediators. An emerging concept is that depressive symptoms may be mechanistically linked to excess inflammation and dysregulation of the gut–brain axis. Given the close link between the intestinal microbiota and host immune responses, patients prone to shifts in their intestinal microbiome, including smokers, those with poor diet and early life stress, may be exposed to exaggerated immune responses. Excess inflammation is associated with brain changes (depressive symptoms, fatigue, sleep difficulties) and worsening gastrointestinal symptoms, which are exacerbated by psychological distress. Equally, treatments both for depressive symptoms and IBD provide opportunities to break this cycle by reducing the causes and effects of inflammation. As well as addressing potential risk factors such as smoking and diet, treatments to alter the microbiome may reduce depressive symptoms. Observational evidence suggests that anti-inflammatory treatments for IBD may improve co-morbid depressive symptoms correlating with reduction in inflammation. With a growing range of treatments targeting inflammation centrally, peripherally and in the gut, IBD provides a unique model to understand the interplay between brain and gut in the pathogenesis of depressive symptoms, both in IBD and in the whole population.
+
+# Keywords
+
+depressive symptoms, gut-brain-axis, inflammation, inflammatory bowel disease, microbiome
+
+# Introduction
+
+Crohn’s disease (CD) and ulcerative colitis (UC), together comprising inflammatory bowel disease (IBD), are long-term conditions characterized by a relapsing and remitting disease course. CD is associated with secondary progression with time, requiring surgical intervention in a significant proportion. Depressive symptoms include low mood, reduced enjoyment, increased fatigue, hopelessness and sleep difficulties. Like IBD, depressive symptoms typically run a persistent or fluctuating course, and a significant proportion do not respond to standard therapy. Notably, depressive symptoms occur in more than 20% of people with IBD, which is approximately two to four times more common than in the general population.

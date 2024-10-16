@@ -1,0 +1,39 @@
+# ZHANG et al.
+
+bacteria, where they are metabolized as small signaling molecules or bacteriocins, or synthesized as microbial proteins. Also, it is well known that members of intestinal bacteria can de novo synthesize and supply vitamins, such as vitamin K and most of the water-soluble B vitamins.
+
+A recent work has demonstrated that impaired immune system development was observed in germ-free (GF) mice, while reconstruction of the microbial community or colonization of specific Candidatus Arthromitis restored the deficits and abnormalities, which indicates the potential role of microbiota in immune system maturation. Consistently, other studies reported the modulatory role of SCFAs produced by intestinal bacteria on differentiation and expansion of regulatory T cells (Tregs), reduced T helper 17 (Th17) cells in GF or antibiotic-treated mice, as well as the role of intestinal bacteria on T-cell repertoires. In addition, the GF animals are more susceptible to pathogen infections due to the immature mucosal immune system, which reveals that intestinal bacteria exert a profound impact on host defense, including, but not limited to, metabolism, ontogeny, and pathogen defense. The commensal bacteria in the intestine inhibit pathogen infection by directly competing for nutrients or secretion of bacteriocins indirectly as mentioned earlier, termed as the colonization resistance, which is another aspect of host defense directed by the intestinal microbiota.
+
+Continuous administration of 40–50 kDa DSS in drinking water leads to acute colitis, which shares similar symptoms with human UC. The severity of DSS-induced colitis depends on its molecular weight, strain and sex of the mice, and microbial environment, especially the dosage and duration. Modification of doses and timing allows modeling of different phases of colitis: the acute colitis usually develops for 5–7 days with the dose range of 1.5%–5%, while the chronic colitis needs continuous treatment of low concentrations for weeks or cyclical administration of DSS. Furthermore, DSS model recovers spontaneously after the termination of DSS administration, which becomes another mouse model for exploring the mechanisms in recovery phase.
+
+# 3 MURINE MODELS ARE USEFUL TOOLS FOR PATHOPHYSIOLOGY AND ETIOLOGY OF HUMAN IBD
+
+TNBS has been defined as a hapten that binds to tissue proteins in the intestine and elicits a number of immunologic responses. Dissolving in 40–50% ethanol is necessary for TNBS to induce colitis, of which alcohol is a prerequisite to break the mucosal barrier to facilitate the entry of TNBS into the lamina propria, where it haptenizes the localized colonic and gut microbial proteins to generate TNP-specific CD4+ T cells. Following studies identified the adapted immune responses with the activation of Th1, Th2, and macrophages.
+
+# Health status
+
+# Inflammatory bowel disease
+
+Lumen
+
+DC
+
+Cytokines
+
+T cells
+
+B cells
+
+Macrophages
+
+Macrophages
+
+tokines
+
+B cells
+
+T cells
+
+# FIGURE 1
+
+The role of intestinal epithelium, gut microbiota, and immune response in the pathogenesis of IBD.

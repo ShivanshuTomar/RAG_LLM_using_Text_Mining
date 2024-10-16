@@ -1,0 +1,78 @@
+# Knights et al. Genome Medicine 2014, 6:107
+
+Page 9 of 11
+
+http://genomemedicine.com/content/6/12/107
+
+causality, our analyses demonstrate complex host genetic associations with taxonomic and metabolic dysbiosis in humans. These include implications of microbiome-wide associations with TNFSF15, IL12B, and with innate immune response, inflammatory response, and the JAK-STAT pathway, as well as NOD2-related increases in Enterobacteriaceae relative abundance. Future studies may be warranted to account for the effects of copy number variation, pleiotropic genes and epigenetic modifications. It is also possible that certain genotype-microbiome associations observed in IBD patients may be disease-independent and may be relevant to healthy individuals and individuals with other diseases. The methods we employed were validated on independent cohorts and make possible well-powered false-positive-controlled testing of microbiome-wide host genetic associations.
+
+# Accession numbers
+
+16S rRNA sequences and Immunochip genotyping have been deposited at the National Center for Biotechnology Information as BioProject with top-level umbrella project ID PRJNA205152.
+
+# Additional files
+
+- Additional file 1: Supplementary methods and figures.
+- Additional file 2: Table S1. The prevalence of 163 known IBD-associated SNPs in the three independent cohorts included in this study.
+- Additional file 3: Table S2. Groups of taxa that were binned together prior to statistical testing due to high inter-group correlation.
+- Additional file 4: Table S3. Correlations and significance levels thereof of the directionalities of SNP-taxon associations between pairs of cohorts for those associations that were nominally significant in at least one of the cohorts being compared.
+- Additional file 5: Table S4 Host genetic functional pathways that were significantly enriched for robustness of association with the microbiome across cohorts.
+- Additional file 6: Specific SNPs that were included in gene-level fine-mapping of disease association signals.
+- Additional file 7: Linear association test results for the association of each IBD SNP with each bacterial taxon.
+- Additional file 8: Additional association test results for a meta-analysis of the three cohorts, including statistics for the associations of clinical covariates with bacterial taxa.
+
+# Abbreviations
+
+CD: Crohn’s disease; FDR: false discovery rate; IBD: inflammatory bowel disease; IL: interleukin; MCC: Matthew’s correlation coefficient; MDI: microbial dysbiosis index; OTU: operational taxonomic unit; SNP: single nucleotide polymorphism; Th17: T helper 17; UC: ulcerative colitis.
+
+# Competing interests
+
+The authors declare that they have no competing interests.
+
+# Authors’ contributions
+
+DK, MSS, RKW, and RJX wrote the manuscript; JK, JS, AT, DG, and CH reviewed and revised the manuscript; MSS, GD, RKW, and RJX established biopsy and DNA collections; DK, JK, MSS, RKW, SvS, and Hailing H performed or supervised genotyping quality control and statistical analysis; DK and DG performed microbiome quality control and statistical analysis; AT performed pouch sample collection and phenotyping; DK, PV, GA, and CH developed genome-microbiome association methods and performed association tests; Hu H analyzed shotgun metagenomic data; CH and RJX supervised methods development and statistical analysis; FI, JS and CR collected clinical data and managed the clinical databases; CR performed microbiome sample extraction. All authors read and approved the final manuscript.
+
+# Acknowledgements
+
+We thank the patients who donated samples for this study, and the health professionals who collected them. We thank Tjasso Blokzijl for technical assistance and Levi Waldron for power analysis code. We thank Aylwin Ng and Moran Yassour for critical review of the manuscript. We thank Timothy Tickle and Tonya Ward for helpful discussions regarding methods. RKW is supported by a VIDI grant from the Netherlands Organization for Scientific Research (NWO) and the Dutch Digestive Foundation (WO 11-72). CH is partially supported by NIH R01HG005969, NSF DBI-1053486, and ARO W911NF-11-1-0473. MSS is partially supported by the Gale and Graham Wright Research Chair in Digestive Disease. Partial funding for sample collection for Toronto samples provided by the Crohn’s and Colitis Foundation of Canada. Work was supported by grants from the Crohn’s and Colitis Foundation of America, NIH grants U54 DE023798, and R01 DK092405 (RJX, CH, DG). JK is the Joanne Murphy Professor in Behavioural Science.
+
+# Author details
+
+1Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA.
+
+2 Broad Institute of Harvard and MIT, Cambridge, Massachusetts 02142, USA.
+
+3Center for Computational and Integrative Biology, Massachusetts General Hospital and Harvard Medical School, Boston, Massachusetts 02114, USA.
+
+4Biotechnology Institute, University of Minnesota, St. Paul, Minnesota 55108, USA.
+
+5Zane Cohen Centre for Digestive Diseases, Mount Sinai Hospital IBD Group, University of Toronto, Toronto, Ontario M5G 1X5, Canada.
+
+6Department of Gastroenterology and Hepatology, University Medical Center Groningen, Groningen 9700RB, The Netherlands.
+
+7Analytic and Translational Genetics Unit, Massachusetts General Hospital, Boston, Massachusetts 02114, USA.
+
+8 Department of Genetics, University Medical Center Groningen, Groningen 9700RB, The Netherlands.
+
+9Biomedical Informatics and Computational Biology, University of Minnesota, Minneapolis, Minnesota 55455, USA.
+
+10Division of Gastroenterology, Massachusetts General Hospital and Harvard Medical School, Boston, Massachusetts 02114, USA.
+
+11Department of Psychiatry, University of Toronto, Toronto, Ontario M5T 1R8, Canada.
+
+12Department of Medicine, Analytic and Translational Genetics Unit, Massachusetts General Hospital and Harvard Medical School, Boston, Massachusetts 02114, USA.
+
+13Program in Medical and Population Genetics, Broad Institute of Harvard and MIT, Cambridge, Massachusetts 02142, USA.
+
+14Biostatistics Department, Harvard School of Public Health, Boston, Massachusetts 02115, USA.
+
+Received: 2 September 2014 Accepted: 13 November 2014 Published online: 02 December 2014
+
+# References
+
+1. Jostins L, Ripke S, Weersma RK, Duerr RH, McGovern DP, Hui KY, Lee JC, Schumm LP, Sharma Y, Anderson CA, Essers J, Mitrovic M, Ning K, Cleynen I, Theatre E, Spain SL, Raychaudhuri S, Goyette P, Wei Z, Abraham C, Achkar JP, Ahmad T, Amininejad L, Ananthakrishnan AN, Andersen V, Andrews JM, Baidoo L, Balschun T, Bampton PA, Bitton A, et al: Host-microbe interactions have shaped the genetic architecture of inflammatory bowel disease. Nature 2012, 491:119–124.
+2. Abraham C, Cho J: Interleukin-23/Th17 pathways and inflammatory bowel disease. Inflamm Bowel Dis 2009, 15:1090–1100.
+3. Knights D, Lassen KG, Xavier RJ: Advances in inflammatory bowel disease pathogenesis: linking host genetics and the microbiome. Gut 2013, 62:1505–1510.
+4. Morgan XC, Tickle TL, Sokol H, Gevers D, Devaney KL, Ward DV, Reyes JA, Shah SA, LeLeiko N, Snapper SB, Bousvaros A, Korzenik J, Sands BE, Xavier RJ, Huttenhower C: Dysfunction of the intestinal microbiome in inflammatory bowel disease and treatment. Genome Biol 2012, 13:R79.
+5. Baumgart M, Dogan B, Rishniw M, Weitzman G, Bosworth B, Yantiss R, Orsi RH, Wiedmann M, McDonough P, Kim SG, Berg D, Schukken Y, Scherl E, Simpson KW: Culture independent analysis of ileal mucosa reveals a selective increase in

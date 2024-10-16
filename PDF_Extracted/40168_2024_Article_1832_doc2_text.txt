@@ -1,0 +1,49 @@
+# Tian et al. Microbiome (2024) 12:130
+
+# VLP metagenomes
+
+# Viral identification
+
+|Type|Count|
+|---|---|
+|HC|15|
+|CD|10,054 viral operational taxonomic units|
+|UC|10,054 viral operational taxonomic units|
+
+# CheckV completeness
+
+# CheckV contamination
+
+# Eukaryotes
+
+# Prokaryotes
+
+# Family-level taxonomy
+
+|Quality|Rate|Mapping reads|
+|---|---|---|
+|Low (<50%)|270|14,669|
+|Medium (50%-90%)|930|1|
+|High (>20%)|Complete|Medium (10%-20%)|
+
+# VLP
+
+# Bulk
+
+# Family-level composition
+
+|Family|VLP|Bulk|
+|---|---|---|
+|Siphoviridae|100|1|
+|Myoviridae|100|1|
+|Microviridae|100|1|
+|Podoviridae|100|1|
+|Anelloviridae|100|1|
+|Quimbyviridae|100|1|
+|Others|100|1|
+
+# Fig. 1 Overview of the study design and the integrated gut virus catalog
+
+a Workflow of the construction of the nonredundant gut virus catalog from IBD patients and healthy subjects. b Statistics of the gut virus catalog. Pie plots show the completeness, contamination, proportions of eukaryotic and prokaryotic viruses, and family-level taxonomic classification of the virus catalog. Venn diagram shows the overlap between the integrated gut virus catalog and the viruses from the NCBI RefSeq database. Boxplot shows the fraction of mapped metagenomic reads to the integrated gut virus catalog and the viruses from the NCBI RefSeq database. Wilcoxon rank-sum test: ***p < 0.001. c Principal coordinate analysis (PCoA) reveals the difference between the VLP virome and bulk virome (141 paired samples were included in the analysis). Samples are shown at the first and second principal coordinates (PCoA1 and PCoA2), and the variance explained (%) by these two PCoAs is displayed. Ellipses represent a 95% confidence interval surrounding each group. d Comparison of the gut viral structure between VLPs and bulk viromes. Bar plots show the family-level composition of each sample from the VLP and bulk viromes. Pie plots show the overall proportions.
+
+29], we found that the most dominant classifiable vOTU families were Siphoviridae, Myoviridae, Microviridae, and Podoviridae. Significantly, only 74 vOTUs (< 1% of all vOTUs) exhibited species-level homology with viral genomes from the NCBI RefSeq database, highlighting the extraordinary novelty of our catalog. Moreover, an average of 59.8% and 11.7% of the metagenomic reads from the VLP and bulk datasets, respectively, were captured by our vOTU catalog, which was more than the RefSeq viruses (3.1% and 0.3%, respectively; Fig. 1b). This underscores the broader and more comprehensive profiling capability of our viral genome catalog in studying IBD and healthy viromes. Principal coordinate analysis (PCoA) based on the Bray–Curtis distance at the vOTU level clearly separated the VLP and bulk viromes (permutational multivariate analysis of variance [PERMANOVA] p < 0.001;

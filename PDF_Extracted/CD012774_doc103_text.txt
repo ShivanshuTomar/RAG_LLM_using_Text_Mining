@@ -1,0 +1,54 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Library
+
+# Better health.
+
+# Analysis 1.2. Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 2: Induction of clinical remission in UC at 8 weeks
+
+|Study or Subgroup|FMT Events|FMT Total|Control Events|Control Total|Weight|Risk Ratio M-H, Random, 95% CI|Risk Ratio M-H, Random, 95% CI|
+|---|---|---|---|---|---|---|---|
+|Costello 2019|12|38|3|35|11.5%|3.68 [1.13 , 11.98]| |
+|Fang 2021|9|10|5|10|16.7%|1.80 [0.94 , 3.46]| |
+|Haifer 2022|8|15|3|20|11.8%|3.56 [1.13 , 11.18]| |
+|Moayyedi 2015 (1)|9|38|2|37|9.2%|4.38 [1.01 , 18.94]| |
+|Pai 2021 (2)|4|13|4|12|11.8%|0.92 [0.29 , 2.89]| |
+|Paramsothy 2017|11|41|3|40|11.3%|3.58 [1.08 , 11.88]| |
+|Rossen 2015 (2)|6|23|8|25|14.2%|0.82 [0.33 , 1.99]| |
+|Sarbagili Shabat 2022|6|36|6|15|13.6%|0.42 [0.16 , 1.09]| |
+
+Total (95% CI): 214 vs 194
+
+Total events: 65 vs 34
+
+Heterogeneity: Tau² = 0.44; Chi² = 18.50, df = 7 (P = 0.010); I² = 62%
+
+Test for overall effect: Z = 1.71 (P = 0.09)
+
+Test for subgroup differences: Not applicable
+
+# Analysis 1.3. Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 3: Induction of clinical remission in UC at 12 weeks
+
+|Study or Subgroup|FMT Events|FMT Total|Control Events|Control Total|Weight|Risk Ratio M-H, Random, 95% CI|Risk Ratio M-H, Random, 95% CI|
+|---|---|---|---|---|---|---|---|
+|Březina 2021|12|23|8|22|66.0%|1.43 [0.73 , 2.82]| |
+|Crothers 2021|2|7|0|8|3.6%|5.63 [0.31 , 100.52]| |
+|Rossen 2015|7|23|5|25|30.4%|1.52 [0.56 , 4.13]| |
+
+Total (95% CI): 53 vs 55
+
+Total events: 21 vs 13
+
+Heterogeneity: Tau² = 0.00; Chi² = 0.85, df = 2 (P = 0.65); I² = 0%
+
+Test for overall effect: Z = 1.53 (P = 0.13)
+
+Test for subgroup differences: Not applicable
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

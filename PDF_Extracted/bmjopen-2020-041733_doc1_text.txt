@@ -1,0 +1,26 @@
+# Open access
+
+Growth impairment can be an issue in children with CD. Both IBS and IBD significantly impact quality of life67 and often surgery is needed in patients with IBD.8 IBS and IBD also account for significant healthcare spending in the developed world with many countries spending billions of dollars per annum.9 Persons with IBS and IBD have higher rates of anxiety and depression compared with the general population1011 and those with other chronic diseases.12
+
+# Primary aims for baseline data
+
+1. We will compare the gut microbiome and metabolomic profile between CD, UC, IBS and healthy controls. The main analyses will be between a specific disorder and healthy controls.
+2. We will compare the gut microbiome and metabolomic profile of participants with active versus quiescent disease within CD, UC and IBS.
+3. We will compare the gut microbiome and metabolomic profile of participants with and without psychiatric comorbidity for each of CD, UC, IBS and healthy controls.
+
+There is however a need for more longitudinal prospective data on this interaction in patients with IBD and IBS compared with healthy controls. We have conducted systematic reviews in both IBS18 and IBD19; although there are numerous case control studies exploring the gut microbiome in these conditions, the median sample size is around 20 per arm and in all cases the sample size was insufficient to deal with the multiple testing issues that relate to microbiome research in humans. In addition, inter-individual differences of the gut microbiome are large. Large sample sizes and longitudinal sampling within the same individuals over time are therefore needed to evaluate the interaction between diet, the microbiome, IBS, IBD and associated mental health issues.
+
+# Intestinal and Neuropsychiatric Effects (IMAGINE)
+
+The Inflammation, Microbiome and Alimentation: Gastro-Strategy for Patient Oriented Research (SPOR) Network is conducting a 5-year multicentre prospective observational cohort study, Mind And Gut Interactions Cohort (MAGIC). It will explore the interaction between the diet, microbiome and the host associated with IBS and IBD in order to better target treatment of IBD and IBS and the psychiatric disorders associated and affecting these diseases. The overarching hypothesis of this study is that IBS and IBD are driven by a perturbation of the gut microbiome and the associated host immune response. Alterations in the gut microbiome may also drive anxiety and depression associated with these GI disorders and these psychological factors may in turn influence gut symptoms and its microbiome. These mechanisms may also have a genetic predisposition.
+
+# Aims
+
+1. To compare dietary patterns between patients with CD, UC, IBS and healthy controls.
+2. To compare genetic risk factors between CD, UC, IBS and healthy controls.
+3. To compare gut microbiome, metabolomic, genetic, dietary and demographic factors in participants with IBD with quiescent inflammatory disease with and without concomitant IBS (defined by faecal calprotectin <50 μg/g and subthreshold IBD symptom activity score but who have active IBS symptoms on IBS-SSS).
+4. To compare the prevalence of mood and anxiety disorders in participants with each disorder against rates in healthy controls.
+5. To compare the dietary, gut microbiome and metabolomic profile between participants with or without anxiety (CD, UC, IBS, healthy controls analysed separately).
+6. To compare the dietary, gut microbiome and metabolomic profiles between participants with and without ongoing active disease.
+
+MoayyedifiP, et al. BMJ Open 2020;10:e041733. doi:10.1136/bmjopen-2020-041733

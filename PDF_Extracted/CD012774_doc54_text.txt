@@ -1,0 +1,59 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Pai 2021 (Continued)
+
+n = 13
+
+- Multiple donor feces (i.e. 1 participant would receive treatments from different donors at different time points in study, but no pooled treatments)
+- 150 mL/FMT (50 g stool, 1 × 107 colony-forming units/mL) over 12 infusions; 150 mL FMT administered via enema, twice per week for 6 weeks
+
+# Control arm
+
+n = 12
+
+- 150 mL placebo administered via enema, twice per week for 6 weeks
+
+# Outcomes
+
+# Primary outcome
+
+- Clinical remission at weeks 6 and 30 (PUCAI score &lt; 15)
+
+# Secondary outcomes
+
+- Clinical response at weeks 6 and 30 (improvement from baseline PUCAI)
+- CRP change from baseline at weeks 6 and 30
+- Fecal calprotectin change from baseline at weeks 6 and 30
+- Adverse events
+
+# Notes
+
+Data extraction: study authors reported data for an open-label maintenance period up to week 30, which were not included in the analysis because the trial opened for analysis at week 6. They reported maintenance of remission data in-text for FMT participants, which were not analyzed as the intervention was given during the active disease phase and not during remission. Maintenance data were only considered if the participants in remission were randomized again. They also reported data on the number of participants who showed improvement from baseline in CRP and fecal calprotectin, as well as the quantified changes from baseline. However, they did not provide the final values and thus these data were not included in the analysis, as we only considered these outcomes as continuous data and not as binary outcomes.
+
+Data interpretation: the study authors used an mITT analysis, in which only the participants who received ≥ 1 study dose were considered. They also reported in a footnote for Table 1 in their published paper, which included data for the primary outcome of clinical remission, that missing values were excluded. We included the data for all randomized participants irrespective of whether they received the intervention or completed follow-up, and then we conducted a sensitivity analysis for only participants with complete data.
+
+Funding: this investigator-initiated study was supported by institutional grants from the Hamilton Health Sciences New Investigator Fund (NIF-15375) Hamilton Academic Health Sciences Organization (HAH-17-002), and Canadian Institutes of Health Research (RN279389 – 358033; Inflammation, Microbiome, and Alimentation: Gastro-Intestinal and Neuropsychiatric Effects (IMAGINE): A Strategy for Patient-Oriented Research CIHR Chronic Disease Network). The study's investigational therapeutic and placebo materials were provided by Rebiotix Inc, a Ferring Company.
+
+# Risk of bias
+
+# Bias
+
+|Authors' judgement|Support for judgement|
+|---|---|
+|Random sequence generation (selection bias)|Low risk|
+|Quote: "Eligible patients were randomized 1:1 through an unstratified computer-generated block randomization list with permutated blocks of 4." (page 393)|Quote: "Eligible patients were randomized 1:1 through an unstratified computer-generated block randomization list with permutated blocks of 4." (page 393)|
+|Comment: most likely done.|Comment: most likely done.|
+|Allocation concealment (selection bias)|Low risk|
+|Quote: "Random sampling numbers were contained in a set of sealed envelopes per block and drawn at the moment of assignment by a study team member. Patients and caregivers were unaware of treatment allocation, but|Quote: "Random sampling numbers were contained in a set of sealed envelopes per block and drawn at the moment of assignment by a study team member. Patients and caregivers were unaware of treatment allocation, but|
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

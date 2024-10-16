@@ -1,0 +1,33 @@
+# References
+
+1. Rossen NG, Fuentes S, van der Spek MJ, Tijssen JG, Hartman JH, Duflou A, Lowenberg M, van den Brink GR, Mathus-Vliegen EM, de Vos WM, et al. Findings from a randomized controlled trial of fecal transplantation for patients with ulcerative colitis. Gastroenterology. 2015;149(1):110–8. e114.
+2. Paramsothy S, Kamm MA, Kaakoush NO, Walsh AJ, van den Bogaerde J, Samuel D, Leong RW, Connor S, Ng W, Paramsothy R et al. Multidonor intensive faecal microbiota transplantation for active ulcerative colitis: a randomised placebo-controlled trial. Lancet. 2017;389(10075):1218–1228.
+3. Khanna S, Pardi DS. Clostridium difficile infection: management strategies for a difficult disease. Ther Adv Gastroenterol. 2014;7(2):72–86.
+4. Tariq R, Weatherly R, Kammer P, Pardi DS, Khanna S. Donor screening experience for fecal microbiota transplantation in patients with recurrent C. difficile infection. J Clin Gastroenterol. 2016.
+5. Kopylova E, Noe L, Touzet H. SortMeRNA: fast and accurate filtering of ribosomal RNAs in metatranscriptomic data. Bioinformatics. 2012;28(24):3211–7.
+6. McDonald D, Price MN, Goodrich J, Nawrocki EP, DeSantis TZ, Probst A, Andersen GL, Knight R, Hugenholtz P. An improved Greengenes taxonomy with explicit ranks for ecological and evolutionary analyses of bacteria and archaea. ISME J. 2012;6(3):610–8.
+7. Caporaso JG, Kuczynski J, Stombaugh J, Bittinger K, Bushman FD, Costello EK, Fierer N, Pena AG, Goodrich JK, Gordon JI, et al. QIIME allows analysis of high-throughput community sequencing data. Nat Methods. 2010;7(5):335–6.
+8. Faith DP, Baker AM. Phylogenetic diversity (PD) and biodiversity conservation: some bioinformatics challenges. Evol Bioinform Online. 2006;2:121–8.
+9. Mandal S, Van Treuren W, White RA, Eggesbo M, Knight R, Peddada SD. Analysis of composition of microbiomes: a novel method for studying microbial composition. Microb Ecol Health Dis. 2015;26:27663.
+10. Weingarden A, Gonzalez A, Vazquez-Baeza Y, Weiss S, Humphry G, Berg-Lyons D, Knights D, Unno T, Bobr A, Kang J, et al. Dynamic changes in short- and long-term bacterial composition following fecal microbiota transplantation for recurrent Clostridium difficile infection. Microbiome. 2015;3:10.
+11. Halfvarson J, Brislawn CJ, Lamendella R, Vazquez-Baeza Y, Walters WA, Bramer LM, D’Amato M, Bonfiglio F, McDonald D, Gonzalez A, et al. Dynamics of the human gut microbiome in inflammatory bowel disease. Nat Microbiol. 2017;2:17004.
+12. Lozupone C, Knight R. UniFrac: a new phylogenetic method for comparing microbial communities. Appl Environ Microbiol. 2005;71(12):8228–35.
+13. Vazquez-Baeza Y, Pirrung M, Gonzalez A, Knight R. EMPeror: a tool for visualizing high-throughput microbial community data. Gigascience. 2013;2(1):16.
+14. Knights D, Kuczynski J, Charlson ES, Zaneveld J, Mozer MC, Collman RG, Bushman FD, Knight R, Kelley ST. Bayesian community-wide culture-independent microbial source tracking. Nat Methods. 2011;8(9):761–3.
+15. Jones E, Oliphant E, Peterson P, et al. SciPy: open source scientific tools for Python, 2001–, http://www.scipy.org/ [Online; Accessed 2017-04-06].
+16. Gevers D, Kugathasan S, Denson LA, Vazquez-Baeza Y, Van Treuren W, Ren B, Schwager E, Knights D, Song SJ, Yassour M, et al. The treatment-naive microbiome in new-onset Crohn’s disease. Cell Host Microbe. 2014;15(3):382–92.
+17. Faith DP. Phylogenetic diversity, functional trait diversity and extinction: avoiding tipping points and worst-case losses. Philos Trans R Soc Lond B Biol Sci. 2015;370(1662):20140011.
+18. Kelly CR, Khoruts A, Staley C, Sadowsky MJ, Abd M, Alani M, Bakow B, Curran P, McKenney J, Tisch A, et al. Effect of fecal microbiota transplantation on recurrence in multiply recurrent clostridium difficile infection: a randomized trial. Ann Intern Med. 2016;165(9):609–16.
+19. Staley C, Kelly CR, Brandt LJ, Khoruts A, Sadowsky MJ. Complete microbiota engraftment is not essential for recovery from recurrent Clostridium difficile infection following fecal microbiota transplantation. mBio 2016;7(6).
+
+# Submit your next manuscript to BioMed Central
+
+- We accept pre-submission inquiries
+- Our selector tool helps you to find the most relevant journal
+- We provide round the clock customer support
+- Convenient online submission
+- Thorough peer review
+- Inclusion in PubMed and all major indexing services
+- Maximum visibility for your research
+
+Submit your manuscript at www.biomedcentral.com/submit

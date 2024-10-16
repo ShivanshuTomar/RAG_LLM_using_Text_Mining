@@ -1,0 +1,45 @@
+# ARTICLE
+
+# NATURE COMMUNICATIONS | DOI: 10.1038/s41467-018-05357-4
+
+# Pediatric IBD patients
+
+|Protein abundance|Host proteins|Microbial proteins|Strain L2-6|Strain A2-165|
+|---|---|---|---|---|
+|Control|Degradation|Biosynthesis| | |
+|Crohn’s disease| | | | |
+|Ulcerative colitis| | | | |
+
+# Phages (Caudovirales)
+
+# Stressers
+
+# Intestinal aspirates
+
+# Microbiome
+
+# Extracellular vesicles (EVs)
+
+# Metaproteomics
+
+# EV proteomics
+
+# Host defense proteins
+
+|Protein|Function|Pathway|Network|Taxonomy|
+|---|---|---|---|---|
+|MPO| | | | |
+|BPI| | | | |
+|AQ6| | | | |
+|Fungi| | | | |
+|H S producing enzymes| | | | |
+
+# Graphic summary of the study design and main findings
+
+Intestinal MLI aspirate samples were collected from three different intestinal regions from pediatric IBD patients or controls; the microbiomes and EVs were isolated and characterized using techniques including metaproteomics/proteomics approach. The differentially abundant human/microbial proteins, functions, pathways and microbial taxa were identified using multivariate statistical approaches. The intestinal MLI of IBD patients features an increased relative abundance of human proteins, in particular those EV-associated defense proteins, such as MPO and BPI, and a concomitant microbial dysbiosis at both functional and taxonomic levels.
+
+From neutrophils, an important component of intestinal mucosal immunity, had anti-bacterial activities which were dependant on ITGB2 function. Accordingly, we found that ITGB2 (CD18) as well as ITGAM (CD11b, a marker that is consistently expressed on cell surface of neutrophils), two subunits of αMβ2 integrin, were the most significantly increased MLI microbiome-associated human proteins in IBD and both also were hub proteins in the network of differentially abundant MLI human proteins identified in this study. The additional hub protein MPO, which is abundantly expressed in neutrophils and previously reported as a protein cargo of EVs released from neutrophils, was also significantly increased in IBD. This elevated expression of MPO is also in agreement with previous observations from fecal samples. Moreover, the proteomic characterization of isolated free EVs from intestinal aspirate samples also identified MPO as significantly increased in IBD compared to controls. Given the ability of MPO to produce reactive oxidants such as hypohalous acids, the host cell-derived EVs that carry increased amount of oxidative antimicrobials, such as MPO, may contribute to the elevated level of oxidative stress against microbes in the intestine of IBD patients.
+
+Neutrophil infiltration of the intestinal mucosa is a common phenomenon in IBD. Li et al. have performed a metaproteomic characterization of the MLI proteins in adult CD and UC patients and found that the neutrophil-derived products such as human neutrophil peptide (HNP) 1–3 were significantly increased in both the MLI and biopsy samples. In addition, other anti-microbial proteins derived from epithelium cells such as defensin 5, β-defensin 1 and 2, as well as transferrin and hepcidin that are involved in iron homeostasis, were among the most significantly increased proteins in the MLI adult patients. In the current pediatric study, we also identified HNP3 and lactotransferrin (LTF) as increased in IBD compared to controls, however, we did not identify the other epithelium cell-derived ones. Instead, we identified neutrophil-derived proteins as the most significantly different MLI human proteins in IBD compared to control. This difference might be due to differences in the depth of metaproteomic measurement or sample processing procedures since we performed differential centrifugation to enrich the microbial cells and remove potential shedding intestinal cells or tissue debris. Therefore, human proteins directly binding to the microbial cells or carried by the human-derived vesicles were preferentially enriched and more readily identified in our study.
+
+In addition to the MLI microbiome-associated human proteins, we also revealed marked functional alterations of microbiota in IBD patients. In particular, the microbial functions related to DNA damage repair and the microbial defense response were among the most significantly increased functions in IBD, which is in accordance with the observations of elevated host EV proteins, such as reactive oxidant-producing MPO, since reactive oxidants are known to mediate DNA damage. Interestingly, we showed that the abundance of the UDG protein, an enzyme which cleaves uracils and repairs oxidative stress related DNA damage such as oxidized cytosine derivatives, correlated to most of the host response proteins and aberrant microbial functions. These findings indicate that the elevated oxidative stress in the intestine of IBD patients might be a crucial driver for the aberrant host-microbiota interactions.

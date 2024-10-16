@@ -1,0 +1,29 @@
+# Tian et al. Microbiome (2024) 12:130
+
+# Statistical analysis
+
+R language (version 4.2.3) was employed for all statistical tests and data visualization in this study.
+
+# Alpha diversity
+
+We quantified the number of observed vOTUs per sample by counting those vOTUs that exhibited relative abundances not equal to 0. We derived the Shannon index from the vOTU-level relative abundance profile by applying the diversity function with the “index = shannon” parameter. Notably, in computing alpha diversity indexes for the eukaryotic or prokaryotic virome, we exclusively rely on the relative abundance profile of vOTUs assigned to the eukaryotic or prokaryotic families.
+
+# Beta diversity
+
+The vOTU-level relative abundance profile was first subjected to square root transformation. Subsequently, Bray–Curtis distances between samples were computed based on the transformed data using the vegdist function. Using this distance matrix, we conducted a PERMANOVA using the adonis function. Similarly, based on the same distance matrix, PCoA was carried out using the pcoa function from the ape package. The PCoA plot was generated using the ggplot function. Within the plot, we applied the stat_ellipse function to include ellipses around each group’s centroid, displaying an 80% confidence interval.
+
+# Statistical test
+
+To compare the alpha diversity indexes and relative abundances of the viral community between groups, we conducted a Wilcoxon rank-sum test using the wilcox.test function. The resulting p-values were adjusted for multiple comparisons using the p.adjust function with the “method = B-H” parameter (Benjamini–Hochberg method). Spearman correlation analysis was conducted using the cor.test function with the “spearman” parameter to evaluate the association between the alpha diversity index of the gut virome and bacteriome. In the functional comparison between IBD-enriched and control-enriched vOTUs, we first calculated the occurrence ratio of each function within each group of viruses. This occurrence ratio is defined as the number of vOTUs possessing the corresponding functional gene divided by the total number of vOTUs within that specific group. Fisher’s exact test was applied to compare the occurrence ratios of each function between IBD-enriched and control-enriched vOTUs using the fisher.test function.
+
+# Random forest model
+
+We additionally downloaded data from nine cohorts, including eight bulk datasets and one VLP dataset. Random forest model was constructed separately for each of the 11 datasets, including our 2 datasets, to perform classification predictions for IBD patients and healthy controls. The model, along with five repeats of fivefold cross-validation, was built based on IBD-associated vOTUs using the randomForest function. The importance of IBD-associated vOTUs was assessed using the mean decrease in accuracy (MDA) index, which was obtained using the importance function. Subsequently, the importance rank of IBD-associated vOTUs was determined based on the average of MDA indexes derived from the results of five repeats of fivefold cross-validation. To assess the performance of the model, we calculated the AUC using the roc function from the pROC package. Additionally, we assessed the performance of the cross-cohort model for disease classification. This involved training the model on one dataset and validating it on another dataset. For the leave-one-dataset-out analysis (LODO), we built the model using a training dataset that consisted of data from ten cohorts and subsequently assessed its performance on the remaining cohort.
+
+# Animal experiments
+
+All animal studies were approved by the Ethical Committee of Experimental Animal Care of Dalian Medical University (AEE19044).
+
+# Preparation of FVT materials and counting of VLPs
+
+Three grams of pooled fecal samples were placed into a sterile 50-mL centrifuge tube. Thirty milliliters of SM buffer were added to create a fecal suspension. The suspension was left to stand on ice for 2 h with two intermittent shakes during this period. Afterward, centrifugation was performed at 5000 × g for 5 min at 4 °C. The supernatant was then transferred to a new sterile 50 mL-centrifuge tube and subjected to centrifugation at 12,000 × g for 15 min at 4 °C, and the supernatant was transferred to a new sterile 50-mL centrifuge tube. This step was

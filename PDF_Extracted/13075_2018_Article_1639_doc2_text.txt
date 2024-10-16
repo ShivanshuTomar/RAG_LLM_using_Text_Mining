@@ -1,0 +1,31 @@
+# Regner et al. Arthritis Research & Therapy (2018) 20:149
+
+# Exclusion Criteria
+
+SpA were excluded, to allow for clear discrimination between cohorts. Controls were eligible if they did not have IBD or SpA and did not meet the exclusion criteria. Exclusion criteria for all groups included pregnancy, use of antibiotics within the past 14 days, current colon cancer, celiac disease, diagnosis of any rheumatologic disease (except in the axSpA group in which only a diagnosis of SpA was permitted), chemotherapy or radiation therapy for any malignancy within the past year, daily use of aspirin or non-steroidal anti-inflammatory drugs (NSAIDs) with inability to hold the drug 7 days before and after the procedure, use of anticoagulation, HIV, Clostridium difficile infection within the past 3 months, or evidence of inflammatory spinal or axial arthritis (post-inflammatory changes on radiographs or a diagnosis of sacroiliitis) based on chart review (except in the axSpA group).
+
+# Data Collection
+
+Information about demographic characteristics, medical history, disease history, and family history were abstracted from charts. All subjects completed a questionnaire inquiring about dietary habits such as meat and fish consumption, fruit and vegetable consumption, and whole grain consumption. Patients (cases) completed questionnaires to obtain the Harvey Bradshaw Index (HBI) in CD, the Simple Clinical Colitis Activity Index (SCCAI) in UC, and the Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) in axSpA. Blood was collected to measure C-reactive protein (CRP) and white blood cell count (WBC) if not measured within the past 30 days, and to test HLA-B27 status if not already performed for routine clinical care. Fecal samples were collected by cotton swab of the rectum and stored at 80 °C until analysis. During endoscopy, 15 pinch biopsies of colonic mucosa were taken from endoscopically normal-appearing colonic tissue, combined in phosphate-buffered saline (PBS) on ice, and taken to the laboratory for further processing.
+
+# Ethical Considerations
+
+All clinical investigations were conducted according to the principles expressed in the Declaration of Helsinki. The study protocol was approved by the Colorado Multiple Institutional Review Board. All patients provided written informed consent and authorization for release of personal health information. An independent safety officer was assigned and met every 12 months with the investigators to conduct safety reviews.
+
+# Analysis of IELs
+
+IELs were harvested from tissue by vortexing the 15 pinch biopsies together in 10 mL of PBS with 1 mM EDTA for 10 min at room temperature. They were filtered through a 70-μm cell filter, centrifuged, and resuspended in 1 mL of PBS with 5% fetal calf serum. T cells were counted using a hemocytometer then divided: 200 μL for flow cytometry and 800 μl for magnetic sorting using a modified human T cell isolation kit (StemCell Technologies, Vancouver, BC, Canada). The isolated human epithelial cells from pinch biopsies were mixed with 10 μl of human T cell enrichment cocktail (StemCell Technologies) and 2 μL biotinylated anti-CD236 (1B7, eBiosciences, San Diego, CA, USA) for 10 min at room temperature. The remaining steps of the kit protocol were then followed to complete magnetic separation. The sorted cells were again counted to corroborate with our presorted cell counts in which IELs were quantified using flow cytometry data. The flow cytometry percentages with presort counts were used to calculate IEL numbers except in the few cases (four individuals) in which the flow cytometry data were of poor quality. In those cases, the post-sort counts were used for total IEL numbers, but further T cell subsets could not be quantified.
+
+# Post-Sorted IELs
+
+Post-sorted IELs were mitogen-stimulated with 10 ng/mL of phorbol 12-myristate 13-acetate (PMA) and 1 ng/mL ionomycin overnight. Cytokines IL-1β, IL-6, IL-10, IL-17A, interferon (IFN)-γ, and TNF-α in the culture supernatants were measured by ELISA (Meso Scale Discovery, Rockville, MD, USA).
+
+# Flow Cytometry
+
+For flow cytometry, cells were stained for surface markers CD3 (UCHT1), CD45 (HI30), CD4 (RPA-T4), CD8α (RPA-T8), CD8β (SIDI8BEE), CD44 (IM7), CD103 (B-Ly7), TCRβ (WT31), TCRγδ (B1.1), and a viability dye (Ghost Dye™ Violet 510, Tonbo Biosciences, San Diego, CA, USA) and then fixed in 4% paraformaldehyde in PBS. Samples were run on a LSR II (Becton, Dickinson and Company Biosciences, San Jose, CA, USA) and data analyzed with FlowJo version 10.1 (Treestar, San Carlos, CA, USA).
+
+# Microbiome Analysis
+
+DNA from feces of cases and controls was extracted using a commercial kit (UltraPure Fecal DNA, MO BIO Inc., Carlsbad, CA, USA). Bacterial profiles were determined by broad-range amplification and sequence analysis of 16S rRNA genes following our previously described methods. In brief, amplicons were generated using barcoded primers that target approximately 340 base pairs of the V3 V4 variable region of the 16S rRNA gene. Illumina paired-end sequencing was performed on the Miseq platform with versions v2.4 of the Miseq Control Software and of MiSeq Reporter, using a 600 cycle version 3 reagent kit.
+
+Illumina Miseq paired-end reads were aligned to human reference genome hg19 with bowtie2 and matching sequences discarded. As previously described, the remaining non-human paired-end sequences were demultiplexed, assembled, trimmed (moving window of five nucleotides until average quality was met or exceeded 20), and chimera-checked.

@@ -1,0 +1,61 @@
+# Beneficial spices
+
+- Lactobacillus
+- Campylobacter
+- Bifidobacterium
+- Oscillospira
+- Prevotella
+- Candidatus Saccharimonas
+- Alloprevotella
+- Muribaculaceae
+- Alistipes
+
+# IELs
+
+MSCs
+Tcells
+MNPs
+
+In inflammation, it also mediates repair mechanisms through its positive effects on the epithelial barrier. This beneficial and harmful dual behavior of IL-6 in the gut poses challenges for targeting clinical therapeutic purposes. As a result, further research is needed.
+
+# Harmful spices
+
+- Muribaculaceae
+- Escherichia coli
+- Enterococcus faecalis
+- Desulfovibrio
+- Bilophila
+- Sutterella
+- Akkermansia
+- Dorea
+- Ruminiclostridium
+- Helicobacter
+- Firmicutes
+- Lachnoclostridium
+- Lachnospiraceae NK4A136
+
+# ILC3
+
+DCs
+MQs
+Thi
+
+# Inflammatory Cytokines
+
+|Cytokine|Function|
+|---|---|
+|IL-18|Chronic inflammation|
+|IL-6|Th17 differentiation|
+|IL-8|Tcell apoptosis|
+|TGF-B|Disease severity|
+|IL-17|Inflammatory cells infiltration|
+|IL-18|Permeability of the intestinal epithelial barrier|
+|TNF-a|Homeostasis|
+|CCLz|Treg/Th17 ratio|
+|IL-4|Epithelial barrier integrity|
+|IL-22|Modulation of inflammation|
+|IL-33| |
+|IL-13| |
+|IL-10| |
+
+Structure–function analysis and understanding of cellular/signal interactions in the intestinal tract may effectively advance IL-6/IL-6R inhibition-based therapies (Friedrich et al. 2019).

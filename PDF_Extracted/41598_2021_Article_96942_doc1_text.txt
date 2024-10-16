@@ -1,0 +1,35 @@
+# www.nature.com/scientificreports/
+
+# A
+
+|Disease|No. of patients|Sex (M/F %)|Age (Mean)|
+|---|---|---|---|
+|CD (All)|30|60/40|52.8 ± 14.2|
+|CD-CC|16|50/50|50.5 ± 11.7|
+|CD-SB|6|50/50|61.7 ± 10.8|
+|CD-TI|7|43/57|51.3 ± 20.8|
+|CD-Multi|1|100/0|47 ± 0|
+|UC (All)|56|60/40|53.4 ± 15.7|
+|UC-LS|23|61/39|56.9 ± 15.9|
+|UC-Pan|13|85/15|46.9 ± 16.0|
+|UC-Proc|20|45/55|53.6 ± 14.5|
+|MC (All)|5|20/80|66.2 ± 16.7|
+|Healthy|84|46/54|58.0 ± 10.8|
+
+# C
+
+# D
+
+# E
+
+Figure 1. (A) Overview of FAMISHED Patient cohort. (B) NMDS ordination plot based on the Bray Curtis dissimilarity between Healthy Controls and three IBD conditions, CD, MC, UC. (C) The Observed ASV diversity of Healthy Controls and patients classified as having IBD. (D) The Observed ASV diversity of Healthy Controls and patients classified as having CD, UC, and MC. (E) The Observed ASV diversity of Healthy Controls and patients classified as having CD, UC, and MC when accounting for disease location in CD and UC patients.
+
+most from a healthy microbiome compared to disease located elsewhere in the gastrointestinal tract. In contrast to this body of work, two recent large metagenomic studies on IBD noted no discernible effect of location on the microbiome in their disease cohorts when considering how to group patients for analysis. Despite not observing a difference due to disease location, the latter study did note the influence that disease activity had on the microbiome. To our knowledge, no study has elucidated whether perceived changes in microbiome taxonomic composition and diversity due to disease location leads to changes in microbiome functional potential. Furthermore, some large microbiome studies still do not consider disease location as a factor which may influence their study conclusions.
+
+# Methods
+
+# Study population.
+
+Patients were recruited as part of the FAMISHED (Food and Fermentation using Metagenomics in Health and Disease) study. The study was given approval by the United Kingdom’s NHS Health Research Authority and the Warwick Research Ethics Committee ref: 09/H1211/38 and conducted in accordance with the guidance and regulations set out by the United Kingdom’s NHS Health Research Authority. Written informed consent was obtained from all participants in the study, with patients under 18 excluded from the study.
+
+175 stool samples were collected to include those with CD, UC, and MC (Fig. 1, Supplementary Table 1). Conditions were further delineated by disease location; for CD; Small Bowel Crohn’s (CD-SB), Terminal ileitis (CD-TI), Colonic Crohn’s (CD-CC), and CD of multiple sites (CD-Multi); for UC; Left-side colitis (UC-LS), Pancolitis (UC-PC), and Ulcerative Proctitis (UC-PR) (Fig. 1). Patients and healthy controls were similar in both.

@@ -1,0 +1,17 @@
+# Production of cytoskeleton to strengthen the mucosal layer
+
+# Regulate the lymphoid tissues & B-cell lineage
+
+|DCs to induce indole secreting microbes|Microbiota|Metabolites, SCFA butyrate; propionate|other ligands|
+|---|---|---|---|
+|Bacteroides spp|and Alcaligenes|slgA|SARSCoV-2|
+|Flamentous bacteria, Clostridia, Schaedlers flora|MAMPs Microbe Associated molecular pattern|MAMPs to engage with PRRs & TLRs|Pattern recognition receptors PRRs|
+|SARS CoV-2|FLAGELLIN|TLRs|ACE-2 Receptor|
+|MUCOSA|IFNAR 1&2|IFNA|IL-23|
+|TLR-5|Intestinal Barrier|Activated CD4+T-cells|TLRs|
+|Thl7 T-cell function|Control Rotavirus|commensals growth|IL-10|
+|Local & Systemic Tolerance|secretory IgA|Naive CD4+T-cell|DC|
+|DC|DC|Treg cell|NODI|
+|IL-23|IL-17|Naive CD4+ T-cells differentiate into Thl-Th17 cells allowing pathogens growth & hyper secretion of cytokines|Treg Cells|
+|Th 17 T-cells|PAYER'S PATCH|LAMINA PROPRIA|METABOLIC TISSUES|
+|Inflammation|resistance Insulin|Type 2 Diabetes| |

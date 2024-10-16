@@ -1,0 +1,28 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Table 1. Microbiome outcomes (Continued)
+
+|Association with|increased abundance were most|reduced abundance following|dFMT:|
+|---|---|---|---|
+|• Anaerostipescac-4 to 8|• Gordonibacter pamelaeae|• Clostridium aldenense| |
+| | |was strongly associated with disease|improvement following dFMT.|
+
+Crothers UC MoBio 2021
+
+"Measures of micro- microbial alpha diversity (Shannon index) between subjects and donor samples, and to their own baseline samples, were calculated. No difference in alpha diversity was observed between treatment groups at baseline. FMT did not increase alpha (Shannon) diversity in recipients but did lead to community-level changes in the gut microbiota creating measurable similarity (beta diversity, JensenShannon divergence index) between FMT subjects and their donor."
+
+DNA extraction was performed using the MoBio Powersoil 96 kit with minor modifications and 16S rRNA gene libraries targeting the V4 region of the 16S rRNA gene were prepared. Each sample was given a unique reverse barcode and replicates were then pooled, cleaned and normalized prior to sequencing on an Illumina MiSeq 300. Raw sequence reads were then processed and OTU calling performed using the Qiime2—data pipeline. Measures of microbial alpha diversity (Shannon index) and beta diversity (JensenShannon divergence) between subjects and donor samples, and to their own baseline samples, were calculated.
+
+No difference in alpha or beta diversity was observed between treatment groups at baseline. FMT did not increase alpha (Shannon) diversity in recipients but did lead to community-level changes in the gut microbiota creating measurable similarity (beta diversity, JensenShannon divergence index) between FMT subjects and their donor. This convergence, which we termed ‘Donor Divergence Index’, remained statistically significant through 8 weeks of dosing weeks following cessation of oral cFMT therapy.
+
+Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

@@ -1,0 +1,62 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Library
+
+# Better health.
+
+# Intervention
+
+# Donors
+
+All 12 studies used feces from apparently healthy donors. In nine studies, the donors were not related to the study participants receiving FMT (Březina 2021; Costello 2019; Crothers 2021; Haifer 2022; Moayyedi 2015; Pai 2021; Paramsothy 2017; Sokol 2020; Sood 2019a). In one study, all donors were related to the recipient (Fang 2021), and in another study, there was a mixture of related and unrelated donors (Rossen 2015). One study did not specify whether the donors were related to the recipients (Sarbagili Shabat 2022).
+
+# Route
+
+Two studies administered FMT to the upper GI tract only, of which one used oral capsules (Haifer 2022) and one used nasoduodenal tubes (Rossen 2015). Nine studies administered FMT to the lower GI tract only, of which three used enemas (Březina 2021; Moayyedi 2015; Pai 2021), four used colonoscopies (Fang 2021; Paramsothy 2017; Sokol 2020; Sood 2019a), and two used a combination of enemas and colonoscopy (Costello 2019; Sarbagili Shabat 2022). One study used a combination of oral capsules and colonoscopy (Crothers 2021).
+
+# Number of administrations
+
+The number of FMT administrations varied across studies. Two studies gave only a single administration (Fang 2021; Sokol 2020), whereas the other studies gave multiple administrations, with a maximum of 85 FMT doses in Crothers 2021.
+
+# Weight of stool
+
+The weight of stool used in each FMT administration ranged from 0.35 g per capsule (Haifer 2022) to 120 g via nasoduodenal tube (Rossen 2015).
+
+# Volume of stool
+
+The volume of FMT delivered in each administration ranged from 50 mL (Moayyedi 2015) to 500 mL (Rossen 2015). One study that used oral capsules administered six capsules four times daily for one week, then six capsules twice daily for one week, followed by six capsules daily for another six weeks to induce remission and two capsules daily for another 48 weeks to maintain remission in UC (Haifer 2022).
+
+# Colon preparation
+
+Nine studies used colon preparation before FMT (Březina 2021; Costello 2019; Crothers 2021; Fang 2021; Haifer 2022; Rossen 2015; Sarbagili Shabat 2022; Sokol 2020; Sood 2019a), while the others did not.
+
+# Comparison
+
+Two studies used autologous FMT as the comparator (Costello 2019; Rossen 2015), seven used sham placebo that may have contained saline or water (Crothers 2021; Haifer 2022; Moayyedi 2015; Pai 2021; Paramsothy 2017; Sokol 2020; Sood 2019a), one used mesalamine via enema (Březina 2021), one used the UC Exclusion Diet (Sarbagili Shabat 2022), and one used 'routine therapy' that varied depending on the severity of disease but potentially included mesalamine, corticosteroids, or both (Fang 2021). The volume, frequency of administration, and colon preparation were similar between the FMT and control groups in the respective studies except for Fang 2021 and Sarbagili Shabat 2022. Fang 2021 used 'routine therapy' as the comparator as opposed to placebo, so these control participants did not have colon preparation, whereas the treatment group that received FMT via colonoscopy did have colon preparation. Similarly, Sarbagili Shabat 2022 placed the control participants on the UC Exclusion Diet, so they did not receive colon preparation either.
+
+# Outcomes
+
+All 12 studies reported data for at least one of the primary outcomes in this review. For the outcome of induction of clinical remission, two studies defined the outcome of clinical scores only (Pai 2021; Sarbagili Shabat 2022), while eight studies reported the composite of clinical and endoscopic remission (Březina 2021; Costello 2019; Crothers 2021; Fang 2021; Haifer 2022; Moayyedi 2015; Paramsothy 2017; Rossen 2015). Three studies reported on maintenance of remission in IBD, of which one study reported on maintenance of steroid-free remission in CD at week 24 (Sokol 2020), while two studies reported on maintenance of steroid-free clinical remission in UC at week 48 (Sood 2019a) and at week 56 (Haifer 2022).
+
+# The outcome of 'induction of clinical remission' was defined by the study authors as:
+
+- Březina 2021: Total Mayo score 2 or less with no subscore greater than 1 at week 12;
+- Costello 2019: Total Mayo score 2 or less with endoscopic Mayo score 1 or less at week eight; clinical remission as a non-composite outcome was defined by Simple Clinical Colitis Activity Index (SCCAI) score;
+- Crothers 2021: Modified Mayo score 2 or less including Rectal Bleeding (RB) subscore of 0, Stool Frequency (SF) subscore of 0 or with at least 1-point decrease from baseline to achieve SF subscore 1 or less, and endoscopic subscore 1 or less at week 12;
+- Fang 2021: Mayo score 2 or less with each subscore 1 or less at week eight;
+- Haifer 2022: Total Mayo score 2 or less, with all Mayo subscores 1 or less, and at least 1-point reduction of Mayo endoscopic subscore from baseline endoscopy at week eight;
+- Moayyedi 2015: Full Mayo score less than 3 and endoscopic Mayo score of 0 at week seven;
+- Pai 2021: Pediatric Ulcerative Colitis Activity Index (PUCAI) less than 15 at week six (actual longest follow-up was week 30, but it appeared that trial first opened for analysis at week six);
+- Paramsothy 2017: Total Mayo score 2 or less, with all subscores 1 or less, and at least 1-point reduction from baseline in endoscopy subscore at week eight;
+- Rossen 2015: composite of clinical remission (SCCAI score 2 or less) in combination with at least 1-point improvement on combined Mayo endoscopic score of sigmoid and rectum versus baseline sigmoidoscopy at week 12;
+- Sarbagili Shabat 2022: clinical steroid-free remission (SCCAI less than 3) at week eight.
+
+# Follow-up
+
+The follow-up time for measurement of induction of remission in UC ranged from six weeks (Pai 2021; Rossen 2015) to 12 weeks (Březina 2021; Crothers 2021; Rossen 2015). Five studies measured induction of clinical remission in UC at eight weeks (Costello 2019; Fang 2021; Haifer 2022; Paramsothy 2017; Sarbagili Shabat 2022).
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

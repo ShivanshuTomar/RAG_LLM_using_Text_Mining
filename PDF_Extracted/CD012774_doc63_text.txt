@@ -1,0 +1,67 @@
+# Cochrane Library
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Sood 2019a (Continued)
+
+# Participants
+
+# Inclusion criteria
+
+- People with active UC (Mayo score 4–10) being treated with standard-of-care therapy (5-ASAs, corticosteroids, thiopurines) who achieved clinical remission (Mayo score ≤ 2, with each subscore ≤ 1) after 7 sessions of colonoscopic FMT and were on stable dosing of medications (5-ASA and azathioprine for 6 months)
+
+# Exclusion criteria
+
+- People with proctitis (E1 disease) and receiving topical 5-ASAs
+
+# Interventions
+
+# Experimental arm
+
+n = 31
+
+- Single donor feces; 100 g stool in 200 mL infusion, administered via colonoscopy at weeks 0, 8, 16, 24, 32, 40, and 48
+
+# Control arm
+
+n = 30
+
+- Placebo consisting of preservative-free normal saline with added food grade color; in 200 mL infusion, administered via colonoscopy at weeks 0, 8, 16, 24, 32, 40, and 48
+
+# Outcomes
+
+# Primary outcome
+
+- Maintenance of steroid-free clinical remission at week 48 (Mayo score ≤ 2, all subscores ≤ 1)
+
+# Secondary outcomes
+
+- Endoscopic remission at week 48 (Endoscopic Mayo score 0)
+- ESR and CRP at week 48
+- Adverse events
+
+# Notes
+
+Data extraction: the breakdown of adverse events was extracted with the assumption that 1 event occurred per participant. We only extracted data on clinical and endoscopic remission rates, adverse events, withdrawals, ESR, and CRP during the maintenance period.
+
+Data interpretation: study authors used an ITT approach, in which it appeared that all randomized participants received ≥ 1 study dose and were considered in the final analysis, even though some participants were lost to follow-up over the course of the maintenance period.
+
+Funding: none.
+
+# Risk of bias
+
+|Bias|Authors' judgement|Support for judgement|
+|---|---|---|
+|Random sequence generation (selection bias)|Low risk|Quote: "Eligible patients who consented were then randomised in a 1:1 ratio according to a computer-generated randomisation list, to receive either FMT or placebo by a colonoscopic route every 8 weeks, for a further 48 weeks." (page 1312)|
+|Allocation concealment (selection bias)|Unclear risk|Comment: the paper did not specifically mention allocation concealment.|
+|Blinding of participants and personnel (performance bias)|Low risk|Quote: "Both patients and treating physicians were blinded to the nature of intervention done." (page 1312)|
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

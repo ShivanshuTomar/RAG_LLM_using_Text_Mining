@@ -1,0 +1,25 @@
+# Construction and content
+
+To create the 1000IBD dataset, we collected and generated extensive prospective phenotype, diet and environment data, extensive treatment event data, and a same patients.
+
+# 1000IBD cohort, patient selection and recruitment
+
+All IBD patients treated in the specialized IBD Center of the Department of Gastroenterology and Hepatology of the University Medical Center Groningen (UMCG) are asked to participate in the 1000IBD project. Patients recruited for the 1000IBD project include new patients with newly referred to our hospital, and patients with IBD new-onset IBD, new patients with multi-omics response and adverse dataset of the existing IBD.
+
+Since there are more than 2000 IBD patients already being treated in our hospital, this last group is gradually being asked to participate to allow our research nurses to obtain the data and samples in an organized way. Since our university hospital is a tertiary referral centre, the number of new-onset IBD patients is limited.
+
+# Generation of clinical phenotype and treatment response data
+
+The only inclusion criteria for the 1000IBD project are that patients need to: (1) be at least 18 years old, (2) have IBD based on accepted radiological, laboratory and endoscopic findings, (3) have provided informed consent and (4) be able to speak, read and write Dutch in order to be able to fill in the questionnaires. Paediatric patients are not included in 1000IBD because our institutional review board (IRB) approval does not cover them. There are no additional inclusion or exclusion criteria. Inclusion is still on-going, and the project had enrolled 1215 IBD patients as of September 1, 2017.
+
+An extensive prospective phenotype data model was developed to ensure uniform data collection over time and across different healthcare professionals. Data items and descriptions of the data model are listed in Additional file 1: Table S1. This phenotype model is similar to the phenotype model of the Dutch IBD Biobank (part of Parelsnoer).
+
+# 1000IBD informed consent and IRB approval
+
+All patients are asked to sign an informed consent form. Once they have given written informed consent, we collect, generate and integrate clinical data, diet and environmental data, genome data, transcriptome data, and microbiome data for each participant. The 1000IBD project was approved by the UMCG IRB (IRB number 2008.338).
+
+At inclusion, the research nurse fills in most of the data items. The gastroenterologist subsequently only updates data items that have changed since the last patient visit. Table 1 provides an overview of the available data on the most important phenotypes and summary statistics of the 1215 1000IBD participants.
+
+# Generation of dietary and environmental data
+
+We developed two new questionnaires to gather dietary and environmental data of IBD patients. 1000IBD participants can fill out these questionnaires using a secure web application. The Groningen IBD-specific Food Frequency Questionnaire (GrIB FFQ) was designed to assess the current dietary.

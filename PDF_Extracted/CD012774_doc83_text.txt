@@ -1,0 +1,70 @@
+# Cochrane Library
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# NCT03998488 (Continued)
+
+- Treatment for malignancy within past 5 years
+- Concurrent Clostridioides difficile or other infections
+- Active or latent tuberculosis
+- Clinically meaningful laboratory abnormalities, such as hemoglobin < 8 and alanine aminotransferase > 3 × upper limit of normal
+- History of anaphylactic reactions to food allergens or allergy to psyllium husk
+- Any other condition that, as deemed by study investigator, would jeopardize the safety or rights of study participant, influence completion of study, or confound the study
+
+# Interventions
+
+# Experimental arm
+
+- Investigational FMT once at day 0 via colonoscopy + placebo FMP250 at week 8 via flexible sigmoidoscopy
+- Investigational FMT once at day 0 via colonoscopy + placebo FMP250 at week 8 via flexible sigmoidoscopy + psyllium (twice daily for 8 weeks)
+
+# Control arm
+
+- Placebo FMT once at day 0 via colonoscopy + investigational FMP250 at week 8 via flexible sigmoidoscopy ± psyllium (twice daily for 8 weeks)
+
+# Outcomes
+
+# Primary outcomes
+
+- Clinical response at week 8 (post-FMT reduction of Mayo score by > 3 (+30% reduction) with accompanying decrease in Rectal Bleeding subscore ≥ 1)
+
+# Secondary outcomes
+
+- Clinical remission at week 8 (post-FMT Mayo score ≤ 2 without any subscore > 1)
+- Endoscopic response or remission at week 8 (post-FMT Mayo Endoscopic subscore 0–1 with ≥ 1 reduction from baseline or Mayo Endoscopic subscore 0)
+- Number and type of treatment-related adverse events between week 0 colonoscopy and week 12 post-FMT
+- Change in number of disease-related complications such as hospitalizations, surgeries; and endoscopies; medical complications; and mortality between week 0 colonoscopy and week 12 post-FMT
+
+# Starting date
+
+# Contact information
+
+# Notes
+
+# NCT04034758
+
+# Study name
+
+Safety and efficacy of heterologous FMT by SQIMC-md capsule in mild–moderate ulcerative colitis patients (SQIMC-md)
+
+# Methods
+
+RCT conducted in China
+
+# Participants
+
+# Inclusion criteria
+
+- Age ≥ to < 70 years
+- UC diagnosis based on clinical symptoms and laboratory and colonoscopic findings, including histopathologic results of intestinal mucosa
+- UC Total Mayo score 4–10 (mild-to-moderate activity) and Mayo Endoscopic score ≥ 2 as assessed within 4 weeks prior to enrollment and clinical symptoms that are at least stable
+
+Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

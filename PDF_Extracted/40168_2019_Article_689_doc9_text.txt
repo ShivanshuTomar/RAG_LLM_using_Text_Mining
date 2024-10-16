@@ -1,0 +1,60 @@
+# Heinken et al. Microbiome
+
+# (2019) 7:75
+
+# Healthy neduidc
+
+# IBD_pediatric
+
+# Healthy_HMP
+
+| |Healthy (pediatric)|Healthy (HMP)|
+|---|---|---|
+|Holdemania_filiformis_VPIJI_318|DSM_12042_biomass|Shadow price zero|
+| |Shadow price nonzero| |
+|Ruminococcus gnavus ATCC_29149|biomass|Shadow price {0}|
+| |Shadow price nonzero| |
+
+# 3p hydroxysteroid dehydrogenase
+
+Fig. 4 (See legend on next page.)
+
+# Healthy_HMP
+
+# IBD_pediatric
+
+# 7-dehydro-CDCA
+
+# DG-CDCA
+
+# ala OC4
+
+# allj-LCA
+
+# DCA
+
+# Phylum Acinchacio
+
+# Cunichalo 4
+
+# Flonacicna
+
+# Diet_metabolre
+
+# Pro cchacici
+
+|Collinsella_jerofaciens_ATCC_25986_biomass|Shadow price zero|Shadow price nonzero|
+|---|---|---|
+|1|L|1|
+
+# 36-hydroxysteroid dehydrogenase abundance
+
+185 AGORA strains, e.g., Ruminococcus gnavus ATCC 29149, BSH, Collinsella_aerofaciens ATCC 25986
+
+16 AGORA strains; e.g., Ruminococcus gnavus ATCC 29149, Collinsella_aerofaciens ATCC 25986
+
+Bottleneck in 145 models (Scenario 3)
+
+11 AGORA strains: Ruminococcus gnavus ATCC 29149, Holdemania filiformis DSM 12042
+
+Bottleneck in 19 models (Scenario 2)

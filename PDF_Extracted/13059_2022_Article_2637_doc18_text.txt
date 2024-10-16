@@ -1,0 +1,23 @@
+# Functional enrichment analysis in non‑specific bacteria
+
+Functional analysis was performed using per-ASV prediction of KEGG functions obtained using PICRUSt2 [39]. We then searched for KEGG functions present at significantly higher (or lower) fractions in health-associated non-specific bacteria compared to disease-associated non-specific bacteria (e.g., KEGG functions more common in bacteria that increase (decrease) in multiple diseases compared to the bacteria that decrease (increase) in controls). The test was performed on the normalized per-ASV KEGG function table aggregated at KEGG level 2, using the rank-mean test (implemented in Calour) with dsFDR multiple hypothesis correction (FDR < 0.1), comparing relative abundances of KEGG functions in disease-associated vs. health-associated ASVs.
+
+# Classifier building and performance
+
+For the classification, each disease cohort was randomly subsampled to a maximum of 23 cases and 23 control samples. For each pair of disease cohorts (train, predict), ASVs were filtered, keeping only ASVs present in both cohorts. A random forest classifier (implemented in scikit-learn version 0.23.1, using default parameters, 100 trees per forest) was trained on the case/control samples in the training cohort. The trained classifier was then used to predict the case/control status of the prediction cohort, and false and true positive rates and AUC were calculated using scikit-learn. In the cases where the train and predict disease cohorts were the same (i.e., assessing the classifier predictions on the same disease cohort), the disease cohort samples were randomly split to 2/3 of the samples to be used as the training cohort, and the remaining 1/3 of the samples used as the prediction cohort.
+
+Three random null-models were used: in the random-prediction model, labels of the prediction cohort (i.e., case/control) were randomly permuted prior to the classifier prediction. In the random-training model, labels of the training cohort (again case/control) were randomly permuted prior to the training (thus leaving intact the case/control differences in the prediction cohort). In the third model, labels of the prediction cohort were randomly permuted prior to the classifier prediction, and the labels of the training cohort were randomly permuted prior to the training.
+
+AUC values shown represent the mean AUC results of 50 repeats of the entire process described (for both real data and randomizations).
+
+# Universal dysbiosis index (UniDI)
+
+For a given sample (containing ri reads for ASV 1…n):
+
+S = (r1 , r2 , . . . , rn),
+
+per-sample reads were first rank-transformed, following the method described in [5]:
+
+∼ S = rank(S)
+
+and the dysbiosis index is then defined as the normalized log ratio of the sum of the ranks of the up and down regulated ASVs:

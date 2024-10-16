@@ -1,0 +1,31 @@
+# Cells 2019, 8, 450
+
+# 12 of 23
+
+the abundance of ZO-1 in S. typhimurium-infected Caco-2 cells [172]. Furthermore, the activation of GPR68 by an acidic extracellular environment improved barrier function, and inhibited cell migration and proliferation, during the in vitro model of wound healing in Caco-2 cells [173].
+
+# Intestinal stem cells
+
+The differentiation of the intestinal stem cells into functional intestinal epithelium cells, including Paneth cells, goblet cells, enteroendocrine cells, tuff cells and enterocytes which allows the self-renewal of the intestinal epithelium [174]. On the other hand, the Wnt pathway plays an indispensable role in supporting the stem cell self-renewal [175]. Recently, the role of bacterial metabolites in the promotion of the intestinal stem cell niche has been studied. Lee and co-workers [176] showed that activation of GPR81 expressed on Paneth and stromal cells by symbiont-derived lactate promotes the regeneration of the gut epithelium in a Wnt/β-catenin dependent manner.
+
+# Antimicrobial peptides
+
+Antimicrobial peptides (AMPs) are critical components of innate immunity with antimicrobial activities and are pivotal for intestinal defense. AMPs are expressed either in a constitutive or in an inducible manner in response to microbial invasion [177]. Zhao et al. [178], found that expression of RegIIIγ and β-defensins 1, 3, and 4 is lower in intestinal epithelial cells in GPR43−/− mice compared to WT mice. Moreover, SCFA induces RegIIIγ and β-defensins in intestinal epithelial enteroids generated from WT but not GPR43−/− mice confirming that SCFA-induces antimicrobial peptides mediated through GPR43.
+
+# 8.2. Metabolite-Sensing GPCRs Promote the Intestinal Immune System
+
+# Pro-inflammatory cytokines
+
+Part of the beneficial effects of metabolite-sensing GPCRs is related to the inhibition of pro-inflammatory cytokines secretion. GPR43-deficient mice are significantly more susceptible to colitis induced by DSS [71] which is related to increased production of inflammatory cytokines by GPR43−/− immune cells [71,179]. Furthermore, activation of GPR109A by nicotinic acid in LPS-stimulated human monocytes, reduces the production of pro-inflammatory cytokines including TNF-α and IL-6 [97]. Similarly, stimulation of GPR120 with omega-3 fatty acids decreases the secretion of pro-inflammatory cytokines by monocytic and primary intraperitoneal macrophages, moreover these effects were reversed in GPR120 deficient mice [115].
+
+# Inflammatory cell recruitment
+
+Metabolite-sensing GPCRs manifest their anti-inflammatory effect through inhibition of inflammatory cell recruitment. Genetic ablation of GPR43 exacerbates the neutrophil migration and the treatment with acetate reduces neutrophil migration in WT mice, but not in GPR43−/− animals [180].
+
+# Regulatory T cells
+
+The essential anti-inflammatory role of metabolite-sensing GPCRs is perhaps their promotion of Tregs, which leads to the suppression of the activity of effector T cells. Several studies asked whether bacterial metabolites may regulate Tregs in the gut through metabolite-sensing GPCRs. Dietary fibers can restore colonic Tregs numbers in germfree mice and increase their numbers in colonized gnotobiotic mice [64] mediated through GPR43 expressed on colonic Tregs. Consequently, the feeding of mice with SCFAs protects against experimentally induced colitis in a GPR43 dependent manner [64]. GPR109A also appears to play a role in maintenance of Tregs. Indeed, it has been showed by Singh et al. [57] that colonic lamina propria of GPR109A−/− mice harbor significantly less (~40%) frequency and count of Tregs cells compared to WT. Mechanistically, the Singh et al. study demonstrated that colonic DCs, master regulator of Treg induction, from GPR109A−/− mice were defective in inducing differentiation of naïve OT II CD4+ T cells into Tregs cells [57].
+
+# 9. Potential Tools for Studying Diet and Bacterial-Derived Metabolites in the Context of IBD
+
+A diverse gut microbiota facilitates the establishment of a more stable host system, but this diversity leads to a complex system, which is a disadvantage for scientists who aim to investigate specific metabolites associated with defined species. The colonization of mice with defined consortia of microorganisms modulates the immune system of the host, which also influences the establishment and propagation of the microbiota. Some of the most powerful tools for research are the axenic and

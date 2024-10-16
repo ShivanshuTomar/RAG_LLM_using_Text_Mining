@@ -1,0 +1,63 @@
+# Cochrane Library
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Sood 2019a (Continued)
+
+# All outcomes
+
+Comment: most likely done.
+
+# Blinding of outcome assessment (detection bias)
+
+Low risk
+
+Quote: "The worst site of inflammation was assessed using the Mayo endoscopic subscore and a blinded review, and consensus scoring of endoscopic images [photographs] was done by two gastroenterologists [AjS, RM]." (page 1312)
+
+Comment: most likely done.
+
+# Incomplete outcome data (attrition bias)
+
+Low risk
+
+Comment: experimental group had 1 participant lost to follow-up and 3 relapses; the control group had 8 relapses, 1 colectomy, 1 death.
+
+# Selective reporting (reporting bias)
+
+Low risk
+
+Comment: all intended outcomes were reported in the paper; the trial was registered at Clinical Trials Registry – India (CTRI/2018/02/012148).
+
+# Other bias
+
+Low risk
+
+Comment: no other risk of bias noted.
+
+5-ASA: 5-aminosalicylic acid; bpm: beats per minute; CD: Crohn disease; CRP: C-reactive protein; ESR: erythrocyte sedimentation rate; FMT: fecal microbiota transplantation; HR: heart rate; IBDQ: Inflammatory Bowel Disease Questionnaire; IQR: interquartile range; ITT: intention to treat; mITT: modified intention to treat; n: number; PUCAI: Pediatric Ulcerative Colitis Activity Index; RCT: randomized controlled trial; SCCAI: Simple Clinical Colitis Activity Index; SD: standard deviation; TNF: tumor necrosis factor; UC: ulcerative colitis; UCEIS: Ulcerative Colitis Endoscopic Index of Severity.
+
+# Characteristics of excluded studies [ordered by study ID]
+
+|Study|Reason for exclusion|
+|---|---|
+|Adler 2019|Wrong comparator: included optional extension arm after colonoscopic FMT, in which participants received cap-FMT maintenance therapy|
+|Allegretti 2016|Wrong study population: cohort study that included people with recurrent Clostridioides difficile infection|
+|Borody 2003|Wrong study design: case series|
+|Chen 2018|Wrong comparator: no comparator arm|
+|Chen 2020|Wrong comparator: people with moderately to severely active UC were randomly assigned to undergo FMT 3 times on days 1, 3, and 5 by nasojejunal tube or transendoscopic enteral tubing.|
+|Chin 2017|Wrong study population: included participants with IBD with recurrent Clostridioides difficile infection, for which FMT was used as treatment|
+|Ding 2019|Wrong comparator: all participants received FMT|
+|El-Nachef 2020|Wrong comparator: participants were randomized into 4 arms, all of which included FMT, no placebo arm|
+|Fang 2017|Wrong comparator: of 5 participants, 2 were diagnosed with very early-onset CD, 2 had UC, and 1 had pseudomembranous colitis; they received FMT via nasojejunal tube or colonoscopy.|
+|Fischer 2016|Wrong study population: included people with IBD who had recurrent Clostridioides difficile infection|
+|Gionchetti 2000|Wrong intervention: used probiotics instead of FMT|
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

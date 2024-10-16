@@ -1,0 +1,21 @@
+# Knights et al. Genome Medicine 2014, 6:107
+
+# Figure 2 NOD2 fine mapping reveals association with taxonomic and metabolic dysbiosis.
+
+(a) Scatterplot of NOD2-bacterial taxon regression coefficients in one study versus the corresponding regression coefficients in another study. We included only those taxa with a nominally significant (P < 0.05) association in at least one of the cohorts being compared.
+
+(b) Comparison of residual distributions of Enterobacteriaceae with and without incorporating the six independent known causal NOD2 variants; considering variant rs5743293, only 6.3% of subjects have one or more risk alleles; aggregating risk allele counts across the six variants increases this to 21.8%, and reveals much stronger associations with the microbiome. The strip charts and violin plots show the distribution of standardized residual relative abundance of Enterobacteriaceae versus NOD2 risk allele dosage after data transformation and regression on clinical covariates. Violin plots show the conditional density of residual relative abundance within each dosage level.
+
+(c) Relative positions of six NOD2 variants in NOD2 exons [29].
+
+in a mouse model of Escherichia coli infection. TNFSF14 and TNFSF15 are known to share an alternative receptor, indicating potential functional overlap. IL12B forms part of the interleukin-23 complex, involved in microbial defense mechanisms through the IL23-Th17 pathway.
+
+# Immunity-related host functional pathways linked to microbiome profile
+
+We hypothesized that host functional pathways containing multiple risk variants related to microbial handling and innate immune response would be associated with microbiome features. To test this hypothesis we performed a functional enrichment analysis on the 49 genes identified to have conserved microbiome associations across cohorts. We found these genes to be significantly enriched for regulation of innate immune response (FDR = 2.31 × 10-6, hypergeometric enrichment test), inflammatory response (FDR = 7.43 × 10-6, hypergeometric enrichment test), and participation in the JAK-STAT cascade (FDR = 2.04 × 10-4, hypergeometric enrichment test) (Figures 3 and 4; Additional file 5).
+
+A gene-gene interaction network analysis also implicated STAT3, interleukin-12 subunit alpha (IL12A), and interleukin-23 subunit alpha (IL23A) in the network of associated genes. STAT3 and TNFSF15 are both implicated in IL23 signaling. STAT3 works in concert with Janus Kinase 2 (JAK2) in the JAK-STAT pathway to drive immune response to pathogenic infection. STAT3 also regulates T helper 17 (Th17) cell differentiation by binding IL23 receptor (IL23R; risk variant for IBD: rs11209026) and RAR-related orphan receptor C (RORC; rs4845604), both of which are located in IBD risk loci. STAT3 defects have also been implicated recently in skin microbial imbalance and impaired host defense. TNFSF15, a member of the tumor necrosis factor ligand superfamily, is a costimulator of T cells, and is specifically expressed more highly in the gut in IBD patients compared with healthy controls [31,32].
+
+# Fine mapping of NOD2 locus reveals association with Enterobacteriaceae
+
+Based on previous results [9-13] and on the strong linkage between NOD2 and microbial handling [9,12,13], we continued with a targeted analysis of NOD2 association with specific microbial taxa and functions (Additional file 6).

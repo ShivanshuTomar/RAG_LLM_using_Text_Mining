@@ -1,0 +1,42 @@
+# Alam et al. Gut Pathog (2020) 12:1
+
+# Page 6 of 8
+
+# Fig. 3 The human gut bacteria family co-abundance
+
+a, i The network represents the global human gut bacterial family coexistence considering the four most highly abundant gut bacterial phyla. The network connections are based on correlation test (P-value < 1e−10 and Pearson’s correlation coefficient > 0.3). Edge connection between families from the same phylum is shown in black lines whereas the family connection between different phyla is shown in grey lines. Family nodes are coloured according to phylum.
+
+a, ii This graph demonstrates the number of families (i.e. nodes) belonging to a different phylum in the global bacterial family coexistence.
+
+a, iii The percentage connection between families from the same phylum is substantially higher in the global bacterial family coexistence compared to a random network of the same size.
+
+# b family level abundance in CD condition
+
+# family level abundance in UC condition
+
+# family connections
+
+|Phylum|CD Condition|UC Condition|Connections|
+|---|---|---|---|
+|Actinobacteria|coriobacteriaceae|coriobacteriaceae|same phylum|
+|Actinobacteria|erysipelotrichaceae|erysipelotrichaceae|different phylum|
+|Bacteroidetes|prevotellaceae|prevotellaceae|same phylum|
+|Firmicutes|christensenella cede|christensenellaceae|different phylum|
+|Firmicutes|burbye Hariateae|burbye Heriateae|same phylum|
+|Firmicutes|veillonellaceae|veillonellaceae|different phylum|
+|Firmicutes|ruminococcaceae|ruminococcaceae|same phylum|
+|Bacteroidetes|bacteroidaceae|bacteroidaceae|different phylum|
+|Actinobacteria|bifidobacteriaceae|bifidobacteriaceae|same phylum|
+|Actinobacteria|erikenellaceae|erikenellaceae|different phylum|
+|Proteobacteria|pseudomonadaceae|pseudomonadaceae|same phylum|
+|Firmicutes|streptococcaceae|streptococcaceae|different phylum|
+|Actinobacteria|acidaminococcaceae|acidaminococcaceae|same phylum|
+|Firmicutes|tannerellaceae|tannerellaceae|different phylum|
+
+abundance level change
+
+- >1.5 fold up in CD or UC
+- >1.5 fold up in healthy
+- unchanged
+
+healthy controls abundance

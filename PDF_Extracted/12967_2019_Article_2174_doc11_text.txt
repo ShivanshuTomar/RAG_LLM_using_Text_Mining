@@ -1,0 +1,54 @@
+# Kumar et al. J Transl Med (2019) 17:419
+
+# References
+
+1. Bell JS, Spencer JI, Yates RL, et al. From nose to gut—the role of the microbiome in neurological disease. Neuropathol Appl Neurobiol. 2018.
+2. Baim AD, Movahedan A, Farooq AV, et al. The microbiome and ophthalmic disease. Exp Biol Med. 2018. https://doi.org/10.1177/1535370218813616.
+3. Dickson I. Gut microbiota: diagnosing IBD with the gut microbiome. Nat Rev Gastroenterol Hepatol. 2017;14:195.
+4. Flint HJ, Scott KP, Louis P, et al. The role of the gut microbiota in nutrition and health. Nat Rev Gastroenterol Hepatol. 2012;9:577–89.
+5. Al Khodor S, Shatat IF. Gut microbiome and kidney disease: a bidirectional relationship. Pediatr Nephrol. 2017;32:921–31.
+6. Al Khodor S, Reichert B, Shatat IF. The microbiome and blood pressure: can microbes regulate our blood pressure? Front Pediatr. 2017;5:138.
+7. Tseng CH, Wu CY. The gut microbiome in obesity. J Formos Med Assoc. 2019;118(Suppl 1):S3–9. https://doi.org/10.1016/j.jfma.2018.07.009.
+8. Qin Y, Roberts JD, Grimm SA, et al. An obesity-associated gut microbiome reprograms the intestinal epigenome and leads to altered colonic gene expression. Genome Biol. 2018;19:7.
+9. Murugesan S, Nirmalkar K, Hoyo-Vadillo C, et al. Gut microbiome production of short-chain fatty acids and obesity in children. Eur J Clin Microbiol Infect Dis. 2018;37:621–5.
+10. Luo Y, Blackledge WC. Microbiome-based mechanisms hypothesized to initiate obesity-associated rheumatoid arthritis. Obes Rev. 2018;19:786–97.
+11. Leong KSW, Derraik JGB, Hofman PL, et al. Antibiotics, gut microbiome and obesity. Clin Endocrinol. 2018;88:185–200.
+12. Langan EA, Gratz V, Billmann F, et al. Does the gastrointestinal microbiome contribute to the ‘obesity paradox’ in melanoma survival? Br J Dermatol. 2018;179:225–6.
+13. Cheng M, Zhang X, Zhu J, et al. A metagenomics approach to the intestinal microbiome structure and function in high fat diet-induced obesity mice fed with oolong tea polyphenols. Food Funct. 2018;9:1079–87.
+14. Castaner O, Goday A, Park YM, et al. The gut microbiome profile in obesity: a systematic review. Int J Endocrinol. 2018;2018:4095789.
+15. Fedorak RN, Ismond KP. Practical considerations and the intestinal microbiome in disease: antibiotics for IBD therapy. Dig Dis. 2016;34:112–21.
+16. Hansen JJ, Sartor RB. Therapeutic manipulation of the microbiome in IBD: current results and future approaches. Curr Treat Options Gastroenterol. 2015;13:105–20.
+17. Lavelle A, Sokol H. Gut microbiota: beyond metagenomics, metatranscriptomics illuminates microbiome functionality in IBD. Nat Rev Gastroenterol Hepatol. 2018;15:193–4.
+18. Rehman A, Rausch P, Wang J, et al. Geographical patterns of the standing and active human gut microbiome in health and IBD. Gut. 2016;65:238–48.
+19. Santoru ML, Piras C, Murgia A, et al. Cross sectional evaluation of the gut-microbiome metabolome axis in an Italian cohort of IBD patients. Sci Rep. 2017;7:9523.
+20. Sitkin S, Vakhitov T, Pokrotnieks J. How to increase the butyrate-producing capacity of the gut microbiome: do IBD patients really need butyrate replacement and butyrogenic therapy? J Crohns Colitis. 2018;12:881–2.
+21. Wu GD. Diet, the gut microbiome and the metabolome in IBD. Nestle Nutr Inst Workshop Ser. 2014;79:73–82.
+22. Kumar M, Mathur T, Joshi V, et al. Effect of DS-2969b, a novel GyrB inhibitor, on rat and monkey intestinal microbiota. Anaerobe. 2018;51:120–3.
+23. Martinez-Medina M, Garcia-Gil LJ. Escherichia coli in chronic inflammatory bowel diseases: an update on adherent invasive Escherichia coli pathogenicity. World J Gastrointest Pathophysiol. 2014;5:213–27.
+24. Lopez-Siles M, Martinez-Medina M, Busquets D, et al. Mucosa-associated Faecalibacterium prausnitzii and Escherichia coli co-abundance can distinguish Irritable Bowel Syndrome and Inflammatory Bowel Disease phenotypes. Int J Med Microbiol. 2014;304:464–75.
+25. Takahashi K, Nishida A, Fujimoto T, et al. Reduced abundance of butyrate-producing bacteria species in the fecal microbial community in Crohn’s disease. Digestion. 2016;93:59–65.
+26. Machiels K, Joossens M, Sabino J, et al. A decrease of the butyrate-producing species Roseburia hominis and Faecalibacterium prausnitzii defines dysbiosis in patients with ulcerative colitis. Gut. 2014;63:1275–83.
+27. Willing BP, Dicksved J, Halfvarson J, et al. A pyrosequencing study in twins shows that gastrointestinal microbial profiles vary with inflammatory bowel disease phenotypes. Gastroenterology. 2010;139(1844–1854):e1.
+28. Conte MP, Longhi C, Marazzato M, et al. Adherent-invasive Escherichia coli (AIEC) in pediatric Crohn’s disease patients: phenotypic and genetic pathogenic features. BMC Res Notes. 2014;7:748.
+29. Man SM, Zhang L, Day AS, et al. Campylobacter concisus and other Campylobacter species in children with newly diagnosed Crohn’s disease. Inflamm Bowel Dis. 2010;16:1008–16.
+30. Rowan F, Docherty NG, Murphy M, et al. Desulfovibrio bacterial species are increased in ulcerative colitis. Dis Colon Rectum. 2010;53:1530–6.
+31. Negroni A, Costanzo M, Vitali R, et al. Characterization of adherent-invasive Escherichia coli isolated from pediatric patients with inflammatory bowel disease. Inflamm Bowel Dis. 2012;18:913–24.
+32. Campos N, Magro F, Castro AR, et al. Macrophages from IBD patients exhibit defective tumour necrosis factor-alpha secretion but otherwise normal or augmented pro-inflammatory responses to infection. Immunobiology. 2011;216:961–70.
+33. Sasaki M, Sitaraman SV, Babbin BA, et al. Invasive Escherichia coli are a feature of Crohn’s disease. Lab Investig. 2007;87:1042–54.
+34. Zhang S, Fu J, Dogan B, et al. 5-Aminosalicylic acid downregulates the growth and virulence of Escherichia coli associated with IBD and colorectal cancer, and upregulates host anti-inflammatory activity. J Antibiot. 2018;71:950–61.
+35. Renouf MJ, Cho YH, McPhee JB. Emergent behavior of IBD-associated Escherichia coli during disease. Inflamm Bowel Dis. 2019;25(1):33–44.
+36. Ummarino D. Spondyloarthropathies: E. coli links IBD to spondyloarthritis. Nat Rev Rheumatol. 2017;13:198.
+37. Kotlowski R. Use of Escherichia coli Nissle 1917 producing recombinant colicins for treatment of IBD patients. Med Hypotheses. 2016;93:8–10.
+38. Bucker R, Schulz E, Gunzel D, et al. alpha-Haemolysin of Escherichia coli in IBD: a potentiator of inflammatory activity in the colon. Gut. 2014;63:1893–901.
+39. Ray K. IBD: fertilizing the gut: host-derived nitrate contributes to Escherichia coli bloom in colitis. Nat Rev Gastroenterol Hepatol. 2013;10:197.
+40. Darfeuille-Michaud A, Colombel JF. Pathogenic Escherichia coli in inflammatory bowel diseases: proceedings of the 1st international meeting on E. coli and IBD, June 2007, Lille, France. J Crohns Colitis. 2008;2:255–62.
+41. La Ferla K, Seegert D, Schreiber S. Activation of NF-kappaB in intestinal epithelial cells by E. coli strains isolated from the colonic mucosa of IBD patients. Int J Colorectal Dis. 2004;19:334–42.
+42. O’Brien CL, Bringer MA, Holt KE, et al. Comparative genomics of Crohn’s disease-associated adherent-invasive Escherichia coli. Gut. 2017;66:1382–9.
+43. Zhang Y, Rowehl L, Krumsiek JM, et al. Identification of candidate adherent-invasive E. coli signature transcripts by genomic/transcriptomic analysis. PLoS ONE. 2015;10:e0130902.
+44. Borruel N, Carol M, Casellas F, et al. Increased mucosal tumour necrosis factor alpha production in Crohn’s disease can be downregulated ex vivo by probiotic bacteria. Gut. 2002;51:659–64.
+45. Glasser AL, Boudeau J, Barnich N, et al. Adherent invasive Escherichia coli strains from patients with Crohn’s disease survive and replicate within macrophages without inducing host cell death. Infect Immun. 2001;69:5529–37.
+46. Wagner J, Short K, Catto-Smith AG, et al. Identification and characterisation of Pseudomonas 16S ribosomal DNA from ileal biopsies of children with Crohn’s disease. PLoS ONE. 2008;3:e3578.
+47. Wei B, Huang T, Dalwadi H, et al. Pseudomonas fluorescens encodes the Crohn’s disease-associated I2 sequence and T-cell superantigen. Infect Immun. 2002;70:6567–75.
+48. Horing E, Gopfert D, Schroter G, et al. Frequency and spectrum of microorganisms isolated from biopsy specimens in chronic colitis. Endoscopy. 1991;23:325–7.
+49. Mottawea W, Chiang CK, Muhlbauer M, et al. Altered intestinal microbiota-host mitochondria crosstalk in new onset Crohn’s disease. Nat Commun. 2016;7:13419.
+50. Bashir A, Miskeen AY, Hazari YM, et al. Fusobacterium nucleatum, inflammation, and immunity: the fire within human gut. Tumour Biol. 2016;37:2805–10.

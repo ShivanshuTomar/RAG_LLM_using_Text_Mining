@@ -1,0 +1,77 @@
+# A response to molecule of bacterial origin
+
+# Response to lipopolysaccharide neutrophil chemotaxis
+
+# IL−17 signaling pathway
+
+# Neutrophil migration
+
+# Granulocyte chemotaxis
+
+# Granulocyte migration
+
+# Running Enrichment Score
+
+# Maintenance of location in cell
+
+# Viral protein interaction with cytokine and cytokine receptor
+
+# Leukocyte chemotaxis
+
+# Myeloid leukocyte migration
+
+# Chronic inflammatory response
+
+|Count|Pathway|Running Enrichment Score|p.adjust|
+|---|---|---|---|
+|1|Collagen−containing extracellular matrix|2.0|0.03|
+|2|Chemokine signaling pathway|2.5|0.02|
+|3|External side of plasma membrane|3.0|0.02|
+|4|Ficolin−1−rich granule|3.5|0.01|
+|5|Secretory granule lumen|4.0|0.01|
+|6|Cytoplasmic vesicle lumen| | |
+| |Vesicle lumen| | |
+| |PML body| | |
+| |Ficolin−1−rich granule lumen| | |
+| |Tertiary granule| | |
+| |Serine−type endopeptidase complex| | |
+
+# Cytokine−cytokine receptor interaction
+
+# GeneRatio
+
+|Running Enrichment Score|RA|CD|UC|
+|---|---|---|---|
+|0.8|Allograft rejection|Allograft rejection|Allograft rejection|
+| |Antigen processing and presentation|Asthma|Asthma|
+| |Autoimmune thyroid disease|Autoimmune thyroid disease|Graft−versus−host disease|
+| |Graft−versus−host disease|Inflammatory bowel disease|Inflammatory bowel disease|
+|0.6|Intestinal immune network for IgA production|Leishmaniasis|Leishmaniasis|
+| |Primary immunodeficiency|Staphylococcus aureus infection|Systemic lupus erythematosus|
+| |Type I diabetes mellitus|Type I diabetes mellitus|Viral myocarditis|
+
+# Running Enrichment Score
+
+|Running Enrichment Score|RA|CD|UC|
+|---|---|---|---|
+|0.0|Cocaine addiction|Colorectal cancer|Bile secretion|
+| |Drug metabolism − cytochrome P450|Butanoate metabolism|Drug metabolism − cytochrome P450|
+| |Endometrial cancer|Metabolism of xenobiotics by cytochrome P450|Nitrogen metabolism|
+| |Pentose and glucuronate interconversions|Retinol metabolism|Pentose and glucuronate interconversions|
+| |Spliceosome|Retinol metabolism|Retinol metabolism|
+| |Thyroid cancer|Terpenoid backbone biosynthesis|Steroid hormone biosynthesis|
+| |Tyrosine metabolism| |Terpenoid backbone biosynthesis|
+
+# Figure 5.
+
+Functional annotation of candidate genes and identification of pathways associated with RA and IBD. (A) Results of GO enrichment analysis of 15 candidate genes identified via WGCNA. (B) Results of KEGG enrichment analysis53 of 15 candidate genes identified via WGCNA. (C) PPI network of 15 candidate genes. (D) Upregulated enriched pathways identified via GSEA in the RA training cohort. (E) Upregulated enriched pathways identified via GSEA in the CD cohort. (F) Upregulated enriched pathways identified via GSEA in the UC cohort. (G) Downregulated enriched pathways identified via GSEA in the RA training cohort. (H) Downregulated enriched pathways identified via GSEA in the CD cohort. (I) Downregulated enriched pathways identified via GSEA in the UC cohort.
+
+# Identification of the gut microbiome in RA based on machine learning.
+
+Differential analysis revealed two intestinal microbes at the genus (Prevotella and Ruminococcus) and two intestinal microbes at the species (Prevotella copri and Ruminococcus bromii) levels in the PRJEB6997 dataset (Fig. 7A; Supplementary Spreadsheet S13). Gut microbes associated with RA were screened using two machine learning algorithms in the PRJEB6997 dataset. The LASSO regression algorithm revealed four microbial groups associated with RA (Fig. 7B,C), whereas the SVM-RFE algorithm revealed three microbial groups (Fig. 7D,E). The three overlapping microbial groups (Prevotella, Ruminococcus, and Ruminococcus bromii) identified using the two methods were selected (Fig. 7F), and their diagnostic efficacy and abundance were examined. Prevotella, Ruminococcus, and Ruminococcus bromii exhibited lower diagnostic values (0.5 < AUC < 0.7) (Fig. 7G). The abundance of these three bacterial groups was different between healthy and RA. The abundance of Prevotella was high and that of Ruminococcus and Ruminococcus bromii was low among patients with RA (Fig. 7H).
+
+# Construction of an interaction network among shared specific gene associated with the gut microbiome in RA
+
+Based on the previous results and data extracted from the gutMGene database, gut microbes associated with RA were identified at the genus (Ruminococcus) and species (Prevotella copri, Ruminococcus bromii, Ruminococcus flavefaciens, Ruminococcus gnavus, and Ruminococcus champanellensis 18P13[T]) levels. The gutMGene database was used to identify metabolites associated with the abovementioned microbes (butyrate, alanine, leucine, isoleucine, glycine, proline, tartaric acid, glycocholic acid, fructose, propionate, glycerol, ursodeoxycholic acid, acetate, and succinate) (Supplementary Spreadsheet S14). Subsequently, the STITCH database was used to identify a single gene (CXCL10) directly associated with the metabolites as the shared specific genes related to the gut microbiome in RA (Fig. 8A).
+
+Based on the findings of GSEA and the high expression of CXCL10, Venn diagrams were drawn to demonstrate 7 shared high-expression pathways identified via GSEA and 18 shared genes in the RA and IBD samples.

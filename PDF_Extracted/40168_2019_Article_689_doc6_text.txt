@@ -1,0 +1,52 @@
+# Heinken et al. Microbiome (2019) 7:75
+
+# 12 Class
+
+|a|R: gnavus|
+|---|---|
+| |scindens|
+| |C. hiranois|
+| |hylemonae|
+| |Actinobacteria|
+| |Alphaproteobacteria|
+| |Bacilli|
+| |Bacteroidia|
+| |Clostridia|
+| |Coriobacteriia|
+| |Erysipelotrichia|
+| |Fusobacteriia|
+| |Gammaproteobacteria|
+| |Methanobacteria|
+| |Planctomycetales|
+| |PhylumActinobacteria|
+| |Bacteroidetes|
+| |Euryarchaeota|
+| |Firmicutes|
+|Eggerthella lenta|Fusobacteria|
+| |Planctomycetes|
+| |Proteobacteria|
+
+# b 12-dehydrocholate production potential
+
+|H2|1|
+|---|---|
+|L|1|
+| |82|
+
+# C Cholate deconjugation potential
+
+|2|8|
+|---|---|
+|1|11|
+
+PCo1 18.98% explained variance
+
+#eafedieedfatric
+
+[Bealtpez HMP]
+
+# Fig. 3
+
+The predicted bile acid metabolic profiles of microbe-microbe pairs and individual gut microbiomes. a Complementary bile acid biosynthesis capabilities of the 232 gut microbial models with bile acid pathways joined in all possible combinations. The numbers of secondary bile acids (out of 13), which can be produced by each pair, are shown. b, c Total secretion potential in the healthy adults (Healthy_HMP), IBD patients (IBD_pediatric), and healthy pediatric controls (Healthy_pediatric) (flux values are given in mmol × person-1 × day-1): b deconjugated cholate, c 12-dehydro-CA. Significant difference (p value < 0.001) is indicated by stars. d Principal Coordinates Analysis of the strain-level contributions to two deconjugated primary and 13 secondary bile acids for the healthy adults, IBD patients, and healthy pediatric controls. Details on the strain to metabolite contributions are shown in Additional file 1: Table S8, and in Additional file 2: Figure S7.
+
+18–40 years provided by the Human Microbiome Project Consortium [35] and (2) 20 children with newly diagnosed Crohn’s disease and microbial dysbiosis and 25 healthy controls (COMBO/PLEASE cohort [36, 37]). each of the 194 sample by joining the corresponding

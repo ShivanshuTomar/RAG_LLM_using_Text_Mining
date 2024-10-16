@@ -1,0 +1,95 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Library
+
+# Better health.
+
+# Nguyen 2019
+
+Nguyen N, Zhang B, Holubar SD, Pardi DS, Singh S. Treatment and prevention of pouchitis after ileal pouch-anal anastomosis for chronic ulcerative colitis. Cochrane Database of Systematic Reviews 2019, Issue 5. Art. No: CD001176. [DOI: 10.1002/14651858.CD001176.pub4]
+
+# Nooruddin 2020
+
+Nooruddin M, Scherr C, Friedman P, Subrahmanyam R, Banagan J, Moreno D, et al. Why African Americans say "no": a study of pharmacogenomic research participation. Ethnicity and Disease 2020;30(Suppl 1):159-66.
+
+# Osman 2016
+
+Osman M, Stoltzner Z, O'Brien K, Ling K, Koelsch E, Dubois N, et al. Donor efficacy in fecal microbiota transplantation for recurrent Clostridium difficile: evidence from a 1,999-patient cohort. Open Forum Infectious Diseases 2016;3(Suppl 1):841.
+
+# Owens 2013
+
+Owens C, Broussard E, Surawicz C. Fecal microbiota transplantation and donor standardization. Trends in Microbiology 2013;21(9):443-5.
+
+# Paramsothy 2017
+
+Paramsothy S, Paramsothy R, Rubin DT, Kamm MA, Kaakoush NO, Mitchell HM, et al. Faecal microbiota transplantation for inflammatory bowel disease: a systematic review and meta-analysis. Journal of Crohn's and Colitis 2017;11(10):1180-99.
+
+# Petersen 2014
+
+Petersen C, Round JL. Defining dysbiosis and its influence on host immunity and disease. Cellular Microbiology 2014;16(7):1024-33.
+
+# Peyrin-Biroulet 2011
+
+Peyrin-Biroulet L, Ferrante M, Magro F, Campbell S, Franchimont D, Fidder H, et al. Results from the 2nd Scientific Workshop of the ECCO. I: impact of mucosal healing on the course of inflammatory bowel disease. Journal of Crohn's and Colitis 2011;5(5):477-83.
+
+# Rapozo 2017
+
+Rapozo DC, Bernardazzi C, de Souza HS. Diet and microbiota in inflammatory bowel disease: the gut in disharmony. World Journal of Gastroenterology 2017;23(12):2124-40.
+
+# RevMan Web 2023 [Computer program]
+
+Review Manager Web (RevMan Web). Version 4.28.1. The Cochrane Collaboration, 2023. Available from www.revman.cochrane.org.
+
+# Ridaura 2013
+
+Ridaura VK, Faith JJ, Rey FE, Cheng J, Duncan AE, Kau AL, et al. Gut microbiota from twins discordant for obesity modulate metabolism in mice. Science 2013;341(6150):1241214.
+
+# Rode 2021
+
+Rode AA, Chehri M, Krogsgaard LR, Heno KK, Svendsen AT, Ribberholt I, et al. Randomised clinical trial: a 12-strain bacterial mixture versus faecal microbiota transplantation versus vancomycin for recurrent Clostridioides difficile infections. Alimentary Pharmacology and Therapeutics 2021;53(9):999-1009.
+
+# Saha 2021
+
+Saha S, Mara K, Pardi DS, Khanna S. Long-term safety of fecal microbiota transplantation for recurrent Clostridioides difficile infection. Gastroenterology 2021;160(6):1961-9.
+
+# Schulberg 2016
+
+Schulberg J, De Cruz P. Characterisation and therapeutic manipulation of the gut microbiome in inflammatory bowel disease. Internal Medicine Journal 2016;46(3):266-73.
+
+# Shi 2016
+
+Shi Y, Dong Y, Huang W, Zhu D, Mao H, Su P. Fecal microbiota transplantation for ulcerative colitis: a systematic review and meta-analysis. PLOS One 2016;11(6):e0157259.
+
+# Solari 2014
+
+Solari PR, Fairchild PG, Noa LJ, Wallace MR. Tempered enthusiasm for fecal transplant. Clinical Infectious Diseases 2014;59(2):319.
+
+# Sun 2016
+
+Sun D, Li W, Li S, Cen Y, Xu Q, Li Y, et al. Fecal microbiota transplantation as a novel therapy for ulcerative colitis: a systematic review and meta-analysis. Medicine (Baltimore) 2016;95(23):e3765.
+
+# van Nood 2013
+
+van Nood E, Vrieze A, Nieuwdorp M, Fuentes S, Zoetendal EG, de Vos WM, et al. Duodenal infusion of donor feces for recurrent Clostridium difficile. New England Journal of Medicine 2013;368(5):407-15.
+
+# Vindigni 2016
+
+Vindigni SM, Zisman TL, Suskind DL, Damman CJ. The intestinal microbiome, barrier function, and immune system in inflammatory bowel disease: a tripartite pathophysiological circuit with implications for new therapeutic directions. Therapeutic Advances in Gastroenterology 2016;9(4):606-25.
+
+# Weintraub 2014
+
+Weintraub Y, Mimouni FB, Cohen S. Temporal trends in inflammatory bowel disease publications over a 19-years period. World Journal of Gastroenterology 2014;20(44):16745-9.
+
+# Witherden 2017
+
+Witherden EA, Shoaie S, Hall RA, Moyes DL. The human mucosal mycobiome and fungal community interactions. Journal of Fungi (Basel) 2017;3(4):56.
+
+# Youngster 2014
+
+Youngster I, Sauk J, Pindar C, Wilson RG, Kaplan JL, Smith MB, et al. Fecal microbiota transplant for relapsing Clostridium difficile infection using a frozen inoculum from unrelated donors: a randomized, open-label, controlled pilot study. Clinical Infectious Diseases 2014;58(11):1515-22.
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

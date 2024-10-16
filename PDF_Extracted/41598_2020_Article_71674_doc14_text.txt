@@ -1,0 +1,43 @@
+# References
+
+1. Li, W. & Godzik, A. Cd-hit: a fast program for clustering and comparing large sets of protein or nucleotide sequences. Bioinformatics 22, 1658–1659 (2006).
+2. Kumar, R. & Nanduri, B. HPIDB—a unified resource for host–pathogen interactions. BMC Bioinform. 11, S16 (2010).
+3. Mondal, S. I. et al. Study of intra–inter species protein–protein interactions for potential drug targets identification and subsequent drug design for Escherichia coli O104:H4 C277-11. In Silico Pharmacol. 5, 1 (2016).
+4. Mardinoglu, A. et al. Integration of clinical data with a genome-scale metabolic model of the human adipocyte. Mol. Syst. Biol. 9, 649 (2013).
+5. Szklarczyk, D. et al. STRING v10: protein–protein interaction networks, integrated over the tree of life. Nucleic Acids Res. 43, D447–D452 (2015).
+6. Khayer, N. et al. Oral squamous cell cancer protein–protein interaction network interpretation in comparison to esophageal adenocarcinoma. Gastroenterol. Hepatol. Bed Bench 10, 118-124 (2017).
+7. Verma, A., Somvanshi, P., Haque, S., Rathi, B. & Sharda, S. Association of inflammatory bowel disease with arthritis: evidence from in silico gene expression patterns and network topological analysis. Interdiscip. Sci. Comput. Life. Sci. 11, 387-396 (2017).
+8. Rosa, N. et al. The landscape of protein biomarkers proposed for periodontal disease: markers with functional meaning. Biomed. Res. Int. 2014, 569632 (2014).
+9. Li., Y, et al. Significant modules and biological processes between active components of Salvia miltiorrhiza depside salt and aspirin. Evid. Based Complement. Altern. Med. 2016, 3439521 (2016).
+10. Chen, L. et al. Gene ontology and KEGG pathway enrichment analysis of a drug target-based classification system. PLoS ONE 10, e0126492 (2015).
+11. Repasky, M. P., Shelley, M. & Friesner, R. A. Flexible ligand docking with Glide. Curr. Protoc. Bioinform. 18, 8–12 (2007).
+12. Verma, A., Rathi, B. & Sharda, S. Identification of novel drug targets against Campylobacter jejuni using metabolic network analysis. Int. J. Pharm. Bio Sci. 7, 56–62 (2016).
+13. Shannon, P. et al. Cytoscape: a software environment for integrated models of biomolecular interaction networks. Genome Res. 13, 2498–2504 (2003).
+14. Brown, K., Emes, R. D. & Tarlinton, R. E. Multiple groups of endogenous epsilon-like retroviruses conserved across primates. J. Virol. 88, 12464–12471 (2014).
+15. Combe, B. et al. 2016 update of the EULAR recommendations for the management of early arthritis. Ann. Rheum. Dis. 76, 948–959 (2017).
+16. Zhao, Y., Tang, H., Tan, C., Zhao, H. & Liu, Y. HLA-B27 Correlates with the intracellular elimination, replication, and trafficking of Salmonella enteritidis collected from reactive arthritis patients. Med. Sci. Monit. 23, 5420–5429 (2017).
+17. Chaurasia, S., Shasany, A., Aggarwal, A. & Misra, R. Recombinant Salmonella typhimurium outer membrane protein A and D reactive T cells are expanded in synovial fluid of patients with reactive arthritis and undifferentiated spondyloarthropathy (HUM6P. 251). J. Immunol. 194, 210–218 (2015).
+18. Rio, D. C., Ares, M., Hannon, G. J. & Nilsen, T. W. Purification of RNA using TRIzol (TRI reagent). Cold Spring Harb. Protoc. 2010, pdb-prot5439 (2010).
+19. Al-Mossawi, M. H., et al. Unique transcriptome signatures and GM-CSF expression in lymphocytes from patients with spondyloarthritis. Nat. Commun. 8, 1510 (2017).
+20. Kitajima, M. et al. Development of a reverse transcription-quantitative PCR system for detection and genotyping of Aichi viruses in clinical and environmental samples. Appl. Environ. Microbiol. 79, 3952–3958 (2013).
+21. Lim, C. K. et al. Characterization of the Kynurenine pathway and quinolinic acid production in macaque macrophages. Int. J. Tryptophan Res. 6, 7–19 (2012).
+22. Toiyama, Y. et al. Persistence of gene expression changes in noninflamed and inflamed colonic mucosa in ulcerative colitis and their presence in colonic carcinoma. World. J. Gastroenterol. 11, 5151–5155 (2005).
+23. Cartwright, J. A. et al. Vitamin D receptor expression in dogs. J. Vet. Intern. Med. 32, 764–774 (2018).
+24. Pfaffl, M. W., Horgan, G. W. & Dempfle, L. Relative expression software tool (REST) for group-wise comparison and statistical analysis of relative expression results in real-time PCR. Nucleic Acids Res. 30, e36 (2002).
+25. Zhang, P., Minardi, L. M., Kuenstner, J. T., Zekan, S. M. & Kruzelock, R. Anti-microbial antibodies, host immunity, and autoimmune disease. Front. Med. 5, 153 (2014).
+26. Inaoka, P. T., Shono, M., Kamada, M. & Espinoza, J. L. Host-microbe interactions in the pathogenesis and clinical course of sarcoidosis. J. Biomed. Sci. 26, 45 (2019).
+27. Verma, A., Goel, N., Laxmi, V., Rathi, B. & Sharda, S. Elucidating vital drug targets of Salmonella enterica utilizing the bioinformatic approach. J. Pharm. Sci. Res. 8, 71–78 (2016).
+28. Taglicht, D., Padan, E. & Schuldiner, S. Overproduction and purification of a functional Na+/H+ antiporter coded by nhaA (ant) from Escherichia coli. J. Biol. Chem. 266, 11289–11294 (1991).
+29. Wang, H. et al. Pro-inflammatory miR-223 mediates the cross-talk between the IL23 pathway and the intestinal barrier in inflammatory bowel disease. Genome Biol. 17, 58 (2016).
+30. Haberman, Y. et al. Pediatric Crohn disease patients exhibit specific ileal transcriptome and microbiome signature. J. Clin. Invest. 124, 3617–3633 (2014).
+31. Smith, A. H. et al. Disruption of macrophage pro-inflammatory cytokine release in Crohn’s disease is associated with reduced optineurin expression in a subset of patients. Immunology 144, 45–55 (2015).
+32. Doudkani-Fard, M. et al. Sensitivity and specificity of adenosine deaminase in diagnosis of juvenile idiopathic arthritis. Med. J. Islam. Repub. Iran 28, 113 (2014).
+33. Popovici, I., Rezuş, E. & Mancaş, G. Antioxidant enzyme levels in reactive arthritis and rheumatoid polyarthritis. Int. J. Prev. Med. 9, 38–42 (2001).
+34. Yen, J. H. et al. Cytochrome P450 1A1 and manganese superoxide dismutase genes polymorphisms in reactive arthritis. Immunol. Lett. 90, 151–154 (2003).
+35. Sommerstein, R., Kochen, M. M., Messerli, F. H. & Gräni, C. Coronavirus disease 2019 (COVID-19): do angiotensin-converting enzyme inhibitors/angiotensin receptor blockers have a biphasic effect?. J. Am. Heart Assoc. 9, e016509 (2020).
+36. Rosh, J. R. The current role of methotrexate in patients with inflammatory bowel disease. Gastroenterol. Hepatol. 16, 224–233 (2020).
+37. Cronstein, B. N. & Aune, T. M. Methotrexate and its mechanisms of action in inflammatory arthritis. Nat. Rev. Rheumatol. 16, 145–154 (2020).
+
+# Acknowledgements
+
+The authors are grateful to Amity Institute of Biotechnology, Amity University Uttar Pradesh, Noida and Department of Biotechnology, TERI School of Advanced Studies, New Delhi for providing the facility and technical support during the preparation of the manuscript. We also thank Fortis Hospital, Noida for providing the patient samples.

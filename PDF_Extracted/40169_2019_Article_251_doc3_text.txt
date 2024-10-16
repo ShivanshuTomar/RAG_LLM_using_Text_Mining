@@ -1,0 +1,9 @@
+|Type of IBD|Study design/aim|Volume/frequency|Route|Observed outcome|References|
+|---|---|---|---|---|---|
+|UC|Efficacy evaluation|24 g/250 ml|Nasojejunal tube|1/5 (20%) had clinical response with effective augmentation by FMT. Side effects included temporal rise in C-reactive protein and fever.|[31]|
+|UC|Prospective and uncontrolled study|250 ml|Duodenal gastroscopy|Significantly reduced clinical index scores for diarrhea, abdominal pain, blood stool and intestinal mucosal lesions. No serious adverse reactions.|[32]|
+|CD with inflammatory mass|Efficacy and safety evaluation|Repeated every 3 months after initial dose|Mid-gut|68% (17/25) and 52% (13/25) clinical response and clinical remission at 3 months respectively. At 6, 12 and 18 months, clinical remission were 48% (12/25), 32% (8/25) and 22.7% (5/22), respectively. No severe adverse events.|[33]|
+|UC|Pilot study on feasibility and safety|165 ml/day|Enema|7/9 (78%) had clinical response within 1 week. 6/9 (67%) maintained clinical response at 1 month. No serious adverse event.|[34]|
+|UC|Randomized controlled trial|Days 1 and 21|Nasoduodenal tube|7/23 (30.4%) had clinical remission in intention-to-treat analysis. 7/17 (41.2%) had clinical remission in the per-protocol analysis. 2 patients had FMT-linked adverse events. Responders had similar microbiota as that of donors by 12 weeks.|[29]|
+|Fistulizing CD|A case study|150 ml once|Mid-gut gastroscopy|Significantly alleviated fever, improved bloody purulent stool and decreased abdominal pain, with reduced intraperitoneal inflammatory mass at 1 week. Clinical remission at 1 month. Sustained clinical remission with resolved mass without exudation at 3 months.|[35]|
+|Refractory CD|Pilot study on feasibility, efficacy and safety|Once|Mid-gut|86.7% (26/30) and 76.7% (23/30) had clinical improvement and remission respectively at 1 month.|[36]|

@@ -1,0 +1,47 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Březina 2021 (Continued)
+
+# Secondary outcomes
+
+- Clinical response at weeks 6 and 12 (reduction in total Mayo score ≥ 2 points)
+- Endoscopic remission at weeks 6 and 12 (endoscopic Mayo score of 0)
+- Adverse events at week 12
+- Withdrawals
+
+# Notes
+
+Data interpretation: study authors used mITT analysis, in which the number of participants who experienced treatment success in the primary outcome was analyzed out of the number of participants who received treatment. The latter did not equal the total number of participants originally randomized to each group. For our review, we considered the number of participants with treatment success in the primary outcome out of the number randomized to each group, and then we conducted sensitivity analyses using only participants with complete data.
+
+Funding: Ministry of Health of the Czech Republic, grant number 16-27449A.
+
+# Risk of bias
+
+|Bias|Authors' judgement|Support for judgement|
+|---|---|---|
+|Random sequence generation (selection bias)|Low risk|Quote: "Eligible patients were randomized 1:1 using a computer-generated randomization list stratified by gender and the receipt of immunosuppressive therapy. The randomization was performed centrally at IKEM in Prague." (page 3)|
+| | |Comment: most likely done.|
+|Allocation concealment (selection bias)|Unclear risk|Quote: "The randomization was performed centrally at IKEM in Prague." (page 3)|
+| | |Comment: likely done.|
+|Blinding of participants and personnel (performance bias)|High risk|Comment: study was open-label, so the participants likely knew the treatment.|
+|Blinding of outcome assessment (detection bias)|Low risk|Quote: "Endoscopies were performed and recorded at each study center and were then centrally assessed by two endoscopists blinded to the administered therapy." (page 3)|
+| | |Comment: most likely done for the primary outcome of induction of clinical remission. Other outcomes may be at high risk of bias.|
+|Incomplete outcome data (attrition bias)|Low risk|Comment: 2 participants randomized to the FMT group were not included in the analysis. Data were available for the remaining participants in the FMT and control groups. Results were less likely to be affected by attrition.|
+|Selective reporting (reporting bias)|Low risk|Comment: all intended outcomes were reported in the paper. Trial registered on ClinicalTrials.gov (NCT03104036).|
+|Other bias|Low risk|Comment: no other risk of bias noted.|
+
+# Costello 2019
+
+# Study characteristics
+
+Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

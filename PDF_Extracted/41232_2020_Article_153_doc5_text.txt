@@ -1,0 +1,70 @@
+# Yoshimatsu et al. Inflammation and Regeneration
+
+# (2021) 41:3
+
+# Conclusion
+
+In the near future, the mechanisms of symbiosis in various microorganisms that coexist in the intestinal environment, including intestinal microbiota, will be clarified. Future medical practice may use bacteriotherapy, which is independent of a fecal bank and applies more refined microbiota. Additionally, molecules produced by microbiota genes may appear as pharmaceuticals. At present, it is desirable to use bacteriotherapy for a group of life-threatening diseases, such as rCDI. However, for patients with non-fatal and intractable diseases, the bacteriotherapy could be challenged because of lack of its safety evidence. A future of bacteriotherapy that is in harmony with the development of various drugs is desired.
+
+# Funding
+
+This study was supported by the Japan Society for the Promotion of Science (JSPS) KAKENHI Grant-in-Aid (B) 20H03666, (A) 15H02534 and 20H00536; Advanced Research and Development Programs for Medical Innovation (AMED-CREST; 16gm1010003h0001 and 20gm1210001h0002); the Takeda Science Foundation; the Kanae Foundation for The Promotion of Medical Science; Mishima Kaiun Memorial Foundation; Keio University Academic Development Funds for Individual Research; and Keio University Medical Fund. We thank Katrina Krogh, MD, from Edanz Group for editing a draft of this manuscript.
+
+# Availability of data and materials
+
+Not applicable.
+
+# Ethics approval and consent to participate
+
+Not applicable.
+
+# Consent for publication
+
+Not applicable.
+
+# Competing interests
+
+The authors declare that they have no competing interests.
+
+# Received
+
+10 December 2019
+
+# Accepted
+
+21 December 2020
+
+# Published online
+
+13 January 202[
+
+# Abbreviations
+
+AHR: Aryl hydrocarbon receptor; APRIL: A proliferation inducing ligand; ATP: Adenosine triphosphate; BAFF: B cell-activation factor; DCs: Dendritic cells; EC: Epithelial cells; FDA: Food and Drug Administration; FMT: Fecal microbiome transplantation; Foxp3: Forkhead box P3; IBD: Inflammatory bowel disease; IEC: Intestinal epithelial cells; ILC3: Group 3 innate lymphoid cells; IND: Investigational New Drug; iNOS: Inducible nitric oxide synthase; NO: Nitric oxide; NO3−: Nitrate; O2: Oxygen; PAMPs: Pathogen-associated molecular patterns; PSA: Polysaccharide A; rCDI: Recurrent Clostridioides (formerly Clostridium) difficile infection; RCT: Randomized controlled trial; ROS: Reactive oxygen species; Th1: T helper 1; Th17: T helper 17; TLR: Toll-like receptor; TMAO: Trimethylamine N-oxide; Treg: Regulatory T cells; SAA: Serum amyloid A; SCFA: Short-chain fatty acids; SFB: Segmented filamentous bacteria; UC: Ulcerative colitis
+
+# Authors’ contributions
+
+YY, YM, and TK equally contributed to this work. The authors read and approved the final manuscript.
+
+# Authors’ information
+
+YY is a board-certified internal medicine physician and gastroenterologist. He has graduated from Keio University School of Medicine and received M.D., followed by completing residency in internal medicine and in gastroenterology and hepatology. He is currently a Ph.D. student in the IBD research fellow program under supervision of Dr. Takanori Kanai at Keio University. He is interested in the unknown pathogenic mechanism of IBD and trying to develop novel treatment strategies against IBD. Now, he is working on a project that deciphers complex immune networks in intestinal mucosal immunity and elucidates mechanisms how the Chinese herbal medicine shows therapeutic effects on patients with ulcerative colitis. He wishes to develop safe and effective IBD treatments.
+
+YM completed graduate school and residency training in internal medicine and in gastroenterology and hepatology at Keio University School of Medicine, in Tokyo, Japan. He studied mucosal immunology in inflammatory bowel diseases during his Ph.D. work in the laboratory of Drs. Toshifumi Hibi and Takanori Kanai. He received his postdoctoral training in the laboratory of Dr. John O’Shea at the National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS/NIH), studying genomic and epigenomic mechanisms that regulate innate and adaptive immunity and inflammation. His research goal is understanding unappreciated molecular mechanisms that regulate homeostasis, inflammation, wound healing, and fibrosis in the intestine, as well as identifying new therapeutic approaches for inflammatory bowel diseases.
+
+# References
+
+1. Metchnikoff E. The prolongation of life. Optimistic Studies. New York: G P Putnam’s Sons; 1910. p. 96.
+2. Hagihara Y, Yoshimatsu Y, Mikami Y, et al. Epigenetic regulation of T helper cells and intestinal pathogenicity. Semin Immunopathol. 2019;41:379–99.
+3. Hisamatsu T, Kanai T, Mikami Y, et al. Immune aspects of the pathogenesis of inflammatory bowel disease. Pharmacol Ther. 2013;137:283–97.
+4. Honda K, Littman DR. The microbiota in adaptive immune homeostasis and disease. Nature. 2016;535:75–84.
+5. Kanai T, Mikami Y, Hayashi A. A breakthrough in probiotics: Clostridium butyricum regulates gut homeostasis and anti-inflammatory response in inflammatory bowel disease. J Gastroenterol. 2015;50:928–39.
+6. Mikami Y, Takada Y, Hagihara Y, et al. Innate lymphoid cells in organ fibrosis. Cytokine Growth Factor Rev. 2018;42:27–36.
+7. Teratani T, Mikami Y, Nakamoto N, et al. The liver-brain-gut neural arc maintains the T(reg) cell niche in the gut. Nature. 2020;585:591–6.
+8. David LA, Maurice CF, Carmody RN, et al. Diet rapidly and reproducibly alters the human gut microbiome. Nature. 2014;505:559–63.
+9. Gibson GR, Hutkins R, Sanders ME, et al. Expert consensus document: The International Scientific Association for Probiotics and Prebiotics (ISAPP) consensus statement on the definition and scope of prebiotics. Nat Rev Gastroenterol Hepatol. 2017;14:491–502.
+10. van Nood E, Vrieze A, Nieuwdorp M, et al. Duodenal infusion of donor feces for recurrent Clostridium difficile. N Engl J Med. 2013;368:407–15.
+11. Almeida A, Mitchell AL, Boland M, et al. A new genomic blueprint of the human gut microbiota. Nature. 2019;568:499–504.
+12. Kamada N, Seo SU, Chen GY, et al. Role of the gut microbiota in immunity and inflammatory disease. Nat Rev Immunol. 2013;13:321–35.
+13. Brown EM, Kenny DJ, Xavier RJ. Gut microbiota regulation of T cells during inflammation and autoimmunity. Annu Rev Immunol. 2019;37:599–624.
+14. Belkaid Y, Hand TW. Role of the microbiota in immunity and inflammation. Cell. 2014;157:121–41.

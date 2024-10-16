@@ -1,0 +1,35 @@
+# Minot and Willis Microbiome
+
+# (2019) 7:110
+
+# Page 8 of 10
+
+# 8. Group the outputs of all previous steps into a single HDF file
+
+- (a) Docker image: quay.io/fhcrc-microbiome/experiment-collection:latest
+- (b) Code: https://github.com/FredHutch/minot-experiment-collection
+- (c) Wrapper script: make-experiment-collection.py
+
+The validation datasets were analyzed by aligning the raw WGS reads against the non-redundant protein sequences generated from the relevant discovery dataset as described in step 5 described above. The final HDF file creation step (9) includes the results of that quantification step for the validation datasets as well as the discovery datasets.
+
+Given the difficulty of providing a workflow execution system that can be used effectively by a broad range of users, we have elected to provide all of the individual tools needed to run a complete analytical workflow, with public Docker images making up each individual step, instead of providing a complete workflow system that each user would need to customize for their own execution engine (Slurm, PBS, Kubernetes, AWS, GCP, Azure, etc.). This approach enables execution of the exact code that we used in this analysis in a platform-independent manner using the highest standard of reproducibility (Docker containers).
+
+Our implementation of the analytical workflow described above relied upon the Amazon Web Service and its Batch API, which allows users to submit individual jobs for analysis using utilities from the boto3 library in Python. While this implementation does not represent a complete workflow management system, the code used for this execution is available at https://github.com/Fred-Hutch/aws-batch-helpers/ in the batch_helpers/batch_task_manager.py module.
+
+# 9. Grouping genes by co-abundance
+
+We did not find any public tools for grouping genes by co-abundance that were appropriate to the scale of our datasets. To implement our own approach for finding CAGs, we utilized the Non-Metric Space Library (“nmslib,” https://pypi.org/project/nmslib/) which implements the Approximate Nearest Neighbor (ANN) algorithm [18, 19] and obviates the need for calculating the all-by-all distance matrix typically used by clustering algorithms. The abundance matrix used for clustering was created by calculating the depth of sequencing for each individual gene within each sample and normalizing for total sequencing depth. The distance metric used to quantify the dissimilarity of individual genes was the cosine distance. Gene clusters were identified iteratively by average linkage clustering and a fixed cophenetic distance threshold. The ANN algorithm was used to identify subsets of genes which were likely to be highly co-abundant and which could be clustered independently of the whole. The code executed for this analysis, as well as a Docker image containing all required dependencies, can be found in the summary of the complete analysis workflow (step 8).
+
+# 10. Correlating CAGs with health status
+
+# CAG discovery
+
+For every CAG in the validation dataset, we tested the null hypothesis that the mean difference in centered log-ratio (CLR) abundance between patients with and without disease was zero using the general linear model framework. Datasets with repeated measurements on subjects were modeled using a linear mixed effects model with subject as a random effect. We employed the centered log-ratio to address the compositionality and range constraint of the gene relative abundances, and it is consistent with the choice to group genes based on cosine distance. Using the “qvalue” R package (v2.8.0), we calculate the q values for each CAG. Our set of “discovered CAGs” for validation is the set of CAGs with calculated q value of 0.2 or less. These are the CAGs that would be considered statistically significant while controlling the FDR at 20%.
+
+# CAG validation
+
+For only the discovered CAGs, we tested the null hypothesis that the mean difference in CLR abundance between patients with and without disease was zero in the validation datasets. Our “validated CAGs” are the CAGs in this set with calculated q values of 0.2 or less and that have an estimated difference in abundance between disease status groups of the same sign as the estimated difference in the discovery dataset.
+
+# The probability of validating discovered CAGs
+
+To calculate the probability of validating C2 or more out of C1 CAGs under the global null hypothesis of no association between disease status and any CAG’s abundance, we bounded the p value for validating discovered CAGs in the following way. Let X be the number of CAGs with q values less than 0.2 for the validation data and with an estimated difference in CLR abundance across disease groups of the same sign in the validation and discovery datasets, and Y be the number of CAGs with an estimated

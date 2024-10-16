@@ -1,0 +1,25 @@
+# Amrisha Bhosle et al
+
+# Molecular Systems Biology
+
+# Retention Time
+
+# HILIC positive (1OV)
+
+|RT|Value 1|Value 2|mlz|Value 3|
+|---|---|---|---|---|
+|0.00|255.0976|255.1701|123.0553|NHz|
+|7.89|255.0973|123.0550| | |
+| |255.0976|123.0551| | |
+
+# Nicotinamide riboside standard
+
+|Time (mnt)|Value|
+|---|---|
+| |255.0979|
+
+# Figure EV3
+
+Identification of feature representing nicotinamide riboside in the HMP2. Retention time and fragmentation pattern on HILIC-positive are shown for HMP2 feature and nicotinamide riboside standard.
+
+© The Author(s) Molecular Systems Biology Volume 20 | Issue 4 | April 2024 | 338 – 361 EV3

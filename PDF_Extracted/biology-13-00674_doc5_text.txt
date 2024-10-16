@@ -1,0 +1,17 @@
+# 3. The Influence of Dietary Salt on Cardiovascular Disease
+
+# 3.1. Effects of High-Salt Diet on Intestinal Microbiota in Cardiovascular Disease
+
+Cardiovascular diseases (CVDs), including hypertension, atherosclerosis, and heart failure, represent the leading cause of mortality on a global scale [42]. An excessive intake of salt is regarded as a significant risk factor for the development of cardiovascular disease and can affect heart health in various ways. A modeling study conducted by Tan M. et al. suggested that a reduction in sodium intake in China, even at the modest level of 1 g/day, could prevent approximately 9 million CVD events by 2030, of which almost 4 million could be fatal if sustained over the same period [43]. Furthermore, recent studies have demonstrated that an excessive dietary salt intake, particularly the sodium it contains, can elevate the blood pressure by affecting the gut microbiota [15,44] (Figure 2).
+
+|High salt diet|Gut microbiota dysbiosis|Metabolites|Cardiovascular disease|
+|---|---|---|---|
+|Bacteria that produce lactate|SCFAs|Anti-inflammatory mediators|hypertension; heart failure|
+|GLP-1 and GLP-2|Arachidonic acid| | |
+|Bacteria related to inflammation and metabolic syndrome|1 Glutamate|Corticosterone| |
+|Lachnospiraceae| | | |
+|Prevotellaceae| | | |
+
+Figure 2. Mechanisms by which high salt intake affects cardiovascular disease by influencing gut microbiota. A diet high in salt can exert an influence on the development of cardiovascular disease by affecting the gut microbiome, which, in turn, affects cardiovascular disease. The effects on microbial composition are primarily a reduction in lactic-acid-producing bacteria and an increase in the abundance of bacteria associated with inflammatory responses. This alteration in bacterial composition subsequently influences the abundance of bacterial-related functions and metabolites, including SCFAs and arachidonic acid. A reduction in these beneficial metabolites activates T cells and elevates blood pressure. Blood pressure is a principal risk factor for cardiovascular disease, leading to hypertension and heart failure.
+
+The impact of a diet with a high salt content on the development of cardiovascular disease is primarily observed in its effect on blood pressure, which is influenced by changes in the gut microbiota. For example, a systematic review of observational studies revealed that gut microbiota dysbiosis was a common feature in hypertension, including decreased diversity, an altered microbial structure, compositional changes in taxa, and alterations in microbial function [45]. As demonstrated by Wilck N et al. in mouse model systems [15], a high salt intake exerts a detrimental impact on the intestinal microbiome, notably by diminishing the population of Lactobacillus murinus. Additionally, it has been observed to enhance the prevalence of Th17 cells and elevate blood pressure. In a similar study, Ferguson JF and colleagues observed that, in both humans and mice, a high-salt diet resulted in a reduction in lactate-producing bacteria, including members of the Bacilli class, the Lactobacillales order, the Leuconostocaceae family, and the Leuconostoc genus [19]. These bacteria typically inhibit salt-induced T cell activation and hypertension [15]. Furthermore, the findings indicated that an excessive salt intake was linked to the colonization of bacteria associated with inflammation and metabolic syndrome, including Lachnospiraceae and Prevotellaceae [15].

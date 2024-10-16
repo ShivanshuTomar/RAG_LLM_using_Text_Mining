@@ -1,0 +1,22 @@
+# Cochrane Library
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Table 1. Microbiome outcomes (Continued)
+
+ter ther-                        cal microbiota       tients with IBD. After four and eight weeks, patients receiving FMT saw an increase in phylogenetic diversity in the microbiota compared to baseline. LEfSe analysis determined that 295 microbial taxa were differentially altered following transplant and 78 of these members showed high linear discriminant analysis scores (>3). Interestingly, regardless of clinical outcome, the authors observed decreased abundance of operational taxonomic units (OTUs) affiliated with the Bacteroides genera and increased abundance of OTUs affiliated with the Prevotella genera. The authors further describe that FMT was associated with increased diversity in all patients. Importantly, recipients who achieved a successful primary outcome had greater richness in OTUs at baseline, during fecal microbiota transplantation and at 8 weeks. Finally, the authors performed LEfSe analysis comparing patients who responded to non-responders; 87 Taxa were associated with primary outcomes in masked patients and 46 were associated with open-label patients. Remission was associated with taxa with Barnsiella, Parabacteroides, Clostridium cluster IV and Ruminococcus. Moreover, Fusobacterium and Sutterella were associated with a lack of remission in all patients.
+
+|Author|Condition|Method|Time Point|Results|Analysis|Findings|
+|---|---|---|---|---|---|---|
+|Rossen|UC|Human Intestinal Tract chip (HITchip)|12 weeks after treatment|Not reported|Redundancy analysis showed|The study used the Human Intestinal Tract chip (HITchip) phylogenetic microarray, to perform microbiome diversity analysis. The study compared microbiota profiles of donors and patients with UC. Moreover, this study characterized microbiota profiles prior to and following FMT with donor stool or FMT with autologous stool. Finally, responders and non-responders for each FMT group were compared. Microbiome analysis with HITchip showed that microbiota profiles and diversity indexes of patients with UC was different than healthy donors. This was highlighted by enrichment in taxa belonging to the Bacteroidetes, Proteobacteria, Bacilli, and Clostridium clusters IX and XI and decreased levels of Clostridium IV, IXIVa, and XVIII compared to donors.|
+| | | | |Following FMT with both donor stool and autologous stool, diversity increased in responders and| | |
+
+Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

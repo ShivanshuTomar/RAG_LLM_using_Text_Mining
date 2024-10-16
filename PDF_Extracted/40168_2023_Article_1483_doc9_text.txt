@@ -1,0 +1,27 @@
+# Armstrong et al. Microbiome (2023) 11:39
+
+# Fig. 4
+
+cART reduces histological score and MMTV viral load in colon tissues of IL-10 − / − mice.
+
+|A)|Placebo|CART|
+|---|---|---|
+|9|9| |
+|B)|C)|D)|
+|1|3|2|
+|1|1|1|
+|8|1|8|
+
+SvEv'Placebo SvEv = IL-10 "PlaceboIL-10" SvEv 5Placebo SvEv = Placebo{ SvEv IL-10
+
+Hematoxylin and eosin stain of colon tissues shows marked reduction in inflammation in the IL-10 − / − sample following cART to levels observed in the SvEv wild type.
+
+Histological scoring of colon tissue samples (***p < 0.001, **p < 0.01).
+
+Colon MMTV RNA load was reduced 25% in IL-10 − / − mice receiving cART vs. placebo; 42% of IL-10 − / − mice receiving cART developed background MMTV levels versus 10% of those on placebo (*p < 0.028, Fisher’s exact test. Cutoff = 2 × SD of background SvEv WT colon samples).
+
+Colon weight-to-length ratio used as a surrogate of gut inflammation was evaluated after 12 weeks of treatment (mean ± SEM, **p = 0.0015).
+
+The colon to support a hypothesis that MMTV infection is linked with the augmented inflammatory responses in the IL-10−/− model of colitis. We found a correlation between MMTV and inflammation in the IL-10−/− colon, as demonstrated by an increased viral load, histopathology score, and pro-inflammatory cytokines versus the WT, and then using antiviral treatment with known activity against MMTV [21], we demonstrate a definitive response to cART with decreased viral load, histology score, and inflammatory cytokines, linked with changes in the microbiome.
+
+Several features of the MMTV infection may combine with IL-10 deficiency to trigger colitis in this model. IL-10 plays an important role in tolerizing neonatal.

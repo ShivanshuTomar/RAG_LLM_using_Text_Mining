@@ -1,0 +1,20 @@
+# Cronin et al. BMC Gastroenterology (2019) 19:29
+
+# Fig. 3 α-diversity of taxonomic profiling.
+
+|Archaea Species| | | |Control|Exercise|Bacteria species|Control|Exercise| | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| |Pre|Post|Pre|Post|Pre|Post|Pre|Post| | | | | |
+| | | | | |1|0.5|-1.0|I|F|1|1|1|1|
+
+(a-d) Shannon α-diversity H-index of Bacteria and Archaea species at week 0 (pre) and week 8 (post). (a and b) Subtle median increases of Archaea α-diversity for patients in both treatment. (c and d) Bacterial α-diversity was significantly raised in the control group (p-value = 0.015), while a moderate median decrease was shown in the exercise group. (e) Percent change (Δ) of α-diversity for Archaea species shows a slight increase in the control group compared to the exercise group (non-significant). (f) Both exercise and control groups show an increase in α-diversity for Bacteria species. P-values were calculated from the Wilcoxon signed-rank test.
+
+Control groups (Fig. 3e and f). Similarly, no major shifts in taxonomic β-diversity (inter-individual) were detected for bacterial species (Additional file 2: Figure S1A & B), archaeal species (Additional file 2: Figure S1C & D), or viral species across both groups (data not presented).
+
+Metabolic pathways generated from metagenomic data were compared and illustrated subtle, non-significant differences within the groups (i.e., week 0 vs. week 8) and across groups. No major, statistically significant changes were elucidated when α-diversity (Shannon index) and taxonomic β-diversity of generic and species-specific pathway models were assessed (Additional file 3: Figure S2A to Additional file 4: Figure S3D inclusive).
+
+# Discussion
+
+# Main findings and relevance
+
+The results show that favourable alterations in body composition can be achieved over a relatively short period of time with combined aerobic and resistance exercise in patients with IBD. This was feasible in sedentary patients and without any deterioration in disease activity or levels of pro-inflammatory cytokines. It is possible that exercise had additional anti-inflammatory effects.

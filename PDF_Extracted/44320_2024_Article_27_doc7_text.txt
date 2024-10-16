@@ -1,0 +1,76 @@
+# Amrisha Bhosle et al
+
+# Molecular Systems Biology
+
+# log2(abundance)
+
+# A
+
+|Size|Pri-Std|Pri-Unan|Non-Pri-Std|Non-Pri-Unan|
+|---|---|---|---|---|
+|C16 carnitine|l|l|l|l|
+|C10:2 carnitine|l|l|l|l|
+|ketodeoxycholate|l|l|l|l|
+|cholate|l|l|l|l|
+|QI11694: phenylalanocholic acid|l|l|l|l|
+|deoxycholate|l|l|l|l|
+|taurine|l|l|l|l|
+|taurocholate|l|l|l|l|
+|alpha-muricholate|l|l|l|l|
+|taurochenodeoxycholate|l|l|l|l|
+|QI6230: isolithocholate|l|l|l|l|
+|glycochenodeoxycholate|l|l|l|l|
+|glycocholate|l|l|l|l|
+|lithocholate|l|l|l|l|
+|glycoursodeoxycholate|l|l|l|l|
+|biotin|l|l|l|l|
+|hippurate|l|l|l|l|
+
+# B
+
+|log 2(Count)|Modules|
+|---|---|
+|stercobilin|l|
+|diacetylspermine|l|
+|N-acetylputrescine|l|
+|putrescine|l|
+|N1,N12-diacetylspermine|l|
+|eicosatrienoate|l|
+|adrenate|l|
+|docosapentaenoate|l|
+|hydrocinnamate|l|
+|4-methylcatechol|l|
+|C38:5 DAG|l|
+|C56:7 TAG|l|
+|betaine|l|
+|alpha-glycerophosphocholine|l|
+|pantothenate|l|
+|p-hydroxyphenylacetate|l|
+
+# C
+
+Reduction of bilirubin by gut microbes
+
+# D
+
+|HILp_QI22689|HILp_QI23086|∆m/z|
+|---|---|---|
+|0.9; 0.8|HILp_QI21471|60.0222|
+
+# E
+
+|Phenotype|nonIBD|UC|CD.nondys|CD.dys|
+|---|---|---|---|---|
+|GF|***|***|***|***|
+|SPF|***|***|***|***|
+
+# F
+
+|Stercobilin|HILp_QI22686|HILp_QI22738|HILp_QI22234|HILp_QI21470|
+|---|---|---|---|---|
+|30|20|15|10|5|
+|0|0|43.9907|46.0041|31.9900|
+
+Relatedly, metabolite classes not previously linked directly to metabolism such as hydrocinnamate (Menni et al, 2020), inflammation in the gut were also highly prioritized. These 4-methylcatechol (Kolomytseva et al, 2007), stercobilin (Vitek et al, 2006), N-acetylputrescine (Murray et al, 1993), and methylnicotinamide, glycerides, betaine and choline derivatives, p-hydroxyphenylacetate (Saito et al, 2018) (Fig. 4B). Consistent and more interestingly, metabolites linked to gut microbial with the loss of microbial diversity in IBD, hydrocinnamate itself.
+
+© The Author(s) Molecular Systems Biology Volume 20 | Issue 4 | April 2024 | 338 – 361

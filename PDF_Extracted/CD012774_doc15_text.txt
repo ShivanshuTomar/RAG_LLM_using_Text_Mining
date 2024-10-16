@@ -1,0 +1,62 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Library
+
+# Better health.
+
+# Search methods for identification of studies
+
+# Electronic searches
+
+For this update, we searched the following databases:
+
+- Cochrane Central Register of Controlled Trials (CENTRAL; Issue 11, 2022) in the Cochrane Library;
+- MEDLINE Ovid (1946 to 22 December 2022);
+- Embase Elsevier (1974 to 22 December 2022);
+- International Standard Registered Clinical/Social Study Number registry (ISRCTN; 22 December 2022).
+
+We applied no limits on our searches. The search strategies are available in Appendix 1.
+
+# Searching other resources
+
+For both the 2018 version (Imdad 2018) and current version of this review, we searched ClinicalTrials.gov (www.clinicaltrials.gov) and the ISRCTN metaRegister of Controlled Trials (mRCT; www.isrctn.com/page/mrct) for ongoing trials. We also searched the reference sections of previously published RCTs and meta-analyses on this topic.
+
+In the previous version of this review (Imdad 2018), we searched the Conference Proceedings Citation Index database for conference abstracts. However, for the present review, Embase covers proceedings of the above conferences from the year 2010 onward.
+
+# Data collection and analysis
+
+# Selection of studies
+
+For this update, at least two review authors (AI, NP, MZ, and NZM) conducted the initial screening to select potentially eligible studies by reviewing titles and abstracts. After the initial title and abstract screening, two review authors from the study team (AI, NP, MZ, and NZM) reviewed the full texts of selected studies and then made final decisions regarding inclusion or exclusion. At each stage of the screening process, we resolved any discrepancies by discussion and consensus.
+
+# Data extraction and management
+
+At least two review authors (AI, NP, MZ, and NZM) independently extracted and updated data in the pretested Microsoft Excel sheet (available on request) that had been maintained since the first version of this review. We extracted information on the characteristics of included studies such as authors, date of publication, journal, study site, study design, age of participants, study population (inclusion/exclusion criteria), details of intervention (type, volume, route, and frequency of administration), outcomes (primary and secondary), and risk of bias. Then, we extracted the raw values of event occurrences (numerators) in the case and control groups, along with the total number of participants randomized (denominators) to each group. We extracted data on an intention-to-treat (ITT) basis, which considers the initial allocation of participants to the case or control groups, irrespective of whether they received the intervention or completed follow-up (Gupta 2011). When data for continuous outcomes were reported as medians with interquartile ranges (IQR), we converted the values to means with standard deviations (SD) using methods given in Hozo 2005, which assume a normal distribution of data.
+
+# Cochrane Database of Systematic Reviews
+
+# Assessment of risk of bias in included studies
+
+We used the Cochrane RoB 1 tool to assess the risk of bias in the included RCTs (Higgins 2011). Briefly, these assessments were based on six criteria: sequence generation, allocation concealment, blinding, incomplete outcome data, publication bias, and other bias. Each category was judged at 'low,' 'high,' or 'unclear' risk of bias.
+
+# Measures of treatment effect
+
+We expected that the authors of included studies would report a range of clinical, endoscopic, and histologic outcomes in response to treatment with FMT. The most important of these outcomes was 'induction of clinical remission,' which was a primary outcome of our systematic review. We considered clinical remission as defined by the included studies (e.g. Mayo score for UC studies and Crohn's Disease Activity Index for CD studies). If the primary outcome was reported as a combination of clinical and endoscopic or histologic assessment, we extracted data for the combined or 'composite' outcome.
+
+We considered the outcomes related to induction of remission in UC and CD at week eight, week 12, and the longest follow-up point post-FMT. If a primary outcome in a study was not reported at exactly eight weeks but between six and 10 weeks post-FMT, it was included as an outcome at eight weeks. Similarly, if a primary outcome was not reported at exactly 12 weeks but between 10 and 14 weeks post-FMT, it was included as an outcome at 12 weeks. Regardless of the number of weeks at which the primary outcome was measured, we analyzed the data reported at the time point farthest from the intervention as 'the longest follow-up' to accommodate as many studies as possible into a single analysis. However, we considered the data at the longest follow-up only up to the time point before the trial was open for analysis.
+
+For maintenance of remission in UC and CD, we considered outcomes from studies in which all the participants were in remission at the time of randomization, and we considered these data at the longest follow-up.
+
+We calculated the risk ratio (RR) and corresponding 95% confidence interval (CI) for all dichotomous outcomes. We calculated the mean difference (MD) and corresponding 95% CI for continuous outcomes.
+
+# Unit of analysis issues
+
+For studies that had multiple intervention groups (e.g. factorial design), the data were extracted in such a way that the only difference between the case and control groups was administration of FMT. Similarly, if a study had more than one intervention or control group, the groups were combined in a single comparison of 'donor-based FMT versus control' (including autologous FMT). Co-interventions were permitted if they were uniformly applied to both the intervention and control groups. We only considered the effect of the first treatment attempt as defined by the authors. The treatment may have included multiple infusions of FMT; however, if a patient received study treatment (intervention or control) more than once, we ignored the subsequent attempts. Such a scenario might occur if the authors decided to treat all participants in the control group with the study intervention at the end of a randomized trial. Adverse events were considered as reported by the study authors, and we assumed that each adverse event.
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

@@ -1,0 +1,41 @@
+# Cells 2019, 8, 659
+
+It may be postulated that psychobiotics might serve as therapeutic modulators of the gut/microbiota axis and positively influence psychological functions in the context of IBD.
+
+# Cells 2019, 8, x
+
+Altogether, the quality of life and course of IBD are regulated by psychological conditions, and as such, the implementation of stress management may play an important role in IBD disease regression (see also Figure 1). Nevertheless, current studies are limited in sample size and study design, and hence, may lack proper controls. Therefore, future research is needed to validate current treatment options and/or to explore novel therapeutic opportunities in order to prevent IBD onset or improve stress-affected well-being of IBD patients.
+
+# Relaxation guided imagery
+
+# Relaxation
+
+# Cognitive Behavioral Therapy
+
+# Psychobiotics
+
+# Stress
+
+# Inflammatory cytokines
+
+# Sleep
+
+# Exercise
+
+# Dietary changes
+
+# Medicines
+
+# Genetics
+
+# Intestinal permeability
+
+# Gut/microbiota/brain interplay
+
+# Figure 1
+
+The gut/microbiota/brain interplay and its interactions upon exposure to stress. Under conditions of psychological stress including lack of sleep and physical inactivity, the brain (HPA axis) stimulates the production of pro-inflammatory cytokines. This can result in increased intestinal permeability and altered gut microbiota. In addition, fat- and sugar-enriched foods, long-term usage of medicines, as well as genetic predisposition can directly affect the gut microbiota composition, and subsequently, intestinal permeability. Furthermore, personal habits, such as hygiene and smoking, can also have an impact on the gut microbiome. Altogether, the multitude of stress-related factors can perturb the gut/microbiota/brain interplay, which contributes to the development of IBD. Relevantly, several stress management techniques have been proven to greatly alleviate IBD symptoms and improve the quality of life of IBD patients. Given that the exact underlying mechanisms in the context of IBD are not yet fully understood, therapeutic options aimed at improving stress management deserve further investigation.
+
+# 7. Conclusions
+
+In summary, this review summarized the tight connection between the gut, microbiota, and brain in the context of IBD and has particularly shed light on the impact of stress on this interplay. It should be noted, however, that it is rather challenging to investigate the impact of stress on IBD, as stress can arise from totally different origins and may be closely connected to potential individual confounding factors, including (mental) health status and inter-individual variability in stress responsiveness and/or vulnerability. Therefore, future research involving preclinical studies as well as large-scale, controlled clinical trials should not only focus on unravelling the exact mechanisms.

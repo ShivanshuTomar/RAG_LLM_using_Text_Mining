@@ -1,0 +1,19 @@
+# Knights et al. Genome Medicine 2014, 6:107
+
+# Host factors associated with the IBD microbiome
+
+A complex network of host factors associated with the IBD microbiome (all associations FDR <0.05); only taxa with at least four significant associations are included in the network; green and purple edges indicate positive and negative associations, respectively; the width of an edge indicates the strength of the association. The effects of these factors on individual taxa are highly overlapping. The analysis identified covariates representing each type of host factor, consistent with previous results [4]. Biopsy location and medication history had the strongest and most comprehensive effects on microbiome profile; the effect of NOD2 was moderate in comparison. Cohort membership (not shown) also affected microbiome profile. These results demonstrate the need for study designs and analysis methodologies that control carefully for numerous host genetic and environmental factors when performing microbiome-based biomarker discovery. Abx, antibiotics within 1 month; Imm, immunosuppressants within 1 month; L2, no ileal involvement; PPI, biopsy from pre-pouch ileum.
+
+# Microbial Dysbiosis Index (MDI)
+
+This recent study identified an increase in the MDI scores of patients who had recently received antibiotics, indicating that antibiotics tend to shift patient microbiomes further into the realm of IBD-related dysbiosis. We used the same taxa as reported previously to calculate an MDI score for each patient in our analysis. In our cohorts we confirmed the published finding that, when controlling for NOD2 effects on microbiome structure, MDI score tended to be higher in patients with recent usage (within less than one month) of antibiotics (P = 0.039, t-test of linear regression coefficient) (Figure 6). This finding, together with previously published findings regarding the effects of antibiotics on the IBD microbiome suggest that antibiotics and duration of disease are additional risk factors for IBD-related dysbiosis.
+
+# Association of IBD-related dysbiosis and recent antibiotics usage
+
+|No|Yes|
+|---|---|
+|Recent Antibiotics| |
+
+# Conclusions
+
+Taken together, our findings indicate a complex set of associations between the mucosal-adherent microbiome and genetic impairment of several host immune pathways. Although we have been living and evolving with our microbial symbionts throughout human evolution, we have only been aware of their existence for a few centuries, and the genetic and functional diversity of our so-called 'second genome' has only become apparent in the last few decades. Also in recent decades incidence of IBDs and other autoimmune and autoinflammatory diseases has increased dramatically [42], and a rapidly growing set of these diseases has been linked to shifts both in taxonomic carriage and functional potential of host-associated microbial communities. Although our data are cross-sectional and therefore cannot define.

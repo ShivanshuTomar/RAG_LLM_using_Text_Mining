@@ -1,0 +1,57 @@
+# Identification of bacterial biomarkers at the species level for diagnosing IBD through cross-cohorts
+
+a Overall composition of the population across 9 metagenomic datasets (n = 1363).
+b, c The alpha diversity of IBD (red, n = 795) and control (blue, n = 395) was measured using the Shannon index and Simpson index.
+The adjusted p value (two-sided test) was calculated using MMUPHin tools.
+The data in boxplots is represented using interquartile ranges (IQRs), with the median shown as a horizontal line,
+and the whiskers extending to the most extreme points within 1.5 times the IQR.
+Exact p values are provided in the Source data file.
+
+d Principal coordinate analysis (PCoA) shows significant differences in microbial composition between both groups (P = 0.001)
+and cohorts (P = 0.001). The significance of beta diversity based on Bray-Curtis distance was calculated using PERMANOVA
+with 999 permutations (two-sided test, n = 1190). The data in boxplots is represented using interquartile ranges (IQRs),
+with the median shown as a black horizontal line, and the whiskers extending to the most extreme points within 1.5 times the IQR.
+e The top bar graph displays the 74 gut bacterial species with the most significant differences (P < 0.0001),
+as calculated using a two-sided Wilcoxon test with FDR-corrected P values.
+Among these species, 31 are highlighted in dark gray as feature species for subsequent random forest modeling (Confirmed).
+The middle bar graph shows the generalized fold change (gFC) of these 74 significant species,
+with red indicating 11 species that are enriched in IBD and blue indicating 63 species that are depleted in IBD.
+At the bottom, heatmaps are shown in gray and in color, respectively, displaying the species-level significance and the gFC within individual cohorts.
+
+(f) The classification models accuracy of IBD resulting from 10-fold cross-validation was assessed within each cohort
+(gray boxes along the diagonal), as well as cohort-to-cohort model transfer (external validations off-diagonal),
+using the AUROC for classifiers trained on species abundance profiles.
+g The classification models accuracy, as evaluated by AUROC on a hold-out cohort, improves when taxonomic data from all other cohorts
+are combined for training using leave-one-cohort-out (LOCO) validation, compared to models trained on data from a single cohort
+(cohort-to-cohort transfer). The error bars indicate the mean ± sd, n = 5. Source data are provided as a Source Data file.
+
+# Identification of IBD diagnostic markers by demonstrating variations of Kyoto Encyclopedia of Genes and Genomes (KEGG) orthology (KO) across different IBD cohorts
+
+Metagenomic functional analysis plays a critical role in understanding the complex interactions between the gut microbiome and human health.
+In our study, we first annotated gene families obtained from metagenomic analysis as KO genes using the KEGG orthology database,
+resulting in 9,270 KO genes. We applied a low-abundance filtering step to obtain a final set of 3,732 KO genes,
+followed by differential abundance analysis using the same method as earlier.
+To avoid overfitting of the model, we used a strict FDR approach (CCIA analysis FDR < 1×10−12),
+which led to the identification of 162 differentially expressed KO genes between normal and IBD patients (Fig. 3a and Supplementary Tables 3).
+Most of these KO genes are classified as potentially coding for metabolic enzymes, particularly those involved in amino acid and other metabolism.
+This indicates a strong association between gut microbiota and their metabolic activities.
+
+Subsequently, an enrichment analysis was conducted on these genes, uncovering 12 pathways with potential implications for both gut microbiota and disease (FDR < 0.05).
+Among these pathways, four of them displayed an upregulated pattern, including “Cell cycle – Caulobacter,”
+“Two-component system,” “Lipopolysaccharide biosynthesis,” and “Aminoacyl-tRNA biosynthesis” (Supplementary Fig. 3a).
+Specifically, Two-component systems play a critical role in regulating virulence factors in certain bacteria.
+Among the 8 KO genes enriched in the Two-component system pathway, crp (K10914, CRP/FNR family transcriptional regulator)
+stands out as the gene with the highest generalized fold change (Supplementary Fig. 3b).
+Previous studies have indicated its potential involvement in various biological processes, such as osmoregulation, stringent response, and biofilm formation.
+Furthermore, the relative abundance of crp is positively correlated with fecal calprotectin (Supplementary Fig. 3c).
+These findings suggest that crp could potentially act as a critical transcriptional regulatory factor contributing to the occurrence of gut inflammation.
+
+Additionally, we have also observed the downregulation of several pathways in IBD, such as Propanoate metabolism,
+Phosphotransferase system (PTS), Styrene degradation, Glycolysis / Gluconeogenesis, and Biosynthesis of amino acids (Supplementary Fig. 3a).
+It has been reported that Akkermansia-related propanoate metabolism enhanced the development of the intestinal epithelium
+through intestinal stem cell-mediated mechanisms, where intestinal stem cells (ISCs) play a vital role in the developmental processes
+and swift regeneration of the intestinal lining.
+
+Additionally, we sought to assess the potential diagnostic usefulness of the KO genes in IBD.
+We utilized the IFE method for feature selection and identified 25 KO genes as features for random forest modeling out of the 162 KO genes.
+After conducting a 10-fold cross-validation analysis, we observed that all cohorts, except for the HeQ.

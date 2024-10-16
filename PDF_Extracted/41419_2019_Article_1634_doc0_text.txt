@@ -1,0 +1,27 @@
+# Intestinal autophagy links psychosocial stress with gut microbiota to promote inflammatory bowel disease
+
+# Pei Wang, Chao-Yu Miao, Shu-Ling Wang, Bo-Zong Shao, Sheng-Bing Zhao, Xin Chang, Yu Bai, Zhao-Shen Li
+
+# Abstract
+
+Psychosocial stress is a critical inducing factor of inflammatory bowel diseases (IBD), while autophagy is a novel central issue of IBD development. The present study investigated the potential role of autophagy in stress-related IBD in patients and animal model. The correlation between psychosocial stress and intestinal autophagy was determined in 23 patients with IBD. Corticotropin-releasing hormone (CRH), a well-established inducer of psychosocial stress, was administrated in dextran sulfate sodium (DSS)-induced IBD mice and lipopolysaccharide (LPS)-stimulated bone marrow-derived macrophages (BMDM). In IBD patients, the autophagy markers beclin-1, LC3-II/I ratio, Atg16L1, and Atg4B were significantly enhanced. The psychosocial stress score was positively associated with the levels of beclin-1 and the LC3II/I ratio in intestinal biopsy specimens. In IBD mouse model, CRH significantly aggravated intestinal inflammation, increased Paneth cell metaplasia, and enhanced intestinal autophagy (beclin-1, Atg16L1, PIK3R4, and Atg4B upregulation; GAA, CTSD, and PPKAA1 downregulation). Additionally, the CRH-induced gut microbial dysbiosis was evidenced by a marked increase in the number of detrimental bacteria. In LPS-stimulated BMDM, CRH substantially increased M1/M2 polarization and thus promoted inflammation. In both IBD mice and LPS-treated BMDM, blockade of autophagy by chloroquine abrogated the unbeneficial effects of CRH, whereas autophagy inducer rapamycin resulted in a pronounced protective effect against IBD lesion. Our data demonstrate that psychosocial stress may link the enhanced intestinal autophagy by modulating gut microbiota and inflammation to aggravate IBD. These data indicate autophagy as a promising therapeutic target for psychosocial stress-related IBD.
+
+# Introduction
+
+Inflammatory bowel disease (IBD) is characterized with chronic and recurrent inflammation in the intestinal mucosa, including ulcerative colitis (UC) and Crohn’s disease (CD). Psychosocial stress has been reported to contribute to the pathogenesis and progression of IBD via damage to the intestinal defense system. In the central nervous system, the physiological response to stress lies in the triggering of the hypothalamic-pituitary-adrenal axis, thus releasing corticotropin-releasing hormone (CRH) for the regulation of neuroendocrine function and internal organs immune reaction. CRH is also located in the peripheral tissues, including the digestive system organs and cells such as Paneth cells, macrophages, and mast cells, directly regulating the intestinal inflammatory and digestive tract inflammation. Peripheral CRH administration reproduced the effect of psychosocial stress and triggered for onset and development of IBD. Additionally, inhibition of CRH receptor 1 protected against colonic injury and promoted epithelium repair. Thus, the authors contributed equally: Shu-Ling Wang, Bo-Zong Shao, Sheng-Bing Zhao, Xin Chang.
+
+# Correspondence
+
+Chao-Yu Miao (cymiao@smmu.edu.cn) or Zhao-Shen Li (li.zhaoshen@hotmail.com) or Yu Bai (baiyu1998@hotmail.com)
+
+Department of Gastroenterology, Changhai Hospital, Second Military Medical University/Naval Medical University, Shanghai, China
+
+General Hospital of the Chinese People’s Liberation Army, Beijing, China
+
+Full list of author information is available at the end of the article.
+
+Edited by B. Zhivotovsky
+
+© The Author(s) 2019 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
+
+Official journal of the Cell Death Differentiation Association

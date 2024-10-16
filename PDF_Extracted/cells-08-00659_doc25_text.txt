@@ -1,0 +1,18 @@
+# References
+
+1. Kimball, E.S.; Schneider, C.R.; Wallace, N.H.; Hornby, P.J. Agonists of cannabinoid receptor 1 and 2 inhibit experimental colitis induced by oil of mustard and by dextran sulfate sodium. Am. J. Physiol. Gastrointest. Liver Physiol. 2006, 291, G364–G371. [CrossRef]
+2. Massa, F.; Marsicano, G.; Hermann, H.; Cannich, A.; Monory, K.; Cravatt, B.F.; Ferri, G.L.; Sibaev, A.; Storr, M.; Lutz, B. The endogenous cannabinoid system protects against colonic inflammation. J. Clin. Investig. 2004, 113, 1202–1209. [CrossRef]
+3. Naftali, T.; Lev, L.B.; Yablecovitch, D.; Half, E.; Konikoff, F.M. Treatment of Crohn’s disease with cannabis: An observational study. Isr Med. Assoc. J. 2011, 13, 455–458. [PubMed]
+4. Naftali, T.; Bar-Lev Schleider, L.; Dotan, I.; Lansky, E.P.; Sklerovsky Benjaminov, F.; Konikoff, F.M. Cannabis induces a clinical response in patients with Crohn’s disease: A prospective placebo-controlled study. Clin. Gastroenterol. Hepatol. 2013, 11, 1276–1280 e1271. [CrossRef] [PubMed]
+5. Froicu, M.; Weaver, V.; Wynn, T.A.; McDowell, M.A.; Welsh, J.E.; Cantorna, M.T. A crucial role for the vitamin D receptor in experimental inflammatory bowel diseases. Mol. Endocrinol. 2003, 17, 2386–2392. [CrossRef] [PubMed]
+6. Jorgensen, S.P.; Agnholt, J.; Glerup, H.; Lyhne, S.; Villadsen, G.E.; Hvas, C.L.; Bartels, L.E.; Kelsen, J.; Christensen, L.A.; Dahlerup, J.F. Clinical trial: Vitamin D3 treatment in Crohn’s disease—A randomized double-blind placebo-controlled study. Aliment. Pharmacol. Ther. 2010, 32, 377–383. [CrossRef] [PubMed]
+7. Miheller, P.; Muzes, G.; Hritz, I.; Lakatos, G.; Pregun, I.; Lakatos, P.L.; Herszenyi, L.; Tulassay, Z. Comparison of the effects of 1,25 dihydroxyvitamin D and 25 hydroxyvitamin D on bone pathology and disease activity in Crohn’s disease patients. Inflamm. Bowel Dis. 2009, 15, 1656–1662. [CrossRef] [PubMed]
+8. Ananthakrishnan, A.N. Vitamin D and Inflammatory Bowel Disease. Gastroenterol. Hepatol. 2016, 12, 513–515.
+9. Pan, Y.; Liu, Y.; Guo, H.; Jabir, M.S.; Liu, X.; Cui, W.; Li, D. Associations between Folate and Vitamin B12 Levels and Inflammatory Bowel Disease: A Meta-Analysis. Nutrients 2017, 9, 382. [CrossRef] [PubMed]
+10. O’Connor, E.M.; Grealy, G.; McCarthy, J.; Desmond, A.; Craig, O.; Shanahan, F.; Cashman, K.D. Effect of phylloquinone (vitamin K1) supplementation for 12 months on the indices of vitamin K status and bone health in adult patients with Crohn’s disease. Br. J. Nutr. 2014, 112, 1163–1174. [CrossRef]
+11. Ng, V.; Millard, W.; Lebrun, C.; Howard, J. Low-intensity exercise improves quality of life in patients with Crohn’s disease. Clin. J. Sport Med. 2007, 17, 384–388. [CrossRef]
+12. Klare, P.; Nigg, J.; Nold, J.; Haller, B.; Krug, A.B.; Mair, S.; Thoeringer, C.K.; Christle, J.W.; Schmid, R.M.; Halle, M.; et al. The impact of a ten-week physical exercise program on health-related quality of life in patients with inflammatory bowel disease: A prospective randomized controlled trial. Digestion 2015, 91, 239–247. [CrossRef]
+13. Sarkar, A.; Lehto, S.M.; Harty, S.; Dinan, T.G.; Cryan, J.F.; Burnet, P.W.J. Psychobiotics and the Manipulation of Bacteria-Gut-Brain Signals. Trends Neurosci. 2016, 39, 763–781. [CrossRef] [PubMed]
+14. Akram, W.; Garud, N.; Joshi, R. Role of inulin as prebiotics on inflammatory bowel disease. Drug Discov. Ther. 2019, 13, 1–8. [CrossRef] [PubMed]
+
+© 2019 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/).

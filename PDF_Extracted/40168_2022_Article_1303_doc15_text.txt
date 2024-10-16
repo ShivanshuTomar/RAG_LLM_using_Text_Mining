@@ -1,0 +1,42 @@
+# Zhao et al. Microbiome (2022) 10:115
+
+# Page 16 of 22
+
+# M-CON vs M-DSS
+
+|-log,o (P Value)|CON|DSS|
+|---|---|---|
+|IL-8|Max|P-value|
+|IL-1B|TRA| |
+|IL-17|Min|NODZ|
+|TNF-a| |Nodi|
+|IL-2|1|TLR8|
+|IFN-Y| |Iog. (Fold Change)|
+|IL-10|8| |
+|ILA| | |
+|IL-23| | |
+|IL-6| | |
+
+# Relative expression levels of PRRs
+
+|Jogwo (P Value)|CON|DSS|
+|---|---|---|
+|IL-10|Max| |
+|IFN-V| | |
+|TNF-aIL-e|2|'Fold Change|
+|IL-8|8| |
+|IL-18| | |
+|IL-23| | |
+
+# Min pig and Yorkshire pig
+
+|Min pig|Yorkshire pig|Min pig|Yorkshire pig|Min pig|Yorkshire pig|
+|---|---|---|---|---|---|
+|CON|DSS|CON|DSS|CON|DSS|
+|250-|Min pig|Yorkshire pig|200-|3|8|
+
+# Fig. 9
+
+Analysis of the response of the gut barrier to inflammation based on transcriptome data. a Heat map showing the changes in inflammatory cytokines associated with different types of immunity in colon homogenate isolated from Min pigs and Yorkshire pigs after DSS treatment (n = 6 samples/group). b Relative expression levels of pattern recognition receptors (PRRs) in Min pigs and Yorkshire pigs after DSS treatment as detected by qRT-PCR (n = 6 samples/group). c Confirmation of autoantibody secretion in Min pigs and Yorkshire pigs after DSS treatment. d To evaluate the mechanical barrier, tight junction (TJ) proteins in Min pigs and Yorkshire pigs treated with DSS were quantified by ELISA.
+
+Blautia, Eubacterium, Dorea, Butyricicoccus and Lachnospiraceae are among the main producers of SCFAs. SCFAs, particularly butyrate, have beneficial effects on the regulation of intestinal immune function and inhibition of intestinal inflammation. Remarkably, many potentially beneficial microbes, such as Lactobacillus, Ruminococcaceae genera, Eubacterium and Christensenellaceae genera belonging to Firmicutes, were increased in M-DSS pigs. The increased abundances.

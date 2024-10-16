@@ -1,0 +1,19 @@
+# Abbas-Egbariya et al. Genome Biology (2022) 23:61
+
+# Page 15 of 23
+
+only subjects with a single disease category and dropped those with two or more diseases, except for IBD patients who were also diagnosed with IBS or autoimmune disease as those may co-exist (and therefore were included in the analysis as IBD patients).
+
+# V4 16S raw data processing
+
+Single-end reads were left trimmed to begin at the end of the 515′F primer and right trimmed to a total length of 150 bp. Reads from each cohort were then aligned and denoised using the Deblur pipeline [56, 57] in qiime2 (qiime2-2019.2 [58]) using default parameters, resulting in a per-study bacterial amplicon sequence variants (ASVs) table. Based on a previous study [59], the AGP included 10 blooming bacteria due to sending samples via postal delivery. Those bacteria were filtered across all studies included in this analysis for consistency in order to prevent sample-storage associated bacteria, and identification of the IBD-specific and non-specific ASV was performed before and after this filtering with very consistent results for the filtered and non-filtered dataset. ASV taxonomic classification was performed using a naive Bayes fitted classifier [60], trained on the August 2013 99% identity Greengenes database, for 150 bp long reads and the corresponding primers set as implemented in qiime2 command: qiime2 feature-classifier classify-sklearn with default parameters.
+
+# Standard (frequency‑based) analysis
+
+# Sample preprocessing
+
+To mitigate the effect of different cohort sizes in different studies, 23 samples were randomly chosen from each case/control group in each disease cohort. In cases where less than 23 samples were available for the group, we used all available samples instead. This resulted in a total of 2356 samples for downstream analysis. In addition, for the aggregated analysis, for each case/control group in each disease cohort all samples (up to 23) were combined into a single aggregate sample by taking the mean frequency for each ASV.
+
+# PERMANOVA
+
+Samples were rarified to a constant depth of 3000 reads per sample, and sample-sample distances were calculated using the Bray-Curtis and unweighted-unifrac metrics using qiime2. To quantify the contribution of different factors to the microbial composition, PERMANOVA was applied using the Adonis function in the R package Vegan (vegan: Community Ecology Package. R package version 2.5-6. https://CRAN.R-project.org/package=vegan) [61] using both metrics. Variables tested were as follows: case/control, specific disease, country, cohort, disease cohort, and age group (adult/child). Analysis was performed on the original samples as well as on the aggregated samples (i.e., one sample per case/control group in each disease cohort). The total variance explained by each variable was calculated independently of other variables (that is, as the sole variable in the model).

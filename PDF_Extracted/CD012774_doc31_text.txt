@@ -1,0 +1,36 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Library
+
+# Better health.
+
+We noted 29 ongoing studies that reflect the scientific community's interest in investigating the role of FMT for treatment of IBD (see Characteristics of ongoing studies table). However, we anticipate challenges with adoption and conduct of this intervention as a 'drug' in clinical practice due to variation in production and quality control of each FMT specimen. The US Food and Drug Administration (FDA) has issued guidelines to help with appropriate development of FMT-based products used in clinical studies, and the guidance includes information on donor screening and blood testing, stool testing, as well as appropriate preparation and administration of the FMT product (Carlson 2020). The FDA also emphasized the need to develop potency assays of the FMT product and perform stability studies to ensure that individual species within the product's microbiota are viable and to assess any potential impact of the donor microbiome on the product's safety and effectiveness (Carlson 2020). There is also growing interest in other microbiome-based therapies, such as modified stool products that may reduce the concentration of potentially harmful bacteria (Feuerstadt 2022), and the administration of laboratory-grown bacteria without using any stool product (Rode 2021) for treatment of rCDI. Future studies may focus on some of these newer microbiome-based therapies to investigate their role in the treatment of IBD.
+
+# Acknowledgements
+
+Cochrane Gut supported the authors in the development of this review update. The updated search strategy in the 2021 version was developed by Yuhong (Cathy) Yuan, Information Specialist at Cochrane Gut. We would like to acknowledge Ms. Abigail Smith who ran the most recent search on 22 December 2022. Collaborators who contributed to the screening and selection of studies include David Urciuoli, Samuel Mackoff, and Hannah Bender. Authors of the previous version of the review: Joseph Zackular and Dawn Borromeo Beaulieu.
+
+# Editorial Process
+
+The following people conducted the editorial process for this article.
+
+- Sign-off Editor (final editorial decision): Grigorios Leonitiadis; McMaster University, Canada; Co-ordinating Editor of the Cochrane Gut Group
+- Managing Editor (selected peer reviewers, collated peer-reviewer comments, provided editorial guidance to authors, edited the article): Lara Kahale; Cochrane Central Editorial Service
+- Editorial Assistant (conducted editorial policy checks and supported editorial team): Lisa Wydrzynski; Cochrane Central Editorial Service
+- Copy Editor (copy-editing and production): Anne Lawson, Central Production Service, Cochrane
+- Peer-reviewers (provided comments and recommended an editorial decision):
+- Athos Bousvaros; Professor of Pediatrics Harvard Medical School Pediatric Gastroenterologist Boston Children's Hospital (clinical)
+- George Lillington (consumer)
+- Natalia Castaño-Rodríguez; School of Biotechnology and Biomolecular Sciences Faculty of Science UNSW Sydney Australia (clinical)
+- Rachel Richardson; Associate Editor; Cochrane Evidence Production and Methods Directorate (methods)
+- Sheila Wallace; Cochrane Incontinence (search)
+
+Funding for the former Cochrane IBD Group (1 May 2017 to 30 April 2022) was provided by Crohn's and Colitis Canada (CCC).
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

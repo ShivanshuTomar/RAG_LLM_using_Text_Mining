@@ -1,0 +1,29 @@
+# Ma et al. Genome Biology (2022) 23:208
+
+# Page 23 of 31
+
+# Classification Details
+
+- HMP2: ileum classification kept unchanged; cecum, ascending/right-sided colon, transverse colon, descending/left-sided colon, and sigmoid colon were aggregated as colon.
+- MucosalIBD: all terminal ileum samples, aggregated to ileum.
+- Pouchitis: terminal ileum, pouch, pre-pouch ileum aggregated as ileum; sigmoid colon aggregated to colon.
+- PROTECT: all rectum samples, classification kept unchanged.
+- RISK: terminal ileum was aggregated to ileum; rectum kept unchanged.
+
+# Montreal Classifications
+
+- Location for CDs (L1, L2, L3, and possible combinations), available for BIDMC-FMT, CS-PRISM, Herfarth, Jansson-Lamendella, LSS-PRISM, and Pouchitis.
+- Behavior for CDs (B1, B2, and B3), available for CS-PRISM, Herfarth, Jansson-Lamendella, LSS-PRISM, Pouchitis, and RISK.
+- Extent for UCs (E1, E2, and E3), available for CS-PRISM, Jansson-Lamendella, LSS-PRISM, Pouchitis, and PROTECT.
+
+# Additional Variables
+
+- Age at sample collection (in years), available for BIDMC-FMT, CS-PRISM, Herfarth, HMP2, LSS-PRISM, MucosalIBD, Pouchitis, PROTECT, RISK.
+- Age at diagnosis (in years). Directly available for CS-PRISM, HMP2, LSS-PRISM, and Pouchitis, inferred as baseline age for PROTECT and RISK as these were new-onset cohorts.
+- Race (White, African American, Asian / Pacific Islander, Native American, more than one race, others). Directly available for CS-PRISM, Herfarth, HMP2, PROTECT, and RISK, inferred from manuscript cohort description for Jansson-Lamendella (all Caucasian cohort).
+- Gender (male/female). Available for BIDMC-FMT, CS-PRISM, Herfarth, HMP2, Jansson-Lamendella, LSS-PRISM, MucosalIBD, Pouchitis, PROTECT.
+- Treatment variables, including antibiotics, immunosuppressants, steroids, and 5-ASA. These variables were encoded as yes/no to indicate, approximately, currently receiving them at the time of sampling. Additional information such as specific medication or delivery method was recorded separately if available in case of need. We note the potentially confounding difference in studies’ definitions of treatment: for Pouchitis and PROTECT authors defined antibiotics as receiving the treatment within the past month (30 days for Pouchitis, 27 days for PROTECT), whereas for CS-PRISM, HMP2, LSS-PRISM, and RISK such determination was not possible (antibiotics “yes” was defined as “currently taking”). Likewise, we had no additional information to determine the time extent for the other three treatments, beyond that according to metadata/publication, patients were “currently taking” the treatment at sample collection.
+
+# Metadata Curation Repository
+
+For a comprehensive list of curation mapping schema, please refer to our metadata curation repository: https://github.com/biobakery/ibd_meta_analysis.

@@ -1,0 +1,31 @@
+# Microbiota and anti-TNF-α response in IBD patients
+
+and butyrate – are the fundamental and essential end products of carbohydrate fermentation in the colon. Microbiota present in colonic epithelial cells consume butyrate to produce energy, while acetate and propionate remain in the intestinal cell [9].
+
+Dysfunction in the composition and abundance of gut microbiota is associated with IBD severity. A significant decrease in the diversity of commensal bacteria, such as Bacteroides, Lactobacillus, Ruminococcus, Faecalibacterium, and Bifidobacterium, has also been observed in IBD patients. Low diversity of Roseburia spp. is associated with a high risk of IBD pathology [10].
+
+A precise definition of primary nonresponse in IBD patients has not been established, nevertheless, an accepted definition with respect to the employment of anti-TNF therapy is a failure to fulfill clinical remission following the induction of a remedy period with documentation of adequate drug levels [11]. The role of the intestinal microbial composition in primary non-responders is not well understood. Several studies have shown no significant dissimilarity in the gut microbiome profile pre- and post-treatment with anti-TNF antagonists [12].
+
+This study aims to determine whether the composition of gut microbiota has an effect on initial unresponsiveness to anti-TNF-α treatments in IBD patients. Accordingly, this study sets out to identify responsible microbiota and posits the utilization of the microbiota pattern as a biomarker to indicate unresponsiveness.
+
+# MATERIALS AND METHODS
+
+Twenty Saudi Arabian IBD patients were recruited for this study from the outpatient Gastroenterology Department at King Abdulaziz University Hospital, in Jeddah, Kingdom of Saudi Arabia. The inclusion criteria were male or female patients that were 20–45 years old with a confirmed diagnosis of IBD, established through clinical, endoscopic, and histological criteria. Case record forms were obtained from patients, which included demographic and clinical data regarding gender, age, marital status, family history, diagnosis reports, environmental exposures (e.g., smoking), body mass index, and various laboratory parameters. The study was designed for patients treated with anti-TNF-α antagonists only (infliximab and adalimumab). The study mainly compared IBD patients that demonstrated no response (primary non-responders) to anti-TNF agents (n = 10) and patients that were judged to be responders to anti-TNF-α antagonists (n = 10). Primary non-response was defined as failure to demonstrate clinical remission following completion of the induction period anti-TNF therapy, that is, adalimumab or infliximab, without TDM. Similarly, response was defined as demonstration of clinical response or clinical remission at the end of induction.
+
+The exclusion criteria were patients with contraindications to anti-TNF-α antagonists, including active tuberculosis, sepsis, or other severe opportunistic infections. Participants that were treated with medication, such as antibiotics, corticosteroids, mesalamine, and immunosuppressants, within 3 months before fecal collection were also excluded, as were pregnant or breastfeeding women and those that failed to submit stool samples as described at each phase of the study.
+
+# Sample collection and genomic DNA extraction
+
+The fecal samples were collected, following completion of the induction phase of anti-TNF therapy, using the iSWAB-Microbiome Collection Kit and stored frozen at −20°C within 24 hours of collection. Genomic DNA of the gut microbes was extracted from the 200 μL fecal sample using PureLink™ Microbiome DNA Purification Kit (Invitrogen by Thermo Fisher Scientific, USA), following the instructions set out in the International Human Microbiome Standards project: http://www.human-microbiome.org/.
+
+# Polymerase chain reaction (PCR) DNA amplification and library preparation
+
+Isolated genomic DNA of 20 stool samples was amplified for the target V3-V4 hypervariable regions of 16S rRNA, an intestinal bacteria DNA, using the universal primer set, Primer 341 Forward (5’-CCTACGGGNGGCWGCAG-3’) and Primer 806 Reverse (5-GACTACHVGGGTATCTAATCC-3’). The total PCR comprised 25 μL, as follows: 7.5 μL H2O, 12.5 μL DreamTaq PCR Master Mix, 3 μL DNA genome, and 1 μL forward/reverse primers. The thermal cycling condition of the PCR was carried out using an initial denaturation step at 95°C for 5 minutes followed by 40 cycles at 95°C for 30 seconds (denaturation), 56°C for 30 seconds (annealing), 72°C for 30 seconds (extension), and a final extension step at 72°C for 10 minutes, and a 4°C hold. A 5 μL of 5X DNA Loading Buffer Blue was added to the PCR product.
+
+# 16S bioinformatics sequence analysis
+
+Raw reads were refined using the Illumina MiSeq platform [13]. Paired end reads were generated using FLASH (v1.2.11) [14]. The reads sequenced with tags were clustered to operational taxonomic units (OTUs) at 97% sequence similarity using the USEARCH software (v7.0.1090) [15]. OTU representative sequences were classified according to the databases of 16S rDNA, with the Ribosomal Database Project Classifier (v.2.2) and Greengenes database [16], using 0.6 CI as a cutoff. A representative OTU phylogenetic tree was generated using the QIIME software (v1.80) (https://qiime2.org). A pre-filtering of selected OTUs was done according to the richness and evenness; at the initial analysis, richness and evenness were checked in all samples and OTUs that did not represent the.
+
+Bosn J Basic Med Sci. 2022;22(3):412-426
+
+www.bjbms.org

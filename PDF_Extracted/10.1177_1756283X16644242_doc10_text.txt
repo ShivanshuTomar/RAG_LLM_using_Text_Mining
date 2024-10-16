@@ -1,0 +1,38 @@
+# Therapeutic Advances in Gastroenterology 9(4)
+
+# Acknowledgements
+
+The findings and conclusions in this report are those of the authors and do not necessarily reflect the views of the University of Washington.
+
+# Funding
+
+This research received no specific grant from any funding agency in the public, commercial, or not-for-profit sectors.
+
+# Conflict of interest statement
+
+The authors declare that there is no conflict of interest.
+
+# References
+
+1. Aamann, L., Vestergaard, E. and Gronbaek, H. (2014) Trefoil factors in inflammatory bowel disease. World J Gastroenterol 20: 3223–3230.
+2. Abraham, C. and Medzhitov, R. (2011) Interactions between the host innate immune system and microbes in inflammatory bowel disease. Gastroenterology 140: 1729–1737.
+3. Achilles, S. and Hillier, S. (2013) The complexity of contraceptives: understanding their impact on genital immune cells and vaginal microbiota. AIDS 27(Suppl. 1): S5–S15.
+4. Akobeng, A., Miller, V., Stanton, J., Elbadri, A. and Thomas, A. (2000) Double-blind randomized controlled trial of glutamine-enriched polymeric diet in the treatment of active Crohn’s disease. J Pediatr Gastroenterol Nutr 30: 78–84.
+5. Alic, M. (2000) Epidemiology supports oral contraceptives as a risk factor in Crohn’s disease. Gut 46: 140.
+6. Alikhan, A., Henderson, G., Becker, L. and Sciallis, G. (2011) Acne treatment and inflammatory bowel disease: what is the evidence? J Am Acad Dermatol 65: 650–654.
+7. Ananthakrishnan, A. (2013) Environmental risk factors for inflammatory bowel disease. Gastroenterol Hepatol (N Y) 9: 367–374.
+8. Ananthakrishnan, A., Higuchi, L., Huang, E., Khalili, H., Richter, J., Fuchs, C. et al. (2012) Aspirin, nonsteroidal anti-inflammatory drug use, and risk for Crohn disease and ulcerative colitis: a cohort study. Ann Intern Med 156: 350–359.
+9. Andersson, R., Olaison, G., Tysk, C. and Ekbom, A. (2003) Appendectomy is followed by increased risk of Crohn’s disease. Gastroenterology 124: 40–46.
+10. Andrews, C., Griffiths, T., Kaufman, J., Vergnolle, N., Surette, M. and Rioux, K. (2011) Mesalazine (5-aminosalicylic acid) alters faecal bacterial profiles, but not mucosal proteolytic activity in diarrhoea-predominant irritable bowel syndrome. Aliment Pharmacol Ther 34: 374–383.
+11. Angelberger, S., Reinisch, W., Makristathis, A., Lichtenberger, C., Dejaco, C., Papay, P. et al. (2013) Temporal bacterial community dynamics vary among ulcerative colitis patients after fecal microbiota transplantation. Am J Gastroenterol 108: 1620–1630.
+12. Antharam, V., Li, E., Ishmael, A., Sharma, A., Mai, V., Rand, K. et al. (2013) Intestinal dysbiosis and depletion of butyrogenic bacteria in clostridium difficile infection and nosocomial diarrhea. J Clin Microbiol 51: 2884–2892.
+13. Arnold, G., Beaves, M., Pryjdun, V. and Mook, W. (2002) Preliminary study of ciprofloxacin in active Crohn’s disease. Inflamm Bowel Dis 8: 10–15.
+14. Arumugam, M., Raes, J., Pelletier, E., Le Paslier, D., Yamada, T., Mende, D. et al. (2011) Enterotypes of the human gut microbiome. Nature 473: 174–180.
+15. Atarashi, K., Tanoue, T., Shima, T., Imaoka, A., Kuwahara, T., Momose, Y. et al. (2011) Induction of colonic regulatory T cells by indigenous Clostridium species. Science 331: 337–341.
+16. Bager, P., Simonsen, J., Nielsen, N. and Frisch, M. (2012) Cesarean section and offspring’s risk of inflammatory bowel disease: a national cohort study. Inflamm Bowel Dis 18: 857–862.
+17. Bangsgaard Bendtsen, K., Krych, L., Sorensen, D., Pang, W., Nielsen, D., Josefsen, K. et al. (2012) Gut microbiota composition is correlated to grid floor induced stress and behavior in the BALB/c mouse. PLoS One 7: e46231.
+18. Barclay, A., Russell, R., Wilson, M., Gilmour, W., Satsangi, J. and Wilson, D. (2009) Systematic review: the role of breastfeeding in the development of pediatric inflammatory bowel disease. J Pediatr 155: 421–426.
+19. Bejaoui, M., Sokol, H. and Marteau, P. (2015) Targeting the microbiome in inflammatory bowel disease: critical evaluation of current concepts and moving to new horizons. Dig Dis 33(Suppl. 1): 105–112.
+20. Bellaguarda, E. and Chang, E. (2015) IBD and the gut microbiota – from bench to personalized medicine. Curr Gastroenterol Rep 17: 15.
+21. Benjamin, J., Hedin, C., Koutsoumpas, A., Ng, S., McCarthy, N., Prescott, N. et al. (2012) Smokers with active Crohn’s disease have a clinically relevant dysbiosis of the gastrointestinal microbiota. Inflamm Bowel Dis 18: 1092–1100.
+22. Berg, A., Kelly, C. and Farraye, F. (2013) Clostridium difficile infection in the inflammatory bowel disease patient. Inflamm Bowel Dis 19: 194–204.

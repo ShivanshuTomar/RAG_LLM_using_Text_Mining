@@ -1,0 +1,44 @@
+# Cronin et al. BMC Gastroenterology (2019) 19:29
+
+# Page 7 of 11
+
+# Comparison of Body Composition Parameters
+
+|Study Group|Lean tissue mass|Total body fat percentage|
+|---|---|---|
+|EXERCISE|Weck|9|
+|CONTROL|Weck|8|
+| |1|3|
+| |1|1|
+
+Error Bars: 95% CI
+
+Error Bars: 95% CI
+
+Fig. 2 Comparison of body composition parameters (a: Total body fat percentage; b: Total lean tissue mass) before and after the combined aerobic and resistance exercise intervention in the EXERCISE group and in the non-exercising disease CONTROL group. ** Denotes p-value < 0.01 and ***denotes p-value < 0.001 as per Wilcoxon signed-rank test. Error bars denote 95% confidence intervals.
+
+# Pro-inflammatory Cytokines
+
+Pro-inflammatory cytokines (IL-8, IL-10, IL-6 and TNF-α) and circulating levels of C-reactive protein (CRP) were similar at baseline in both groups indicating low levels of disease activity and there was no deterioration after the intervention suggesting disease stability with exercise (Additional file 1: Table S1).
+
+# Metagenomic Assessment of Gut Microbiota
+
+There was a modest, but not statistically significant increase in α-diversity (intra-individual) of Archaea species after the study period (Fig. 3a and b). Mean α-diversity of bacterial species increased in participants following the control period (p = 0.015, Fig. 3c), however comparisons of within-group alterations of α-diversity (percent Δ) showed no significant differences between exercise and control.
+
+# Change in Clinical Variables
+
+|Variable| |Exercise group (n = 13)|Control group (n = 7)|p-value|
+|---|---|---|---|---|
+|Weight (kg)| |0 (−1.15, 1.55)|−1.6 (−2.1, 0.2)|0.624|
+|BMI (Kg/m2)| |0 (−0.395, 0.48)|−0.58 (−0.74, −0.54)|0.116|
+|Systolic blood pressure (mmHg)|−5 (−12, −2)|−8 (−14, −2)| |0.536|
+|Diastolic blood pressure (mmHg)| |−4 (−8.5, 0.5)|−9 (−10, −2)|0.311|
+|Resting heart rate (Beats per minute)|−7 (−12, −2)| |−1 (−9, 6)|0.211|
+|Total body fat percentage (%)|−2.1 (−2.15, −0.45)|0.1 (−0.4, 1)| |0.022a|
+|Fat mass - total (kg)|−1.52 (−2.32, −0.04)|−0.04 (−0.93, −0.04)| |0.487|
+|Fat mass - trunk (kg)|−0.82 (−1.4, −0.002)|−0.13 (−0.8, 0.78)| |0.688|
+|Lean tissue mass (kg)| |1.59 (0.68, 2.69)|−1.38 (−2.45, 0.26)|0.003a|
+|Change in disease activity score|Simple Colitis Index|−1 (−1, 0)|0 (−1.5–2)|0.435|
+| |Harvey Bradshaw Index|0 (−1, 0.5)|0 (0, 0)|1.00|
+
+Mann-Whitney U tests were used to compare changes in variables between groups. Median values for the change in these variables (interquartile ranges) are stated. Significant p-values adjusted for multiple comparisons (Bonferroni). a indicates statistical significance.

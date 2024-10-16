@@ -1,0 +1,71 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Study
+
+# Reason for exclusion
+
+|Tian 2019|Wrong study design: not a randomized trial|
+|---|---|
+|UMIN000025846|Wrong comparator: not controlled, single-arm study|
+|UMIN000026485|Wrong study design: not randomized, not controlled, single-arm, open study|
+|UMIN000041968|Wrong intervention: alginate-combined FMT vs placebo-combined FMT|
+|Wei 2016|Wrong comparator: both groups received FMT (FMT only vs FMT + pectin)|
+|Xiang 2020|Wrong comparator: no comparator arm|
+|Yang 2020|Study unavailable: conference abstract and full study unavailable|
+
+CD: Crohn disease; FMT: fecal microbiota transplantation; IBD: inflammatory bowel disease; UC: ulcerative colitis.
+
+# Characteristics of studies awaiting classification [ordered by study ID]
+
+# Caenepeel 2022
+
+# Methods
+
+Multicenter, double-blind RCT conducted in Belgium
+
+# Participants
+
+# Inclusion criteria
+
+- Age > 18 years
+- Current mild-to-moderate active UC (Endoscopic Mayo subscore 2–3 and Total Mayo score 4–10)
+- Concomitant UC therapy allowed if restricted to current treatment and at stable dose (not in induction phase)
+- No topical therapy or trial medication
+- Maximum dose of methylprednisolone 15 mg
+- Negative coproculture (Salmonella, Shigella, Yersinia, Campylobacter, Entamoeba histolytica, Clostridioides difficile toxins and enteropathogenic Escherichia coli)
+- Use of reliable contraceptives during study participation for women
+- Written informed consent to participate via signature
+
+# Exclusion criteria
+
+- Diagnosis of CD or indeterminate colitis
+- Profoundly immunosuppressive conditions, e.g. HIV, infectious diseases, bone marrow malignancies, liver cirrhosis, use of systemic chemotherapy
+- Use of antibiotics in previous 4 weeks
+- Surgery: total colectomy, presence of stoma or ileo-anal pouch
+- Presence of intra-abdominal fistula
+- Colon carcinoma
+- Diverticulitis
+- Steroid dependency and requirement of > methylprednisone 15 mg 2 weeks before start
+- Detection of gastrointestinal pathogen on stool analysis
+- Pregnancy or planning pregnancy
+- Inability or unwillingness to give informed consent
+
+# Interventions
+
+Experimental arm
+
+n = 30
+
+- 4 doses of anaerobic-prepared superdonor FMT
+
+Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

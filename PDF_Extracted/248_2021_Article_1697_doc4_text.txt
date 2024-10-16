@@ -1,0 +1,18 @@
+# Paediatric Inflammatory Bowel Disease and its Relationship with the Microbiome
+
+# Table 1 (continued)
+
+|Bacterial Taxa|Abundance Changes|Reference|Sample Type|
+|---|---|---|---|
+|Bifidobacteriaceae|Decreased abundance in UC (active only)|Schwiertz et al. [42]|Faecal samples|
+|Faecalibacterium prausnitzii, Bifidobacteriaceae|Decreased abundance in CD| | |
+|Escherichia coli|Increased abundance in CD (active only)| | |
+|Ruminococcus gnavus|Increased in IBD patients with extensive disease|Olbjørn et al. [29]|Faecal samples (ileocolitis in CD or extensive colitis in UC) compared to CD patients with isolated colonic disease and UC patients with left-sided colitis or proctitis|
+|Veillonella|Increased in CD patients with upper gastrointestinal involvement compared to those without upper gastrointestinal lesions| | |
+|Proteobacteria|Increased abundance for CD patients with complicated disease behaviour, stricturing, or penetrating disease| | |
+|Ruminococcaceae, Lachnospiraceae|Decreased in severe disease in UC|Schirmer et al. [30]|Faecal samples and paired rectal biopsies (study found comparable abundances between stool faecal samples and biopsies)|
+|Streptococcus anginosus (only in rectal biopsies), Veillonella dispar, Aggregatibacter segnis, Campylobacter, Lachnospiraceae, Veillonella parvula, Haemophilus parainfluenzae, Megasphaera|Decreased in UC with extensive disease involvement or pancolitis compared to UC with proctosigmoiditis or left-sided colitis| | |
+|Clostridiales, Veillonella dispar, Haemophilus parainfluenzae, Campylobacter|Increased in UC patients later requiring colectomy| | |
+|Ruminococcaceae, Blautia, Dorea (additional OTU depletions also found)|Decreased in UC patients later requiring colectomy| | |
+|Akkermansia muciniphila|Decreased abundance in UC|de Meij et al. [46]|Faecal samples|
+|Mycoplasma hominis|Decreased in CD (compared to UC)|Olbjørn et al. [29]|Faecal samples|

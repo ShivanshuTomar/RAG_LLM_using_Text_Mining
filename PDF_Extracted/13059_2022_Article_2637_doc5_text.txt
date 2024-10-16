@@ -1,0 +1,26 @@
+# Abbas-Egbariya et al. Genome Biology (2022) 23:61
+
+# Page 6 of 23
+
+In contrast, when using the effect size (NRMD) based distances, we were able to eliminate much of the cohort specific signal, with the signal from the different cohorts being spread-out (Additional file 1: Fig. S1D). The full NRMD-based distance matrix (Fig. 2A) shows clustering according to disease rather than study. For example, three Parkinson studies from 3 different cohorts (2 from the US and 1 from Europe) showed high similarities with each other (Fig. 2A). IBD studies were significantly enriched in the left main dendrogram branch (chi-squares p value = 0.009, 11/28 vs. 3/30), and CD and UC disease cohorts seemed to intermix. However, 17 other disease cohorts including Alzheimer, lupus, and autism also clustered on the left dendrogram branch. Coloring of the NRMD-based PCoA by country of origin or disease shows that cohorts from the same geographic region are spread through the graph (Fig. 2B).
+
+# Disease keys
+
+- Blpoli
+- Camcer
+- Cichn $ disease
+- 0cpressiOn
+- Guslroenlert
+- Iaficable bowei svndrom @
+- Ohccitn
+- Parkinson-discasc
+- Schkonhrenl
+- Other dlseases
+
+# Countries keys
+
+7 2 HV 1 L 1 IVV MW| Stool Biopsy
+
+# Fig. 2 Similarities and differences in the microbial composition between diseases.
+
+Modified Bray‑Curtis distance matrix was calculated using the 731 ASV effect size ratios between cases and controls across the different disease cohorts using all samples (n = 12,838). Comparisons were performed between two disease cohorts only on ASVs found in both. This modified Bray‑Curtis metric was used to build the distance matrix (A). Darker color indicates high similarity and bright color indicates low similarity. Bar colors on X and Y axes indicate the specific disease of each disease cohort, as indicated in the disease key. CD UC and IBD are all colored in dark‑red but the labeling specifically indicates the disease type; however, those tend to intermix. IBD represent studies in which patients were only labeled as IBD rather than CD or UC. This matrix was then used for the generation of a principal coordinate analysis (PCoA) depicting disease cohort similarity (B, C), where disease cohorts are colored by country (B) or specific disease (C).

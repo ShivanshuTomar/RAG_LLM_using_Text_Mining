@@ -1,0 +1,21 @@
+# Ma et al. Genome Biology (2022) 23:208
+
+Page 19 of 31
+
+(MMUPHin_Correct, MMUPHin_MetaDA, MMUPHin_Discrete, and MMUPHin_Continuous). In all cases, these employed realistic microbial abundance profiles generated using SparseDOSSA (http://hutte nhower.sph.harva rd.edu/sparsedossa). This is a model of microbial community structure using a set of zero-inflated log-normal distributions fit to selected training data, in this case drawn from the IBD gut microbiome [6]. Controlled microbial associations with simulated covariates can then (optionally) be spiked in. Note that although the assumed null distributions in MMUPHin and SparseDOSSA are the same (zero-inflated log normal), the models of effects for batch and biological variables are substantially different: MMUPHin assumes exponentiated effects, while SparseDOSSA assumes re-standardized linear effects.
+
+Specifically, SparseDOSSA models null microbial feature abundances using a zero-inflated log-normal distribution:
+
+(μp, σ2p) × Bernoulli(πp)
+
+Yip ∼ LogN
+
+This is the same initial distributional assumption as the MMUPHin batch correction model, when there are no batch or covariates effects. However, for spiked-in associations with metadata (batch, biological variables, etc.), SparseDOSSA uses a different model. Given a simulated, pre-spiking-in feature count vector Yp with mean μpY and standard error σpY, as well as a metadata variable vector X with mean μX and standard error σX, the post-spiked-in feature count is set to:
+
+{Yip + φ × [(Xi − μX)σpY]} ∼ 1 + μpY
+
+Yip = 1 + φ σX
+
+where φ is a configurable spike-in strength parameter. By this definition, microbial features post-spike-in have the same mean and approximately the same variance as before, the only difference being the added association with the metadata variable(s) used. This is to ensure the counts of the modified feature are not dominated by the values of the target covariate, but instead distributed similarly to real data. The SparseDOSSA association model thus differs from MMUPHin’s model in two substantial ways: (i) MMUPHin’s associations are defined within the exponentiated component and are thus better described as a multiplicative effect, whereas SparseDOSSA’s effects are directly applied on untransformed data, and (ii) SparseDOSSA additionally ensures realistic data generation with the re-standardization procedure.
+
+Thus, the only component of the SparseDOSSA model that requires fitting to training data is the aforementioned zero-inflated log-normal null distribution. In our analysis, this was always PRISM [6], while other parameters were specified across a wide range of combinations to simulate different application scenarios. These include the effect sizes of the associated batch and biological variables (i.e., the φ parameter), number of batches, sample sizes, and dimensionality (both the total number of features and the percentage of features randomized to be associated with batch/biological variables). For each combination of simulation parameters, we performed 20 random replications (i.e., running simulation/evaluation with the same parameters but different random seeds). Additional file 4: Table S2 presents the full list of parameter combinations.

@@ -1,0 +1,31 @@
+# Armstrong et al. Microbiome
+
+# (2023) 11:39
+
+# Illumina library construction with indexing primers to sequence the Vβ–Dβ junction region, to permit good coverage of CDR3 with Illumina pair-end reads.
+
+Final PCR products were gel purified and sequenced using Illumina MiSeq sequencer (Illumina). Sequencing reads were quality filtered (Q-value ≥ 20) and assigned germline Vβ/Jβ gene segments using MiXCR to identify TCR clonotypes for each Vβ region.
+
+# Combination antiretroviral treatment (cART)
+
+At 4 −/− weeks of age, male wild type (WT; n= 17) and IL-10−/− mice (n = 40) were randomly assigned to either a placebo or combined antiretroviral therapy (cART) for 12 weeks ± 1 week. The chosen cART regimen using repurposed HIV nucleoside/nucleotide reverse transcriptase inhibitors and protease inhibitors had been evaluated for activity in antagonizing MMTV in vitro and demonstrated antiviral activity in vivo corresponding with improvement of inflammatory disease in prior studies [21].
+
+Animals were fed ad libitum with cART added to the drinking water, freshly prepared every second day for 12 weeks, to achieve a daily dose of 1 mg emtricitabine and 1.5 mg tenofovir disoproxil fumarate nucleoside/nucleotide reverse transcriptase inhibitors as well as 4 mg lopinavir boosted with 1 mg ritonavir protease inhibitors, as described previously [21]. Control treatment group mice received ground placebo tablets in their drinking water. Water consumption was monitored daily and mouse weights measured weekly.
+
+# Evaluation of viral load
+
+Colons were collected from SvEv WT placebo (n = 9), SvEv WT cART (n = 8), IL-10−/− placebo (n = 21), and IL-10−/− cART (n = 19) mice after 12-week intervention for analysis of MMTV RNA levels. Initial quantification of MMTV RNA from untreated 16- to 18-week colon samples was performed using RT-qPCR to amplify target from 250 ng total colon RNA with primers complementary to MMTV Env normalized to beta-actin using the 2−ΔCt method, as described [13].
+
+The QuantiGene reagent system (Panomics/Affymetrix, Inc., Freemont, CA, USA) was used to measure response to cART, using methods previously described [24]. The QuantiGene is more precise than RT-PCR because the assay is capable of detecting 200 genome equivalents/sample and accurately quantifying RNA levels with > 400 copies/sample [24]. The probes were designed and synthesized by Panomics, using highly conserved regions in the gag-pro-pol genes from the MMTV genome (RefSeq NC_001503.1). QuantiGene RNA assay was performed on isolates, following manufacturer’s instructions. Briefly, RNA samples, including capture probes, were added to a well with both blocking probes and capture extenders and incubated overnight. Samples were washed and amplified using a pre-amplifier solution. Samples were incubated for 1 h, wash was repeated, and an amplifier solution was added. Label probes were added to each of the wells to allow chemiluminescent substrate binding to the label probes. Samples were measured using a luminometer and reported on an arbitrary, relative scale.
+
+# Meso Scale Discovery (MSD) cytokine assay
+
+SvEv WT mice on placebo (n = 9) or cART (n = 8), and IL-10−/− mice on placebo (n = 19) or cART (n = 21), were culled after 12-week intervention. Lysates from colonic tissue were analyzed using the Meso Scale Discovery (MSD) platform to identify cytokine secretion following manufacturer’s directions.
+
+# Histological scoring
+
+SvEv −/− WT placebo (n = 21), and IL-10−/− cART (n = 19) mice were sacrificed after 12-week intervention. Colon weight and length were measured, and fresh colonic tissues were cut longitudinally and fixed in 10% phosphate-buffered formalin, dehydrated overnight in 100% ethanol, and prepared for paraffin embedding using an automated tissue processor. Formalin-fixed paraffin-embedded (FFPE) tissue blocks were cut into 4-μm sections to be stained with H&E. Tissue images were assessed anonymously using a light microscope by a pathologist grading activity of each sample on a scale of 0 to 8 for enterocyte injury (0–3), epithelial hyperplasia (0–3), lymphocytes in lamina propria (0–2), and neutrophils in lamina propria (0–2), as previously described [18, 19]. Samples allotted a score of 0 to 2 are healthy with minimal damage to the gut lining and physiological inflammation, whereas samples with a score greater than 6 had marked disease with increased inflammation and tissue damage.
+
+# Stool shotgun metagenomics library construction and bioinformatics
+
+Total DNA was extracted from stool samples from SvEv WT mice on placebo (n = 8) and cART (n = 7), and IL-10−/− mice on placebo (n = 15) or cART (n = 17), and cloned into Nextera XT libraries for Illumina sequencing [25]. Shotgun library sequences were quality trimmed with fastq-mcf using a Q-score threshold of 24, a window size for trimming of 3 bp, and a minimal read length of 120 bp. Quality-trimmed sequences were pseudo aligned with Kraken2 in paired-end mode [26] against a database including the NCBI RefSeq and the HMP databases.

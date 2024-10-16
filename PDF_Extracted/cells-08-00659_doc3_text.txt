@@ -1,0 +1,27 @@
+# Cells 2019, 8, 659
+
+# Table 1. Factors involved in the gut/microbiota/brain interplay in inflammatory bowel disease (IBD) development.
+
+|Factor|Type of study|N|Intervention/Methodology|Outcome|Author(s)|Reference|
+|---|---|---|---|---|---|---|
+|Clinical study|637|Questionnaire|First-degree relatives have 10-fold increased risk|Orholm, M. et al.|37| |
+|Meta-analysis|&gt;75,000 cases &amp; controls|GWAS|Identified 30 gene loci for CD and 23 for UC|Jostins, L. et al.|39| |
+|Trans-ancestry association studies|238,401|GWAS|Identified 38 susceptibility loci for IBD|Liu, J.Z. et al.|40| |
+|Genetic association study|6228|Association studies|Identified UPS and CYLD gene are important in IBD pathogenesis|Cleynen, I. et al.|41| |
+|Genotype association study|34,819|Association studies|Insights into genetic heterogeneity between ileal and colonic CD|Cleynen, I. et al.|42| |
+|Clinical study|323|Array-based transcriptome data|Identified 99 strong positional candidate genes in 63 risk loci|Momozawa, Y. et al.|43| |
+| |189 twin pairs|Questionnaire|Results highlight the importance of environmental triggers|Spehlmann, ME. et al.|45| |
+|Clinical study|80 twin pairs|Questionnaire|Genetic influence is stronger in CD than in UC|Halfvarson, J. et al.|46| |
+|Interventional, open-label, pilot study|16|Vitamin D3 supplementation|Vitamin D3 modulates the gut microbiome|Bashir, M. et al.|48| |
+|In-vivo mouse study|4–8 mice per group|Oral antibiotics|Increased levels of intracellular zinc led to bacterial clearance|Lahiri, A. et al.|49| |
+| |4–5 mice per group|High-fat diet and oral antibiotics|High-fat diet alters gut microbiome composition|Hildebrandt, MA.|55| |
+|In-vivo mouse study|&gt;100 inbred mouse strains|High-fat/high-sucrose diet|High-fat/high-sucrose diet influences gut microbiota composition|Parks, BW. et al.|56| |
+|Case-control study|86|Dietary intake|Mono- and polyunsaturated fats consumption is a risk factor for IBD|Geerling, BJ. et al.|57| |
+|In-vivo mouse study|4–5 mice per group|Diet enriched with phytosterols|Phytosterols are protective against IBD|Aldini, R. et al.|58| |
+|Population-based case-control study|1382|Questionnaire on 25 different topics|Altered intestinal microbiota may modulate risk of IBD|Ng, SC. et al.|62| |
+|Retrospective case study|1194|Clinical history and questionnaire|Higher prevalence of CD in urban areas and UC in inland areas|Carpio, D. et al.|68| |
+|Meta-analysis|245 articles|Smoking|Smoking is a risk factor for IBD|Mahid, SS. et al.|51| |
+|Prospective case-control study|160|Transdermal nicotine or placebo patches|Smoking effects gut microbiota composition|Richardson, CE. et al.|52| |
+|Meta-analysis|11 observational studies|Antibiotic exposure|Antibiotics increases the risk of new-onset CD than UC|Ungaro, R. et al.|70| |
+|Medication|Meta-analysis|20 studies|OCP|Increased risk for development of CD and UC|Ortizo, R. et al.|71|
+|Case-control study|122|NSAIDs|Provoked disease activity in IBD|Felder, JB. et al.|72| |

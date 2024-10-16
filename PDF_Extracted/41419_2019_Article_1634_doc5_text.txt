@@ -1,0 +1,40 @@
+# Wang et al. Cell Death and Disease (2019) 10:391
+
+# Species richness
+
+# Shannon index
+
+# ACE index
+
+# Principal coordinates analysis
+
+|1|1|038_074|-|
+|---|---|---|---|
+|3|3-|Cladogram|LE(Se Bar|
+|Control|DSS CRH|Cnt|DSs Ck|
+
+# Community barplot analysis
+
+Fig. 4 Intestinal microflora homeostasis is deteriorated by peripheral administration of CRH in IBD mice. DSS (3%) was given to C57BL/6 mice for 6 days while water was given to the control group. For certain groups, CRH was intraperitoneally given at the dose of 50 μg/kg body weight from day 1 to day 6 and saline was injected as vehicle. Fecal samples were analyzed by performing high-throughput 16S rRNA gene sequencing (n = 5).
+
+a α-Diversity, illustrated by microbiota richness (number of observed operational taxonomic unit (OTU)), Shannon and ace index were reduced in the DSS group, and peripheral administration of CRH aggravated this downward trending (P = 0.035, 0.012, and 0.094, respectively, Wilcoxon rank-sum test analysis), *P < 0.05, **P < 0.01.
+
+b Principal coordinate analysis (PCoA) of the overall microbial composition of the DSS and DSS + CRH groups deviated from the Control and CRH groups (ANOSIM R: 0.7887, P = 0.001).
+
+c Compared to the control group, microbiome alterations at the genus level in the DSS group were significantly changed, and this trend was further obvious in the DSS + CRH group.
+
+d, e Linear discriminant analysis (LDA) effect size (LEfSe) analysis illustrated marked bacterial differences in fecal microbiota among these four groups.
+
+f The abundance of Turicibacter, Ruminococcaceae, and Lactobacillus were decreased, while the genera Klebsiella and Parabacteroides were increased in the DSS group. Moreover, peripheral administration of CRH further aggravated these changes in IBD.
+
+Receiving 3% DSS for 6 days had lower microbial alpha diversity than the control group, and the administration of CRH further aggravated this downward trend (Fig. 4a). Moreover, statistical difference was detected between the DSS + CRH and DSS samples. A principal co-ordinates analysis revealed that the overall microbial composition of the DSS and DSS + CRH groups deviated from the Control and CRH groups (ANOSIM R: 0.7887, P = 0.001, Fig. 4b). A prominent feature of the fecal microbiome was that the composition in the DSS group significantly differed from the control group (Fig. 4c).
+
+The norank_f_Bacteroidales_S24-7_group, Lachnospiraceae_NIK4A136_group, Turicibacter, and Lactobacillus in DSS mice significantly decreased while the Escherichia-Shigella and Klebsiella were much more abundant. Moreover, administration of CRH promoted this imbalance. A supervised comparison of the microbiota between the DSS + CRH and DSS groups was performed by utilizing the cladogram analysis (Fig. 4d) and linear discriminant analysis (LDA) effect size (LEfSe) analysis (Fig. 4e). Marked differences were found (Fig. 4d, e).
+
+The current study particularly focused on the differences in the taxa at the genus level. A significantly higher proportions of the genus Turicibacter, Ruminococcaceae, and Lactobacillus were detected in the control group than those in DSS group, which was similar to previous research22–24, while a great abundance of the genera Klebsiella, Parabacteroides was observed in the DSS group, which was also validated by other studies25,26. Moreover, the administration of CRH further aggravated these changes in IBD (Fig. 4f).
+
+# Peripheral administration of CRH further enhances intestinal autophagy in IBD
+
+It was previously demonstrated that the autophagy process played an important role in the pathogenesis and progression of IBD27,28. The present study investigated whether administration of CRH affected the level of colonic autophagy. The mice receiving 3% DSS for 6 days showed an increase in the level of Beclin-1 and LC3-II/I ratio, as well as a decrease in p62/SQSTM1. Administration of CRH led to a further increase in colonic.
+
+Official journal of the Cell Death Differentiation Association

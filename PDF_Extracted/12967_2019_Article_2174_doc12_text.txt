@@ -1,0 +1,58 @@
+# Kumar et al. J Transl Med (2019) 17:419
+
+# References
+
+1. Strauss J, Kaplan GG, Beck PL, et al. Invasive potential of gut mucosa-derived Fusobacterium nucleatum positively correlates with IBD status of the host. Inflamm Bowel Dis. 2011;17:1971–8.
+2. Hall AB, Yassour M, Sauk J, et al. A novel Ruminococcus gnavus clade enriched in inflammatory bowel disease patients. Genome Med. 2017;9:103.
+3. Alipour M, Zaidi D, Valcheva R, et al. Mucosal barrier depletion and loss of bacterial diversity are primary abnormalities in paediatric ulcerative colitis. J Crohns Colitis. 2016;10:462–71.
+4. Cader MZ, Kaser A. Recent advances in inflammatory bowel disease: mucosal immune cells in intestinal inflammation. Gut. 2013;62:1653–64.
+5. Gordon HA. Morphological and physiological characterization of germfree life. Ann N Y Acad Sci. 1959;78:208–20.
+6. Ahmad R, Sorrell MF, Batra SK, et al. Gut permeability and mucosal inflammation: bad, good or context dependent. Mucosal Immunol. 2017;10:307–17.
+7. Martini E, Krug SM, Siegmund B, et al. Mend your fences: the epithelial barrier and its relationship with mucosal immunity in inflammatory bowel disease. Cell Mol Gastroenterol Hepatol. 2017;4:33–46.
+8. Jostins L, Ripke S, Weersma RK, et al. Host-microbe interactions have shaped the genetic architecture of inflammatory bowel disease. Nature. 2012;491:119–24.
+9. Kang S, Denman SE, Morrison M, et al. Dysbiosis of fecal microbiota in Crohn’s disease patients as revealed by a custom phylogenetic microarray. Inflamm Bowel Dis. 2010;16:2034–42.
+10. Sokol H, Leducq V, Aschard H, et al. Fungal microbiota dysbiosis in IBD. Gut. 2017;66:1039–48.
+11. Pascal V, Pozuelo M, Borruel N, et al. A microbial signature for Crohn’s disease. Gut. 2017;66:813–22.
+12. Halfvarson J, Brislawn CJ, Lamendella R, et al. Dynamics of the human gut microbiome in inflammatory bowel disease. Nat Microbiol. 2017;2:17004.
+13. Franzosa EA, Sirota-Madi A, Avila-Pacheco J, et al. Gut microbiome structure and metabolic activity in inflammatory bowel disease. Nat Microbiol. 2019;4:293–305.
+14. Moustafa A, Li W, Anderson EL, et al. Genetic risk, dysbiosis, and treatment stratification using host genome and gut microbiome in inflammatory bowel disease. Clin Transl Gastroenterol. 2018;9:e132.
+15. Papa E, Docktor M, Smillie C, et al. Non-invasive mapping of the gastrointestinal microbiota identifies children with inflammatory bowel disease. PLoS ONE. 2012;7:e39242.
+16. Lewis JD, Chen EZ, Baldassano RN, et al. Inflammation, antibiotics, and diet as environmental stressors of the gut microbiome in pediatric Crohn’s disease. Cell Host Microbe. 2015;18:489–500.
+17. de Souza HSP, Fiocchi C, Iliopoulos D. The IBD interactome: an integrated view of aetiology, pathogenesis and therapy. Nat Rev Gastroenterol Hepatol. 2017;14:739–49.
+18. Lloyd-Price J, Arze C, Ananthakrishnan AN, et al. Multi-omics of the gut microbial ecosystem in inflammatory bowel diseases. Nature. 2019;569:655–62.
+19. Metwaly A, Haller D. Multi-omics in IBD biomarker discovery: the missing links. Nat Rev Gastroenterol Hepatol. 2019;16:587–8. https://doi.org/10.1038/s41575-019-0188-9.
+20. Underhill DM, Iliev ID. The mycobiota: interactions between commensal fungi and the host immune system. Nat Rev Immunol. 2014;14:405–16.
+21. Huffnagle GB, Noverr MC. The emerging world of the fungal microbiome. Trends Microbiol. 2013;21:334–41.
+22. Norman JM, Handley SA, Baldridge MT, et al. Disease-specific alterations in the enteric virome in inflammatory bowel disease. Cell. 2015;160:447–60.
+23. Wagner J, Maksimovic J, Farries G, et al. Bacteriophages in gut samples from pediatric Crohn’s disease patients: metagenomic analysis using 454 pyrosequencing. Inflamm Bowel Dis. 2013;19:1598–608.
+24. Blumberg RS. Environment and genes: what is the interaction? Dig Dis. 2016;34:20–6.
+25. McCole DF. IBD candidate genes and intestinal barrier regulation. Inflamm Bowel Dis. 2014;20:1829–49.
+26. Strober W, Fuss IJ, Blumberg RS. The immunology of mucosal models of inflammation. Annu Rev Immunol. 2002;20:495–549.
+27. Ruffolo C, Scarpa M, Faggian D, et al. Subclinical intestinal inflammation in patients with Crohn’s disease following bowel resection: a smoldering fire. J Gastrointest Surg. 2010;14:24–31.
+28. Gassler N, Rohr C, Schneider A, et al. Inflammatory bowel disease is associated with changes of enterocytic junctions. Am J Physiol Gastrointest Liver Physiol. 2001;281:G216–28.
+29. Zeissig S, Burgel N, Gunzel D, et al. Changes in expression and distribution of claudin 2, 5 and 8 lead to discontinuous tight junctions and barrier dysfunction in active Crohn’s disease. Gut. 2007;56:61–72.
+30. Di Narzo AF, Brodmerkel C, Telesco SE, et al. High-throughput identification of the plasma proteomic signature of inflammatory bowel disease. J Crohns Colitis. 2019;13:462–71.
+31. Katakura K, Lee J, Rachmilewitz D, et al. Toll-like receptor 9-induced type I IFN protects mice from experimental colitis. J Clin Investig. 2005;115:695–702.
+32. Neurath MF. Cytokines in inflammatory bowel disease. Nat Rev Immunol. 2014;14:329–42.
+33. Neurath MF, Finotto S, Glimcher LH. The role of Th1/Th2 polarization in mucosal immunity. Nat Med. 2002;8:567–73.
+34. Vermeire S, Schreiber S, Petryka R, et al. Clinical remission in patients with moderate-to-severe Crohn’s disease treated with filgotinib (the FITZROY study): results from a phase 2, double-blind, randomised, placebo-controlled trial. Lancet. 2017;389:266–75.
+35. Neurath MF. Current and emerging therapeutic targets for IBD. Nat Rev Gastroenterol Hepatol. 2017;14:269–78.
+36. Lichtenstein GR. Comprehensive review: antitumor necrosis factor agents in inflammatory bowel disease and factors implicated in treatment response. Therap Adv Gastroenterol. 2013;6:269–93.
+37. Friedrich M, Pohin M, Powrie F. Cytokine networks in the pathophysiology of inflammatory bowel disease. Immunity. 2019;50:992–1006.
+38. Lu K, Knutson CG, Wishnok JS, et al. Serum metabolomics in a Helicobacter hepaticus mouse model of inflammatory bowel disease reveal important changes in the microbiome, serum peptides, and intermediary metabolism. J Proteome Res. 2012;11:4916–26.
+39. Storr M, Vogel HJ, Schicho R. Metabolomics: is it useful for inflammatory bowel diseases? Curr Opin Gastroenterol. 2013;29:378–83.
+40. Agouridis AP, Elisaf M, Milionis HJ. An overview of lipid abnormalities in patients with inflammatory bowel disease. Ann Gastroenterol. 2011;24:181–7.
+41. Fan F, Mundra PA, Fang L, et al. Lipidomic profiling in inflammatory bowel disease: comparison between ulcerative colitis and Crohn’s disease. Inflamm Bowel Dis. 2015;21:1511–8.
+42. Titz B, Gadaleta RM, Lo Sasso G, et al. Proteomics and lipidomics in inflammatory bowel disease research: from mechanistic insights to biomarker identification. Int J Mol Sci. 2018;19:2775.
+43. Scoville EA, Allaman MM, Brown CT, et al. Alterations in lipid, amino acid, and energy metabolism distinguish Crohn’s disease from ulcerative colitis and control subjects by serum metabolomic profiling. Metabolomics. 2018;14:17.
+44. Murgia A, Hinz C, Liggi S, et al. Italian cohort of patients affected by inflammatory bowel disease is characterised by variation in glycerophospholipid, free fatty acids and amino acid levels. Metabolomics. 2018;14:140.
+45. Contijoch EJ, Britton GJ, Yang C, et al. Gut microbiota density influences host physiology and is shaped by host and microbial factors. Elife. 2019;8:e40553.
+46. Kumar M, Singh P, Murugesan S, et al. Microbiome as an immunological modifier. Methods Mol Biol. 2020;2055:595–638.
+47. Ni J, Wu GD, Albenberg L, et al. Gut microbiota and IBD: causation or correlation? Nat Rev Gastroenterol Hepatol. 2017;14:573–84.
+48. Waldschmitt N, Metwaly A, Fischer S, et al. Microbial signatures as a predictive tool in IBD-pearls and pitfalls. Inflamm Bowel Dis. 2018;24:1123–32.
+49. Bercovici S, Meek C, Wexler Y, et al. Estimating genome-wide IBD sharing from SNP data via an efficient hidden Markov model of LD with application to gene mapping. Bioinformatics. 2010;26:i175–82.
+50. Fang K, Grisham MB, Kevil CG. Application of comparative transcriptional genomics to identify molecular targets for pediatric IBD. Front Immunol. 2015;6:165.
+
+# Publisher’s Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.

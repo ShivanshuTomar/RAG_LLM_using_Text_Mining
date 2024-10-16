@@ -1,0 +1,44 @@
+# Abbas-Egbariya et al. Genome Biology (2022) 23:61
+
+# Table 1 Description of case control comparison included in our analyses
+
+|Disease|Study|Cases|Controls|Country|Reads (mean)|Reads (median)|
+|---|---|---|---|---|---|---|
+|Anorexia (n = 1)|Mack, Cuntz [6]|55|54|Germany|46637|47815|
+|Autism (n = 2)|American Gut Project|135|179|USA|16676|14735|
+| |Zurita, Cardenas [7]|27|31|Ecuador|9805|9792|
+|Autoimmune diseases (n = 1)|American Gut Project|298|522|USA|15891|14541|
+|Alzheimer (n = 1)|Vogt, Kerby [8]|25|25|USA|97726|96469|
+|Bipolar (n = 2)|American Gut Project|6|11|USA|15095|14835|
+| |Evans, Bassis [9]|115|64|USA|19952|20540|
+|Cancer (n = 2)|UK Twins Project|22|23|UK|74459|60149|
+| |American Gut Project|220|405|USA|15024|13786|
+|C. difficile infection (n = 1)|American Gut Project|32|61|USA|15718|14641|
+|Chronic fatigue syndrome (n = 1)|Giloteaux, Goodrich [10]|49|39|USA|74627|71306|
+|Depression (n = 2)|American Gut Project|272|388|USA|15552|14197|
+| |UK Twins Project|75|40|UK|75927|67004|
+|Diabetes T1 (n = 1)|Cinek, Kramna [11]|71|103|Multi|15300|13815|
+|Diabetes T2 (n = 4)|American Gut Project|36|64|USA|15224|13805|
+| |Kaplan, Wang [12]|349|275|Multi|15804|14155|
+| |UK twins project|20|21|UK|64289|57280|
+| |Li, Chang [13]|19|39|China|45028|46362|
+|Gastroenteritis (n = 2)|Braun, Di Segni [14]|203|31|Israel|21453|16920|
+| |Castano-Rodriguez, Underwood [15]|75|423|Australia|33723|29980|
+|Gout (n = 1)|UK Twins Project|17|16|UK|64756|54688|
+|Heart diseases (n = 2)|American Gut Project|106|168|USA|16411|13559|
+| |UK Twins Project|32|31|UK|74859|65651|
+|Hepatitis B (n = 1)|Liu, Li [16]|35|33|China|56086|55684|
+|HIV (n = 4)|Cook, Fulcher [17]|41|79|USA|34830|34421|
+| |Dillon, Lee [18]|18|14|USA|71275|74700|
+| |Lozupone, Li [19]|22|12|USA|10506|9562|
+| |Vujkovic-Cvijin, Sortino [20]|82|84|Netherlands|46028|44876|
+|Hypertension (n = 1)|UK Twins Project|124|74|UK|69815|61608|
+|IBD (n = 2)|American Gut Project|107|194|USA|14866|13099|
+| |UK Twins Project|13|17|UK|64397|59889|
+|IBD-Crohn’s Disease (n = 7)|American Gut Project|31|58|USA|16298|14187|
+| |Braun, Di Segni [1]|37|29|Israel|22712|19035|
+| |Contijoch, Britton [21]|144|35|multi|61224|59415|
+| |aGevers, Kugathasan [2]|479|116|USA|21719|16229|
+| |Ijaz, Quince [22]|23|70|UK|26140|15395|
+| |Shaw, Bertha [23]|15|10|USA|34801|32161|
+| |Zhou, Xu [24]|183|68|China|4219|4075|

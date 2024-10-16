@@ -1,0 +1,21 @@
+# Abbas-Egbariya et al. Genome Biology
+
+# (2022) 23:61
+
+# Page 9 of 23
+
+# Lower in CDIUC
+
+# Higher in CDIUC
+
+Tmiutoi Doron
+
+nmkuc
+
+|canis lupus familiaris|homogsapiens;008|child|adult|Salivary ASVs|Salivety|
+|---|---|---|---|---|---|
+|Fymucute-Ilcknuidium|Ia0-Saecllc|Dksezse non|IBD specific|31 ASVs|AGP In=581|
+
+Fig. 4 Salivary bacteria are enriched in samples from Ulcerative colitis and Crohn’s disease. A Heat map showing 15 CD/UC “specific” ASVs with significantly higher (or lower) effect size in fecal samples of CD and UC cases compared to controls in comparison to other disease cohorts [rank‑mean test on the NRMD effect sizes in 10 fecal CD and UC studies compared to other disease (n = 45)]. Columns are disease cohorts, and rows represent the CD/UC specific ASVs with colors representing the NRMD; red indicates higher abundance and blue indicates lower abundance in cases vs. controls, and white indicates ASVs not present in the study. B A word cloud was generated using dbBact (http:// dbbact. org/) [41] using the increased UC/CD‑specific bacteria, indicating that UC/CD‑specific increased bacteria has been previously found in fecal and saliva human samples. C Venn diagram showing overlap between the 31 increased non‑specific ASVs and 13 IBD‑specific ASVs (red and green circles respectively) salivary obtained samples including those ASVs that are present 25% and above of the samples (blue) identified from other cohorts [AGP (left) and PRJNA38386 [42] (right) see methods section for additional details], emphasizing significant larger overlap between the IBD‑specific ASVs and salivary ASVs (chi‑square p < 0.05) in contrast to the disease non‑specific increased ASVs.
+
+signal, which may lead to incorrect disease identification and the inability to differentiate between diseases. To test this, we used a supervised learning Random Forests (RF) classifier. For each disease cohort, we separately trained RF to differentiate cases/controls for this disease cohort and then tested its ability to differentiate cases/controls on a different disease cohort. AUC performances are shown in Fig. 5A, where each row represents a disease cohort on which a classifier was trained, and columns represent the disease cohort on which the classifier was tested (when the training and test cohorts were the same, samples were split 2:1 for training/validation). As an estimate for the inherent noise present in the classifier performance, we also tested the performance of the same procedure where the case/control labels of each testing disease cohort were randomly shuffled (Fig. 5B and Additional file 1: Fig. S4). Predicting case/control state in UC and CD by using models built upon other UC and CD cohorts worked relatively well and mostly above what is expected by random. However, models built on other diseases also predicted CD and UC relatively well, and vice-versa, models built on CD and UC were able to predict other diseases. Those results indicate that disease classifiers perform.

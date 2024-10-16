@@ -1,0 +1,41 @@
+# www.nature.com/scientificreports/
+
+# Table 4.
+
+Top 10 pathway nodes with the highest betweenness centrality in the non-IBD (NI) projected network with prevalent pathways.
+
+|Node|Pathway|Betweenness centrality|
+|---|---|---|
+|362|PWY-3001|UNCLASSIFIED|0.00645|
+|413|PWY-5097|UNCLASSIFIED|0.00534|
+|610|PWY-6122|FAECALIBACTERIUM_PRAUSNITZII|0.00514|
+|724|PWY-6277|FAECALIBACTERIUM_PRAUSNITZII|0.00514|
+|544|PWY-5695|UNCLASSIFIED|0.00430|
+|351|PWY-2942|FAECALIBACTERIUM_PRAUSNITZII|0.00421|
+|105|COA-PWY|UNCLASSIFIED|0.00391|
+|1284|THRESYN-PWY|UNCLASSIFIED|0.00313|
+|499|PWY-5667|UNCLASSIFIED|0.00242|
+|1188|PWY0-1319|UNCLASSIFIED|0.00242|
+
+In the CD case, there were 153 nodes and 1615 edges, the community detection algorithm identified 6 different modules, one for each bacterial species identified in the previous cases. All the communities were isolated without nodes connecting them. Differently from the NI case, node COA-PWY|UNCLASSIFIED does not result in connection to the rest of the unclassified module. Similarly to the NI case, node PWY-5100|UNCLASSIFIED was not isolated, whereas node PANTO-PWY|UNCLASSIFIED was well connected to the rest of the unclassified module. When F. prausnitzii was considered, we obtained that node PWY0-1586|FAECALIBACTERIUM_PRAUSNITZII was connected to nodes PWY-6317|FAECALIBACTERIUM_PRAUSNITZII and PWY66-422|FAECALIBACTERIUM_PRAUSNITZII, that both were well connected to the F. prausnitzii pathways. Also, node PWY-6305|FAECALIBACTERIUM_PRAUSNITZII differently from the NI projected network is connected to two nodes of the bacterium module, namely PWY-6122|FAECALIBACTERIUM_PRAUSNITZII and PWY-6277|FAECALIBACTERIUM_PRAUSNITZII, which were both pathways involving 5-aminoimidazole ribonucleotide. On the other hand, node PWY-5659|FAECALIBACTERIUM_PRAUSNITZII was connected to node PWY-5695|FAECALIBACTERIUM_PRAUSNITZII and nodes, PWY-6317|FAECALIBACTERIUM_PRAUSNITZII and PWY66-422|FAECALIBACTERIUM_PRAUSNITZII, where the former was involved in the biosynthesis of urate and the latter were involved in the degradation of galactose. Similarly to the NI case, in Table 5, the pathways with the highest centrality belonged to unclassified and F. prausnitzii.
+
+# Table 5.
+
+Top 10 pathway nodes with the highest betweenness centrality in the Crohn’s disease (CD) projected network with prevalent pathways.
+
+|Node|Pathway|Betweenness centrality|
+|---|---|---|
+|1285|TRNA-CHARGING-PWY|UNCLASSIFIED|0.0108|
+|1225|PWY66-422|UNCLASSIFIED|0.0077|
+|42|ARO-PWY|UNCLASSIFIED|0.0066|
+|672|PWY-6151|UNCLASSIFIED|0.0056|
+|525|PWY-5686|UNCLASSIFIED|0.0052|
+|748|PWY-6317|FAECALIBACTERIUM_PRAUSNITZII|0.0045|
+|1222|PWY66-422|FAECALIBACTERIUM_PRAUSNITZII|0.0045|
+|865|PWY-6700|UNCLASSIFIED|0.0045|
+|298|PEPTIDOGLYCANSYN-PWY|FAECALIBACTERIUM_PRAUSNITZII|0.0031|
+|610|PWY-6122|FAECALIBACTERIUM_PRAUSNITZII|0.0031|
+
+Scientific Reports | (2023) 13:19428 | https://doi.org/10.1038/s41598-023-46184-y
+
+Vol.:(0123456789)

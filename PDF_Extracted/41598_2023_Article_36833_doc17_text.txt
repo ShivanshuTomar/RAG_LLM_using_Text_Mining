@@ -1,0 +1,40 @@
+# Identification of gut microbes associated with RA
+
+# Figure 7
+
+(A) Volcano map demonstrating the differential abundance of intestinal microbes based on the criteria of |log2 FC| values of > 3 and P < 0.05.
+
+(B) LASSO coefficients of four intestinal microbes in the PRJEB6997 dataset.
+
+(C) LASSO coefficients of four microbes selected as optimal (lambda) in the PRJEB6997 dataset.
+
+(D,E) The PRJEB6997 dataset was screened using the SVM-RFE algorithm to identify three diagnostic indicators.
+
+(F) Venn diagram demonstrating the three ideal diagnostic biomarkers in the PRJEB6997 dataset.
+
+(G) ROC curve for the verification of diagnostic efficiency in the PRJEB6997 dataset.
+
+(H) Relative abundance of three bacterial groups (Prevotella, Ruminococcus, and Ruminococcus bromii) in the PRJEB6997 dataset (*P < 0.05).
+
+|−log10(P−Value)|Log Lambda|Log (λ)|
+|---|---|---|
+|4|−8|−10|
+|3|−7|−8|
+|2|−6|−6|
+|1|−5|−4|
+|0|−4|−2|
+
+|Markers of Gut Microbiota|Group|AUC|
+|---|---|---|
+|Prevotella|normal|66.571|
+|Ruminococcus|RA|61.146|
+|Ruminococcus bromii|*|58.31|
+
+|Specificity (%)|Relative Abundance|
+|---|---|
+|100|Prevotella|
+|80|Ruminococcus|
+|60|Ruminococcus bromii|
+|40| |
+|20| |
+|0| |

@@ -1,0 +1,82 @@
+# Cronin et al. BMC Gastroenterology (2019) 19:29
+
+IBD and that this is not only safe, but also represents an inexpensive strategy for the prevention and treatment of IBD-related sarcopenia and obesity-related metabolic disorders. Policy- and guideline-makers should consider the addition of regular aerobic and resistance training to current treatment algorithms for patients with IBD. Patients should be reassured that physical activity does not aggravate IBD activity, particularly in exercise that is gradual and controlled.
+
+Moreover, this study addresses some of the unknowns relating to exercise in patients with IBD that have been highlighted previously by others [7, 11]. However, caution is required before advising patients with active disease; this requires more study and was not addressed in the current investigation.
+
+# Authors’ contributions
+
+OC, CM, DS, PC, FS and MGM conceived the study idea and design. OC formulated the exercise intervention. OC, CM, DS, and HN conducted study recruitment. OC, CBM, HN, CM and DS conducted enrolment, interventions, and clinical measurement. WB conducted DNA extraction from faeces, and subsequent sequencing analysis was performed by WB, RW and OOS. OC and YM performed the inflammatory cytokine measurement. OC, WB, and FS wrote the manuscript with review, editing and final approval from all authors.
+
+# Ethics approval and consent to participate
+
+Before commencement, the study was approved by the Clinical Research Ethics Committee of the Cork Teaching Hospitals. All patients provided written informed consent before enrolment.
+
+# Consent for publication
+
+Not applicable.
+
+# Competing interests
+
+The authors declare that they have no competing interests.
+
+# Additional files
+
+- Additional file 1: Table S1. Pre- and post-intervention values for resting inflammatory biomarkers in the exercise and control groups. (DOCX 16 kb)
+- Additional file 2: Figure S1. β-diversity of taxonomic profiles. A & B: Non-metric multidimensional scaling (NMDS) of relative abundance profiles for Bacteria species. C & D: Principal-coordinate analysis (PCoA) of Archaea relative abundance. (DOCX 626 kb)
+- Additional file 3: Figure S2. α-diversity of metabolic pathways. A to D: Shannon α-diversity H-index of general and species specific metabolic pathways at week 0 (pre) and week 8 (post). (DOCX 193 kb)
+- Additional file 4: Figure S3. β-diversity of metabolic pathways. (DOCX 581 kb)
+
+# Abbreviations
+
+1RM: One repetition maximum; BMI: Body Mass Index; DEXA: Dual Energy X-ray Absorptiometry; IBD: Inflammatory Bowel Disease; IQR: Interquartile Range; VO2max: Maximal capacity for oxygen consumption during aerobic exercise.
+
+# Acknowledgements
+
+The authors would like to acknowledge the work of Mr. Andrew Burns and the staff of the Mardyke Arena for their assistance in conducting this study, in addition to the study participants for their time and efforts. Likewise we would like to acknowledge the assistance of Mr. Trevor Woods for his expertise and advice relating to exercise physiology.
+
+# Funding
+
+This work was primarily funded financially by the Irish Centre for Arthritis Research and Education (ICARE). The research of FS and other authors is supported Science Foundation Ireland in the form of a center grant (APC Microbiome Ireland Grant Number SFI/12/RC/2273). Research in the Cotter laboratory is funded by Science Foundation Ireland through the PI award, “Obesibiotics” (11/PI/1137). OOS and WB are funded by Science Foundation Ireland through a Starting Investigator Research Grant award (13/SIRG/2160). Funding bodies had no role in the study design, collection, analysis, interpretation of the results or writing of this manuscript.
+
+# Availability of data and materials
+
+Anonymized clinical data may be available upon reasonable request from the corresponding author. The microbial DNA sequences have been deposited in the European Nucleotide Database (ENA) database under ID code PRJEB27623.
+
+# Publisher’s Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+# Author details
+
+1Department of Medicine, National University of Ireland, University College Cork, Cork University Hospital, Wilton, T12 DC4A, Cork, Ireland.
+
+2 APC Microbiome Ireland, National University of Ireland, Cork T12 YT20, Ireland.
+
+3Teagasc Food Research Centre, Moorepark, Fermoy, P61 C996 Cork, Ireland.
+
+# Received
+
+7 September 2018
+
+# Accepted
+
+7 February 2019
+
+# Published online
+
+[2 February 2019]
+
+# References
+
+1. Singh S, Dulai PS, Zarrinpar A, Ramamoorthy S, Sandborn WJ. Obesity in IBD: epidemiology, pathogenesis, disease course and treatment outcomes. Nat Rev Gastroenterol Hepatol. 2017;14(2):110–21.
+2. Principi M, Iannone A, Losurdo G, Mangia M, Shahini E, Albano F, et al. Nonalcoholic fatty liver Disease in inflammatory bowel Disease: prevalence and risk factors. Inflamm Bowel Dis. 2018;24(7):1589–96.
+3. Petersen AM, Pedersen BK. The anti-inflammatory effect of exercise. J Appl Physiol (1985). 2005;98(4):1154–62.
+4. Szalai Z, Szasz A, Nagy I, Puskas LG, Kupai K, Kiraly A, et al. Anti-inflammatory effect of recreational exercise in TNBS-induced colitis in rats: role of NOS/HO/MPO system. Oxidative Med Cell Longev. 2014;2014:925981.
+5. Schwingshackl L, Missbach B, Dias S, Konig J, Hoffmann G. Impact of different training modalities on glycaemic control and blood lipids in patients with type 2 diabetes: a systematic review and network meta-analysis. Diabetologia. 2014;57(9):1789–97.
+6. Hallsworth K, Thoma C, Hollingsworth KG, Cassidy S, Anstee QM, Day CP, et al. Modified high-intensity interval training reduces liver fat and improves cardiac function in non-alcoholic fatty liver disease: a randomized controlled trial. Clin Sci (Lond). 2015;129(12):1097–105.
+7. Shephard RJ. The case for increased physical activity in chronic inflammatory bowel Disease: a brief review. Int J Sports Med. 2016;37(7):505–15.
+8. Schneider SM, Al-Jaouni R, Filippi J, Wiroth JB, Zeanandin G, Arab K, et al. Sarcopenia is prevalent in patients with Crohn's disease in clinical remission. Inflamm Bowel Dis. 2008;14(11):1562–8.
+9. Adams DW, Gurwara S, Silver HJ, Horst SN, Beaulieu DB, Schwartz DA, et al. Sarcopenia is common in overweight patients with inflammatory bowel Disease and may predict need for surgery. Inflamm Bowel Dis. 2017;23(7):1182–6.
+10. Ryan E, McNicholas D, Creavin B, Kelly ME, Walsh T, Beddy D. Sarcopenia and inflammatory bowel Disease: a systematic review. Inflamm Bowel Dis. 2018.
+11. Elia J, Kane S. Adult Inflammatory Bowel Disease, Physical Rehabilitation, and Structured Exercise. Inflamm Bowel Dis [Internet]. 2018 May 29. Available from: https://doi.org/10.1093/ibd/izy199.

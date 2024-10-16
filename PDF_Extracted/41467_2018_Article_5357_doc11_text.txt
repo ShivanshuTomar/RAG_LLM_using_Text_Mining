@@ -1,0 +1,40 @@
+# Microbial function and pathway analysis
+
+All quantified microbial protein sequences were annotated with the COG database (version 2014) as previously described15. KEGG ortholog (KO) annotation of protein sequences was conducted with the GhostKOALA web application66. Taxonomy assignment of the proteins were performed using MEGAN67. The taxonomy of a protein group was assigned with the lowest common ancestor (LCA) of all proteins within that protein group.
+
+# Protein–protein interaction and pathway enrichment analysis
+
+Protein–protein interaction (PPI) and pathway enrichment analysis were performed with STRING (version 10.5)32. The protein interaction networks were exported from STRING and visualized using Cytoscape software (version 3.4.0).
+
+# Free EV isolation, protein extraction and proteomics analysis
+
+Debris and microbial cells in the MLI aspirate samples were depleted as described above. The resulting debris- and bacteria-depleted supernatant was filtered through a 0.45 μm syringe driven filter and the resulting supernatant was stored at −80 °C. EV isolation was performed according to the protocol used by Mitsuhashi et al. with modifications62, although it should be noted that contaminating soluble proteins may be co-isolated with the EVs. Briefly, the supernatant was subjected to ultracentrifugation at 100,000 g for 70 min at 4 °C. The EV pellet was washed with PBS buffer and subjected to another round of ultracentrifugation at 100,000 g for 70 min. A portion of the resuspended pellet was lysed in 4% (w/v) SDS, 50 mM Tris-HCl (pH 7.8). A total of 25 μg of proteins was digested by filter-aided sample preparation (FASP) procedure63. The resulting tryptic peptides were desalted, analyzed, and data processed as described above.
+
+# Characterization of isolated free EVs
+
+Size distribution of the isolated EVs was examined with NTA using the ZetaView nanoparticle tracking analyzer (Particle Metrix GmbH, Germany) using a shutter value of 40 and sensitivity of 85. Prior to each session, the size of standard silica beads was measured. The EV preparations were diluted 1:25,000–1:250,000 in PBS to yield a concentration consistent with the accuracy range of the instrument. Measurement data obtained from the ZetaView output was analyzed in Excel and plotted in Prism 7.0; EV sizes were binned by 30 nm.
+
+The morphology of EVs was characterized with TEM. Briefly, the differential centrifugation pellets (14,000 g and 100,000 g) were firstly fixed in 2.5% glutaraldehyde in a 0.1 M sodium cacodylate buffer. For negative staining, the pellets were suspended and a drop of suspension was added on to a formvar grid. When the suspension had partly dried, the grid was washed by adding a drop of distilled water and touching it three times to the surface of water droplet. Excess water was removed by touching the grid to a filter paper. After drying, a drop of 2% uranyl acetate stain was added to the grid and incubated for 10 s before removing the excess stain and drying at room temperature for imaging. For sectioning, the glutaraldehyde fixative was removed from the pellet and replaced with 2% OsO4 in 0.1 M sodium cacodylate buffer. The OsO4 fixative was replaced with 0.1 M sodium cacodylate before dehydrating in an increasing series of alcohol. The most concentrated alcohol was replaced with acetone. The material was penetrated by a growing series of Araldite diluted in acetone, and finally embedded in Araldite (Huntsman Advanced Materials LLC, United States). Ultrathin sections (80 nm) were prepared using an Ultracut Leica UC6 ultramicrotome (Leica Microsystems, Germany) and placed onto a copper grids coated with formvar film. Sections were stained with uranyl acetate and lead citrate solutions and examined with a transmission electron microscope (JEOL JEM 1230, Japan).
+
+# Microbial taxonomic analysis
+
+All identified peptide sequences were subjected for taxonomic analysis using lowest common ancestor (LCA) algorithm implemented in MetaLab59. The calculation of LCA was performed according to the principles implemented in Unipept with modifications64. In the current study, NCBI taxonomic nodes containing words “uncultured”, “unspecified”, and “undetermined” were excluded, however species nodes with numbers in their name were kept for the LCA calculation. Two missed cleavages of peptides were allowed, which is equivalent to “Advanced missed cleavage handling” options in Unipet web application65. To ensure confident taxonomic identification, taxa with ≥ 3 distinctive peptides were used further analysis. The sum intensity of all distinctive peptides for a taxon was used for calculating relative abundance of the taxon within a specific rank level. Strain-resolved analysis of Faecalibacterium prausnitzii was performed as previously described13. Briefly, strain-distinctive peptides of Faecalibacterium prausnitzii were identified by comparing F. prausnitzii species distinctive peptides with all the in silico tryptic peptides (with maximum of 2 missed cleavages) of F. prausnitzii strain databases available in UniprotKB proteome database (downloaded on October 25, 2016). A total of five strain proteomes of F. prausnitzii were obtained, including UP000006028 for strain KLE1255, UP000004619 for strain A2–165, UP000007059 for strain SL3/3, UP000008804 for strain L2–6, and UP000005945 for strain M21/2. Intra-species abundance of each strain was then calculated as the percentage of distinctive peptide intensity out of the total intensity of all strain-distinctive peptides.
+
+# References
+
+1. Khor, B., Gardet, A. & Xavier, R. J. Genetics and pathogenesis of inflammatory bowel disease. Nature 474, 307–317 (2011).
+2. Ng, S. C. et al. Worldwide incidence and prevalence of inflammatory bowel disease in the 21st century: a systematic review of population-based studies. Lancet 390, 2769–2778 (2017).
+3. Benchimol, E. I. et al. Epidemiology of pediatric inflammatory bowel disease: a systematic review of international trends. Inflamm. Bowel Dis. 17, 423–439 (2011).
+4. Ruel, J., Ruane, D., Mehandru, S., Gower-Rousseau, C. & Colombel, J. F. IBD across the age spectrum: is it the same disease? Nat. Rev. Gastroenterol. Hepatol. 11, 88–98 (2014).
+5. Kappelman, M. D. et al. Direct health care costs of Crohn’s disease and ulcerative colitis in US children and adults. Gastroenterology 135, 1907–1913 (2008).
+6. Gevers, D. et al. The treatment-naive microbiome in new-onset Crohn’s disease. Cell Host Microbe 15, 382–392 (2014).
+7. Sokol, H. et al. Fungal microbiota dysbiosis in IBD. Gut 66, 1039–1048 (2017).
+8. Norman, J. M. et al. Disease-specific alterations in the enteric virome in inflammatory bowel disease. Cell 160, 447–460 (2015).
+9. Mottawea, W. et al. Altered intestinal microbiota-host mitochondria crosstalk in new onset Crohn’s disease. Nat. Commun. 7, 13419 (2016).
+10. Li, X. et al. Microgeographic proteomic networks of the human colonic mucosa and their association with inflammatory bowel disease. Cell. Mol. Gastroenterol. Hepatol. 2, 567–583 (2016).
+11. Fraher, M. H., O’Toole, P. W. & Quigley, E. M. Techniques used to characterize the gut microbiota: a guide for the clinician. Nat. Rev. Gastroenterol. Hepatol. 9, 312–322 (2012).
+12. Verberkmoes, N. C. et al. Shotgun metaproteomics of the human distal gut microbiota. ISME J. 3, 179–189 (2009).
+13. Zhang, X. et al. Deep metaproteomics approach for the study of human microbiomes. Anal. Chem. 89, 9407–9415 (2017).
+14. Erickson, A. R. et al. Integrated metagenomics/metaproteomics reveals human host-microbiota signatures of Crohn’s disease. PLoS ONE 7, e49138 (2012).
+15. Zhang, X. et al. MetaPro-IQ: a universal metaproteomic approach to studying human and mouse gut microbiota. Microbiome 4, 31 (2016).
+16. Sauer, C. G. & Kugathasan, S. Pediatric inflammatory bowel disease: highlighting pediatric differences in IBD. Gastroenterol. Clin. North Am. 38, 611–628 (2009).

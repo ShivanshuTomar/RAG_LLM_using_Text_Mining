@@ -1,0 +1,72 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# NCT04373473
+
+# Study name
+
+Evaluation of the safety and efficacy of lyophilized fecal microbiota transplantation administered orally for prevention of relapse or intestinal inflammation in adults with ulcerative colitis
+
+# Methods
+
+RCT conducted in the US
+
+# Participants
+
+# Inclusion criteria
+
+- Age ≥ 18 years with history of active UC in the past 12 months based on standard clinical, endoscopic, or histologic criteria
+- Clinical remission of UC (Partial Mayo score ≤ 2 with each subscore ≤ 1), on stable maintenance therapy
+- Having an attending physician for non-FMT care
+
+# Exclusion criteria
+
+- Inability to take multiple capsules orally
+- Pregnancy or lactation
+- Exposure to systemic non-topical antibiotics within 14 days of first treatment
+- HIV, hepatitis B, or hepatitis C infections
+- rCDI or FMT in past 6 months
+- Non-IBD active gastrointestinal conditions (e.g. IBS, microscopic colitis, celiac disease, short gut syndrome, colostomy, colectomy, fistulae, strictures, chronic parasitic infections, diverticulitis) or history of bile acid diarrhea
+- Immunocompromise (e.g. in setting of primary disorders or due to medication such as oral prednisone > 20 mg/day or prednisone-equivalent)
+- Active cancer or ongoing chemotherapy (except for superficial non-metastatic cancers and maintenance chemotherapy) (or both)
+- Use of an investigational drug within 90 days of screening visit
+- History of significant uncontrolled systemic disease that could interfere with study participation/objectives
+- Life expectancy < 1 year
+
+# Interventions
+
+# Experimental arm
+
+- Oral fecal capsules from 3 healthy donors for 12 weeks
+
+# Control arm
+
+- Identical-looking oral capsules for 12 weeks
+
+# Outcomes
+
+# Primary outcome
+
+- Remission (Partial Mayo score ≤ 3) after 12 weeks of treatment at 9 months
+
+# Secondary outcomes
+
+- Quality of life (health-related quality-of-life score) after 12 weeks of treatment at 9 months
+- Participant-reported Hospital Anxiety and Depression Scale score after 12 weeks of treatment at 9 months
+
+# Starting date
+
+# Contact information
+
+# Notes
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

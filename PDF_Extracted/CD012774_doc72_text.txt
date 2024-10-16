@@ -1,0 +1,72 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# EUCTR 2019-003816-29 (Continued)
+
+- Clinical remission (defined by CDAI &lt; 150) at week 52; endoscopic remission (defined by SES-CD = 2)
+- Measures of inflammation: blood cell count, CRP level, fecal calprotectin at week 6 (V3), 12 (V4), 24 (V5), 36 (V6), 48 (V7), and 52 (V8)
+- Microbiota composition and diversity using 16s sequencing technology at week 6 (V3), 12 (V4), 24 (V5), 36 (V6), 48 (V7) and 52 (V8)
+
+|Starting date|16 December 2019|
+|---|---|
+|Contact information|DRCI Hôpital Saint Louis 1 avenue Claude Vellefaux, 75010 Paris, France Telephone: 0140 27 57 27; email: carla.vandenabele@aphp.fr|
+|Notes|Phase 3 trial|
+
+# NCT01961492
+
+# Study name
+
+# Methods
+
+RCT conducted in Finland
+
+# Participants
+
+# Inclusion criteria
+
+- Ages 1–75 years
+- Active UC (PUCAI 10–64)
+- Ability to receive FMT via colonoscopy
+
+# Exclusion criteria
+
+- Severe UC (PUCAI &gt; 65)
+
+# Interventions
+
+# Experimental arm
+
+- Single FMT via colonoscopy as adjunct therapy to standard medical treatment
+
+# Control arm
+
+- Standard medical treatment as recommended by ECCO guidelines for UC
+
+# Outcomes
+
+# Primary outcome
+
+- UC activity as change from baseline in PUCAI at months 1, 3, 6, and 12
+
+# Secondary outcomes
+
+- Colonic inflammation as change from baseline in fecal calprotectin levels at months 1, 3, 6, and 12
+- Colonic inflammation as Endoscopic Mayo score at months 3 and 12
+- Adverse events within 1 year
+
+# Starting date
+
+# Contact information
+
+# Notes
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

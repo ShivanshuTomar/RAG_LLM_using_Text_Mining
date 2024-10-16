@@ -1,0 +1,23 @@
+# References
+
+1. Ridlon JM, Kang DJ and Hylemon PB. Bile salt biotransformations by human intestinal bacteria. J Lipid Res 2006; 47: 241–259.
+2. Jansson J, Willing B, Lucio M, et al. Metabolomics reveals metabolic biomarkers of Crohn’s disease. PLoS One 2009; 4: e6386.
+3. Sharma U, Singh RR, Ahuja V, et al. Similarity in the metabolic profile in macroscopically involved and un-involved colonic mucosa in patients with inflammatory bowel disease: an in vitro proton (1H) MR spectroscopy study. Magn Reson Imaging 2010; 28: 1022–1029.
+4. Theriot CM, Koenigsknecht MJ, Carlson PE, et al. Antibiotic-induced shifts in the mouse gut microbiome and metabolome increase susceptibility to Clostridium difficile infection. Nat Commun 2014; 5: 3114.
+5. Chong J, Xia J, Chong J, et al. Computational approaches for integrative analysis of the metabolome and microbiome. Metabolites 2017; 7: 62.
+6. Mao SY, Huo WJ and Zhu WY. Microbiome-metabolome analysis reveals unhealthy alterations in the composition and metabolism of ruminal microbiota with increasing dietary grain in a goat model. Environ Microbiol 2016; 18: 525–541.
+7. Trygg J and Wold S. O2-PLS, a two-block (X-Y) latent variable regression (LVR) method with an integral OSC filter. J Chemom 2003; 17: 53–64.
+8. Bylesjö M, Eriksson D, Kusano M, et al. Data integration in plant biology: the O2PLS method for combined modeling of transcript and metabolite data. Plant J 2007; 52: 1181–1191.
+9. Bouhaddani el S, Houwing-Duistermaat J, Salo P, et al. Evaluation of O2PLS in omics data integration. BMC Bioinformatics 2016; 17: S11.
+10. El Aidy S, Van den Abbeele P, Van de Wiele T, et al. Intestinal colonization: how key microbial players become established in this dynamic process. BioEssays 2013; 35.
+11. Morgan XC, Kabakchiev B, Waldron L, et al. Associations between host gene expression, the mucosal microbiome, and clinical outcome in the pelvic pouch of patients with inflammatory bowel disease. Genome Biol 2015; 16: 67.
+12. Hotelling H. Relations between two sets of variates. Biometrika 1936; 28: 321.
+13. Lin D, Zhang J, Li J, et al. Group sparse canonical correlation analysis for genomic data integration. BMC Bioinformatics 2013; 14: 245.
+14. Yamanishi Y, Vert JP and Kanehisa M. Protein network inference from multiple genomic data: a supervised approach. Bioinformatics 2004; 20(Suppl. 1): i363–i370.
+15. Acharjee A, Ament Z, West JA, et al. Integration of metabolomics, lipidomics and clinical data using a machine learning method. BMC Bioinformatics 2016; 17(Suppl. 15):440.
+16. Tibshiranit R. Regression shrinkage and selection via the lasso. J R Statist Soc B 1996; 58: 267–288.
+17. Zou H and Hastie T. Regularization and variable selection via the elastic net. J R Statist Soc B 2005; 67: 301–320.
+18. Acharjee A, Kloosterman B, Visser RGF, et al. Integration of multi-omics data for prediction of phenotypic traits using random forest. BMC Bioinformatics 2016; 17: 180.
+19. Acharjee A, Kloosterman B, de Vos RCH, et al. Data integration and network reconstruction with ∼omics data using random forest regression in potato. Anal Chim Acta 2011; 705: 56–63.
+
+Visit SAGE journals online journals.sagepub.com/home/tag

@@ -1,0 +1,19 @@
+# Host gene–microbiome interactions: molecular mechanisms in inflammatory bowel disease
+
+# Editorial summary
+
+Recent studies have identified links between host genetic variants and microbial recognition of the microbiome. Defects in host–microbiome interactions in individuals harboring inflammatory bowel disease risk alleles may result in imbalances of the microbial community, impaired pathogen clearance, and failure to sense beneficial commensal microbes. These findings highlight the importance of maintaining bi-directional communication at the mucosal interface during intestinal homeostasis. Moreover, the composition of the microbiota can be influenced by a variety of environmental factors, including diet, on both short and long timescales. Thus, the heterogeneity of the microbial composition and its shifts at taxonomic and functional levels may serve as another variable in clinical manifestations, highlighting the complex interaction between host genetics and the microbiota.
+
+# Gene–environment interactions in inflammatory bowel disease
+
+Inflammatory bowel disease (IBD), encompassing Crohn’s disease (CD) and ulcerative colitis (UC), is an idiopathic, chronic intestinal inflammatory disease involving complex interactions between genetic and environmental factors. There is significant variability in symptoms and clinical manifestations, which may partly reflect the genetic heterogeneity of IBD susceptibility. Indeed, close to 200 IBD susceptibility genes have been identified thus far, though the lack of complete penetrance indicates that additional unknown factors are likely to be involved in pathogenesis. Among the susceptibility genes are those involved in intestinal barrier function, innate immune recognition of microbial ligands, antigen presentation, T-cell immunity, autophagy, and other immune-mediated pathways. The interplay between the gut epithelium and the microbiota has also been implicated as a contributing factor in disease pathogenesis, whereby aberrant interactions may result in inflammatory responses to commensal microbes. It has become understood that the composition of the microbiota is important in directing both the immune responses and the maintenance of intestinal homeostasis.
+
+# The role of host genetics in shaping the microbiota
+
+The relationship between host genetics and the composition of the gut microbiota has been explored extensively. The heritability of the microbiome, and its subsequent contribution to host health, is governed both by extrinsic factors (for example, mode of delivery, breastfeeding, diet) and by host genetics. A recent study examined the fecal microbiota of over 400 twin pairs and revealed that monozygotic twins harbored more similar microbiomes than dizygotic twins, suggesting heritability of specific taxa within the microbiome. In mouse models, knockouts of genes linked to IBD have demonstrated significant shifts in the microbial communities in the gut, termed dysbiosis, supporting the notion that host genetics play a crucial role in shaping the microbiota.
+
+Correspondence: hiuchu@caltech.edu
+
+California Institute of Technology, Pasadena, CA 91125, USA
+
+© The Author(s). 2017 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.

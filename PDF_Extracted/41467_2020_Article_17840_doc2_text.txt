@@ -1,0 +1,43 @@
+# NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467-020-17840-y
+
+# ARTICLE
+
+| |300OB|IBD| |300OB|IBD|
+|---|---|---|---|---|---|
+|LLD|(1107)|(2554)|500FG|LLD|(37,886)|
+| |(2604)| | |(1591)|(40,699)|
+| | |545|2233|(37,279)| |
+| |88|1387| |720| |
+| |121|76|142|35,427| |
+| |1065|171|16|2700|811|
+| |1480|3077|1008|404| |
+| |295| |854| | |
+|Total:|3454| |Total:|43,355| |
+
+Species co-abundance
+
+Pathway co-abundance
+
+Fig. 2 Microbial co-abundance networks in each cohort. a Venn diagram of the numbers of species co-abundances detected in each cohort. In total, we identified 3454 co-abundance relationships significant at FDR < 0.05 in at least one cohort by combing SparCC and SpiecEasi. b Venn diagram of the numbers of species co-abundances detected in each cohort. Similarly, at the microbial metabolic pathway level, 43,355 co-abundance relationships were detected at FDR < 0.05 in at least one cohort by combing SparCC and SpiecEasi.
+
+Species, only 29.6% of pathway co-abundances showed co-occurrence (Supplementary Fig. 3, Supplementary Data 3 and 4). The co-occurrence results are summarized and further discussed in Supplementary Note 1.
+
+# Microbial co-abundance strength varies between cohorts.
+
+We hypothesized that co-abundance strengths could be different depending on host physiological status. We thus assessed to what extent the correlation coefficients were variable across cohorts and characterized variable co-abundance relationships for 38.6% of the species co-abundances and 64.3% of the pathway co-abundances (Cochran-Q test, FDR < 0.05, Supplementary Data 1 and 3).
+
+# Differential microbial co-abundances are reflected in abundance levels.
+
+When zooming in on the 100 species and 304 pathways that were involved in variable co-abundances, 76% of these species and 84% of these pathways also showed significant differences in their abundance levels among cohorts (analysis of variance test FDR < 0.05, Supplementary Data 5 and 6). This implies that the variable co-abundance relationship is largely reflected by differential microbial abundance. We summarized the number of differential co-abundances between species from the same genus or from different genera (Fig. 3a). The genus with the most heterogeneous co-abundances was Streptococcus, and a large number of variable co-abundances were observed not only between different Streptococcus species but also between Streptococcus species and species from other genera such as Eubacterium and Veillonella (Fig. 3a). In particular, Streptococcus species were higher in the IBD cohort, consistent with the results of previous studies14,39. A similar observation was found for the pathway co-abundances, particularly for amino acid biosynthesis pathways, which showed variability not only within themselves but also with respect to various pathways related to nucleoside and nucleotide biosynthesis (Fig. 3b).
+
+# Specific microbial co-abundances are enriched in disease cohorts.
+
+Next, we analysed whether the variable co-abundance relationships were driven by a particular cohort, i.e. whether the co-abundance strength in one cohort was very different from those in the other three cohorts. After correcting for the age and sex differences between cohorts, 120 species co-abundances (Supplementary Fig. 4) and 1448 pathway co-abundances (Supplementary Fig. 5) still showed cohort specificity with an FDR of 7.6%, as estimated by permutation (Supplementary Data 1 and 3). Interestingly, cohort-specific co-abundances were significantly enriched in the disease cohorts compared to the population-based cohorts: 113 (94%) species co-abundances and 1050 (72%) pathway co-abundances were specifically related to the IBD cohort (Fisher’s test P = 1.2 × 10−56 and P < 10−260, respectively, Fig. 3c, d) and 281 (19.4%) pathway co-abundances were specifically related to the 300OB cohort (Fisher’s test P = 2.9 × 10−29), as compared to only 3 species and 117 pathway co-abundance relationships specific to the population-based cohorts LLD and 500FG (Fig. 3c, d). Our results highlight that microbial co-abundances are dependent on host health and disease status. Below we discuss the microbial co-abundance networks in IBD and 300OB in more detail, further replicate our findings in independent cohorts and assess the relevance of disease subtypes, disease characteristics and medication usage.
+
+# The microbial co-abundance network in IBD.
+
+Replication of the IBD network in the integrative Human Microbiome Project (iHMP-IBD) cohort: Of the 2554 species and 37,699 pathway co-abundances established in our IBD cohort, we were able to assess 2090 species co-abundances and 37,106 pathway co-abundances in 77 IBD individuals from the iHMP-IBD39. In the baseline samples of the iHMP-IBD cohort, 531 species co-abundances (25.4%) and 21,882 (59.0%) pathway co-abundance could be replicated at P < 0.05 (Supplementary Data 7 and 8)39. The relatively low replication rate in species co-abundances is largely a power issue, as we also observed that 1705 (81.6%) species co-abundances and 24,165 (65.1%) pathway co-abundances showed no significant difference in their co-abundance strengths between our IBD cohort and the iHMP-IBD cohort (Cochran-Q test, P > 0.05, Supplementary Fig. 6, Supplementary Data 7 and 8). We then compared the IBD networks between the first and last time points of the iHMP-IBD cohort (~1 year apart) and replicated 90.6% of species co-abundances and 99.6% of pathway co-abundances (Cochran-Q test, P > 0.05, Supplementary Fig. 6, Supplementary Data 7 and 8). This suggests that our estimation of co-abundance strengths in IBD was largely replicable in a different cohort and was stable across time.
+
+# Microbial networks of IBD in relation to disease characteristics:
+
+Previous studies have shown that observed microbial abundance differences could be explained by certain disease characteristics of IBD14. We therefore hypothesized that this could also be the case for co-abundance relationships. We assessed whether IBD co-abundances (including IBD co-abundances at FDR < 0.05 and IBD-specific co-abundances) could be related to the disease subtypes [ulcerative colitis (UC, n = 189) vs. Crohn’s disease (CD, n = 276)], disease location [ileum (n = 212) vs. colon (n = 286)] and disease activity.

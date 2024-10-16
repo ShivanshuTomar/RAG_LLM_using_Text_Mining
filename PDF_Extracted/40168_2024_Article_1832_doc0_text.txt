@@ -1,0 +1,33 @@
+# Tian et al. Microbiome (2024) 12:130
+
+# RESEARCH
+
+# Gut virome-wide association analysis identifies cross-population viral signatures for inflammatory bowel disease
+
+Xiangge Tian1,2†, Shenghui Li3†, Chao Wang2†, Yanyan Zhang1,2†, Xiaoying Feng1, Qiulong Yan1,2*, Ruochun Guo3, Fan Wu1, Chunxue Wu1, Yan Wang1, Xiaokui Huo1,2* and Xiaochi Ma1,2*
+
+# Abstract
+
+Background: The gut virome has been implicated in inflammatory bowel disease (IBD), yet a full understanding of the gut virome in IBD patients, especially across diverse geographic populations, is lacking.
+
+Results: In this study, we conducted a comprehensive gut virome-wide association study in a Chinese cohort of 71 IBD patients (15 with Crohn’s disease and 56 with ulcerative colitis) and 77 healthy controls via viral-like particle (VLP) and bulk virome sequencing of their feces. By utilizing an integrated gut virus catalog tailored to the IBD virome, we revealed fundamental alterations in the gut virome in IBD patients. These characterized 139 differentially abundant viral signatures, including elevated phages predicted to infect Escherichia, Klebsiella, Enterococcus_B, Streptococcus, and Veillonella species, as well as IBD-depleted phages targeting Prevotella, Ruminococcus_E, Bifidobacterium, and Blautia species. Remarkably, these viral signatures demonstrated high consistency across diverse populations such as those in Europe and the USA, emphasizing their significance and broad relevance in the disease context. Furthermore, fecal virome transplantation experiments verified that the colonization of these IBD-characterized viruses can modulate experimental colitis in mouse models.
+
+Conclusions: Building upon these insights into the IBD gut virome, we identified potential biomarkers for prognosis and therapy in IBD patients, laying the foundation for further exploration of viromes in related conditions.
+
+Keywords: Gut virome, Inflammatory bowel disease, Viral-like particle virome, Bulk virome, Viral signatures, IBD-characterized viruses
+
+†Xiangge Tian, Shenghui Li, Chao Wang, and Yanyan Zhang contributed equally to this work.
+
+*Correspondence: Qiulong Yan qiulongy1988@163.com, Xiaokui Huo huoxiaokui@163.com, Xiaochi Ma maxc1978@163.com
+
+Second Affiliated Hospital, Dalian Medical University, Dalian 116023, China
+
+Dalian Key Laboratory of Metabolic Target Characterization and Traditional Chinese Medicine Intervention, College of Basic Medical Sciences, Dalian Medical University, Dalian 116044, China
+
+Puensum Genetech Institute, Wuhan 430076, China
+
+# Background
+
+The human gut virome represents a dynamic community of viruses inhabiting the gastrointestinal tract, primarily comprising bacteriophages with limited eukaryotic and archaeal viral presence. Factors influencing gut virome composition and diversity include genetics, diet, antibiotic use, and environmental exposures [1–4]. This complex virome has been implicated in the pathogenesis of several human disorders. Notably, it was first associated with inflammatory bowel disease (IBD) [5], and subsequent research linked the gut virome to conditions such as obesity, diabetes [6], metabolic syndrome [7], colorectal cancer [8], autoimmune diseases [9–11], and liver.
+
+© The Author(s) 2024. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.

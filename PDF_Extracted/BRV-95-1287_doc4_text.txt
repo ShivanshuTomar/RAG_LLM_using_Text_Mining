@@ -1,0 +1,29 @@
+# Exosomes and IBD
+
+# Sources
+
+|Food|Immune cells|Body fluids|Intestinal cells|
+|---|---|---|---|
+|Stem cells|Enzymes|Signal transduction proteins|Microenvironment proteins|
+|Exosomal Adhesion|Transport proteins|Other proteins|Transmembrane proteins|
+|Membrane binding|Chaperones|Arachidonic acid|Antigen-presenting proteins|
+|Leukotrienes|Phospholipids|Diglyceride| |
+|Phosphatidic acid|Sphingolipids|Glycerophospholipids|Prostaglandin|
+
+Fig 2 Sources and composition of exosomes. Regardless of their source, exosomes share a similar structure and composition. The variety of molecules in exosomes are functionally characterized and grouped into exosomal RNAs, proteins and lipids. These cargos and structural components are further separated into functional units within these broad groups. ARF, ADP-ribosylation factor; CD, cluster of differentiation; circRNA, circular RNA; eEF, eukaryotic translation elongation factor; GAPDH, glyceraldehyde-3-phosphate dehydrogenase; HNRNP, heterogeneous nuclear ribonucleoprotein; HSC, heat shock cognate, HSP, heat shock protein; LAMP, limbic system-associated membrane protein; lncRNA, long non-coding RNA; MBV, matrix-bound nanovesicles; MCH, major histocompatibility complex; miRNA, microRNA; mRNA, messenger RNA; MVP, major vault protein; PI3K, phosphoinositide 3-kinase; RAB, Rab protein; TFR, transferrin receptor.
+
+# Body fluids
+
+Exosomes have been isolated and studied from blood (Baranyai et al., 2015), amniotic fluid (Xiao et al., 2016), urine (Street et al., 2017), saliva (Liu et al., 2018b), and breast milk (Hock et al., 2017). In one of these studies, Hock et al. (2017) reported that exosomes extracted from rat breast milk significantly increased intestinal epithelial cell (IEC) viability, proliferation and stem cell activity. By contrast, other studies have associated breast milk-derived exosomes with the promotion of epithelial mesenchymal transition (EMT) (Qin et al., 2016).
+
+Exosomes derived from these cells have been shown to play important roles in IEC-induced immune tolerance, and to function critically in exosome-mediated immune responses in the pathogenesis of IBD (Xu et al., 2016). Exosomes secreted by IECs bear exogenous peptides complexed to major histocompatibility complex class II (MHC-II) and preferentially interact with DCs, resulting in greatly enhanced peptide presentation to T cells. These exosomes have been shown to link local immune cells and luminal antigens powerfully through the mediated transfer of small quantities of luminal antigenic information, and to facilitate immune surveillance at mucosal surfaces (Mallegol et al., 2007).
+
+# IECs
+
+IECs provide a physical and biochemical barrier that separates the commensal microbiome from host tissue to maintain intestinal homeostasis. Secretory IECs assist this function via the secretion of antimicrobial peptides and mucins.
+
+# Tumours
+
+Exosomes present novel targets in cancer medicine with both therapeutic and diagnostic applications. Due to their role in cell-to-cell communication, these vesicles affect both tumour progression and metastasis (Sundararajan et al., 2018).
+
+Biological Reviews 95 (2020) 1287–1307 © 2020 The Authors. Biological Reviews published by John Wiley & Sons Ltd on behalf of Cambridge Philosophical Society.

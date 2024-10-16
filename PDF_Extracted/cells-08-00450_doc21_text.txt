@@ -1,0 +1,22 @@
+# Cells 2019, 8, 450
+
+# References
+
+1. Regard, J.B.; Sato, I.T.; Coughlin, S.R. Anatomical profiling of G protein-coupled receptor expression. Cell 2008, 135, 561–571. [CrossRef]
+2. Littlewood-Evans, A.; Sarret, S.; Apfel, V.; Loesle, P.; Dawson, J.; Zhang, J.; Muller, A.; Tigani, B.; Kneuer, R.; Patel, S.; et al. GPR91 senses extracellular succinate released from inflammatory macrophages and exacerbates rheumatoid arthritis. J. Exp. Med. 2016, 213, 1655–1662. [CrossRef]
+3. Guo, Y.; Zhang, W.; Giroux, C.; Cai, Y.; Ekambaram, P.; Dilly, A.K.; Hsu, A.; Zhou, S.; Maddipati, K.R.; Liu, J.; et al. Identification of the orphan G protein-coupled receptor GPR31 as a receptor for 12-(S)-hydroxyeicosatetraenoic acid. J. Biol. Chem. 2011, 286, 33832–33840. [CrossRef]
+4. Zingoni, A.; Rocchi, M.; Storlazzi, C.T.; Bernardini, G.; Santoni, A.; Napolitano, M. Isolation and chromosomal localization of GPR31, a human gene encoding a putative G protein-coupled receptor. Genomics 1997, 42, 519–523. [CrossRef] [PubMed]
+5. Morita, N.; Umemoto, E.; Fujita, S.; Hayashi, A.; Kikuta, J.; Kimura, I.; Haneda, T.; Imai, T.; Inoue, A.; Mimuro, H.; et al. GPR31-dependent dendrite protrusion of intestinal CX3CR1(+) cells by bacterial metabolites. Nature 2019, 566, 110–114. [CrossRef] [PubMed]
+6. Rong, Y.M.; Huang, X.M.; Fan, D.J.; Lin, X.T.; Zhang, F.; Hu, J.C.; Tan, Y.X.; Chen, X.; Zou, Y.F.; Lan, P. Overexpression of G protein-coupled receptor 31 as a poor prognosticator in human colorectal cancer. World J. Gastroenterol. 2018, 24, 4679–4690. [CrossRef]
+7. Smith, K.; McCoy, K.D.; Macpherson, A.J. Use of axenic animals in studying the adaptation of mammals to their commensal intestinal microbiota. Semin. Immunol. 2007, 19, 59–69. [CrossRef] [PubMed]
+8. Niess, J.H.; Leithauser, F.; Adler, G.; Reimann, J. Commensal gut flora drives the expansion of proinflammatory CD4 T cells in the colonic lamina propria under normal and inflammatory conditions. J. Immunol. 2008, 180, 559–568. [CrossRef] [PubMed]
+9. Steinhart, A.H.; Brzezinski, A.; Baker, J.P. Treatment of refractory ulcerative proctosigmoiditis with butyrate enemas. Am. J. Gastroenterol. 1994, 89, 179–183.
+10. Farooq, S.M.; Hou, Y.; Li, H.; O’Meara, M.; Wang, Y.; Li, C.; Wang, J.M. Disruption of GPR35 Exacerbates Dextran Sulfate Sodium-Induced Colitis in Mice. Dig. Dis. Sci. 2018, 63, 2910–2922. [CrossRef]
+11. Tsukahara, T.; Hamouda, N.; Utsumi, D.; Matsumoto, K.; Amagase, K.; Kato, S. G protein-coupled receptor 35 contributes to mucosal repair in mice via migration of colonic epithelial cells. Pharm. Res. 2017, 123, 27–39. [CrossRef]
+12. Lassen, K.G.; McKenzie, C.I.; Mari, M.; Murano, T.; Begun, J.; Baxt, L.A.; Goel, G.; Villablanca, E.J.; Kuo, S.Y.; Huang, H.; et al. Genetic Coding Variant in GPR65 Alters Lysosomal pH and Links Lysosomal Dysfunction with Colitis Risk. Immunity 2016, 44, 1392–1405. [CrossRef]
+13. Suzuki, M.; Takaishi, S.; Nagasaki, M.; Onozawa, Y.; Iino, I.; Maeda, H.; Komai, T.; Oda, T. Medium-chain fatty acid-sensing receptor, GPR84, is a proinflammatory receptor. J. Biol. Chem. 2013, 288, 10684–10691. [CrossRef]
+14. Tannahill, G.M.; Curtis, A.M.; Adamik, J.; Palsson-McDermott, E.M.; McGettrick, A.F.; Goel, G.; Frezza, C.; Bernard, N.J.; Kelly, B.; Foley, N.H.; et al. Succinate is an inflammatory signal that induces IL-1beta through HIF-1alpha. Nature 2013, 496, 238–242. [CrossRef] [PubMed]
+15. Zaki, M.H.; Boyd, K.L.; Vogel, P.; Kastan, M.B.; Lamkanfi, M.; Kanneganti, T.D. The NLRP3 inflammasome protects against loss of epithelial integrity and mortality during experimental colitis. Immunity 2010, 32, 379–391. [CrossRef] [PubMed]
+16. Elinav, E.; Strowig, T.; Kau, A.L.; Henao-Mejia, J.; Thaiss, C.A.; Booth, C.J.; Peaper, D.R.; Bertin, J.; Eisenbarth, S.C.; Gordon, J.I.; et al. NLRP6 inflammasome regulates colonic microbial ecology and risk for colitis. Cell 2011, 145, 745–757. [CrossRef] [PubMed]
+17. Normand, S.; Delanoye-Crespin, A.; Bressenot, A.; Huot, L.; Grandjean, T.; Peyrin-Biroulet, L.; Lemoine, Y.; Hot, D.; Chamaillard, M. Nod-like receptor pyrin domain-containing protein 6 (NLRP6) controls epithelial self-renewal and colorectal carcinogenesis upon injury. Proc. Natl. Acad. Sci. USA 2011, 108, 9601–9606. [CrossRef] [PubMed]
+18. Neudecker, V.; Haneklaus, M.; Jensen, O.; Khailova, L.; Masterson, J.C.; Tye, H.; Biette, K.; Jedlicka, P.; Brodsky, K.S.; Gerich, M.E.; et al. Myeloid-derived miR-223 regulates intestinal inflammation via repression of the NLRP3 inflammasome. J. Exp. Med. 2017, 214, 1737–1752. [CrossRef]

@@ -1,0 +1,33 @@
+# Hall et al. Genome Medicine (2017) 9:103
+
+# Methods
+
+# Sample Preparation
+
+Following steps were automated on the MSM I. M-PVA. Magnetic Beads were added to the stool lysate solution and vortexed to mix. The bead-bound total nucleic acid was then removed from solution via a 96-rod magnetic head and washed in three ethanol-based wash buffers. The beads were then washed in a final water wash buffer. Finally, the beads were dipped in elution buffer to re-suspend the DNA sample in solution. The beads were then removed from solution, leaving purified TNA eluate. The eluate was then split into two equal volumes, one meant for DNA and the other for RNA. SUPERase-IN solution was added to the DNA samples, the reaction was cleaned up using AMPure XP SPRI beads. DNase was added to the RNA samples, and the reaction was cleaned up using AMPure XP SPRI beads. DNA samples were quantified using a fluorescence-based PicoGreen assay. RNA samples were quantified using a fluorescence-based RiboGreen assay. RNA quality was assessed via smear analysis on the Caliper LabChip GX.
+
+# Fecal Calprotectin Quantification
+
+Fecal calprotectin (FCP) was assayed for each stool sample with the Eagle Biosciences Calprotectin Enzyme-Linked Immunoabsorbent Assay (ELISA) kit using standard protocols.
+
+# Validation Cohorts
+
+Data from an IBD study by Lewis et al. [13] was downloaded from the NCBI SRA for use as an IBD validation cohort. Eighty samples from the Human Microbiome Project (HMP) were used as a healthy validation cohort [15].
+
+# Analysis of Whole Metagenome Sequencing Data
+
+The whole metagenome data were trimmed and human reads were filtered using KneadData using the default parameters. Community composition was calculated with MetaPhlan2 [16] using the default settings. Functional and pathway composition was calculated with HUMANn2 [17] using the UniRef90 database with default settings. Differentially abundant species were identified using MaAsLin. Strain-level analysis was performed using StrainPhlAn [7] with the default parameters and PanPhlAn [6] with (–min_coverage 1 –left_max 1.70 –right_min 0.30). While strain-level profiling using StrainPhlAn was carried out for 72 species of the gut microbiome with sufficient coverage, R. gnavus was the only species detected to have an IBD-specific strain.
+
+The phylogenetic tree of R. gnavus strains was calculated from the R. gnavus marker gene SNP profiles, as produced by StrainPhlAn [7]. We used the phangorn R package to (1) calculate the distance between all profiles (using the Jukes and Cantor model); (2) construct the tree using a hierarchical clustering method (UPGMA (Unweighted Pair Group Method with Arithmetic Mean)); and (3) calculate the bootstrapped phylogeny using the bootstrap.pml function. To find species with decreased abundance during blooms of R. gnavus, we divided the samples into two groups: those with ≥ 10% relative abundance of R. gnavus, and those with < 10% relative abundance of R. gnavus. Then, we used MaAsLin to find differentially abundant species between the two groups.
+
+# Binning by Aerotolerance Methods
+
+Based on the relative abundance output of MetaPhlan2 [16], we binned the species of the gut microbiome based on aerotolerance. We binned into two groups, anaerobes and facultative anaerobes. To define differential bins of aerotolerance, we started with the list assembled by [18] and expanded for abundant genera in our samples (Additional file 2: Table S2). Differences in the abundance of facultative anaerobes was calculated in R using nested ANOVA.
+
+# Survival in Aerobic Conditions
+
+E. coli Sakai (RIMD 0509952), R. gnavus (ATCC 29149), and Eubacterium elegans (ATCC 3376) were grown anaerobically at 37 °C in brain heart infusion media (BD) supplemented with 1% BBL vitamin K1-hemin solution (BD), 1% trace minerals solution (ATCC), 1% trace vitamins solution (ATCC), 5% fetal bovine serum (Hyclone), 1 g/L cellubiose, 1 g/L maltose, 1 g/L fructose, and 0.5 g/L cysteine. Confluent cultures diluted into 1 mL of fresh media and incubated anaerobically for 3 h at 37 °C, at which point dilutions of the cultures were plated to determine colony forming units (CFU). The cultures were then moved to an aerobic tissue culture rotator where they were incubated at 37 °C with loosened lids. Samples were taken anaerobically to determine CFUs after 1- and 3-h aerobic incubation.
+
+# Sequencing of 11 R. gnavus Strains
+
+DNA libraries were constructed from 11 R. gnavus strains using a previously described automated microfluidic sample preparation device [19]. This device was used to minimize reagent cost and hands-on time. The device takes cells as input (<2 uL aliquots required) and subsequently performs enzymatic cell lysis, genomic DNA purification, tagmentation to construct DNA sequencing libraries, library cleanup, size selection, and elution. All mixing and elution steps are performed in the device, using valves in the two-layer microfluidic architecture. DNA capture and cleanup are achieved using solid phase reversible immobilization (SPRI) beads inside the device. The tagmentation reaction was performed following the Illumina Nextera protocol using the Tagment DNA Enzyme (Illumina), as described in Kim et al. [19]. The sequencing libraries from the device were barcoded with dual barcoding primers from the Broad Institute.

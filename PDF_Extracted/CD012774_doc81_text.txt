@@ -1,0 +1,87 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# NCT03716388 (Continued)
+
+# Inclusion criteria
+
+- UC diagnosis based on history of chronic (&gt; 4 weeks), inflammatory (with blood and mucus) diarrhea
+- Total Mayo score 4–10, Mayo Endoscopic subscore &gt; 1
+- Histopathology suggestive of UC
+
+# Exclusion criteria
+
+- Severe UC (Total Mayo score 11–12, Endoscopic Mayo score 3)
+- Uncertainty about diagnosis of UC: infective colitis/indeterminate colitis/Crohn's colitis
+- Associated IBS
+- History of surgery or colorectal surgery
+- Exposure to antibiotics or probiotics in last 4 weeks
+- Evidence of infections (e.g. Clostridioides difficile, CMV, HIV, parasitic infections or extra-intestinal infections requiring antibiotics)
+- Significant cardiopulmonary comorbidities (high risk for repeated colonoscopy)
+- Pregnancy
+- Refusal to consent for repeated colonoscopies
+
+# Interventions
+
+# Experimental arm
+
+- FMT fresh sample, administered via colonoscopy at weeks 0, 2, 6, 10, and 14
+
+# Control arm
+
+- Mesalamine
+
+# Outcomes
+
+# Primary outcome
+
+- Clinical remission (Mayo score ≤ 2, each subscore ≤ 1) at week 14
+
+# Secondary outcomes
+
+- Clinical response (reduction of Mayo score ≥ 30% and ≥ 3 points compared to baseline) at weeks 0, 2, 6, 10, and 14
+- Endoscopic remission (Endoscopic Mayo subscore 0) at week 14
+- Histologic remission (Nancy grade 0 or 1) at week 14
+
+# Starting date
+
+1 December 2018
+
+# Contact information
+
+Contact: Ajit Sood, DM
+
+Dayanand Medical College and Hospital, Ludhiana, Punjab, India, 141001
+
+# Notes
+
+Phase 3 trial
+
+# NCT03804931
+
+# Study name
+
+Fecal microbiota transplantation for ulcerative colitis
+
+# Methods
+
+RCT conducted in China
+
+# Participants
+
+# Inclusion criteria
+
+- Adults with active, moderate-to-severe UC (Mayo score &gt; 6)
+- "Safety using history of 5-ASA"
+- Ability to undergo endoscopy examination
+
+Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

@@ -1,0 +1,19 @@
+# Ocansey et al. Clin Trans Med (2019) 8:31
+
+# Fecal microbiota transplantation in IBD
+
+IBD is believed to exhibit a complex interplay of dysbiosis and dysregulation of the immune system [26]. Evolving therapies that seek to correct these abnormalities include the growing interest to rectify the underlying dysbiosis via the application of FMT. While this therapy has indicated great efficacy in refractory Clostridium difficile infections, its general application is yet to be definitely proven in IBD [27]. In one study, FMT administered once weekly via enema for 6 weeks was superior to placebo with some differences in efficacy in relation to donors [28]. In a similar study, no noteworthy variation in endoscopic and clinical remission was witnessed between participants who received their own gut microbiome and those who received from donors when the FMT was administered through nasoduodenal tube [29]. This raises concerns on donor selection, route and frequency.
+
+# Application in UC
+
+In a study of 7 children with ulcerative colitis, 4/7 responded to treatment 4 weeks post FMT administration based on their pediatric UC activity index. Detailed analysis indicated a shift of the class Clostridia, viromic and metabolomics profiles of respondents toward the donor’s microbiota composition. These changes alongside alterations in fecal concentrations of several other metabolites correlated with improved clinical remission [40]. A randomized clinical trial involving 73 adults divided participants into two groups of 38/73 (who received anaerobically prepared pooled donor FMT) and 35/73 (who received autologous FMT). At the eighth week post administration, 12/38 (32%) as against 3/35 (9%) of participants who received pooled donor FMT and autologous FMT respectively achieved primary end.
+
+# Fig. 1
+
+The road of a healthy gut to an inflamed gut. Many factors are associated with the alteration of gut microbiome which ultimately lead to dysbiosis. The altered microbiota diversity and composition coupled with other intestinal epithelial changes lead to inflammation in the gut, characterized by increased inflammatory genes expression.
+
+|Intestinal epithelium|Proteobacteria|Firmicutes|Caudovirales|Microviridae|
+|---|---|---|---|---|
+|Adherence/colonization|Altered composition|Altered diversity|Inflammatory genes|Proinflammatory cytokines|
+|WPermeability|Expression|Oxidative stress|Dysbiosis|Mucin degradation|
+|Inflamed Gut|Hydrogen sulfide|Butyrate| | |

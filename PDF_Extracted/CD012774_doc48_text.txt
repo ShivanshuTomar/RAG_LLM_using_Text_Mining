@@ -1,0 +1,63 @@
+# Cochrane Library
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Fang 2021 (Continued)
+
+# Interventions
+
+# Experimental arm
+
+n = 10
+
+- Multiple donor feces; 50 g stool in 200 mL infusion administered via colonoscopy
+
+# Control arm
+
+n = 10
+
+- People with mild-to-moderate UC were treated with mesalazine
+- People with severe UC were treated with corticosteroids for induction therapy and mesalazine for maintenance therapy
+
+# Outcomes
+
+# Primary outcomes
+
+- Clinical remission at week 8 (Mayo score ≤ 2 with each subscore ≤ 1)
+- Mucosal remission at week 8 (Mayo Endoscopy subscore ≤ 1 compared with baseline)
+- Clinical response at week 8 (decrease in Mayo score of ≥ 30% and ≥ 3 points compared with baseline)
+
+# Secondary outcomes
+
+- Maintenance of clinical and mucosal remission at weeks 2, 4, 8, 12, 24, and months 12 to 24
+- Adverse events during long-term follow-up
+- Clinical relapse (exacerbation of diarrhea and purulent bloody stool that required drug initiation or replacement to induce remission)
+
+# Notes
+
+It seems that the related FMT donors tended to be quite young, as young as 5 years old, while most studies use adult FMT donors. Ideal donors are not known, however, and children are studied for this purpose.
+
+Data extraction: data for induction of remission were included at week 8 of follow-up. The study also reported data for maintenance of remission up to month 24; however, these data were not included as re-randomization was not performed after the induction of remission. 'Quality-of-life scores' were reported as an outcome in this study, but the data were not evident in the paper.
+
+Data interpretation: study authors used an ITT analysis, in which all participants originally randomized to each group were accounted for in the final analysis. We included the data as reported in the primary study.
+
+Funding: Anhui Natural Science Foundation (grant number 1408085MH178).
+
+# Risk of bias
+
+# Bias
+
+|Authors' judgement|Support for judgement|
+|---|---|
+|Random sequence generation (selection bias)|Low risk Quote: "The study was designed as an open-label, randomized, parallel-group comparison study. Eligible patients were randomized to the FMT monotherapy and control groups." (page 11) Published protocol stated, "A random number table and a random number remainder grouping method are adopted by PI [principal investigator]." Comment: most likely done.|
+|Allocation concealment (selection bias)|Unclear risk Comment: the exact method of allocation concealment was not available for review.|
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

@@ -1,0 +1,39 @@
+# Kumar et al. J Transl Med (2019) 17:419
+
+# Relative contributions to IBD susceptibility
+
+Genome-wide association studies in IBD patients have identified more than 300 genetic variants affecting various host functions—including intestinal homeostasis, epithelial barrier function, microbial composition, autophagy, production and secretion of anti-microbial peptides, and regulation of adaptive immunity.
+
+Both CD and UC share around 30% of the IBD-related genetic loci, indicating that, despite being considered as two distinct IBD-subtypes with different clinical presentation, there are several common disease-related pathways such as those implicated in host immune functions, including cytokine, chemokine signaling and T helper (Th) cell responses. For example, caspase recruitment domain 9 (CARD9), IL-12 receptor (IL-12R), IL-23R, IL-2, IL-10, IL-21, interferon (IFN)-γ are shown to be associated with both CD and UC.
+
+On the other hand, mutation in genes such as the nucleotide-binding oligomerization domain-containing protein 2 (NOD2) and autophagy related gene (Atg16l1) among others have been shown to be specific to patients with CD, while others like IL1R1/IL1R2 genes are specific to patients with UC.
+
+Taken together, these findings suggest that genetic predisposition plays an important role in IBD pathogenesis. However, there is still a critical knowledge gap in understanding the IBD etiology, as patients without known genetic predisposition can still develop the disease, suggesting that genomics alone is not enough to reveal the complex IBD puzzle.
+
+# Microbiomics in IBD: from postulated theories to known differential microbial signatures
+
+Our understanding of the human microbiome in health and disease has significantly expanded owing to the establishment of the 16S rRNA gene sequencing of the microbial genomes. The technology has propelled research on microbiome composition and function, as well as it allowed us to understand the effect of various factors in modifying the microbiome composition.
+
+The human GI tract is densely populated by trillions of microbes including bacteria, viruses, fungi, and protozoa. The microbiota is continuously shaped by the exposure to a wide array of antigens found in the GI community. A healthy gut microbiota is composed of four predominant bacterial phyla, with Firmicutes and Bacteroidetes accounting for more than 87% of the GI microbial communities. The number and composition of the microbial communities also vary in different parts of the GI tract. The microbiota plays an important role in maintaining the integrity of the gut epithelial barrier, food digestion, synthesis of vitamins and biomolecules, and development of mucosal immune cells among many other functions. In turn, the GI tract environment supports the growth, reproduction, and longevity of the gut microbial communities to maintain a state of symbiosis.
+
+In the healthy state, the gut homeostasis is maintained. The intestinal immune responses are regulated in order to provide a protective immunity against potential invading pathogens, while limiting any immune reaction.
+
+# Table 1: Some of the known gene mutations associated with IBD
+
+|Biological function|Known genetic predisposition to:|CD|UC|Common to CD/UC|
+|---|---|---|---|---|
+|Maintain epithelial integrity|MUC19, ITLN1| |GNA12, HNF4A, CDH1, ERRFI1| |
+|Paneth cells|NOD2, LTLN1, ATG16L1| | |XBP1|
+|Innate mucosal defense|NOD2, ITLN1| |SLC11A1, FCGR2A/B|CARD9, REL|
+|IL-23/T 17 h|STAT3| |IL-21|IL-23R, JAK2, TYK2, ICOSLG, TNFSF15|
+|Restitution|STAT3| |ERRFI1, HNF4A, PLA2G2A/E|REL, PTGER4, NKX2-3|
+|Immune tolerance|IL-27, SBNO2, NOD2| |IL1R1/IL1R2|IL-10, CREM|
+|T-cell regulation|NDFIP1, TAGAP, IL-2R|IL-2, TNFRSF9, PIM3, IL-7R, TNFSF8, IFNG| |TNFSF8, IL-12B, IL-23, PRDM1, ICOSLG|
+|B-cell regulation|IL-5, IKZF1, BACH2| |IL-7R, IRF5| |
+|Solute transport|SLC9A4, SLC22A5, SLC22A4| |AQP12A/B, SLC9A3, SLC26A3| |
+|Immune cell recruitment|IL8RA/IL8RB| |CCL11, CCL2, CCL7, CCL8, CCR6|MST1|
+|Antigen presentation|ERAP2, LNPEP, DENND1B| | | |
+|Autophagy|NOD2, ATG16L1, IRGM| |PARK7, DAP|CUL2|
+|Oxidative/ER stress|CAPEB4, PRDX5, BACH2, ADO, GPX1/3, SLC22A4, LRRK2, NOD2| |SERINC3, HSPA6, DLD, PARK7|ORMDL3, XBP1, CARD9, UTS2, PEX13|
+|Intracellular logistics|VAMP3, FGFR1OP, FASLG, THADA| |TTLL8, CAP72, TPPP, ARPC2, LPS1, AAMP, DAP|KIF21B, PUS10, MST1|
+|Metabolism|GCKR| | |SLC2A4RG|

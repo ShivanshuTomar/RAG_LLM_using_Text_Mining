@@ -1,0 +1,31 @@
+# Therapeutic Advances in Gastroenterology 9(4)
+
+# Nonsteroidal anti-inflammatory drugs
+
+Nonsteroidal anti-inflammatory drugs promote intestinal barrier disruption [Ananthakrishnan, 2013], alter the microbiota composition [Rogers and Aronoff, 2015], and have been associated with increased risk of IBD development and clinical relapse [Takeuchi et al. 2006; Chan et al. 2011; Ananthakrishnan et al. 2012]. Oral contraceptives have effects on the vaginal microbiota [Achilles and Hillier, 2013], also likely affect the gastrointestinal microbiota, and are variably associated with an increased risk for developing Crohn’s disease [Timmer et al. 1998; Cosnes et al. 1999; Alic, 2000]. Other medications too are associated with microbiota changes (e.g. proton pump inhibitors) [Freedberg et al. 2015] and improvements in tight junction integrity (e.g. β blockers) [Reiberger et al. 2013] and should be evaluated for their association with increased and decreased risk of IBD.
+
+# Cesarean sections versus vaginal births
+
+Cesarean sections versus vaginal births are also associated with alterations in the microbiota and an increased risk for IBD [Dominguez-Bello et al. 2010; Bager et al. 2012] perhaps due to differences in early microbial colonization of the gastrointestinal tract.
+
+# Stress
+
+Stress correlates with IBD relapse [Singh et al. 2009] and improvements in stress via counseling correlate with decreased IBD symptoms [Wahed et al. 2010]. Stress has also been shown to have profound effects on the microbiota [Lutgendorff et al. 2008; Bangsgaard Bendtsen et al. 2012], barrier function [Soderholm et al. 2002; Camilleri et al. 2012], and intestinal inflammation [Melgar et al. 2008; Singh et al. 2009; Matsunaga et al. 2011] and thus may contribute significantly to IBD pathophysiology.
+
+# Tobacco use
+
+Nicotine interestingly has a beneficial effect on tight junction integrity and it is possible that different modes of action of tobacco on the microbiota versus gut barrier function may explain the differential effects of tobacco on CD and UC [McGilligan et al. 2007]. Tobacco use is associated with an increased risk for CD and reduced risk for UC and tobacco cessation reverses this effect [Cosnes, 2008; Parkes et al. 2014]. Smokers with active CD have a clinically relevant gastrointestinal dysbiosis, and smoking cessation induces profound changes in the microbiota [Benjamin et al. 2012; Biedermann et al. 2013].
+
+# Surgical practices
+
+Appendectomies are associated with a decreased risk for UC [Kaplan et al. 2008; Radford-Smith, 2008; Cheluvappa et al. 2014] and possibly an increased risk for CD [Andersson et al. 2003; Kaplan et al. 2007]. Patients with UC, after appendectomies, experience fewer flares, fewer colectomies and a decreased need for immunosuppressive therapy [Naganuma et al. 2001; Radford-Smith et al. 2002; Radford-Smith, 2008]. Studies evaluating the microbiota of the resected inflamed appendix show increases in pathogenic organisms, including the adherent invasive bacterium Fusobacterium [Swidsinski et al. 2011; Guinane et al. 2013]. Similar organisms have increased incidence in active IBD and thus appendectomies may be protective in UC by eliminating a pathogen reservoir [Strauss et al.].
+
+# IBD therapies
+
+The majority of IBD therapies to date have focused on modulating inflammation via the immune system. These have enabled great leaps forward in medically treating a disease that historically only had surgical treatment options. Despite therapeutic advances, many patients with IBD still require surgery. Short-circuiting IBD pathophysiology may ultimately require a therapeutic approach that integrates all three pathophysiological components (dysbiosis, leaky gut, and inflammation). Therapies will likely be highly individualized based on future diagnostics that point toward keystone dysfunction in one or more of these pathophysiological components. To this end, in addition to immune-based therapies, therapies targeting dysbiosis and leaky gut are currently being explored.
+
+# Immune-based therapies
+
+Current IBD treatments include the use of medications that modulate the immune system, including aminosalicylates, corticosteroids, immunomodulators (e.g. methotrexate, azathioprine), antitumor necrosis factor (TNF) agents, and integrin inhibitors. Newer biologic agents that focus on other inflammatory cytokines, their receptors, and downstream pathways are also in various stages of development [Peng et al. 2014].
+
+Immune-based therapies as their name implies have direct effects on the immune system, but

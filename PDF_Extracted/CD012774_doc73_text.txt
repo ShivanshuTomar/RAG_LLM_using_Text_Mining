@@ -1,0 +1,90 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# NCT02335281
+
+# Study name
+
+Standardized Fecal Microbiota Transplantation for Inflammatory Bowel Disease (SFMT-IBD)
+
+# Methods
+
+RCT conducted in China
+
+# Participants
+
+# Inclusion criteria
+
+- Severe IBD defined as HBI score ≥ 9
+- Moderate IBD defined as 7 < HBI < 9
+- Montreal classification: age > 14 years, Location L1–3, Behavior B1–3
+- Ages 16–70 years
+
+# Exclusion criteria
+
+- Diarrhea activity scores < 3
+- Severely active disease with perianal diseases
+- Severely active disease with indication for surgery
+- Diagnosis of IBD for the first time or in first year
+- No history of 5-ASA, biologic (antibody), immunomodulatory, or corticosteroid therapy
+
+# Interventions
+
+# Experimental arm
+
+Standardized FMT administered once to the midgut by nasojejunal tube
+
+# Control arm
+
+Traditional mesalazine treatment
+
+# Outcomes
+
+# Primary outcome
+
+Clinical remission (defined as HBI score ≤ 4) at up to 1 year (endpoint of follow-up is the time of clinical recurrence)
+
+# Secondary outcomes
+
+Hospitalization days from administration to discharge when at clinical remission for up to 1 year
+
+# Starting date
+
+January 2015
+
+# Contact information
+
+Yanling Wei
+
+Department of Gastroenterology, Research Institute of Surgery, Da Ping Hospital, The Third Military Medical University, Third Military Medical University
+
+# Notes
+
+Estimated enrollment: 40
+
+# NCT02998112
+
+# Study name
+
+Fecal microbiota transplantation for ulcerative colitis through colonic transendoscopic enteral tubing
+
+# Methods
+
+RCT conducted in China
+
+# Participants
+
+# Inclusion criteria
+
+- Active, moderate-to-severe UC (Mayo score > 6)
+
+Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

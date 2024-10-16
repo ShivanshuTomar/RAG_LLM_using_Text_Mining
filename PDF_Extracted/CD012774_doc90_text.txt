@@ -1,0 +1,78 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# NCT04637438 (Continued)
+
+# Outcomes
+
+# Primary outcome
+
+- Change in endoscopic Rutgeerts score between first and second colonoscopy at 1 year (Rutgeerts endoscopic score ranges from i0 indicating remission to i4 indicating severe postoperative relapse)
+
+# Secondary outcomes
+
+- Safety of FMT (FinFMT-Questionnaire) at 3 and 12 months, and 5 years
+- Clinical activity of CD (HBI) at 6 and 12 months, and 5 years
+- Histologic activity of CD (modified Global Histological Activity Score) at 1 and 5 years
+- Change of microbiota in stool samples and in intestinal biopsies at 6, 12, and 48 weeks, and 5 years
+- Participant-reported outcome at 12 and 48 weeks, and 5 years
+- Change in inflammatory marker CRP at 6, 12, 24, and 48 weeks, and 5 years
+- Need for hospitalization through study completion, at mean of 1 and 5 years
+- Need for treatment escalation through study completion, at average of 1 and 5 years
+- Fecal calprotectin at 6, 12, 24, and 48 weeks, and 5 years
+- Hemoglobin at 6, 12, 24, and 48 weeks, and 5 years
+
+# Starting date
+
+November 2020
+
+# Contact information
+
+Tampere University Hospital
+
+Contact: Elina Jokinen, PhD +3583311611; email: elina.jokinen@pshp.fi
+
+# Notes
+
+# NCT04924270
+
+# Study name
+
+Safety and efficacy of faecal microbiota transplantation in treatment-naïve patients with newly diagnosed chronic inflammatory diseases (FRONT)
+
+# Methods
+
+RCT conducted in Denmark
+
+# Participants
+
+# Inclusion criteria
+
+- New diagnosis of rheumatoid arthritis, reactive arthritis, ankylosing spondylitis, psoriatic arthritis, psoriasis, gouty arthritis, hidradenitis suppurativa, pulmonary sarcoidosis, CD, or UC
+- Treatment-naïve (no current or previous disease-modifying antirheumatic drugs or systemic immunosuppressive drugs including glucocorticoids)
+- Presence of treatment indication (no contraindications) and patient acceptance to start first-line treatment in accordance with Danish national guideline for specific diagnosis following baseline visit
+
+# Exclusion criteria
+
+- Celiac disease, food allergy, or severe food intolerance
+- Malignancy
+- Hepatitis B and C, HIV, HTLV1/2, active tuberculosis, or other serious chronic infections
+- Pregnancy or lactation
+- Not wishing to participate or not suited for FMT intervention or project evaluation
+
+# Interventions
+
+# Experimental arm
+
+50 g feces diluted in sterile saline (0.9% sodium chloride) and glycerol, blended, centrifuged, and filtered to remove particulate material before transfer to double-layered FMT capsules
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

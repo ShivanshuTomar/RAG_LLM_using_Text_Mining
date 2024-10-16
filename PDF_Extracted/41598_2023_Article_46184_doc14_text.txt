@@ -1,0 +1,49 @@
+# Scientific Reports
+
+# the over-expression of a gene through the binarization of the data
+
+that led to the construction of a biadjacency matrix B of size |U| × |V| that described the bipartite network G = (U, V, E) with the entries (0, 1), where Bij = 1 if the gene vi is over-expressed in the sample u, and Bij = 0 if it is not over-expressed. Biadjacency matrices are rectangular matrices where on one side there are the nodes in U, and on the other side the nodes in V.
+
+# Binarization
+
+The binarization process is useful to highlight the edges in E that are over-expressed. By using the revealed comparative advantage (RCA)48, we highlighted the over-expressed genes for specific samples:
+
+RCAij = ∑i' ∈ U Eij / ∑j' ∈ V Eij' / ∑i' ∈ U, j ∈ V Ej'j (1)
+
+where E is the expression of the gene i in the sample j. When RCAij > 1, the quantity of gene i in sample j can be considered over-expressed and the entry bij = 1 (where bij is the element of the final biadjacency matrix), in the other case RCAij ≤ 1, then bij = 0.
+
+# Randomization of bipartite networks
+
+To generate a null model useful to calculate the statistically important properties of a real bipartite network, we randomized the bipartite networks by using the package BiCM49. In particular, the package is based on the works by Ref.50–52. In the aforementioned works, the Shannon entropy is defined as
+
+S = − ∑M ∈ G P(M) ln P(M) (2)
+
+is maximized, where G is an ensemble of binary, undirected, bipartite networks, and P(M) is a given set of constraints. The result is:
+
+P(M|θ) = (−) e−H(M,θ) / Z(θ) (3)
+
+Where H(M, θ) = θ · C(M) is the Hamiltonian and Z(θ) = ∑M ∈ G e−H(M,θ) is the normalization. In the case of the bipartite extension of the configuration model (BiCM), the Hamiltonian becomes:
+
+H(M, θ) = − θ · du(M) + θ · dβ(M) (4)
+
+because we have two layers of nodes and we constrained the degree sequences du(M) and dβ(M). du(M) is the degree sequence of the genes and dβ(M) is the degree sequence of the samples.
+
+# Projection
+
+One way to compress the information contained in a bipartite network is to project the bipartite network onto one of the two layers (gene/pathway layer or sample layer). We carried out the projection by connecting in the same layer the nodes that were linked by a common node in the other layer. The projection leads to a loss of information itself, so to avoid further loss of information, we weighted the edges by the number of common nodes neighbouring the nodes in the same layer53. The algorithm to perform the projection is:
+
+1. Select the partition on which the projection will be done.
+2. Take two nodes of the selected partition, n and n′, and calculate their similarity.
+3. By evaluating the corresponding p-value compute the statistical significance of the calculated similarity with respect to a properly-defined null model; if, and only if, the p-value associated with the link n and n′ is statistically significant, connect the selected nodes.
+
+The similarity in the second step of the algorithm is evaluated by:
+
+Vnn' = ∑c=1 Nc mnc mnc (5)
+
+where Vnn'c ≡ mnc mnc and it is clear from the definition that Vnn' = 1 if, and only if, both n and n′ are common neighbours of c. The third step of the algorithm passes through the calculation of the p-value of the Poisson-Binomial distribution, i.e. the probability of observing a number of V-motifs greater than, or equal to, the observed one (which will be indicated as Vnn*):
+
+p-value(Vnn') = 1 − ∑Vnn' ≥ Vnn fPB(Vnn') (6)
+
+Scientific Reports | (2023) 13:19428 | https://doi.org/10.1038/s41598-023-46184-y
+
+Vol.:(0123456789)

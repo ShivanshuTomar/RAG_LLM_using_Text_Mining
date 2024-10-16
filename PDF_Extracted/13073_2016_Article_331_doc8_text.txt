@@ -1,0 +1,31 @@
+# Shaw et al. Genome Medicine
+
+# (2016) 8:75
+
+# Page 9 of 13
+
+# Fig. 4 Use of genera to predict eventual response to treatment in pretreatment samples.
+
+a Our classifier classifies response status significantly better than random guess with AUC = 0.75 and overall accuracy of 76.5 % for predicting treatment response/non-response.
+b Box plots of the log10 relative abundance plus pseudocount (1E-05) of the 15 genera with highest importance scores in random forest analysis in responders and non-responders.
+The asterisks denote taxa also identified as significant in our generalized estimating equations analysis.
+(See also Additional file 2: Figures S4 and S6, Additional file 2: Tables S7 and S9.)
+
+On real day-to-day clinical practice, so the study design did not impact treatment choices for the subjects. Using this approach, our patients could be treated in a manner consistent with standard of care.
+Our findings may prove clinically useful in tailoring therapies; if confirmed by a larger study, clinicians could, in the future, make microbiome-informed decisions about early escalation of medical therapies versus timely surgical interventions.
+
+In our study, we focused on following patients over time using stool samples, because obtaining repeated biopsy samples in a clinical setting is not feasible—it is invasive, expensive, and impractical for day-to-day clinical practice.
+We show that repeated stool samples can depict the diversity and dysbiosis of the microbiome. This is an important implication for future studies, because it suggests that stool samples, which are relatively cheap and easy to acquire, are an appropriate substitute for biopsy samples to monitor the microbiome of patients with IBD.
+
+In terms of clinical outcomes, we assessed disease activity with PCDAI/PUCAI, the current standards in clinical use. These measures largely rely on clinician observation and patient self-report and are therefore indirect assessments of disease activity.
+Since inflammation impacts microbiome indices, many studies have been criticized for not having an objective measure of inflammation. To address this shortcoming, we measured fecal calprotectin as a proxy for mucosal inflammation [35, 36].
+Fecal calprotectin is a quantitative measure of disease activity that is not affected by self-reporting bias and is a direct biomarker of mucosal inflammation, the trademark of IBD.
+
+Previously, Gevers et al. [19] described the gut microbiome in treatment-naïve CD patients and created the dysbiosis index to reflect the distinct alteration of the microbiome in CD.
+We applied the dysbiosis index to our population and further showed it to be a useful and relevant tool: the dysbiosis index was significantly higher (indicating more dysbiosis) in both our CD and UC subjects compared to our unaffected subjects.
+Furthermore, the dysbiosis index decreased over the course of the study, consistent with treatment and subsequent clinical improvement.
+When it was created, the dysbiosis index showed a strong correlation with clinical severity as measured by PCDAI, which we confirm in our study.
+We further share the novel finding that the dysbiosis index associates with the direct measure of inflammation: calprotectin.
+Because PCDAI does not show a similar association with higher calprotectin, the dysbiosis index may be more reflective of inflammatory status than the less direct disease activity measure.
+
+Although our sample size is small, we showed that although the dysbiosis index was developed in patients with CD, patients with UC had significantly higher dysbiosis than did those with CD, along with increased calprotectin.

@@ -1,0 +1,10 @@
+|Factor|Type of Study|N|Intervention|Outcome in IBD Patients|Author(s)|Reference|
+|---|---|---|---|---|---|---|
+|Herbal treatment|Retrospective observational study|30|Herbal treatment|Positive effect of cannabis on disease activity in CD|Naftali, T. et al.|171|
+|Prospective, placebo-controlled study| |21|Herbal treatment|Short course of cannabis had beneficial effects in CD patients|Naftali, T. et al.|172|
+|Medication|Double-blind RCT|108|Placebo or vitamin D3|Reduced relapse risk in CD|Jorgensen, SP. et al.|174|
+| |Prospective|37|Active or plain vitamin D|Active form of vitamin D has short-term beneficial effects in CD|Miheller, P. et al.|175|
+|Serum folate and vitamin B12|Meta-analysis|12 studies|Serum folate and vitamin B12|Low concentration of serum folate is a risk factor for IBD and supplementation may be beneficial|Pan, Y. et al.|177|
+| |Double-blind RCT|10 per group|Placebo/ phylloquinone/ vitamin D3|No significant beneficial effects of phylloquinone on bone health in CD patients|O’Connor EM. et al.|178|
+
+CD = Crohn’s disease; QL = quality of life; RCT = randomised controlled trial; UC = ulcerative colitis.

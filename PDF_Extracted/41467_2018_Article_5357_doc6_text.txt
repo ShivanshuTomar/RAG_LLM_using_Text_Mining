@@ -1,0 +1,78 @@
+# NATURE COMMUNICATIONS | DOI: 10.1038/s41467-018-05357-4
+
+# ARTICLE
+
+# Fig. 5 Alterations of MLI microbiome composition in pediatric IBD patients.
+
+# a
+
+Relative abundance of Fungi in MLI microbiome.
+
+# b
+
+Representative scatter plot between the fungal abundance and CD disease severity scores.
+
+# c
+
+Relative abundance of Caudovirales in MLI microbiome.
+
+# d
+
+Relative abundance of F. prausnitzii in MLI microbiome.
+
+# e, f
+
+Intra-species relative abundance of F. prausnitzii strain L2–6 and A2–165.
+
+|Fungi|DeC|AsC|TI|
+|---|---|---|---|
+|2|*****|***** *|70|
+|0| | |60|
+| | | |50|
+| | | |40|
+| | | |30|
+| | | |20|
+| | | |-6|
+| | | |-4|
+| | | |-2|
+| | | |0|
+
+|Caudovirales|DeC|AsC|TI|
+|---|---|---|---|
+|2|*|*****|16|
+|0|*| |14|
+| | | |12|
+| | | |10|
+| | | |8|
+| | | |6|
+| | | |4|
+| | | |2|
+| | | |0|
+
+|F. prausnitzii strain L2-6|DeC|AsC|TI|
+|---|---|---|---|
+|60| | |16|
+|50| | |14|
+|40|**|***|10|
+|30| | |8|
+|20| | |6|
+|10| | |2|
+|0| | |0|
+
+|F. prausnitzii strain A2-165|DeC|AsC|TI|
+|---|---|---|---|
+|60| | |16|
+|50| | |14|
+|40|**| |10|
+|30| | |8|
+|20| | |6|
+|10| | |2|
+|0| | |0|
+
+For the box plot, the bottom and top of the box are the first and third quartiles, respectively. The middle line represents the sample median. Whiskers are drawn from the ends of the IQR to the furthest observations within the 1.5 times the IQR range. Outliers >1.5 times the IQR are indicated with circle. *p &lt; 0.05, **p &lt; 0.01, ***p &lt; 0.001
+
+Sequencing study using the same sample type (i.e., AsC MLI aspirate) from pediatric IBD patients. Similar findings have also been reported by Hansen et al. and Assa et al., who studied the microbiota compositions in biopsies collected from pediatric IBD patients using DNA sequencing and real-time PCR. However, controversial associations of F. prausnitzii with IBD, regarding their protective roles on gut barrier function, have been commonly reported. To obtain a deeper understanding of F. prausnitzii’s role in IBD, we performed strain-resolved analyses and for the first time demonstrated that L2–6 was the dominant strain in the pediatric MLI samples and only this strain showed higher intra-species abundance in CD. Strain A2–165, which is more adept in producing butyrate compared to L2–6, showed significantly lower intra-species abundance in CD compared to control subjects at the DeC and AsC. These results are in agreement with a previous study by Song et al. that demonstrated a subspecies-level dysbiosis of F. prausnitzii in the gut of atopic dermatitis patients with an increase of strain L2–6 and decrease of strain A2–165. In addition, pangenomic analysis of F. prausnitzii also reported that strain L2–6 uniquely encoded metabolic functions responsive to oxidative stress, such as sufBC, enabling its competitive ability in stressful environment such as the gut of IBD patients. These findings provide evidence that the relationship between IBD and F. prausnitzii may be at the strain level instead of species level and its sub-species level dysbiosis may be related to their different competitive growth abilities in response to oxidative stress.
+
+# Elevated MLI host defense response proteins in IBD.
+
+To identify the MLI human proteins that were differentially abundant in IBD compared to control or CD compared to UC, PLS-

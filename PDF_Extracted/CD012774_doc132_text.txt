@@ -1,0 +1,42 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Library
+
+# Better health.
+
+# Table 1. Microbiome outcomes (Continued)
+
+# Cochrane Database of Systematic Reviews
+
+age of unique genomic regions across the 50% most densely covered areas. Bacterial richness declined in 5/7 donors examined. They did not detect any post-diet microbial shift, including in alpha diversity.
+
+|Author|Study Type|Method|Findings|Comments|
+|---|---|---|---|---|
+|Sokol 2020|CD|MiSeq Illumina|"The authors observed a significant increase in alpha diversity following FMT but not sham"|"The similarity of the fecal microbiota samples was assessed using the Sorensen similarity index (Sorensen similarity index = [1 – Bray Curtis dissimilarity index])."|
+| | | |"We observed a significant increase in alpha diversity following FMT but not sham."|"We then looked at the similarity between donor and recipient microbiota using the Sorensen index. No statistically significant difference was observed between the FMT and sham group at week 6."|
+| | | |"No statistically significant difference was observed between the FMT and sham group at week 6."| |
+
+aFMT: autologous fecal microbiota transplantation; CD: Crohn disease; CRP: C-reactive protein; dFMT: donor fecal microbiota transplantation; EQ-5D: EuroQol Five-Dimensions Questionnaire; ESR: erythrocyte sedimentation rate; FMT: fecal microbiota transplantation; IBDQ: Inflammatory Bowel Disease Questionnaire; SCCAI: Simple Clinical Colitis Activity Index; UC: ulcerative colitis.
+
+# A P P E N D I C E S
+
+# Appendix 1. Search strategies
+
+MEDLINE Ovid (1946 to 22 December 2022)
+
+1. exp Inflammatory Bowel Diseases/
+2. (Inflammatory bowel disease* or IBD).tw,kw.
+3. (Crohn* or ileitis or regional enteritis or ileocolitis or granulomatous colitis or granulomatous enteritis).tw,kw.
+4. (colitis or proctocolitis or proctosigmoiditis or proctitis or rectosigmoiditis or rectocolitis or colorectitis or coloproctitis).tw,kw.
+5. or/1-4
+6. Fecal Microbiota Transplantation/
+7. (bacteriotherap* or colonic restoration or flora reconstitution or RBX2660).tw,kw.
+8. FMT.ab.
+
+Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

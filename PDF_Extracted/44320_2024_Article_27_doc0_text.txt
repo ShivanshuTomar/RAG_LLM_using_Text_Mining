@@ -1,0 +1,55 @@
+# Article
+
+# Integrated annotation prioritizes metabolites with bioactivity in inflammatory bowel disease
+
+Amrisha Bhosle 1,2,3, Sena Bae 4, Yancong Zhang 1,2,3, Eunyoung Chun 4, Julian Avila-Pacheco 5, Ludwig Geistlinger 6,7, Gleb Pishchany, Jonathan N Glickman 1 8,9, Monia Michaud 4, Levi Waldron 6, Clary B Clish 5, Ramnik J Xavier 1,10,11, Hera Vlamakis 1, Eric A Franzosa 1,2,3,13, Wendy S Garrett 1,3,4,12,13 & Curtis Huttenhower 1,2,3,4,13 ✉
+
+# Abstract
+
+Microbial biochemistry is central to the pathophysiology of inflammatory bowel diseases (IBD). Improved knowledge of microbial metabolites and their immunomodulatory roles is thus necessary for diagnosis and management. Here, we systematically analyzed the chemical, ecological, and epidemiological properties of ~82k metabolic features in 546 Integrative Human Microbiome Project (iHMP/HMP2) metabolomes, using a newly developed methodology for bioactive compound prioritization from microbial communities. This suggested >1000 metabolic features as potentially bioactive in IBD and associated ~43% of prevalent, unannotated features with at least one well-characterized metabolite, thereby providing initial information for further characterization of a significant portion of the fecal metabolome. Prioritized features included known IBD-linked chemical families such as bile acids and short-chain fatty acids, and less-explored bilirubin, polyamine, and vitamin derivatives, and other microbial products. One of these, nicotinamide riboside, reduced colitis scores in DSS-treated mice. The method, MACARRoN, is generalizable with the potential to improve microbial community characterization and provide therapeutic candidates.
+
+# Keywords
+
+Bioactive Compound Prioritization; Computational Method; Metabolomics; Microbiome; Inflammatory Bowel Disease
+
+# Subject Categories
+
+Metabolism; Methods & Resources; Microbiology, Virology & Host Pathogen Interaction
+
+https://doi.org/10.1038/s44320-024-00027-8
+
+Received 20 September 2023; Revised 13 February 2024; Accepted 15 February 2024; Published online: 11 March 2024
+
+# Introduction
+
+Microbial communities utilize, synthesize, and exchange metabolites for growth, sustenance, and response to environmental fluctuations. Microbial metabolism also contributes to environmental modification, a phenomenon central to bioremediation and nutrient-cycling (Jansson and Hofmockel, 2020; Kour et al, 2021), as well as to the health and disease-associated roles of the microbiome in a host (McCarville et al, 2020). The resulting chemical interactions are thought to be especially rich due to co-evolution (Baquero and Nombela, 2012; Rosenberg and Zilber-Rosenberg, 2018), and the human microbiome in particular produces metabolites that participate in processes including regulatory signaling, host metabolism, and modulation of the immune system (Krautkramer et al, 2021; McCarville et al, 2020). Stool metabolomics has thus become an elegant tool to study the molecular dialog underlying host–microbe and microbe–microbe interactions (Zierer et al, 2018). Comparative metabolomics of germ-free (GF) and conventional mice show that a remarkable ~10% of plasma metabolites are influenced by gut microbes (Wikoff et al, 2009), and it has been estimated that ~70% of the variation in human gut metabolomic profiles can be explained by differences in the gut microbiome (Zierer et al, 2018). However, of the tens of thousands of unique features detected in stool by high-resolution, untargeted mass spectrometry, only around a thousand are confidently identified (Lloyd-Price et al, 2019). This leaves the vast majority of stool metabolites uncharacterized (Wishart et al, 2022), with even fewer linked with specific microbial interactors or host phenotypic responses.
+
+The subset of microbially derived gut metabolites that are characterized include several classes that are critically important in immunoregulation, energy harvest, and signaling: fatty acids, bile acids, lipids, amino acid derivatives, terpenoids, and oligosaccharides, among others (Donia and Fischbach, 2015; Han et al, 2021; Yen et al, 2015).
+
+# Author Affiliations
+
+1 Infectious Disease and Microbiome Program, Broad Institute of MIT and Harvard, Cambridge, MA, USA.
+
+2 Department of Biostatistics, Harvard T. H. Chan School of Public Health, Boston, MA, USA.
+
+3 Harvard Chan Microbiome in Public Health Center, Harvard T. H. Chan School of Public Health, Boston, MA, USA.
+
+4 Department of Immunology and Infectious Diseases, Harvard T. H. Chan School of Public Health, Boston, MA, USA.
+
+5 Metabolomics Platform, Broad Institute of MIT and Harvard, Cambridge, MA, USA.
+
+6 Department of Epidemiology and Biostatistics, Graduate School of Public Health and Health Policy, City University of New York, New York, NY, USA.
+
+7 Center for Computational Biomedicine, Harvard Medical School, Boston, MA, USA.
+
+8 Beth Israel Deaconess Medical Center, Boston, MA, USA.
+
+9 Department of Pathology, Harvard Medical School, Boston, MA, USA.
+
+10 Gastrointestinal Unit and Center for the Study of Inflammatory Bowel Disease, Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA.
+
+11 Center for Microbiome Informatics and Therapeutics, Massachusetts Institute of Technology, Cambridge, MA, USA.
+
+12 Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.
+
+13 These authors contributed equally: Eric A Franzosa, Wendy S Garrett, Curtis Huttenhower. ✉E-mail: chuttenh@hsph.harvard.edu

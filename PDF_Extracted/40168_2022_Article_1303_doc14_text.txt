@@ -1,0 +1,13 @@
+# Zhao et al. Microbiome (2022) 10:115
+
+# Page 15 of 22
+
+|Cell Type|M-CON| |M-DSS|Y-CON| |Y-DSS| | | |
+|---|---|---|---|---|---|---|---|---|---|
+|Min pig|Yorkshire pig|Min pig|Yorkshire pig|Min pig|Yorkshire pig|Min pig|Yorkshire pig| | |
+|CD4+ T cells|0.26|0.18|0.16|0.14|0.20|0.18|0.16|0.14| |
+|CD8+ T cells|0.10|0.12|0.14|0.12|0.14|0.12|0.14|0.12| |
+|IgA+ B cells|0.17| |0.16|0.15|0.14|0.13|0.12|0.14|0.12|
+|MAC387+ Macrophage|0.18| |0.16|0.14|0.14|0.12|0.12|0.14|0.12|
+
+Fig. 8 (See legend on previous page.)

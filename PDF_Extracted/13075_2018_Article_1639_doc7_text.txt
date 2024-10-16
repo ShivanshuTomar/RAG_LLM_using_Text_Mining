@@ -1,0 +1,18 @@
+# Regner et al. Arthritis Research & Therapy
+
+# (2018) 20:149
+
+# Page 8 of 13
+
+| |HC|CD|UC|axSpA|
+|---|---|---|---|---|
+|0.06|100|Firmcutes /Clstridia; 'ILachnospiraceae|Firmcutes /Clostridia; '{Famly-XI-Incertae-Sedi|Firmcutes /Clstridia; ,Rumnococcaceae|
+| |Bacteroidetes Bacteroidia/. IPrevotellaceae|Bacteroidetes Bacteroidial. _ IBacteroidaceae|Firmcutes Negativicutes .. Neillonel aceac|Bacteroidetes Bacteroidial. _ Porphyromonadaceae|
+|1|Proteobacteria /Gammaproteobacteria/ . IEnterobacteriaceae|Proteobacteria/Epsilonproteobacteria/.-. ICampylobacteraceae|Actinobacteria/Actinobacteria/ . (Efidobacteriaceae|Actinobacteria/Actinobacteria/ . (Corynebacteriaceae|
+| |Firncutes/Bacill . Streptococcaceae| | | |
+
+Fig. 3 Microbial community comparisons in individuals with inflammatory bowel disease (IBD) and axial spondyloarthritis (axSpA). Bacterial DNA from fecal swabs from patients (cases) and controls were sequenced for 16S rRNA and analyzed. a The percent abundance of the top operational taxonomic unit (OTU) families were compared across subject groups. Differences in the overall composition of microbial communities were determined by permutation-based multiple analysis of variance. b–d Pairwise comparisons of OTUs between disease states and controls were performed using the Wilcoxon rank-sum test. The mean relative abundance ± SEM for each OTU that was statistically significant (p < 0.05) is shown for Crohn’s disease (CD) (b), ulcerative colitis (UC) (c), and axSpA (d). HC, healthy controls.
+
+confirm this hypothesis. It has been previously established examined associations between disease type and that in enterogenic SpA, activated T cells originating in inflamed intestinal mucosa develop non-gut-specific adhesion ligands, including synovial ligands, leading to homing of activated T cells from gut into synovium and perpetuating joint inflammation [38, 39]. Unfortunately, our study was not designed to evaluate peripheral blood phenotypes in parallel with mucosal phenotypes. Certainly, additional studies are warranted to validate our findings and support our suggestion that IELs traffic systemically in axSpA.
+
+Because we hypothesized that subjects with axSpA and IBD would exhibit functional changes in IELs, we increased IL-17A and IFN-γ within the CD cohort.

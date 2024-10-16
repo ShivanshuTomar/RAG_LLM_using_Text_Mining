@@ -1,0 +1,39 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Subgroup and sensitivity analyses
+
+In the previous version of this review, we planned for subgroup analyses based on age of participants and frequency of FMT administration; however, there were not enough studies available to perform these subgroup analyses. In this update, we attempted subgroup analyses based on these two variables.
+
+Given that we performed an ITT analysis, which included randomized participants who may not have received the intervention and completed follow-up, we also performed post-hoc available case analyses for the primary outcomes in which only those participants were included who completed follow-up.
+
+We updated the post-hoc analysis conducted in the last version of the review for studies that defined induction of remission using a combination of clinical and endoscopic/histologic criteria.
+
+# I N D E X T E R M S
+
+# Medical Subject Headings (MeSH)
+
+- *Colitis, Ulcerative [drug therapy]
+- *Crohn Disease [drug therapy]
+- Dysbiosis
+- Fecal Microbiota Transplantation
+- *Inflammatory Bowel Diseases
+- Quality of Life
+- Remission Induction
+
+# MeSH check words
+
+- Adult
+- Child
+- Humans
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

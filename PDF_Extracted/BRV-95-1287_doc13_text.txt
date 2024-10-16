@@ -1,0 +1,29 @@
+# Parental cell manipulation
+
+# Metabolic labeling
+
+# Genetic engineering
+
+# Cell surface modification
+
+# Cell endocytosis
+
+# Exosomal surface manipulation
+
+|Unmodified exosomes|Covalent modification|Other surface chemistry|Hydrophobic insertion|
+|---|---|---|---|
+|Modified exosomes| | | |
+
+Fig 5 Functional modification of exosomes for use in therapeutic applications. The manipulation of exosomes can be classified into three broad groups: modification of cells before they secrete the exosomes; direct modification of exosomes; and a combination of cellular and exosomal manipulation techniques. The final product could elicit enhanced target specificity and improved therapeutic efficacy.
+
+to overexpress TGF-β1. Exosomes derived from these cells exhibited a strong immunosuppressive capacity by impairing Th1 and IL-17 responses, while promoting IL-10 responses (Yu et al., 2013).
+
+Lymphangiogenesis plays an important role in the pathogenesis of IBD, and vascular endothelial growth factor-C (VEGF-C) is a strong factor promoting lymphangiogenesis. Adipose-derived stem cell exosomes preconditioned with VEGF-C trigger significantly higher levels of miR-132 in exosomes. Treatment of lymphatic endothelial cells (LECs) with the VEGF-C-modified exosomes led to enhanced LEC migration, proliferation and increased tube formation compared with unmodified exosomes (Wang et al., 2018). The same study demonstrated that miR-132 promotes lymphangiogenic responses via direct targeting of mothers against decapentaplegic homolog 7 protein (Smad-7) and regulation of TGF-β/Smad signalling (Wang et al., 2018). Further studies on the mechanisms and molecules involved in this process could lead to novel approaches to IBD treatment.
+
+Modified exosome-like vesicles from food have also been applied in IBD treatment. Modified grapefruit-derived nanovectors sufficiently targeted inflammatory sites with enhanced chemotherapeutic effects as indicated by inhibition of inflammatory effects in DSS-induced mouse colitis and prevention of tumour growth (Wang et al., 2015a). Engineered embelin lipid nanospheres show positive treatment outcomes in acetic acid-induced UC (Badamaranahalli et al., 2015). In this case, soya bean oil/virgin coconut oil was used as a liquid lipid carrier and soya/egg lecithin as a stabilizer to engineer vesicles via hot homogenization followed by ultrasonication. In addition to the confirmed improved histopathology of colonic tissues, expression levels of MPO, lipid peroxidation (LPO) and lactate dehydrogenase (LDH) were decreased while that of GSH increased, implying a better treatment outcome (Badamaranahalli et al., 2015). Zhang et al. (2017) developed a novel small interfering RNA (siRNA) delivery system which was used to load siRNA-CD98 into ginger-derived nanoparticles. Oral administration of the engineered vesicles efficiently and specifically targeted colon tissues and reduced expression levels of CD98 (Zhang et al., 2017).
+
+# X. EXOSOMES AS NANOCARRIERS
+
+Over recent years, nanobased drug-delivery systems have gained considerable importance. Different techniques have been employed to enhance the therapeutic efficacy of biomolecular and chemical drugs. In addition to delivering
+
+Biological Reviews 95 (2020) 1287–1307 © 2020 The Authors. Biological Reviews published by John Wiley & Sons Ltd on behalf of Cambridge Philosophical Society.

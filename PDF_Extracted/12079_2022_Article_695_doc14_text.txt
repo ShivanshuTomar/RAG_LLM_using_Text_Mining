@@ -1,0 +1,48 @@
+# Role of interleukin-6-mediated inflammation in the pathogenesis of inflammatory bowel disease
+
+is not limited to reducing IL-6 and can affect other inflammatory mediators and improve the mucosal barrier.
+
+# Acknowledgements
+
+Mashhad University of Medical Sciences supported this study.
+
+# Declarations
+
+# Conflict of interest
+
+None.
+
+# References
+
+1. Ahluwalia B, Moraes L, Magnusson MK, Öhman L (2018) Immunopathogenesis of inflammatory bowel disease and mechanisms of biological therapies. Scand J Gastroenterol 53(4):379–389
+2. Ananthakrishnan AN (2015) Epidemiology and risk factors for IBD. Nat Rev Gastroenterol Hepatol 12(4):205–217
+3. Asensi V, Valle E, Meana A, Fierer J, Celada A, Alvarez V, Paz J, Coto E, Carton JA, Maradona JA (2004) In vivo interleukin-6 protects neutrophils from apoptosis in osteomyelitis. Infect Immun 72(7):3823–3828
+4. Atreya R, Mudter J, Finotto S, Müllberg J, Jostock T, Wirtz S, Schütz M, Bartsch B, Holtmann M, Becker C (2000) Blockade of interleukin 6 trans signaling suppresses T-cell resistance against apoptosis in chronic intestinal inflammation: evidence in Crohn disease and experimental colitis in vivo. Nat Med 6(5):583–588
+5. Atreya R, Neurath M (2008) New therapeutic strategies for treatment of inflammatory bowel disease. Mucosal Immunol 1(3):175–182
+6. Barnes TC, Anderson ME, Moots RJ (2011) The many faces of interleukin-6: the role of IL-6 in inflammation, vasculopathy, and fibrosis in systemic sclerosis. Int J Rheumatol. https://doi.org/10.1155/2011/721608
+7. Becker C, Dornhoff H, Neufert C, Fantini MC, Wirtz S, Huebner S, Nikolaev A, Lehr H-A, Murphy AJ, Valenzuela DM (2006) Cutting edge: IL-23 cross-regulates IL-12 production in T cell-dependent experimental colitis. J Immunol 177(5):2760–2764
+8. Beltrán CJ, Núñez LE, Díaz-Jiménez D, Farfan N, Candia E, Heine C, López F, González MJ, Quera R, Hermoso MA (2010) Characterization of the novel ST2/IL-33 system in patients with inflammatory bowel disease. Inflamm Bowel Dis 16(7):1097–1107
+9. Bettelli E, Carrier Y, Gao W, Korn T, Strom TB, Oukka M, Weiner HL, Kuchroo VK (2006) Reciprocal developmental pathways for the generation of pathogenic effector TH17 and regulatory T cells. Nature 441(7090):235–238
+10. Boe A, Baiocchi M, Carbonatto M, Papoian R, Serlupi-Crescenzi O (1999) Interleukin 6 knock-out mice are resistant to antigen-induced experimental arthritis. Cytokine 11(12):1057–1064
+11. Borghini R, Vescovo M, Giordano C, Donato G, Picarelli A (2021) Onset of suspected ulcerative colitis after treatment with tocilizumab in patient with celiac disease and juvenile idiopathic arthritis. Inflamm Bowel Dis 27(6):e76–e78
+12. Bouguen G, Chevaux J-B, Peyrin-Biroulet L (2011) Recent advances in cytokines: therapeutic implications for inflammatory bowel diseases. World J Gastroenterol: WJG 17(5):547
+13. Bradham C, McClay DR (2006) p38 MAPK in development and cancer. Cell Cycle 5(8):824–828
+14. Bray SJ (2006) Notch signalling: a simple pathway becomes complex. Nat Rev Mol Cell Biol 7(9):678–689
+15. Brzozowski B, Mazur-Bialy A, Pajdo R, Kwiecien S, Bilski J, Zwolinska-Wcislo M, Mach T, Brzozowski T (2016) Mechanisms by which stress affects the experimental and clinical inflammatory bowel disease (IBD): role of brain-gut axis. Curr Neuropharmacol 14(8):892–900
+16. Buonocore S, Ahern PP, Uhlig HH, Ivanov II, Littman DR, Maloy KJ, Powrie F (2010) Innate lymphoid cells drive interleukin-23-dependent innate intestinal pathology. Nature 464(7293):1371–1375
+17. Cai J, Zhang N, Zheng Y, De Wilde RF, Maitra A, Pan D (2010) The Hippo signaling pathway restricts the oncogenic potential of an intestinal regeneration program. Genes Dev 24(21):2383–2388
+18. Caiello I, Minnone G, Holzinger D, Vogl T, Prencipe G, Manzo A, De Benedetti F, Strippoli R (2014) IL-6 amplifies TLR mediated cytokine and chemokine production: implications for the pathogenesis of rheumatic inflammatory diseases. PLoS ONE 9(10):e107886
+19. Calabrese LH, Rose-John S (2014) IL-6 biology: implications for clinical targeting in rheumatic disease. Nat Rev Rheumatol 10(12):720–727
+20. Cao J, Zhang H, Yang Z, Zhao J, Ma H (2020) Effect of dehydroepiandrosterone on the immune response and gut microbiota in dextran sulfate sodium-induced colitis mice. Mol Immunol 118:60–72
+21. Cao Q, Lin Y, Yue C, Wang Y, Quan F, Cui X, Bi R, Tang X, Yang Y, Wang C (2021) IL-6 deficiency promotes colitis by recruiting Ly6Chi monocytes into inflamed colon tissues in a CCL2-CCR2-dependent manner. Eur J Pharmacol 904:174165
+22. Chen W, Yuan H, Cao W, Wang T, Chen W, Yu H, Fu Y, Jiang B, Zhou H, Guo H (2019) Blocking interleukin-6 trans-signaling protects against renal fibrosis by suppressing STAT3 activation. Theranostics 9(14):3980
+23. Chen Y, Chen H, Ding J, Stanton C, Ross RP, Zhao J, Zhang H, Yang B, Chen W (2021) Bifidobacterium longum ameliorates dextran sulfate sodium-induced colitis by producing conjugated linoleic acid, protecting intestinal mechanical barrier, restoring unbalanced gut Microbiota, and regulating the toll-like receptor-4/Nuclear Factor-κB signaling pathway. J Agric Food Chem 69(48):14593–14608
+24. Choi JS, Kim K-H, Lau LF (2015) The matricellular protein CCN1 promotes mucosal healing in murine colitis through IL-6. Mucosal Immunol 8(6):1285–1296
+25. Chonov DC, Ignatova MMK, Ananiev JR, Gulubova MV (2019) IL-6 activities in the tumour microenvironment. Part 1. Open Access Macedonian J Med Sci 7(14):2391
+26. Clarke WT, Feuerstein JD (2019) Colorectal cancer surveillance in inflammatory bowel disease: practice guidelines and recent developments. World J Gastroenterol 25(30):4148
+27. Coskun M, Vermeire S, Nielsen OH (2017) Novel targeted therapies for inflammatory bowel disease. Trends Pharmacol Sci 38(2):127–142
+28. Dai Y, Jiao H, Teng G, Wang W, Zhang R, Wang Y, Hebbard L, George J, Qiao L (2014) Embelin reduces colitis-associated tumorigenesis through limiting IL-6/STAT3 signaling. Mol Cancer Ther 13(5):1206–1216
+29. Danese S, Vermeire S, Hellstern P, Panaccione R, Rogler G, Fraser G, Kohn A, Desreumaux P, Leong RW, Comer GM (2019) Randomised trial and open-label extension study of an anti-interleukin-6 antibody in Crohn’s disease (ANDANTE I and II). Gut 68(1):40–48
+30. De Souza HS, Fiocchi C (2016) Immunopathogenesis of IBD: current state of the art. Nat Rev Gastroenterol Hepatol 13(1):13–27
+31. Deiana M, Serra G, Corona G (2018) Modulation of intestinal epithelium homeostasis by extra virgin olive oil phenolic compounds. Food Funct 9(8):4085–4099
+32. Deng J, Zhao L, Yuan X, Li Y, Shi J, Zhang H, Zhao Y, Han L, Wang H, Yan Y (2022) Pre-administration of berberine exerts chemopreventive effects in aom/dss-induced colitis-associated carcinogenesis mice via modulating inflammation and intestinal microbiota. Nutrients 14(4):726

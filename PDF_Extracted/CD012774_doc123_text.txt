@@ -1,0 +1,55 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Analysis 4.1. Comparison 4: Fecal microbiota transplantation (FMT) versus control for maintenance of remission in Crohn's disease (CD), Outcome 1: Maintenance of clinical remission in CD
+
+|Study or Subgroup|FMT Events|FMT Total|Control Events|Control Total|Weight|Risk Ratio M-H, Fixed, 95% CI|Risk Ratio M-H, Fixed, 95% CI|
+|---|---|---|---|---|---|---|---|
+|Sokol 2020 (1)|4|11|3|10|100.0%|1.21 [0.36 , 4.14]| |
+|Total (95% CI)| |11| |10|100.0%|1.21 [0.36 , 4.14]| |
+
+Total events: 4
+
+Heterogeneity: Not applicable
+
+Test for overall effect: Z = 0.31 (P = 0.76)
+
+Test for subgroup differences: Not applicable
+
+# Footnotes
+
+(1) Maintenance identified at week 24.
+
+# Analysis 4.2. Comparison 4: Fecal microbiota transplantation (FMT) versus control for maintenance of remission in Crohn's disease (CD), Outcome 2: Withdrawals in studies on maintenance of remission in CD
+
+|Study or Subgroup|FMT Events|FMT Total|Control Events|Control Total|Weight|Risk Ratio M-H, Fixed, 95% CI|Risk Ratio M-H, Fixed, 95% CI|
+|---|---|---|---|---|---|---|---|
+|Sokol 2020|6|11|4|10|100.0%|1.36 [0.54 , 3.46]| |
+|Total (95% CI)| |11| |10|100.0%|1.36 [0.54 , 3.46]| |
+
+Total events: 6
+
+Heterogeneity: Not applicable
+
+Test for overall effect: Z = 0.65 (P = 0.51)
+
+Test for subgroup differences: Not applicable
+
+# A D D I T I O N A L T A B L E S
+
+# Table 1. Microbiome outcomes
+
+|Study|Primary disease addressed|Sequencing platform|Alpha diversity|Beta diversity|Notable bacterial taxonomic profiles|Methods and main findings of microbiome analysis|
+|---|---|---|---|---|---|---|
+|Moayyedi 2015|UC|MiSeq Illumina|Not reported|Beta diversity (Bray-Curtis dissimilarity) was calculated using the Phyloseq R package.|Relative abundance and taxonomic profiles were computed using Quantitative Insights Into Microbial Ecology.|The study authors sequenced the V3 region of the 16S rRNA gene using MiSeq Illumina technology. QIIME and the Phyloseq R package was used for curation of data and in-depth microbiota analyses. This study compared the microbiota of several different donors. Moreover, the authors compared the microbiota of FMT recipients during the time course of the study following FMT. Finally, responders and non-responders microbiota were compared. Microbiota structure analyses utilizing.|
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

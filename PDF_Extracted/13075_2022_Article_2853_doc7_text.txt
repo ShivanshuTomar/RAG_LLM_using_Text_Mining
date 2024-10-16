@@ -1,0 +1,37 @@
+# Sternes et al. Arthritis Research & Therapy (2022) 24:163
+
+# Taxa
+
+|Taxa|g|0.01|0.01|0.01|
+|---|---|---|---|---|
+|Bacteria;p Actinobacteria;c_ Actinobacteria;o Actinomycetales;f Actinomycetaceae;g Actinomyces|0.01|O-UI|0.01|0.01|
+|Bacteria;p Actinobacteria;c Actinobacteria;o Actinomycetales;f Micrococcaceae;g Rothia|0.02| |00| |
+|Bacteria;p Bacteroidetes;c_ Bacteroidia;o Bacteroidales;f Barnesiellaceae;g|0.03|0.03|0.04| |
+|Bacteria;p Bacteroidetes;c Bacteroidia;o Bacteroidales;f Odoribacteraceae;g Butyricimonas|0.03|0.02| | |
+|Bacteria;p Bacteroidetes;c_ Bacteroidia;o_ Bacteroidales;f_ Rikenellaceae;g Alistipes|0.08|0.06|0.02| |
+|Bacteria;p Firmicutes;c Bacilli;o Lactobacillales;f_ Carnobacteriaceae;g|0.02|0.01| | |
+|Bacteria;p Firmicutes;c_ Bacilli;o_ Lactobacillales;f_ Streptococcaceae;g Streptococcus|0.12|0.12|0.12|0.03|
+|Bacteria;p Firmicutes;c Clostridia;o_ Clostridiales;f|0.10|0.108| | |
+|Bacteria;p Firmicutes;c_ Clostridia;o_ Clostridiales;f_ Lachnospiraceae;g|0.04|0.11| | |
+|Bacteria;p Firmicutes;c Clostridia;o_ Clostridiales;f Lachnospiraceae;g Lachnospira|0.05|0.02| | |
+|Bacteria;p Firmicutes;c Clostridia;o Clostridiales;f Lachnospiraceae;g Roseburia|0.09|0.05| | |
+|Bacteria;p Firmicutes;c Clostridia;o Clostridiales;f Ruminococcus|0.05|0.08|0.02|0.06|
+|Bacteria;p Firmicutes;c Clostridia;o Clostridiales;f Peptostreptococcaceae;g|0.06|0.04| | |
+|Bacteria;p Firmicutes;c Clostridia;o_ Clostridiales;f Ruminococcaceae;g|0.04|0.05|0.02| |
+|Bacteria;p Firmicutes;c Clostridia;o Clostridiales;f Ruminococcaceae;g Faecalibacterium|0.14| |0.09| |
+|Bacteria;p Firmicutes;c_ Clostridia;o_ Clostridiales;f Ruminococcaceae;g Gemmiger|0.04|0.03|0.01| |
+|Bacteria;p Firmicutes;c Clostridia;o Clostridiales;f Veillonellaceae;g Megasphaera|0.04|0.02| | |
+|Bacteria;p Firmicutes;c_ Clostridia;o_ Clostridiales;f_ Veillonellaceae;g Veillonella|0.04|0.04|0.03| |
+|Bacteria;p Fusobacteria;c Fusobacteriia;o Fusobacteriales;f Fusobacteriaceae;g Fusobacterium|0.09|0.11|0.07|0.04|
+|Bacteria;p Proteobacteria;c_ Alphaproteobacteria;o_ RF32;f_|0.02| |0.03| |
+|Bacteria;p Proteobacteria;c_ Deltaproteobacteria;o Desulfovibrionales;f Desulfovibrionaceae;g Bilophila|0.03| |0.01| |
+|Bacteria;p Proteobacteria;c Gammaproteobacteria;o_ Enterobacteriales;f Enterobacteriaceae;g Shigella|0.07|0.09|0.16| |
+|Bacteria;p Proteobacteria;c Gammaproteobacteria;0 Pasteurellales;f Pasteurellaceae;g Haemophilus|0.10|0.06|0.05|0.03|
+
+Fig. 5 Bacterial genera significantly associated (p < 0.05) with multiple clinical attributes. The numbered boxes correspond to the abundance coefficient, with enrichment displayed in green and depletion displayed in red.
+
+Careful consideration is required when interpreting AS microbiome studies in isolation, and future meta-analysis of multiple cohorts is likely to require standardised recruitment and sampling protocols.
+
+Disease activity, measured by BASDAI and FCP, was found to correlate with microbiome composition for both Australian AS and IBD patients (Figs. 3 and 4), indicating that therapies which serve to normalise the microbiome may be useful in strategy for patient treatment. Association between disease activity assessed by BASDAI and the stool microbiome has also been reported in a study using 16S ribosomal RNA amplicon sequencing of colonic mucosal samples from patients with spondyloarthritis [22], and normalisation of the gut microbiome in patients with AS on TNF-inhibitors and suppressed disease activity was detected in stool samples via shotgun sequencing [24]. IBD patients with elevated FCP exhibited an increase in alpha diversity, potentially highlighting an increase in inflammatory genera. Consistent with previous results, elevated FCP was also correlated with a depletion of Faecalibacterium, a bacterial genus with known anti-inflammatory properties. Interestingly, these genera were not correlated with elevated FCP in AS patients highlighting differences between the microbiomes associated with these diseases (Fig. 5). The correlation between FCP and microbiome composition was not reflected in Swedish AS patients; similarly, the correlation between BASDAI and microbiome composition was notably weaker. The stronger results for the Australian cohort may be due to the use of intestinal biopsies which captured the mucosal microbiome interfacing with the immune system, as opposed to stool samples which retain a relatively low level of mucosal microbiome amongst a background of transient luminal microbiome.
+
+Comparison of the bacterial genera significantly associated with at least two of the following disease categories was performed: AS patients, AS-IBD patients, IBD patients, patients with increased BASDAI, and AS or IBD patients with elevated FCP (>100 μg/mg) (Fig. 5). Consistent with the observed microbiome differences between AS and IBD patients, many of the differentially abundant genera were not consistent between AS and IBD, except for enrichment of two potentially pathogenic genera, Haemophilus and Streptococcus. Interestingly, enrichment of Haemophilus was also associated with increased BASDAI and IBD patients with elevated FCP. Case reports have suggested that Haemophilus sp. are associated with reactive arthritis [37–39]. Similarly, it is well established.

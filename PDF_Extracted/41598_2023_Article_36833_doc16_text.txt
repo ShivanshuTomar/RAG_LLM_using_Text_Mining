@@ -1,0 +1,50 @@
+# Figure 6. Machine learning-based identification and validation of potential shared specific genes.
+
+|A|4 − 0.955|B| |C|14|D|
+|---|---|---|---|---|---|---|
+| |3| | | | | |
+|Sensitivity (%)|5 x CV Accuracy|Expression|0.88|0.90|0.92|0.94|
+| |20|40|60|80|100| |
+
+|Number of Features|Log Lambda|Log ( λ)|
+|---|---|---|
+|2|−8|−6|
+|4|−4|−2|
+|6| | |
+|8| | |
+|10| | |
+|12| | |
+|14| | |
+
+|F|RA Training|RA Group|normal|
+|---|---|---|---|
+|G|Group CD|normal|CD|
+|H|Group UC|normal|UC|
+|I|RA Validation|Group|normal|
+
+|Coefficients|Sensitivity (%)|Expression| | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|
+|−0.1|0.0|0.1|0.2|0.3| | | | | |
+|0|20|40|60|80|100| | | | |
+
+|J|RA Training|
+|---|---|
+|K|CD|
+|L|UC|
+|M|RA Validation|
+
+|Expression|Mean−Squared Error|Sensitivity (%)| | |
+|---|---|---|---|---|
+|0.05|0.10|0.15|0.20|0.25|
+| |CXCL10−AUC:98.7%(CI: 96.44%−100%)|CXCL10−AUC:82.3%(CI: 68.4%−96.19%)|CXCL10−AUC:71.08%(CI: 55.94%−86.21%)|CXCL10−AUC:85.71%(CI: 69.69%−100%)|
+| |DUOX2−AUC:81.09%(CI: 67.73%−94.45%)|DUOX2−AUC:99.69%(CI: 98.83%−100%)|DUOX2−AUC:99.24%(CI: 97.8%−100%)|DUOX2−AUC:64.29%(CI: 28.87%−99.7%)|
+| |CCL18−AUC:93.91%(CI: 87.58%−100%)|CCL18−AUC:80.12%(CI: 64.17%−96.08%)|CCL18−AUC:76.56%(CI: 61.8%−91.31%)|CCL18−AUC:82.14%(CI: 64.52%−99.76%)|
+
+| |Specificity (%)|Specificity (%)|Specificity (%)|Specificity (%)| | | | | |
+|---|---|---|---|---|---|---|---|---|---|
+| | |100|80|60|40|20|0| | |
+| | |100|80|60|40|20|0| | |
+| | |100|80|60|40|20|0| | |
+| | |100|80|60|40|20|0| | |
+
+(****P &lt; 0.0001; ***P &lt; 0.001; **P &lt; 0.01; *P &lt; 0.05).

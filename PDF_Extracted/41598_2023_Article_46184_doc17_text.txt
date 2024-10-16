@@ -1,0 +1,36 @@
+# References
+
+1. Freeman, L. C. A set of measures of centrality based on betweenness. Sociometry 40, 35–41 (1977).
+2. Newman, M. E. J. Modularity and community structure in networks. Proc. Natl. Acad. Sci. 103, 8577–8582 (2006).
+3. Blondel, V. D., Guillaume, J.-L., Lambiotte, R. & Lefebvre, E. Fast unfolding of communities in large networks. J. Stat. Mech. Theory Exp. 2008, P10008 (2008).
+4. Hall, C. V. et al. Co-existence of network architectures supporting the human gut microbiome. Iscience 22, 380–391 (2019).
+5. Lancichinetti, A. & Fortunato, S. Community detection algorithms: A comparative analysis. Phys. Rev. E 80, 56117 (2009).
+6. Newman, M. E. J. Analysis of weighted networks. Phys. Rev. E 70, 56131 (2004).
+7. Fortunato, S. & Barthelemy, M. Resolution limit in community detection. Proc. Natl. Acad. Sci. 104, 36–41 (2007).
+8. Aldecoa, R. & Marín, I. Surprise maximization reveals the community structure of complex networks. Sci. Rep. 3, 1–9 (2013).
+
+# Author contributions
+
+Conceptualization, G.C., T.G. and M.H.; methodology, G.C., T.G. and M.H.; software, M.H. and T.G.; validation, M.H. and T.G.; formal analysis, M.H.; investigation, M.H.; resources, M.H.; data curation, M.H.; writing—original draft preparation, M.H.; writing—review and editing, T.G. and G.C.; visualization, M.H.; supervision, M.H., T.G. and G.C.; project administration, G.C.; funding acquisition, G.C. All authors have read and agreed to the published version of the manuscript.
+
+# Competing interests
+
+The authors declare no competing interests.
+
+# Additional information
+
+The online version contains supplementary material available at https://doi.org/10.1038/s41598-023-46184-y.
+
+Correspondence and requests for materials should be addressed to G.C.
+
+Reprints and permissions information is available at www.nature.com/reprints.
+
+# Publisher’s note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+# Open Access
+
+This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+
+© The Author(s) 2023

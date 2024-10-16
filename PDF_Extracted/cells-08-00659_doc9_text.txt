@@ -1,0 +1,19 @@
+# 5.2. Impact of Intestinal Microbiota on Stress Responsiveness
+
+Appropriate physiological responses to stress and/or immunity are necessary for survival. As such, aberrant responsiveness can be detrimental to the host, leading to the development of chronic disorders, including IBD [106] and brain disorders [107].
+
+# 5.2.1. Preclinical Studies
+
+Preclinical studies using germ-free animals, specific pathogen-free animals, and animals exposed to pathogens, probiotics or antibiotics have been performed to better understand how gut microbiota can regulate stress response, cognition, and behavior [28]. Previously, it has become clear that intestinal colonization with conventional microbiota at an early developmental stage is important for stress responsiveness in adult mice [108]. This study showed that the HPA stress response was exaggerated in the absence of normal gut microbiota reconstitution, whereas it could be partially corrected by reconstitution of feces from specific pathogen-free mice at an early, but not at a later stage. In line with these results, other murine studies demonstrated the influence of conventional gut microbiota on the development of behavior [109, 110], and showed that this effect occurred along with neurochemical changes in the brain [109]. Another study based on a rat model of acute psychological stress demonstrated that the probiotic Lactobacillus farciminis reduced intestinal leakiness, thereby decreasing plasma levels of lipopolysaccharides, and consequently, diminishing the HPA axis response to stress. Moreover, by reducing stress-induced plasma corticosterone levels, Bravo et al. [111] showed that the probiotic Lactobacillus rhamnosus was able to reduce the stress response as well as anxiety-related behaviors and cognition in mice. Furthermore, it has been shown that the combination of probiotics, such as Lactobacillus helveticus and Bifidobacterium longum, resulted in a reduction of anxiety-like behaviors in rodents [112, 113].
+
+# 5.2.2. Clinical Studies
+
+Messaoudi et al. [112] also validated their preclinical findings in healthy human volunteers. Their findings suggested that probiotic formulation attenuated psychological distress in healthy volunteers, which may be linked to decreased urinary free cortisol levels [112]. In agreement with these data, a randomized, double-blind, placebo-controlled trial suggested that the administration of probiotics helped in reducing anxiety-like behavior among patients with chronic fatigue syndrome [114]. Altogether, these data further confirm that the intestinal microbiota plays a role in controlling stress responsiveness, behavior, and cognition.
+
+# 5.3. Stress and Its Impact on Inflammation
+
+While not having discussed in detail yet, the impact of stress on the immune system appears to be quite complex. Depending on the type of stress (short-term or chronic) and/or hormones being released, a stressor may either suppress or enhance immune function [115].
+
+# 5.3.1. Preclinical Studies
+
+Several preclinical studies have shown that short-term stress induces significant changes in absolute numbers and composition of blood leukocytes [116, 117]. Likewise, short-term stress was shown to increase the circulating levels of interleukin-6 (IL6) and pro-inflammatory monocyte chemotactic protein-1 (MCP1/CCL2) [118]. These findings were also further confirmed by others showing that social disruption reduced microbial diversity and richness in mice, which correlated with increased circulating levels of the pro-inflammatory cytokines MCP1 and IL6 [88]. Relevantly, based on data demonstrating that administration of antibiotics was able to abolish social stress-mediated increases in pro-inflammatory cytokines [88], it is likely that intestinal microbiota plays a role in stressor-induced pro-inflammatory responses.

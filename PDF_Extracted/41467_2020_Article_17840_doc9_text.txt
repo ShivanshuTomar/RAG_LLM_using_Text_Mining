@@ -1,0 +1,68 @@
+# ARTICLE
+
+# Reporting summary
+
+Further information on experimental design is available in the Nature Research Reporting Summary linked to this paper.
+
+# Data availability
+
+All relevant data supporting the key findings of this study are available within the article and its Supplementary Information files. Data underlying Fig. 5c and Supplementary Fig. 2 are provided as a Source data file. Data underlying all the other figures are provided in Supplementary Data and data repositories: LifeLines-Deep cohort [https://www.ebi.ac.uk/ega/datasets/EGAD00001001991], 1000 IBD cohort [https://www.ebi.ac.uk/ega/datasets/EGAD00001004194], 300OB cohort [https://ega-archive.org/dacs/EGAC00001001143], and 500FG cohort [https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA319574]. The iHMP data are available via https://ibdmdb.org/tunnel/public/summary.html. Due to informed consent regulation, the data sets of the Lifelines-DEEP, IBD, 300OB and 500FG cohorts are available upon request to the University Medical Center of Groningen (UMCG), Lifelines and Radboud University Medical Center, respectively. This includes the submission of a letter of intention to the corresponding data access committee [the Lifelines Data Access Committee for the LifeLines-DEEP data (Jackie Dekens, e-mail: j.a.m.dekens@umcg.nl), 1000 IBD Data access Committee UMCG for the IBD data (Melinde E. Wijers, e-mail: m.e.wijers@umcg.nl) and the Human Functional Genomics Data Access Committee for 500FG and 300OB data (Martin Jaeger, e-mail: Martin.Jaeger@radboudumc.nl)]. Data sets can be made available under a data transfer agreement and the data usage access is subject to local rules and regulations. Source data are provided with this paper.
+
+# Code availability
+
+For this study, the following software was used: kneadData (v0.4.6.1), Bowtie2 (v2.1.0), MetaPhlAn2 (v2.7.2), HUMAnN2 (v0.10.0), SparCC Python package, R (v3.5.2), SpiecEasi R package (v1.0.6), and meta R package (v4.9.5). Code used for generating the microbial abundance profiles is publicly available at https://github.com/GRONINGEN-MICROBIOME-CENTRE/Groningen-Microbiome/blob/master/Scripts/Metagenomics_pipeline_v1.md. Code used for the statistical analyses is publicly available at https://github.com/GRONINGEN-MICROBIOME-CENTRE/Groningen-Microbiome/tree/master/Projects/Microbial%20co-abundance%20network. Source data are provided with this paper.
+
+# Received
+
+6 December 2019; Accepted: 20 July 2020; Published online: August 2020
+
+# References
+
+1. Chen, L. M., Garmaeva, S., Zhernakova, A., Fu, J. Y. & Wijmenga, C. A system biology perspective on environment-host-microbe interactions. Hum. Mol. Genet. 27, R187–R194 (2018).
+2. Falony, G. et al. Population-level analysis of gut microbiome variation. Science 352, 560–564 (2016).
+3. Zhernakova, A. et al. Population-based metagenomics analysis reveals markers for gut microbiome composition and diversity. Science 352, 565–569 (2016).
+4. Lloyd-Price, J. et al. Strains, functions and dynamics in the expanded Human Microbiome Project. Nature 550, 61–66 (2017).
+5. Kurilshikov, A., Wijmenga, C., Fu, J. & Zhernakova, A. Host genetics and gut microbiome: challenges and perspectives. Trends Immunol. 38, 633–647 (2017).
+6. Wu, H. et al. Metformin alters the gut microbiome of individuals with treatment-naive type 2 diabetes, contributing to the therapeutic effects of the drug. Nat. Med. 23, 850–858 (2017).
+7. Grasset, E. et al. A specific gut microbiota dysbiosis of type 2 diabetic mice induces GLP-1 resistance through an enteric NO-dependent and gut-brain axis mechanism. Cell Metab. 26, 278 (2017).
+8. Fu, J. et al. The gut microbiome contributes to a substantial proportion of the variation in blood lipids. Circ. Res. 117, 817–824 (2015).
+9. Jie, Z. et al. The gut microbiome in atherosclerotic cardiovascular disease. Nat. Commun. 8, 845 (2017).
+10. Liu, R. et al. Gut microbiome and serum metabolome alterations in obesity and after weight-loss intervention. Nat. Med. 23, 859–868 (2017).
+11. Bouter, K. E., van Raalte, D. H., Groen, A. K. & Nieuwdorp, M. Role of the gut microbiome in the pathogenesis of obesity and obesity-related metabolic dysfunction. Gastroenterology 152, 1671–1678 (2017).
+12. Halfvarson, J. et al. Dynamics of the human gut microbiome in inflammatory bowel disease. Nat. Microbiol. 2, 17004 (2017).
+13. Imhann, F. et al. Interplay of host genetics and gut microbiota underlying the onset and clinical presentation of inflammatory bowel disease. Gut 67, 108–119 (2018).
+14. Vich Vila, A. et al. Gut microbiota composition and functional changes in inflammatory bowel disease and irritable bowel syndrome. Sci. Transl. Med. 10, eaap8914 (2018).
+15. Imhann, F. et al. Proton pump inhibitors affect the gut microbiome. Gut 65, 740–748 (2016).
+16. Mangalam, A. et al. Human gut-derived commensal bacteria suppress CNS inflammatory and demyelinating disease. Cell Rep. 20, 1269–1277 (2017).
+17. Petriz, B. A. & Franco, O. L. Metaproteomics as a complementary approach to gut microbiota in health and disease. Front. Chem. 5, 4 (2017).
+18. Rosshart, S. P. et al. Wild mouse gut microbiota promotes host fitness and improves disease resistance. Cell 171, 1015.E13–1028.E13 (2017).
+19. Surana, N. K. & Kasper, D. L. Moving beyond microbiome-wide associations to causal microbe identification. Nature 552, 244–247 (2017).
+20. Baumler, A. J. & Sperandio, V. Interactions between the microbiota and pathogenic bacteria in the gut. Nature 535, 85–93 (2016).
+21. Eickhoff, M. J. & Bassler, B. L. SnapShot: bacterial quorum sensing. Cell 174, 1328 (2018).
+22. Schirmer, M. et al. Linking the human gut microbiome to inflammatory cytokine production capacity. Cell 167, 1897 (2016).
+23. Berry, D. & Widder, S. Deciphering microbial interactions and detecting keystone species with co-occurrence networks. Front. Microbiol. 5, 219 (2014).
+24. Banerjee, S., Schlaeppi, K. & van der Heijden, M. G. A. Keystone taxa as drivers of microbiome structure and functioning. Nat. Rev. Microbiol. 16, 567–576 (2018).
+25. Faust, K. et al. Microbial co-occurrence relationships in the human microbiome. PLoS Comput. Biol. 8, e1002606 (2012).
+26. Xia, L. C., Ai, D., Cram, J., Fuhrman, J. A. & Sun, F. Efficient statistical significance approximation for local similarity analysis of high-throughput time series data. Bioinformatics 29, 230–237 (2013).
+27. Reshef, D. N. et al. Detecting associations in large data sets. Science 334, 1518–1524 (2011).
+28. Deng, Y. et al. Molecular ecological network analyses. BMC Bioinformatics 13, 113 (2012).
+29. Friedman, J. & Alm, E. J. Inferring correlation networks from genomic survey data. PLoS Comput. Biol. 8, e1002687 (2012).
+30. Faust, K. et al. Microbial co-occurrence relationships in the human microbiome. PLoS Comput. Biol. 8, e1002606 (2012).
+31. Biagi, E. et al. Gut microbiota and extreme longevity. Curr. Biol. 26, 1480–1485 (2016).
+32. Flemer, B. et al. Tumour-associated and non-tumour-associated microbiota in colorectal cancer. Gut 66, 633–643 (2017).
+33. Wang, J. et al. Dysbiosis of maternal and neonatal microbiota associated with gestational diabetes mellitus. Gut 67, 1614–1625 (2018).
+34. Gevers, D. et al. The treatment-naive microbiome in new-onset Crohn’s disease. Cell Host Microbe 15, 382–392 (2014).
+35. Yilmaz, B. et al. Microbial network disturbances in relapsing refractory Crohn’s disease. Nat. Med. 25, 323–336 (2019).
+36. Rottjers, L. & Faust, K. Can we predict keystones? Nat. Rev. Microbiol. 17, 193–193 (2019).
+37. Banerjee, S., Schlaeppi, K. & van der Heijden, M. G. A. Reply to ‘Can we predict microbial keystones?’. Nat. Rev. Microbiol. 17, 194–194 (2019).
+38. Kurtz, Z. D. et al. Sparse and compositionally robust inference of microbial ecological networks. PLoS Comput. Biol. 11, e1004226 (2015).
+39. Schirmer, M., Garner, A., Vlamakis, H. & Xavier, R. J. Microbial genes and pathways in inflammatory bowel disease. Nat. Rev. Microbiol. 17, 497–511 (2019).
+40. Musher, D. M. in Medical Microbiology 4th edn (ed. Baron, S.) Ch. 30 (The University of Texas Medical Branch at Galveston, Galveston, TX, 1996).
+41. Doyuk, E., Ormerod, O. J. & Bowler, I. C. J. W. Native valve endocarditis due to Streptococcus vestibularis and Streptococcus oralis. J. Infect. 45, 39–41 (2002).
+42. Pimenta, F. et al. Streptococcus infantis, Streptococcus mitis, and Streptococcus oralis strains with highly similar cps5 loci and antigenic relatedness to serotype 5 pneumococci. Front. Microbiol. 9, 3199 (2018).
+43. Niu, C. S. et al. Decrease of plasma glucose by allantoin, an active principle of yam (Dioscorea spp.), in streptozotocin-induced diabetic rats. J. Agric. Food Chem. 58, 12031–12035 (2010).
+44. Tsai, C. C. et al. Allantoin activates imidazoline I-3 receptors to enhance insulin secretion in pancreatic beta-cells. Nutr. Metab. 11, 41 (2014).
+45. Marlier, J. F., Cleland, W. W. & Zeczycki, T. N. Oxamate is an alternative substrate for pyruvate carboxylase from Rhizobium etli. Biochemistry 52, 2888–2894 (2013).
+46. Hall, V. Actinomyces–gathering evidence of human colonization and infection. Anaerobe 14, 1–7 (2008).
+47. Smith, E. & Morowitz, H. J. Universality in intermediary metabolism. Proc. Natl Acad. Sci. USA 101, 13168–13173 (2004).
+48. Fenn, K. et al. Quinones are growth factors for the human gut microbiota. Microbiome 5, 161 (2017).

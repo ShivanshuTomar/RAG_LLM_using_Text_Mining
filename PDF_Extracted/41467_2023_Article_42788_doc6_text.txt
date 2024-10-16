@@ -1,0 +1,25 @@
+# Article
+
+# Fig. 3 | Identification of IBD diagnostic markers by demonstrating variations of Kyoto Encyclopedia of Genes and Genomes (KEGG) orthology (KO) across different IBD cohorts.
+
+a The circular complex heatmap displays the 162 most significant KO genes (P < 1×10−12), as calculated using a two-sided Wilcoxon test with FDR-corrected P values in the cross-cohort analysis. The inner-circle heatmap shows the generalized fold change (gFC) values of these 162 KO genes, with red indicating enriched and blue indicating depleted in IBD. The outer-circle bar chart displays the p-values of 25 featured KO genes in each cohort used for modeling.
+
+b The IBD classification accuracy was measured using AUROC for classifiers trained on the KO genes abundance profiles. The classification accuracy was evaluated using 10-fold cross-validation within each cohort (gray boxes along the diagonal) and cohort-to-cohort model transfer (external validations off-diagonal).
+
+c The classification models accuracy, as evaluated by AUROC on a hold-out cohort, improves when functional data (KO genes) from all other cohorts are combined for training using leave-one-cohort-out (LOCO) validation, compared to models trained on data from a single cohort (cohort-to-cohort transfer). The error bars indicate the mean ± sd, n = 5. Source data are provided as a Source Data file.
+
+(Supplementary Fig. 3d). We also tested for FPR by analyzing other disease datasets, including adenoma, CRC and T2D. The FPR of these KO genes on non-IBD cohorts were also relatively low, with adenoma at 0.04, CRC at 0.13 and T2D at 0.07 (Supplementary Fig. 3e), indicating their excellent disease specificity.
+
+We also utilized the EggNOG orthologous gene classification method for diagnosing IBD (Supplementary Fig. 3f and Supplementary Table 4), but the accuracy of IBD detection was slightly lower compared to using the KO models. The AUROC values ranged from 0.63 to 0.80 for cohort-to-cohort transfer validation (Supplementary Fig. 3g) and from 0.65 to 0.92 in LOCO validation (Supplementary Fig. 3h). After considering the accuracy and interpretability of the results, we decided to use only the annotated results from the KO database in subsequent analyses.
+
+# Demonstration of Metabolomic Alterations across Different IBD Cohorts and Utilization of Signature Metabolites for IBD Diagnosis
+
+Intrigued by the intricate interplay between gut microbiota and host co-metabolism, we further sought to explore the spectrum of changes in fecal metabolites through metabolomics. Using targeted metabolomics, we examined the differences in fecal metabolites between IBD patients and healthy individuals (Fig. 4a). We performed Principal Coordinate Analysis (PCoA) and constructed Orthogonal Partial Least Squares Discriminant Analysis (OPLS-DA) models, revealing substantial differentiation in the metabolomic profiles between the two groups (Fig. 4b, c and Supplementary Fig, 4a, b). Our findings indicate that no particular group of metabolites was superior in distinguishing between patients with IBD and healthy individuals than the collective set of all metabolites (Supplementary Fig. 4c, d).
+
+To further understand the differences in metabolites between IBD patients and healthy controls, we performed a differential analysis and identified 78 metabolites (Fig. 4d and Supplementary Tables 5). Most of these metabolites were found to be enriched in IBD patients, with only a few being depleted. The majority of these differential metabolites belong to the three major nutrient metabolism categories, including amino acids, carbohydrates, and fatty acids. Notably, amino acids such as Tryptophan, Glutamine, Arginine, and 5-Hydroxytryptophan, Histidine were found to be enriched in the intestines of IBD patients, this is consistent with the results of the previous studies.
+
+Interestingly, we also observed that various organic acids related to the tricarboxylic acid cycle, such as Pyruvic acid, Fumaric acid, Malonic acid, and Oxoglutaric acid, were enriched in IBD patients, indicating abnormal energy metabolism of intestinal microbiota. Furthermore, among these 78 differential fecal metabolites, 36 are unique to the in-house dataset (Supplementary Fig. 4e), such as some amino acids (1-Methylhistidine, Acetylglycine, N-Acetylglutamine, N-Acetylserine, Dimethylglycine and 4-Hydroxyproline) and benzenoids (Phenylpyruvic acid, 3-Hydroxyphenylacetic acid, Protocatechuic acid and 3-Aminosalicylic acid). Especially, carnitines compounds and 1-Methylhistidine are biomarkers associated with meat consumption and its significant elevation in the gut of IBD patients is in line with well-established dietary risk factors for IBD, such as the consumption of red and processed meats. However, the roles of these metabolites in IBD remain unknown.
+
+The K22477 (argO, N-acetylglutamate synthase) is responsible for producing N-acetylglutamate (NAG) from glutamate and acetyl-CoA.
+
+Nature Communications | (2023)14:7135

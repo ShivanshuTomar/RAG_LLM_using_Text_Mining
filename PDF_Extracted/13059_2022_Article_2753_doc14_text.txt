@@ -1,0 +1,17 @@
+# Ma et al. Genome Biology (2022) 23:208
+
+# Bayes estimators as in ComBat [15].
+
+The posterior means, γ ∗ˆip and δ∗ˆip, along with standard frequentist estimates βˆp and σp are used to provide batch-corrected count data:
+
+Yijp = exp{ Yijp − ˆp X ij ′ − γ ∗ˆip σˆp + ˆp X ij′ β } × Iijp δ∗ˆip
+
+Per-sample feature counts are then re-normalized to keep sample read depth unchanged post-correction. In practice, the user provides sample microbial abundance table (Y), batch/study information, and optionally any other covariates X that are potentially confounded with batch but encode important biological information. MMUPHin outputs an adjusted profile Y that is corrected for the effect of batches but retains the effects of X (if provided).
+
+With this model specification, we expect MMUPHin_Correct to often reduce, rather than fully correct batch differences. This is due to two considerations. First, MMUPHin_Correct focuses on correcting non-zero abundance batch effects, and does not change features’ presence/absence across batches. “Correcting” a feature’s batch-specific presence to absence is inappropriate, as substantial non-zero read counts indicate biological presence rather than technical artifacts. Imputing non-zero abundance for batch-specific absence is technically challenging in our linear modelling framework, as the per-sample/feature noise ϵijp cannot be reliably inferred for inflated zero values. Second, the empirical Bayes batch effect estimates γip∗ and σˆip∗ are shrunken from their frequentist counterparts, which provides regularization for high-dimensional parameters as in ComBat and avoids “overfitting” to batch differences in small sample sizes. MMUPHin_Correct’s design is thus intentionally conservative, by correcting batch differences that can be confidently inferred, and maintaining those that are not (which thus also avoids eliminating non-batch, biological signal).
+
+Lastly, we note that MMUPHin_Correct does not explicitly model any particular sources of batch effects, such as primers, extraction protocols, and amplicon regions for 16S rRNA sequenced profiles. However, it will nevertheless attempt to correct for variability caused by differences in these protocols, to the extent that they manifest as batch/study differences. As examples: if two studies adopted different extraction protocols, potential study differences will be captured with MMUPHin_Correct and normalized. In contrast, if samples within the same study were sequenced using different amplicon regions, and this difference in protocol was not flagged as a “batch” variable, MMUPHin_Correct will not register the potential differences.
+
+# Meta‑analysis differential abundance testing: MMUPHin_MetaDA
+
+For meta-analytical differential abundance testing, after batch correction, MMUPHin_MetaDA first performs multivariate linear regression within individual studies using previously validated data transformation and modelling combinations appropriate for microbial community profiles (MaAsLin2 [33]). This yields study-specific, per-feature differential abundance effect estimations βˆip, where i indicates study and p indicates feature. These are then aggregated into meta-analysis effect size with fixed/random effects modelling as implemented in the metafor R package [34]:

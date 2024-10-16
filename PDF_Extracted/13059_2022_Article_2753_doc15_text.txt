@@ -1,0 +1,21 @@
+# Ma et al. Genome Biology
+
+# (2022) 23:208
+
+# Page 16 of 31
+
+βˆip = βp + ǫip + eip
+
+βp is the overall differential abundance effect of feature p. ϵip is per-study measurement error, and eip is study-specific random effects term (not present in fixed-effect models). Overall, for running MMUPHin_MetaDA, the user provides a microbial community profile, study design (batch) information, the main exposure variable of interest, and optional additional covariates. If any meta-analyzed studies include repeated measures (e.g., longitudinal designs), then random covariates can also be provided and will be modelled for such studies. MMUPHin_MetaDA then performs MaAsLin2 regression modelling within each study and aggregates effect sizes of the exposure variable βˆip across studies using the resulting random/fixed effects model. The estimated overall effect, βˆp, is reported as the overall differential abundance effect for feature p.
+
+We note that MMUPHin_MetaDA always accounts for the batch variable in its supervised differential abundance testing. This agrees with the field’s consensus on the most appropriate way to address batch effects during supervised testing [15, 58]. Through simulation evaluations, the performance (FPR, power) of MMUPHin_MetaDA is robust with or without upstream adjustment with MMUPHin_Correct (Additional file 1: Fig. S8). Nevertheless, pre-correcting the data with MMUPHin_Correct can still be helpful. This is both consistent with similar applications of batch correction in other molecular data types [15], and because MMUPHin_Correct accounts for both location and scale batch effects, while the linear modeling in MMUPHin_MetaDA only accounts for the former. Regardless, correcting the data with MMUPHin_Correct is most useful in analysis tasks where accounting for batch effects is otherwise not straightforward, such as for visualizing the data or during unsupervised population structure discovery.
+
+# Unsupervised discrete structure discovery: MMUPHin_Discrete
+
+For unsupervised discrete (i.e., cluster) structure discovery of a single study, again after batch correction, MMUPHin_Discrete uses average prediction strength [42], an established clustering strength metric, to measure the existence of reproducible clusters among meta-analyzed datasets. Briefly, for each individual dataset, the metric randomly and iteratively divides samples into “training” and “validation” subsets. In each iteration, clustering is first performed on the training samples, across a range of cluster numbers k, yielding (for a specific k) training sample clusters Ak1, Ak2, …, Akk. Note that Ak1, Ak2, …, Akk jointly forms a partition of the testing sample indices. The same clustering analysis is then performed on the validation samples, and the resulting partition of sample space provides classification membership potentially different from clustering memberships A k1, Ak2, …, Akk. Prediction strength for k clusters is defined as:
+
+ps(k) = minkn kln kl − 1 j≠j∈A l Ivalidation samples j and j are classified to the same group according to training samples
+
+i.e., the minimum (across validation clusters) proportion of same-cluster sample pairs also being classified as the same group by training samples. nkl = | Akl|, or the number of test samples in the lth cluster.
+
+Average prediction strength is the average of prediction strengths across randomization iterations. Intuitively, it characterizes the degree of agreement between the

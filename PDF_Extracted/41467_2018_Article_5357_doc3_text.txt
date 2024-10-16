@@ -1,0 +1,31 @@
+# ARTICLE
+
+# NATURE COMMUNICATIONS | DOI: 10.1038/s41467-018-05357-4
+
+# Fig. 2 MLI host and microbiota proteome landscape alterations in pediatric IBD.
+
+# a
+
+PCA score plot of MLI human-derived proteins quantified in ≥50% of the samples;
+
+# b
+
+PCA score plot of MLI microbiome-derived proteins quantified in ≥ 50% of the samples;
+
+# c, d
+
+Group mean clustering based on Mahalanobis distances calculated with MANOVA test using the first 10 PCs of PCA on MLI human-derived proteins (c) and MLI microbiome-derived proteins (d). The clusters are computed by applying the single linkage method to the matrix of Mahalanobis distances between group means. ***p < 0.001
+
+# Using the pairwise Bray-Curtis dissimilarity index, which demonstrated lower within-group heterogeneity in controls as compared to both CD and UC (Supplementary Fig. 4).
+
+Power calculations using pairwise-distance matrix and PERMAOVA suggested that we were sufficiently powered (>99%) to detect relevant between-group differences (effect sizes/P-values were 0.21/0.001, 0.19/0.001, 0.27/0.001 for human-derived proteins, and 0.09/0.001, 0.07/0.001, 0.10/0.001 for microbial proteins, at DeC, AsC, and TI, respectively).
+
+To further study whether significant differences corresponded to disease, presence of inflammation, or intestinal location, we performed multivariate analysis of variance (MANOVA) to compare the multivariate means of subgroups (CD-TI-uninflamed, UC-DeC-uninflamed and UC-AsC-uninflamed were not included due to insufficient sample size). MANOVA analysis of human-derived proteins yielded the greatest differences, which revealed significant differences (p < 0.001) for the comparisons of Control vs. IBD, CD, vs. UC, as well as the different intestinal locations in UC and Control groups (Fig. 2c). By contrast, MANOVA analysis of microbiota-derived proteins only yielded a significant difference between IBD and control, and no significant difference was observed between samples emanating from inflamed and uninflamed areas within IBD (Fig. 2d). Therefore, to identify IBD-related host and microbiota alterations, we combined samples from inflamed and uninflamed areas in IBD for further analysis.
+
+# Elevated microbial response to oxidative stress in IBD.
+
+In order to assess the microbial functions, we annotated all the quantified microbial proteins using the COG database, obtaining 2251 COGs from 24 COG categories. PLS-DA was performed to identify differentially abundant functions in IBD, analyzing the three intestinal locations individually (the goodness of prediction of PLS-DA model, Q2 = 0.58 for DeC, Q2 = 0.48 for AsC, Q2 = 0.55 for TI), which identified 71, 61, and 63 differentially abundant COGs for the DeC, AsC, and TI, respectively (Supplementary Data 3). There were 54 COGs identified with a VIP ≥ 2 in at least two intestinal locations and 42 COGs that were identified in all three locations; all were elevated in IBD compared to control. Functions related to the DNA replication, recombination, and repair (8 COGs in category L), bacterial outer membrane component biogenesis (5 COGs in category M), defense mechanisms (5 COGs in category V) and microbial mobilome (4 COGs in category X) were among the most significantly increased functions identified in IBD (Fig. 3a). We found that DNA damage repair proteins including those involved in base excise repair (BER) and mismatch repair (MMR) pathways, such as uracil-DNA glycosylase (UDG) and DNA MMR ATPase MutS, were increased in microbiome of pediatric IBD patients. In addition, we also revealed the increase of glutathione peroxidase, a microbial defense response protein induced under oxidative stress conditions in IBD compared to control (Fig. 3a).
+
+# 4
+
+NATURE COMMUNICATIONS | (2018) 9:2873 | DOI: 10.1038/s41467-018-05357-4 | www.nature.com/naturecommunications

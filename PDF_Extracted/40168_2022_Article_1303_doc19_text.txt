@@ -1,0 +1,86 @@
+# Zhao et al. Microbiome
+
+# (2022) 10:115
+
+Page 20 of 22
+
+Lactobacillus, Christensenellaceae, Eubacterium
+
+SCFA concentrations, suggesting beneficial action in protecting intestinal barrier in Min pigs. Growing evidence suggests host-microbiota interaction has been linked to IBD disease progression; thus, the results of this study may contribute to screening for core intestinal microbial candidates associated with host health and support a shift in thinking about anti-inflammatory strategies from improving immunity to immunosuppression.
+
+# Supplementary Information
+
+The online version contains supplementary material available at https://doi.org/10.1186/s40168-022-01303-1.
+
+- Additional file 1: Figure S1. Sankey diagrams of the phylum, family, and genus affiliations of the microbiota in Min pigs and Yorkshire pigs.
+- Additional file 2: Figure S2. Metabolite changes in pig colonic digesta in M-CON vs. M-DSS pigs and Y-CON vs. Y-DSS pigs.
+- Additional file 3: Figure S3. Spearman correlation analysis between gut microbiota and metabolites. The heatmap and correlation network plots show the Spearman correlation coefficients of the comparison groups a,c M-CON vs. M-DSS and b,d Y-CON vs. Y-DSS.
+- Additional file 4: Figure S4. Additional data for RNA-seq analysis. KEGG enrichment analysis of colon genes in M-CON vs. M-DSS and Y-CON vs. Y-DSS.
+- Additional file 5: Table S1. qRT–PCR primer sequences.
+
+# Acknowledgements
+
+We acknowledge the members of the Institute of Animal Nutrition of Northeast Agricultural University (Harbin, China) for their assistance with sampling and data analysis.
+
+# Authors’ contributions
+
+BS, QM and XZ conceived and designed the research. XZ, XF and ZG performed the research. XZ, LJ and XW analysed the data. XZ wrote the manuscript, and all other authors revised the manuscript. The authors read and approved the final manuscript.
+
+# Funding
+
+This work was supported by the Major Program of Heilongjiang Province of China (2021ZX12B08-02).
+
+# Availability of data and materials
+
+The datasets supporting the conclusions of this article were deposited in the NCBI Sequence Read Archive database under the accession numbers PRJNA797567 (RNA-seq raw data) and PRJNA799232 (microbiota raw sequencing data). All other data are contained within the main manuscript and supplemental files.
+
+# Declarations
+
+# Ethics approval and consent to participate
+
+All animal experimental procedures used in this experiment were approved by the Institutional Animal Care and Use Committee of Northeast Agricultural University (certification number NEAU-[2011]-9).
+
+# Consent for publication
+
+Not applicable
+
+# Competing interests
+
+The authors declare that they have no competing interests.
+
+# Received
+
+27 February 2022
+
+# Published online
+
+30 July 2022
+
+# Accepted
+
+7 June 2022
+
+# References
+
+1. Zhernakova A, Kurilshikov A, Bonder MJ, Tigchelaar EF, Schirmer M, Vatanen T, et al. Population-based metagenomics analysis reveals markers for gut microbiome composition and diversity. Science. 2016;352:565–9.
+2. Chen LM, Collij V, Jaeger M, van den Munckhof ICL, Vila AV, Kurilshikov A, et al. Gut microbial co-abundance networks show specificity in inflammatory bowel disease and obesity. Nat Commun. 2020;11:1–12.
+3. Chen L, Wang D, Garmaeva S, Kurilshikov A, Vich Vila A, Gacesa R, et al. The long-term genetic stability and individual specificity of the human gut microbiome. Cell. 2021;184:2302–15.
+4. Ijssennagger N, Belzer C, Hooiveld GJ, Dekker J, van Mil SW, Muller M, et al. Gut microbiota facilitates dietary heme-induced epithelial hyper-proliferation by opening the mucus barrier in colon. Proc Natl Acad Sci U S A. 2015;112:10038–43.
+5. Yano JM, Yu K, Donaldson GP, Shastri GG, Ann P, Ma L, et al. Indigenous bacteria from the gut microbiota regulate host serotonin biosynthesis. Cell. 2015;161:264–76.
+6. Schirmer M, Garner A, Vlamakis H, Xavier RJ. Microbial genes and pathways in inflammatory bowel disease. Nat Rev Microbiol. 2019;17:497–511.
+7. Kamada N, Seo SU, Chen GY, Nunez G. Role of the gut microbiota in immunity and inflammatory disease. Nat Rev Immunol. 2013;13:321–35.
+8. Lee YK, Mazmanian SK. Has the microbiota played a critical role in the evolution of the adaptive immune system? Science. 2010;330:1768–73.
+9. Kim CH. Immune regulation by microbiome metabolites. Immunology. 2018;154:220–9.
+10. Fairbrother JM, Nadeau E, Gyles CL. Escherichia coli in postweaning diarrhea in pigs: an update on bacterial types, pathogenesis, and prevention strategies. Anim Health Res Rev. 2005;6:17–39.
+11. Getmantseva L, Bakoev S, Bakoev N, Karpushkina T, Kostyunina O. Mitochondrial DNA diversity in large white pigs in Russia. Animals. 2020;10:1365.
+12. Jeong HS, Kim DW, Chun SY, Sung S, Kim HJ, Cho S, et al. Native pig and chicken breed database: NPCDB. Asian-Australas J Anim Sci. 2014;27:1394–8.
+13. Ma QQ, Jiao WJ, Wang ZY, Wu CX, Shan AS, Wang YB, et al. Tissue specificity and species superiority of cathelicidin gene expression in Chinese indigenous Min pigs. Livest Sci. 2014;161:36–40.
+14. Teng T, Gao F, He W, Fu HY, Guo J, Bai GD, et al. An early fecal microbiota transfer improves the intestinal conditions on microflora and immunoglobulin and antimicrobial peptides in piglets. J Agric Food Chem. 2020;68:4830–43.
+15. Ghia JE, Li N, Wang H, Collins M, Deng Y, El-Sharkawy RT, et al. Serotonin has a key role in pathogenesis of experimental colitis. Gastroenterology. 2009;137:1649–60.
+16. Okayasu I, Hatakeyama S, Yamada M, Ohkusa T, Inagaki Y, Nakaya R. A novel method in the induction of reliable experimental acute and chronic ulcerative colitis in mice. Gastroenterology. 1990;98:694–702.
+17. Pu ZC, Han CZ, Zhang WW, Xu MD, Wu ZJ, Liu YH, et al. Systematic understanding of the mechanism and effects of arctigenin attenuates inflammation in dextran sulfate sodium-induced acute colitis through suppression of NLRP3 inflammasome by SIRT1. Am J Transl Res. 2019;11:3992–4009.
+18. Bassaganya-Riera J, Hontecillas R. CLA and n-3 PUFA differentially modulate clinical activity and colonic PPAR-responsive gene expression in a pig model of experimental IBD. Clin Nutr. 2006;25:454–65.
+19. Livak KJ, Schmittgen TD. Analysis of relative gene expression data using real-time quantitative PCR and the 2(-delta delta C(T)) method. Methods. 2001;25:402–8.
+20. Lucke K, Miehlke S, Jacobs E, Schuppler M. Prevalence of Bacteroides and Prevotella spp. in ulcerative colitis. J Med Microbiol. 2006;55:617–24.
+21. Ni J, Shen TCD, Chen EZ, Bittinger K, Bailey A, Roggiani M, et al. A role for bacterial urease in gut dysbiosis and Crohn’s disease. Sci Transl Med. 2017;9:eaah6888.
+22. Imai Y, Meyer KJ, Iinishi A, Favre-Godal Q, Green R, Manuse S, et al. A new antibiotic selectively kills Gram-negative pathogens. Nature. 2019;576:459–64.

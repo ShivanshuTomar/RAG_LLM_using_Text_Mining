@@ -1,0 +1,27 @@
+# Therapeutic Advances in Gastroenterology
+
+# 12
+
+Julian R. Marchesi
+
+Department of Surgery and Cancer, Division of Integrative Systems Medicine and Digestive Disease, Faculty of Medicine, Imperial College, London, UK; School of Biosciences, Cardiff University, Cardiff, UK
+
+*Jonathan P. Segal, Benjamin H. Mullish and Mohammed Nabil Quraishi are joint first authors.
+
+Further, key changes have been identified in IBD such as a reduction in species derived from the Firmicutes phylum (such as *Faecalibacterium prausnitzii*) and increases in species derived from Proteobacteria (including members of the family Enterobacteriaceae). Currently, it is not understood whether perturbation of the structure of the gut microbiota is the cause of, or the result of, intestinal inflammation.
+
+Before the utilization of systems biology techniques, our knowledge regarding the gut microbiota was limited to culture-based techniques, which are labour-intensive and not high-throughput. In particular, they require specific conditions to optimize bacterial growth (e.g. an anaerobic environment and selective media for each species). Despite these limitations, however, Browne and colleagues created a workflow that demonstrated that by using a complex, broad range bacteriological medium, it was possible to archive bacteria representing 96% of the bacterial abundance at the genus level and 90% of the bacterial abundance at the species level.
+
+Despite such advancements in culturing techniques, they remain limited by their inability to detect other key microbiome components, such as the virome, mycobiome and archaea. However, recent advancements in high-throughput ‘omic’ systems biology techniques, designed to detect the entire spectrum of particular components under scrutiny in biofluids or tissues, have given novel insight into the structure and function of the gut microbiota.
+
+To begin to understand the complexity of each of these components that contribute to IBD, novel techniques have been utilized to begin to understand their function on a different level. Through the use of bioinformatics pipelines, we are increasingly able to analyze biological molecules and profile microorganisms in greater detail than ever before. The development of novel systems biology techniques - including genomics, metabonomics, transcriptomics and proteomics - presents a new frontier in attempts to understand the complex interactions and the multifactorial nature of IBD. These ‘omic’ technologies allow us direct analysis of members of the microbiota, their genes, transcripts, metabolites and proteins from biological samples, which overcomes the bias and limitation of previous culture techniques, but sometimes brings new biases and challenges.
+
+These systems biology platforms provide us with not only details about compositional changes in IBD, but in particular give us a better comprehension of the functional alterations that may contribute to IBD. Such techniques provide exciting technology that may help us understand the underlying cause for IBD, as well as highlight predictors of disease and novel therapeutic markers.
+
+Systems biology platform studies can be performed on both the host and the microbiota community. Specific examples of omic studies in the host are genomic studies, the mostly widely studied omic studies in IBD, which have identified up to 163 IBD-specific loci. Despite this advancement in genomics, as yet their impact on disease pathways remains unclear, suggesting that genetics contribute to but do not entirely account for the development of IBD. Genomics is the study of the ‘static’ DNA of a host, while transcriptomics is the study of the dynamic expression of RNA molecules and how they may vary under different circumstances. This approach therefore allows us to study the genes that are actively expressed at any given time and circumstance. Specific progress investigating transcriptomics in the host has highlighted that protein-coding and noncoding RNA such as micro RNA have a role in immune regulation in IBD. Furthermore, through host transcriptomics, potential microRNAs have been highlighted as potential biomarkers of IBD.
+
+This review will focus on the use of systems biology technologies to better understand the nature of microbial communities. We will summarize our knowledge to date regarding omics in IBD and their role in understanding the gut microbiota (also see summary in Table 1 and Figure 1).
+
+# Metagenomics and metataxonomics
+
+The advent of next generation sequencing (NGS) in the last decade has facilitated a remarkable insight into the characteristics and functionality of the gut microbiome with unprecedented throughput and resolution. The first critical studies set the baseline by defining the diversity and composition of the gut microbiota from stool samples or colonic biopsies from.

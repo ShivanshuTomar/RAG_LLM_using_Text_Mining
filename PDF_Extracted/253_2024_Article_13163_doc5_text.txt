@@ -1,0 +1,23 @@
+# Applied Microbiology and Biotechnology
+
+# (2024) 108:333
+
+# Whole Supernatant LB medium
+
+|Protein|Protein Supernatant|Protein|Supernatant|
+|---|---|---|---|
+|RBSS4 Flag- TNF-a Nb|Anti-His tag|26 kDa| |
+|HlyA|AntiFlag tag|20.8 kDa| |
+|His-IL-10|HlyA|Anti-His tag|26 kDa|
+
+# Characterization of constitutive engineered bacteria
+
+A Gene supernatant were collected by centrifugation for ELISA analysis at 6, 8, 10, and 12 h. For (B) and (D), after 12 h of culture, the supernatant (“LB medium supernatant”) was collected from the culture by centrifugation. Separated cell pellets were sonicated for release of whole protein (“whole protein”). Finally, sample supernatants from the samples (“Supernatant protein”) were obtained by separating cell debris through centrifugation.
+
+# Gene route design of constitutive engineered bacteria
+
+gene with the DNA sequence of the C-terminus secretory peptide from the HlyA gene. In addition, we attached the sequence for a Flag-tag and a His-tag to the 5´ end of the anti-TNF-α nanobody gene and the IL-10 gene, respectively. This resulted in the generation of the pWT-TNFaNb-IL10 plasmid which was subsequently transformed into EcN-hlyBD (containing the α-hemolysin secretion system). The resulting bacteria were named EcN-TNFaNb-IL10 (Fig. 2A).
+
+However, Western blotting analysis revealed that IL-10 could not be detected in the culture medium of the EcN-TNFaNb-IL10 strain (Fig. 2B), possibly due to competition within the secretion system leading to significantly reduced secretion efficiency for one of these proteins.
+
+Therefore, in the subsequent experiment, we generated two bacterial strains capable of expressing and secreting anti-TNF-α Nb and IL-10, respectively. The anti-TNF-α nanobody gene was integrated into a low copy plasmid with the pSC101 origin of replication, and its expression was conveyed by a constitutive promoter Ptac promoter. Subsequently, we fused the anti-TNF-α Nb protein gene with the sequence of HlyA for its encoded secretory peptide at its 3´end to create pWT-TNFaNb. This plasmid was then transformed into EcN-hlyBD (containing the α-hemolysin secretion system), resulting in the generation of EcN-TNFaNb bacteria. Similarly, we obtained the EcN-IL10 strain (Fig. 2C). Importantly, integration of these drug protein.

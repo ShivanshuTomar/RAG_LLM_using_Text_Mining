@@ -1,0 +1,13 @@
+# Ocansey et al. Clin Trans Med (2019) 8:31
+
+# Table 1 (continued)
+
+|Type of IBD|Study design/aim|Volume/frequency|Route|Observed outcome|References|
+|---|---|---|---|---|---|
+|Mild to severe CD|Evaluation of efficacy in the short term and risk factors in the long term|184 frequencies|Mid-gut|Clinical response and clinical remission were 45% (9/20) and 20% (4/20) in patients with adverse events, and 75.6% (90/119) and 63.0% (75/119) in patients without adverse events respectively. Adverse events of 21.7% in manually prepared FMT and 8.7% in automated preparations. Manual or automatic purification of fecal microbiota had no correlation with the efficacy of FMT.|[37]|
+|UC|Randomised placebo-controlled trial|5 days per week for 8 weeks|Colonoscopy|11/41 (27%) who received FMT as against 3/40 (8%) who received placebo had steroid-free clinical remission with endoscopic remission or response. Adverse events recorded in 32/41 (78%) FMT and 33/40 (83%) placebo patients with serious events in 2 FMT and 1 placebo patients.|[38]|
+|CD|Prospective open-label study (uncontrolled)|Once|Colonoscopy|58% (11/19) had clinical response. Significant shift in fecal microbial diversity and composition toward donor’s profile. Increased Treg cells (CD4+ CD25+ CD127lo) noticed in recipients’ lamina propria following FMT. No serious adverse events recorded.|[39]|
+
+Summary of some of the IBD clinical trials on the feasibility, safety and efficacy of FMT. Different study designs across varying degrees and types of IBD employing distinct techniques, volumes and frequencies of FMT administration, yielded different patients’ responses.
+
+CD Crohn’s disease, UC ulcerative colitis

@@ -1,0 +1,32 @@
+# Wang et al. Cell Death and Disease (2019) 10:391
+
+# Fig. 2 Severity of IBD is aggravated by peripheral administration of CRH.
+
+|A|Control|DSS|
+|---|---|---|
+| |CRH|DSS+CRH|
+| |CRH| |
+| |Vehicle| |
+| |CRH| |
+| |Vehicle| |
+| |Control|DSS|
+| |Vehicle|CRH|
+| |160|CRH|
+| |120| |
+| |8| |
+| |Control|DSS|
+| |Vehicle|CRH|
+|E|Con|CRH|
+| |DSS|DSS+CRH|
+| |8|1|
+| |Control|DSS|
+
+DSS (3%) was given to C57BL/6 mice for 6 days while water was given to the control group. For certain groups, CRH was intraperitoneally given at the dose of 50 μg/kg body weight from day 1 to day 6 and saline was injected as vehicle. Body weight, the presence of occult or gross blood per rectum, stool consistency, and colon length were determined by two investigators blinded to the treatment groups.
+
+deterioration in body weight loss, bloody stool score, and colon length (n = 8 per group). **P &lt; 0.01 vs. the control group, #P &lt; 0.05 vs. the DSS + Vehicle group, ##P &lt; 0.01 vs. the DSS + Vehicle group.
+
+d ELISA and the O-dianisidine method were used for the detection of the levels of TNF-α, IL-18, IL-7, MPO, and MPO activity in the left colon. Compared to the DSS + Vehicle group, the mice in the DSS + CRH group showed aggravated enhancement of the levels of TNF-α, IL-18, IL-7, MPO, and MPO activity in serum (n = 6 per group). **P &lt; 0.01 vs. the control group, ##P &lt; 0.01 vs. the DSS + Vehicle group.
+
+e The left edge of the left colon was isolated and fixed and H&E staining was used for the detection of histological score. Compared to the DSS + Vehicle group, the mice in the DSS + CRH group showed aggravated inflammatory infiltration in the left colon (n = 8 per group). **P &lt; 0.01 vs. the control group, ##P &lt; 0.01 vs. the DSS + Vehicle group.
+
+Official journal of the Cell Death Differentiation Association

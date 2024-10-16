@@ -1,0 +1,11 @@
+# Imhann et al. BMC Gastroenterology (2019) 19:5
+
+# Page 4 of 10
+
+# Fig. 2 Simplified 1000IBD data model
+
+1000IBD-ID is the 1000IBD identifier used in every data-layer, also referred to as primary key (PK) and foreign key 1 (FK1). RNAseq: RNA-sequencing, 16S: Sequencing data of the microbial 16S rRNA gene; WGS: whole genome shotgun sequencing.
+
+habits and nutritional intake of IBD patients. It consists of 119 questions on food items that are grouped into categories: breakfast, lunch, dinner, snacks and drinks. Since IBD patients often follow unguided dietary habits, i.e. those made without consulting a physician or dietician first, population-specific and more extensive items (e.g. dairy substitutes, meat replacers and supplements) are included in the questionnaire. When using this nutritional tool, patients report the intake of foods consumed during the previous month. The food data obtained via the GrIB FFQ will be converted into energy and nutrient intake (in grams/day) using the NEVO food composition database of 2016 (NEVO 2016, RIVM, Bilthoven, the Netherlands). The nutritional intake part of the GrIB FFQ was developed in collaboration with, and validated by, the division of Human Nutrition of Wageningen University using standardized procedures [21, 22].
+
+The GrIB FFQ provides a broader overview than traditional food questionnaires. It also assesses factors that influence nutrition expenditure but are often disregarded. To complement the questions on nutritional intake, items on patient’s conceptions about the role of nutrition in IBD.

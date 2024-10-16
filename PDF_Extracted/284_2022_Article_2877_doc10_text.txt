@@ -1,0 +1,22 @@
+# Association of Gut Microbiota with Inflammatory Bowel Disease and COVID‑19 Severity: A Possible…
+
+# Regulation the immune response by diversified gut microbiota
+
+(IFNLR1)/IL10R2 along with IL-22 production by innate lymphoid ILC3 cells effectively control the rotavirus infection. IFN-λ also regulates the viral replication. IFNs also promote the adaptive immune response including CD8 + T-cell responses in controlling the murine norovirus. However, the rotavirus vaccination correlates with IgA antibodies production [80, 81].
+
+In mammals, the cGAS & STING pathway is critical in sensing the intracellular DNA; to produce the immune signals against DNA viruses. The cGAS binds to the cytosolic DNA, and 2′, 3′-cGAMP to produce CDN, a second messenger to activate STING. The activated STING uses its C-terminal tail (CTT) to appoint serine/threonine kinase (TBK1), which phosphorylates and activates the transcription factor IRF3 to induce the expression of IFNs. IFNs go through the JAK-STAT pathways to stimulate the transcription of many antiviral genes (ISGs). STING has the capability to induce other pathways, to activate NFkB, MAP kinase, STAT6, autophagy, senescence and apoptosis [82]. The detailed process on these immune signaling is yet to be understood.
+
+# SARS CoV-2
+
+|ACE-2 Receptor|Cell membrane|
+|---|---|
+|DNA virus|RNA virus|
+|cGAMPsynthase|cGAMP|
+|TLR 7/8|TLR 3|
+|MAVS|IRF|
+|IMMUNE SIGNALING|NFkB|
+|Type I interferon and pro-inflammatory genes (ISG)|NUCLEUS|
+
+# Endosomal and cytosolic innate immune surveillance regulated by enteroviruses and bacteriophages
+
+The viral DNA and RNA are signaled via TLRs or PRRs. The endosomal TLR signals are processed through MyD88 and TRIF. The cytosolic RIG-1 and MDA5 signals through MAVS to stimulate the expression of IFN I and IFN III, which attach through IFNAR 1&2 (IFN α, IFN β) and IL10R2 (IFNλ) receptors to induce antiviral response. The intracellular DNA is sensed via cGAS-STING pathway, producing 2′, 3′-cGAMP to activate STING stimulating the expression of IFNs through NFkB.

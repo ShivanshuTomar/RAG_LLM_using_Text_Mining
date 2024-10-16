@@ -1,0 +1,29 @@
+# Cronin et al. BMC Gastroenterology (2019) 19:29
+
+# Sample size and statistical analysis
+
+To detect a 2% reduction in body fat percentage after an eight-week intervention, with a two-sided significance level of 5 and 80% power, we calculated a requirement of seven patients in the control group and 14 in the exercise group (presuming no loss to follow-up). For statistical analysis and comparison, patients and their associated data were grouped according to exercise and control groups. The relevant data of participants completing the cross-over phase of the trial were compiled with the exercise group. The Statistical Package for the Social Sciences V.23 (SPSS Inc., Chicago, Illinois, USA) and the R statistical programming environment (V.3.3.2) were used for the statistical analysis. As the majority of data was non-normally distributed, non-parametric analyses were conducted to compare the groups at baseline. Medians and interquartile ranges (IQR) are used unless otherwise stated. Similarly, non-parametric statistical tests were employed in the analysis of microbiome data. Primary and secondary analyses were conducted on a per protocol base. A type I error rate ≤ 0.05 was considered significant in all cases. Adjustment of significant p-values for multiple testing was performed using the Bonferroni test [25].
+
+The adonis2 function in the vegan R package (V.2.4–3) was used to statistically assess dissimilarity matrices (Bray-Curtis) derived from microbial data [26]. Identification of statistically relevant taxonomic features were identified using the analysis of composition of microbiomes (ANCOM) test, implemented in the R package (V.1.1–3) [27]. Measurements of α-diversity and calculations of relative abundances were also performed with the vegan package. Relative-abundance data were generated separately for identified species within each phylogenetic domain (e.g. Bacteria). Correction of p-values relating to microbiome analysis was performed using the Benjamini-Hochberg false-discovery rate (FDR) [28] in the base stats package in R.
+
+# Data and software availability
+
+The microbial DNA sequences have been deposited in the European Nucleotide Database (ENA) database under ID code PRJEB27623.
+
+# Results
+
+# Study participants
+
+One hundred and ten patients aged 18 to 40 years were invited to participate in the trial by letter, phone or in person at the IBD clinic. Of these, 19 patients were eligible for enrolment (exclusion reasons specified in Fig. 1). These patients attended a face-to-face screening visit and two further patients were excluded based on their high level of physical activity and their family history of early coronary artery disease, respectively. Therefore, 17 patients, with a mean age of 25 ± 6.5 years and BMI of 28.9 kg/m2 ± 3.8, were randomly allocated to the study arms. Patient characteristics are described in Table 1 and indicate no significant differences in clinical variables at baseline between the two groups, including body composition parameters. Of the 9 patients assigned to the control phase of the study, seven patients completed the eight-week control period and subsequently crossed over to the exercise arm of the study. Of the 15 participants entering the exercise arm of the study (8 directly randomized and seven cross-overs), 13 completed the exercise program. For the two patients who did not complete the exercise program, one dropped out due to personal reasons and the other due to time constraints.
+
+Enrolled patients were predominantly overweight or obese with a median baseline percentage body fat of 35%. Disease activity assessment scores were low at study entry (Table 2). However, approximately half of the trial participants had required a treatment course of corticosteroids in the year leading up to the study. All patients were receiving some form of disease maintenance therapy including 15% on anti-TNF-α therapy.
+
+Compliance with the prescribed exercise program was high with exercise group participants attending 87.5% of gym sessions (averaging 21 out of 24 sessions over 8 weeks). FitLinxx® data recorded that patients in the exercise group spent a mean 689 ± 113 min in aerobic exercise over the eight weeks, with an estimated 6813 ± 1952 cal expended during this period. Participants performed a mean of 4782 ± 812 weight repetitions during the intervention. Following trial completion, patients in the exercise group experienced a significant improvement in cardiorespiratory fitness, as measured by estimated VO2max (Pre-intervention: 43.41mls/kg/min; post-intervention: 46.01mls/kg/min; p = 0.03, Wilcoxon signed-rank test).
+
+# Primary outcome
+
+The primary efficacy criterion (body composition change) was achieved in the exercise group after eight-weeks of combined aerobic and resistance training (Fig. 2, Table 3). Participants in the exercise group experienced favourable changes, with a median (IQR) 2.1% (− 2.15, − 0.45) decrease in total percentage body fat compared to a median gain of 0.1% (− 0.4, 1) body fat in the control participants (p = 0.022). Likewise, patients in the exercise group experienced a median 1.59 kg (0.68, 2.69) increase in total lean tissue mass compared to a decrease of 1.38 kg (− 2.45, 0.26) in the control group (p = 0.003).
+
+# Secondary outcomes
+
+Disease activity, quality of life and mood scores There was no significant deterioration or improvement in disease activity scores in the intervention.

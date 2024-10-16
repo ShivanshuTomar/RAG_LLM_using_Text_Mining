@@ -1,0 +1,72 @@
+# ARTICLE
+
+# Control
+
+|CD|UC|
+|---|---|
+| | |
+
+# NATURE COMMUNICATIONS | DOI: 10.1038/s41467-018-05357-4
+
+# Sulfate
+
+|KO ID|KO Name|Taxonomic Assignment|
+|---|---|---|
+|K01243|Adenosylhomocysteine nucleosidase|Bacteroides|
+|K00549|Cobalamin-independent methionine synthase|Bacteria|
+|K00812|Aspartate aminotransferase AspB|Bacteroides|
+|K00024|Malate dehydrogenase|Bacteroidales|
+|K07173|S-ribosylhomocysteine lyase|Enterobacteriaceae|
+|K00812|Aspartate aminotransferase AspB|Firmicutes|
+|K00812|Aspartate aminotransferase AspB|Firmicutes|
+|K01761|Methionine-gamma-lyase|Clostridiales|
+|K11180|Dissimilatory sulfite reductase alpha subunit|Bilophila|
+|K00024|Malate dehydrogenase|Bacteroidales|
+|K00549|Cobalamin-independent methionine synthase|Enterobacteriaceae|
+|K00024|Malate dehydrogenase|Alistipes|
+|K00826|Branched-chain amino acid aminotransferase|Odoribacteraceae|
+|K00024|Malate dehydrogenase|Pasteurellaceae|
+|K06881|Oligoribonuclease and PAP phosphatase NrnA|Roseburia|
+|K00812|Aspartate aminotransferase AspB|Akkermansia|
+|K01740|O-acetylhomoserine (thiol)-lyase|Faecalibacterium|
+|K00812|Aspartate aminotransferase AspB|Prevotella|
+|K00812|Aspartate aminotransferase AspB|Prevotella|
+|K00024|Malate dehydrogenase|Akkermansia|
+|K00813|Aspartate aminotransferase AspC|Enterobacteriaceae|
+|K00024|Malate dehydrogenase|Enterobacter|
+|K00789|S-adenosylmethionine synthetase|Faecalibacterium|
+|K00789|S-adenosylmethionine synthetase|Firmicutes|
+|K00133|Aspartate-semialdehyde dehydrogenase|Firmicutes|
+|K00826|Branched-chain amino acid aminotransferase|Bacteroides|
+|K00826|Branched-chain amino acid aminotransferase|Prevotella|
+|K01740|O-acetylhomoserine (thiol)-lyase|Firmicutes|
+|K01740|O-acetylhomoserine (thiol)-lyase|Faecalibacterium|
+|K01738|Cysteine synthase A|Clostridium|
+|K01740|O-acetylhomoserine(thiol)-lyase|Bacteroides|
+|K00812|Aspartate aminotransferase AspB|Bacteroides|
+|K01740|O-acetylhomoserine (thiol)-lyase|Firmicutes|
+|K01738|Cysteine synthase A|Faecalibacterium|
+|K01740|O-acetylhomoserine (thiol)-lyase|Clostridiales|
+|K01740|O-acetylhomoserine (thiol)-lyase|Firmicutes|
+|K01740|O-acetylhomoserine (thiol)-lyase|Firmicutes|
+|K01738|Cysteine synthase A|Clostridiales|
+|K01738|Cysteine synthase A|Bacteria|
+|K00826|Branched-chain amino acid aminotransferase|Clostridiales|
+
+# Fig. 4 Alterations of sulfur and cysteine/methionine metabolism pathways in the MLI microbiome of pediatric IBD patients.
+
+a Taxon-specific sulfur or cysteine/methionine metabolism-related functions that were significantly changed in IBD. Heatmap shows the average LFQ intensity for each subgroup of samples. Each row represents one protein group, and the corresponding KO id, KO name and taxonomic assignment were indicated in the right panel.
+
+b Pathways relating to H2 S production, L-cysteine biosynthesis, and degradation as represented by the identified differentially abundant proteins. Pathway was adapted from KEGG pathways (map00270 and map00920, version 5/8/2017)
+
+and 5 cysteine synthase A proteins (K01738) (Fig. 4b). We found that 7 out of the 8 O-acetylhomoserine (thiol)-lyase proteins (including one from Faecalibacterium) and all 5 cysteine synthase A proteins were decreased in IBD. We also identified 14 microbial proteins involved in the degradation pathways of L-cysteine to generate hydrogen sulfite and pyruvate, including 8 aspartate aminotransferase (AST) proteins (K00812 or K00813) and 6 malate dehydrogenase (MDH) proteins (K00024) (Fig. 4b). All 6 MDH proteins and 7 of 8 AST proteins were increased in IBD. In addition, we found that a major component of dissimilatory sulfate reduction pathway, namely dissimilatory sulfite reductase alpha subunit (DsrA) from Bilophila, was significantly increased in the AsC/TI of CD and the DeC of UC patients (Fig. 4a).
+
+Moreover, significant correlations of DsrA with disease severity scores were also observed in the AsC/TI of CD and the DeC of UC patients (Supplementary Fig. 5). Given the regulating roles of L-cysteine and H2 S in the mucosal inflammation, our findings suggest possible microbial metabolic pathways that influence the host intestinal physiology and disease progression.
+
+# Strain-specific alterations of F. prausnitzii in CD.
+
+We identified 289 microbial species (189 ± 27 species per sample) with a minimum of 3 distinctive peptides from 4 different kingdoms (Bacteria, Fungi, Archaea, and Virus) (Supplementary Data 4). At the kingdom level, we found that Fungi was significantly increased in both CD and UC compared to control subjects (p < 0.01, Fig. 5a), which is in accordance with previous studies. In addition, significant correlations were observed between fungal protein abundance and CD disease severity at both the AsC (Spearman’s r = 0.46, p = 0.03; not shown) and TI (Spearman’s r = 0.70, p = 0.0008; Fig. 5b). Linear discriminant analysis effect size (LEfSe) analysis identified 4 phyla, 7 classes, 11 orders, 11 families, 16 genera, and 16 species as differentially abundant in IBD compared to control in at least two intestinal regions (Supplementary Data 5 and Supplementary Fig. 6). All four differentially abundant phyla, namely Proteobacteria, Verrucomicrobia, Ascomycota, and Spirochetes, were increased in IBD.
+
+We found that the bacteriophage Caudovirales was significantly increased in IBD compared to controls (Fig. 5c), which is also in agreement with a previous metagenomics study. The most significantly changed genera in IBD were Bacteroides and Faecalibacterium, which were decreased and increased, respectively, as compared to controls (Supplementary Fig. 6).
+
+Faecalibacterium prausnitzii, the major species of Faecalibacterium, showed higher relative abundance in both UC and CD patients compared to control subjects; in particular, significant differences were observed in UC at the AsC and TI (Fig. 5d). This finding is in agreement with a previous 16 s rRNA gene.

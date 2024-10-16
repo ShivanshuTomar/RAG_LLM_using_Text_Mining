@@ -1,0 +1,49 @@
+# Amrisha Bhosle et al
+
+# Molecular Systems Biology
+
+# Quantifying highly prioritized stercobilin-linked compounds in mouse metabolomes
+
+# Testing NR’s effects on colonic injury and inflammation in mouse models using DSS
+
+# Mice
+
+C57BL/6J (B6) mice were purchased from Jackson Laboratory and were housed in the Harvard T.H. Chan School of Public Health. All mice were housed in microisolator cages in the barrier facility with a constant 12-h light cycle. Female mice were used at 6–8 weeks of age and fed standard chow (PicoLab Mouse Diet 5058). Mice were randomized to experimental groups one week prior to the start of an experimental intervention to minimize cage-based or housing bias. All animal studies and experiments described in this manuscript were approved and carried out in accordance with the Harvard Medical School’s Standing Committee on Animals and the National Institutes of Health guidelines for animal use and care.
+
+Germ-free (GF) WT C57BL/6J mice were bred and maintained in isocages under a strict 12-h light cycle in the Harvard T. H. Chan Gnotobiotic Center for Mechanistic Microbiome studies. WT C57BL/6J (SPF) mice were purchased from Jackson Laboratory (Bar Harbor, Maine) and were maintained under the same conditions as GF mice for 3 weeks. Mice used for the experiment were between 8 and 9 weeks of age and fed sterilizable soy protein-free extruded rodent diet (Envigo CAT #: 2020SX).
+
+# Metabolomics
+
+Fecal contents (30–100 mg) were collected from both GF and SPF mice and snap-frozen. Stool samples were processed and untargeted metabolomics data were collected using the HILIC-positive LC–MS method as previously described (Lloyd-Price et al, 2019).
+
+# Acute DSS-induced colonic injury and inflammation model
+
+C57BL/6J WT were treated with 3% (w/v) DSS ad libitum in the drinking water for 5 days and followed by regular drinking water for 2 days. Body weight was measured every day and mice were sacrificed on day 7. On sacrifice, colon length was measured and then fixed with 4% paraformaldehyde for histology. NR (1000 mg/kg) or PBS intraperitoneal injections started 2 days before DSS was added to the drinking water and continued until the day of sacrifice at the same time daily.
+
+# Chronic DSS-induced colonic injury and inflammation model
+
+C57BL/6J WT were treated with three cycles of DSS as follows: cycle 1 (3% (w/v) DSS ad libitum in the drinking water for 5 days and followed by regular drinking water for 9 days), cycle 2 (2% (w/v) DSS ad libitum in drinking water for 5 days and followed by regular drinking water for 9 days), and cycle 3 (1% (w/v) DSS ad libitum in drinking water for 5 days and followed by regular drinking water for 2 days). On sacrifice, colon length was measured, and colons were opened longitudinally prior to fixation with 4% paraformaldehyde (PFA). NR (1000 mg/kg) (Brown et al, 2014; Igarashi et al, 2019) or PBS intraperitoneal injections started 2 days before initiation of the first cycle of DSS and continued until the day of sacrifice at the same time daily. Body weight was measured every day until the mice were sacrificed.
+
+# Histology
+
+Colons were cleaned with PBS prior to fixation in 4% PFA and then processed by routine paraffin embedding, sectioning, and hematoxylin and eosin (H&E) staining for the acute colitis model or both H&E and Masson’s trichrome staining for the chronic DSS model. Colitis scores were determined by a pathologist (JNG), who was blinded to the experimental parameters. Each of the four histologic parameters was scored as absent (0), mild (1), moderate (2), or severe (3): mononuclear cell infiltration, polymorphonuclear cell infiltration, epithelial hyperplasia, and epithelial injury. The scores for the parameters were summed to generate the histologic colitis score and were further quantified to include the percentage involvement by the disease process: (1) <10%; (2) 10–25%; (3) 30–50%; (4) >50% and presented as histologic colitis scores as follows: cumulative score * % involvement (Chun et al, 2019).
+
+# Data availability
+
+The HMP2 stool metabolomics and human transcriptomics datasets analyzed in this manuscript have been retrieved from https://portal.microbiome-bioactives.org/ and http://ibdmdb.org, respectively, and are referenced in “Reagents and Tools table and Methods and Protocols”. The MACARRoN tool developed in this work is available as a Bioconductor package (https://bioconductor.org/packages/Macarron). Metabolic features prioritized as potentially bioactive in CD-dysbiosis, and UC are provided in Dataset EV7. Code for application of MACARRoN on the HMP2 metabolomics dataset, downstream analyses, and figures in the manuscript is available at https://github.com/biobakery/macarron_manuscript.git. Expanded view data, supplementary information, appendices are available for this paper at https://doi.org/10.1038/s44320-024-00027-8.
+
+# Peer review information
+
+A peer review file is available at https://doi.org/10.1038/s44320-024-00027-8.
+
+# References
+
+Agus A, Clement K, Sokol H (2021) Gut microbiota-derived metabolites as central regulators in metabolic disorders. Gut 70:1174–1182
+
+Alam MT, Amos GCA, Murphy ARJ, Murch S, Wellington EMH, Arasaradnam RP (2020) Microbial imbalance in inflammatory bowel disease patients at different taxonomic levels. Gut Pathog 12:1
+
+Atarashi K, Tanoue T, Oshima K, Suda W, Nagano Y, Nishikawa H, Fukuda S, Saito T, Narushima S, Hase K et al (2013) Treg induction by a rationally selected mixture of Clostridia strains from the human microbiota. Nature 500:232–236
+
+Baquero F, Nombela C (2012) The microbiome as a human organ. Clin Microbiol Infect 18(Suppl 4):2–4
+
+© The Author(s) Molecular Systems Biology Volume 20 | Issue 4 | April 2024 | 338 – 361

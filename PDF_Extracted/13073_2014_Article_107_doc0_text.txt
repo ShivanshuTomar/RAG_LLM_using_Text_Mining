@@ -1,0 +1,39 @@
+# Knights et al. Genome Medicine 2014, 6:107
+
+# Genome Medicine
+
+# R E S E A R C H
+
+# Open Access
+
+# Complex host genetics influence the microbiome in inflammatory bowel disease
+
+Gerard Dijkstra6, Hailiang Huang7, Dan Knights1,2,3,4*, Mark S Silverberg5†, Rinse K Weersma6†, Dirk Gevers, Andrea D Tyler5, Suzanne van Sommeren6,8, Floris Imhann6,8, Joanne M Stempak5, Hu Huang9, Pajau Vangay9, Gabriel A Al-Ghalith9, Caitlin Russell3,10, Jenny Sauk10, Jo Knight11, Mark J Daly2,12,13, Curtis Huttenhower2,14 and Ramnik J Xavier2,3,10*
+
+# Abstract
+
+# Background:
+
+Human genetics and host-associated microbial communities have been associated independently with a wide range of chronic diseases. One of the strongest associations in each case is inflammatory bowel disease (IBD), but disease risk cannot be explained fully by either factor individually. Recent findings point to interactions between host genetics and microbial exposures as important contributors to disease risk in IBD. These include evidence of the partial heritability of the gut microbiota and the conferral of gut mucosal inflammation by microbiome transplant even when the dysbiosis was initially genetically derived. Although there have been several tests for association of individual genetic loci with bacterial taxa, there has been no direct comparison of complex genome-microbiome associations in large cohorts of patients with an immunity-related disease.
+
+# Methods:
+
+We obtained 16S ribosomal RNA (rRNA) gene sequences from intestinal biopsies as well as host genotype via Immunochip in three independent cohorts totaling 474 individuals. We tested for correlation between relative abundance of bacterial taxa and number of minor alleles at known IBD risk loci, including fine mapping of multiple risk alleles in the Nucleotide-binding oligomerization domain-containing protein 2 (NOD2) gene exon. We identified host polymorphisms whose associations with bacterial taxa were conserved across two or more cohorts, and we tested related genes for enrichment of host functional pathways.
+
+# Results:
+
+We identified and confirmed in two cohorts a significant association between NOD2 risk allele count and increased relative abundance of Enterobacteriaceae, with directionality of the effect conserved in the third cohort. Forty-eight additional IBD-related SNPs have directionality of their associations with bacterial taxa significantly conserved across two or three cohorts, implicating genes enriched for regulation of innate immune response, the JAK-STAT cascade, and other immunity-related pathways.
+
+# Conclusions:
+
+These results suggest complex interactions between genetically altered host functional pathways and the structure of the microbiome. Our findings demonstrate the ability to uncover novel associations from paired genome-microbiome data, and they suggest a complex link between host genetics and microbial dysbiosis in subjects with IBD across independent cohorts.
+
+* Correspondence: dknights@umn.edu; xavier@molbio.mgh.harvard.edu
+
+1†Equal contributors Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA
+
+Broad Institute of Harvard and MIT, Cambridge, Massachusetts 02142, USA
+
+Full list of author information is available at the end of the article
+
+© 2014 Knights et al.; licensee BioMed Central. This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.

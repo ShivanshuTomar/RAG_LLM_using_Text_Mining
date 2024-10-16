@@ -1,0 +1,29 @@
+# Heinken et al. Microbiome (2019) 7:75
+
+# Fig. 2 Illustration of bile acid pathways in human gut microbes reconstructed for AGORA.
+
+a Deconjugation of Tauro-CA/Glyco-CA and subsequent conversion to 12-dehydro-CA, UCA, and Iso-CA.
+
+b Deconjugation of Tauro-CDCA/Glyco-CDCA and subsequent conversion to UDCA.
+
+c Conversion of CA to DCA via the bai pathway.
+
+d Conversion of CDCA to LCA via the bai pathway.
+
+e Conversion of UDCA to LCA via the bai pathway.
+
+CoA Coenzyme A. For metabolite abbreviations, see Table 1.
+
+# Distribution of the bsh gene
+
+The distribution of the bsh gene in Actinobacteria, Bacteroides, Firmicutes, as well as the two archaea (Fig. 2, Additional file 2: Figure S1) was in line with previously reported results [21]. Additionally, the bsh gene was found in 22 Proteobacteria genomes (Additional file 1: Table S1).
+
+# Hydroxysteroid dehydrogenases (HSDHs)
+
+Among all analyzed hydroxysteroid dehydrogenases (HSDHs), 7α-HSDH was the most widespread enzyme as it was found in 46 of the 693 (7%) genomes (Additional file 1: Table S1 and Additional file 2: Figure S2). Additionally, 3α-, 3β-, and 7β-HSDHs were found in 17, 12, and 3 genomes, respectively (Additional file 1: Table S1 and Additional file 2: Figure S2). Using results from a recent work [24], we found the 12α-HSDH in 39 genomes, which belonged mostly to Firmicutes representatives (Additional file 1: Table S1). We could not find the 12α-HSDH in the Clostridium leptum genome, although the enzymatic activity has been demonstrated [28].
+
+# Bile acid-inducible (bai) gene cluster
+
+The bile acid-inducible (bai) gene cluster for the multistep 7α/β-dehydroxylation pathway, which has been reported for Clostridiaceae and Eggerthella spp. [4, 23], was found in seven analyzed genomes belonging to Clostridioides sp., Lachnoclostridium sp., and Eggerthella sp. (Additional file 2: Figure S2). Remarkably, all these genomes also have genes for 12α-HSDH as well as either 7α-HSDH or genes for both 3α- and 3β-HSDHs (Additional file 1: Table S1). Thus, these microbes could play a crucial role in biotransformation of bile acids in the human intestine.
+
+The genes encoding for the last two steps of the 7α/β-dehydroxylation pathway, i.e., the NADH-dependent reduction and the export of secondary bile acids (Fig. 2c–e), have not been identified. Recently, the baiN gene was shown to encode a bi-functional enzyme NADH-dependent Δ6/Δ4-hydroxysteroid reductase (Fig. 2) [29]. We analyzed the genomic context of this gene and found it in the C. scindens genome to be chromosomally co-localized with the gene for a probable NAD(FAD)-utilizing dehydrogenase (CLOSCI_00522). This chromosomal clustering was conserved in all Clostridiales genomes having the bai pathway, except for Clostridium hiranonis DSM 13275 (Additional file 2: Figure S3).

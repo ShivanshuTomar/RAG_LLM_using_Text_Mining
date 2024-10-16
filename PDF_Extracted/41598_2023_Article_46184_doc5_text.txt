@@ -1,0 +1,18 @@
+# Top 10 pathway nodes with the highest betweenness centrality in the ulcerative colitis (UC) projected network with prevalent pathways.
+
+|Node|Pathway|Betweenness centrality|
+|---|---|---|
+|67|CALVIN-PWY|UNCLASSIFIED|0.0192|
+|158|GLCMANNANAUT-PWY|FAECALIBACTERIUM_PRAUSNITZII|0.0132|
+|517|PWY-5686|FAECALIBACTERIUM_PRAUSNITZII|0.0132|
+|359|PWY-2942|UNCLASSIFIED|0.0113|
+|525|PWY-5686|UNCLASSIFIED|0.0113|
+|865|PWY-6700|UNCLASSIFIED|0.0113|
+|321|PWY-1042|FAECALIBACTERIUM_PRAUSNITZII|0.0104|
+|821|PWY-6527|UNCLASSIFIED|0.0097|
+|244|NONOXIPENT-PWY|UNCLASSIFIED|0.0066|
+|121|COMPLETE-ARO-PWY|UNCLASSIFIED|0.0036|
+
+# Figure 1
+
+Correlation networks of prevalent metagenomic pathways in (a) NI subjects, (b) CD subjects, (c) UC subjects. In (a), nodes in the frontier between P. vulgatus and B. uniformis and in the frontier between F. prauznitzii and unclassified modules are highlighted. In (b) and (c), nodes with high betweenness centrality like node 105 are highlighted. The legend remarks the species of each node/pathway.

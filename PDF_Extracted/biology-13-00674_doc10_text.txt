@@ -1,0 +1,25 @@
+# Biology 2024, 13, 674
+
+# 5. Dietary Therapies
+
+# 5.1. Exclusive Enteral Nutrition for IBD
+
+with IBD that was published in 2024. One important suggestion was that all individuals suffering from the illness should eat a diet with reduced salt [78]. The Exclusive Enteral Nutrition diet, which is used to treat Crohn’s disease, will be discussed in this section as an example.
+
+Exclusive enteral nutrition (EEN) is the most reliable and scientifically supported dietary therapy used to treat IBD [79]. EEN therapy is known as the administration of a comprehensive nutritional formula as the sole source of nutrition over a period of 6–10 weeks [80]. A meta-analysis of pediatric studies compared the efficacy of EEN with alternative treatments, demonstrating that EEN induced remission in up to 80–85% of patients [80]. Subsequently, Kaakoush et al. discovered that EEN results in common and patient-specific alterations in the microbiota of patients with CD, a number of which are correlated with disease activity [81]. These findings indicate that EEN may play a role in the management of IBD. Nevertheless, the precise mechanism exerted on the intestinal microbiota by which EEN induces remission remains a topic of contention. For example, a comparative study conducted in 2014 by Gerasimidis K. et al. revealed a decline in global bacterial diversity and abundance after EEN. This finding is at odds with the pervasive notion that a diverse microbiome is crucial for maintaining optimal health. Specially, the results of this study indicated a notable reduction in F. prausnitzii following EEN, and butyrate levels are also significantly reduced on EEN, which challenges the prevailing notion of F. prausnitzii and SCFA as protective factors in CD [82].
+
+In a recent publication, Kuang and colleagues discussed the correlation between salt content and EEN. As indicated in their review, the generally low levels of salt present in the majority of EEN regimens are notable. However, the role of salt intake as a mechanistic factor in the remission of CD induced by EEN has yet to be fully elucidated [6]. In conclusion, EEN has been demonstrated to be an effective treatment for IBD, particularly Crohn’s disease. However, further research is required to elucidate the precise mechanism of action.
+
+# 5.2. Dietary Therapies for CVD
+
+The detrimental impact of an excessive salt intake on cardiovascular disease makes it imperative to reduce salt consumption in the daily diet, thereby mitigating the risk of cardiovascular disease by promoting inflammation and blood pressure.
+
+In a study conducted by Ma H and colleagues, a lower frequency of adding salt to foods was found to be associated with a reduced risk of CVD, particularly heart failure and ischemic heart disease [83]. In addition, in a review of the efficacy of salt reduction in the prevention of hypertension and cardiovascular disease, He FJ and colleagues reached the conclusion that a reduction in salt consumption at the population level represents one of the most cost-effective, feasible, and affordable strategies for the prevention of cardiovascular disease [16]. In the United States, a reduction in salt intake to 3 g/day has the potential to prevent approximately 146,000 new cases of CVD and more than 40,000 associated deaths per year [84].
+
+It is, therefore, imperative to identify an efficacious method for the reduction in or replacement of salt. A promising strategy for reducing salt intake is to replace regular salt with salt substitutes. These are made with less sodium and more potassium and have been demonstrated to reduce both blood pressure and the mortality rate from cardiovascular disease [85].
+
+In conclusion, a reduction in the intake of salt on a daily basis has been demonstrated to be an effective method for reducing the risk of developing cardiovascular disease. This method of disease prevention is both cost-effective and efficacious.
+
+# 6. Future Direction
+
+The existing literature has played an important role in elucidating numerous aspects of the relationship between high-salt diets and the gut microbiota. This includes high-salt-induced gut immune responses, microbial ecological dysregulation, and the functional.

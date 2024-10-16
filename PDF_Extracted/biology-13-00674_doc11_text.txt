@@ -1,0 +1,34 @@
+# Biology 2024, 13, 674
+
+# 7. Conclusions
+
+A substantial body of prior research has demonstrated that diets with elevated salt levels can result in alterations in the composition of the gut microbiota. These changes can result in alterations to a number of normal functions, including the enhancement of the inflammatory response in the gut and an increase in blood pressure. This can, in turn, lead to an exacerbation of CVD and IBD. Furthermore, high-salt diets can also result in a worsening of IBD by directly affecting the immune homeostasis of the gut.
+
+Nevertheless, it is essential to acknowledge the ongoing limitations of current research in these domains. With regard to cardiovascular disease, studies on the associated pathology caused by high-salt diets through effects on gut microbiology have focused on hypertension. However, further research on the direct effects of atherosclerosis and heart failure is still lacking. Furthermore, fewer studies have explicitly investigated the influence of an elevated salt consumption on IBD through its impact on the gut microbiota compared to cardiovascular disease. Nevertheless, the impact of an elevated sodium intake on IBD can be inferred by comparing the shared microbiota under identical conditions.
+
+The study of the effect of a high-salt diet on the gut microbiome and IBD, as well as CVD, is not only of clinical significance, but also provides new guidance for individuals regarding their daily diet.
+
+# Author Contributions
+
+Conceptualization, X.W.; methodology, X.W.; software, X.W.; validation, X.W., F.L. and D.L.; formal analysis, X.W.; investigation, X.W.; resources, X.W.; data curation, X.W.; writing—original draft preparation, X.W. and F.L.; writing—review and editing, D.L.; visualization, X.W. and D.L.; supervision, X.W. and D.L.; project administration, X.W. and D.L.; funding acquisition, D.L. All authors have read and agreed to the published version of the manuscript.
+
+# Funding
+
+This work was supported by the National Natural Science Foundation of China (81760587), Key Project of Jiangxi Provincial Administration of Traditional Chinese Medicine Science and Technology Plan (2022Z019).
+
+# Acknowledgments
+
+All figures are created with BioRender.com and have the publication licenses.
+
+# Conflicts of Interest
+
+The authors declare no conflicts of interest.
+
+# References
+
+1. Sittipo, P.; Lobionda, S.; Lee, Y.K.; Maynard, C.L. Intestinal microbiota and the immune system in metabolic diseases. J. Microbiol. 2018, 56, 154–162. [CrossRef]
+2. Guarner, F.; Malagelada, J.R. Gut flora in health and disease. Lancet 2003, 361, 512–519. [CrossRef] [PubMed]
+3. Witkowski, M.; Weeks, T.L.; Hazen, S.L. Gut Microbiota and Cardiovascular Disease. Circ. Res. 2020, 127, 553–570. [CrossRef] [PubMed]
+4. Verhaar, B.J.H.; Prodan, A.; Nieuwdorp, M.; Muller, M. Gut Microbiota in Hypertension and Atherosclerosis: A Review. Nutrients 2020, 12, 2982. [CrossRef] [PubMed]
+5. Ni, J.; Wu, G.D.; Albenberg, L.; Tomov, V.T. Gut microbiota and IBD: Causation or correlation? Nat. Rev. Gastroenterol. Hepatol. 2017, 14, 573–584. [CrossRef] [PubMed]
+6. Kuang, R.; O’Keefe, S.J.D.; Ramos Del Aguila de Rivers, C.; Koutroumpakis, F.; Binion, D.G. Is Salt at Fault? Dietary Salt Consumption and Inflammatory Bowel Disease. Inflamm. Bowel Dis. 2023, 29, 140–150. [CrossRef]

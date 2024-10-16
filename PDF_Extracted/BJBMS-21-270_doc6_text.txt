@@ -1,0 +1,23 @@
+# Dikhnah Alshehri, et al.: Gut microbiota in IBD therapy
+
+genes, which are typically provoked by inflammation; limit the severity of inflammation [92,96]. Additionally, the increased association of some intestinal microbes (e.g., E. coli) with inflammation in IBD patients can be explained by alterations in epithelial defenses, as well as by mucosal thickness and viscosity caused through the inflammation [97]. Highly damaged intestinal regions with ulcerations potentially facilitate the accession of invasive, oxygen-tolerant microbes [98].
+
+# PRESENT TREATMENTS FOR IBD
+
+The utilization of therapeutic options for IBD has long been restricted by an imprecise understanding of the disease etiology. The hypothesis that the IBD is caused by complex genetic and environmental interactions leading to excessive production of pro-inflammatory cytokines and terminates with inflammation has advanced certain therapeutic approaches [99]. Several drugs that are widely used to treat IBD target the pathological over-active immune responses of individuals rather than other possible underlying factors [100]. This explains the use of immunosuppressive therapies [99] such as steroids, although an argument exists that these treatments do not specifically target the aberrant immune responses or GI microbiota [101] as effectively as immunomodulators (e.g., azathioprine and methotrexate) and biologics [63,102]. Biologics used to treat IBD either target anti-adherent pro-inflammatory cytokines, such as TNF-α and or interleukins, such as IL-12/IL23, to block inflammation or prevent recruitment of immune cells into the intestinal tissues, which can be achieved with leukocyte trafficking inhibitors. A central goal of IBD therapies is inducing and maintaining mucosal healing [103,104]. Thus, assessment of the therapeutic novelty and efficacy of any new therapy is based on its ability to stimulate mucosal healing. However, for these assessments to be valid it is important to precisely define mucosal healing and how mucosal healing affects long-term disease, both of which have been substantially debated [99].
+
+# INFLUENCE OF TNF-α ANTAGONIST THERAPY ON GI MICROBIOTA
+
+TNF-α is a transmembrane, pro-inflammatory cytokine that has been implicated in the immunopathogenesis of CD and many other inflammatory and autoimmune diseases. Anti-TNF inhibitors are used to treat moderate-to-severe CD patients, as the reduction of TNF-α levels by anti-TNF agents leads to a reduction in the chronic pathologic inflammatory responses that characterizes the disease [112,113]. TNF-α is expressed on the surface of macrophages, T-lymphocytes, polymorphonucleated, intestinal epithelial cells, endothelial cells, and natural killer cells [114].
+
+The development of anti-TNF-α therapies marked the beginning of pathway-based therapies, or what are commonly termed antibody-based therapies, and initiated a new era of targeted treatment. Since 1998, the anti-TNF-α antibody IFX has been approved by the Food and Drug Administration (FDA) in the United States for treatment of UC. The FDA approved the efficacy of its ability in treating UC [115], since these are promising therapeutic approaches which target pro-inflammatory cytokines (IL12/IL23) [84,99,116]. Subsequently, many other agents of this class have emerged onto the market and have shown a positive impact on intestinal inflammation, including the induction and maintenance.
+
+# WHAT IS MUCOSAL HEALING?
+
+While monitoring disease activity to assess the efficacy of IBD treatments in clinical practice and for endpoints in clinical trials is indispensable to therapeutic development, relying solely on clinical symptoms provides inadequate descriptions of IBD. Mucosal healing is measured by assessing the colonic and intestinal mucosa for active inflammation using endoscopy [99], which is characterized by the absence of ulceration in CD [105]. There has been some debate regarding the definition of mucosal healing in UC, but the most agreed upon definition is based on the Mayo endoscopic scoring system and refers to the absence of friability, erosions, ulcerations, and spontaneous bleeding of the colonic mucosa (Figure 2) [104,106].
+
+FIGURE 2. Sequential mucosal healing process of the terminal ileum and the colon in patients with CD and UC.
+
+Bosn J Basic Med Sci. 2021;21(3):270-283
+
+www.bjbms.org

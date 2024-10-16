@@ -1,0 +1,25 @@
+# Hall et al. Genome Medicine (2017) 9:103
+
+# Assembly and annotation of new R. gnavus genomes
+
+Raw MiSeq data were trimmed with Trimmomatic using the parameters: LEADING:3 TRAILING:3 SLIDING-WINDOW:4:15 MINLEN:80. Then, the data were assembled with SPAdes with the default parameters and annotated with Prodigal using the default parameters.
+
+# Generation of a custom pangenome database for R. gnavus
+
+Only three R. gnavus genomes were integrated into the default pangenome database supplied with PanPhlAn [6]. To create a more comprehensive pangenome database, we used an additional three reference genomes available from the NCBI as well as 11 newly assembled R. gnavus isolate genomes.
+
+# Identification of IBD-specific genes
+
+Using the coverage output for each gene in the pangenome from PanPhlAn [6], we identified IBD-specific genes, which are genes present in multiple IBD samples with greater than 10× cumulative coverage across all samples, that are undetectable in all controls from both the LSS and validation cohorts, including 80 stool metagenomes from the HMP. We used extremely stringent criteria for the identification of IBD-specific genes. Instead of only using samples where the coverage of R. gnavus is greater than 1×, as is the default for PanPhlAn, we used all samples. If a gene was present, even at very low coverage in a healthy sample, it was not considered to be an IBD-specific gene.
+
+# Results
+
+In order to determine how oxidative stress in IBD shapes the composition of the gut microbiome over time, we generated metagenomic sequencing data for a longitudinal stool study (LSS) including adult subjects from the PRISM (Prospective Registry in IBD Study at Massachusetts General Hospital) cohort as well as a pediatric cohort from Emory University which previously has been analyzed using 16S rRNA gene sequencing [14]. In total, the LSS cohort includes 266 samples from 20 IBD patients and 12 controls. Stool samples were collected monthly, for up to 12 months per patient, where the first stool sample was taken after treatment had begun. To validate and support our findings with other IBD cohorts, we additionally analyzed 331 metagenomics samples from Lewis et al. [13], a longitudinal microbiome study of CD patients with four time points, 0, 1, 4, and 8 weeks. To increase our analysis of healthy controls, we also examined 80 metagenomic samples from the Human Microbiome Project (HMP) [15]. An overview of these subjects’ phylum-level gut microbiome profiles stratified by genus gut microbial profiles shows the trajectory over time (Fig. 1a).
+
+# Aerotolerance signature found in IBD differentially abundant species
+
+To determine how the increased oxidative stress of the IBD gut shapes the composition of the gut microbiome, we first needed to bin the species of the gut microbiome by their ability to respond to oxidative stress (rather than by their taxonomic classification). Based on literature review (“Methods”), we manually binned species into two categories: i) oxygen-utilizing organisms (also known as facultative anaerobes, which can grow with or without oxygen); and ii) organisms that cannot use oxygen as a terminal electron acceptor (namely, aerotolerant and obligate anaerobes, which are both unable to grow in oxygen; however, unlike obligate anaerobes, aerotolerant bacteria are not rapidly poisoned by atmospheric oxygen) (Additional file 2: Table S2).
+
+We found a consistent signal of increased facultative anaerobe abundance in IBD patients across both the LSS and the Lewis et al. cohorts (p value = 0.0478 and 0.005, respectively; Fig. 1b). IBD patients from the LSS and Lewis et al. cohorts showed mean relative abundances of facultative anaerobes of 9.73 and 19.48%, respectively. In contrast, control individuals from the HMP, LSS, and Lewis et al. cohorts showed mean relative abundances of facultative anaerobes of 1.36, 1.78, and 1.45%, respectively (Fig. 1b). Thus, IBD patients across three different clinical centers all showed a markedly increased abundance of facultative anaerobes. These facultative anaerobe species may have a fitness advantage compared to the other anaerobic commensals of the healthy gut, because they may be able to tolerate the increased oxidative stress of the IBD gut.
+
+In addition to the overall class of facultative anaerobes that were enriched in IBD patients, we identified individual taxa that were significantly enriched or depleted (“Methods”). This detected 15 enriched and nine depleted species (q < 0.25, Additional file 3: Table S3). These agreed broadly with previous studies of gut microbial profiles in IBD, including depletion of Clostridales in Bacteroidales species (e.g., Faecalibacterium prausnitzii) as also observed in, e.g., Lewis et al. [13]. Previous studies have also observed increases of E. coli, Klebsiella pneumoniae.

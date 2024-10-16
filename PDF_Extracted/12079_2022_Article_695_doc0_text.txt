@@ -1,0 +1,33 @@
+# Role of interleukin‑6‑mediated inflammation in the pathogenesis of inflammatory bowel disease: focus on the available therapeutic approaches and gut microbiome
+
+# Arshia Shahini1 · Ali Shahini2
+
+Received: 16 June 2022 / Accepted: 29 August 2022 / Published online: 16 September 2022
+
+© The International CCN Society 2022
+
+# Abstract
+
+Inflammatory bowel disease (IBD) is considered a chronic inflammatory and multifactorial disease of the gastrointestinal tract. Crohn’s disease (CD) and ulcerative colitis (UC) are two types of chronic IBD. Although there is no accurate information about IBD pathophysiology, evidence suggests that various factors, including the gut microbiome, environment, genetics, lifestyle, and a dysregulated immune system, may increase susceptibility to IBD. Moreover, inflammatory mediators such as interleukin-6 (IL-6) are involved in the immunopathogenesis of IBDs. IL-6 contributes to T helper 17 (Th17) differentiation, mediating further destructive inflammatory responses in CD and UC. Moreover, Th1-mediated responses participate in IBD, and the antiapoptotic IL-6/IL-6 receptor (IL-6R)/signal transducer and activator of transcription 3 (STAT3) signals are responsible for preserving Th1 cells in the site of inflammation. It has been revealed that fecal bacteria isolated from UC-active and UC-remission patients stimulate the hyperproduction of several cytokines, such as IL-6, tumor necrosis factor-α (TNF-α), IL-10, and IL-12. Given the importance of the IL-6/IL-6R axis, various therapeutic options exist for controlling or treating IBD. Therefore, alternative therapeutic approaches such as modulating the gut microbiome could be beneficial due to the failure of the target therapies so far. This review article summarizes IBD immunopathogenesis focusing on the IL-6/IL-6R axis and discusses available therapeutic approaches based on the gut microbiome alteration and IL-6/IL-6R axis targeting and treatment failure.
+
+# Keywords
+
+Inflammatory bowel disease · Interleukin 6 · Crohn’s Disease · Ulcerative Colitis
+
+# Introduction
+
+Inflammatory bowel disease (IBD) is known as a chronic inflammatory disorder of the gastrointestinal (GI) tract (Wallace et al. 2014). IBD is categorized into two main subtypes, including Crohn’s disease (CD) and ulcerative colitis (UC) (Xavier and Podolsky 2007; De Souza and Fiocchi 2016). The mechanisms involved in immunopathogenesis and IBD development have not been fully elucidated. However, dysregulated responses of the mucosal immune system against intestinal microorganisms play a significant role in developing the disease in genetically predisposed individuals (Xu et al. 2014). Because lifestyle and diet significantly change the gut microbiota pattern, these alterations can predispose people to IBD (Neuman and Nanau 2012). In IBD patients, it has been shown that the diversity of microorganisms that make up the gut microbiome has considerably decreased, and dysbiosis has occurred (Swidsinski et al. 2002; Manichanh et al. 2006; Round and Mazmanian 2009). Furthermore, genetics and environmental factors could be involved in the overall pathogenesis of IBD (De Souza and Fiocchi 2016).
+
+Evidence revealed that inflammatory mediators such as cytokines and chemokines play a pivotal role in the pathogenesis of inflammatory-based disorders such as IBD (Marafini et al. 2019). In patients with IBD, mucosal dendritic cells (DCs) and macrophages (MQs) increase the expression of pattern recognition receptors (PRRs) such as toll-like receptor 2 (TLR2), TLR4 as well as CD40.
+
+# Authors' Affiliations
+
+|1|Department of Laboratory Sciences, School of Allied Medical Sciences, Arak University of Medical Sciences, Arak, Iran|
+|---|---|
+|2|Faculty of Medicine, Mashhad University of Medical Sciences, Mashhad, Iran|
+
+# Corresponding Author
+
+Ali Shahini
+
+alishahini96@gmail.com

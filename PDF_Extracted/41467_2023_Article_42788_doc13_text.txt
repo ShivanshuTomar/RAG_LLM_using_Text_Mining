@@ -1,0 +1,23 @@
+# Article
+
+# Differential abundance analysis to identify gut microbial species and functional genes
+
+The significance of differential abundance (DA) between different groups was evaluated using the ‘coin’ package in R and a blocked Wilcoxon test. Each species or gene was tested separately, and the data were blocked by cohort to control for any confounding effects that may have arisen from differences in cohort composition. To account for variations in block size and composition, permutations were performed within each block to obtain a conditional null distribution. To account for multiple hypothesis testing, p-values were adjusted using the FDR method. Additionally, we used a generalized fold change (gFC) approach to calculate the magnitude of differences between control and IBD samples. KEGG Orthology Enrichment Analysis (KOEA) were conducted for KO genes using the R package “clusterProfiler”54.
+
+# Independent validation with external metagenomic cohorts
+
+We identified differential metabolites based on two criteria: (1) False discovery rate (FDR) < 0.0001, using nonparametric univariate method (Wilcoxon rank-sum test). The P value for each metabolite was corrected for FDR using the false discovery rate method (2) Significance of the projected variable (VIP score) > 1 using OPLS-DA model. OPLS-DA stands for Orthogonal Projections to Latent Structures Discriminant Analysis, which is a multivariate statistical method used to analyze data with multiple variables. The significance of the projected variable is a measure of how well a metabolite contributes to the separation between the two groups being compared. The model validation of OPLS-DA utilizes a permutation test, relying on the “ropls” R package (Supplementary Fig 4b, d).
+
+# Validation of microbial biomarkers’ specificity in non-IBD cohorts
+
+To minimize the risk of misdiagnosing IBD, we assessed the specificity of metagenomic markers by analyzing the AUROC values of models constructed using the most effective panel of features. Our analysis included patients with non-IBD conditions such as colorectal cancer (60 cases and 65 controls from PRJEB27928, WirbelJ 2018 cohort), type 2 diabetes (45 cases and 39 controls from PRJEB1786, KarlssonFH 2013 cohort), and adenoma (47 cases and 61 controls from PRJEB7774, FengQ 2015 cohort).
+
+# Validation of the specificity of metabolic biomarkers in non-IBD cohorts
+
+In order to validate the disease specificity of our selected feature metabolites, we integrated four additional metabolomics cohorts, which comprised one adenoma cohort (KIM ADENOMAS 202056, n = 204), two CRC cohorts (KIM ADENOMAS 202056, n = 138 and YACHIDA CRC 201957, n = 347), and one T1D cohort (KOSTIC INFANTS DIABETES 201558, n = 103). All the data is sourced and available from the study by Muller, E. et al.59.
+
+# Statistics & Reproducibility
+
+We did not employ a statistical method to predetermine the sample size because this analysis is based on a comprehensive examination of public data with a sufficient number of samples. To ensure the accuracy of the diagnostic model, we only retained data from the initial sampling, considering that some subjects were sampled at different time points. Moreover, as country or region is a major confounding factor, we only included subjects from the same country in each dataset to minimize confounding effects. Additionally, due to a significant imbalance between normal controls and IBD cases in the LifeLD VilaAV 2018 cohort, we randomly excluded some normal controls to maintain a ratio of 1:2 to 1:3 between normal controls and IBD cases, enhancing the precision of the study. The experiments were not randomized as statistical analyses relied on disease status information. Data collection and analysis were not conducted blind to the experimental conditions. Given the non-normally distributed nature of microbial data, relevant statistical.
+
+Nature Communications | (2023)14:7135

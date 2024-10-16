@@ -1,0 +1,38 @@
+# Dikhnah Alshehri, et al.: Gut microbiota in IBD therapy
+
+of the disease. Reconstitution of the microbiome, taking the host genetic factors into consideration, can theoretically be achieved through combining immunosuppressants (e.g., anti-TNF drugs) and microbiota-modulator therapies (e.g., anti-microbials, diet, prebiotics or probiotics, and FMT). These dual therapeutic approaches may help in restoring the ideal environment needed to re-induce an effective symbiotic relationship between the host and beneficial microbes. Thus, the success of therapeutic strategies relies on understanding how microbiota interact with the host.
+
+# ACKNOWLEDGMENTS
+
+We thank the Inflammatory Bowel Disease Research Group and Microbiome Research group at King Abdulaziz University for discussion and constructive criticisms on drafts of this article.
+
+# REFERENCES
+
+1. Ng SC, Shi HY, Hamidi N, Underwood FE, Tang W, Benchimol EI, et al. Worldwide incidence and prevalence of inflammatory bowel disease in the 21st century: A systematic review of population-based studies. Lancet 2017;390(10114):2769-78. https://doi.org/10.1016/s0140-6736(17)32448-0.
+2. Turnbaugh PJ, Ley RE, Hamady M, Fraser-Liggett CM, Knight R, Gordon JI. The human microbiome project. Nature 2007;449(7164):804. https://doi.org/10.1038/nature06244.
+3. Bouma G, Strober W. The immunological and genetic basis of inflammatory bowel disease. Nat Rev Immunol 2003;3(7):521-33. https://doi.org/10.1038/nri1132.
+4. Kovarik JJ, Tillinger W, Hofer J, Holzl MA, Heinzl H, Saemann MD, et al. Impaired anti-inflammatory efficacy of n-butyrate in patients with IBD. Eur J Clin Invest 2011;41(3):291-8. https://doi.org/10.1111/j.1365-2362.2010.02407.x.
+5. Olivera P, Danese S, Jay N, Natoli G, Peyrin-Biroulet L. Big data in IBD: A look into the future. Nat Rev Gastroenterol Hepatol 2019;16:312-21. https://doi.org/10.1038/s41575-019-0102-5.
+6. Ni J, Wu GD, Albenberg L, Tomov VT. Gut microbiota and IBD: Causation or correlation? Nat Rev Gastroenterol Hepatol 2017;14:573. https://doi.org/10.1038/nrgastro.2017.88.
+7. Jones-Hall YL, Nakatsu CH. The intersection of TNF, IBD and the microbiome. Gut Microbes 2016;7:58-62. https://doi.org/10.1080/19490976.2015.1121364.
+8. Cozzi S, Escarpa AS, Parra DL, Jamal DN, Mitjana JM, Piulats JM, et al. Association between inflammatory bowel disease and uveal melanoma: Case report of two young adults and a literature review. Rep Pract Oncol Radiother 2019;24:56-9. https://doi.org/10.1016/j.rpor.2018.10.002.
+9. Aagaard K, Ma J, Antony KM, Ganu R, Petrosino J, Versalovic J. The placenta harbors a unique microbiome. Sci Transl Med 2014;6(237):237ra65. https://doi.org/10.1126/scitranslmed.3008599.
+10. Rodríguez JM, Murphy K, Stanton C, Ross RP, Kober OI, Juge N, et al. The composition of the gut microbiota throughout life, with an emphasis on early life. Microb Ecol Health Dis 2015;26(1):26050. https://doi.org/10.3402/mehd.v26.26050.
+11. Koenig JE, Spor A, Scalfone N, Fricker AD, Stombaugh J, Knight R, et al. Succession of microbial consortia in the developing infant gut microbiome. Proc Natl Acad Sci 2011;108(Supplement 1):4578-85. https://doi.org/10.1073/pnas.1000081107.
+12. Avershina E, Storrø O, Øien T, Johnsen R, Pope P, Rudi K. Major faecal microbiota shifts in composition and diversity with age in a geographically restricted cohort of mothers and their children. FEMS Microbiol Ecol 2014;87(1):280-90. https://doi.org/10.1111/1574-6941.12223.
+13. Aagaard K, Riehle K, Ma J, Segata N, Mistretta TA, Coarfa C, et al. A metagenomic approach to characterization of the vaginal microbiome signature in pregnancy. PLoS One 2012;7(6):e36466. https://doi.org/10.1371/journal.pone.0036466.
+14. Jakobsson HE, Abrahamsson TR, Jenmalm MC, Harris K, Quince C, Jernberg C, et al. Decreased gut microbiota diversity, delayed Bacteroidetes colonisation and reduced Th1 responses in infants delivered by caesarean section. Gut 2014;63(4):559-66. https://doi.org/10.1136/gutjnl-2012-303249.
+15. Costello EK, Stagaman K, Dethlefsen L, Bohannan BJ, Relman DA. The Application of ecological theory toward an understanding of the human microbiome. Science 2012;336(6086):1255-62. https://doi.org/10.1126/science.1224203.
+16. Salminen S, Gibson G, McCartney A, Isolauri E. Influence of mode of delivery on gut microbiota composition in seven year old children. Gut 2004;53(9):1388-9. https://doi.org/10.1136/gut.2004.041640.
+17. Kuitunen M, Kukkonen K, Juntunen-Backman K, Korpela R, Poussa T, Tuure T, et al. Probiotics prevent IgE-associated allergy until age 5 years in cesarean-delivered children but not in the total cohort. J Allergy Clin Immunol 2009;123(2):335-41. https://doi.org/10.1016/j.jaci.2008.11.019.
+18. van Nimwegen FA, Penders J, Stobberingh EE, Postma DS, Koppelman GH, Kerkhof M, et al. Mode and place of delivery, gastrointestinal microbiota, and their influence on asthma and atopy. J Allergy Clin Immunol 2011;128(5):948-55. https://doi.org/10.1016/j.jaci.2011.07.027.
+19. Bäckhed F, Roswall J, Peng Y, Feng Q, Jia H, Kovatcheva-Datchary P, et al. Dynamics and stabilization of the human gut microbiome during the first year of life. Cell Host Microbe 2015;17(5):690-703. https://doi.org/10.1016/j.chom.2015.05.012.
+20. Bäckhed F. Programming of host metabolism by the gut microbiota. Ann Nutr Metab 2011;58(Suppl 2):44-52. https://doi.org/10.1159/000328042.
+21. Caporaso JG, Lauber CL, Costello EK, Berg-Lyons D, Gonzalez A, Stombaugh J, et al. Moving pictures of the human microbiome. Genome Biol 2011;12(5):R50. https://doi.org/10.1186/gb-2011-12-5-r50.
+22. Dethlefsen L, Relman DA. Incomplete recovery and individualized responses of the human distal gut microbiota to repeated antibiotic perturbation. Proc Natl Acad Sci 2011;108(Suppl 1):4554-61. https://doi.org/10.1073/pnas.1000087107.
+23. Claesson MJ, Cusack S, O’Sullivan O, Greene-Diniz R, de Weerd H, Flannery E, et al. Composition, variability, and temporal stability of the intestinal microbiota of the elderly. Proc Natl Acad Sci 2011;108(Suppl 1):4586-91. https://doi.org/10.1073/pnas.1000087107.
+24. Biagi E, Nylund L, Candela M, Ostan R, Bucci L, Pini E, et al. Through ageing, and beyond: Gut microbiota and inflammatory status in seniors and centenarians. PLoS One 2010;5(5):e10667. https://doi.org/10.1371/journal.pone.0010667.
+25. Claesson MJ, Jeffery IB, Conde S, Power SE, O’connor EM, Cusack S, et al. Gut microbiota composition correlates with diet and health in the elderly. Nature 2012;488(7410):178-84. https://doi.org/10.1038/nature11200.
+26. Woodmansey EJ, McMurdo ME, Macfarlane GT, Macfarlane S. Comparison of compositions and metabolic activities of fecal microbiotas in young adults and in antibiotic-treated and non-antibiotic-treated elderly subjects. Appl Environ Microbiol 2004;70(10):6113-22. https://doi.org/10.1128/aem.70.10.6113-6122.2004.
+27. Biagi E, Candela M, Turroni S, Garagnani P, Franceschi C, Brigidi P. Ageing and gut microbes: Perspectives for health maintenance and longevity. Pharmacol Res 2013;69(1):11-20. https://doi.org/10.1016/j.phrs.2012.10.005.
+28. Bäckhed F, Fraser CM, Ringel Y, Sanders ME, Sartor RB, et al. Bosn J Basic Med Sci. 2021;21(3):270-283. www.bjbms.org.

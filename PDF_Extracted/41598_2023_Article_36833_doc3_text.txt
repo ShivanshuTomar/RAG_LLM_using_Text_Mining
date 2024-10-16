@@ -1,0 +1,34 @@
+# Table 1. Data information summary.
+
+|GEO accession|Platforms|Sample|Tissue (Homo sapiens)|
+|---|---|---|---|
+|GSE55235|GPL96|Normal|10 Synovium|
+| | |RA|10 Synovium|
+|GSE55457|GPL96|Normal|10 Synovium|
+| | |RA|13 Synovium|
+| | |Normal|23 Uninflam colon|
+|GSE179285|GPL6480|CD|14 Inflamed colon|
+| | |UC|23 Inflamed colon|
+| | |Normal|7 Synovium|
+|GSE77298|GPL570|RA|16 Synovium|
+
+# BioProject accession
+
+|BioProject accession|Sample|Tissue (microorganism)|
+|---|---|---|
+|PRJEB6997|Normal|55 Intestinal flora|
+| |RA|92 Intestinal flora|
+
+# Attribute
+
+Author/referenceWoetzel D 22 TrainingWoetzel D 22 TrainingKeir ME 23Broeren MG 24 ValidationTisza MJ 79
+
+The database STRING (https://string-db.org/)34. The string result table was then entered into Cytoscape35. We performed Degree analysis to predict important nodes (or hub genes) using Cytoscape’s cytoHubba plugin36. Functional analysis and gene set enrichment analysis of candidate genes. The clusterProfiler package37 was used for GO and KEGG analyses of the candidate genes. Significant differences were defined as an adjusted P-value of ≤ 0.05. The STRING (https://string-db.org/)34 database was used to construct a PPI network of the candidate genes. Additionally, GSEA was performed using the clusterProfiler package to analyze genes associated with RA, CD, and UC (previously ranked based on their log2FC values between the analyzed groups). The “c2.cp.kegg.v7.5.1.symbols.gmt” gene set was used to identify significantly enriched genes with a nominal false discovery rate (FDR) of < 0.25 and P < 0.05.
+
+Screening and validation of the shared specific genes. LASSO38 was performed using the glmnet package39 to identify genes in the RA training set. In addition, the SVM-RFE algorithm40 in the e1071 package41 was used to select genes. A Venn diagram was created using the machine learning mentioned above to further identify key genes by overlapping genes in the two modules. Immediately, a boxplot demonstrating the expression of these genes in the RA training set, CD dataset, and RA validation set was created using the ggplot242 and ggpubr43 packages. Furthermore, the function of these significant genes in the RA training set, CD dataset, UC dataset, and RA validation set was independently assessed by creating ROC curves in RStudio using the pROC package44. The shared specific genes in RA and IBD were selected as those with significant differences (P < 0.05) and AUC values of > 0.7 in all datasets.
+
+Identification of the gut microbiome in RA. PRJEB699745 was retrieved from the GMrepo database (https://gmrepo.humangut.info/home)21. A total of 147 samples, including 92 samples from patients with RA and 55 samples from healthy individuals, were selected from the PRJEB6997 database. The limma package in R was used for analyzing the differential abundance of gut microbes. Bacteria with significantly differential abundance were selected based on |log2 FC| values of > 3 and P < 0.05. The ggplot2 and ggrepel46 packages in R were used to create a volcano map to demonstrate bacteria with differential abundance. LASSO was performed using the glmnet package to identify potential specific bacteria. Additionally, the SVM-RFE algorithm in the e1071 package was used to select potential specific bacteria. Subsequently, a Venn diagram was developed to identify the markers of gut microbiota by overlapping bacteria in the two modules of LASSO and SVM-RFE. To examine the relationship between the gut microbial markers and RA, the pROC package was used to analyze ROC curves in RStudio, and the ggplot2 and ggpubr packages were used to construct a boxplot in RStudio to compare gene expression among groups.
+
+Identification of shared specific genes related to the gut microbiome in RA. The GutMGene (http://bio-annotation.cn/gutmgene/)47 microbiota. The STITCH database (http://stitch.embl.de/)48 was used to identify shared specific genes directly associated with these metabolites.
+
+Construction of an interaction network among shared specific genes related to the gut microbiome in RA, genes related to shared GSEA pathways, and gut microbial markers. Venn diagrams were constructed to overlap pathways identified via GSEA in the RA training set, CD dataset, UC dataset, and RA validation set and to overlap genes associated with these pathways in the RA training set, CD dataset, UC dataset, and RA validation set. The relationship between the metabolites and markers of gut microbiota was analyzed using the gutMGene (http://bio-annotation.cn/gutmgene/) database. The STITCH database (http://stitch.embl.de/) was used to investigate the link between metabolites and genes (including genes associated with pathways identified via GSEA and the shared specific genes related to the gut microbiome in RA).

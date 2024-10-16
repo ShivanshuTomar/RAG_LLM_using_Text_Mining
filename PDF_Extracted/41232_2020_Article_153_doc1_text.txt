@@ -1,0 +1,26 @@
+# Yoshimatsu et al. Inflammation and Regeneration
+
+# (2021) 41:3
+
+# Page 2 of 8
+
+in the gut; as such, most of them are categorized as health foods, but not medicines [8, 9]. However, recurrent dysbiosis, is closely related to growing disease groups, including inflammatory bowel disease (IBD) in developed countries (Fig. 1) [12–14]. Although microbiota can be as simple as parasites that cling to nutrition from human host or “friendly” bacteria that colonize the gut to assist fermentation, the Westernized lifestyle has made harboring these “good” bacteria in the intestine more difficult. This lifestyle refers to inappropriate use of antibiotics [15], cesarean section [16], artificial milk [17], improved hygiene [18], high-fat and low-fiber diet [19], and stress [20], which all can cause dysbiosis. In particular, dietary fiber is an important nutrient for these probiotic bacteria [21], and the lack of dietary fiber intake in modern society is considered the primary cause of dysbiosis in the gut.
+
+# Microbiota
+
+Humans are in symbiosis with the microbiota in the GI tract, with over 100 trillion microbiota, including 1000 types and 1 million associated genes [11]. Technological innovations in genetic analysis have shown that failure
+
+# Symbiosis
+
+|6|Outer Layer|Lactate| | | | | | |
+|---|---|---|---|---|---|---|---|---|
+|3|Inner Layer|slqA|aaa|0z|NOs"|NOz|1|TLR|
+|BAFF|APRIL|CO-|gG|L3| | | | |
+|B cell| | |IL-1|IL-12|IL-6|IL-23|Th1| |
+|Treg|Th17|B cell|AMP|Mc|Th17| | | |
+|Blood vessel|TNF-a|IL-1|IL-18|IL-1|IL-IZA|TNF-a| | |
+|Tolerant immune response|Inflammation|Dysregulated immune response|Inflammation| | | | | |
+
+# Fig. 1 Gut microbiota regulates immune response.
+
+Symbiosis (left): The intestinal immune system within the gut lamina propria becomes largely tolerant to the resident commensals under tight control by intestinal epithelial cells with steady-state proportions of mucus, secretory IgA, and antimicrobial peptides. As a result, the microbiota stays in the intestinal lumen. The gut microbiome stimulates intestinal epithelial cells, T cells, and lamina propria dendritic cells (DCs) and macrophages to promote the development or the activation of forkhead box P3 (Foxp3) positive Treg cells. The others activate lamina propria DCs and macrophages to induce T helper 17 (Th17) cells. Toll-like receptor (TLR) activation on intestinal epithelial cells induces the secretion of B cell-activating factor (BAFF) and A proliferation-inducing ligand (APRIL), which promote the differentiation of IgA-producing plasma cells. CD103-positive DCs support the development of Tregs to secrete IL10 and TGF-β, and they also stimulate B cells to produce commensal-specific IgA. Dysbiosis (right): Dysbiosis is a condition characterized by a loss of symbiotic bacteria and overgrowth of pathobionts. Pathobiont overgrowth leads to the loss of barrier integrity and a breach in the intestinal epithelial cell barrier. Translocation of pathobionts, bacterial components, and diverse pathogen-associated molecular patterns (PAMPs) triggers the intestinal immune system through TLR activation, resulting in chronic inflammation involving hyperactivation of T helper 1 (Th1) and Th17 cells. The secretion of inflammatory cytokines from intestinal epithelial cells exacerbates a Th1 and Th17 response by DCs and macrophages and leads to the accumulation of commensal-specific IgG by B cells. Additionally, disruption of the gut microbiota changes the metabolism of colonocytes, which is characterized by low oxygen consumption and generation of nitric oxide (NO) followed by synthesis of inducible nitric oxide synthase (iNOS). NO converts into nitrate (NO3−) in the intestinal lumen and drives the expansion of facultative anaerobic bacteria, including pathobionts with excessive oxygen (O2).

@@ -1,0 +1,23 @@
+# SM Vindigni, TL Zisman et al.
+
+Treatment strategy since the microbiota is more malleable than host factors under greater genetic influence.
+
+# Figure 4. Therapies for inflammatory bowel disease (IBD)
+
+Conventional therapies like aminosalicylates (5-ASA), immunomodulators (IMs), and biologics are traditionally thought to work via the immune system but may also have direct and indirect effects on the microbiota and barrier function (not depicted). Vice versa, developing therapies like antibiotics, probiotics, fecal microbiota transplantation (FMT), diet, and supplements that are thought to target the microbiota and barrier function may have direct and indirect effects on the immune system (not depicted).
+
+Some studies have also demonstrated either direct or indirect effects on the microbiota and mucosal barrier function. Mesalamine and other salicylates for example have been shown to change the intestinal microbiota and this may in part be due to direct effects on microbes [Andrews et al. 2011]. Indeed, mesalamine and other salicyaltes decrease the expression of microbial adherence factors and biofilm formation [Damman, 2013]. Unlike immunomodulators, which lead to proliferation of mucosally associated bacteria, mesalamine leads to a decrease in mucosally associated bacteria in UC [Swidsinski et al. 2007]. Studies of biologics show an ameliorating effect on the microbiome and on tight junctions [Edelblum and Turner, 2009; Busquets et al. 2015]. Indeed, TNF and other inflammatory cytokines directly disrupt tight junctions and thus a biologic’s primary mechanism of action may in large part be due to reestablishing barrier function [Li et al. 2008; Edelblum and Turner, 2009].
+
+# Microbiota-based therapies
+
+Microbiota-based therapies include antibiotics, probiotics, fecal microbiota transplantation (FMT), and diet. These have been investigated as treatments for IBD with varying results. Therapeutic manipulation of the microbiota offers theoretical advantages over immune system and barrier function based therapies as a.
+
+# Antibiotics
+
+The antibiotics that have been most studied as treatments for IBD include metronidazole, rifaximin, ciprofloxacin, and antimycobacterial agents [Bejaoui et al. 2015]. Most efficacy has been demonstrated in CD, particularly in inducing remission (with less consistent data showing maintenance of remission), treatment of perianal disease, and treatment of pouchitis [Khan et al. 2011; Cammarota et al. 2015]. Antibiotics are less effective in the treatment of adult UC (Khan et al. 2011), although there may be some efficacy in the pediatric population [Turner et al. 2014]. Rifaximin and ciprofloxacin by one meta-analysis may have the greatest benefit in inducing remission in CD [Arnold et al. 2002; Prantera et al. 2006; Khan et al. 2011]. Metronidazole has particular benefit in the treatment of perianal disease [Brandt et al. 1982; Sutherland et al. 1991; Khan et al. 2011; Mowat et al. 2011].
+
+Rifaximin’s effect on the microbiota includes decreases in certain pathogens with reciprocal increases in Bifidobacteria and F. prausnitzii in CD [Maccaferri et al. 2010; Guslandi, 2011]. Antibiotics are not without risk and while there may be some studies demonstrating benefit, there is also the potential for antibiotic-related side effects, including resistance, reduction in biodiversity, and risk for C. difficile infection.
+
+# Probiotics
+
+Probiotics have shown some efficacy in UC and pouchitis with less efficacy in CD [Cammarota et al. 2015]. Generalizations about the efficacy of probiotics is complicated by the variability of the formulations and specific strains studied. The two probiotic formulations that have been studied most extensively in IBD are E. coli Nissle 1917 and VSL#3. E. coli Nissle 1917 has been shown to be comparable to mesalamine in maintaining remission [Kruis et al. 2004; Henker et al. 2008]. VSL#3 is a mixture of eight different bacteria (four strains of lactobacilli, three strains of Bifidobacteria, and one strain of Streptococcus) and has been shown to be effective for induction and maintenance of remission in pouchitis [Gionchetti et al. 2000; Mimura et al. 2004] in both pediatric UC [Miele et al. 2009] and adult UC [Sood et al. 2011].

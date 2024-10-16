@@ -1,0 +1,28 @@
+# Dikhnah Alshehri, et al.: Gut microbiota in IBD therapy
+
+hosts. For example, left and right palm skin samples showed no persistently present species, whereas in the intestinal and oral samples approximately 5% of the detected species were identified as belonging to a core microbiota that was relatively stable. These findings support the notion of the individuality of each human microbiome.
+
+The uniqueness of an individual’s microbiome significantly surpasses that of the host genome, which is roughly 99.5% indistinguishable between people. Since the composition of the microbiome varies considerably, microbiome analysis can be successfully used for forensic purposes [47]. Moreover, besides the high degree of personalization in the microbiome, variations in the rate of change of the microbiome between individuals may be significant and should not be neglected [44].
+
+An important observation is that no significant changes in the compositions of the microbiome have been observed between individuals who used antibiotics and those who did not on the day of sampling (or during the previous week). This suggests that a one-week duration is not adequate to accurately capture the effect of antibiotics use on microbiome composition. Nevertheless, the use of antibiotics is associated with considerable modifications in the composition of the microbiome [37].
+
+# IBD-ASSOCIATED MICROBIAL PATTERNS
+
+The incidence of IBD has been increasing globally over recent years, but there is not sufficient evidence to comprehensively explain its etiology [48]. The most accepted theory of IBD pathogenesis involves interactions between host genetics, immune systems, and environmental factors that drive aberrant inflammatory immunological responses [49]. From a genetic point of view, variations within more than 200 genes have been implicated in IBD development [50]. For example, the NOD2 and ATG16L1 genes are thought to contribute to imperfections in the function of the epithelial barrier as well as of microbial recognition and clearance [51], which implicate intestinal microbes as drivers of IBD-associated inflammation.
+
+Studies have found that IBD usually appears following alterations in the gut microbiota (i.e., dysbiosis) [37]. Dysbiosis, described at a functional level, is the failure of the microbiota to provide the host with the full complement of beneficial properties [52]. According to the IBD dysbiosis theory, changes in the composition and localization of GI microbiota are apparent in patients with confirmed IBD compared to healthy individuals [53,54]. In general, reports suggest that the intestinal microbiota of IBD patients have less biodiversity as well as taxonomic and functional shifts, which seem to be hallmarks of IBD [55].
+
+In fact, there is a complex interaction between the intestinal epithelial cells, the host immune system, and the abundance of gut microbiota. Hence, many factors can contribute to the onset of inflammation:
+
+1. Alterations in the balance of commensal and pathogenic microbiota may result in excessive production of pro-inflammatory compounds and lead to exacerbated intestinal inflammation [56]. Many studies based on the analysis of fecal samples of IBD patients have noted a reduction in the frequency of Bacteroidetes and Firmicutes and an increase of Proteobacteria and Actinobacteria [57,58]. In IBD patients, advances based on metagenomic sequencing of microbial RNA have found a decline in bacterial composition and diversity when compared to unaffected individuals [59].
+2. Deficiencies in the integrity of the epithelial barrier can lead to an increase in luminal antigen uptake, which ultimately leads to continuous immune activation [56].
+3. Research has demonstrated that decreased mucin production, due to depletion of the goblet cells and dysfunction of the epithelial cell tight junction, is also involved in the pathophysiology of IBD [59].
+4. One of the most highlighted hallmarks of IBD, particularly in CD patients, is the significant decrease of F. prausnitzii, which is a member of Firmicutes phylum and one of the most abundant bacterial species in the GI tract (especially in the colon) of healthy individuals [53,54,59-62].
+
+These observations support the major role of microbial dysbiosis in the induction of IBD [63,64]. The role of the microbiome in IBD pathogenesis and therapy suggests that antibiotic treatments can lead to improvements in IBD patients [65,66]. For example, treating UC patients with antibiotics diminishes mucosal inflammation [59]. Other strategies to re-establish the microbiota in IBD patients are available. For example, improvement in inflammation and mucosal recovery was observed as a result of fecal transplantation in CD patients, although this was followed by disease reactivation [67]. However, there is still uncertainty whether dysbiosis has a causative or an associative relationship with IBD, likely because the majority of investigations into the intestinal microbiota of IBD populations have been conducted following the onset of the disease [68].
+
+Current literature investigating IBD and accompanying alterations in microbiota often fails to highlight the difference between changes to the mucosal and fecal microbiota, regardless of confounding factors, such as chronicity of disease, therapeutic approaches, and surgical intervention [69]. Therefore, it is still difficult to decipher whether taxonomic modifications reveal disease-associated changes or are a response to a changed intestinal environment. The first study to investigate dysbiosis in IBD, while controlling for previously
+
+Bosn J Basic Med Sci. 2021;21(3):270-283
+
+www.bjbms.org

@@ -1,0 +1,65 @@
+# Sternes et al. Arthritis Research & Therapy (2022) 24:163
+
+that Streptococcus genus infection is associated with reactive arthritis [40], although it is not HLA-B27-associated, and it appears not to be a form of spondyloarthritis. It follows that despite the divergence of the AS and IBD microbiomes, a small number of pathogenic genera may be the shared/common factors initially triggering disease. However, further species- and strain-level characterisation, enabled by whole genome sequencing, is required to properly determine whether the enriched taxa are in fact pathogenic. Other than these, several genera were also depleted in IBD patients and in IBD patients with elevated FCP. These genera included Actinomyces, Rothia, and Lachnospira, a genus within each of the Carnobacteriaceae and Ruminococcaceae families.
+
+The use of 16S sequencing in the current study not only limited the taxonomic depth from which conclusions were drawn, but it also prevented a suitable measurement of the functional/metabolic capabilities of the microbiome. Multi-omic, systems biology, approaches (incorporating shotgun metagenomics, transcriptomics, metabolomics and proteomics) are increasingly being used to comprehensively interrogate the microbial features associated with disease. Adopting these approaches in future is essential to move beyond the broad correlations noted in 16S sequencing studies and towards identification of precise microbial features and their causative impacts.
+
+In conclusion, consistent with immunological and genetic evidence, the distinct microbiomes of AS and IBD patients indicate that the gut plays a different role in driving disease. However, enrichment of specific pathogenic genera indicates that the presence of shared/common microbial trigger of disease cannot be discounted. Further research utilising contemporary approaches is required to expand upon these initial observations and to identify precisely the microbial features driving different types of disease.
+
+# Abbreviations
+
+AS: Ankylosing spondylitis; AUC: Area under the curve; BASDAI: Bath Ankylosing Spondylitis Disease Activity Index; CI: Confidence interval; FCP: Faecal calprotectin; IBD: Inflammatory bowel disease; ROC: Receiver operator characteristic; sPLSDA: Sparse Partial Least Squares Discriminant Analysis; TNFi: Tumour necrosis alpha inhibitor.
+
+# Supplementary Information
+
+The online version contains supplementary material available at https://doi.org/10.1186/s13075-022-02853-3.
+
+Additional file 1: Supplementary Figure 1. Comparison of microbiome composition in the Swedish cohort, consisting of stool samples which were sampled from some patients twice at a five-year interval. Composition was measured according to BASDAI and FCP levels. A. sPLSDA visualisation of microbiome composition (beta diversity) according to BASDAI. B. PERMANOVA significance testing of beta diversity according to BASDAI. C. Comparison of species richness (alpha diversity) according to BASDAI. D. sPLSDA visualisation of microbiome composition (beta diversity) according to FCP level. E. PERMANOVA significance testing of beta diversity according to FCP level. F. Comparison of species richness (alpha diversity) according to FCP level.
+
+# Authors’ contributions
+
+Study design: TK, GH, CM, MA. Recruitment and sample collection: LB, JP, FC, TK, GH, EK, DM, CM, HFdE, MA. Sample processing: LB, JP, TK, EdG, KZ. Analysis and Interpretation: PS, TK, MA. Manuscript preparation: PS, TK, KZ, MA. All authors read and approved the final manuscript.
+
+# Funding
+
+This study was supported by the Australian government’s National Health and Medical Research Council (NHMRC). The support did not include the design of the study, analysis, interpretation of data, and manuscript preparation.
+
+# Availability of data and materials
+
+The datasets used and/or analysed during the current study are available from the corresponding author on reasonable request.
+
+# Declarations
+
+# Ethics approval and consent to participate
+
+Ethical approval for this study was obtained from the Princess Alexandra Hospital and the Queensland University of Technology (QUT) human research ethics committees (Metro South approval no. HREC/15/QPAH/309 and QUT approval no. 1600000188), and the research ethics committees of the University of Palermo (CE number 5/2014 16042014) and Sahlgrenska University Hospital in Gothenburg (CE numbers 597-08 and 690 13). For the Australian and Italian cohorts, patients were recruited with written informed consent from rheumatology and gastroenterology endoscopy outpatient departments (Princess Alexandra Hospital (Australia), Logan Hospital (Australia), University of Palermo (Italy)), and Sahlgrenska University Hospital, Borås Hospital and Alingsås Hospital, Sweden.
+
+# Consent for publication
+
+Not applicable.
+
+# Competing interests
+
+The authors declare that they have no competing interests.
+
+# Author details
+
+1 Centre for Microbiome Research, Queensland University of Technology, Brisbane, Australia.
+
+2 Department of Gastroenterology, Logan Hospital, Logan, Australia.
+
+3 School of Biomedical Sciences, Queensland University of Technology, Brisbane, Australia.
+
+4 Department of Precision Medicine, Università della Campania L. Vanvitelli, Naples, Italy.
+
+5 Centre for Immunology and Infection Control, Queensland University of Technology, Brisbane, Australia.
+
+6 School of Chemistry and Molecular Biosciences, University of Queensland, Brisbane, Australia.
+
+7 Faculty of Health and Behavioural Sciences, University of Queensland, Brisbane, Australia.
+
+8 Department of Rheumatology and Inflammation Research, Sahlgrenska Academy at University of Gothenburg, Gothenburg, Sweden.
+
+9 Genomics England, London, UK.
+
+10 Faculty of Life Sciences and Medicine, King’s College London, London, UK.

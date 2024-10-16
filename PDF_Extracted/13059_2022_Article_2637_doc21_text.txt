@@ -1,0 +1,44 @@
+# Abbas-Egbariya et al. Genome Biology
+
+# (2022) 23:61
+
+# References
+
+1. Kaplan RC, et al. Gut microbiome composition in the Hispanic Community Health Study/Study of Latinos is shaped by geographic relocation, environmental factors, and obesity. Genome Biol. 2019;20(1):219.
+2. Li Q, et al. Implication of the gut microbiome composition of type 2 diabetic patients from northern China. Sci Rep. 2020;10(1):5450.
+3. Braun T, et al. Fecal microbial characterization of hospitalized patients with suspected infectious diarrhea shows significant dysbiosis. Sci Rep. 2017;7(1):1088.
+4. Castano‑Rodriguez N, et al. Gut microbiome analysis identifies potential etiological factors in acute gastroenteritis. Infect Immun. 2018;86(7):e00060–18.
+5. Liu Q, et al. Alteration in gut microbiota associated with hepatitis B and non‑hepatitis virus related hepatocellular carcinoma. Gut Pathog. 2019;11:1.
+6. Cook RR, et al. Alterations to the gastrointestinal microbiome associated with methamphetamine use among young men who have sex with men. Sci Rep. 2019;9(1):14840.
+7. Dillon SM, et al. An altered intestinal mucosal microbiome in HIV‑1 infection is associated with mucosal and systemic immune activation and endotoxemia. Mucosal Immunol. 2014;7(4):983–94.
+8. Lozupone CA, et al. Alterations in the gut microbiota associated with HIV‑1 infection. Cell Host Microbe. 2013;14(3):329–39.
+9. Vujkovic‑Cvijin I, et al. HIV‑associated gut dysbiosis is independent of sexual practice and correlates with noncommunicable diseases. Nat Commun. 2020;11(1):2448.
+10. Contijoch EJ, et al. Gut microbiota density influences host physiology and is shaped by host and microbial factors. Elife. 2019;8:e40553.
+11. Ijaz UZ, et al. The distinct features of microbial ’dysbiosis’ of Crohn’s disease do not occur to the same extent in their unaffected, genetically‑linked kindred. PLoS One. 2017;12(2):e0172605.
+12. Shaw KA, et al. Dysbiosis, inflammation, and response to treatment: a longitudinal study of pediatric subjects with newly diagnosed inflammatory bowel disease. Genome Med. 2016;8(1):75.
+13. Zhou Y, et al. Gut microbiota offers universal biomarkers across ethnicity in inflammatory bowel disease diagnosis and infliximab response prediction. mSystems. 2018;3(1):e00188–17.
+14. Mar JS, et al. Disease severity and immune activity relate to distinct interkingdom gut microbiome states in ethnically distinct ulcerative colitis patients. mBio. 2016;7(4):e01072–16.
+15. Pozuelo M, et al. Reduction of butyrate‑ and methane‑producing microorganisms in patients with irritable bowel syndrome. Sci Rep. 2015;5:12693.
+16. Luo XM, et al. Gut microbiota in human systemic lupus erythematosus and a mouse model of lupus. Appl Environ Microbiol. 2018;84(4):e02288–17.
+17. de la Cuesta‑Zuluaga J, et al. Gut microbiota is associated with obesity and cardiometabolic disease in a population in the midst of Westernization. Sci Rep. 2018;8(1):11356.
+18. Vangay P, et al. US immigration westernizes the human gut microbiome. Cell. 2018;175(4):962–972 e10.
+19. Zhu Y, et al. Gut microbiota dysbiosis worsens the severity of acute pancreatitis in patients and mice. J Gastroenterol. 2019;54(4):347–58.
+20. Heintz‑Buschart A, et al. The nasal and gut microbiome in Parkinson’s disease and idiopathic rapid eye movement sleep behavior disorder. Mov Disord. 2018;33(1):88–98.
+21. Hill‑Burns EM, et al. Parkinson’s disease and Parkinson’s disease medications have distinct signatures of the gut microbiome. Mov Disord. 2017;32(5):739–49.
+22. Wallen ZD, et al. Characterizing dysbiosis of gut microbiome in PD: evidence for overabundance of opportunistic pathogens. NPJ Parkinsons Dis. 2020;6:11.
+23. Nguyen TT, et al. Differences in gut microbiome composition between persons with chronic schizophrenia and healthy comparison subjects. Schizophr Res. 2019;204:23–9.
+24. Xu R, et al. Altered gut microbiota and mucosal immunity in patients with schizophrenia. Brain Behav Immun. 2020;85:120–7.
+25. Sinha R, et al. Assessment of variation in microbial community amplicon sequencing by the Microbiome Quality Control (MBQC) project consortium. Nat Biotechnol. 2017;35(11):1077–86.
+26. Jiang L, et al. Discrete false‑discovery rate improves identification of differentially abundant microbes. mSystems. 2017;2(6):e00092–17.
+27. Segata N, et al. Metagenomic biomarker discovery and explanation. Genome Biol. 2011;12(6):R60.
+28. Douglas GM, et al. PICRUSt2 for prediction of metagenome functions. Nat Biotechnol. 2020;38(6):685–8.
+29. Antunes LCM, et al. Quorum sensing in bacterial virulence. Microbiology (Reading). 2010;156(Pt 8):2271–82.
+30. Haya A‑E, Yael H, Tzipi B, Rotem H, Lee D, Ohad G‑M, et al. Meta‑analysis defines predominant shared microbial responses in various diseases and a specific inflammatory bowel disease signal. Zenodo. 2022. https://doi.org/10.5281/zenodo.60544
+31. Gomez A, et al. Host genetic control of the oral microbiome in health and disease. Cell Host Microbe. 2017;22(3):269–278 e3.
+32. Topcuoglu BD, et al. A framework for effective application of machine learning to microbiome‑based classification problems. mBio. 2020;11(3):e00434–20.
+33. Kobayashi R, et al. Oral bacteria affect the gut microbiome and intestinal immunity. Pathog Dis. 2020;78(3):ftaa024.
+34. Wirbel J, et al. Microbiome meta‑analysis and cross‑disease comparison enabled by the SIAMCAT machine learning toolbox. Genome Biol. 2021;22(1):93.
+35. Armour CR, et al. A metagenomic meta‑analysis reveals functional signatures of health and disease in the human gut microbiome. mSystems. 2019;4(4):e00332–18.
+36. Carmody LA, et al. Changes in cystic fibrosis airway microbiota at pulmonary exacerbation. Ann Am Thorac Soc. 2013;10(3):179–87.
+37. Pascal V, et al. A microbial signature for Crohn’s disease. Gut. 2017;66(5):813–22.
+38. Mashima I, Nakazawa F. The interaction between Streptococcus spp. and Veillonella tobetsuensis in the early stages of oral biofilm formation. J Bacteriol. 2015;197(3):2104–11.

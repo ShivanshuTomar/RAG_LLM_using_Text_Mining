@@ -1,0 +1,97 @@
+# Biological Reviews 95 (2020) 1287–1307
+
+# Dickson K. W. Ocansey and others
+
+# References
+
+ALESSANDRI, G., BONDIOLOTTI, G., et al. (2014). Paclitaxel is incorporated by mesenchymal stromal cells and released in exosomes that inhibit in vitro tumor growth: a new approach for drug delivery. Journal of Controlled Release 192, 262–270.
+
+PECK, B. C. E., MAH, A. T., PITMAN, W. A., DING, S., LUND, P. K. & SETHUPATHY, P. (2017). Functional transcriptomics in diverse intestinal epithelial cell types reveals robust microRNA sensitivity in intestinal stem cells to microbial status. Journal of Biological Chemistry 292, 2586–2600.
+
+PENG, Q. & MU, H. (2016). The potential of protein–nanomaterial interaction for advanced drug delivery. Journal of Controlled Release 225, 121–132.
+
+PHINNEY, D. G. & PITENGER, M. F. (2017). Concise review: MSC-derived exosomes for cell-free therapy. Stem Cells 35, 851–858.
+
+PHUYAL, S., SKOTLAND, T., HESSVIK, N. P., SIMOLIN, H., ØVERBYE, A., BRECH, A., PARTON, R. G., EKROOS, K., SANDVIG, K. & LLORENTE, A. (2015). The ether lipid precursor hexadecylglycerol stimulates the release and changes the composition of exosomes derived from PC-3 cells. Journal of Biological Chemistry 290, 4225–4237.
+
+QIN, W., TSUKASAKI, Y., DASGUPTA, S., MUKHOPADHYAY, N., IKEBE, M. & SAUTER, E. R. (2016). Exosomes in human breast milk promote EMT. Clinical Cancer Research 22, 4517–4524.
+
+RAGER, T. M., OLSON, J. K., ZHOU, Y., WANG, Y. & BESNER, G. E. (2016). Exosomes secreted from bone marrow-derived mesenchymal stem cells protect the intestines from experimental necrotizing enterocolitis. Journal of Pediatric Surgery 51, 942–947.
+
+REDDY, V. S., MADALA, S. K., TRINATH, J. & REDDY, G. B. (2018). Extracellular small heat shock proteins: exosomal biogenesis and function. Cell Stress and Chaperones 23, 441–454.
+
+SALAMON, C., GUANZON, D., SCHOLZ-ROMERO, K., LONGO, S., CORREA, P., ILLANES, S. E. & RICE, G. E. (2017). Placental exosomes as early biomarker of preeclampsia: potential role of exosomal microRNAs across gestation. The Journal of Clinical Endocrinology & Metabolism 102, 3182–3194.
+
+SALAMON, C. & RICE, G. E. (2017). Role of exosomes in placental homeostasis and pregnancy disorders. Progress in Molecular Biology and Translational Science 145, 163–179.
+
+SAMANTA, S., RAJASINGH, S., DROSOS, N., ZHOU, Z., DAWN, B. & RAJASINGH, J. (2018). Exosomes: new molecular targets of diseases. Acta Pharmacologica Sinica 39, 501–513.
+
+SAMBORSKI, P. & GRZYMISŁAWSKI, M. (2015). The role of HSP70 heat shock proteins in the pathogenesis and treatment of inflammatory bowel diseases. Advances in Clinical and Experimental Medicine 24, 525–530.
+
+SAMUEL, M., CHISANGA, D., LIEM, M., KEERTHIKUMAR, S., ANAND, S., ANG, C.-S., ADDA, C. G., VERSTEEGEN, E., JOIS, M. & MATHIVANAN, S. (2017). Bovine milk-derived exosomes from colostrum are enriched with proteins implicated in immune response and growth. Scientific Reports 7, 5933.
+
+SATO, Y. T., UMEZAKI, K., SAWADA, S., MUKAI, S., SASAKI, Y., HARADA, N., SHIKU, H. & AKIYOSHI, K. (2016). Engineering hybrid exosomes by membrane fusion with liposomes. Scientific Reports 6, 21933.
+
+SEGAL, A. W. (2018). The role of neutrophils in the pathogenesis of Crohn’s disease. European Journal of Clinical Investigation 48, e12983.
+
+SKOTLAND, T., HESSVIK, N. P., SANDVIG, K. & LLORENTE, A. (2019). Exosomal lipid composition and the role of ether lipids and phosphoinositides in exosome biology. Journal of Lipid Research 60, 9–18.
+
+SKOTLAND, T., SANDVIG, K. & LLORENTE, A. (2017). Lipids in exosomes: current knowledge and the way forward. Progress in Lipid Research 66, 30–41.
+
+SMYTH, T., PETROVA, K., PAYTON, N. M., PERSAUD, I., REDZIC, J. S., GRANER, M. W., SMITH-JONES, P. & ANCHORDOQUY, T. J. (2014). Surface functionalization of exosomes using click chemistry. Bioconjugate Chemistry 25, 1777–1784.
+
+SMYTHIES, L. E. & SMYTHIES, J. R. (2014). Exosomes in the gut. Frontiers in Immunology 5, 104.
+
+SONNENBURG, E. D., SMITS, S. A., TIKHONOV, M., HIGGINBOTTOM, S. K., WINGREEN, N. S. & SONNENBURG, J. L. (2016). Diet-induced extinctions in the gut microbiota compound over generations. Nature 529, 212–215.
+
+STATELLO, L., MAUGERI, M., GARRE, E., NAWAZ, M., WAHLGREN, J., PAPADIMITRIOU, A., LUNDQVIST, C., LINDFORS, L., COLLE´N, A., SUNNERHAGEN, P., RAGUSA, M., PURRELLO, M., DI PIETRO, C., TIGUE, N. & VALADI, H. (2018). Identification of RNA-binding proteins in exosomes capable of interacting with different types of RNA: RBP-facilitated transport of RNAs into exosomes. PLoS One 13, e0195969.
+
+STOORVOGEL, W., KLEIJMEER, M. J., GEUZE, H. J. & RAPOSO, G. (2002). The biogenesis and functions of exosomes. Traffic 3, 321–330.
+
+STREET, J. M., KORITZINSKY, E. H., GLISPIE, D. M. & YUEN, P. S. T. (2017). Urine exosome isolation and characterization. In Drug Safety Evaluation (ed. J. C. GAUTIER), pp. 413–423. Humana Press, New York, NY.
+
+SUBRA, C., GRAND, D., LAULAGNIER, K., STELLA, A., LAMBEAU, G., PAILLASSE, M., DE MEDINA, P., MONSARRAT, B., PERRET, B., SILVENTE-POIROT, S., POIROT, M. & RECORD, M. (2010). Exosomes account for vesicle-mediated transcellular transport of activatable phospholipases and prostaglandins. Journal of Lipid Research 51, 2105–2120.
+
+SUK, J. S., XU, Q., KIM, N., HANES, J. & ENSIGN, L. M. (2016). PEGylation as a strategy for improving nanoparticle-based drug and gene delivery. Advanced Drug Delivery Reviews 99, 28–51.
+
+SUN, D., ZHUANG, X., XIANG, X., LIU, Y., ZHANG, S., LIU, C., BARNES, S., GRIZZLE, W., MILLER, D. & ZHANG, H.-G. (2010). A novel nanoparticle drug delivery system: the anti-inflammatory activity of curcumin is enhanced when encapsulated in exosomes. Molecular Therapy 18, 1606–1614.
+
+SUNDARARAJAN, V., SARKAR, F. H. & RAMASAMY, T. S. (2018). The versatile role of exosomes in cancer progression: diagnostic and therapeutic implications. Cellular Oncology 41, 223–252.
+
+SUZUKI, E., FUJITA, D., TAKAHASHI, M., OBA, S. & NISHIMATSU, H. (2017). Therapeutic effects of mesenchymal stem cell-derived exosomes in cardiovascular disease. Advances in Experimental Medicine and Biology 998, 179–185.
+
+TAGHIPOUR, Y. D., BAHRAMSOLTANI, R., MARQUES, A. M., NASERI, R., RAHIMI, R., HARATIPOUR, P., PANAH, A. I., FARZAEI, M. H. & ABDOLLAHI, M. (2018). A systematic review of nano formulation of natural products for the treatment of inflammatory bowel disease: drug delivery and pharmacological targets. DARU Journal of Pharmaceutical Sciences 26, 229–239.
+
+TAN, L., WU, H., LIU, Y., ZHAO, M., LI, D. & LU, Q. (2016). Recent advances of exosomes in immune modulation and autoimmune diseases. Autoimmunity 49, 357–365.
+
+TAYLOR, C. T. & COLGAN, S. P. (2007). Hypoxia and gastrointestinal disease. Journal of Molecular Medicine 85, 1295–1300.
+
+TENG, Y., REN, Y., SAYED, M., HU, X., LEI, C., KUMAR, A., HUTCHINS, E., MU, J., DENG, Z., LUO, C., SUNDARAM, K., SRIWASTVA, M. K., ZHANG, L., HSIEH, M., REIMAN, R., et al. (2018). Plant-derived exosomal microRNAs shape the gut microbiota. Cell Host & Microbe 24, 637–652.e8.
+
+TOH, W. S., LAI, R. C., ZHANG, B. & LIM, S. K. (2018). MSC exosome works through a protein-based mechanism of action. Biochemical Society Transactions 46, 843–853.
+
+VAN HERWIJNEN, M. J. C., ZONNEVELD, M. I., GOERDAYAL, S., NOLTE, E. N., GARSSEN, J., STAHL, B., ALTELAAR, A. M., REDEGELD, F. A. & WAUBEN, M. H. (2016). Comprehensive proteomic analysis of human milk-derived extracellular vesicles unveils a novel functional proteome distinct from other milk components. Molecular & Cellular Proteomics 15, 3412–3423.
+
+WANG, H., CHAO, K., NG, S. C., BAI, A. H., YU, Q., YU, J., LI, M., CUI, Y., CHEN, M., HU, J.-F. & ZHANG, S. (2016a). Pro-inflammatory miR-223 mediates the cross-talk between the IL23 pathway and the intestinal barrier in inflammatory bowel disease. Genome Biology 17, 58.
+
+WANG, L., YU, Z., WAN, S., WU, F., CHEN, W., ZHANG, B., LIN, D., LIU, J., XIE, H., SUN, X. & WU, Z. (2017). Exosomes derived from dendritic cells treated with Schistosoma japonicum soluble egg antigen attenuate DSS-induced colitis. Frontiers in Pharmacology 8, 651.
+
+WANG, Q., REN, Y., MU, J., EGILMEZ, N. K., ZHUANG, X., DENG, Z., ZHANG, L., YAN, J., MILLER, D. & ZHANG, H.-G. (2015a). Grapefruit-derived nanovectors use an activated leukocyte trafficking pathway to deliver therapeutic agents to inflammatory tumor sites. Cancer Research 75, 2520–2529.
+
+WANG, X., GU, H., QIN, D., YANG, L., HUANG, W., ESSANDOH, K., WANG, Y., CALDWELL, C. C., PENG, T., ZINGARELLI, B. & FAN, G.-C. (2015b). Exosomal miR-223 contributes to mesenchymal stem cell-elicited cardioprotection in polymicrobial sepsis. Scientific Reports 5, 13721.
+
+WANG, X., WANG, H., CAO, J. & YE, C. (2018). Exosomes from adipose-derived stem cells promotes VEGF-C-dependent lymphangiogenesis by regulating miRNA-132/TGF-β pathway. Cellular Physiology and Biochemistry 49, 160–171.
+
+WANG, Y., TIAN, J., TANG, X., RUI, K., TIAN, X., MA, J., MA, B., XU, H., LU, L. & WANG, S. (2016b). Exosomes released by granulocytic myeloid-derived suppressor cells attenuate DSS-induced colitis in mice. Oncotarget 7, 15356.
+
+WONG, W.-Y., LEE, M. M.-L., CHAN, B. D., KAM, R. K.-T., ZHANG, G., LU, A.-P. & TAI, W. C.-S. (2016). Proteomic profiling of dextran sulfate sodium induced acute ulcerative colitis mice serum exosomes and their immunomodulatory impact on macrophages. Proteomics 16, 1131–1145.
+
+WU, F., DONG, F., ARENDOVICH, N., ZHANG, J., HUANG, Y. & KWON, J. H. (2014). Divergent influence of microRNA-21 deletion on murine colitis phenotypes. Inflammatory Bowel Diseases 20, 1972–1985.
+
+WU, Y., QIU, W., XU, X., KANG, J., WANG, J., WEN, Y., TANG, X., YAN, Y., QIAN, H., ZHANG, X., XU, W. & MAO, F. (2018). Exosomes derived from human umbilical cord mesenchymal stem cells alleviate inflammatory bowel disease in mice through ubiquitination. American Journal of Translational Research 10, 2026–2036.
+
+XIAO, G.-Y., CHENG, C.-C., CHIANG, Y.-S., CHENG, W. T.-K., LIU, I.-H. & WU, S.-C. (2016). Exosomal miR-10a derived from amniotic fluid stem cells preserves ovarian follicles after chemotherapy. Scientific Reports 6, 23120.
+
+XIAO, J., FENG, S., WANG, X., LONG, K., LUO, Y., WANG, Y., MA, J., TANG, Q., JIN, L., LI, X. & LI, M. (2018). Identification of exosome-like nanoparticle-derived microRNAs from 11 edible fruits and vegetables. PeerJ 6, e5186.
+
+XIE, M.-Y., HOU, L.-J., SUN, J.-J., ZENG, B., XI, Q.-Y., LUO, J.-Y., CHEN, T. & ZHANG, Y.-L. (2019). Porcine milk exosome miRNAs attenuate LPS-induced.

@@ -1,0 +1,62 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Library
+
+# Better health.
+
+(Kelly 2014; Khoruts 2016). Concerns remain that the transplanted feces may contain pathogenic microorganisms and that the change in the functional core of bacteria may confer an undesirable and unanticipated outcome (Alang 2015; Cammarota 2017). Animal models of FMT have demonstrated undesired weight changes that accompanied changes in the microbiome (Blanton 2016; Ridaura 2013). Serious adverse events have been reported in individual cases, including mortality (Kelly 2014), septic shock and toxic megacolon (Solari 2014), and aspiration pneumonia (Link 2016). The FDA issued a safety alert in 2020 about the use of FMT and risk of serious adverse events, including the transmission of enteric pathogens and risk of mortality (FDA 2020a). Additionally, the FDA provided guidance about the use of FMT and risk of infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (FDA 2020b).
+
+# Why it is important to do this review
+
+As the literature increasingly alludes to dysbiosis in the pathogenesis of IBD, there have been efforts to correct the dysbiosis and assess whether its correction can improve IBD-associated outcomes (Chassaing 2011; Fuentes 2017; Morgan 2012; Nagao-Kitamoto 2016; Rapozo 2017; Schulberg 2016; Vindigni 2016). Some interventions that might target the gut microbiota include the use of probiotics, prebiotics, synbiotics, nutrition therapy (including exclusive enteral nutrition), and FMT (Anderson 2012; Colman 2014; Paramsothy 2017; Vindigni 2016). Most of these interventions have been the subject of Cochrane Reviews (Iheozor-Ejiofor 2020; Kaur 2020; Nguyen 2019), including the previous version of this updated review (Imdad 2018). Since the last version of this review (Imdad 2018), additional studies on this topic have been published (Březina 2021; Costello 2019; Crothers 2021; Fang 2021; Haifer 2022; Pai 2021; Paramsothy 2017; Sarbagili Shabat 2022; Sokol 2020; Sood 2019a; Zhao 2020). Therefore, we aimed to update the existing review to further assess the benefits and risks of FMT for treatment of IBD.
+
+# OBJECTIVES
+
+To evaluate the benefits and safety profile of FMT for treatment of IBD in adults and children versus autologous FMT, placebo, standard medication, or no intervention.
+
+# METHODS
+
+# Criteria for considering studies for this review
+
+# Types of studies
+
+We included only randomized controlled trials (RCTs). We excluded case reports, case series, case-control studies, single-arm cohort studies, and non-randomized studies with a comparator arm.
+
+# Types of participants
+
+Eligible studies included participants who were diagnosed with UC or CD based on their history, physical examination, and gross endoscopic and histologic evaluations. We excluded studies in which the diagnosis of IBD was made without endoscopic or histologic evaluation, as these two measures were considered key initial diagnostic studies for IBD (Mowat 2011). There were no age restrictions for participants. Included studies must have followed participants for at least six weeks after FMT (Feakins 2013). We excluded studies that used FMT for the treatment of pouchitis. We also excluded studies in which participants had active enteric infections such as C. difficile, as these conditions may mimic IBD. Furthermore, we excluded studies in which FMT was performed for rCDI in people with IBD and not for induction or maintenance of remission of IBD.
+
+# Types of interventions
+
+Eligible interventions evaluated FMT for the treatment of IBD. FMT for this review was defined as, "the administration of fecal material containing distal gut microbiota from a healthy individual (donor) to a patient with a disease or condition related to dysbiosis, or an alteration in their normal gut microbiota" (Kelly 2015). Control arms used autologous FMT, placebo, standard medication, or no intervention. We included studies irrespective of the type of stool (liquid or frozen), volume, route, frequency, and timing of the transplant (e.g. at initial diagnosis, to treat a flare, or to maintain remission). We excluded studies that used selective microbes rather than whole stool from the donor, as this intervention does not fulfill the definition of FMT (Kelly 2015).
+
+# Types of outcome measures
+
+# Primary outcomes
+
+- Induction of clinical remission in UC or CD at longest follow-up
+- Maintenance of clinical remission in UC or CD at longest follow-up
+- Serious adverse events in UC or CD as defined by study authors
+
+We measured the primary outcomes using the number of participants achieving clinical remission, maintaining remission, or experiencing serious adverse events, expressed as a proportion of the number of participants randomized to each group in a given trial. Further details on how data were extracted for primary outcomes are provided in the Measures of treatment effect section. We analyzed the data separately for primary outcomes in the induction and maintenance phases of treatment of UC and CD. The primary outcome of induction of clinical remission was measured at week eight and week 12 of follow-up, and at the longest follow-up. For the remaining primary outcomes, the longest follow-up time was considered before the trial was open for analysis.
+
+# Secondary outcomes
+
+- Any adverse events in UC or CD as defined by study authors
+- Endoscopic remission in UC or CD at longest follow-up
+- Quality of life (i.e. Inflammatory Bowel Disease Questionnaire [IBDQ] scores) at the time of measurement of the primary outcomes
+- Clinical response in UC or CD at longest follow-up
+- Endoscopic response in UC or CD at longest follow-up
+- Withdrawals in studies on UC or CD
+- Laboratory measures of inflammation, including erythrocyte sedimentation rate (ESR), C-reactive protein (CRP), and fecal calprotectin (FC), all of which were recorded as continuous outcomes, in UC or CD at longest follow-up
+- Microbiome outcomes
+
+We analyzed the data separately for secondary outcomes in the induction and maintenance phases of remission in UC and CD.
+
+Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

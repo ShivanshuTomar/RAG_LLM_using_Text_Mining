@@ -1,0 +1,49 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Allocation
+
+All 12 studies adequately described the methods for random sequence generation and were at low risk of bias (Březina 2021; Costello 2019; Crothers 2021; Fang 2021; Haifer 2022; Moayyedi 2015; Pai 2021; Paramsothy 2017; Rossen 2015; Sarbagili Shabat 2022; Sokol 2020; Sood 2019a). Fang 2021 did not explicitly address random sequence generation in the study text but specified the method in the published protocol and therefore was considered at low risk.
+
+Nine studies were at low risk of bias in the domain of allocation concealment (Costello 2019; Crothers 2021; Haifer 2022; Moayyedi 2015; Pai 2021; Paramsothy 2017; Rossen 2015; Sarbagili Shabat 2022; Sokol 2020), and three studies were at unclear risk (Březina 2021; Fang 2021; Sood 2019a).
+
+# Blinding
+
+Ten studies were at low risk of bias in the domain of blinding of participants (Costello 2019; Crothers 2021; Haifer 2022; Moayyedi 2015; Pai 2021; Paramsothy 2017; Rossen 2015; Sokol 2020; Sood 2019a), and two studies were at high risk (Březina 2021; Fang 2021).
+
+Ten studies were at low risk of bias in blinding of outcome assessors and study investigators (Březina 2021; Costello 2019; Crothers 2021; Fang 2021; Haifer 2022; Moayyedi 2015; Paramsothy 2017; Rossen 2015; Sarbagili Shabat 2022; Sood 2019a), and two studies were at high risk (Pai 2021; Sokol 2020). Březina 2021 was at low risk of bias in blinding of outcome assessors as the endoscopy pictures were read at a central location. However, this study may be at high risk of bias for other outcomes such as adverse events.
+
+# Incomplete outcome data
+
+Nine studies were at low risk of bias related to attrition (Březina 2021; Costello 2019; Fang 2021; Haifer 2022; Moayyedi 2015; Paramsothy 2017; Rossen 2015; Sarbagili Shabat 2022; Sood 2019a). Three studies were at high risk of bias based on incomplete data, as they had high attrition rates (Crothers 2021; Pai 2021; Sokol 2020).
+
+# Cochrane Database of Systematic Reviews
+
+# Selective reporting
+
+All included studies were at low risk of bias in selective reporting.
+
+# Other potential sources of bias
+
+We did not identify any other major risks of bias in the included studies.
+
+# Effects of interventions
+
+See: Summary of findings 1 Fecal microbiota transplantation compared to control for induction of remission in ulcerative colitis; Summary of findings 2 Fecal microbiota transplantation compared to control for maintenance of remission in ulcerative colitis; Summary of findings 3 Fecal microbiota transplantation compared to control for induction of remission in Crohn disease; Summary of findings 4 Fecal microbiota transplantation compared to control for maintenance of remission in Crohn disease.
+
+In this section, we describe the results of our review of studies on FMT for treatment of IBD, separately for: induction of remission in UC, maintenance of remission in UC, induction of remission in CD, and maintenance of remission in CD.
+
+# Comparison 1: fecal microbiota transplantation for induction of remission in ulcerative colitis
+
+# Primary outcomes
+
+Induction of clinical remission in ulcerative colitis at longest follow-up. Ten studies reported data on the use of FMT for induction of clinical remission in 468 participants with UC. Two studies used mesalamine as the control, two used autologous FMT, five used sham therapy such as water and isotonic saline, and one used the UC Exclusion Diet. The combined results at longest follow-up showed that FMT may increase rates of induction of clinical remission in participants with UC (RR 1.79, 95% CI 1.13 to 2.84; low-certainty evidence; Analysis 1.1; Figure 3). We downgraded the certainty of evidence due to risk of bias and imprecision (Summary of findings 1).
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

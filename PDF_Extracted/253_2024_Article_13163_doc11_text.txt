@@ -1,0 +1,39 @@
+# Applied Microbiology and Biotechnology (2024) 108:333
+
+reduces the levels of Firmicutes, Actinobacteria, and others (Xu et al. 2021). However, compared with the PBS DSS + group, administration of EcN, EcN-TNFαNb, or EcN-IL10 resulted in increased abundances of Bifidobacterium, Akkermansia, and Lactobacillus. Moreover, the increasing ratio of Bacteroidetes to Firmicutes has been associated with improved colitis outcomes in mice models (Li et al. 2022), and administration of EcN-TNFαNb and EcN-IL10 combination significantly augmented the ratio of Bacteroidetes to Firmicutes, which had been reduced due to DSS treatment.
+
+These results mean that the administration of the engineered bacteria has a certain regulatory effect on IBD. Although our work provides preliminary evidence of the effects of engineered bacteria on the gut microbiota of enteritis mice, further in-depth research is necessary to uncover the underlying mechanisms in the future work. The efficacy of IBD treatment in mice is enhanced with a combination of dual bacterial strains.
+
+After conducting experiments on mice with constitutive engineered bacteria, it has been established that the high toxicity of these bacteria may lead to additional inflammation. Furthermore, we have successfully engineered inducible genetically modified bacteria that possess the capability to regulate the secretion levels of drug proteins. ELISA and Western blotting revealed that the expression of anti-TNF-α nanobody and IL-10 were induced by thiosulfate in a dose-dependent manner from 0 to 500 μM, which is the range of intestinal thiosulfate concentrations in DSS-induced inflammatory bowel disease in mice according to previous studies (Zou et al. 2023).
+
+The microorganism engineered with intelligence in the current experiments comprises solely of sensing and drug-releasing elements, yet its capabilities can be further expanded. Henceforth, the focal point of this study will be on the exploration of efficient methods for the secretion of multiple proteins within a singular bacterial cell in the upcoming future.
+
+Previous works had proven that TNF-α nanobodies (Vandenbroucke et al. 2010) and IL-10 exhibited satisfying effects on the treatment of IBD (Steidler et al. 2000). Moreover, the level of IL-10 in people with enteritis was increased, which could effectively inhibit inflammation (Kucharzik et al. 1995; Wang et al. 2011). Notably, the effects of IL-10 expressed by an engineered bacterial strain was much better than that of purified IL-10 in other reports (Steidler et al. 2000). In this study, our main focus was on investigating the alleviating effect of using engineered bacteria (single engineered bacteria or cocktails) as carriers to express and deliver therapeutic proteins for inflammatory bowel disease. Therefore, we did not include a control group of animals that received purified TNF-a nanobodies and IL-10 intravenously in this study. Although the modified engineered bacteria have demonstrated efficacy in treating IBD, several issues persist. First, it remains unclear whether these bacteria can replicate their success in other animal models beyond mice. Second, our engineered bacteria require further research to determine their stability and safety in relation to human health. Thirdly, unlike chemotherapy drugs and biopharmaceutical agents, bacterial-based drug delivery systems cannot undergo conventional sterilization methods, rendering the establishment of good manufacturing practice (GMP) more challenging.
+
+Despite the existing uncertainties, it is undeniable that in vivo drugs based on synthetic biology technology are highly customizable and align with the general direction of precision medicine. Their development prospects are promising, and we anticipate that more patients suffering from IBD will benefit from this study in the future.
+
+# Supplementary information
+
+The online version contains supplementary material available at https://doi.org/10.1007/s00253-024-13163-w.
+
+# Author contribution
+
+Y.-Q. W. and Z.-P. Z. are joint first authors. The work was conceptualized by Y.-Q. W. and Z.-P. Z. All experimental work was performed by Y.-Q. W. The manuscript was written by Y.-Q. W. with revisions of Z.-P. Z., Y. Z. and B.-C. Y.
+
+# Funding
+
+This work is supported by the National Key R&D Program of China (2023YFF1204500), the National Natural Science Foundation of China (22134003), the National Key Research and Development Program of China (2020YFA0908800), and the China Postdoctoral Science Foundation (2023M741176).
+
+# Declarations
+
+# Ethical approval
+
+All animal procedures were performed in accordance with the Guidelines for Care and Use of Laboratory Animals of East China University of Science and Technology, and the experiments were approved by the Animal Ethics Committee of East China University of Science and Technology.
+
+# Conflict of interest
+
+The authors declare no competing interests.
+
+# Open Access
+
+This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.

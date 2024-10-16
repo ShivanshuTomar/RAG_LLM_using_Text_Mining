@@ -1,0 +1,29 @@
+# Armstrong et al. Microbiome (2023) 11:39
+
+and passage in gut-associated lymphoid tissue while also dampening the antiviral immune responses [17].
+
+The aim of this study was to address the hypothesis that MMTV infection contributes to development of spontaneous colitis observed in the IL-10−/− model. Accordingly, we sought evidence of exogenous MMTV infection in weanling milk, vSAG activity in the colon, and cellular immune responses to MMTV and studied the effects of combination antiretroviral therapy (cART) known to inhibit MMTV [21]. We observed a significant reduction in colonic histology scores in IL-10−/− mice, linked with reduced expression of MMTV RNA, pro-inflammatory cytokines within the colon, and resultant changes in the microbiome in support of our hypothesis.
+
+# Methods
+
+# Animal model
+
+IL-10-deficient 129(B6)-IL-10tm1Cgn/J mice and wild-type mice on the same background were derived from DNAX Research Institute of Molecular and Cellular Biology Inc., Palo Alto, CA, USA, and bred at the Health Sciences Laboratory Animal Services at the University of Alberta (Edmonton, Canada). All mice were kept under 25 °C and 45–55% humidity conditions. The protocol was approved by the University of Alberta Health Research Ethics Board (study ID AUP0000510 and AUP0000138).
+
+# Cellular immune response to MMTV Gag peptides
+
+One million splenocytes from SvEv mice and IL-10 − / − mice (n = 4) were seeded in duplicate in 24-well plates with 1-ml R10 medium (RPMI 1640 medium, 10% FBS, 1% penicillin–streptomycin, 25-mM HEPES buffer and L-glutamine). Individual wells were stimulated for 24 h at 37 °C with 2 μg/ml of 58 overlapping 15–20 mer peptides covering the Betaretrovirus Gag protein (Supplementary Table 1) synthesized by mimotopes (Victoria, Australia); 50 ng/ml PMA and 1 ug/ml ionomycin served as a positive control, and the negative control “nil” incorporated 30% DMSO used as a carrier for the peptides. After incubation for 24 h at 37 °C, 50 μl supernatant was assessed by ELISA to quantify interferon (IFN)-γ production using V-PLEX IFN-γ [range 0.04–570 pg/ml the Meso Scale Discovery (MSD) platform] following manufacturer’s directions.
+
+# Next‑generation sequencing (NGS) and characterization of MMTV in IL10 −/− mouse milk
+
+Mouse milk was obtained from stomachs of 3–5-day-old IL-10−/− and SvEv weanling pups (n = 8), as described [22]. Lactoserum was derived by homogenizing stomachs in 2-ml PBS and centrifuged at 2000 g for 15 min at 4 °C. Both the stomach pellet and lactoserum supernatant were used to make libraries. The lactoserum was further purified using a 30% PBS/sucrose cushion and centrifuged at 90,000 g for 1 h at 4 °C. The lactoserum pellet was resuspended in 500 μl of PBS and centrifuged at 10,000 RPM for 10 min at 4 °C; the supernatant was processed through a 0.45 μm filtered and stored at − 80 °C.
+
+Total RNA was extracted from the lactoserum and stomach pellet using TRIzol reagent (Invitrogen); ribosomal RNA was removed using the Ribo-Zero rRNA removal kit (Illumina) and converted to cDNA synthesis using superscript II (Invitrogen). MMTV nucleic acid was quantified using RT-qPCR, as described [13]. Total lactoserum cDNA was cloned into Illumina TruSeq libraries (RNAv2 kit, Illumina) and enriched for MMTV sequences using capture probes synthesized by Panomics for the QuantiGene assay (RefSeq NC_001503.1). The capture was amplified by PCR for 10 cycles and sequenced using the MiSeq reagent kit v2 2 × 250 on an Illumina MiSeq instrument. For genome assembly, the sequences were assembled with the software SPAdes and then aligned against the RefSeq database of NCBI with Blast.
+
+# Cloning of viral superantigen (vSAG)
+
+The MMTV sag gene 3′ region was derived from IL-10−/− spleen RNA by conversion to complementary DNA using a SuperScript IV Reverse Transcriptase kit (Invitrogen) and PCR amplification with two separate primer sets: (i) SAg-F1: GGTGGCAACCAGGGACTTAT, Sag-R1: CCACTTGTCTCACATCCTCGT, and Sag-F-inner1: CAA CAG ATGCCCCCTTACCA and (ii) Sag-F5: AAAGAG GAG TGCGCTTGTCA, Sag-R5: ACCAAG TCAGGA AACCACTTGT, and Sag-F-inner5: TTACAG ACCAAC AGACGCCC. Semi-nested PCR was conducted using 200 ng of cDNA with Taq DNA polymerase (Invitrogen) using thermocycler parameters set to 95 °C: 5 min (95 °C: 35 s, 52 °C: 30 s, 72 °C 40 s)× 45 cycles. Both reactions provided two products per reaction that were gel purified in a 2% agarose gel using a GeneJET Gel Extraction Kit (Thermo Scientific Corp.). Each product was cloned using the pGEM®-T Easy Vector Kit (Promega Corp.) to derive 12 clones using the GeneJET plasmid purification kit (Thermo Scientific) for Sanger sequencing.
+
+# T‑cell receptor (TCR) Vβ subset analyses
+
+Total RNA was extracted from colon and spleen samples of 3 IL-10−/−, 3 SvEv WT, and 5 C57BL/6 mice and reverse transcribed to cDNA using random primers. Single-strand cDNA was used as template for PCR amplification of the complementarity-determining regions of the TCR using the Cβ primer and a set of 23 mouse Vβ primers, described previously [23]. Each Vβ-specific primer and Cβ primer were modified to contain the universal binding sequence at 5′ end for

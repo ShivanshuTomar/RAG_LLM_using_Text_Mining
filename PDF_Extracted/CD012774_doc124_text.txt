@@ -1,0 +1,41 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Library
+
+# Better health.
+
+# Table 1. Microbiome outcomes (Continued)
+
+# Cochrane Database of Systematic Reviews
+
+ta compo- mon donors (A and B) used in this study. The Bray-Curtis dissimilarity metric demonstrated that patients receiving FMT showed a change in their microbiota following FMT. This shift led to microbiota that was more similar to the donor microbiota over time. Moreover, the authors observed a difference in the microbiota between responders and non-responders. Interestingly, two donors were associated with more successful FMTs and these individuals harbored increased Ruminococcus and Lachnospiraceae and decreased abundance of Streptococci and Escherichia.
+
+- Lachnospiraceae
+- Blautia
+- Faecalibacterium
+- Ruminococcaceae
+- Clostridiaceae
+- Subdoligranulum
+- Bacteroides
+- Prevotella
+- Lachnospira
+- Clostridiales
+- Erysipelotrichaceae
+- Ruminococcaceae
+- Oscillospira
+- Ruminococcus
+- Eubacterium
+
+Paramsothy 2017 UC MiSeq Illumina "Increased α diversity was specific to faecal microbiota transplantation; three patients allocated placebo who met criteria for the primary outcome showed no change in diversity. Faecal microbiota transplantation therapy was associated with a significant increase in α diversity, which was durable 8 weeks after treatment.
+
+Several microbial taxa were associated with remission after double-blind faecal microbiota transplantation (Barnesiella spp, Parabacteroides spp, Clostridium cluster IV, and Ruminococcus spp) and after open-label faecal microbiota transplantation (Blautia spp, Dorea spp, Ruminococcus, and Clostridium cluster XVIII). Both Fusobacterium spp and Sutterella spp were associated consistently with no remission in patients who had double-blind and open-label faecal microbiota transplantation.
+
+The study sequenced the V1 through V3 region of 16S rRNA gene using MiSeq Illumina technology. Microbiota analysis and curation were performed utilizing mothur, and altered members of the microbiota were identified using the biomarker discovery algorithm linear discriminant analysis Effect Size (LEfSe). Shotgun metagenomics sequencing was also performed in subsequent follow-up studies. The authors performed RNA extraction to ensure that bacteria detected in their analyses were live and active bacteria. Microbiota analyses were done on 70 patients (314 fecal samples) and 113 donor fecal samples; 55 individual donors were used and 58 batched donor samples. The microbiota of donors was analyzed along with patients receiving individual or batched dFMTs. For recipients, the microbiota composition was analyzed prior to and following FMT, and patients were binned into responders and non-responders. The microbiota of batched donor samples showed higher phylogenetic diversity than individual donors, and overall donor samples had higher diversity than baseline samples from patients.
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

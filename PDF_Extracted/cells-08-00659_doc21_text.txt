@@ -1,0 +1,24 @@
+# Cells 2019, 8, 659
+
+# References
+
+1. Bailey, M.T.; Coe, C.L. Maternal separation disrupts the integrity of the intestinal microflora in infant rhesus monkeys. Dev. Psychobiol. 1999, 35, 146–155. [CrossRef]
+2. O’Mahony, S.M.; Marchesi, J.R.; Scully, P.; Codling, C.; Ceolho, A.M.; Quigley, E.M.; Cryan, J.F.; Dinan, T.G. Early life stress alters behavior, immunity, and microbiota in rats: Implications for irritable bowel syndrome and psychiatric illnesses. Biol. Psychiatry 2009, 65, 263–267. [CrossRef] [PubMed]
+3. Gao, X.; Cao, Q.; Cheng, Y.; Zhao, D.; Wang, Z.; Yang, H.; Wu, Q.; You, L.; Wang, Y.; Lin, Y.; et al. Chronic stress promotes colitis by disturbing the gut microbiota and triggering immune system response. Proc. Natl. Acad. Sci. USA 2018, 115, E2960–E2969. [CrossRef] [PubMed]
+4. Soderholm, J.D.; Yang, P.C.; Ceponis, P.; Vohra, A.; Riddell, R.; Sherman, P.M.; Perdue, M.H. Chronic stress induces mast cell-dependent bacterial adherence and initiates mucosal inflammation in rat intestine. Gastroenterology 2002, 123, 1099–1108. [CrossRef] [PubMed]
+5. Saunders, P.R.; Santos, J.; Hanssen, N.P.; Yates, D.; Groot, J.A.; Perdue, M.H. Physical and psychological stress in rats enhances colonic epithelial permeability via peripheral CRH. Dig. Dis. Sci. 2002, 47, 208–215. [CrossRef]
+6. Meddings, J.B.; Swain, M.G. Environmental stress-induced gastrointestinal permeability is mediated by endogenous glucocorticoids in the rat. Gastroenterology 2000, 119, 1019–1028. [CrossRef]
+7. Santos, J.; Yang, P.C.; Soderholm, J.D.; Benjamin, M.; Perdue, M.H. Role of mast cells in chronic stress induced colonic epithelial barrier dysfunction in the rat. Gut 2001, 48, 630–636. [CrossRef]
+8. Gareau, M.G.; Sherman, P.M.; Walker, W.A. Probiotics and the gut microbiota in intestinal health and disease. Nat. Rev. Gastroenterol. Hepatol. 2010, 7, 503–514. [CrossRef]
+9. Zareie, M.; Johnson-Henry, K.; Jury, J.; Yang, P.C.; Ngan, B.Y.; McKay, D.M.; Soderholm, J.D.; Perdue, M.H.; Sherman, P.M. Probiotics prevent bacterial translocation and improve intestinal barrier function in rats following chronic psychological stress. Gut 2006, 55, 1553–1560. [CrossRef]
+10. Garcia-Rodenas, C.L.; Bergonzelli, G.E.; Nutten, S.; Schumann, A.; Cherbut, C.; Turini, M.; Ornstein, K.; Rochat, F.; Corthesy-Theulaz, I. Nutritional approach to restore impaired intestinal barrier function and growth after neonatal stress in rats. J. Pediatr. Gastroenterol. Nutr. 2006, 43, 16–24. [CrossRef]
+11. Noguera, J.C.; Aira, M.; Perez-Losada, M.; Dominguez, J.; Velando, A. Glucocorticoids modulate gastrointestinal microbiome in a wild bird. R. Soc. Open Sci. 2018, 5, 171743. [CrossRef] [PubMed]
+12. Da Silva, S.; Robbe-Masselot, C.; Ait-Belgnaoui, A.; Mancuso, A.; Mercade-Loubiere, M.; Salvador-Cartier, C.; Gillet, M.; Ferrier, L.; Loubiere, P.; Dague, E.; et al. Stress disrupts intestinal mucus barrier in rats via mucin O-glycosylation shift: Prevention by a probiotic treatment. Am. J. Physiol. Gastrointest. Liver Physiol. 2014, 307, G420–G429. [CrossRef] [PubMed]
+13. Walker, L.S.; Garber, J.; Smith, C.A.; Van Slyke, D.A.; Claar, R.L. The relation of daily stressors to somatic and emotional symptoms in children with and without recurrent abdominal pain. J. Consult. Clin. Psychol. 2001, 69, 85–91. [CrossRef] [PubMed]
+14. Zijlmans, M.A.; Korpela, K.; Riksen-Walraven, J.M.; de Vos, W.M.; de Weerth, C. Maternal prenatal stress is associated with the infant intestinal microbiota. Psychoneuroendocrinology 2015, 53, 233–245. [CrossRef] [PubMed]
+15. Maes, M.; Kubera, M.; Leunis, J.C.; Berk, M. Increased IgA and IgM responses against gut commensals in chronic depression: Further evidence for increased bacterial translocation or leaky gut. J. Affect. Disord. 2012, 141, 55–62. [CrossRef] [PubMed]
+16. Van der Zaag-Loonen, H.J.; Grootenhuis, M.A.; Last, B.F.; Derkx, H.H. Coping strategies and quality of life of adolescents with inflammatory bowel disease. Qual. Life Res. 2004, 13, 1011–1019. [CrossRef] [PubMed]
+17. McEwen, B.S.; Gianaros, P.J. Central role of the brain in stress and adaptation: Links to socioeconomic status, health, and disease. Ann. N. Y. Acad. Sci. 2010, 1186, 190–222. [CrossRef]
+18. Sudo, N.; Chida, Y.; Aiba, Y.; Sonoda, J.; Oyama, N.; Yu, X.N.; Kubo, C.; Koga, Y. Postnatal microbial colonization programs the hypothalamic-pituitary-adrenal system for stress response in mice. J. Physiol. 2004, 558, 263–275. [CrossRef]
+19. Neufeld, K.M.; Kang, N.; Bienenstock, J.; Foster, J.A. Reduced anxiety-like behavior and central neurochemical change in germ-free mice. Neurogastroenterol. Motil. 2011, 23, 255-e119. [CrossRef]
+20. Diaz Heijtz, R.; Wang, S.; Anuar, F.; Qian, Y.; Bjorkholm, B.; Samuelsson, A.; Hibberd, M.L.; Forssberg, H.; Pettersson, S. Normal gut microbiota modulates brain development and behavior. Proc. Natl. Acad. Sci. USA 2011, 108, 3047–3052. [CrossRef]

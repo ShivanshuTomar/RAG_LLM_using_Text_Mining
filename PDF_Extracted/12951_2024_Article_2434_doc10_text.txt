@@ -1,0 +1,21 @@
+# Yang et al. Journal of Nanobiotechnology (2024) 22:166
+
+# Page 11 of 16
+
+of the beneficial Lachnospiraceae NK4A136. Conversely, a negative correlation was observed between the production of pro-inflammatory cytokines and the presence of pathogenic bacteria (Additional file 1: Fig. S7). Besides, YBNs@PDA treatment potently protected colon length from DSS-induced shortening and lowered the DAI scores, indicating a significant decreased colonic inflammation in mice (Fig. 7C and D and Additional file 1: Fig. S8).
+
+# Moderation of colitis in a delay setting of treatment
+
+Lastly, we assessed the therapeutic potential of YBNs@PDA when administered at a later stage of disease progression in mice with acute colitis. Mice were initially treated with 2.5% DSS added in the water for 5 days to induce colitis, and randomly divided into four groups: PBS, YBNs and YBNs@PDA (two dosages) (Fig. 7A). On day 8 of the experiment, oral administration with YBNs@PDA showed an earlier recovery in body weight.
+
+In the epithelium, the number of apoptotic cells has been observed to decrease significantly. Representative immune-fluorescence images and western blot show increased occludin and claudin-1 at 110 - Walet.
+
+|Treatment|Time (day)|
+|---|---|
+|Water|2.596 DSS|
+|PBS|PBS|
+|YBNs@PDA-L|YBNs@PDA-H|
+|YBNs|[|
+|PBSFaS|Wate [YBNSEPDAL"YBNS@PDA-t2.5%: DSS|
+
+Fig. 7 Colitis alleviation effect of YBNs@PDA in a delayed therapeutic setting. (A) Experimental timeline for different treatments. (B) Daily bodyweight changes in each group. YBNs (10 mg/kg) or YBNs@PDA (L: low dose: 5 mg/kg; H: High dose: 10 mg/kg). (C) Macroscopic colon appearance of each group. (D) Colon length was determined in the indicated groups. (E) Representative hematoxylin and eosin (H&E) staining images, alcian blue images, colonic MPO and Tunel images of colon tissue of each group, respectively. Data are presented as mean ± standard deviation from a representative experiment (n = 6). *P < 0.05, analysed by two-tailed unpaired Student’s t-test (D)

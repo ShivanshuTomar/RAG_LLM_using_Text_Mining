@@ -1,0 +1,44 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Zhang 2019 (Continued)
+
+# • Endoscopic score
+
+Notes: Blinding information of the study not available.
+
+Abstract available in English. The study itself could not be translated.
+
+5-ASA: 5-aminosalicylic acid; BMI: body mass index; CD: Crohn disease; CRP: C-reactive protein; ESR: erythrocyte sedimentation rate; FMT: fecal microbiota transplantation; HTLV: human T-lymphotropic virus type; IBD: inflammatory bowel disease; n: number; PCDAI: Pediatric Crohn's Disease Activity Index; RCT: randomized controlled trial; UC: ulcerative colitis.
+
+# Characteristics of ongoing studies [ordered by study ID]
+
+|Study ID|Study name|Methods|Participants|Interventions|Outcomes|Starting date|
+|---|---|---|---|---|---|---|
+|CTRI/2021/03/032131|Stool transplant for treatment of colitis and Crohn's disease|RCT conducted in India|Inclusion criteria: - People with IBD ages ≥ 18 years at the time of enrollment with written informed consent to participate
+Exclusion criteria: - Age < 18 years
+- Pregnancy
+- HIV-positive
+- Disseminated or advanced malignancy
+- Concomitant severe underlying systemic illness that, in the opinion of the investigator, would interfere with completion of follow-up
+- Active drug use or dependence that, in the opinion of the investigator, would interfere with adherence to study requirements
+- Any other condition which, in the opinion of the investigator, would impede compliance or hinder completion of study
+- Inability to provide informed consent
+|Experimental arm: - FMT via colonoscopy
+Control arm: - Sham colonoscopy
+|Primary outcome: - Efficacy of FMT in UC and CD at weeks 4, 12, 24, and 52
+Secondary outcomes: - Efficacy and safety of FMT in pouchitis and extra-intestinal manifestations of IBD at weeks 4, 12, 24, 52
+- Microbiota profile of the donors and FMT recipients pre- and post-FMT, compared with donor microbiota profile, at weeks 4, 12, 24, and 52
+- Safety of FMT in UC and CD at weeks 4, 12, 24, and 52
+|1 April 2021|
+
+Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

@@ -1,0 +1,37 @@
+# www.nature.com/scientificreports/
+
+Subsequently, the role of drugs or inhibitors used to suppress the effect of IBD and ReA such as indomethacin, prednisone, ciprofloxacin, sulfasalazine, azathioprine, methotrexate and hydroxychloroquine was scored in the disease network through their docking studies against the potential targets (both host as well microbial targets) as per published methodologies68,69. The host-microbe disease network which is an amalgamation of all the above patterned associations was visualized using Cytoscape software70.
+
+Molecular mimicry analysis between the vital targets triggering IBD co-evolved ReA, essential human proteins including HLA-B27, HLA-B51 and HLA-DRB1 was done using data repository ExPASy. This led to retrieval of microbe relayed protein sequences that have been implicated in disease development after sequence alignment performed using EMBOSS71.
+
+Experimental evidences to identify the signature molecules in patient samples. The cross-validation of vital in-silico targets was done in ReA patient cohort cases via targeted gene expression analysis. Scientific and ethical clearance was taken from Amity University Ethics Committee and Institutional Ethics Committee, Fortis Noida for handling the patient samples. All experiments were performed in accordance with Indian Council of Medical Research (ICMR) guidelines constituting the ethics committees. The study was carried out for 6 months on the rare disorder ReA patients, with the inclusion criteria as patients having ReA according to European Spondyloarthropathy Study Group (ESSG)72 and exclusion criteria as patients undergoing treatment from last 3–6 months and healthy controls (HC).
+
+The participants were inducted in the study design with an informed consent form along with a questionnaire containing information regarding symptomatic and diagnostic history of patient and linked disorders.
+
+Blood (5 mL) was drawn from participants in ethylenediaminetetraacetic acid (EDTA) vacutainers. These were transported to the laboratory for further analysis. The processing of the samples was done within 2–4 h of procurement73. Peripheral blood mononuclear cells (PBMC’s) were isolated from blood using density gradient centrifugation74. RNA was isolated from PBMC’s using TRIzol method75. The quantification of RNA was done using nano-drop76. The High Capacity cDNA Reverse Transcription Kit (Applied Biosystems™) was used for conversion of RNA to single-stranded cDNA as per the standard protocol77. Quantitative PCR analysis of target gene was executed using Biorad CFX96 Real time-PCR taking human housekeeping gene, GAPDH as a reference. Previously reported primers for qPCR analysis of target and reference gene were selected for this study78,79 following the standard protocol80. Relative gene expression analysis from qPCR data was performed using the Relative Expression Software Tool (REST® 2009)81 that utilises the expression of reference genes to normalize expression of target genes in different samples.
+
+The schematic representation of methodology involved in our combinatorial analysis is provided in Fig. 1.
+
+# Results
+
+# Text mining: data screening and selection.
+
+A systematic literature mining and curation for our thematic connecting autoimmune disorders, Inflammatory Bowel Disease (IBD) and Reactive Arthritis (ReA) was carried out. Data identification extracted 1,071 records (articles in journals, book chapters, conference papers etc.) corresponding to autoimmune and enteric disorders. Data screening extracted 426 records of autoimmune and enteric disorders triggered by microorganisms that belong to class of bacteria, fungi, protozoan, mites, virus, yeast and nematode. Data selection yielded 48 IBD, 32 ReA and 5 IBD co-evolved ReA records. Data selection was directed towards the microbial contenders implicated here resulting in 6 target microorganisms namely Campylobacter jejuni, Escherichia coli O157:H7, Klebsiella oxytoca, Salmonella typhimurium, Shigella dysenteriae and Yersinia enterocolitica, whose genome information was available. The etiopathogenesis in the co-evolved disorders have been documented through gut microbiome associated host–pathogen interactions studies, perpetuating where pathogen microorganisms involve in dysbiosis leading to autoimmunity.
+
+The results of text mining are provided in Fig. 2. The list of microorganisms is provided in Supplementary Table S1 online.
+
+# Metabolic network reconstruction, simulation and data filtering.
+
+The draft reconstructs consisting of genes along with their corresponding proteins, reactions and metabolites for the selected microorganisms serve as primary set of partial metabolic network information. The missing data persistent in the draft reconstruct obtained through Genome-scale Metabolic models Simulation, Reconstruction and Visualization (GEM-SiRV) was manually refined. Entirely associated metabolic networks of target microorganisms were obtained (genes, proteins and reactions).
+
+The essential genes of microorganisms (vital for survival, sustenance and growth) were obtained after performing simulation on mathematical models consisting of gene associated reactions and metabolites (metabolites, inner cell reactions, exchange reactions and essential genes).
+
+Due to lack of availability of exchange reactions for Campylobacter jejuni, simulation analysis on the partial metabolic network could not be carried out and essential genes could not be retrieved. An alternative approach for finding essential genes of Campylobacter jejuni was carried out. The essential genes of Campylobacter jejuni were taken from our previous published report and were found out to be 22869.
+
+# Table 1
+
+Table 1 portrays the results of metabolic network reconstruction and simulation of target microorganisms. The metabolic network and simulation analysis data of target microorganisms is provided in Supplementary Table S2 online.
+
+The proteins corresponding to essential genes, non-repeats and non-homologs were obtained as stated below according to the parenthesis {proteins corresponding to essential genes, non-repeats, non-homologs}.
+
+Scientific RepoRtS | (2020) 10:15131 | https://doi.org/10.1038/s41598-020-71674-8

@@ -1,0 +1,49 @@
+# References
+
+1. Mills S, Stamos MJ. Colonic Crohn's disease. Clin Colon Rectal Surg. 2007;20:309-313.
+2. Feuerstein JD, Cheifetz AS. Crohn disease: epidemiology, diagnosis, and management. Mayo Clin Proc. 2017;92:1088-1103.
+3. DeRoche TC, Xiao SY, Liu X. Histological evaluation in ulcerative colitis. Gastroenterol Rep (Oxf). 2014;2:178-192.
+4. Perler BK, Ungaro R, Baird G, et al. Presenting symptoms in inflammatory bowel disease: descriptive analysis of a community-based inception cohort. BMC Gastroenterol. 2019;19:47.
+5. Si X, Liu N, Jia H, et al. Gut relief formula attenuates dextran sulfate sodium-induced colitis by regulating NF-kappaB signaling and the intestinal microbiota in mice. Food Funct. 2021;12:10983-10993.
+6. Collaborators GBDIBD. The global, regional, and national burden of inflammatory bowel disease in 195 countries and territories, 1990-2017: a systematic analysis for the Global Burden of Disease Study 2017. Lancet Gastroenterol Hepatol. 2020;5:17-30.
+7. Kaplan GG. The global burden of IBD: from 2015 to 2025. Nat Rev Gastroenterol Hepatol. 2015;12:720-727.
+8. Caruso R, Lo BC, Núñez G. Host-microbiota interactions in inflammatory bowel disease. Nat Rev Immunol. 2020;20:411-426.
+9. Guan Q. A comprehensive review and update on the pathogenesis of inflammatory bowel disease. J Immunol Res. 2019;2019:7247238.
+10. Rogler G, Vavricka S. Exposome in IBD: recent insights in environmental factors that influence the onset and course of IBD. Inflamm Bowel Dis. 2015;21:400-408.
+11. Zhang Y-Z, Li Y-Y. Inflammatory bowel disease: pathogenesis. World J Gastroenterol. 2014;20:91-99.
+12. Liu JZ, van Sommeren S, Huang H, et al. Association analyses identify 38 susceptibility loci for inflammatory bowel disease and highlight shared genetic risk across populations. Nat Genet. 2015;47:979-986.
+13. McGovern DP, Kugathasan S, Cho JH. Genetics of inflammatory bowel diseases. Gastroenterology. 2015;149:1163-1176.e2.
+14. Llewellyn SR, Britton GJ, Contijoch EJ, et al. Interactions between diet and the intestinal microbiota alter intestinal permeability and colitis severity in mice. Gastroenterology. 2018;154:1037-1046.e2.
+15. Zhai Z, Zhang F, Cao R, et al. Cecropin A alleviates inflammation through modulating the gut microbiota of C57BL/6 mice with DSS-induced IBD. Front Microbiol. 2019;10:1595.
+16. Yadav V, Varum F, Bravo R, et al. Inflammatory bowel disease: exploring gut pathophysiology for novel therapeutic targets. Transl Res. 2016;176:38-68.
+17. Honda K, Littman DR. The microbiome in infectious disease and inflammation. Annu Rev Immunol. 2012;30:759-795.
+18. Li Z, Zhu H, Zhang L, et al. The intestinal microbiome and Alzheimer's disease: A review. Animal Model Exp Med. 2018;1:180-188.
+19. Mukherjee PK, Sendid B, Hoarau G, et al. Mycobiota in gastrointestinal diseases. Nat Rev Gastroenterol Hepatol. 2015;12:77-87.
+20. Forbes JD, Bernstein CN, Tremlett H, et al. A fungal world: could the gut mycobiome be involved in neurological disease? Front Microbiol. 2018;9:3249.
+21. Santus W, Devlin JR, Behnsen J. Crossing Kingdoms: how the mycobiota and fungal-bacterial interactions impact host health and disease. Infect Immun. 2021;89:e00648-20.
+22. Panpetch W, Hiengrach P, Nilgate S, et al. Additional Candida albicans administration enhances the severity of dextran sulfate solution induced colitis mouse model through leaky gut-enhanced systemic inflammation and gut-dysbiosis but attenuated by Lactobacillus rhamnosus L34. Gut Microbes. 2020;11:465-480.
+23. Richard ML, Sokol H. The gut mycobiota: insights into analysis, environmental interactions and role in gastrointestinal diseases. Nat Rev Gastroenterol Hepatol. 2019;16:331-345.
+24. Ungaro F, Massimino L, Furfaro F, et al. Metagenomic analysis of intestinal mucosa revealed a specific eukaryotic gut virome signature in early-diagnosed inflammatory bowel disease. Gut Microbes. 2019;10:149-158.
+25. Adiliaghdam F, Amatullah H, Digumarthi S, et al. Human enteric viruses autonomously shape inflammatory bowel disease phenotype through divergent innate immunomodulation. Sci Immunol. 2022;7:eabn6660.
+26. Norman JM, Handley SA, Baldridge MT, et al. Disease-specific alterations in the enteric virome in inflammatory bowel disease. Cell. 2015;160:447-460.
+27. Wang Z, Guo K, Liu Y, et al. Dynamic impact of virome on colitis and colorectal cancer: Immunity, inflammation, prevention and treatment. Semin Cancer Biol. 2021.
+28. Clooney AG, Sutton TDS, Shkoporov AN, et al. Whole-virome analysis sheds light on viral dark matter in inflammatory bowel disease. Cell Host Microbe. 2019;26:764-778.e5.
+29. Liu S, Zhao W, Lan P, et al. The microbiome in inflammatory bowel diseases: from pathogenesis to therapy. Protein Cell. 2021;12:331-345.
+30. Zuo T, Ng SC. The gut microbiota in the pathogenesis and therapeutics of inflammatory bowel disease. Front Microbiol. 2018;9:2247.
+31. Zhang M, Sun K, Wu Y, et al. Interactions between intestinal microbiota and host immune response in inflammatory bowel disease. Front Immunol. 2017;8:942.
+32. Cahana I, Iraqi FA. Impact of host genetics on gut microbiome: Take-home lessons from human and mouse studies. Animal Model Exp Med. 2020;3:229-236.
+33. Qin J, Li R, Raes J, et al. A human gut microbial gene catalogue established by metagenomic sequencing. Nature. 2010;464:59-65.
+34. Human Microbiome Project C. Structure function and diversity of the healthy human microbiome. Nature. 2012;486:207-214.
+35. Arumugam M, Raes J, Pelletier E, et al. Enterotypes of the human gut microbiome. Nature. 2011;473:174-180.
+36. Koenig JE, Spor A, Scalfone N, et al. Succession of microbial consortia in the developing infant gut microbiome. Proc Natl Acad Sci USA. 2011;108(Suppl 1):4578-4585.
+37. Bäckhed F, Roswall J, Peng Y, et al. Dynamics and stabilization of the human gut microbiome during the first year of life. Cell Host Microbe. 2015;17:690-703.
+38. Sommer F, Bäckhed F. The gut microbiota- -masters of host development and physiology. Nat Rev Microbiol. 2013;11:227-238.
+39. Turnbaugh PJ, Hamady M, Yatsunenko T, et al. A core gut microbiome in obese and lean twins. Nature. 2009;457:480-484.
+40. Nishida A, Inoue R, Inatomi O, et al. Gut microbiota in the pathogenesis of inflammatory bowel disease. Clin J Gastroenterol. 2018;11:1-10.
+41. Macfarlane S, Macfarlane GT. Regulation of short-chain fatty acid production. Proc Nutr Soc. 2003;62:67-72.
+42. Sartor RB. Microbial influences in inflammatory bowel diseases. Gastroenterology. 2008;134:577-594.
+43. Cantarel BL, Lombard V, Henrissat B. Complex carbohydrate utilization by the healthy human microbiome. PLoS One. 2012;7:e28742.
+44. Mattijssen F, Alex S, Swarts HJ, et al. Angptl4 serves as an endogenous inhibitor of intestinal lipid digestion. Mol Metab. 2014;3:135-144.
+45. Korecka A, de Wouters T, Cultrone A, et al. ANGPTL4 expression induced by butyrate and rosiglitazone in human intestinal epithelial cells utilizes independent pathways. Am J Physiol Gastrointest Liver Physiol. 2013;304:G1025-G1037.
+46. Jandhyala SM, Talukdar R, Subramanyam C, et al. Role of the normal gut microbiota. World J Gastroenterol. 2015;21:8787-8803.
+47. LeBlanc JG, Laiño JE, del Valle MJ, et al. B-group vitamin production by lactic acid bacteria- -current knowledge and potential applications. J Appl Microbiol. 2011;111:1297-1309.

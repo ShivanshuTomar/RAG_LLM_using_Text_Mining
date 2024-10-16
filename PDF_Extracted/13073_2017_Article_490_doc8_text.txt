@@ -1,0 +1,15 @@
+# Hall et al. Genome Medicine (2017) 9:103
+
+clades highlighted three more cases of blooms of R. gnavus clade 2 (patients 9216, 8712, and 9193). Interestingly, R. gnavus clade 2 was also identified in infants from the DIABIMMUNE cohort (RJX1118 and RJX1119; Additional file 6: Figure S1) [10] where the abundance of R. gnavus is considerably higher than in healthy adults. Using 80 healthy controls from the HMP, no individuals with R. gnavus clade 2 were identified. Taken together, we concluded that R. gnavus clade 2 was enriched in strains from adults with IBD.
+
+# R. gnavus clade 2 strains harbor IBD-specific genes
+
+To understand the functional potential of each clade, we searched for individual R. gnavus genes that were not detected in any healthy individuals and present in at least two IBD samples with greater than 10× cumulative coverage. We identified 199 such IBD-specific genes (Fig. 4). These genes are involved in various functions that may improve colonization of the IBD gut, including oxidative stress responses, adhesion, iron acquisition, and mucus utilization, as well as a range of other general functions (Additional file 7: Table S6).
+
+Three IBD-specific gene families are likely involved in the response to oxidative stress. Two IBD-specific genes encode peroxiredoxin and NADH oxidase, proteins that may act as a potent peroxidase, which could provide extra protection against oxidative stress in the IBD gut [22]. Another IBD-specific gene product, cystathionine gamma-lyase, is involved in the biosynthesis of cysteine, which is necessary for the biosynthesis of glutathione, an important antioxidant [23]. These results indicate that R. gnavus clade 2 strains may be specifically adapted to tolerate the higher oxidative stress of the IBD gut.
+
+Three additional IBD-specific gene families are involved in the acquisition of iron. Iron is an essential nutrient for almost all bacteria, and is often a limiting nutrient.
+
+# Fig. 4
+
+Functional profiles of IBD-related R. gnavus strains; 199 IBD-specific genes within R. gnavus (rows) and their depth of coverage across metagenomic samples (columns). All samples with at least 1× coverage of the R. gnavus pangenome are shown. Cluster of genes indicate that different strain groups (clades; Fig. 3) have different subsets of IBD-specific genes. Several gene families of interest are highlighted (see text), and the full R. gnavus pangenome can be found in Additional file 5: Figure S1.

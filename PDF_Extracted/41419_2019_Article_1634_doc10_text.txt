@@ -1,0 +1,22 @@
+# Wang et al. Cell Death and Disease (2019) 10:391
+
+# Page 11 of 17
+
+|Control|Rapamycin|B|Control|Rapamycin|Cenirc|Riomvon|Ceniro|
+|---|---|---|---|---|---|---|---|
+|CRH|DSS+rapamycin|CRH|DSStrapamycin|DSS|DSS+CRHtrapamycin|DSS|DSS+CRHtrapamycin|
+|DSS|DSS+CRH| | | | |DSS+CKH|DSStCkHtTaram-n|
+|DSS+CKH| | | | | | | |
+
+# Time (days)
+
+| |1|2|5|8|8|
+|---|---|---|---|---|---|
+|Control|160|120|0| | |
+|CRH|1|2|5|8|8|
+|DSS|1|2|5|8|8|
+|DSS+CRH|60000|45000|30000|15000| |
+
+Fig. 7 (See legend on next page.)
+
+Official journal of the Cell Death Differentiation Association

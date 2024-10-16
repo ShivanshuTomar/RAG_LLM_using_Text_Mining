@@ -1,0 +1,20 @@
+# Ma et al. Genome Biology (2022) 23:208
+
+# Page 17 of 31
+
+clustering structures in randomly partitioned validation and training subsets; if k is appropriately describing the true number of discrete clusters in the dataset, then average prediction strength should be close to one (training and validation samples agree most of the time).
+
+We additionally generalized this metric to meta-analysis settings, where we aimed to quantify the agreement of clustering structures between studies. In the meta-analytical setting, generalized prediction strength for cluster number k in study i with validation study i′ is
+
+gpsii′(k) = minknki;lnki′l − 1 j≠j′∈Akil Ivalidation samples ij and ij′ are classified to the same group according to study i
+
+where Akil indicates the lth cluster membership in study i, when cluster number is specified as k; nkil = |Akil|. The average generalized prediction in study i for cluster number k is then defined as the average of gpsii′(k) across all i′ ≠ i, i.e., all validation studies (instead of iterations of randomized partitions). Similar to the single study prediction strength, it describes the generalizability of clustering structure in study i in external validation studies.
+
+# Unsupervised continuous structure discovery: MMUPHin_Continuous
+
+We extended our previous work in cancer gene expression subtyping [35] to perform unsupervised continuous structure discovery in microbial community profiles. Complementary to discrete cluster discovery, the goal is to identify strong feature covariation signals (gradients) that are reproducible across studies. This is carried out by performing principal component analysis individually in microbiome studies and constructing a network of correlated PCA loading vectors, to identify loadings that are consistently present across studies. In detail, given a collection of training microbial abundance datasets, our method takes the following steps (visualized in Additional file 1: Fig. S5):
+
+1. For each dataset i, PCA is performed on normalized and arcsin square root-transformed microbial abundance data. Given a user-specified threshold on variance explained, we record its top PC loading vectors, wi1, wi2, ..., wiJi, where Ji is the smallest number of top loading vectors that jointly explain percentage of variability in the dataset past a customizable threshold 0 < thresholdv < 1 (default to 80%).
+2. For two PC loadings from different datasets wij and wi′j′, similarity is quantified with the absolute value of cosine coefficient [59] |cos &lt; wij, wi′j′ &gt;|. This yields a network of PC loading vectors associated by weighted edges wij and wi′j′, retaining edges only if their weight surpasses a customizable similarity threshold (|cos &lt; wij, wi′j′ &gt;| > threshold, 0 < thresholds < 1).
+3. This threshold is default to 0.7, which is close to the theoretical guarantee that all size-three clusters will by definition have positive cosine coefficients between all PC pairs. In practice, we recommend the user to vary this parameter as needed to evaluate robustness and interpretability.
+4. In the resulting network, we perform cluster detection based on modularity score [60, 61] to identify densely connected modules of PCs. Each module by definition

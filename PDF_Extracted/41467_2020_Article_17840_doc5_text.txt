@@ -1,0 +1,26 @@
+# ARTICLE
+
+# NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467-020-17840-y
+
+|LLD|Succinyl-CoA|
+|---|---|
+|500FG|300OB|
+|IBD|Succinate|
+|Menaquinone (E. coli)|Reductive TCA cycle|
+|Streptococcus_infantis|Menaquinone (PWY-5837)|
+|Fumarate|Streptococcus|
+|Oxaloacetate| |
+
+# Fig. 5 Menaquinone biosynthesis related to Streptococcus overgrowth in IBD.
+
+a Menaquinone biosynthesis (PWY-5837) from the reductive TCA cycle (P23-PWY) in bacteria.
+
+b The menaquinone biosynthesis pathway shows IBD-specific interaction with the reductive TCA cycle pathway.
+
+c Both menaquinone biosynthesis and reductive TCA cycle pathway abundance are significantly higher (ANOVA test, FDR < 0.05) in the IBD cohort than in the two population-based cohorts. Box plots show medians and the first and third quartiles (the 25th and 75th percentiles) of abundance after correcting for age and sex, respectively. The upper and lower whiskers extend the largest and smallest value no further than 1.5 × IQR, respectively. Outliers are plotted individually. (Source data is provided as a Source data file).
+
+d Three Streptococcus species show IBD-specific co-abundance with Escherichia coli.
+
+e The menaquinone biosynthesis pathway shows strong positive correlation with three Streptococcus species in IBD. N = 2379 independent samples are involved (NLLD = 1135, N500FG = 450, N300OB = 298, NIBD = 496). The forest plots show co-abundance strength and direction in each cohort, with square dot for the correlation coefficient and bar for the 95% confidence interval.
+
+# NATURE COMMUNICATIONS | (2020) 11:4018 | https://doi.org/10.1038/s41467-020-17840-y | www.nature.com/naturecommunications

@@ -1,0 +1,37 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Library
+
+# Better health.
+
+# Table 1. Microbiome outcomes (Continued)
+
+from S = 5.81 ± 0.07 to S = 6.03 ± 0.14 in responders to FMT-A (P = .01)). The increase in diversity at week 12 could be attributed to an increase in both richness and evenness in all responders. Diversity in nonresponders did not change over time.
+
+# Cochrane Database of Systematic Reviews
+
+5.72 at baseline did not increase in non-responders. Shifts in the community taxa of responders could be observed in both donor and autologous FMTs. However, the shift between these two responder groups was distinct. Microbiota of FMT responders from donors were highlighted by increases in taxa belonging to the Clostridium IV, XIVa, and IVIII groups. Alternatively, the microbiota of responders that received autologous FMT was highlighted by an increase in Bacilli, Proteobacteria, and Bacteroidetes. Correlation analysis further revealed that microbiota of responding recipients showed increased similarity to donor microbiota following FMT. Importantly, no shifts in microbiota were observed in non-responders.
+
+|Author|Year|Outcome|Notes|
+|---|---|---|---|
+|Costello|2019|UC|Not reported|
+| | |Not reported|Association with increased abundance following dFMT:|
+| | |• Peptococcus niger| |
+| | |• Faecalicoccus pleomorphus| |
+| | |• Olsenella sp.| |
+| | |• Acidaminococcus intestini| |
+| | |• Senegalimassilia anaerobia| |
+| | |• Prevotella copri| |
+| | |• Methanobrevibacter smithii| |
+| | |• Clostridium methylpentosum| |
+| | |• Alistipes indistinctus| |
+| | |• Slackia isoflavoniconvertens| |
+| | |• Odoribacter splanchnicus| |
+
+The 10 bacteria and the archaea Methanobrevibacter smithii whose fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

@@ -1,0 +1,56 @@
+# A. Heinken et al.
+
+# 5
+
+# a)
+
+|Phylum|Genus|
+|---|---|
+|3-hydroxybutyrate|Aclmnobaclera|
+|Bacteroidetes|Eurvarchaeola|
+|Firmicutes|Prateobacteria|
+|D-Glucose 6-phosphate|Bulancd ji|
+|Propane-1,2-diol|S-Adenosyl L-homocysteine|
+|Caproslino|Alistipes|
+|Bacillus|Bacteroides|
+|Blautia|mio-inositol|
+|Clostridioides|Coblliala min|
+|Thiamin|Desulfovibrio|
+|Kotamethylpyridinol|Edwardsiella|
+|Mallatna|Escherichia|
+|Thiosulfate|Halana|
+|p-Cresol|Intestinibacter|
+|Indole: propanal|Klebsiella|
+|S-Aminobutyric acid|Lachnoclostridium|
+|Melnaini|Lactobacillus|
+|Dox Cholic acid|Mitsuakella|
+|3-Dehydrocholate|Olsenella|
+|Isocholic acid|Parabacteroides|
+|Deoxycholic acid|Paracoccus|
+|Cholic|Ruminiclostridium|
+|Chondroitin|Ruminococcus|
+|Galactosamine|unclassified Clostridiales|
+|Sialic acid|Veillonella|
+
+# b)
+
+|Reaction Subsystem|Statitication|
+|---|---|
+|Amino acid metabolism|1|
+|Carbohydrate metabolism|1|
+|Central metabolism|1|
+|Glycan Degradation|1|
+|Nucleotide metabolism|1|
+|Transport|1|
+
+PCo1 15.692 explained variance
+
+# Phenotype
+
+- IBD_dysbiotic
+- Healthy
+- IBD_nondysbiotic
+
+Fig. 3 Metabolic properties and flux profiles computed for the 108 microbiomes. a Spearman correlations between metabolite secretion fluxes (mmol/person/day) and species-level relative abundances across all 108 microbiome models. Shown are only the 66 metabolites for which the positive or negative correlation with at least one species was higher than 0.75 or lower than -0.75, respectively. Rows show metabolites annotated by subsystem, and columns show species annotated by genus and phylum. b Absolute reaction presence in the 108 microbiome models that differed significantly (p-value corrected for false discovery rate < 0.05, Supplementary Table 4b) between the 20 dysbiotic and 63 nondysbiotic IBD microbiomes. Rows show reactions annotated by subsystem, and columns show microbiome models annotated by group. Red = reaction present, black = reaction absent. c Principal coordinates analysis of all 26,873 strain to metabolite contributions (mmol/person/day, Supplementary Table 6) computed for the 108 microbiome models.
+
+Published in partnership with the Systems Biology Institute npj Systems Biology and Applications (2021) 19

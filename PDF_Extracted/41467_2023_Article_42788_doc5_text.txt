@@ -1,0 +1,9 @@
+# Article
+
+https://doi.org/10.1038/s41467-023-42788-0
+
+2017 cohort that displayed excellent diagnostic performance (AUROC: 0.98), showed a decrease in AUROC values compared to bacterial species models. The cohort-to-cohort transfer analysis demonstrated that the mean AUROC values for all cohorts ranged from 0.74 to 0.81 (Fig. 3b). Consistent with bacterial species models, the LOCO analysis showed that the diagnostic value of KO genes was slightly higher than in the cohort-to-cohort transfer analysis (Fig. 3c). In general, while the diagnostic performance of KO gene models is somewhat lower than that of bacterial species models, their diagnostic sensitivity is still acceptable.
+
+Furthermore, to validate the diagnostic potential of the 25 KO genes, we applied them to the above independent cohorts. In cohort-to-cohort transfer models, the AUROCs ranged from 0.71 to 0.96, while in LOCO classification models, the AUROCs ranged from 0.61 to 0.87.
+
+Nature Communications | (2023)14:7135

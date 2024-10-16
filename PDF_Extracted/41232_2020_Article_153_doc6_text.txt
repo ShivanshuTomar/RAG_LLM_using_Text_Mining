@@ -1,0 +1,59 @@
+# Yoshimatsu et al. Inflammation and Regeneration
+
+# (2021) 41:3
+
+# References
+
+1. Shaw SY, Blanchard JF, Bernstein CN. Association between the use of antibiotics in the first year of life and pediatric inflammatory bowel disease. Am J Gastroenterol. 2010;105:2687–92.
+2. Biasucci G, Benenati B, Morelli L, et al. Cesarean delivery may affect the early biodiversity of intestinal bacteria. J Nutr. 2008;138:1796s–800s.
+3. Penders J, Thijs C, Vink C, et al. Factors influencing the composition of the intestinal microbiota in early infancy. Pediatrics. 2006;118:511–21.
+4. Bach JF. The hygiene hypothesis in autoimmunity: the role of pathogens and commensals. Nat Rev Immunol. 2018;18:105–20.
+5. Chapman-Kiddell CA, Davies PS, Gillen L, et al. Role of diet in the development of inflammatory bowel disease. Inflamm Bowel Dis. 2010;16:137–51.
+6. Gao X, Cao Q, Cheng Y, et al. Chronic stress promotes colitis by disturbing the gut microbiota and triggering immune system response. Proc Natl Acad Sci U S A. 2018;115:E2960–e2969.
+7. Makki K, Deehan EC, Walter J, et al. The impact of dietary fiber on gut microbiota in host health and disease. Cell Host Microbe. 2018;23:705–15.
+8. Sheehan D, Moran C, Shanahan F. The microbiota in inflammatory bowel disease. J Gastroenterol. 2015;50:495–507.
+9. Podolsky DK. Inflammatory bowel disease (1). N Engl J Med. 1991;325:928–37.
+10. Goldsmith JR, Sartor RB. The role of diet on intestinal microbiota metabolism: downstream impacts on host immune function and health, and therapeutic implications. J Gastroenterol. 2014;49:785–98.
+11. Aden K, Rehman A, Waschina S, et al. Metabolic functions of gut microbes associate with efficacy of tumor necrosis factor antagonists in patients with inflammatory bowel diseases. Gastroenterology. 2019;157:1279–1292.e11.
+12. Lloyd-Price J, Arze C, Ananthakrishnan AN, et al. Multi-omics of the gut microbial ecosystem in inflammatory bowel diseases. Nature. 2019;569:655–62.
+13. Vich Vila A, Imhann F, Collij V, et al. Gut microbiota composition and functional changes in inflammatory bowel disease and irritable bowel syndrome. Sci Transl Med. 2018;10(472):eaap8914. https://doi.org/10.1126/scitranslmed.aap8914.
+14. Pittayanon R, Lau JT, Leontiadis GI, et al. Differences in gut microbiota in patients with vs without inflammatory bowel diseases: a systematic review. Gastroenterology. 2020;158:930–946.e1.
+15. Naganuma M, Sugimoto S, Mitsuyama K, et al. Efficacy of indigo naturalis in a multicenter randomized controlled trial of patients with ulcerative colitis. Gastroenterology. 2018;154:935–47.
+16. Dalal SR, Chang EB. The microbial basis of inflammatory bowel diseases. J Clin Invest. 2014;124:4190–6.
+17. Frank DN, St Amand AL, Feldman RA, et al. Molecular-phylogenetic characterization of microbial community imbalances in human inflammatory bowel diseases. Proc Natl Acad Sci U S A. 2007;104:13780–5.
+18. Sokol H, Lay C, Seksik P, et al. Analysis of bacterial bowel communities of IBD patients: what has it revealed? Inflamm Bowel Dis. 2008;14:858–67.
+19. Sokol H, Pigneur B, Watterlot L, et al. Faecalibacterium prausnitzii is an anti-inflammatory commensal bacterium identified by gut microbiota analysis of Crohn disease patients. Proc Natl Acad Sci U S A. 2008;105:16731–6.
+20. Atarashi K, Tanoue T, Oshima K, et al. Treg induction by a rationally selected mixture of Clostridia strains from the human microbiota. Nature. 2013;500:232–6.
+21. Atarashi K, Tanoue T, Shima T, et al. Induction of colonic regulatory T cells by indigenous Clostridium species. Science. 2011;331:337–41.
+22. Feller M, Huwiler K, Stephan R, et al. Mycobacterium avium subspecies paratuberculosis and Crohn’s disease: a systematic review and meta-analysis. Lancet Infect Dis. 2007;7:607–13.
+23. Selby W, Pavli P, Crotty B, et al. Two-year combination antibiotic therapy with clarithromycin, rifabutin, and clofazimine for Crohn’s disease. Gastroenterology. 2007;132:2313–9.
+24. Chen W, Li D, Paulus B, et al. Detection of Listeria monocytogenes by polymerase chain reaction in intestinal mucosal biopsies from patients with inflammatory bowel disease and controls. J Gastroenterol Hepatol. 2000;15:1145–50.
+25. Ontanilla Clavijo G, Trigo Salado C, Leo Carnerero E, et al. Listeria monocytogenes and its relationship with non-biological therapy in inflammatory bowel disease. Gastroenterol Hepatol. 2015;38:442–3.
+26. Atarashi K, Tanoue T, Ando M, et al. Th17 cell induction by adhesion of microbes to intestinal epithelial cells. Cell. 2015;163:367–80.
+27. Rolhion N, Darfeuille-Michaud A. Adherent-invasive Escherichia coli in inflammatory bowel disease. Inflamm Bowel Dis. 2007;13:1277–83.
+28. Ohkusa T, Sato N, Ogihara T, et al. Fusobacterium varium localized in the colonic mucosa of patients with ulcerative colitis stimulates species-specific antibody. J Gastroenterol Hepatol. 2002;17:849–53.
+29. Mizuno S, Ono K, Mikami Y, et al. 5-Aminosalicylic acid intolerance is associated with a risk of adverse clinical outcomes and dysbiosis in patients with ulcerative colitis. Intest Res. 2020;18:69–78.
+30. Ananthakrishnan AN, Luo C, Yajnik V, et al. Gut microbiome function predicts response to anti-integrin biologic therapy in inflammatory bowel diseases. Cell Host Microbe. 2017;21:603–610.e3.
+31. Smith PM, Howitt MR, Panikov N, et al. The microbial metabolites, short-chain fatty acids, regulate colonic Treg cell homeostasis. Science. 2013;341:569–73.
+32. Simpson HC, Simpson RW, Lousley S, et al. A high carbohydrate leguminous fibre diet improves all aspects of diabetic control. Lancet. 1981;1:1–5.
+33. Ludwig DS, Pereira MA, Kroenke CH, et al. Dietary fiber, weight gain, and cardiovascular disease risk factors in young adults. Jama. 1999;282:1539–46.
+34. Liu S, Buring JE, Sesso HD, et al. A prospective study of dietary fiber intake and risk of cardiovascular disease among women. J Am Coll Cardiol. 2002;39:49–56.
+35. Nilsson AC, Johansson-Boll EV, Bjorck IM. Increased gut hormones and insulin sensitivity index following a 3-d intervention with a barley kernel-based product: a randomised cross-over study in healthy middle-aged subjects. Br J Nutr. 2015;114:899–907.
+36. Nicolucci AC, Hume MP, Martinez I, et al. Prebiotics reduce body fat and alter intestinal microbiota in children who are overweight or with obesity. Gastroenterology. 2017;153:711–22.
+37. Llewellyn SR, Britton GJ, Contijoch EJ, et al. Interactions between diet and the intestinal microbiota alter intestinal permeability and colitis severity in mice. Gastroenterology. 2018;154:1037–1046.e2.
+38. Macia L, Tan J, Vieira AT, et al. Metabolite-sensing receptors GPR43 and GPR109A facilitate dietary fibre-induced gut homeostasis through regulation of the inflammasome. Nat Commun. 2015;6:6734.
+39. Trompette A, Gollwitzer ES, Yadava K, et al. Gut microbiota metabolism of dietary fiber influences allergic airway disease and hematopoiesis. Nat Med. 2014;20:159–66.
+40. Cani PD, Bibiloni R, Knauf C, et al. Changes in gut microbiota control metabolic endotoxemia-induced inflammation in high-fat diet-induced obesity and diabetes in mice. Diabetes. 2008;57:1470–81.
+41. Turnbaugh PJ, Ley RE, Mahowald MA, et al. An obesity-associated gut microbiome with increased capacity for energy harvest. Nature. 2006;444:1027–31.
+42. Hayashi A, Sato T, Kamada N, et al. A single strain of Clostridium butyricum induces intestinal IL-10-producing macrophages to suppress acute experimental colitis in mice. Cell Host Microbe. 2013;13:711–22.
+43. Geuking MB, Cahenzli J, Lawson MA, et al. Intestinal bacterial colonization induces mutualistic regulatory T cell responses. Immunity. 2011;34:794–806.
+44. Waidmann M, Bechtold O, Frick JS, et al. Bacteroides vulgatus protects against Escherichia coli-induced colitis in gnotobiotic interleukin-2-deficient mice. Gastroenterology. 2003;125:162–77.
+45. Jung JY, Lee SH, Jin HM, et al. Metatranscriptomic analysis of lactic acid bacterial gene expression during kimchi fermentation. Int J Food Microbiol. 2013;163:171–9.
+46. Seedorf H, Griffin NW, Ridaura VK, et al. Bacteria from diverse habitats colonize and compete in the mouse gut. Cell. 2014;159:253–66.
+47. Eiseman B, Silen W, Bascom GS, et al. Fecal enema as an adjunct in the treatment of pseudomembranous enterocolitis. Surgery. 1958;44:854–9.
+48. Khan MY, Dirweesh A, Khurshid T, et al. Comparing fecal microbiota transplantation to standard-of-care treatment for recurrent Clostridium difficile infection: a systematic review and meta-analysis. Eur J Gastroenterol Hepatol. 2018;30:1309–17.
+49. Hui W, Li T, Liu W, et al. Fecal microbiota transplantation for treatment of recurrent C. difficile infection: an updated randomized controlled trial meta-analysis. PLoS One. 2019;14:e0210016.
+50. Youngster I, Russell GH, Pindar C, et al. Oral, capsulized, frozen fecal microbiota transplantation for relapsing Clostridium difficile infection. Jama. 2014;312:1772–8.
+51. Ott SJ, Waetzig GH, Rehman A, et al. Efficacy of sterile fecal filtrate transfer for treating patients with clostridium difficile infection. Gastroenterology. 2017;152:799–811.e7.
+52. Paramsothy S, Kamm MA, Kaakoush NO, et al. Multidonor intensive faecal microbiota transplantation for active ulcerative colitis: a randomised placebo-controlled trial. Lancet. 2017;389:1218–28.
+53. Kurokawa S, Kishimoto T, Mizuno S, et al. The effect of fecal microbiota transplantation on psychiatric symptoms among patients with irritable

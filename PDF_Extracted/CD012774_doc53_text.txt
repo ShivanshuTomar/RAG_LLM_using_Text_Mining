@@ -1,0 +1,80 @@
+# Cochrane Library
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Moayyedi 2015 (Continued)
+
+cation was masked to the patient, health care workers caring for the patient, and investigators. The technician administering FMT or placebo was aware of the treatment being administered, as the nature of the intervention meant that it was not possible to make it identical to the placebo." (page 103)
+
+Comment: most likely done.
+
+# Blinding of participants and personnel (performance bias)
+
+Low risk
+
+Quote: "The randomization was held centrally at the McMaster Gastroenterology Clinical Trials Unit to ensure concealment of allocation. The treatment location was masked to the patient, health care workers caring for the patient, and investigators. The technician administering FMT or placebo was aware of the treatment being administered, as the nature of the intervention meant that it was not possible to make it identical to the placebo." (page 103)
+
+Comment: most likely done.
+
+# Blinding of outcome assessment (detection bias)
+
+Low risk
+
+Quote: "The randomization was held centrally at the McMaster Gastroenterology Clinical Trials Unit to ensure concealment of allocation. The treatment location was masked to the patient, health care workers caring for the patient, and investigators. The technician administering FMT or placebo was aware of the treatment being administered, as the nature of the intervention meant that it was not possible to make it identical to the placebo." (page 103)
+
+Comment: most likely done.
+
+# Incomplete outcome data (attrition bias)
+
+Low risk
+
+Comment: 1/38 (2.6%) participants withdrew from the experimental group and 3/37 (8.1%) withdrew from the control group.
+
+All outcomes
+
+# Selective reporting (reporting bias)
+
+Low risk
+
+Comment: all intended outcomes were reported in the paper. The trial was registered on ClinicalTrials.gov (NCT01545908).
+
+# Other bias
+
+Low risk
+
+Comment: trial was stopped early due to futility; however, data were completely described for included participants.
+
+# Pai 2021
+
+# Study characteristics
+
+# Methods
+
+Multicenter, single-blind RCT conducted in Canada
+
+# Participants
+
+# Inclusion criteria
+
+- Children ages ≥ 4 years, diagnosed with UC based on characteristic endoscopic and histologic evidence of chronic active inflammation
+- Children with IBD-unclassified (IBD-U) if primary gastroenterologist judged their disease features as most consistent with UC
+- Participants could remain on stable dosing of oral mesalamine, thiopurines, or methotrexate at study entry, and on stable dosing and frequency of biologic agents within 12 weeks of enrollment
+
+# Exclusion criteria
+
+- Hospitalization or active Clostridioides difficile infection at study entry
+- Use of oral antibiotics or rectal therapies (e.g. corticosteroid suppositories/enemas or mesalamine suppositories/enemas) within 4 weeks of enrollment
+
+# Interventions
+
+Experimental arm
+
+Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

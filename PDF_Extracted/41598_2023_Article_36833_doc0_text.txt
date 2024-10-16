@@ -1,0 +1,19 @@
+# CXCL10 as a shared specific marker in rheumatoid arthritis and inflammatory bowel disease and a clue involved in the mechanism of intestinal flora
+
+Yin Guan1, Yue Zhang1, Yifan Zhu1 & Yue Wang2*
+
+This study aimed to identify shared specific genes associated with rheumatoid arthritis (RA) and inflammatory bowel disease (IBD) through bioinformatic analysis and to examine the role of the gut microbiome in RA. The data were extracted from the 3 RA and 1 IBD gene expression datasets and 1 RA gut microbiome metagenomic dataset. Weighted correlation network analysis (WGCNA) and machine learning was performed to identify candidate genes associated with RA and IBD. Differential analysis and two different machine learning algorithms were used to investigate RA’s gut microbiome characteristics. Subsequently, the shared specific genes related to the gut microbiome in RA were identified, and an interaction network was constructed utilizing the gutMGene, STITCH, and STRING databases. We identified 15 candidates shared genes through a joint analysis of the WGCNA for RA and IBD. The candidate gene CXCL10 was identified as the shared hub gene by the interaction network analysis of the corresponding WGCNA module gene to each disease, and CXCL10 was further identified as the shared specific gene by two machine learning algorithms. Additionally, we identified 3 RA-associated characteristic intestinal flora (Prevotella, Ruminococcus, and Ruminococcus bromii) and built a network of interactions between the microbiomes, genes, and pathways. Finally, it was discovered that the gene CXCL10 shared between IBD and RA was associated with the three gut microbiomes mentioned above. This study demonstrates the relationship between RA and IBD and provides a reference for research into the role of the gut microbiome in RA.
+
+# Introduction
+
+Rheumatoid arthritis (RA) is an autoimmune inflammatory condition that primarily affects the joints. Individuals1–3. A small-sample study on patients with RA reported that most patients had subclinical intestinal inflammation and are at risk for and those with RA experience gut dysbiosis4. Intestinal inflammation can be caused by and sustained through gut dysbiosis5,6. Inflammatory bowel disease (IBD), which encompasses Crohn’s disease (CD) and ulcerative colitis (UC), is a chronic, recurrent inflammatory illness of the gut with immune system disturbance. Despite having different target organs, IBD and autoimmune rheumatic illnesses share a genetic foundation8–10.
+
+According to a population-based study from South Korea, RA is strongly associated with IBD11. Patients with RA have aberrant intestinal barrier permeability, which is consistent with the intestinal alterations observed in patients with IBD12. The IL-23/IL-17 inflammatory axis is activated during the development of both RA and IBD13. The expression of ENA78/CXCL5 is increased in tissues that are inflamed during RA and IBD14,15. Additionally, patients with RA and IBD have higher IL-6 levels16–18. These findings highlight the role of the gastrointestinal system in the development of RA and suggest a shared pathogenic mechanism between IBD and RA. However, the role of the gut microbiome in the pathogenesis of RA and the genetic interactions and molecular mechanisms underlying the relationship between RA and IBD remain unclear.
+
+# Affiliations
+
+1 Affiliated Hospital of Nanjing University of Chinese Medicine, Nanjing 210029, Jiangsu, China.
+
+2 Department of Rheumatism Immunity Branch, Affiliated Hospital of Nanjing University of Chinese Medicine, No. 155 Hanzhong Road, Qinhuai, Nanjing 210029, Jiangsu, China. *email: wangyue@njucm.edu.cn
+
+Scientific Reports | (2023) 13:9754 | https://doi.org/10.1038/s41598-023-36833-7

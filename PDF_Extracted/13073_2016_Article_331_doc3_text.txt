@@ -1,0 +1,47 @@
+# Shaw et al. Genome Medicine (2016) 8:75
+
+# Fig. 1
+
+Log10(calprotectin + 1) values for all study subjects used in analysis. Larger circle size reflects higher measured calprotectin. Time points where calprotectin was &lt;100 μg/g are shown in blue; time points where calprotectin was &gt;100 μg/g are shown in red. CD Crohn’s disease, UC ulcerative colitis, R responder to treatment, NR non-responder to treatment, F, familial control, U unrelated control. (See also Table 1 and Additional file 2: Table S1.)
+
+|ST|Count|
+|---|---|
+|ST05| |
+|ST19| |
+|ST21| |
+|ST22|8|
+|ST28| |
+|ST30| |
+|ST01| |
+|ST02| |
+|ST03| |
+|ST08|3|
+|ST18| |
+|ST29| |
+|ST31|8|
+|ST06|3|
+|ST14| |
+|ST27| |
+|ST32| |
+|ST07| |
+|ST10|1|
+|ST11| |
+|ST12| |
+|ST23| |
+|ST24| |
+|ST35|L|
+|ST36| |
+|ST37| |
+|ST41| |
+
+100 Days since first sample 300200 400 log10(calprotectin + 1) calprotectin &lt;100 Yes
+
+# Statistical analysis
+
+We performed all data analyses in R. To account for the correlations within individuals over time, we performed linear regressions in a generalized estimating equation (GEE) framework using the R package geepack. We assumed an independent correlation structure and used the robust (sandwich) estimator for standard error. Subject observations were additionally inversely weighted by the total number of observations for that individual to ensure that results were not driven by individuals who were observed more frequently. Wald tests were used to assess the significance of coefficients in our GEE. To compare marker levels between groups, we modeled markers (calprotectin, dysbiosis, diversity) as a function of disease status (case versus control or UC versus CD). To assess differences between groups at baseline (all clinical outcomes as well as genus-by-genus analysis), or to measure changes over time, we considered models with time since study enrollment. When comparing change over time between CD, UC, and
+
+[28], then OTUs were picked using the pick_de_novo_otus.py script. Taxonomic classification was performed using the same Greengenes database. The same median percentage of sequences was ultimately successfully classified (91 %) using this de novo approach.
+
+We randomly rarefied each sample in our original closed-OTU biom table to 3155 sequences, the lowest sequencing depth observed in our samples, using the rrarefy function in the R package vegan. We then measured the Shannon diversity using vegan’s diversity function and calculated the dysbiosis index using the same R code described previously. We repeated this 10,000 times and took the median of the results from these rarefactions for each sample; we then repeated our regression analyses using these values. For a complete summary of reads/sample, QC information, and calculated values, see Additional file 1.
+
+Overall there were 7628 OTUs in our samples. For our genus-by-genus and random forest analyses we collapsed data to the genus level (combining OTUs belonging to the same genus) and converted counts to frequencies using the summarize_taxa.py QIIME script. There were 397 genus-level taxa in our 158 microbiome samples. To test for significance, we required a genus to be present at greater than 0.15 % abundance in at least one sample, leaving 134 genera.

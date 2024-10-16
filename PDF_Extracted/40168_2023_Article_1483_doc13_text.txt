@@ -1,0 +1,79 @@
+# Armstrong et al. Microbiome
+
+# (2023) 11:39
+
+be involved. The outcomes of this study may also help us better understand the interplay between commensal bacteria and viruses leading to more effective therapies and prevention techniques for mucosal transmission of viruses. Our studies also provide an impetus to continue investigating the role of viruses in the etiology of IBD.
+
+# Supplementary Information
+
+The online version contains supplementary material available at https://doi.org/10.1186/s40168-023-01483-4.
+
+- Additional file 1: Supplemental Table 1. Overlapping MMTV Gag peptides.
+- Additional file 2: Supplementary Fig. 1. Alignment of Illumina reads from IL-10-/- lactoserum library to MMTV genome showing a screen capture with alignment of 2,886,869 million Illumina reads along MMTV reference genome with variance in sequence marked in red, to provide 99.40% coverage of the MMTV genome and an average read depth of 67,017-fold.
+- Additional file 3: Supplementary Fig. 2. T cell receptor (TCR)-Vβ subset distribution in spleen and colon of IL-10-/- vs. SvEv mice assessed by Illumina sequencing. (A) No significant differences were observed between IL-10-/- vs SvEv in the spleen. (B) the IL-10-/- colon had increased TCR-Vβ12 and TCR-Vβ16 subsets with diminished TCR-Vβ2, TCR-Vβ14 and TCR-Vβ15 expression. [Mean±SEM, TCR-Vβ subsets with percent less < 0.5% removed from the analyses. * p<0.01, ** p=0.002, Multiple unpaired t-test, Benjamini, Kreiger, and Yekutieli two stage set up, q value < 0.1].
+- Additional file 4: Supplementary Fig. 3. Correlation of colon MMTV RNA levels and histology score [Spearman, p=0.082].
+- Additional file 5: Supplementary Fig. 4. Pro-inflammatory cytokines in colonic extracts showing that levels of IL-1b, IL-12p70, IL-4, and IL-5 were not significantly altered with cART in the IL-10-/- mice [Mean±SEM].
+
+# Acknowledgements
+
+We would like to acknowledge CEGIIR and The Applied Genomic Core, University of Alberta, for providing material support including Chelsea McDougall for assistance with animal maintenance and collections, Juan Jovel for sequencing analysis, and Harsh Thaker for experimental support.
+
+# Authors’ contributions
+
+KM, BR, and AM conceived and designed the experiments. NH, HS, NS and WW performed the experiments. HA HK, HS, NS, MR and WW were responsible for the figure preparation and statistical analyses. HA and AM drafted the manuscript. All authors edited and approved the final version of the manuscript.
+
+# Funding
+
+This work was supported by grants awarded to A. M. by the Canadian Institute of Health and Research (CIHR). Infrastructure in AM’s laboratory is funded by the Centre of Excellence for Gastrointestinal Inflammation and Immunity Research (CEGIIR) at the University of Alberta. H. A. was supported by Post-doctoral Fellowship from CIHR and operating funding from the Weston Family Foundation. The funders had no role in study design, collection, or interpretation of data.
+
+# Availability of data and materials
+
+All data are included in the manuscript.
+
+# Declarations
+
+# Ethics approval and consent to participate
+
+The protocol was approved by the University of Alberta Health Research Ethics Board (Study ID. AUP00000294).
+
+# Consent for publication
+
+All authors have read and approved the final version of the manuscript for publication.
+
+# Competing interests
+
+The authors declare that they have no competing interests.
+
+# Author details
+
+1 Center of Excellence for Gastrointestinal Inflammation and Immunity Research, University of Alberta, Edmonton, Canada. 2 Department of Internal Medicine, University of Manitoba, Winnipeg, Canada. 3 Department of Medicine, University of Alberta, Edmonton, Canada. 4 Columbia University, New York, USA. 5 Department of Laboratory Medicine & Pathology, University of Alberta, Edmonton, Canada. 6 Li Ka Shing Institute for Virology, University of Alberta, Edmonton, Canada. 7 Department of Physiology, University of Alberta, Edmonton, Canada. 8 Department of Pediatrics, University of Alberta, Edmonton, Canada. 9 Division of Gastroenterology, University of Alberta, Edmonton, Canada.
+
+# Received
+
+25 February 2022
+
+# Published online
+
+03 March 2023
+
+# Accepted
+
+30 January 2023
+
+# References
+
+1. Simmons A. Crohn’s disease: genes, viruses and microbes. Nature. 2010;466(7307):699–700.
+2. Kernbauer E, Ding Y, Cadwell K. An enteric virus can replace the beneficial function of commensal bacteria. Nature. 2014;516(7529):94–8.
+3. Cadwell K, Patel KK, Maloney NS, Liu TC, Ng AC, Storer CE, et al. Virus-plus-susceptibility gene interaction determines Crohn’s disease gene Atg16L1 phenotypes in intestine. Cell. 2010;141(7):1135–45.
+4. Wang W, Jovel J, Halloran B, Wine E, Patterson J, Ford G, et al. Metagenomic analysis of microbiome in colon tissue from subjects with inflammatory bowel diseases reveals interplay of viruses and bacteria. Inflamm Bowel Dis. 2015;21(6):1419–27.
+5. Parkes M, Barrett JC, Prescott NJ, Tremelling M, Anderson CA, Fisher SA, et al. Sequence variants in the autophagy gene IRGM and multiple other replicating loci contribute to Crohn’s disease susceptibility. Nat Genet. 2007;39(7):830–2.
+6. Matsuzawa-Ishimoto Y, Yao X, Koide A, Ueberheide BM, Axelrad JE, Reis BS, et al. The γδ IEL effector API5 masks genetic susceptibility to Paneth cell death. Nature. 2022;610(7932):547–54.
+7. Axelrad JE, Olen O, Askling J, Lebwohl B, Khalili H, Sachs MC, et al. Gastrointestinal infection increases odds of inflammatory bowel disease in a nationwide case-control study. Clin Gastroenterol Hepatol. 2019;17(7):1311-22 e7.
+8. Roskell DE, Hyde GM, Campbell AP, Jewell DP, Gray W. HIV associated cytomegalovirus colitis as a mimic of inflammatory bowel disease. Gut. 1995;37(1):148–50.
+9. Hao XP, Lucero CM, Turkbey B, Bernardo ML, Morcock DR, Deleage C, et al. Experimental colitis in SIV-uninfected rhesus macaques recapitulates important features of pathogenic SIV infection. Nat Commun. 2015;6:8020.
+10. Kipar A, Kremendahl J, Jackson ML, Reinacher M. Comparative examination of cats with feline leukemia virus-associated enteritis and other relevant forms of feline enteritis. Vet Pathol. 2001;38(4):359–71.
+11. Suzuki K, Narita T, Yui R, Ohtsuka K, Inada S, Kimura T, et al. Induction of intestinal lesions in nu/nu mice induced by transfer of lymphocytes from syngeneic mice infected with murine retrovirus. Gut. 1997;41(2):221–8.
+12. Young GR, Eksmond U, Salcedo R, Alexopoulou L, Stoye JP, Kassiotis G. Resurrection of endogenous retroviruses in antibody-deficient mice. Nature. 2012;491(7426):774–8.
+13. Zhang G, Chen M, Graham D, Subsin B, McDougall C, Gilady S, et al. Mouse mammary tumor virus in anti-mitochondrial antibody producing mouse models. J Hepatol. 2011;55(4):876–84.
+14. Acha-Orbea H, Shakhov AN, Finke D. Immune response to MMTV infection. Front Biosci. 2007;12:1594–609.
+15. Peterson DO, Kriz KG, Marich JE, Toohey MG. Sequence organization and molecular cloning of Mouse mammary tumor virus DNA endogenous to C57BL/6 mice. J Virol. 1985;54(2):525–31.

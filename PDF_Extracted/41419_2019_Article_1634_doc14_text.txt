@@ -1,0 +1,19 @@
+# Wang et al. Cell Death and Disease (2019) 10:391
+
+# Immunofluorescence staining
+
+Colonic tissues were fixed in 4% (w/v) paraformaldehyde overnight and embedded in paraffin. Five μm sections were then sent for dewaxing and rehydration. After the sections were blocked with 5% bovine serum albumin in PBS for 2 h, they were incubated with lysozyme antibody (1:250, Abcam, Cambridge, MA, USA), CD68 antibody (1:100, Proteintech Group Inc., Chicago, IL, USA), CD206 antibody (1:100, Proteintech Group Inc., Chicago, IL, USA) or LC3 antibody (1:200, Novus Biologicals, Littleton, CO, USA) overnight at 4 °C. After washing three times with PBS, the sections were stained by Alexa-488- or Alexa-Cy3-labeled secondary antibody (1:500, Jackson ImmunoResearch Inc., West Grove, PA, USA) for 30 min at 37 °C. After washing, the slides were mounted with Vectashield mounting medium containing 4′,6-Diamidino-2-Phenylindole (DAPI; Vector Laboratories, Burlingame, CA, USA) and colocalization was observed using a confocal laser scanning microscope (Fluoview FV1000, Olympus, Tokyo, Japan). In this study, the experiments were performed in a double-blind manner.
+
+# Immunohistochemical staining
+
+Colonic tissues were fixed in 4% (w/v) paraformaldehyde overnight and embedded in paraffin. Five micrometer sections were then sent for dewaxing and rehydration. The sections were blocked by goat serum and incubated in lysozyme antibody (1:2000, Abcam, Cambridge, MA, USA), LC3 antibody (1:200, Servicebio technology, Wuhan, China).
+
+# Transmission electron microscopy
+
+Colonic tissues were separated and fixed overnight at 4 °C in 2.5% glutaraldehyde in 0.1 M PBS, and then post-fixed in 1% buffered osmium tetroxide for 2 h. Specimens were processed via a routine procedure and examined under a transmission electron microscope (H-700; Hitachi, Tokyo, Japan).
+
+# Gut microbiota determination
+
+Gut microbiota was determined using 16S ribosomal RNA gene sequencing technology. For sample collection and DNA extraction, fecal samples were collected from experimental mice and frozen at −80 °C within 3 h after sampling. DNA extraction was performed using a QIAamp Fast DNA Stool Mini Kit (Qiagen, Hilden, Germany). The concentration of bacterial DNA was measured using NanoDrop 2000 (Thermo Scientific, Pittsburgh, PA, USA). Then, the 16S ribosomal RNA gene sequencing was applied to detect the bacterial DNA. The V3–V4 region of the bacteria’s 16S ribosomal RNA (rRNA) gene was amplified by PCR with barcode-indexed primers (338F and 806R), using FastPfu Polymerase. Amplicons were then purified by gel extraction (AxyPrep DNA Gel Extraction Kit, Axygen Biosciences, Union City, CA, USA) and were quantified using QuantiFluor-ST (Promega, Madison, WI, USA). The purified amplicons were pooled in equimolar concentrations, and paired-end sequencing was performed using an Illumina MiSeq instrument (Illumina, San Diego, CA, USA).
+
+Official journal of the Cell Death Differentiation Association

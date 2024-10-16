@@ -1,0 +1,5 @@
+|Receptor|Ligands|G Protein|Main Expression|Effects on Immune System|Effects on Metabolism|Key IBD-Related Findings|
+|---|---|---|---|---|---|---|
+|GPR65 (TDAG8)|Protons (H+)|Gαs|Immune cells: blood leucocytes. Spleen, thymus, lung and gut|Increase eosinophil viability|Unstudied|Protective effect in DSS-induced acute and chronic colitis|
+|GPR91 (SUCNR1)|Succinate|Gαi/Gαq|Immune cells: DC, macrophages and Platelets. Adipocytes, retinal neurons, liver, heart, intestine and spleen|Migration of Langerhans cells, hematopoiesis, inflammasome activation, inhibit renin-angiotensin system|Unstudied|Protective effect in DSS and TNBS-induced colitis.|
+|GPR131 (TGR5)|Lithocholic acid and taurolithocholic acid|Gαs|Immune cells: monocytes and macrophages. Muscle, adipocytes and enteric nervous system|Inflammasome activation, inhibit production of pro-inflammatory cytokine|Insulin resistance|Unstudied|

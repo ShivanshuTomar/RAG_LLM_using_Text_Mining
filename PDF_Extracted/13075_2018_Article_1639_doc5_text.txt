@@ -1,0 +1,22 @@
+# Regner et al. Arthritis Research & Therapy (2018) 20:149
+
+# Page 6 of 13
+
+# Fig. 1
+
+Colonic intraepithelial lymphocytes (IELs) are significantly decreased in individuals with axial spondyloarthritis (axSpA) and inversely correlate with peripheral blood lymphocyte counts. IELs were obtained from colonic mucosal biopsies as described in “Methods” and evaluated by flow cytometry for the absolute number of total IELs (a), T cell receptor (TCR)β+ IELs (b), and TCRγδ+ IELs (c). Each dot represents an individual within the study group identified on the x-axis. A solid square indicates subjects on a TNF inhibitor, a solid dot indicates the subject was taking steroids, and an open dot indicates the subject was taking neither. Bars are the mean ± SEM. Statistical significance was determined using the Kruskal-Wallis test with Dunn’s post-hoc analysis. d Total IELs (y-axis) in each individual with axSpA were compared to the absolute lymphocyte count (x-axis) and the Pearson’s correlation coefficient was calculated (σ = − 0.94, R2 = 0.89, p = 0.0047). HC, healthy controls; CD, Crohn’s disease; UC, ulcerative colitis.
+
+|Total IEL|b|TCRB+ IEL|
+|---|---|---|
+|10000|p-0.032|10000|
+|1000|-100|7|
+|100|9|axSpA|
+|1000|500|-|
+|400|@|300|
+|200|-|100|
+
+Within the healthy control group, we identified statistically significant positive correlation between Eubacteriaceae, Victivallaceae, Campylobacteraceae, Cardiobacteriaceae, Neisseriaceae, and Pseudomonadales and IL-17A and between Alcaligenaceae and Neiseriaceae and IFN-γ (Fig. 4). Also in the healthy control group, we identified statistically significant negative correlation between the abundances of Deferribacteraceae and IL-17A; between Corynebacteriaceae and TNF-α; and between Dermabacteraceae, Sphingobacteriaceae, Aerococcaceae, Rhizobiales, and Rhodobacteraceae and IFN-γ (Fig. 4). Within the CD group, there was statistically significant positive correlation between the abundances of Victivallaceae and Sphingomonadaceae and IL-1β; between Staphylococcaceae and IL-17A; between Rikenellaceae and TNF-α; and between Staphylococcaceae and Rikenellaceae and IFN-γ (Fig. 4). Also in the CD group, we identified statistically significant negative correlation between the abundances of Peptococcaceae and IL-1β; between Fusobacteriales and Comamonadaceae and IL-17A; between Fusobacteriales and TNF-α; and between Fusobacteriales and IFN-γ (Fig. 4).
+
+In the group of individuals with UC, we identified statistically significant positive correlation between the abundances of Cynanobacteria, Christensenellaceae, and Pseudomonadaceae and IL-1β; between Cynanobacteria, Bacillales, and Verrucomicrobiaceae and IL-17A; between Peptococcaceae and TNF-α; and between Cynanobacteria, Desulfovibrionaceae, and Pseudomonadaceae and IFN-γ. Also in this group, there was statistically significant negative correlation between the abundances of Streptococcaceae and IL-17A and between Dermabacteraceae and TNF-α (Fig. 4).
+
+In axSpA we identified statistically significant positive correlation between the abundances of Rhizobiaceae and IL-1β; between Corynebacteriales, Dermabacteraceae, Microbacteriaceae, Deferribacteraceae, Cynanobacteria, Comamonadaceae, Helicobacteraceae, Moraxellaceae, Rhodobacteraceae, and Anaeroplasmataceae and IL-17A; between Peptococcaceae and Verrucomicrobiaceae and.

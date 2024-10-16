@@ -1,0 +1,30 @@
+# ARTICLE
+
+# NATURE COMMUNICATIONS | DOI: 10.1038/s41467-018-05357-4
+
+Inflammatory bowel disease (IBD) is a condition characterized by inflammation of the mucosal lining of the intestinal tract. Crohn’s disease (CD) and ulcerative colitis (UC) are the two principal subtypes of IBD. Both subtypes can display similar clinical manifestations and follow similar treatment strategies at times, but they also can vary due to fundamental differences in the diseases. It has been estimated that >0.3% of the population in many developed countries suffer from IBD, with the incidence in developing countries on the rise. In particular, the worldwide incidence of pediatric-onset IBD is increasing. Childhood-onset IBD is distinct from adult-onset IBD with differences observed in progression, anatomical location of disease, and treatment outcomes. Childhood-onset IBD often leads to growth failure and has serious long-term health consequences that result in higher health-care costs. Hence, there is an urgent need to fully understand the pathogenesis of childhood-onset IBD to allow for precision therapeutics and long-term disease management.
+
+Although the exact mechanism underlying the development of IBD remains unclear, its pathogenesis is linked to multiple factors including genetic susceptibility, immune activity, environmental factors (such as diet and life style), and the intestinal microbiome. Accumulating evidence has revealed alterations of the gut microbiota in both adults and children with IBD. However, most studies that characterize the microbiota in IBD patients use stool as proxy for sampling the gut microbiota. It has become increasingly clear that the mucosal-associated microbial dysbiosis in pediatric CD patients is only weakly reflected in fecal samples and unfortunately limited studies have been able to sample at the site of disease within the gastrointestinal tract. We previously demonstrated an important role of mitochondrial dysfunction and an aberrant host-microbiota crosstalk in the pathogenesis of CD using mucosal-luminal interface (MLI) aspirates. This study highlighted the value of sampling directly at the site of disease in order to elucidate the complex microbiota-host interactions and their implications in IBD. In addition, the study of a pediatric IBD inception cohort also mitigates cofounding factors such as medication, lifestyle and disease complications which are associated with the study of adult patients with long-standing IBD.
+
+# Results
+
+# Pediatric IBD cohort and metaproteomic characterization
+
+In this study, we enrolled 71 treatment-naïve pediatric patients, including 25 CD, 22 UC, and 24 non-IBD control subjects that showed no macroscopic-intestinal inflammation (Table 1; details in Supplementary Data 1). No significant difference in age was observed between control, CD or UC (p = 0.7588; Kruskal–Wallis test), nor did we observe a significant difference in the number of females and males in each group (control, p = 0.5413; CD, p = 0.2295 and UC, p > 0.9999; Binomial two-tailed test). The majority (81.2%) of pediatric UC participants had extensive disease, defined as a Paris classification of E3 or E4, which is consistent with previous studies. Furthermore, the majority (80%) of CD patients presented with colonic or ileocolonic disease, also in accordance with previous reports.
+
+# Table 1 Patient characteristics of treatment-naïve pediatric IBD cohort
+
+| |Controls (n = 24)|CD (n = 25)|UC (n = 22)| |
+|---|---|---|---|---|
+|Gender|Male/female|10/14|16/9|11/11|
+|Age|Median (Q1–Q3)|15.0 (13.5–16.3)|13.8 (12.3–16.1)|14.9 (11.2–16.2)|
+|Disease activity|Severe/moderate/mild|NA|(13/6/6)|(5/14/3)|
+|Paris classification|A1a/A1b/A2|NA|(4/19/2)|NA|
+| |L1/L2/L3/L4a/L4b|NA|(3/4/16/12/4)|NA|
+| |B1/B2/B3/p|NA|(23/1/1/4)|NA|
+| |G0/G1|NA|(17/8)|NA|
+| |E1/E2/E3/E4|NA|NA|(1/3/4/14)|
+| |S0/S1|NA|NA|(14/8)|
+|MLI aspirate samples (inflammatory status)|DeC (w/o inflam/w inflam)|20/0|11/9|17/1|
+| |AsC (w/o inflam/w inflam)|22/0|11/11|12/6|
+| |TI (w/o inflam/w inflam)|21/0|16/3|16/0|

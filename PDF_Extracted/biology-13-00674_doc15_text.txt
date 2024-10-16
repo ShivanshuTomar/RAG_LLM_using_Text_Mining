@@ -1,0 +1,10 @@
+# Biology 2024, 13, 674
+
+# References
+
+1. Bibbins-Domingo, K.; Chertow, G.M.; Coxson, P.G.; Moran, A.; Lightwood, J.M.; Pletcher, M.J.; Goldman, L. Projected effect of dietary salt reductions on future cardiovascular disease. N. Engl. J. Med. 2010, 362, 590–599. [CrossRef]
+2. Chang, H.Y.; Hu, Y.W.; Yue, C.S.; Wen, Y.W.; Yeh, W.T.; Hsu, L.S.; Tsai, S.Y.; Pan, W.H. Effect of potassium-enriched salt on cardiovascular mortality and medical expenses of elderly men. Am. J. Clin. Nutr. 2006, 83, 1289–1296. [CrossRef]
+
+# Disclaimer/Publisher’s Note
+
+The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.

@@ -1,0 +1,27 @@
+# C. D. Moulton et al.
+
+# NEURO-IMMUNE INTERACTIONS: HOW THE NERVOUS AND IMMUNE SYSTEMS INFLUENCE EACH OTHER
+
+In a secondary analysis of 1798 IBD patients in remission, poor sleep was associated with a twofold increase in risk of active disease over 6 months, although no association was seen in UC [54].
+
+In summary, somatic symptoms are particularly common in people with IBD – occurring as part of a wider depressive illness or otherwise – and prospective research is needed to test inflammation as a potential cause of such symptoms.
+
+# The gut–brain axis
+
+Rather than being distinct systems, there is compelling evidence of bidirectional communication between gut and brain, including neural, metabolic and endocrine mediators that interact critically with inflammation [55]. From brain to gut, stress causes colitis through sympathetic nervous system activation and mast cell activation in animal models of IBD, which is accentuated in those exposed to early life stress [56]. In humans, stress leads to dysregulation of the hypothalamic–pituitary–adrenal (HPA) axis, with concomitant increase in HPA axis activity and peripheral inflammation [57]. This may be due to a reduced sensitivity of the immune system to the immunoregulatory action of cortisol, as well as possibly to direct proinflammatory signalling in the periphery by cortisol [57], particularly in females [58]. Immediate sympathetic activation occurs after integration of stress signals at the paraventricular nucleus of the hypothalamus, from where neurones project to innervate immune tissue in the gut [59]. Stress further exerts proinflammatory effects on the gut and periphery and leads to increased intestinal permeability [60,61].
+
+From gut to brain, increased intestinal permeability is thought to lead to both increased inflammation and depressive symptoms. For example, increasing serum concentrations of lipopolysaccharide (LPS), a proxy marker of intestinal permeability [62], have been found to produce a dose-dependent increase in both anxiety and depressive symptoms, correlating with increasing serum cytokine concentrations [63]. Individuals with mood disorders have also been found to have a higher concentration of circulating antibodies to microbial products, including LPS [64], as well as elevated zonulin and fatty-acid binding protein-2, markers of mucosal barrier function [65]. This suggests that circulating microbial products in the context of a ‘leaky gut’ may contribute to increased peripheral inflammation and mood disorders.
+
+This bidirectional axis leads to a vicious cycle of increasing inflammation, which can in turn communicate with the brain to lead to depressive symptoms. For example, inflammatory cytokines activate the HPA axis, fuelling a vicious cycle of increased oxidative stress in the brain [66]. Inflammatory cytokines activate the tryptophan–kynurenine pathway through activation of the enzyme indoleamine-2,3-dioxygenase (IDO), leading to reduced production of serotonin and increased production of tryptophan catabolites such as kynurenine, which have neurotoxic properties [67]. As with depressive symptoms, the serum kynurenine/tryptophan ratio is elevated in people with IBD and has been found to correlate with disease activity and with inflammatory markers [68,69]. The effects of inflammation on the brain appear to be more pronounced in females [70].
+
+Aetiologically, perturbations in gut microbiota composition – so-called gut dysbiosis – are known to influence intestinal permeability [61], providing a potential shared aetiology for depressive symptoms and IBD. In IBD, gut dysbiosis has been extensively described [71,72] and disease remission can be achieved using faecal microbiota transplantation [73]. Lifestyle behaviours, such as poor diet and smoking, have adverse effects on gut microbiota [30,74]. Meanwhile, psychological stress alters the community structure of the gut microbiota in animal models [75], which may be mediated through inflammatory pathways [76]. Moreover, the composition of the microbiota directly influences host immune responses both qualitatively and quantitatively, and both within and outside the gut. For instance, in mice, intestinal colonization with segmental filamentous bacteria is required for T helper type 17 (Th17) responses [77], and immunomodulatory responses, such as IL-10 production driven by regulatory T cells, are induced by clusters of Clostridia and species such as Bacteroides fragilis [78,79].
+
+In humans with depressive symptoms, gut dysbiosis has been found to correlate with severity of depressive symptoms in cross-sectional studies [80,81], and there is evidence from small RCTs that probiotic therapies to alter gut microbiota may reduce depressive symptoms over time, which correlates with reduction in inflammation [82].
+
+Overall, there is evidence of a bidirectional axis between brain and gut, underpinned by stress and gut dysbiosis, and leading to a vicious cycle of elevated inflammation in the brain, periphery and gut. This provides various opportunities to break this cycle therapeutically, as discussed below.
+
+# Inflammation as a novel target for depressive symptoms in IBD
+
+In IBD, rates of disease complications, including the need for surgery, appear to have declined in recent years, due in part to improved understanding of the biology and epidemiology of IBD, and earlier
+
+312 © 2019 British Society for Immunology, Clinical and Experimental Immunology, 197: 308–318

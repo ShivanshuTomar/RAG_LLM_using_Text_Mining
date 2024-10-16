@@ -1,0 +1,77 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Library
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# NCT03078803 (Continued)
+
+- Antibiotic exposure within 30 days, probiotic exposure within 14 days, topical IBD therapy within 2 weeks, concurrent antibiotic therapy
+- SES-CD score &lt; 5, severe CD HBI &gt; 25, or need for hospitalization
+- Active perianal disease, abdominal abscess, extensive colonic resection, subtotal or total colectomy, ileostomy, colostomy, known fixed symptomatic stenosis or complex fistulae, upper CD
+- Any need for surgical intervention (e.g. bowel resection within 3 months of enrollment)
+- Presence of or treatment for Clostridioides difficile or other gastrointestinal pathogen including CMV within 28 days; chronic hepatitis B or C, or HIV infection
+- History or evidence of adenomatous colonic polyps, colonic dysplasia, adhesions preventing colonoscopy to cecum
+- Active substance abuse or psychiatric problems that may interfere with participation
+- Pregnancy
+
+# Interventions
+
+# Experimental arm
+
+First FMT at week 0 by colonoscopy + weekly FMT by oral capsules until week 7
+
+# Control arm
+
+First placebo (water) at week 0 by colonoscopy + weekly placebo by oral capsules until week 7
+
+# Outcomes
+
+# Primary outcomes
+
+- Clinical and endoscopic remission at week 8 (HBI &lt; 5 and simple endoscopic score &lt; 5)
+
+# Secondary outcomes
+
+- Clinical response at week 8 (HBI reduction by 3 points)
+- Clinical remission at week 8 (HBI &lt; 5)
+- Endoscopic response at week 8 (SES-CD score reduction by 50%)
+- Endoscopic remission at week 8 (SES-CD score &lt; 5)
+- Quality of life 1 at week 8 (mean changes in Short IBDQ)
+- Quality of life 2 at week 8 (mean changes in EQ-5D)
+- Quality of life 3 at week 8 (mean changes in Work Productivity and Activity Impairment: Crohn's Disease Questionnaire)
+
+# Starting date
+
+# Contact information
+
+# Notes
+
+# NCT03110289
+
+# Study name
+
+Restoration of the microbiome through superdonor selection (RESTORE-UC)
+
+# Methods
+
+Multicenter RCT conducted in Belgium and the Netherlands
+
+# Participants
+
+# Inclusion criteria
+
+- Age &gt; 18 years
+- Current mild-to-moderate active UC (Endoscopic Mayo subscore 2–3, Total Mayo score 4–10)
+- Concomitant UC therapy restricted to current treatment and at stable dose (not in induction phase)
+- Use of methylprednisolone at maximum dose of 15 mg
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

@@ -1,0 +1,40 @@
+# Cochrane Library
+
+# Trusted evidence. Informed decisions. Better health.
+
+# Figure 6. Funnel plot: serious adverse events for use of FMT for induction of remission in UC.
+
+The graph appears symmetrical.
+
+# Cochrane Database of Systematic Reviews
+
+|0|SE(log[RR])|0.5|1|1.5|
+|---|---|---|---|---|
+|RR|RR|RR|RR|RR|
+|20.01|0.1|1|10|100|
+
+# Subgroup analyses
+
+We performed subgroup analyses for the risk of serious adverse events after FMT based on route of administration (Analysis 1.12), type of donor (Analysis 1.13), and age of participants (Analysis 1.14). The number of included studies in each subgroup analysis was small and the CIs overlapped the line of no effect, indicating similarity of subgroup summary estimates.
+
+# Sensitivity analyses
+
+A sensitivity analysis based on the use of a fixed-effect model showed similar results (RR 1.87, 95% CI 0.95 to 3.68) to those reported using a random-effects model (Analysis 1.15). A post-hoc sensitivity analysis based on available cases showed similar results (RR 1.74, 95% CI 0.88 to 3.47; 382 participants, Analysis 1.16).
+
+# Secondary outcomes
+
+# Any adverse events
+
+There was little to no difference in any adverse events between the FMT and control groups of participants with active UC (RR 0.99, 95% CI 0.85 to 1.16; 9 studies, 417 participants; low-certainty of evidence; Analysis 1.17). We downgraded the certainty of evidence due to risk of bias and imprecision of the summary estimate (Summary of findings 1). Common adverse events included abdominal pain, nausea, flatulence, bloating, headaches, and dizziness.
+
+# Induction of endoscopic remission in ulcerative colitis at longest follow-up
+
+FMT may increase rates of induction of endoscopic remission in UC at longest follow-up; however, the CIs around the summary estimate were wide and included a possibility of no effect (RR 1.45, 95% CI 0.64 to 3.29; 5 studies, 285 participants; low-certainty evidence; Analysis 1.18). We downgraded the certainty of evidence due to very serious imprecision of the summary estimate (Summary of findings 1).
+
+# Quality of life at longest follow-up
+
+Five studies reported quality of life (IBDQ) scores in UC at the longest follow-up for FMT versus control groups. However, two of these studies were excluded from the quantitative analysis because one provided means without SD values (Moayyedi 2015) and one provided data in the form of box plots (Rossen 2015). Thus, the meta-analysis of final IBDQ scores was based on three studies with 131 participants. The evidence was very uncertain about whether FMT in participants with active UC increased quality of life at longest follow-up. The CIs were wide and included the possibility of no effect (MD 15.34, 95% CI −3.84 to 34.52; very low-certainty evidence; Analysis 1.19). We downgraded the certainty of evidence due to inconsistency and very serious imprecision of the summary estimate (Summary of findings 1). One study reported data as medians and IQR (Haifer 2022), which we converted to means and SDs using a calculator based on methods by Hozo 2005. A sensitivity analysis without this study showed similar results but with a more.
+
+Fecal transplantation for treatment of inflammatory bowel disease (Review) 23
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

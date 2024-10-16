@@ -1,0 +1,26 @@
+# Alatawi et al.: Microbiota and anti-TNF-α response in IBD patients
+
+# Figure 6
+
+# (A) Principal coordinate analysis (PCoA).
+
+# (B) 2D-weighted UniFrac profile of β-diversity for microbial diversity among stool samples.
+
+# (C) Weighted-UniFrac heat map.
+
+# (D) Phylogenetic tree indicating presence of clear clustering in microbial structure.
+
+|PCOA|PCI|PC2 (11 %)|PC3 (10 %)|
+|---|---|---|---|
+|3|8|2|5|
+|8| | | |
+
+Veillonella, and Pseudomonas were recorded in fecal samples of primary non-responders.
+
+In this study, we did not observe a great dissimilarity in gut microbiota composition between responders and non-responders. Only moderate differences were found, with limited statistical significance. Of particular note, the majority of the findings were consistent with some previous studies on the gut microbiome in the context of different diseases, such as spondyloarthritis [12,20]. An increased abundance of Proteobacteria and Actinobacteria in non-responders was observed in this cohort. An outgrowth of these phyla has been associated with gastric bypass, metabolic disruption, inflammation, and cancer [21]. By contrast, the proportion of Bacteroidetes phylum decreased in non-responders compared with responders. An unexpected result was the detection of an elevation of Firmicutes phylum biodiversity in non-responders compared with responders. This finding conflicts with several studies that demonstrated a reduced concentration of the Firmicutes phylum in non-responders [18].
+
+At the family level, the non-responders showed a remarkable decline in the Bacteroidaceae and Lactobacillaceae populations. Members of the Lactobacillaceae family have an essential role in the fermentation of kefir, which has been suggested to be a probiotic that may play a role in the treatment of IBD [22]. However, an increased abundance of Bifidobacteriaceae,
+
+Bosn J Basic Med Sci. 2022;22(3):412-426
+
+www.bjbms.org

@@ -1,0 +1,61 @@
+# Yang et al. Journal of Nanobiotechnology (2024) 22:166
+
+# Page 10 of 16
+
+|DSS|YBNS@PDA H|f|PBS|Water|
+|---|---|---|---|---|
+|1|YBNs@PDA-L|2.596 DSS|310|293|
+|2|YBNS@PDA-H| |PBS|0.50-0.25|
+| |YBNs|PCo1 (23.7630)| | |
+
+# AllstInos
+
+- Excherichia Shiqulla
+- parasuttorolla
+- acteroldes
+- cubactorium Ilssicatona
+- Parabactcroides
+- Helicobacter
+- NK4A136 =
+- mnuribaculicozc
+- Dubosiclla
+- Lachnospiracuac uncullurcd
+- Bilidobaciunum
+- Lacicoacus
+- uric bactor
+- Odoribactcr
+- Prevotellaceae UCG 001
+- Closiridia vadinBB6o
+
+|YBNs|Water|YBNS@PDA-L|YBNS@PDA-H|2.59 DSS|
+|---|---|---|---|---|
+|Lachnospiraceae NK4A136|Bifidobacterium|Alistipes|1|1|
+|L|1f|1|1| |
+|PBS|2|4 &|YBNs|YBNs|
+
+# Escherchia_Shigella
+
+# Acbob Ciabe
+
+# YBNs@PDA-H
+
+|PBS|2.59 DSS|
+|---|---|
+|Bilddobacienun| |
+|Lcnonacena| |
+|Bifidobicuxaccie| |
+|Odonnactor| |
+|Hanilaceae| |
+|Lichospircual| |
+|Eutercteactoraliss caxena GrolD| |
+|Enlercbacteriacea8| |
+|L| |
+|Rikencnaceaesniguiz| |
+|4 &|YBN|
+|WaletYBN @PDA-LYBNS PDA H457|LDA sccre (lcg10)|
+
+# Fig. 6
+
+Gut microbiome composition changes with the treatment of YBNs and YBNs@PDA. (A) Venn diagram of shared and unique species. (B) Alpha diversity was displayed by Chao. (C) PCoA plot illustrating the β-diversity according to the Bray-Curtis method. (D) Heatmap of the relative abundance of gut microbiome at genus level. The abundance is shown as relative percentage. (E) Relative abundance of select taxa at genus level. (F) LEfSe analysis of gut microbiota. Data are presented as mean ± standard deviation from a representative experiment (n = 4). *P &lt; 0.05, **P &lt; 0.01, ***P &lt; 0.001, analysed by two-tailed unpaired Student’s t-test.
+
+showed an enrichment of IBD-associated Escherichia shigella, Bacteroides, Enterobacterales, ASF356, Eubacterium_fissicatena, Alistipes and Gammaproteobacteria pathogens (LDA (log10) > 4.0, P &lt; 0.05). To investigate the relationship between gut microbiota and gut immunity in colitis under YBNs@PDA administration, a correlation analysis was conducted utilizing the Spearman’s rank correlation method. The study found a significant correlation between the production of pro-inflammatory cytokines, specifically TNF-α and IL-6, and the presence.

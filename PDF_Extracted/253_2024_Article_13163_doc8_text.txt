@@ -1,0 +1,79 @@
+# Applied Microbiology and Biotechnology
+
+# (2024) 108:333
+
+# Effects of engineered bacteria on ameliorating mice
+
+A Schematic of the administration schedule. PBS or the engineered bacteria (5 × 109 CFUs, EcN, EcN-TNFαNb, or EcN-IL10) was administered via gavage every day.
+
+# Weight change of the mice in each group
+
+# Colon status (C) and length (D) of each group of mice
+
+# Histological image of colon sections stained with HE (200×)
+
+Scale bars, 100 μm.
+
+# Histology activity index of mice in each group
+
+# DAI on the 5th day of DSS administration
+
+# Analysis of the expression level of anti-TNF-α nanobody (H) and IL-10 (I) expressed by the engineered bacteria in feces of mice with colitis
+
+The content of anti-TNF-α nanobody and IL-10 in the collected stool samples on the 5th day was detected by ELISA.
+
+# Protein levels in the colon samples of mice in each group
+
+|Protein|Level|
+|---|---|
+|TNF-α (J)| |
+|IL-6 (K)| |
+|IL-17 A (L)| |
+|MCP-1 (M)| |
+
+# Masson’s trichrome staining
+
+Fibrotic regions are stained blue and indicated by yellow arrows. Scale bars, 100 μm.
+
+# Collagen proportionate areas in mice from the six groups
+
+(mean ± SEM; n = 4; individual dots represent individual mice; statistical significance was determined by one-way ANOVA test; *P ≤ 0.05, **P ≤ 0.01, ***P ≤ 0.001, ****P ≤ 0.0001)
+
+The administration of EcN-TNFαNb and EcN-IL10 strains did not significantly exacerbate fibrosis. However, treatment with EcN-TNFαNb resulted in gut fibrosis, indicating an unfavorable safety profile.
+
+# Thiosulfate‑responsive genetic circuits for the expression of anti‑TNF‑α nanobody and IL‑10
+
+# Regulatory effects on the gut microbiome
+
+We aimed to determine whether the combined use of EcN-TNFαNb and EcN-IL10 could regulate the intestinal microbiota composition in a murine model of DSS-induced inflammatory bowel disease (IBD). Subsequently, we performed 16 S rRNA gene sequencing to assess the abundance of intestinal microbiota.
+
+# Results from α-diversity analysis
+
+Compared with the other five groups, the EcN-TNFαNb + EcN-IL10 group exhibited a more even distribution of microorganisms.
+
+# Relative abundances of intestinal microbiota
+
+|Group|Bacteroidetes|Firmicutes|Proteobacteria|
+|---|---|---|---|
+|PBS (DSS −)|57.24%|25.13%|3.08%|
+|PBS (DSS +)|52.84%|33.23%|9.46%|
+
+It is worth mentioning that an increased ratio of Bacteroidetes to Firmicutes has been associated with improved colitis outcomes in mice models. Remarkably, administration of EcN-TNFαNb and EcN-IL10 combination significantly augmented both Bacteroidetes and Firmicutes proportions, which had been reduced due to DSS treatment.
+
+# Thiosulfate as a diagnostic marker for enteritis
+
+In IBD mice, the physiological level of thiosulfate ranges from 35 to 180 μM.
+
+# Construction of thiosulfate-responsive genetic circuits in EcN
+
+We employed a two-component system, ThsS/R. Initially, we integrated thsS/R into a low-copy plasmid under the control of constitutive promoters PJ23104 and PJ23100, incorporating the pSC101 origin of replication to enhance plasmid stability.
+
+Additionally, anti-TNF-α nanobody and IL-10 were placed under the regulation of the promoter PphsA, which responds to thiosulfate via ThsR.
+
+# Expression levels of anti-TNF-α nanobody and IL-10
+
+ELISA and western blotting analysis confirmed detectable levels of anti-TNF-α nanobody and IL-10 in the culture medium of both thio-TNFαNb and thio-IL10 strains. Furthermore, expression levels of anti-TNF-α nanobody and IL-10 exhibited dose-dependent induction by varying concentrations of thiosulfate ranging from 0 to 500 μM.
+
+# Discussion
+
+The global prevalence of IBD is increasing, imposing a significant burden on patients’ families due to its detrimental effects.

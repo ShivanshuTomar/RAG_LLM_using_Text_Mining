@@ -1,0 +1,22 @@
+# Wang et al. Cell Death and Disease (2019) 10:391
+
+# Fig. 8
+
+Chloroquine attenuates CRH-induced enhancement of M1/M2 ratio in the left colon from IBD mice in murine BMDM under the challenge of LPS.
+
+|Control|DSS CRF|Chloroquine|DSS Chloiomune|DSS-CRA-Chlc|OJUne|Contrc|OSS+CRH|Chloroquine|OSS+Chloroquine|DSS+CRH-Chijroq|Jin|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|Control|LPSTCRH|Chloroquine|PS Chlccjung|LPS CRH|Cnkicquin|0|Control|LPS CRH|Chbpron Jing|LPS+Chloroquine|LPS+CRH+Cnloroquirc|
+|Control|LPS-CRH| | | | | | | | | |Lps CRA|
+|Chloroquine|LPS+Chloroquine|LFS+CRH+Chloroquine|2|251|Chloroquine|LPS-Chloiojunt|LPS-CRH-Cnlorcquirt|2|25| | |
+| |3|20|8|1|38| | | | | | |
+
+a, b DSS (3%) was given to C57BL/6 mice for 6 days while water was given to the control group. For certain groups, CRH (50 μg/kg body weight) and/or chloroquine (60 mg/kg body weight) was intraperitoneally given from day 1 to day 6 and saline was injected as vehicle. The left edge of colon was separated, and fixed and immunofluorescence staining was used for the detection of CD68 (M1 cells) and CD206 (M2 cells). Compared to the DSS + Vehicle group, the mice in the DSS + CRH group had an increased ratio of CD68+ cells and a decreased ratio of CD206+ cells in the left colon, while the administration of chloroquine largely attenuated the effect of CRH (n = 6 per group).
+
+c, d Murine BMDM were obtained and stimulated with LPS (100 ng/ml), CRH (10−8 M), and/or chloroquine (10 μM), and immunofluorescence staining was used for the detection of CD68 (M1 cells), and CD206 (M2 cells). Compared to the LPS + Vehicle group, the LPS + CRH group had an increased ratio of CD68+ cells and a decreased ratio of CD206+ cells, while the administration of chloroquine largely attenuated the effect of CRH (n = 6 per group).
+
+e, f Murine BMDM were obtained and stimulated with LPS (100 ng/ml), CRH (10−8 M), and/or chloroquine (10 μM). FACS analysis was conducted for the detection of CD68+ cell and CD206+ cell ratios. Compared to the LPS + Vehicle group, the LPS + CRH group had an increased ratio of CD68**P < 0.01. decreased ratio of CD206+ cells, while the administration of chloroquine largely attenuated the effect of CRH (n = 6 per group).
+
+Endoscopy Center of Changhai Hospital, an open-access academic tertiary endoscopy center. According to the improved Mayo score system, colonic tissue biopsy was performed during colonoscopy in healthy control and patients with severe and mild/moderate IBD between February 2018 and May 2018. The colonoscopy was performed as described in our previous study. During the procedure, we collected the basic demographic characteristics of IBD patients and assessed the level of perceived stress using the CPSS. The CPSS is a ten-item instrument designed to measure the degree to which the subject has perceived life as unpredictable, uncontrollable, and overloading during the previous month. Apart from these parameters, the endoscopic score was evaluated using the endoscopy ranging from 0 to 4, which corresponded to the improved Mayo score system. Subsequently, the tissue was fixed in 4% (w/v) paraformaldehyde overnight and embedded in paraffin. The severity of inflammation was assessed via hematoxylin-eosin staining, while the level of autophagy and the number of M1 macrophage were estimated by immunohistochemical staining. The levels of autophagy-
+
+Official journal of the Cell Death Differentiation Association

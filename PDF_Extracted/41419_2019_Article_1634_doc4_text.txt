@@ -1,0 +1,20 @@
+# Wang et al. Cell Death and Disease (2019) 10:391
+
+# Administration of CRH enhances Paneth cell metaplasia in the epithelium of the left colon from IBD mice
+
+Paneth cells are normally distributed in the epithelium of the small intestine. However, on the occurrence of IBD, Paneth cell metaplasia have been observed in the epithelium of colonic tissue21. Thus, we detected the metaplasia of Paneth cells in the epithelium during the occurrence of IBD. Mice receiving 3% DSS for 7 days showed an obvious metaplasia of the Paneth cells in the epithelium of IBD mice models in the left colon (Fig. 3a, b). Administration of CRH further increased Paneth cell metaplasia (Fig. 3a, b). These data indicated the peripheral CRH administration promoted Paneth cell metaplasia in the left colon of IBD.
+
+# Administration of CRH disturbs the intestinal microbiota balance in IBD mice
+
+We then detected the influence of peripheral CRH in the homeostasis of intestinal microflora in IBD mice by performing high-throughput 16S rRNA gene sequencing. Metrics was used to assess differences in microbial alpha diversity (species richness, Shannon, and ace index). Mice
+
+|Control|CRH|
+|---|---|
+|Vehicle|CRH|
+|DSS|DSS+CRH|
+|6000| |
+|4500| |
+|3000| |
+|1500| |
+
+**P < 0.01 vs. the control group, ##P < 0.01 vs. the DSS + Vehicle group.

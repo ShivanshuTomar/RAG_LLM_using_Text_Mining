@@ -1,0 +1,58 @@
+# Current Page
+
+# 12 of 15
+
+# A. Kaushal, R. Noor
+
+Traditionally, viruses are known to induce the localized infection, but influenza A virus can produce the local response could induce hepatitis and intestinal damage without local infections. It is important to find out the novel ways to harness the great potential of viruses for therapeutics. Treatment of mice with antiviral cocktails escalate the dextran sulfate sodium (DSS) induced colitis, but when treatment is replaced with inactivated rotavirus or agonized/ attenuated TLR3 and TLR7, the disease is reduced dramatically. The TLRs provide the protective effect to be associated with IFN I expressed by DCs. However, TLRs are also linked to the disease severity of IBD in patients. IFN I in combination with antiviral drugs is a standard method to treat chronic hepatitis C, but always associated with toxicity, including gastrointestinal illness [83].
+
+Virome and susceptible genes interact to aggravate the IBD, this experiment is performed by using murine norovirus, which showed that viruses are the functional members of microbiome. Autophagy Related 16-Like 1 (ATG16L1) gene is involved in cellular degenerative pathway by autophagy, and is linked with increased susceptibility to form IBD. For example, mice deficient in IL-10 and multi-drug resistance mutation 1 (MDR1), a toxin transporter colonized by Helicobacter bilis may accelerate the intestinal inflammation [84, 85]. Intestinal virome could also influence the autoimmune disorders, if they extend beyond the GIT. Experimental mice were given the infection with rotavirus increase the IFN I dependent activation of lymphocytes in the pancreatic lymph nodes and initiate the progression of type 1 diabetes (T1D) due the spread of the virus to mesentery and pancreatic lymph nodes [86, 87]. The virome-host interaction along with microbiome could contribute to the health maintenance, disease prognosis and regulation of the immune response, to get the beneficial or detrimental outcome for the host [84, 88–90]. Therefore, virome does play a significant role in regulating the gut balance / or causing dysbiosis, can’t be ruled out.
+
+# Conclusions
+
+Gut microbiota including viruses and bacteriophages are important to carry out the systematic balance in gut, circulatory and respiratory systems; certainly warrants the further studies on the interactions with SARSCoV-2. It could provide clues for new diagnostics biomarkers related to dysbiosis, modulation of microbiota to design new treatments to help control the hyperinflammatory response safely and effectively. Development of personalized medicines to control the immune response in comorbid, immunocompromised/or immunosuppressed individuals.
+
+# Acknowledgements
+
+Authors have extended their gratitude to all the researchers and scientists who added their incredible efforts, during the pandemic, to carry out the research work on the microbiota dysbiosis and its association with risks involved with COVID-19 disease.
+
+# Author Contributions
+
+Conceptualization: RN, AK; formal analysis: AK, RN; investigation: AK, RN; resources: AK, RN; writing-original draft preparation: RN; editing: AK, RN; visualization: AK, RN; supervision: AK.
+
+# Funding
+
+There was no fund/ grant for writing this review article.
+
+# Data Availability
+
+Not applicable.
+
+# Declarations
+
+# Conflict of interest
+
+Authors have declared that they have no conflict of interest.
+
+# Ethical Approval
+
+Not applicable.
+
+# Consent to Participate
+
+Not applicable.
+
+# Consent for Publication
+
+Authors have read and approved the final manuscript for publication.
+
+# References
+
+1. Noor R, Naz A, Maniha SM, Tabassum N et al (2021) Microorganisms and cardiovascular diseases: importance of gut bacteria. Front Biosci-Landmark 26(5):22–28. https://doi.org/10.52586/4921
+2. Segal JP, Mak JWY, Mullish BH et al (2020) The gut microbiome: an under-recognised contributor to the COVID-19 pandemic? Therap Adv Gastroenterol 13:1756284820974914. https://doi.org/10.1177/1756284820974914
+3. Yamamoto S, Saito M, Tamura A, Prawisuda D, Mizutani T, Yotsuyanagi H (2021) The human microbiome and COVID-19: a systematic review. PLoS ONE 16(6):e0253293. https://doi.org/10.1371/journal.pone.0253293
+4. Zheng T, Li J, Ni Y, Kang K et al (2019) Mining, analyzing, and integrating viral signals from metagenomic data. Microbiome 7(1):42. https://doi.org/10.1186/s40168-019-0657-y
+5. Yeoh YK, Zuo T, Lui GC, Zhang F, Liu Q, Li AY et al (2021) Gut microbiota composition reflects disease severity and dysfunctional immune responses in patients with COVID-19. Gut 70(4):698–706. https://doi.org/10.1136/gutjnl-2020-323020
+6. Noor R (2021) Human gut microorganisms in the protection against COVID-19. GENOMEDEN 5–6. http://genomeden.com/wp-content/uploads/2021/06/GENOMEDEN-June-issue-2021-pdf-compressed-1.pdf
+7. Vu DL, Kaiser L (2017) The concept of commensal viruses almost 20 years later: redefining borders in clinical virology. Clin Microbiol Infect 23(10):688–690. https://doi.org/10.1016/j.cmi.2017.03.005
+8. Nayfach S, Páez-Espino D, Lee C et al (2021) Metagenomic compendium of 189, 680 DNA viruses from human gut microbiome. Nat Microbiol 6:960–970

@@ -1,0 +1,38 @@
+# Role of interleukin-6-mediated inflammation in the pathogenesis of inflammatory bowel disease
+
+# References
+
+1. Hibi M, Murakami M, Saito M, Hirano T, Taga T, Kishimoto T (1990). Molecular cloning and expression of an IL-6 signal transducer, gp130. Cell 63(6):1149–1157.
+2. Hunter CA, Jones SA (2015). IL-6 as a keystone cytokine in health and disease. Nat Immunol 16(5):448–457.
+3. Hurst SM, Wilkinson TS, McLoughlin RM, Jones S, Horiuchi S, Yamamoto N, Rose-John S, Fuller GM, Topley N, Jones SA (2001). IL-6 and its soluble receptor orchestrate a temporal switch in the pattern of leukocyte recruitment seen during acute inflammation. Immunity 14(6):705–714.
+4. Inflammatory bowel disease (2022). Retrieved 3.19.2022, from https://www.nhs.uk/conditions/inflammatory-bowel-disease/.
+5. Ishii K, Shirai T, Kakuta Y, Machiyama T, Sato H, Ishii T, Harigae H, Fujii H (2022). Development of severe colitis in Takayasu arthritis treated with tocilizumab. Clin Rheumatol 41:1911–1918. https://doi.org/10.1007/s10067-022-06108-z
+6. Ito H (2005). Treatment of Crohn’s disease with anti-IL-6 receptor antibody. J Gastroenterol 40(16):32–34.
+7. Ito H, Takazoe M, Fukuda Y, Hibi T, Kusugami K, Andoh A, Matsumoto T, Yamamura T, Azuma J, Nishimoto N (2004). A pilot randomized trial of a human anti-interleukin-6 receptor monoclonal antibody in active Crohn’s disease. Gastroenterology 126(4):989–996.
+8. Jansen K, Cevhertas L, Ma S, Satitsuksanoa P, Akdis M, van de Veen W (2021). Regulatory B cells, A to Z. Allergy 76(9):2699–2715.
+9. Kanai T, Watanabe M, Okazawa A, Sato T, Yamazaki M, Okamoto S, Ishii H, Totsuka T, Iiyama R, Okamoto R (2001). Macrophage-derived IL-18–mediated intestinal inflammation in the murine model of Crohn’s disease. Gastroenterology 121(4):875–888.
+10. Kang S, Tanaka T, Narazaki M, Kishimoto T (2019). Targeting interleukin-6 signaling in clinic. Immunity 50(4):1007–1023.
+11. Kevans D, Murthy S, Mould DR, Silverberg MS (2018). Accelerated clearance of infliximab is associated with treatment failure in patients with corticosteroid-refractory acute ulcerative colitis. J Crohns Colitis 12(6):662–669.
+12. Kimura A, Kishimoto T (2010). IL-6: regulator of Treg/Th17 balance. Eur J Immunol 40(7):1830–1835.
+13. Kishimoto T (2010). IL-6: from its discovery to clinical applications. Int Immunol 22(5):347–352.
+14. Kittana H, Gomes-Neto JC, Heck K, Geis AL, Segura Muñoz RR, Cody LA, Schmaltz RJ, Bindels LB, Sinha R, Hostetter JM (2018). Commensal Escherichia coli strains can promote intestinal inflammation via differential interleukin-6 production. Front Immunol 9:2318.
+15. Kobori A, Yagi Y, Imaeda H, Ban H, Bamba S, Tsujikawa T, Saito Y, Fujiyama Y, Andoh A (2010). Interleukin-33 expression is specifically enhanced in inflamed mucosa of ulcerative colitis. J Gastroenterol 45(10):999–1007.
+16. Kojima F, Sekiya H, Hioki Y, Kashiwagi H, Kubo M, Nakamura M, Maehana S, Imamichi Y, Yuhki K-I, Ushikubi F (2022). Facilitation of colonic T cell immune responses is associated with an exacerbation of dextran sodium sulfate–induced colitis in mice lacking microsomal prostaglandin E synthase-1. Inflamm Regen 42(1):1–24.
+17. Kopf M, Baumann H, Freer G, Freudenberg M, Lamers M, Kishimoto T, Zinkernagel R, Bluethmann H, Köhler G (1994). Impaired immune and acute-phase responses in interleukin-6-deficient mice. Nature 368(6469):339–342.
+18. Kuhn KA, Schulz HM, Regner EH, Severs EL, Hendrickson JD, Mehta G, Whitney AK, Ir D, Ohri N, Robertson CE (2018). Bacteroidales recruit IL-6-producing intraepithelial lymphocytes in the colon to promote barrier integrity. Mucosal Immunol 11(2):357–368.
+19. Kusugami K, Fukatsu A, Tanimoto M, Shinoda M, Haruta J-I, Kuroiwa A, Ina K, Kanayama K, Ando T, Matsuura T (1995). Elevation of interleukin-6 in inflammatory bowel disease is macrophage-and epithelial cell-dependent. Dig Dis Sci 40(5):949–959.
+20. Lai C-S, Yang G, Li S, Lee P-S, Wang BN, Chung M-C, Nagabhushanam K, Ho C-T, Pan M-H (2017). 3′-Hydroxypterostilbene suppresses colitis-associated tumorigenesis by inhibition of IL-6/STAT3 signaling in mice. J Agric Food Chem 65(44):9655–9664.
+21. Larussa T, Oliverio M, Suraci E, Greco M, Placida R, Gervasi S, Marasco R, Imeneo M, Paolino D, Tucci L (2017). Oleuropein decreases cyclooxygenase-2 and interleukin-17 expression and attenuates inflammatory damage in colonic samples from ulcerative colitis patients. Nutrients 9(4):391.
+22. Lavoie S, Conway KL, Lassen KG, Jijon HB, Pan H, Chun E, Michaud M, Lang JK, Comeau CAG, Dreyfuss JM (2019). The Crohn’s disease polymorphism, ATG16L1 T300A, alters the gut microbiota and enhances the local Th1/Th17 response. Elife 8:e39982.
+23. Lee SH (2015). Intestinal permeability regulation by tight junction: implication on inflammatory bowel diseases. Intest Res 13(1):11.
+24. Lee Y-C, Liu C-Y, Lee C-L, Zhang R-H, Huang C-J, Yen T-L (2022). The periodontopathic pathogen, porphyromonas gingivalis, involves a gut inflammatory response and exacerbates inflammatory bowel disease. Pathogens 11(1):84.
+25. Leite AZ, Rodrigues NDC, Gonzaga MI, Paiolo JCC, de Souza CA, Stefanutto NAV, Omori WP, Pinheiro DG, Brisotti JL, Matheucci Junior E (2017). Detection of increased plasma interleukin-6 levels and prevalence of Prevotella copri and Bacteroides vulgatus in the feces of type 2 diabetes patients. Front Immunol 8:1107.
+26. Li F, Han Y, Cai X, Gu M, Sun J, Qi C, Goulette T, Song M, Li Z, Xiao H (2020). Dietary resveratrol attenuated colitis and modulated gut microbiota in dextran sulfate sodium-treated mice. Food Funct 11(1):1063–1073.
+27. Li L, Shen A, Chu J, Sferra TJ, Sankararaman S, Ke X, Chen Y, Peng J (2018). Pien Tze Huang ameliorates DSS-induced colonic inflammation in a mouse colitis model through inhibition of the IL-6/STAT3 pathway. Mol Med Rep 18(1):1113–1119.
+28. Li Y, de Haar C, Chen M, Deuring J, Gerrits MM, Smits R, Xia B, Kuipers EJ, van der Woude CJ (2010). Disease-related expression of the IL6/STAT3/SOCS3 signalling pathway in ulcerative colitis and ulcerative colitis-related carcinogenesis. Gut 59(2):227–235.
+29. Liu LQ, Nie SP, Shen MY, Hu JL, Yu Q, Gong D, Xie MY (2018). Tea polysaccharides inhibit colitis-associated colorectal cancer via interleukin-6/STAT3 pathway. J Agric Food Chem 66(17):4384–4393.
+30. Lochhead P, Khalili H, Ananthakrishnan AN, Richter JM, Chan AT (2016). Association between circulating levels of C-reactive protein and interleukin-6 and risk of inflammatory bowel disease. Clin Gastroenterol Hepatol 14(6):818–824.
+31. Lust JA, Donovan KA, Kline MP, Greipp PR, Kyle RA, Maihle NJ (1992). Isolation of an mRNA encoding a soluble form of the human interleukin-6 receptor. Cytokine 4(2):96–100.
+32. Maerten P, Shen C, Colpaert S, Liu Z, Bullens D, Van Assche G, Penninckx F, Geboes K, Vanham G, Rutgeerts P (2004). Involvement of interleukin 18 in Crohn’s disease: evidence from in vitro analysis of human gut inflammatory cells and from experimental colitis models. Clin Exp Immunol 135(2):310–317.
+33. Maier C, Ramming A, Bergmann C, Weinkam R, Kittan N, Schett G, Distler JH, Beyer C (2017). Inhibition of phosphodiesterase 4 (PDE4) reduces dermal fibrosis by interfering with the release of interleukin-6 from M2 macrophages. Ann Rheum Dis 76(6):1133–1141.
+34. Manichanh C, Rigottier-Gois L, Bonnaud E, Gloux K, Pelletier E, Frangeul L, Nalin R, Jarrin C, Chardon P, Marteau P (2006). Reduced diversity of faecal microbiota in Crohn’s disease revealed by a metagenomic approach. Gut 55(2):205–211.

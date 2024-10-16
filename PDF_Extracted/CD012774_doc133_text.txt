@@ -1,0 +1,83 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+9. ((Fecal or Faecal or microbiota or microflora or feces or faeces or stool) adj3(transplant* or transfus* or implant* or instillation or donor* or enema or reconstitution or infusion* or therap* or transfer* or treat*)).tw,kw.
+
+10. ((bacteria or bacterio*) adj2 (transplant* or transfus* or implant* or instillation or instillment or donor* or enema or reconstitution or infusion* or therap* or transfer* or treat*)).tw,kw.
+
+11. or/6-10
+
+12. 5 and 11
+
+13. limit 12 to dt=202201115-20221222
+
+# Embase Elsevier (1974 to 22 December 2022)
+
+#18 #17 AND [15-01-2022]/sd NOT [22-12-2022]/sd
+
+#17 #6 AND #16
+
+#16 #7 OR #8 OR #9 OR #10 OR #11 OR #12 OR #13 OR #14 OR #15
+
+#15 'fecal bacteriotherap*':ti,ab,kw
+
+#14 'fecal transfusion*':ti,ab,kw
+
+#13 'fmt':ti,ab,kw
+
+#12 'stool transplant*':ti,ab,kw
+
+#11 'faecal microbiome transplant*':ti,ab,kw
+
+#10 'fecal microbiome transplant*':ti,ab,kw
+
+#9 'faecal microbiota transplant*':ti,ab,kw
+
+#8 'fecal microbiota transplant*':ti,ab,kw
+
+#7 'fecal microbiota transplantation'/exp
+
+#6 #1 OR #2 OR #3 OR #4 OR #5
+
+#5 'inflammatory bowel disease*':ti,ab,kw
+
+#4 'ibd':ti,ab,kw
+
+#3 'ulcerative colitis*':ti,ab,kw
+
+#2 crohn*:ti,ab,kw
+
+#1 'inflammatory bowel disease'/exp
+
+# Cochrane Central Register of Controlled Trials (CENTRAL; Issue 11, 2022) in the Cochrane Library (searched 22 December 2022)
+
+#1 MeSH descriptor: [Inflammatory Bowel Diseases] explode all trees
+
+#2 Crohn*
+
+#3 Ulcerative NEXT colitis*
+
+#4 IBD
+
+#5 #1 OR #2 OR #3 OR #4
+
+#6 MeSH descriptor: [Fecal Microbiota Transplantation] explode all trees
+
+#7 Fecal NEXT microbiota NEXT transplant*
+
+#8 Faecal NEXT microbiota NEXT transplant*
+
+#9 Fecal NEXT microbiome NEXT transplant*
+
+#10 stool NEXT transplant*
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

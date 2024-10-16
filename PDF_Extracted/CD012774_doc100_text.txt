@@ -1,0 +1,34 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Outcome or subgroup title
+
+|No. of studies|No. of participants|Statistical method|Effect size|
+|---|---|---|---|
+|7|370|Risk Ratio (M-H, Random, 95% CI)|1.65 [0.93, 2.92]|
+|1|15|Risk Ratio (M-H, Random, 95% CI)|5.62 [0.31, 100.52]|
+|10|468|Risk Ratio (M-H, Random, 95% CI)|1.79 [1.13, 2.84]|
+|6|191|Risk Ratio (M-H, Random, 95% CI)|1.37 [0.76, 2.48]|
+|4|277|Risk Ratio (M-H, Random, 95% CI)|2.77 [1.54, 4.98]|
+|10|468|Risk Ratio (M-H, Random, 95% CI)|1.79 [1.13, 2.84]|
+|1|25|Risk Ratio (M-H, Random, 95% CI)|0.92 [0.29, 2.89]|
+|9|443|Risk Ratio (M-H, Random, 95% CI)|1.93 [1.17, 3.17]|
+|10|468|Risk Ratio (M-H, Random, 95% CI)|1.79 [1.13, 2.84]|
+|1|20|Risk Ratio (M-H, Random, 95% CI)|1.80 [0.94, 3.46]|
+|9|448|Risk Ratio (M-H, Random, 95% CI)|1.83 [1.05, 3.18]|
+|10|468|Risk Ratio (M-H, Fixed, 95% CI)|1.88 [1.37, 2.57]|
+|10|382|Risk Ratio (M-H, Random, 95% CI)|1.77 [1.07, 2.94]|
+|8|392|Risk Ratio (M-H, Random, 95% CI)|2.13 [1.51, 3.02]|
+|10|468|Risk Ratio (M-H, Random, 95% CI)|1.77 [0.88, 3.55]|
+|10|468|Risk Ratio (M-H, Random, 95% CI)|1.77 [0.88, 3.55]|
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

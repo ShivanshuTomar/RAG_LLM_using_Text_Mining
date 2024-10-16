@@ -1,0 +1,66 @@
+# ARTICLE
+
+The human gut harbours a diverse community of micro-organisms that interact closely with both the host and each other. Gut microorganisms are involved in digestion and degradation of nutrients, maintenance of digestive tract integrity, stimulation of the host immune system and modulation of the host metabolism1–5. In recent years, associations have been identified between gut microbiome composition and the development of certain human diseases, including diabetes6,7, cardiovascular disorders8,9, obesity10,11 and chronic gastrointestinal disorders like inflammatory bowel disease (IBD)12–14. Most associations to human diseases have been linked to lower microbial diversity, altered microbial composition and differing abundances of certain microorganisms and pathways3,8,15–19. However, the gut microbiome is an ecosystem in which microbes can exchange or compete for nutrients, signalling molecules or immune-evasion mechanisms through complicated ecological interactions that are far from fully understood20–22. Enthusiasm has thus been rising to decipher these microbial interactions in order to detect key microbes in health and disease23,24. One way of doing this is to create co-abundance networks based on correlations, a method that has the potential to study interactions between microbes and thereby generate hypotheses for experimental validation at a later stage23,24.
+
+Various network inference tools have been developed25–29 and applied to infer microbial taxonomic networks in healthy individuals and in individuals with extreme longevity, gestational diabetes, Crohn’s disease and colorectal cancer30–35. These studies have identified microbial genera that are potentially key in health and disease33, e.g. Porphyromonas and Bacteroides gestational diabetes. However, these previous studies were either based on 16S rRNA sequencing data, which yields limited information on microbial species and pathways, or carried out in small cohorts30–34. A further limitation of 16S sequencing is that it can only identify microbial networks up to genus level. As different bacterial species can have very different functional properties, analysis at genus level cannot fully capture the biochemical interactions between microbes. In consequence, the importance of metabolic network construction from metagenomics data has recently been highlighted24,36,37.
+
+Here we present a metagenomics-based network analysis for bacterial species and metabolic pathways in 2379 individuals from 4 cohorts from the Netherlands (Supplementary Fig. 1): an IBD cohort (n = 496), an obesity cohort (300OB; n = 298), and 2 population-based cohorts (Lifelines-DEEP (LLD; n = 1135) and 500 Functional Genomics (500FG; n = 450)). We compare the microbial taxonomic and functional networks under different host health conditions and identify potential key species and pathways that shape host-associated microbial networks (Fig. 1). We find that the microbial species and pathway co-abundances vary significantly between cohorts and report IBD- and obesity-specific co-abundance networks, which expand our current knowledge regarding microbial dysbiosis in disease. The network key species and pathways identified in IBD and obesity highlight their potential roles in regulating the microbial ecosystem in disease.
+
+# Results
+
+# Construction of gut microbial co-abundance networks.
+
+Metagenomic data of the 2379 participants from the four cohorts was processed using the same pipeline. Principle coordinate analysis showed that microbial composition and functional profiles are largely overlapped, although we observed a significant shift in species composition in the IBD cohort (Supplementary Fig. 2). A total of 134 bacterial species and 343 microbial pathways that were present in >20% of the samples in at least one cohort were included for microbial network inference. We established microbial co-abundance relationships by combining the SparCC29 and SpiecEasi38 methods. For species networks, we identified 2604 co-abundances in the LLD cohort, 1591 in the 500FG cohort, 1107 in the 300OB cohort and 2554 in the IBD cohort, yielding 3454 unique species co-abundances in total (false discovery rate (FDR) < 0.05, Fig. 2a, Supplementary Data 1). Notably, 82.1% of the species co-abundances also exhibited co-occurrence (Supplementary Fig. 3, Supplementary Data 1 and 2). For pathways, the numbers of co-abundances ranged from 37,279 in 500FG to 40,699 in LLD, yielding a total of 43,355 unique pathway co-abundances (FDR < 0.05, Fig. 2b, Supplementary Data 3). Since absence rate of bacterial pathways is much less than in bacterial.
+
+NATURE COMMUNICATIONS | (2020) 11:4018 | https://doi.org/10.1038/s41467-020-17840-y | www.nature.com/naturecommunications
+
+|Cohort|n|
+|---|---|
+|LLD|1135|
+|500FG|450|
+|300OB|298|
+|IBD|496|
+
+MetaPhlAn2 Present in >20% of samples in at least one cohort
+
+134 species 343 pathways
+
+# Co-abundance network
+
+(SparCC: 20× iteration and 100× permutation)
+
+(SPIEC-EASI: glasso model)
+
+# Co-abundance network per cohort
+
+(all co-abundances at FDR < 0.05)
+
+# Heterogeneity test across cohorts
+
+(Cochran’s Q-test with 100× resampling)
+
+# Differential co-abundances
+
+Cohort-specific analysis (quantile range outlier)
+
+(100× resampling)
+
+(effect size in one cohort being derived from 2× interquartile range)
+
+# No cohort-specific effect
+
+# With cohort-specific effect
+
+# Enrichment analysis (Fisher’s exact test)
+
+# Key player analysis (100× resampling)
+
+# Impact of phenotypes (Cochran’s Q-test)
+
+# Specific co-abundances
+
+# Key species and pathways
+
+# Sub-phenotype impacts
+
+Fig. 1 Analysis workflow of the present study. The study comprised 2,379 metagenomics samples from four cohorts: the general population LifeLines-DEEP cohort (LLD), the 500FG cohort, an obesity cohort (300OB), and an inflammatory bowel disease (IBD) cohort. By combining SparCC and SPIEC-EASI methods, we constructed species and pathway co-abundance networks in each cohort separately. The established co-abundances were then subjected to heterogeneity testing and cohort-specificity analysis to assess whether the effect size of each co-abundance was significantly different between cohorts and whether the differences were driven by a specific cohort.

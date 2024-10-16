@@ -1,0 +1,85 @@
+# Ma et al. Genome Biology (2022) 23:208
+
+microbes = 5%. These parameters roughly agree with those used in the simulation analy-
+
+sis in the method’s original publication [19].
+
+We also evaluated the computational costs of quantile normalization, BDMMA, and
+
+MMUPHin (Additional file 1: Fig. S7). For this, the same subset of 20 replications (batch
+
+effect 0, exposure imbalance 0, number of samples per batch 100, and number of fea-
+
+tures 200) were ran through the three methods under the same computation environ-
+
+ment (single core Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz). The computational
+
+cost of BDMMA is prohibitive when compared to MMUPHin and quantile normaliza-
+
+tion, requiring ~5 total CPU hours to finish on the very moderately sized data (200 total
+
+samples by 200 features).
+
+# Evaluating unsupervised discrete structure discovery
+
+To simulate microbial abundance data with known discrete clustering structure, we
+
+again used the simulation model above, with microbial feature associations added both
+
+with a discrete “batch” variable and a discrete clustering variable, at varying number of
+
+batches (2, 4, 6, 8), number of clusters (3, 4, 5, 6), and effect size of association (0 to 10
+
+for batch, fixed at 10 for cluster). For the evaluation of MMUPHin’s unsupervised meth-
+
+ods (both here for MMUPHin_Discrete and during continuous population structure dis-
+
+covery below for MMUPHin_Continuous), we fixed the number of samples per batch at
+
+500, the number of total features at 1000, and the percent of associated features at 20%.
+
+These were guided by the fact that the underlying unsupervised methods (clustering,
+
+PCA) require larger sample sizes for good performance even without batch confound-
+
+ing, and are generally only practical with higher feature dimensions (Additional file 4:
+
+Table S2).
+
+Performance of clustering was evaluated as the percentage of replicates in which the
+
+right number of synthetically defined underlying clusters was identified using prediction
+
+strength, across technical replicates for a fixed combination of simulation parameters.
+
+That is, the number of clusters within a simulation was identified as that which maxi-
+
+mized prediction strength. This was compared to the “truth” (i.e., the known simulation
+
+parameter) and counted as a success only if the two agreed. The percentage of success
+
+for a given parameter combination across the 20 random replications was used as the
+
+evaluation metric for model performance. We compared the performance of cluster-
+
+ing before and after MMUPHin_Correct (Fig. 2e, Additional file 9: Table S7). Note that
+
+batch correction is modelled only using the batch variable and specifically not including
+
+the cluster variable as a covariate in the batch correction model above, as the underlying
+
+cluster structure is unknown in non-synthetic unsupervised analyses settings.
+
+# Evaluating unsupervised continuous structure discovery
+
+To simulate microbial abundance data with known continuously variable population
+
+structure, we spiked in feature associations with both a simulated batch covariate (4,
+
+6, 8) and a continuously varying gradient (uniformly distributed between −1 and 1), at
+
+varying number of batches and effect size of both associations (as above). The number
+
+of samples per batch, total number of microbial features, and the percentage of features
+
+associated were fixed at the same values as above (Additional file 4: Table S2).

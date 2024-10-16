@@ -1,0 +1,12 @@
+# Ocansey et al. Clin Trans Med (2019) 8:31
+
+# References
+
+1. Dave M, Papadakis KA, Faubion WA Jr (2014) Immunology of inflammatory bowel disease and molecular targets for biologics. Gastroenterol Clin North Am 43:405
+2. Kim H-S, Shin T-H, Yang S-R et al (2010) Implication of NOD1 and NOD2 for the differentiation of multipotent mesenchymal stem cells derived from human umbilical cord blood. PLoS ONE 5:e15369. https://doi.org/10.1371/journal.pone.0015369
+3. Waterman RS, Tomchuck SL, Henkle SL, Betancourt AM (2010) A new mesenchymal stem cell (MSC) paradigm: polarization into a pro-inflammatory MSC1 or an immunosuppressive MSC2 phenotype. PLoS ONE 5:e10088. https://doi.org/10.1371/journal.pone.0010088
+4. Anton K, Banerjee D, Glod J (2012) Macrophage-associated mesenchymal stem cells assume an activated, migratory, pro-inflammatory phenotype with increased IL-6 and CXCL10 secretion. PLoS ONE 7:e35036. https://doi.org/10.1371/journal.pone.0035036
+
+# Publisher’s Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.

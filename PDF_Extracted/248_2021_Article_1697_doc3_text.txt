@@ -1,0 +1,29 @@
+# Table 1 Differences in bacterial abundance between A. paediatric IBD and controls, B. Paediatric IBD disease states, C. CD and UC
+
+# A. Bacterial abundance in paediatric IBD compared with controls
+
+|Bacterial Family/Genus|Abundance Change|Reference|Sample Type|
+|---|---|---|---|
+|Ruminococcaceae (Faecalibacterium prausnitzii, Oscillospira, and unclassified Ruminococcaceae)|Increased abundance in CD|Assa et al. [49]|Ileal Biopsies|
+|Enterobacteriaceae (Escherichia coli)|Increased abundance in CD|Gevers et al. [48]|Mucosal tissue biopsies|
+|Fusobacteriaceae (Fusobacterium nucleatum)| | |(terminal ileum and rectum)|
+|Gemellaceae (Gemella moribillum)| | | |
+|Neisseriaceae (Eikenella corrodens)| | | |
+|Pasteurellacaeae (Haemophilus parainfluenzae)| | | |
+|Veillonellaceae (Veillonella parvula)| | | |
+|Bacteroidales (Bacteroides vulgatus, Bacteroides caccae)|Decreased abundance in CD| |Bifidobacteriaceae (Bifidobacterium bifidum, Bifidobacterium longum, Bifidobacterium adolescentis, Bifidobacterium dentum)|
+|Clostridiales (Blautia hansenii, Ruminococcus gnavus, Clostridium nexile, Faecalibacterium prausnitzii, Ruminococcus torques, Clostridium bolteae, Eubacterium rectale, Roseburia intestinalis, Coprococcus comes)| | | |
+|Erysipelotrichales Veillonellaceae, Streptococcus|Increased abundance in CD| |Faecal samples (small subset of cohort with stool samples)|
+|Clostridiales (Dorea, Blautia, Ruminococcus)|Decreased abundance in CD| |Faecal samples (small subset of cohort with stool samples)|
+|Enterococcus|Increased abundance in CD|Kowalska-Duplaga et al. [43]|Faecal samples|
+|Bifidobacterium (Bifidobacterium adolescentis)|Decreased abundance in CD| | |
+|Adlercreutzia, Clostridium (Clostridium celatum), Coprococcus, Roseburia (Roseburia faecis), Faecalibacterium (Faecalibacterium prausnitzii), Gemmiger (Gemmiger formicilis), Ruminococcus (Ruminococcus bromii), Veillonellaceae (Dialister)| | | |
+|Lachnospiraceae, Coriobacteriaceae, Bifidobacteriaceae|Decreased abundance in IBD (UC and CD)|Maukonen et al. [45]|Faecal samples (in particular Bifidobacterium longum and Bifidobacterium Pseudocatenulatum)|
+|Bacteroides|Increased abundance in UC| | |
+|Lactobacillus|Decreased abundance in UC| | |
+|Bacteroidetes, Eubacterium, Prevotella, Alistipes|Decreased abundance in IBD (UC and CD)|de Meij et al. [46]|Faecal samples (Alistipes finegoldii, Alistipes putredinis)|
+|Akkermansia muciniphila|Decreased abundance in UC| | |
+|Escherichia coli|Increased abundance in IBD (UC and CD)| | |
+|Prevotella|Increased abundance in IBD (UC and CD)|Olbjørn et al. [29]|Faecal samples and symptomatic non-IBD|
+|Eubacterium rectale, Eubacterium biforme/ Streptococcus agalactiae, Parabacteroides|Decreased abundance in IBD (UC and CD)| |compared with symptomatic non-IBD controls|
+|Bifidobacterium| | | |

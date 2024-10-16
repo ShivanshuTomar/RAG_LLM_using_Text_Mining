@@ -1,0 +1,79 @@
+# Cochrane Library
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# NCT03582969 (Continued)
+
+# Participants
+
+# Inclusion criteria
+
+- People ages 12–18 years with newly diagnosed (> 9 months) mild-to-moderate UC based on colonic biopsy and clinical disease activity (SCCAI 5–12)
+
+# Exclusion criteria
+
+- Severe, uncontrolled UC
+- Use of immunosuppressive or anti-inflammatory medications (except mesalamine) at enrollment
+- Active or uncontrolled bacterial, viral, or fungal infection requiring systemic therapy
+- Delayed gastric emptying syndrome
+- Known chronic aspiration
+- History of significant allergy to foods not excluded from donor diet (excluded foods are tree nuts, peanuts, shellfish, eggs)
+- Pregnancy or nursing
+- Inability to swallow oral medications (pills)
+
+# Interventions
+
+# Experimental arm
+
+- Oral capsules of healthy donor feces
+
+# Control arm
+
+- Oral placebo capsules
+
+# Outcomes
+
+# Primary outcome
+
+- UC remission at 12 weeks (SCCAI < 3)
+
+# Secondary outcomes
+
+- Improvement in UC symptoms at 12 weeks (improvement in SCCAI)
+- Laboratory markers of inflammation (CRP, WBC, ANC, stool calprotectin) at 12 weeks, and 6 and 12 months
+- Improvement in UC endoscopic score based on Mayo score at 12 weeks, and 6 and 12 months
+- Change in diversity and variability of gut microbiome at 12 weeks, and 6 and 12 months
+- Use of UC treatments (glucocorticoids, immunosuppressives (e.g. azathioprine), or TNF antagonists) at 6 and 12 months
+- Extraintestinal disease manifestations at 6 and 12 months
+
+# Starting date
+
+# Contact information
+
+# Notes
+
+# NCT03716388
+
+# Study name
+
+Fecal microbiota therapy vs 5-aminosalicylates for induction of remission in newly diagnosed mild-moderately active UC
+
+# Methods
+
+RCT conducted in India
+
+# Participants
+
+# Inclusion criteria
+
+- Active UC
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

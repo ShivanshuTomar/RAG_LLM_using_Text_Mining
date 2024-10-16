@@ -1,0 +1,16 @@
+# Armstrong et al. Microbiome (2023) 11:39
+
+# Fig. 5 cART impacts on colon pro-inflammatory cytokines.
+
+Colon extracts were analyzed for pro-inflammatory cytokines associated with IBD. Levels of TNFa, KC GRO, IFNg, and IL-6 were elevated in IL-10 − / − mice versus WT mice and the cytokines TNFa, KC GRO, and IL-6 were altered in the IL-10 − / − mice on cART (mean ± SEM, *p < 0.05).
+
+| |cART|Placebo|
+|---|---|---|
+|TNFa|30|20|
+|KC GRO|30|20|
+|IFNg|40|25|
+|IL-6|40|15|
+
+Mice to viral infection as part of an important interplay of MMTV with commensal microbiota in the gut. Following milk-borne infection, MMTV-bound bacterial LPS engages toll-like receptor 4 on M cells or B cells in the Peyer’s patches, which in turn triggers production of IL-10 in an IL-6-dependant fashion. The two important features of this process are that MMTV requires commensal gut microbes for productive infection, and that production of IL-10 limits antiviral responses by preventing the formation of neutralizing antibodies (and possibly cellular immunity as well) [17]. Relevant to the IL-10−/− model, colitis is abrogated in germ-free conditions and ameliorated by changing the balance of intestinal flora, which may be related to the requirement of MMTV to use bacterial LPS to cross the mucosal barrier and gain access to the Peyer’s patches [18, 19].
+
+Infection by the oral route also requires MMTV replication in proliferating CD4+ lymphocytes using a vSAG-dependant mechanism in the gastrointestinal tract [14, 17]. Indeed, providing evidence of ongoing superantigen activity with cognate TCR-Vβ expansion is used to demonstrate active MMTV infection in mouse models [14, 17]. The superantigen activity is both dynamic and complex because vSAG reactive TCR-Vβ CD4+ lymphocytes are initially activated and then depleted, and this may occur either during embryonal development or during replicative infection, and the lymphocyte responses vary in a tissue-dependant and mouse strain-dependant manner.

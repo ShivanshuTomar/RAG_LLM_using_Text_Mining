@@ -1,0 +1,73 @@
+# Tian et al. Microbiome (2024) 12:130
+
+# 5’-ACAGGTCTG TTGGGAGTGGT-3’; TNFα: Forward
+
+5’-TAGCCCACG TCG TAGCAAAC-3’, Reverse 5’-TGT CTTTGAGATCCATGCCGT-3’; INFγ: Forward 5’-GGAGGAACTGGCAAAAGG ATG-3’, Reverse 5’-GTT GCT GATGGCCTG ATTGT-3’; β-actin: Forward 5’-CACCAT GTACCCAGGCATTG-3’, Reverse 5’-CCTGCTTGCTG ATCCACATC-3’. Cycle threshold (Ct) values were recorded and normalized to the levels of internal reference β-actin.
+
+# Western blot
+
+The protein levels of adhesion and tight junction-related proteins (occludin, E-cadherin, β-catenin) were determined by Western blot. Approximately 25 mg of colon tissue was mixed with cell lysis buffer containing PMSF and protease cocktail to obtain the total proteins. The protein concentration was determined using a BCA kit. Subsequently, protein samples were loaded onto the sodium dodecyl sulfate–polyacrylamide gel electrophoresis (SDS-PAGE) gel to undergo electrophoresis. Then, the interesting gel was transferred into PVDF membranes and incubated with primary antibody and secondary antibody sequentially. Finally, the bands were visualized using the Tanon 5200 ECL detection system (Tanon, China) and then the semiquantitative analyses were carried out using the Image J software.
+
+# Supplementary Information
+
+The online version contains supplementary material available at https://doi.org/10.1186/s40168-024-01832-x.
+
+# Additional File 1:
+
+- Supplementary Figure 1. Comparison of gut viromes between VLP and bulk datasets. (a) Principal coordinate analysis (PCoA) reveals the difference between the VLP virome and bulk virome at the family level. Samples are shown at the first and second principal coordinates (PCoA1 and PCoA2), and the ratio of variance contributed by these two PCs is shown. (b) Observation of Microviridae vOTUs in the VLP and bulk datasets.
+- Supplementary Figure 2. Correlation analysis (Spearman correlation test) of the gut bacteriome diversity and VLP/bulk virome diversity. For each panel, scatter plot shows the samples and the fitting line are formed based on the diversity indexes in the bacteriome and virome for all samples.
+- Supplementary Figure 3. Comparison of Anelloviridae vOTUs between IBD patients and healthy controls. Barplot showing the number of vOTUs enriched in IBD patients or healthy controls. Dark red or blue indicate vOTUs with a p-value of less than 0.05 from the Wilcoxon rank-sum test comparing the two groups.
+- Supplementary Figure 4. Comparison of gut viral composition between IBD patients and healthy controls at the order level. Wilcoxon rank-sum test: *, p<0.05; **, p<0.01; ***, p<0.001. HC, healthy controls.
+- Supplementary Figure 5. Distribution of prokaryotic hosts of the IBD-associated vOTUs.
+- Supplementary Figure 6. Comparison of functions between IBD-enriched and control-enriched vOTUs. Principal coordinate analysis (PCoA) reveals the differences in functional profiles between IBD-enriched and controls vOTUs. vOTUs are shown at the first and second principal coordinates (PCoA1 and PCoA2), and the ratio of variance contributed by these two PCs is shown. Statistical significance was obtained by PERMANOVA analysis.
+- Supplementary Figure 7. Partial gene structures of several control-enriched vOTUs with the RNA-dependent DNA polymerase (RdDp) gene. The left-hand side text provides the family-level taxonomic annotation and vOTU ID number corresponding to each vOTU, along with the predicted prokaryotic host for each one.
+- Supplementary Figure 8. Viral community variation among 9 public datasets and the VLP and bulk datasets in this study. Principal coordinates analysis (PCoA) based on the Bray-Curtis distance at the vOTU level. Effect size (R2) and statistical significance were obtained by PERMANOVA analysis. Cross-dataset IBD prediction based on 34 IBD-associated vOTUs.
+- Supplementary Figure 9. Heatmap shows the performance assessed as AUC scores of intra-dataset and cross-dataset IBD predictions using random forest models trained based on 34 IBD-associated vOTUs. The models of intra-dataset prediction (diagonal) are validated using five repeats of five-fold cross-validations. The models of cross-dataset prediction (off-diagonal) are built on the dataset corresponding to each row and validated on the dataset corresponding to each column. The LOCO row refers to leave-one-cohort-out analysis in which models are built on ten datasets combined and validated on the remaining one corresponding to each column.
+- Supplementary Figure 10. Bar plot showing the virus-to-bacterium ratio of feces of mouse before and after FVT.
+- Supplementary Figure 11. Colitis scores of HE staining of the colon in Figure 5e.
+- Supplementary Figure 12. Quantitative analysis of the western blot of Figure 5f.
+- Supplementary Figure 13. Venn plot showing the overlap between our gut virus catalog and the existing gut virus catalogs.
+
+# Additional File 2:
+
+- Table S1. Phenotypic characteristics of 71 IBD patients and 77 healthy controls recruited in this study.
+- Table S2. Detailed information of 10,054 viral operational taxonomic units (vOTUs).
+- Table S3. Comparison of the gut virome between IBD patients and healthy controls at the family level.
+- Table S4. Detailed information of 139 IBD-associated vOTUs.
+- Table S5. External validation cohorts for this study.
+
+# Acknowledgements
+
+Not applicable.
+
+# Authors’ contributions
+
+X.M., Q.Y., and S.L. conceived the study. X.T., C.W., Q.Y. Y.Z., X.F., F.W., C.W., X.F., and X.H. recruited the subjects and collected the fecal samples. S.L. and R.G. developed the analytical methods and performed the gut virome analyses. Y.Z., F.W., C.W., Q.Y., and X.H. performed animal experiments. S.L., X.M., X.H., and Q.Y. drafted the manuscript. All authors revised the article and approved the final version for publication.
+
+# Funding
+
+The authors thank the National Natural Science Foundation of China (No. 82225048 and 82370563), distinguished professor of Liaoning Province (XLYC2002008) and Dalian Science and Technology Leading Talents Project (2019RD15 and 2022RY18), Dalian Science and Technology benefit people project (2023JJ13SN053).
+
+# Availability of data and materials
+
+The metagenomic sequencing data of human feces have been deposited in the European Nucleotide Archive (ENA) under the accession IDs PRJEB67456 (https://www.ebi.ac.uk/ena/browser/view/PRJEB67456). The analysis and visualization codes used in this study have been uploaded into the GitHub repository, accessible at: https://github.com/lish2/ibd_virome.
+
+# Declarations
+
+# Ethics approval and consent to participate
+
+Ethical approval for this study was obtained from the Ethics Committee of Xinhua Hospital affiliated with Dalian University (approval No. XH2020A008), and informed consent was obtained from all participants. All animal studies were approved by the Ethical Committee of Experimental Animal Care of Dalian Medical University (AEE19044).
+
+# Consent for publication
+
+All authors have reviewed the manuscript.
+
+# Competing interests
+
+The authors declare no competing interests.
+
+Received: 31 October 2023
+
+Published online: 8 July 2024
+
+Accepted: 8 May 2024

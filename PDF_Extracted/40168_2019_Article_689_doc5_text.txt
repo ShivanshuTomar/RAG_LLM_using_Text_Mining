@@ -1,0 +1,35 @@
+# Heinken et al. Microbiome (2019) 7:75
+
+# Table 1 Overview of primary and secondary bile acids.
+
+VMH Virtual Metabolic Human database (https://vmh.life) [16]. AGORA, a compendium of 818 curated genome-scale gut microbial metabolic reconstructions used in this study.
+
+|Name|Abbreviation|VMH ID|Type|Producer|
+|---|---|---|---|---|
+|Taurocholate|Tauro-CA|tchola|Primary/conjugated|Human|
+|Glycocholate|Glyco-CA|gchola| | |
+|Taurochenodeoxycholate|Tauro-CDCA|tdchola| | |
+|Glycochenodeoxycholate|Glyco-CDCA|dgchol| | |
+|Cholate|CA|cholate|Primary/unconjugated|Human; released by 185/818 AGORA strains|
+|Chenodeoxycholate|CDCA|C02528| | |
+|12-dehydrocholate|12-dehydro-CA|12dhchol|Secondary|38/818 AGORA strains|
+|7-ketodeoxycholate|7-keto-CA|7ocholate| |41/818 AGORA strains|
+|7-dehydrochenodeoxy-cholate|7-dehydro-CDCA|7dhcdchol| | |
+|3-dehydrocholate|3-dehydro-CA|3dhchol| |16/818 AGORA strains|
+|3-dehydrochenodeoxy-cholate|3-dehydro-CDCA|3dhcdchol| | |
+|Isocholate|Iso-CA|isochol| |11/818 AGORA strains|
+|Isochenodeoxycholate|Iso-CDCA|icdchol| | |
+|Lithocholate|LCA|HC02191| |5/818 AGORA strains|
+|Deoxycholate|DCA|dchac| | |
+|Allolithocholate|allo-LCA|alchac| | |
+|Allodeoxycholate|allo-DCA|adchac| | |
+|Ursocholate|UCA|uchol| |3/818 AGORA strains|
+|Ursodeoxycholate|UDCA|HC02194| | |
+
+In contrast to the other four strains. Taken together, only few strains could both deconjugate and biotransform primary acids in isolation.
+
+To investigate whether pairwise combinations of certain strains could complement each other’s bile acid pathways, the 232 bile acid-producing AGORA models were joined in every possible combination resulting in 26,796 pairwise models using the Microbiome Modeling Toolbox [33], a COBRA Toolbox [34] extension. When comparing the bile acid production capabilities of the pairwise models with the respective single-strain models on the bile acid-supplemented “Average European” diet, we identified 7673 microbe pairs (29%) that could synthesize at least one secondary bile acid whereas the respective two individual strains were incapable to do so, resulting in 19,883 cooperative bile acid syntheses (Fig. 3a, Additional file 1: Table S5). For example, 3135/7673 pairs (40.9%) could synthesize 12-dehydro-CA from Glyco-CA or Tauro-CA (Additional file 1: Table S5). Further, 736 pairs (2.7%) and 100 pairs (0.4%) could synthesize DCA/LCA and UCA/UDCA, respectively, from the conjugated primary bile acids (Additional file 1: Table S5), demonstrating distinct bile acid synthesis capabilities of microbial pairs. There was no pairwise combination enabling synthesis of all secondary bile acids as the maximal number of secondary bile acids to be synthesized by any pair was 12 out of 13 (Fig. 3a). Taken together, while only few strains were capable of both bile acid deconjugation and biotransformation, many of the microbial pairs are predicted to synthesize secondary bile acids from the conjugated bile acids. This example demonstrates that constraint-based modeling is an efficient approach to elucidate the combined capabilities present in thousands of microbe pairs compared with the single microbes. The presented computational workflow could readily be applied to other microbial pathways of interest, in which enzymes are distributed across multiple taxa in an ecosystem.
+
+# Large-scale modeling of the interpersonal variation in the bile acid deconjugation and transformation of gut microbiomes.
+
+We next aimed to predict the bile acid deconjugation and biotransformation potential of individual-specific gut microbiomes. It is well known that bile acid metabolism is altered in individuals with IBD [3]. We were interested whether personalized modeling could provide novel insight into the differences in bile acid deconjugation and biotransformation potential between the microbiomes of IBD patients and controls as well as elucidate species contributing to the pathways. For comparison, we also evaluated the range in bile acid metabolic capabilities in healthy adults. We used metagenomic data from two sources: (1) 149 healthy American donors aged

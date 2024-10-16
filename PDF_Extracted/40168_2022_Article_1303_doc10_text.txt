@@ -1,0 +1,38 @@
+# Zhao et al. Microbiome
+
+# (2022) 10:115
+
+# Page 11 of 22
+
+# M-CON vs. M-DSS
+
+| |M-CON|M-DSS|
+|---|---|---|
+|Up-regulated|400| |
+| |200| |
+| |1| |
+| |g| |
+|Down-regulated|-200| |
+| |100| |
+| |200| |
+
+# Y-CON vs. Y-DSS
+
+| |Y-CON|Y-DSS|
+|---|---|---|
+|Up-regulated|100| |
+| |21| |
+|Down-regulated|-100| |
+| |100| |
+
+# Fig. 5
+
+Colon metabolome changes. a Partial least squares discriminant analysis (PLS-DA) of metabolite composition in Min pigs and Yorkshire pigs after DSS treatment (n = 6 samples/group). b Correlations of the metabolites between control and diseased Min pigs and Yorkshire pigs (n = 6 samples/group). c Changes in colonic metabolites in Min pigs and Yorkshire pigs after DSS treatment (n = 6 samples/group).
+
+such as regulation of NIK/NF-κB signalling and positive regulation of I-κB kinase/NF-κB signalling. The genes in these pathways exhibited strong upregulation in Y-DSS pigs (P < 0.05), which indicated that inflammation was exacerbated in Yorkshire pigs. Some pathways involved in the immune response, including interleukin-8 secretion, interleukin-6 secretion, response to tumour necrosis factor, response to interferon-gamma and T-helper 17 type immune response, were also activated in Yorkshire pigs. These results indicated that the Th17-type immune response, an important driver of autoimmune disease with inflammatory properties, was dominant in Yorkshire pigs.
+
+Matching the altered genes to the KEGG database indicated that the IL-17 signalling pathway was enriched in Yorkshire pigs (Supplementary Fig. 4). Since several terms involved in the mechanical barrier and immunological barrier were enriched in RNA-seq analysis, immune-related biological processes and pathways were analysed in the colon samples. We validated the activation of these biological processes and identified their consequences. For the immunological barrier, the most striking difference in immune cells was that CD4+ T cells were significantly higher in M-DSS pigs than in M-CON pigs (P < 0.05). Conversely, CD8+ T cells were significantly higher in Y-DSS pigs than in Y-CON pigs (P < 0.05).
+
+Among inflammatory cytokines, IL-4, IL-6, IL-10, IL-23 and IFN-γ levels were significantly increased in M-DSS pigs (P < 0.05). IL-4, IL-6 and IL-10 are the primary regulators of type-2 immune response. IL-1β, IL-2, IL-8, IL-17, IL-23, IFN-γ and TNF-α levels were increased in Y-DSS pigs compared with Y-CON pigs (P < 0.01). Among PRR genes, TLR2 was significantly downregulated in M-DSS pigs (P < 0.05), while TLR7 was downregulated (P < 0.05). TLR2, TLR3, TLR4, TLR8, NOD1 and NOD2 were significantly upregulated in Y-DSS pigs (P < 0.05).
+
+Both immunoglobulin A (IgA) and secreted IgA (SIgA) were increased in the colons of M-DSS and Y-DSS pigs (P < 0.05). Although polymeric immunoglobulin receptor (pIgR) levels were increased in M-DSS and Y-DSS pigs compared with the corresponding controls (P < 0.05), the increase was larger in Y-DSS pigs.

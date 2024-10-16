@@ -1,0 +1,44 @@
+# References
+
+1. Barko PC, McMichael MA, Swanson KS, Williams DA (2018) The gastrointestinal microbiome: a review. J Vet Intern Med 32:9–25
+2. Zhao EA, Eaten L et al (2020) Gut microbiota modulate CD * T-cell response to influence colitis associated tumorigenesis. Cell Rep 31:107471
+3. Weaver LK, Minichino D, Biswas C et al (2019) Microbiota dependent signals are required to sustain TLR mediated immune responses. JCI Insight 4:e124370
+4. Bradley KC, Finsterbusch K, Schnepf D, Crotta S, Llorian M, Davidson S et al (2019) Microbiota-driven tonic interferon signals in lung stromal cells protect from influenza virus infection. Cell Rep 28:245-256.e4. https://doi.org/10.1016/j.celrep.2019.05.105
+5. Neyt K, Lambrecht BN (2013) The role of lung dendritic cell sub-sets in immunity to respiratory viruses. Immunol Rev 255:57–67. https://doi.org/10.1111/imr.12100
+6. Ivanov II et al (2009) Induction of intestinal Th17 cells by segmented filamentous bacteria. Cell 139:485–498
+7. Zheng D, Liwinski T, Elinav E (2020) Interaction between microbiota and immunity in health and disease. Cell Res 30:492–506
+8. Bansal T, Alaniz RC, Wood TK, Jayaraman A (2010) The bacterial signal indole increases epithelial-cell tight-junction resistance and attenuates indicators of inflammation. Proc Natl Acad Sci USA 107:228–233
+9. Erturk-Hasdemir D et al (2019) Symbionts exploit complex signaling to educate the immune system. Proc Natl Acad Sci USA. https://doi.org/10.1073/pnas.1915978116
+10. Wang P, Zhu S, Yang L et al (2015) Nlrp6 regulates intestinal antiviral innate immunity. Science 350:826–830
+11. Wolf AJ, Underhill DM (2018) Peptidoglycan recognition by the innate immune system. Nat Rev Immunol 18:243–254
+12. Ratsimandresy RA, Indramohan M, Dorfleutner A, Stehlik C (2017) The AIM2 inflammasome is a central regulator of intestinal homeostasis through the IL-18/IL-22/STAT3 pathway. Cell Mol Immunol 14:127–142
+13. Saha S et al (2010) Peptidoglycan recognition proteins protect mice from experimental colitis by promoting normal gut flora and preventing induction of interferon-gamma. Cell Host Microbe 8:147–162
+14. Franchi L et al (2006) Cytosolic flagellin requires Ipaf for activation of caspase-1 and interleukin 1beta in salmonella-infected macrophages. Nat Immunol 7:576–582
+15. Chudnovskiy A et al (2016) Host-protozoan interactions protect from mucosal infections through activation of the inflammasome. Cell 167:444–456
+16. Schulthess J et al (2019) The short chain fatty acid butyrate imprints an antimicrobial program in macrophages. Immunity 50:432–445
+17. Wu K et al (2020) Gut microbial metabolite trimethylamine N-oxide aggravates GVHD by inducing M1 macrophage polarization in mice. Blood. https://doi.org/10.1182/blood.2019003990
+18. Bachem A et al (2019) Microbiota-derived short-chain fatty acids promote the memory potential of antigen-activated CD8(+) T cells. Immunity 51:285–297
+19. Song X et al (2020) Microbial bile acid metabolites modulate gut RORgamma (+) regulatory T cell homeostasis. Nature 577(410–415):220
+20. Kubinak JL et al (2015) MyD88 signalling in T cells directs IgA-mediated control of the microbiota to promote health. Cell Host Microbe 17:153–163
+21. Proietti M et al (2014) ATP-gated ionotropic P2X7 receptor controls follicular T helper cell numbers in Peyer’s patches to promote host-microbiota mutualism. Immunity 41:789–801
+22. Teng F et al (2016) Gut microbiota drive autoimmune arthritis by promoting differentiation and migration of Peyer’s patch T follicular helper cells. Immunity 44:875–888
+23. Jie Z et al (2018) NIK signaling axis regulates dendritic cell function in intestinal immunity and homeostasis. Nat Immunol 19:1224–1235
+24. Martinez-Lopez M et al (2019) Microbiota sensing by Mincle-Syk axis in dendritic cells regulates interleukin-17 and -22 production and promotes intestinal barrier integrity. Immunity 50:446–461
+25. An D et al (2014) Sphingolipids from a symbiotic microbe regulate homeostasis of host intestinal natural killer T cells. Cell 156:123–133
+26. Scarpellini E, Ianiro G, Attili F et al (2015) The human gut microbiota and virome: potential therapeutic implications. Dig Liver Dis 47:1007–1012
+27. Zuo T, Wong SH, Lam K, Lui R et al (2017) Bacteriophage transfer during faecal microbiota transplantation in Clostridium difficile infection is associated with treatment outcome. Gut 67:634–643
+28. Garmaeva S, Sinha T, Kurilshikov A, Fu J, Wijmenga C (2019) Studying the gut virome in the metagenomic era: challenges and perspectives. BMC Biol 17:84
+29. Carding SR, Davis N, Hoyles L (2017) Review article: the human intestinal virome in health and disease. Aliment Pharmacol Ther 46:800–815
+30. Kim MS, Park EJ, Roh SW, Bae JW (2011) Diversity and abundance of single-stranded DNA viruses in human feces. Appl Environ Microbiol 77:8062–8070
+31. Broquet AH, Hirata Y, McAllister CS, Kagnoff MF (2011) RIG-I/MDA5/MAVS are required to signal a protective IFN response in rotavirus-infected intestinal epithelium. J Immunol 186:1618–1626
+32. Metzger RN, Krug AB, Eisenacher K (2018) Enteric virome sensing-its role in intestinal homeostasis and immunity. Viruses 10:146
+33. Abt MC, Buffie CG, Susac B, Becattini S et al (2016) TLR-7 activation enhances IL-22-mediated colonization resistance against vancomycin-resistant enterococcus. Sci Transl Med 8:327ra325
+34. Ingle H, Peterson ST, Baldridge MT (2018) Distinct effects of type I and III interferons on enteric viruses. Viruses 10:46
+35. Hernandez PP, Mahlakoiv T, Yang I et al (2015) Interferon-lambda and interleukin 22 act synergistically for the induction of interferon-stimulated genes and control of rotavirus infection. Nat Immunol 16:698–707
+36. Neil JA, Cadwell K (2018) The intestinal virome and immunity virome and immune response. J Immunol 201(6):1615–1624. https://doi.org/10.4049/jimmunol.1800631
+37. Shally RM, Peter AD, Beth MH et al (2021) The STING ligand 2’ 3’-cGAMP induces an NF-kB- dependent anti-bacterial innate immune response in the starlet sea anemone Nematostella vectensis. BioRxiv. https://doi.org/10.1101/2021.05.13.443009
+38. Yang JY, Kim MS, Kim E, Cheon JH, Lee YS, Kim Y, Lee SH, Seo SU, Shin SH, Choi SS, Kim B, Chang SY, Ko HJ, Bae JW, Kweon MN (2016) Enteric viruses ameliorate gut inflammation via toll-like receptor 3 and toll-like receptor 7-mediated interferon-beta production. Immunity 44(889–900):1
+39. Basic M, Keubler LM, Buettner M, Achard M et al (2014) Norovirus triggered microbiota-driven mucosal inflammation in interleukin 10-deficient mice. Inflamm Bowel Dis 20:431–443
+40. Huttenhower C, Kostic AD, Xavier RJ (2014) Inflammatory bowel disease as a model for translating the microbiome. Immunity 40:843–854
+41. Graham KL, Sanders N, Tan Y, Allison J et al (2008) Rotavirus infection accelerates type 1 diabetes in mice with established insulitis. J Virol 82(13):6139–6149
+42. Pane JA, Webster NL, Graham KL et al (2013) Rotavirus acceleration of murine type 1 diabetes is associated with a T helper

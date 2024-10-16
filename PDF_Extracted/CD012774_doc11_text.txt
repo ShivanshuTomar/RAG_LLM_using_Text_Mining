@@ -1,0 +1,29 @@
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+# Summary of findings 4. Fecal microbiota transplantation compared to control for maintenance of remission in Crohn disease
+
+Patient or population: people with CD in remission
+
+Setting: inpatient or outpatient
+
+Intervention: FMT
+
+Comparison: control
+
+|Outcome|Anticipated absolute effects (95% CI)|Relative effect (95% CI)|№ of participants (studies)|Certainty of the evidence|What happens|
+|---|---|---|---|---|---|
+|Maintenance of remission in CD|300 per 1000 (108 to 1000)|363 per 1000 (0.36 to 4.14) RR 1.21|21 (1 RCT)|⊕⊝⊝⊝ Very lowa,b|The evidence is very uncertain about the effect of FMT on maintenance of remission in CD. Follow-up: 24 weeks|
+|Serious adverse events with use of FMT for maintenance of remission in CD|—|—|Not estimable (1 RCT)|⊕⊝⊝⊝ Very lowa,b|The evidence is very uncertain about the effect of FMT on serious adverse events in people with CD in remission. The number of events was very small and the data were reported in such a way that an effect size could not be calculated from the only included study for this outcome. Follow-up: 24 weeks|
+
+CD: Crohn disease; CI: confidence interval; FMT: fecal microbiota transplantation; MD: mean difference; RR: risk ratio.
+
+# GRADE Working Group grades of evidence
+
+- High certainty: we are very confident that the true effect lies close to that of the estimate of the effect.
+- Moderate certainty: we are moderately confident in the effect estimate: the true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different.
+- Low certainty: our confidence in the effect estimate is limited: the true effect may be substantially different from the estimate of the effect.
+- Very low certainty: we have very little confidence in the effect estimate: the true effect is likely to be substantially different from the estimate of the effect.
+
+Better health. Informed decisions. Trusted evidence.

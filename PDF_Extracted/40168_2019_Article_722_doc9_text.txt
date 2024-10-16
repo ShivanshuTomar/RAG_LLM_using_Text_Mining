@@ -1,0 +1,38 @@
+# Minot and Willis
+
+# Microbiome
+
+# (2019) 7:110
+
+# Page 10 of 10
+
+1. Hall AB, Yassour M, Sauk J, Garner A, Jiang X, Arthur T, et al. A novel Ruminococcus gnavus clade enriched in inflammatory bowel disease patients. Genome Med. 2017;9:103. https://doi.org/10.1186/s13073-017-0490.
+2. Zeller G, Tap J, Voigt AY, Sunagawa S, Kultima JR, Costea PI, et al. Potential of fecal microbiota for early-stage detection of colorectal cancer. Mol Syst Biol. 2014;10:766. https://doi.org/10.15252/msb.20145645.
+3. Vogtmann E, Hua X, Zeller G, Sunagawa S, Voigt AY, Hercog R, et al. Colorectal cancer and the human gut microbiome: reproducibility with whole-genome shotgun sequencing. PLoS One. 2016;11:1–13. https://doi.org/10.1371/journal.pone.0155362.
+4. Yu J, Feng Q, Wong SH, Zhang D, Liang QY, Qin Y, et al. Metagenomic analysis of faecal microbiome as a tool towards targeted non-invasive biomarkers for colorectal cancer. Gut. 2015;66:70–8. https://doi.org/10.1136/gutjnl-2015-309800.
+5. Feng Q, Liang S, Jia H, Stadlmayr A, Tang L, Lan Z, et al. Gut microbiome development along the colorectal adenoma–carcinoma sequence. Nat Commun. 2015;6:6528. https://doi.org/10.1038/ncomms7528.
+6. Rigottier-Gois L. Dysbiosis in inflammatory bowel diseases: the oxygen hypothesis. ISME J. 2013;7:1256–61. https://doi.org/10.1038/ismej.2013.80.
+7. Ni J, Wu GD, Albenberg L, Tomov VT. Gut microbiota and IBD: causation or correlation? Nat Rev Gastroenterol Hepatol. 2017;14:573–84. https://doi.org/10.1038/nrgastro.2017.88.
+8. Hong B-Y, Sobue T, Choquette L, Dupuy AK, Thompson A, Burleson JA, et al. Chemotherapy-induced oral mucositis is associated with detrimental bacterial dysbiosis. Microbiome. 2019;7:66. https://doi.org/10.1186/s40168-019-0679-5.
+9. Cong J, Zhu J, Zhang C, Li T, Liu K, Liu D, et al. Chemotherapy alters the phylogenetic molecular ecological networks of intestinal microbial communities. Front Microbiol. 2019;10:1008. https://doi.org/10.3389/fmicb.2019.01008.
+10. Nielsen HB, Almeida M, Juncker AS, Rasmussen S, Li J, Sunagawa S, et al. Identification and assembly of genomes and genetic elements in complex metagenomic samples without using reference genomes. Nat Biotechnol. 2014;32:822–8. https://doi.org/10.1038/nbt.2939.
+11. Franzosa EA, McIver LJ, Rahnavard G, Thompson LR, Schirmer M, Weingart G, et al. Species-level functional profiling of metagenomes and metatranscriptomes. Nat Methods. 2018;15:962–8. https://doi.org/10.1038/s41592-018-0176-y.
+12. Suzek BE, Wang Y, Huang H, McGarvey PB, Wu CH. UniRef clusters: a comprehensive and scalable alternative for improving sequence similarity searches. Bioinformatics. 2015;31:926–32. https://doi.org/10.1093/bioinformatics/btu739.
+13. Plaza Oñate F, Le Chatelier E, Almeida M, Cervino ACL, Gauthier F, Magoulès F, et al. MSPminer: abundance-based reconstitution of microbial pan-genomes from shotgun metagenomic data. Bioinformatics. 2018:bty830. https://doi.org/10.1093/bioinformatics/bty830.
+14. Qin J, Li R, Raes J, Arumugam M, Burgdorf KS, Manichanh C, et al. A human gut microbial gene catalogue established by metagenomic sequencing. Nature. 2010;464:59–65. https://doi.org/10.1038/nature08821.
+15. Har-Peled S, Indyk P, Motwani R. Approximate nearest neighbor: towards removing the curse of dimensionality. Theory Comput. 2012;8:321–50. https://doi.org/10.4086/toc.2012.v008a014.
+16. Kushilevitz E, Ostrovsky R, Rabani Y. Efficient search for approximate nearest neighbor in high dimensional spaces. SIAM J Comput. 2000;30:457–74. https://doi.org/10.1137/S0097539798347177.
+17. Bishara A, Moss EL, Kolmogorov M, Parada AE, Weng Z, Sidow A, et al. High-quality genome sequences of uncultured microbes by assembly of read clouds. Nat Biotechnol. 2018. https://doi.org/10.1038/nbt.4266.
+18. Willis A, Bunge J. Estimating diversity via frequency ratios. Biometrics. 2015; 71:1042–9. https://doi.org/10.1111/biom.12332.
+19. Gevers D, Kugathasan S, Denson LA, Vázquez-Baeza Y, Van Treuren W, Ren B, et al. The treatment-naive microbiome in new-onset Crohn’s disease. Cell Host Microbe. 2014;15:382–92. https://doi.org/10.1016/j.chom.2014.02.005.
+20. Morgan XC, Tickle TL, Sokol H, Gevers D, Devaney KL, Ward DV, et al. Dysfunction of the intestinal microbiome in inflammatory bowel disease and treatment. Genome Biol. 2012;13:R79. https://doi.org/10.1186/gb-2012-13-9-r79.
+21. Gloor GB, Macklaim JM, Pawlowsky-Glahn V, Egozcue JJ. Microbiome datasets are compositional: And this is not optional. Front Microbiol. 2017;8: 2224. https://doi.org/10.3389/fmicb.2017.02224.
+22. Halfvarson J, Brislawn CJ, Lamendella R, Vázquez-Baeza Y, Walters WA, Bramer LM, et al. Dynamics of the human gut microbiome in inflammatory bowel disease. Nat Microbiol. 2017;2. https://doi.org/10.1038/nmicrobiol.2017.4.
+23. Jain M, Nilsson R, Sharma S, Madhusudhan N, Kitami T, Souza AL, et al. Metabolite profiling identifies a key role for glycine in rapid cancer cell proliferation. Science (80- ). 2012;336:1040–4. https://doi.org/10.1126/science.1218595.
+24. Locasale JW. Serine, glycine and one-carbon units: cancer metabolism in full circle. Nat Rev Cancer. 2013;13:572–83. https://doi.org/10.1038/nrc3557.
+25. Kumari S, Badana AK, G MM, G S, Malla R. Reactive oxygen species: a key constituent in cancer survival. Biomark Insights. 2018;13:1177271918755391. https://doi.org/10.1177/1177271918755391.
+26. Liou G-Y, Storz P. Reactive oxygen species in cancer. Free Radic Res. 2010; 44:479–96. https://doi.org/10.3109/10715761003667554.
+27. Green JM, Hollandsworth R, Pitstick L, Carter EL. Purification and characterization of the folate catabolic enzyme p-aminobenzoyl-glutamate hydrolase from Escherichia coli. J Bacteriol. 2010;192:2407–13. https://doi.org/10.1128/JB.01362-09.
+28. Willemsen PT, Vulto I, Boxem M, de Graaff J. Characterization of a periplasmic protein involved in iron utilization of Actinobacillus actinomycetemcomitans. J Bacteriol. 1997;179:4949–4952.
+
+Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.

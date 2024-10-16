@@ -1,0 +1,67 @@
+# Applied Microbiology and Biotechnology
+
+# (2024) 108:333
+
+# Page 13 of 14
+
+# References
+
+Barger N, Oren I, Li X, Habib M, Daniel R (2021) A whole-cell bacterial biosensor for blood markers detection in urine. ACS Synth Biol 10:1132–1142. https://doi.org/10.1021/acssynbio.0c00640
+
+Chen Y, Zhang G, Yang Y, Zhang S, Jiang H, Tian K, Arenbaoli- gao, Chen D (2023) The treatment of inflammatory bowel disease with monoclonal antibodies in Asia. Biomed Pharmacother 157:114081. https://doi.org/10.1016/j.biopha.2022.114081
+
+Choudhary R, Mahadevan R (2020) Toward a systematic design of smart probiotics. Curr Opin Biotechnol 64:199–209. https://doi.org/10.1016/j.copbio.2020.05.003
+
+Daeffler KN, Galley JD, Sheth RU, Ortiz-Velez LC, Bibb CO, Shroyer NF, Britton RA, Tabor JJ (2017) Engineering bacterial thiosulfate and tetrathionate sensors for detecting gut inflammation. Mol Syst Biol 13:923. https://doi.org/10.15252/msb.20167416
+
+Feagan BG, Sands BE, Sandborn WJ, Germinaro M, Vetter M, Shao J, Sheng S, Johanns J, Panes J (2023) Guselkumab plus Golimumab combination therapy versus guselkumab or golimumab mono- therapy in patients with ulcerative colitis (VEGA): a randomised, double-blind, controlled, phase 2, proof-of-concept trial. Lancet 8:307–320. https://doi.org/10.1016/S2468-1253(22)00427-7
+
+Feng PP, Cao ZP, Wang XY, Li JJ, Liu JY (2020) On-demand bacterial reactivation by restraining within a triggerable nanocoating. Adv Mater 32:2002406. https://doi.org/10.1002/adma.202002406
+
+Grabig A, Paclik D, Guzy C, Dankof A, Baumgart DC, Erckenbrecht J, Raupach B, Sonnenborn U, Eckert J, Schumann RR, Wieden- mann B, Dignass AU, Sturm A (2006) Escherichia coli strain Nissle 1917 ameliorates experimental colitis via toll-like receptor 2- and toll-like receptor 4-dependent pathways. Infect Immun 74:4075–4082. https://doi.org/10.1128/IAI.01449-05
+
+Hanauer SB, Feagan BG, Lichtenstein GR, Mayer LF, Schreiber S, Colombel JF, Rachmilewitz D, Wolf DC, Olson A, Bao W, Rut- geerts P (2002) Maintenance infliximab for Crohn’s disease: the ACCENT I randomised trial. Lancet 359:1541–1549. https://doi.org/10.1016/S0140-6736(02)08512-4
+
+Harimoto T, Hahn J, Chen YY, Im J, Zhang J, Hou N, Li F, Coker C, Gray K, Harr N, Chowdhury S, Pu K, Nimura C, Arpaia N, Leong KW, Danino T (2022) A programmable encapsulation system improves delivery of therapeutic bacteria in mice. Nat Biotech- nol 40:1259–1269. https://doi.org/10.1038/s41587-022-01244-y
+
+Kai-Larsen Y, Luthje P, Chromek M, Peters V, Wang X, Holm A, Kadas L, Hedlund KO, Johansson J, Chapman MR, Jacobson SH, Romling U, Agerberth B, Brauner A (2010) Uropathogenic Escherichia coli modulates immune responses and its curli fim- briae interact with the antimicrobial peptide LL-37. PLoS Pathog 6:e1001010. https://doi.org/10.1371/journal.ppat.1001010
+
+Kruis W, Fric P, Pokrotnieks J, Lukas M, Fixa B, Kascak M, Kamm MA, Weismueller J, Beglinger C, Stolte M, Wolff C, Schulze J (2004) Maintaining remission of ulcerative colitis with the probiotic Escher- ichia coli Nissle 1917 is as effective as with standard mesalazine. Gut 53:1617–1623. https://doi.org/10.1136/gut.2003.037747
+
+Kucharzik T, Stoll R, Lügering N, Domschke W (1995) Circulating antiinflammatory cytokine IL-10 in patients with inflammatory bowel disease. Clin Exp Immunol 100:452–456. https://doi.org/10.1111/j.1365-2249.1995.tb03721.x
+
+Li Z, Wang Y, Liu J, Rawding P, Bu J, Hong S, Hu Q (2021) Chemically and biologically engineered bacteria-based delivery sys- tems for emerging diagnosis and advanced therapy. Adv Mater 33:e2102580. https://doi.org/10.1002/adma.202102580
+
+Li H, Cao W, Xie J, Che H, Liu L, Dong X, Song L, Xie W (2022) alpha-D-1,6-glucan from Castanea mollissima Blume alleviates dextran sulfate sodium-induced colitis in vivo. Carbohydr Polym 289:119410. https://doi.org/10.1016/j.carbpol.2022.119410
+
+Lichtenstein GR, Feagan BG, Cohen RD, Salzberg BA, Diamond RH, Chen DM, Pritchard ML, Sandborn WJ (2006) Serious infections and mortality in association with therapies for Crohn’s disease: TREAT registry. Clin Gastroenterol Hepatol 4:621–630. https://doi.org/10.1016/j.cgh.2006.03.002
+
+Lynch JP, Goers L, Lesser CF (2022) Emerging strategies for engineer- ing Escherichia coli Nissle 1917-based therapeutics. Trends Phar- macol Sci 43:772–786. https://doi.org/10.1016/j.tips.2022.02.002
+
+Lynch JP, Gonzalez-Prieto C, Reeves AZ, Bae S, Powale U, Godbole NP, Tremblay JM, Schmidt FI, Ploegh HL, Kansra V (2023) Engineered Escherichia coli for the in situ secretion of therapeutic nanobodies in the gut. Cell Host Microbe 31:634–639. https://doi.org/10.1016/j.chom.2023.03.007
+
+Moore KW, de Waal Malefyt R, Coffman RL, O’Garra A (2001) Inter- leukin-10 and the interleukin-10 receptor. Annu Rev Immunol 19:683–765. https://doi.org/10.1146/annurev.immunol.19.1.683
+
+Nikolaus S, Schulte B, Al-Massad N, Thieme F, Schulte DM, Bethge J, Rehman A, Tran F, Aden K, Hasler R, Moll N, Schutze G, Schwarz MJ, Waetzig GH, Rosenstiel P, Krawczak M, Szymczak S, Schreiber S (2017) Increased tryptophan metabolism is associ- ated with activity of inflammatory bowel diseases. Gastroenterol- ogy 153:1504–1516. https://doi.org/10.1053/j.gastro.2017.08.028
+
+Oh GS, Pae HO, Lee BS, Kim BN, Kim JM, Kim HR, Jeon SB, Jeon WK, Chae HJ, Chung HT (2006) Hydrogen sulfide inhibits nitric oxide production and nuclear factor-kappab via heme oxygenase-1 expression in RAW264.7 macrophages stimulated with lipopoly- saccharide. Free Radic Biol Med 41:106–119. https://doi.org/10.1016/j.freeradbiomed.2006.03.021
+
+Praveschotinunt P, Duraj-Thatte AM, Gelfat I, Bahl F, Chou DB, Joshi NS (2019) Engineered E. coli Nissle, (1917) for the delivery of matrix-tethered therapeutic domains to the gut. Nat Commun 10(1):5580. https://doi.org/10.1038/s41467-019-13336-6
+
+Roda G, Jharap B, Neeraj N, Colombel JF (2016) Loss of response to anti-TNFs: definition, epidemiology, and management. Clin Transl Gastroen 7:e135. https://doi.org/10.1038/ctg.2015.63
+
+Sonnenborn U (2016) Escherichia coli strain Nissle 1917-from bench to bedside and back: history of a special Escherichia coli strain with probiotic properties. FEMS Microbiol Lett 363:fnw212. https://doi.org/10.1093/femsle/fnw212
+
+Sonnenborn U, Schulze J (2009) The non-pathogenic Escherichia coli strain Nissle 1917 – features of a versatile probiotic. Microb Ecol Health Dis 21:122–158. https://doi.org/10.3109/08910600903444267
+
+Steidler L, Hans W, Schotte L, Neirynck S, Obermeier F, Falk W, Fiers W, Remaut E (2000) Treatment of murine colitis by Lactococcus lactis secreting interleukin-10. Science 289:1352–1355. https://doi.org/10.1126/science.289.5483.1352
+
+Tan Y, Shen J, Si T, Ho CL, Li Y, Dai L (2020) Engineered live bio- therapeutics: progress and challenges. Biotechnol J 15:e2000155. https://doi.org/10.1002/biot.202000155
+
+Vandenbroucke K, de Haard H, Beirnaert E, Dreier T, Lauwereys M, Huyck L, Van Huysse J, Demetter P, Steidler L, Remaut E, Cuve- lier C, Rottiers P (2010) Orally administered L. Lactis secreting an anti-TNF nanobody demonstrate efficacy in chronic colitis. Mucosal Immunol 3:49–56. https://doi.org/10.1038/mi.2009.116
+
+Verhaar ER, Woodham AW, Ploegh HL (2021) Nanobodies in cancer. Semin Immunol 52:101425. https://doi.org/10.1016/j.smim.2020.101425
+
+Wang JX, Wang AB, Zeng HQ, Liu LT, Jiang WH, Zhu YJ, Xu YD (2011) Effect of triptolide on T-cell receptor beta variable gene mRNA expression in rats with collagen-induced arthritis. Anat Rec 295:922–927. https://doi.org/10.1002/ar.22479
+
+Wehkamp J, Harder J, Wehkamp K, Wehkamp-von Meissner B, Schlee M, Enders C, Sonnenborn U, Nuding S, Bengmark S, Fellermann K, Schroder JM, Stange EF (2004) NF-kappaB- and AP-1-mediated induction of human beta defensin-2 in intestinal epithelial cells by Escherichia coli Nissle 1917: a novel effect of a probiotic.

@@ -1,0 +1,43 @@
+# A. Heinken et al.
+
+# 4
+
+|Glycine|L-leucine|Glycine betaine|
+|---|---|---|
+|L-phenylalanine|L-tryptophan|Trimethylamine N-oxide|
+|IBD_dab juc|IBD_Gnbotz|Heutn|
+|Isovalerate|Ethanol|Nicotinamide|
+|Hydrogen sulfide|L-lactate|Reduced riboflavin|
+|IED_dyeorobc|Heal|IBD Geboic|
+|IBO nordabolk|D-ribose|Chorismate|
+|D-ribose|Phenol|L-tyrosine|
+|Cadaverine| | |
+|Nicotinamide|Phenylalanine| |
+
+# Health
+
+|IBD oebotlc|IEDnortrbbtc|R-Acetoin|
+|---|---|---|
+|Chorismate|Glycerol| |
+|Havronanccg|L-mulate| |
+|Ovridoxine|D-alanine| |
+
+# 0.004
+
+# 0.006
+
+# 0.008
+
+# 0.010
+
+# 0.012
+
+# Fig. 2
+
+Predicted metabolite secretion profiles for the 108 microbiomes. a–f Total metabolite secretion fluxes (mmol/person/day) predicted for the microbiomes of 20 paediatric Crohn’s Disease patients with dysbiosis (IBD_dysbiotic), 63 paediatric Crohn’s Disease patients without dysbiosis (IBD_nondysbiotic), and 25 healthy control children (Healthy) for selected metabolites of interest. g Random forests analysis showing the secreted metabolites that best stratified the 20 dysbiotic and 63 dysbiotic IBD microbiomes ranked by their contributions to classification accuracy (represented by the variable MeanDecreaseAccuracy).
+
+# Metabolism
+
+Implicated in the pathophysiology of IBD27,35,36. While taurine, (e.g., hydrogen sulfide) have been repeatedly results above, the number of sulfur species that could theoretically be produced was drastically reduced in dysbiotic IBD microbiomes hydrogen sulfide, methionine, and cysteine could be secreted by all microbiomes, the capability to produce other sulfur species, such as thiosulfate, sulfite, and sulfate, differed strongly between the three study groups (Supplementary Table 5). Mirroring the number of statistical.
+
+npj Systems Biology and Applications (2021) 19 Published in partnership with the Systems Biology Institute

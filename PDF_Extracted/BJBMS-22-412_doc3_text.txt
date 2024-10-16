@@ -1,0 +1,58 @@
+# Alatawi et al.: Microbiota and anti-TNF-α response in IBD patients
+
+# TABLE 1. Clinical and demographic characteristics of IBD patient responders and non-responders to anti-TNF-α therapy.
+
+|Clinical characteristics|Patients studied|Responders (R)|Primary non-responders (P)|P value*|
+|---|---|---|---|---|
+|Mean age (years) ± SD|N=10|19.5±6.8|20.48±6.1|0.74|
+|Gender| | | |1.0|
+|Males| |3 (30%)|4 (40%)| |
+|Females| |7 (70%)|6 (60%)| |
+|Smoking habit| | | |1.0|
+|Never smoked| |10 (100%)|10 (100%)| |
+|Ex-smoker| |0 (0.0%)|0 (0.0%)| |
+|Current smoker| |0 (0.0%)|0 (0.0%)| |
+|IBD subtypes| | | |0.65|
+|Crohns Disease (CD)| |5 (50%)|7 (70%)| |
+|Ulcerative colitis (UC)| |5 (50%)|3 (30%)| |
+|Disease location (CD)| | | | |
+|L1. Ileal| |3 (60%)|0 (0%)|0.04**|
+|L3. Ileocolonic| |2 (40%)|7 (100%)| |
+|Disease behaviour (CD)| | | | |
+|B1. Non-stricturing, non-penetrating| |3 (60%)|3 (42.85%)|0.28|
+|B2. Stricturing| |0 (0.0%)|3 (42.85)| |
+|B3. Penetrating| |2 (40%)|1 (14.3%)| |
+|Perianal disease (CD)| |2 (40%)|2 (28.6%)|0.59|
+|Disease Extension (UC)| | | | |
+|E1. Ulcerative proctitis| |0 (0.0%)|1 (33.3%)|0.027**|
+|E2. Left sided colitis| |0 (0.0%)|0 (0.0%)| |
+|E3. Extensive colitis| |5 (100%)|2 (66.7%)| |
+|Extraintestinal manifestations| |7 (70%)|3 (30%)|0.18|
+|Haemoglobin (g/dl)| |11.3±1.7|8.1±4.5|0.05|
+|Baseline CRP (mg/L)| |32±43|42±61.9|0.67|
+|Albumin (g/L)| |34.6±5.5|26±12.5|0.06|
+|Biological| | | | |
+|Infliximab| |6 (60%)|5 (50%)|1.0|
+|Adalimumab| |4 (40%)|5 (50%)|0.35|
+
+# Statistical analysis
+
+An unpaired parametric t-test was incorporated using the Prism 9.0 software (GraphPad Software, Inc., San Diego, CA) and R (v3.1.1) to compare quantitative variables between groups and to identify taxa that had statistically significant differences. The resulting P value was modified using the Benjamini-Hochberg false discovery rate correction formula (function “p.adjust” in the stats package of R, v3.1.1). PERMANOVA was used to test significance among values. The linear discriminant analysis effect size (LEfSe) method was incorporated to reveal metagenomic biomarkers. The Pearson correlation coefficient was performed with a two-tailed test and a 95% CI in GraphPad Prism 9.0. Any differences between groups considered to be significant had p < 0.05.
+
+# Availability of data and material
+
+The datasets (raw data), which supported the findings of the study, were deposited in the National Centre for Biotechnology Information (NCBI) with the unique BioProject ID: PRJNA673078 (https://dataview.ncbi.nlm.nih.gov/object/PRJNA673078).
+
+# RESULTS
+
+# Baseline characteristics
+
+The study cohort included 20 patients with IBD (14 CD and 6 UC). The median age was 28 years (range, 20–45 years). Females constituted 65% (n = 13) of the cohort. The anti-TNF for-alpha treatment comprised infliximab in 11 patients (65%) and adalimumab in 9 patients (45%). Details of the study group are shown in Table 1.
+
+# Comparison of relative abundance of microbial community structure
+
+The OTUs median number was statistically estimated to be 146 for primary non-responder patients (P) and 158 for responders (R). The expressed sequence tags were clustered into OTU with a 97% threshold. The taxonomic composition distribution was used to identify the intestinal microbiota of IBD patients at phylum and genus levels. The largest number at the genera level was the Firmicutes phylum (57 genera), followed by Proteobacteria (18 genera), then Actinobacteria (18 genera), and then Bacteroidetes (11 genera).
+
+Bosn J Basic Med Sci. 2022;22(3):412-426
+
+www.bjbms.org

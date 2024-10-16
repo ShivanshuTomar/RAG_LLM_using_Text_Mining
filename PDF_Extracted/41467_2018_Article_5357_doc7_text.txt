@@ -1,0 +1,143 @@
+# ARTICLE
+
+# NATURE COMMUNICATIONS | DOI: 10.1038/s41467-018-05357-4
+
+# a
+
+# Observed gene count
+
+# IBD vs control
+
+|False discovery rate (FDR)|60|False discovery rate (FDR)|60|
+|---|---|---|---|
+|DeC (79)|AsC (85)|306|15|
+|Numbers (×10/ml)|40| | |
+|5|20|10| |
+|13|12|10| |
+|20|20|5| |
+|59|0|0| |
+|2|9|12| |
+
+# Wound healing
+
+# Cell periphery (lumen)
+
+# Immune response
+
+# Response to stress
+
+# Defense response
+
+# Extracellular region
+
+# Secretory granule
+
+# Blood microparticle
+
+# Extracellular space
+
+# Extracellular exosome
+
+# Immune system process
+
+# Extracellular region part
+
+# Defense response to fungus
+
+# Membrane-bounded vesicle
+
+# Defense response to bacterium
+
+# Regulation of biological quality
+
+# Defense response to other organism
+
+# Single organismal cell-cell adhesion
+
+# Plasma membrane-bounded vesicle
+
+# b
+
+# e–log (FDR)
+
+# Percentage (%)
+
+|DeC|AsC|TI|
+|---|---|---|
+|15|****| |
+|GNAI2|GCA| |
+|ANXA1|C4BPA|***|
+|FBLIM1|C4A|**|
+|S100A11| | |
+|VNN2|S100A12| |
+|ORM1|FERMT3|TLN1|
+|FGG|C3| |
+|MNDA|FCN1| |
+|FGB|ITGB2|S100A8|
+|FGA|ANXA5| |
+|ITGAM|S100A9| |
+|CP|MMP9| |
+|HBA2|EV protein abundance (%)|ITGB1|
+|HBB|PTPRC|MPO|
+|CTSG| | |
+|G6PD|CYBB|LTF|
+|CAMP| | |
+|TKT| | |
+|AZU1| | |
+|MSN|APMAP|CANX|
+|PGLYRP1|PC2 (8%)| |
+
+# Control
+
+# CD
+
+# UC
+
+# BASP1
+
+# IBD/control fold change
+
+# 100 nm
+
+# g
+
+# Microbial proteins
+
+# Exosome proteins
+
+|p|0.0693|0.0154|
+|---|---|---|
+|Observed gene count|30| |
+|Control EVs|IBD EVs| |
+|0|-10| |
+|Control|IBD EVs| |
+|0|-20|-10|
+|0|10|20|
+
+# Vesicle size (nm)
+
+# Fig. 6
+
+# Alteration of MLI human proteins in pediatric IBD patients.
+
+Numbers of differentially abundant proteins identified by PLS-DA with a threshold of VIP ≥ 2. The numbers in brackets indicate the total number of proteins identified for each intestinal region.
+
+Protein–protein interaction network of the 59 differentially abundant MLI human proteins at all three intestinal regions in IBD.
+
+Top biological processes and top cellular components enriched by the differentially abundant MLI human proteins in IBD.
+
+Percentage of EV related proteins in the MLI human proteomes. For the box plot, the bottom and top of the box are the first and third quartiles, respectively. The middle line represents the sample median. Whiskers are drawn from the ends of the IQR to the furthest observations within the 1.5 times the IQR range. Outliers > 1.5 times the IQR are indicated with circle. *p < 0.05, **p < 0.01, **p < 0.001.
+
+Electron microscopy of isolated vesicles.
+
+Nanoparticle tracking analysis of the isolated vesicle size distribution from DeC aspirates of patient HM537.
+
+Percentage of microbial proteins in the isolated EV proteomes.
+
+Percentage of exosome proteins matching to the top 100 proteins in ExoCarta database.
+
+PCA score plot of the free EV human proteomes from patients with or without IBD.
+
+DA was conducted for each intestinal region. We identified 79, 85, and 82 IBD-related differentially abundant human proteins for the DeC (Q2 = 0.82), AsC (Q2 = 0.83), and TI (Q2 = 0.73), respectively, with a threshold of VIP ≥ 2 (Fig. 6a and Supplementary Data 6); 70, 71, and 96 disease subtype-related differentially abundant human proteins were identified for the DeC (Q2 = 0.57), AsC (Q2 = 0.48), and TI (Q2 = 0.39), respectively (Supplementary Data 7). Among the IBD-related differentially abundant proteins, 59 were common for all three intestinal regions, while there were only three disease subtype-related.
+
+# NATURE COMMUNICATIONS | (2018) 9:2873 | DOI: 10.1038/s41467-018-05357-4 | www.nature.com/naturecommunications

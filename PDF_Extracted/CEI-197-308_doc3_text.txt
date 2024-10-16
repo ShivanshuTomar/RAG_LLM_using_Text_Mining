@@ -1,0 +1,33 @@
+# NEURO-IMMUNE INTERACTIONS: HOW THE NERVOUS AND IMMUNE SYSTEMS INFLUENCE EACH OTHER
+
+# Depressive symptoms in inflammatory bowel disease
+
+# Table 2. Association between depression and biomedical outcomes in large longitudinal studies* of people with IBD
+
+|Outcome|Measure of depression|Crohn’s disease|Ulcerative colitis|
+|---|---|---|---|
+|Readmission to hospital|Medical records coding of ICD depression diagnosis PHQ-8 score ≥ 5|OR = 1·89 (1·06–3·40) in children [35] and OR = 1·27 (1·07–1·50) in adults [34]|No increased odds in children [35] but OR = 1·35 (1·07–1·70) in adults [34]|
+|Relapse**|PHQ-8 score ≥ 5|RR = 1·3 (1·2–1·5) in adults [9]|RR = 1·3 (1·1–1·5) in adults [9]|
+|Recurrent disease***|HADS > 7|RR = 2·3 (1·9–2·8) in adults [9]|RR = 1·8 (0·9–1·7) in adults [9]|
+|Requirement for biologicals|PHQ-8 score ≥ 5|Reduced time to clinical recurrence in adults (P < 0·001) [37]|Reduced time to clinical recurrence in adults (P = 0·005) [37]|
+|Requirement for surgery|Medical records coding of ICD depression diagnosis|OR = 1·28 (1·03–1·57) in one cohort [36], RR = 1·3 (1·1–1·6) in another [9]|No increased risk of surgery in one cohort [36] but RR = 1·8 (1·2–2·6) in another [9]|
+
+*All longitudinal studies with ≥ 1000 patients were included and all results are adjusted for potential confounders.
+
+**modified Harvey–Bradshaw Index ≥ 5 or Simple Clinical Colitis Activity Index > 2.
+
+***any of: flare events or worsening of the disease (as established by physicians), fistulas and stenosis, anal fissure, abscess, IBD surgery, need for steroids or biologicals.
+
+HAS = Hospital Anxiety and Depression Scale; ICD = International Classification of Diseases; OR = odds ratio (adjusted for confounders); PHQ = Patient Health Questionnaire; RR = relative risk (adjusted for confounders).
+
+of depressive symptoms in patients with IBD is very limited. In a cross-sectional study of 11 IBD patients and nine controls, symptomatic IBD patients had the highest depressive and anxiety scores, as well as increased intestinal expression of IL-6 and IL-1β and serum IL-6 [42]. Prospective studies testing the directionality of inflammation and depressive symptoms in IBD are awaited.
+
+# Depressive symptoms or somatic symptoms?
+
+In the general population, somatic symptoms associated with depression, such as fatigue and sleep disturbance, have been found to be more strongly associated with elevated inflammation than more cognitive symptoms, such as low mood and guilt [43–45]. Such somatic symptoms are experienced far more commonly in people with IBD than depressive symptoms overall: fatigue is reported by 44–86% of IBD individuals with active disease and 22–41% of individuals in remission [46], while 77 and 49% of those with active or inactive disease, respectively, experience poor sleep [47]. Importantly, self-report questionnaires can frequently identify patients as having depressive symptoms but whose clinical presentation is dominated by somatic symptoms, often in the absence of core symptoms of clinical depression [48]. Collectively, this suggests that for many patients being labelled as depressed, the ‘depression’ of IBD may, in fact, be characterized primarily by fatigue and sleep problems.
+
+Within the IBD literature, a small number of cross-sectional studies have tested the association between inflammation and somatic symptoms. In a randomized controlled trial (RCT) of 98 patients with quiescent IBD and significant fatigue, solution-focused therapy (SFT) improved fatigue more than treatment as usual 3 months later, yet this effect was not sustained and SFT did not reduce CRP more than treatment as usual [49]. If fatigue is underpinned by elevated inflammation, these findings are unsurprising. In a cross-sectional study of 96 people with CD and 19 healthy controls, elevated inflammation, as measured using standard-sensitivity CRP and erythrocyte sedimentation rate (ESR), were strongly correlated with the first of two factors of the Pittsburgh Sleep Quality Index [50]. In a cross-sectional study of 131 patients with IBD, elevated CRP, also using a standard-sensitivity assay, was associated with 3·16 greater adjusted odds of poor sleep, although numbers were small [51]. In a recent cross-sectional study of 631 adults with IBD, the presence of significant fatigue was associated with marginally elevated CRP and ESR in UC patients but not CD [52]. However, these results are limited by nearly 40% missing data on inflammation and the standard-sensitivity CRP assay used.
+
+Notably, the presence of fatigue and sleep is poorly explained by IBD disease severity alone. For example, in the Manitoba cohort of 312 patients, fatigue was greater in people with active IBD, yet fatigue was found to increase over time even for those in IBD remission [53]. Similarly,
+
+© 2019 British Society for Immunology, Clinical and Experimental Immunology, 197: 308–318

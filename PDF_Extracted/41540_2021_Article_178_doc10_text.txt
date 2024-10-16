@@ -1,0 +1,65 @@
+# A. Heinken et al.
+
+1. Pascal, V. et al. A microbial signature for Crohn’s disease. Gut 66, 813–822 (2017).
+2. Khan, M. T. et al. The gut anaerobe Faecalibacterium prausnitzii uses an extracellular electron shuttle to grow at oxic-anoxic interphases. ISME J. 6, 1578–1585 (2012).
+3. Chong, J. et al. MetaboAnalyst 4.0: towards more transparent and integrative metabolomics analysis. Nucleic Acids Res. 46, W486–W494 (2018).
+4. Porter, N. T. & Martens, E. C. The critical roles of polysaccharides in gut microbial ecology and physiology. Annu. Rev. Microbiol. 71, 349–369 (2017).
+5. Samuel, B. S. et al. Genomic and metabolic adaptations of Methanobrevibacter smithii to the human gut. Proc. Natl Acad. Sci. USA 104, 10643–10648 (2007).
+6. Selmer, T. & Andrei, P. I. p-Hydroxyphenylacetate decarboxylase from Clostridium difficile. A novel glycyl radical enzyme catalysing the formation of p-cresol. Eur. J. Biochem. 268, 1363–1372 (2001).
+7. Guo, F. F., Yu, T. C., Hong, J. & Fang, J. Y. Emerging roles of hydrogen sulfide in inflammatory and neoplastic colonic diseases. Front. Physiol. 7, 156 (2016).
+8. Kushkevych, I., Dordevic, D., Kollar, P., Vitezova, M. & Drago, L. Hydrogen sulfide as a toxic product in the small-large intestine axis and its role in IBD development. J. Clin. Med. 8, https://doi.org/10.3390/jcm8071054 (2019).
+9. Machiels, K. et al. A decrease of the butyrate-producing species Roseburia hominis and Faecalibacterium prausnitzii defines dysbiosis in patients with ulcerative colitis. Gut 63, 1275–1283 (2014).
+10. Lamichhane, S., Sen, P., Dickens, A. M., Oresic, M. & Bertram, H. C. Gut metabo-lome meets microbiome: A methodological perspective to understand the relationship between host and microbe. Methods 149, 3–12 (2018).
+11. Ni, J. et al. A role for bacterial urease in gut dysbiosis and Crohn’s disease. Sci. Transl. Med. 9, https://doi.org/10.1126/scitranslmed.aah6888 (2017).
+12. Agus, A., Planchais, J. & Sokol, H. Gut microbiota regulation of tryptophan metabolism in health and disease. Cell Host Microbe 23, 716–724 (2018).
+13. Metwaly, A. et al. Integrated microbiota and metabolite profiles link Crohn’s disease to sulfur metabolism. Nat. Commun. 11, 4322 (2020).
+14. Linares, P. M. et al. Effect of chondroitin sulphate on pro-inflammatory mediators and disease activity in patients with inflammatory bowel disease. Digestion 92, 203–210 (2015).
+15. Melgar-Lesmes, P. et al. Treatment with chondroitin sulfate to modulate inflammation and atherogenesis in obesity. Atherosclerosis 245, 82–87 (2016).
+16. O’Brien, E. J., Monk, J. M. & Palsson, B. O. Using genome-scale models to predict biological capabilities. Cell 161, 971–987 (2015).
+17. Hertel, J., Heinken, A., Martinelli, F. & Thiele, I. Integration of constraint-based modelling with fecal metabolomics reveals large deleterious effects of bacteria spp. on community butyrate production. Gut Microbes, in press.
+18. Thiele, I. et al. Personalized whole-body models integrate metabolism, physiology, and the gut microbiome. Mol. Syst. Biol. 16, e8982 (2020).
+19. Stephens, N. S. et al. Urinary NMR metabolomic profiles discriminate inflammatory bowel disease from healthy. J. Crohns Colitis 7, e42–48 (2013).
+20. Kolho, K. L., Pessia, A., Jaakkola, T., de Vos, W. M. & Velagapudi, V. Faecal and serum metabolomics in paediatric inflammatory bowel disease. J. Crohns Colitis 11, 321–334 (2017).
+21. Williams, H. R. et al. Serum metabolic profiling in inflammatory bowel disease. Dig. Dis. Sci. 57, 2157–2165 (2012).
+22. Schicho, R. et al. Quantitative metabolomic profiling of serum, plasma, and urine by (1)H NMR spectroscopy discriminates between patients with inflammatory bowel disease and healthy individuals. J. Proteome Res. 11, 3344–3357 (2012).
+23. Wu, G. D. et al. Linking long-term dietary patterns with gut microbial enterotypes. Science (New York, N.Y. 334, 105–108 (2011).
+24. Heirendt, L. et al. Creation and analysis of biochemical constraint-based models using the COBRA Toolbox v.3.0. Nat. Protoc. 14, 639–702 (2019).
+25. Heirendt, L., Thiele, I. & Fleming, R. M. T. DistributedFBA.jl: high-level, high-performance flux balance analysis in Julia. Bioinformatics 33, 1421–1423 (2017).
+26. Preacher, K. J. & Hayes, A. F. Asymptotic and resampling strategies for assessing and comparing indirect effects in multiple mediator models. Behav. Res. Methods 40, 879–891 (2008).
+27. Chong, J. & Xia, J. MetaboAnalystR: an R package for flexible and reproducible analysis of metabolomics data. Bioinformatics 34, 4313–4314 (2018).
+
+# ACKNOWLEDGEMENTS
+
+We thank Prof. Dr. Frederic D. Bushman, Prof. Dr. Gary D. Wu, Assistant Prof. Dr. Kyle Bittinger, Prof. Dr. Hongzhe Lee, and Prof. Dr. James D. Lewis for valuable discussions. We thank Dr. Laurent Heirendt for providing a script for the prediction of fluxes in the Julia implementation of flux balance analysis (COBRA.jl), and Dr. Federico Baldini for helping with the creation of the 108 personalised models. This study was funded by the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement No. 757922) by the National Institute of Health (NIH), National Institute on Aging (NIA) (grant No. 1RF1AG058942 and 1U19AG063744), by Science Foundation Ireland in the form of a research centre award (APC/SFI/12/RC/2273_P2) to APC Microbiome Ireland.
+
+# AUTHOR CONTRIBUTIONS
+
+A.H. and I.T. designed research. A.H. performed simulations. A.H. and J.H. analysed data. J.H. and A.H. performed statistical analysis. A.H. drafted the paper. A.H., J.H., and I.T. edited the paper. I.T. provided funding acquisition, project administration, and academic supervision.
+
+# COMPETING INTERESTS
+
+The authors declare no competing interests.
+
+# ADDITIONAL INFORMATION
+
+Supplementary information The online version contains supplementary material available at https://doi.org/10.1038/s41540-021-00178-6.
+
+# Correspondence
+
+Correspondence and requests for materials should be addressed to I.T.
+
+# Reprints
+
+Reprints and permission information is available at http://www.nature.com/reprints
+
+# Publisher’s note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+# Open Access
+
+This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
+
+© The Author(s) 2021
+
+Published in partnership with the Systems Biology Institute npj Systems Biology and Applications (2021) 19

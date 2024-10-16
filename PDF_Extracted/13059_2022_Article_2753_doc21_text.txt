@@ -1,0 +1,20 @@
+# Ma et al. Genome Biology (2022) 23:208
+
+# Performance of continuous structure discovery analysis with MMUPHin_Continuous
+
+Performance of continuous structure discovery analysis with MMUPHin_Continuous was evaluated as the Spearman correlation between the known simulated gradient score and the strongest continuously valued population structure as identified by MMUPHin’s continuous structure discovery method (above). We again compared the performance of continuous score discovery on the batch confounded and batch-corrected data (Fig. 2g, Additional file 1: Fig. S10). Note that, as above, batch correction is again modelled only using the batch variable and does not have any access to the synthetic continuous gradient, as any underlying continuous population structure is unknown during unsupervised analyses settings.
+
+# Collection and uniform processing of ten IBD microbiome studies employing 16S rRNA gene sequencing
+
+# Study inclusion and raw sequence data
+
+We curated 10 published 16S rRNA gene sequencing (abbreviated 16S) gut microbiome studies of IBD for meta-analysis (Table 1, Additional file 3: Table S1). Demultiplexed raw sequences were either downloaded from EBI (Jansson-Lamendella and Herfarth) or available locally as previously generated (other eight studies). Metadata were obtained either directly from the sequence repository/manuscript (Herfarth, Jasson-Lamendella, HMP2, MucosalIBD, PROTECT, RISK), or from collaborators (BIDMC-FMT, CS-PRISM, LSS-PRISM, Pouchitis). This resulted in a total of 5151 samples and 2179 subjects available prior to processing and quality control.
+
+# Metadata curation
+
+We manually curated subject- and sample-specific metadata across studies to ensure consistency. Variables collected and curated include:
+
+- Disease (CD, UC, control), universally available.
+- Type of controls (non-IBD, healthy). Control information was available directly for CS-PRISM, Jansson-Lamendella, and Pouchitis, inferred from study design described in manuscript for Herfarth, HMP2, MucosalIBD, and RISK (all non-IBD controls), and not applicable for BIDMC-FMT, LSS-PRISM, and PROTECT (only has IBD subjects).
+- Sample type (biopsy, stool), universally available.
+- Body site of biopsy sample collection (ileum, colon, rectum), with more detailed classifications recorded separately in case of need. Mappings for the relevant data sets are:

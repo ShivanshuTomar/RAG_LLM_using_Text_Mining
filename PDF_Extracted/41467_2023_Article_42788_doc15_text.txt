@@ -1,0 +1,58 @@
+# Article
+
+1. Balsalobre, C., Johansson, J. & Uhlin, B. E. Cyclic AMP-dependent osmoregulation of crp gene expression in Escherichia coli. J. Bacteriol. 188, 5935–5944 (2006).
+2. Johansson, J. et al. Nucleoid proteins stimulate stringently controlled bacterial promoters: a link between the cAMP-CRP and the (p)ppGpp regulons in Escherichia coli. Cell 102, 475–485 (2000).
+3. Jackson, D. W., Simecka, J. W. & Romeo, T. Catabolite repression of Escherichia coli biofilm formation. J. Bacteriol. 184, 3406–3410 (2002).
+4. Duan, C. et al. Fucose promotes intestinal stem cell-mediated intestinal epithelial development through promoting Akkermansia-related propanoate metabolism. Gut Microbes 15, 2233149 (2023).
+5. Krautkramer, K. A., Fan, J. & Bäckhed, F. Gut microbial metabolites as multi-kingdom intermediates. Nat. Rev. Microbiol 19, 77–94 (2021).
+6. Gallagher, K., Catesson, A., Griffin, J. L., Holmes, E. & Williams, H. R. T. Metabolomic Analysis in Inflammatory Bowel Disease: A Systematic Review. J. Crohns Colitis 15, 813–826 (2021).
+7. Dragsted, L. O. Biomarkers of meat intake and the application of nutrigenomics. Meat Sci. 84, 301–307 (2010).
+8. Lo, C.-H. et al. Dietary Inflammatory Potential and Risk of Crohn’s Disease and Ulcerative Colitis. Gastroenterology 159, 873–883.e1 (2020).
+9. Tomé, D. The Roles of Dietary Glutamate in the Intestine. Ann. Nutr. Metab. 73, 15–20 (2018).
+10. Certo, M., Tsai, C.-H., Pucino, V., Ho, P.-C. & Mauro, C. Lactate modulation of immune responses in inflammatory versus tumour microenvironments. Nat. Rev. Immunol. 21, 151–161 (2021).
+11. Bourgonje, A. R. et al. Oxidative Stress and Redox-Modulating Therapeutics in Inflammatory Bowel Disease. Trends Mol. Med 26, 1034–1046 (2020).
+12. Baier, J. et al. Arginase impedes the resolution of colitis by altering the microbiome and metabolome. J. Clin. Invest 130, 5703–5720 (2020).
+13. Kwon, N. H., Fox, P. L. & Kim, S. Aminoacyl-tRNA synthetases as therapeutic targets. Nat. Rev. Drug Discov. 18, 629–650 (2019).
+14. Pang, L., Weeks, S. D. & Van Aerschot, A. Aminoacyl-tRNA Synthetases as Valuable Targets for Antimicrobial Drug Discovery. Int J. Mol. Sci. 22, 1750 (2021).
+15. Wusiman, W., Zhang, Z., Ding, Q. & Liu, M. The pathophyiological role of aminoacyl-tRNA synthetases in digestive system diseases. Front. Physiol. 13, 935576 (2022).
+16. Kim, S.-M. et al. Secreted Akkermansia muciniphila threonyl-tRNA synthetase functions to monitor and modulate immune homeostasis. Cell Host Microbe 31, 1021–1037.e10 (2023).
+17. Duvallet, C., Gibbons, S. M., Gurry, T., Irizarry, R. A. & Alm, E. J. Meta-analysis of gut microbiome studies identifies disease-specific and shared responses. Nat. Commun. 8, 1784 (2017).
+18. Körner, H., Sofia, H. J. & Zumft, W. G. Phylogeny of the bacterial superfamily of Crp-Fnr transcription regulators: exploiting the metabolic spectrum by controlling alternative gene programs. FEMS Microbiol Rev. 27, 559–592 (2003).
+19. Ibba, M. & Söll, D. The renaissance of aminoacyl-tRNA synthesis. EMBO Rep. 2, 382–387 (2001).
+20. Xie, G. et al. A Metabolite Array Technology for Precision Medicine. Anal. Chem. 93, 5709–5717 (2021).
+21. Yu, G., Wang, L.-G., Han, Y. & He, Q.-Y. clusterProfiler: an R Package for Comparing Biological Themes Among Gene Clusters. OMICS: A J. Integr. Biol. 16, 284–287 (2012).
+22. Wu, Y. et al. Identification of microbial markers across populations in early detection of colorectal cancer. Nat. Commun. 12, 3063 (2021).
+23. Kim, M. et al. Fecal Metabolomic Signatures in Colorectal Adenoma Patients Are Associated with Gut Microbiota and Early Events of Colorectal Cancer Pathogenesis. mBio 11, e03186–19 (2020).
+24. Yachida, S. et al. Metagenomic and metabolomic analyses reveal distinct stage-specific phenotypes of the gut microbiota in colorectal cancer. Nat. Med 25, 968–976 (2019).
+25. Kostic, A. D. et al. The dynamics of the human infant gut microbiome in development and in progression toward type 1 diabetes. Cell Host Microbe 17, 260–273 (2015).
+26. Muller, E., Algavi, Y. M. & Borenstein, E. A meta-analysis study of the robustness and universality of gut microbiome-metabolome associations. Microbiome 9, 203 (2021).
+
+# Acknowledgements
+
+This work was supported by various funding sources. We are grateful for the funding provided by the National Natural Science Foundation of China (grant numbers 82230016, 82272979 to J.H., 82073115 to H.C., 82103246 to C.S., and 81973346 to Y.Z.), the Program for Professor of Special Appointment (Eastern Scholar no. 201268 to J.H.) at Shanghai Institutions of Higher Learning, the Shanghai Municipal Education Commission—Gaofeng Clinical Medicine Grant Support (grant numbers 20152512 to H.C., 20161309 to J.H.), the Shanghai Municipal Health Commission Talent Program (grant numbers 2022XD048 to J.H.), and the National Key Research and Development Plan of the Ministry of Science and Technology (grant numbers 2022YFE0125300 to H.C., 2020YFA0509200 to J.-Y.F). The authors would like to express their gratitude to the participating patients and all members of collaborating laboratories for their valuable contributions and insightful discussions related to this research project.
+
+# Author contributions
+
+The study was conceived and designed by H.C. and J.H. Patient enrollment, sampling, and clinical measures were carried out by Y.-L.Z., H.S., Y.Z., Z.W. and Z.C. The raw data was downloaded by H.C., L.N., B.X., Y.-L.Z., X.H., M.H., X.Z., J.D., Y.Z. and Y.M., and sequencing data from metagenomics and metabolomics were analyzed by L.N., Y.-L.Z., H.S., Y.Y. and T.T. The original draft was prepared by L.N., Y.-L.Z., H.S., Y.Z., and C.S., while J.-Y.F., H.C. and J.H. revised and edited the manuscript. All authors read, discussed, and approved the final version of the manuscript.
+
+# Competing interests
+
+The authors declare no competing interests.
+
+# Additional information
+
+Supplementary information The online version contains supplementary material available at https://doi.org/10.1038/s41467-023-42788-0.
+
+Correspondence and requests for materials should be addressed to Haoyan Chen or Jie Hong.
+
+# Peer review information
+
+Nature Communications thanks Franco Scal- da ferri, Oscar Yanes, and the other, anonymous, reviewers for their contribution to the peer review of this work. A peer review file is available.
+
+# Reprints and permissions
+
+Reprints and permissions information is available at http://www.nature.com/reprints.
+
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Nature Communications | (2023)14:7135

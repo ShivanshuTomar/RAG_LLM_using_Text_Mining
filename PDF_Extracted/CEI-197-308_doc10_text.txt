@@ -1,0 +1,28 @@
+# C. D. Moulton et al.
+
+# NEURO-IMMUNE INTERACTIONS: HOW THE NERVOUS AND IMMUNE SYSTEMS INFLUENCE EACH OTHER
+
+# References
+
+1. Bailey MT, Dowd SE, Galley JD, Hufnagle AR, Allen RG, Lyte M. Exposure to a social stressor alters the structure of the intestinal microbiota: implications for stressor-induced immunomodulation. Brain Behav Immun 2011; 25: 397–407.
+2. Wong M-L, Inserra A, Lewis MD et al. Inflammasome signaling affects anxiety- and depressive-like behavior and gut microbiome composition. Mol Psychiatry 2016; 21: 797–805.
+3. Ivanov II, Atarashi K, Manel N et al. Induction of intestinal Th17 cells by segmented filamentous bacteria. Cell 2009; 139: 485–98.
+4. Atarashi K, Tanoue T, Oshima K et al. Treg induction by a rationally selected mixture of Clostridia strains from the human microbiota. Nature 2013; 500: 232–6.
+5. Chu H, Khosravi A, Kusumawardhani IP et al. Gene–microbiota interactions contribute to the pathogenesis of inflammatory bowel disease. Science 2016; 352: 1116–20.
+6. Aizawa E, Tsuji H, Asahara T et al. Possible association of Bifidobacterium and Lactobacillus in the gut microbiota of patients with major depressive disorder. J Affect Disord 2016; 202: 254–7.
+7. Zheng P, Zeng B, Zhou C et al. Gut microbiome remodeling induces depressive-like behaviors through a pathway mediated by the host’s metabolism. Mol Psychiatry 2016; 21: 786–96.
+8. Akkasheh G, Kashani-Poor Z, Tajabadi-Ebrahimi M et al. Clinical and metabolic response to probiotic administration in patients with major depressive disorder: a randomized, double-blind, placebo-controlled trial. Nutrition 2016; 32: 315–20.
+9. Hanauer SB, Feagan BG, Lichtenstein GR et al. Maintenance infliximab for Crohn’s disease: the ACCENT I randomised trial. Lancet 2002; 359: 1541–9.
+10. Rutgeerts P, Sandborn WJ, Feagan BG et al. Infliximab for induction and maintenance therapy for ulcerative colitis. N Engl J Med 2005; 353: 2462–76.
+11. Danese S, Fiorino G, Peyrin-Biroulet L et al. Biological agents for moderately to severely active ulcerative colitis: a systematic review and network meta-analysis. Ann Intern Med 2014; 160: 704–11.
+12. Raison CL, Rutherford RE, Woolwine BJ et al. A randomized controlled trial of the tumor necrosis factor antagonist infliximab for treatment-resistant depression: the role of baseline inflammatory biomarkers. JAMA Psychiatry 2013; 70: 31–41.
+13. Matcham F, Galloway J, Hotopf M et al. The impact of targeted rheumatoid arthritis pharmacologic treatment on mental health: a systematic review and network meta-analysis. Arthritis Rheumatol 2018; 70: 1377–91.
+14. Stevens BW, Borren NZ, Velonias G et al. Therapy is associated with an improvement in sleep quality and mood in inflammatory bowel diseases. Dig Dis Sci 2017; 62: 197–206.
+15. Wang F, Lin X, Zhao Q, Li J. Adverse symptoms with anti-TNF-alpha therapy in inflammatory bowel disease: systematic review and duration-response meta-analysis. Eur J Clin Pharmacol 2015; 71: 911–9.
+16. Amiot A, Grimaud J-C, Peyrin-Biroulet L et al. Effectiveness and safety of vedolizumab induction therapy for patients with inflammatory bowel disease. Clin Gastroenterol Hepatol 2016; 14: 1593–1601.e2.
+17. Kohler CA, Freitas TH, Stubbs B et al. Peripheral alterations in cytokine and chemokine levels after antidepressant drug treatment for major depressive disorder: systematic review and meta-analysis. Mol Neurobiol 2018; 55: 4195–206.
+18. Uher R, Tansey KE, Dew T et al. An inflammatory biomarker as a differential predictor of outcome of depression treatment with escitalopram and nortriptyline. Am J Psychiatry 2014; 171: 1278–86.
+19. Macer BJD, Prady SL, Mikocka-Walus A. Antidepressants in inflammatory bowel disease. A systematic review. Inflamm Bowel Dis 2017; 23: 534–50.
+20. Szigethy E, Youk AO, Gonzalez-Heydrich J et al. Effect of 2 psychotherapies on depression and disease activity in pediatric Crohn’s disease. Inflamm Bowel Dis 2015; 21: 1321–8.
+
+© 2019 British Society for Immunology, Clinical and Experimental Immunology, 197: 308–318

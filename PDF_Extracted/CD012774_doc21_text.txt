@@ -1,0 +1,29 @@
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+# Excluded studies
+
+We excluded 44 studies for reasons given in the Characteristics of excluded studies table. In summary, 21 studies had ineligible comparators (i.e. the comparison groups received FMT or did not have IBD), nine studies had ineligible study designs, six studies had ineligible study populations (i.e. five studies used FMT for treatment of rCDI rather than IBD and one study used FMT for treatment of pouchitis), five studies had ineligible interventions, two studies had incompatible lengths of follow-up, and one study was not available for review.
+
+# Ongoing studies
+
+Twenty-nine studies are ongoing:
+
+|CTRI/2021/03/032131|EUCTR 2019-003816-29|NCT01961492|NCT02335281|NCT02998112|
+|---|---|---|---|---|
+|NCT03078803|NCT03110289|NCT03273465|NCT03483246|NCT03561532|
+|NCT03582969|NCT03716388|NCT03804931|NCT03998488|NCT04034758|
+|NCT04202211|NCT04328922|NCT04373473|NCT04434872|NCT04521205|
+|NCT04637438|NCT04924270|NCT04970446|NCT04997733|NCT05030064|
+|NCT05538026|Pai 2019|Stallmach 2022|UMIN000033127| |
+
+We attempted to contact the listed authors of all ongoing studies to inquire about their status and whether any potential publications were pending.
+
+# Studies awaiting classification
+
+Four studies are awaiting classification for one of the following reasons: the study was terminated; despite our best efforts to gather data or clarify the study's status with the authors, it was unclear whether it was terminated, ongoing, or temporarily on hold; an English version of the study was not available; or the.
+
+# Risk of bias in included studies
+
+A summary of the risk-of-bias assessments is reported in Figure 2.
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

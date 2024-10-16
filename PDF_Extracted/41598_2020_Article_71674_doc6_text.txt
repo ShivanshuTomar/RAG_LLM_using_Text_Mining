@@ -1,0 +1,21 @@
+# First essential host-microbe interacting proteins
+
+# Essential host-microbe interacting proteins
+
+Figure 3. Essential host-microbe interacting proteins.
+
+# Essential protein interactors of KYNU
+
+Figure 4. Essential protein interactors of KYNU.
+
+The host-microbe interactors were analysed for all the target microbial species and processed to obtain the common signatures. 43 proteins were found between all target microorganisms having interaction among themselves and with 130 human proteins.
+
+The essential host correlative targets to the microbial gene targets were followed by obtaining host essential genes and corresponding proteins from human metabolic model HMR 2. There were 1,401 essential proteins (Supplementary Table S8 online) the essential human protein was found out to be KYNU having interaction with essential microbial protein NHAA (Fig. 3). NHAA was also having interactions with non-essential HCLS1 Associated Protein X-1 (HAX1), Prolyl endopeptidase-like (PPCEL), Biogenesis of Lysosomal Organelles Complex 3 Subunit 1 (HPS1) and Eukaryotic Translation Initiation Factor 2 Alpha Kinase 1 (E2AK1) proteins of human host.
+
+KYNU was further mapped with host proteins (direct and indirect) resulting in 1994 interactions. Out of these the single connected essential protein interactions were 988 and protein interactors were 412 (Fig. 4 and see Supplementary Table S9 online). The research design here followed to assess the interaction map of essential proteins in human host to indicate the clinical insights in pathophysiological trends in the autoimmune development.
+
+# Host-microbe disease network and molecular mimicry
+
+The human essential proteome complement with its interacting proteins were analysed further as part of the disease network. 394 human essential protein interactors were found to be associated with IBD and similarly 3 essential protein interactors namely Adenosine.
+
+Scientific Reports | (2020) 10:15131 | https://doi.org/10.1038/s41598-020-71674-8

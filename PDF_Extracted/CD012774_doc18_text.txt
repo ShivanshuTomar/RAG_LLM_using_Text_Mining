@@ -1,0 +1,29 @@
+# Cochrane Library
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Figure 1. Study flow diagram.
+
+|8 citations of 4 studies included from previous version of review|8 citations of 4 studies included from previous version of review|4602 new records identified through database searching|
+|---|---|
+|3144 records after duplicates removed|3144 records after duplicates removed|3144 records screened|
+|3048 records excluded as irrelevant|44 full-text articles excluded, with reasons:| |
+| |• wrong comparator: 21| |
+| |• wrong study design: 9| |
+| |• wrong study population: 6| |
+| |• wrong intervention: 5| |
+| |• wrong length of follow-up: 2| |
+| |• study unavailable: 1| |
+|4 studies awaiting classification|29 ongoing studies| |
+|19 reports of 8 new studies included| | |
+|27 reports of 12 published studies included in qualitative synthesis|27 reports of 12 published studies included in qualitative synthesis| |
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+# Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

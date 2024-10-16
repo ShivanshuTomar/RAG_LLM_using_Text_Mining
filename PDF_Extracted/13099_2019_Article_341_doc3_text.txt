@@ -1,0 +1,27 @@
+# Alam et al. Gut Pathog (2020) 12:1
+
+# Page 4 of 8
+
+# Phylum level abundance
+
+|Sample types|Control|Crohn's Disease|Ulcerative Colitis|
+|---|---|---|---|
+|1|8|8|8|
+
+# Class level abundance
+
+|Sample types|Control|Crohn's Disease|Ulcerative Colitis|
+|---|---|---|---|
+|1|8|8|8|
+
+# Family level abundance
+
+|Sample types|Control|Crohn's Disease|Ulcerative Colitis|
+|---|---|---|---|
+|1|8|8|8|
+
+Firmicute families Ruminococcaceae, Lachnospiraceae, Veillonellaceae, Streptococcaceae and Peptostreptococcaceae were increased. The Erysipelotrichia class and Erysipelotrichaceae family were the same as the controls, whereas, three families including Acidaminococcaceae, Christensenellaceae and Lactobacillaceae, were reduced in abundance.
+
+For Bacteroidetes, which is the only reduced phylum in CD, we observed a reduced abundance in the Bactersoidia class and Bacteroidia families Bacteroidaceae and Rikenellaceae. The Prevotellaceae family, in particular, was increased in CD patients. For UC patients, the only families to change of the Bacteroidetes was the Rikenellaceae and Tannerellaceae families which were decreased in abundance, and the Prevotellaceae which increased in abundance as with CD.
+
+Finally, for the Proteobacteria phylum, we observed an imbalance in Enterobacteriaceae and Burkholderiaceae families, with the abundance level of Enterobacteriaceae increased in CD patients and decreased in UC patients compared to the controls. Burkholderiaceae abundance was increased for both CD and UC patients. Finally, for the Actinobacteria phylum, the abundance level of both the...

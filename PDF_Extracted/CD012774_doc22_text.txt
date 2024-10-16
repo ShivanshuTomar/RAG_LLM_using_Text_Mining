@@ -1,0 +1,27 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Figure 2. Risk of bias summary: review authors' judgements about each risk of bias item for each included study.
+
+|Risk of Bias Item|Březina 2021|Costello 2019|Crothers 2021|Fang 2021|Haifer 2022|Moayyedi 2015|Pai 2021|Paramsothy 2017|Rossen 2015|Sarbagili Shabat 2022|Sokol 2020|Sood 2019a| |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Random sequence generation (selection bias)|+|+|+|+|+|+|+|+|+|+|+|+|+|
+|Allocation concealment (selection bias)|?|+|+|?|+|+|+|+|+|+|+|+|?|
+|Blinding of participants and personnel (performance bias): All outcomes|−|+|+|−|+|+|−|+|+|+|+|+|+|
+|Blinding of outcome assessment (detection bias): All outcomes|+|+|+|+|+|+|+|+|+|+|+|+|+|
+|Incomplete outcome data (attrition bias): All outcomes|+|+|−|+|+|+|−|+|+|+|+|−|+|
+|Selective reporting (reporting bias)|+|+|+|+|+|+|+|+|+|+|+|+|+|
+|Other bias|+|+|+|+|+|+|+|+|+|+|+|+|+|
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+# 19
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

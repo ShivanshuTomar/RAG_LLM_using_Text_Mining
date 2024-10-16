@@ -1,0 +1,49 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Library
+
+# Better health.
+
+# Analysis 1.4. Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC)
+
+# Outcome 4: Induction of clinical remission in UC at longest follow-up: subgroup analysis by route of administration
+
+# Cochrane Database of Systematic Reviews
+
+|Study or Subgroup|FMT Events|FMT Total|Control Events|Control Total|Weight|Risk Ratio M-H, Random, 95% CI|Risk Ratio M-H, Random, 95% CI|
+|---|---|---|---|---|---|---|---|
+|1.4.1 Upper gastrointestinal|Haifer 2022|8|15|3|20|9.5%|3.56 [1.13 , 11.18]|
+| |Rossen 2015|7|23|5|25|11.1%|1.52 [0.56 , 4.13]|
+|Subtotal (95% CI)| |38| |45|20.6%|2.22 [0.97 , 5.07]| |
+|Total events:|15| |8| | | | |
+|Heterogeneity:|Tau² = 0.06; Chi² = 1.20, df = 1 (P = 0.27); I² = 17%| | | | | | |
+|Test for overall effect:|Z = 1.89 (P = 0.06)| | | | | | |
+|1.4.2 Lower gastrointestinal|Březina 2021|12|23|8|22|15.3%|1.43 [0.73 , 2.82]|
+| |Costello 2019|12|38|3|35|9.2%|3.68 [1.13 , 11.98]|
+| |Fang 2021|9|10|5|10|15.7%|1.80 [0.94 , 3.46]|
+| |Moayyedi 2015|9|38|2|37|6.9%|4.38 [1.01 , 18.94]|
+| |Pai 2021|4|13|4|12|9.5%|0.92 [0.29 , 2.89]|
+| |Paramsothy 2017|11|41|3|40|9.0%|3.58 [1.08 , 11.88]|
+| |Sarbagili Shabat 2022|6|36|6|15|11.5%|0.42 [0.16 , 1.09]|
+|Subtotal (95% CI)| |199| |171|77.1%|1.65 [0.93 , 2.92]| |
+|Total events:|63| |31| | | | |
+|Heterogeneity:|Tau² = 0.33; Chi² = 14.55, df = 6 (P = 0.02); I² = 59%| | | | | | |
+|Test for overall effect:|Z = 1.70 (P = 0.09)| | | | | | |
+|1.4.3 Mixed (upper and lower) route|Crothers 2021|2|7|0|8|2.3%|5.63 [0.31 , 100.52]|
+|Subtotal (95% CI)| |7| |8|2.3%|5.63 [0.31 , 100.52]| |
+|Total events:|2| |0| | | | |
+|Heterogeneity:|Not applicable| | | | | | |
+|Test for overall effect:|Z = 1.17 (P = 0.24)| | | | | | |
+|Total (95% CI)| |244| |224|100.0%|1.79 [1.13 , 2.84]| |
+|Total events:|80| |39| | | | |
+|Heterogeneity:|Tau² = 0.24; Chi² = 17.15, df = 9 (P = 0.05); I² = 48%| | | | | | |
+|Test for overall effect:|Z = 2.47 (P = 0.01)| | | | | | |
+| |Test for subgroup differences: Chi² = 0.91, df = 2 (P = 0.63), I² = 0%| | | | | | |
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

@@ -1,0 +1,27 @@
+# Abbas-Egbariya et al. Genome Biology (2022) 23:61
+
+# Page 10 of 23
+
+# Disease Keys
+
+- Biology
+- Cancer
+- Chronic disease
+- Leprosy
+- Diabetes Type 2
+- Heart diseases
+- Inflammation Down disease
+- Parkinson's disease
+- Schizophrenia
+- Ulcerative Colitis
+- Other diseases
+
+# Universal Dysbiosis Index (UniDI)
+
+A universal dysbiosis index (UniDI) was built on the identified 128 non-specific ASVs signal. We calculated the per-sample UniDI by rank-transforming the bacteria and computed the normalized log ratio of the sum of the ranks of the 97 health-associated and 31...
+
+# Fig. 5
+
+Disease classifier and dysbiosis index predict general microbial signal rather than disease specific signals. A Random Forest classifier heatmap, showing the disease/control prediction AUC in each disease cohorts (columns) based on training the classifier on datasets in the different rows (see methods for details). Blue indicates high prediction AUC (> 0.5) and red indicates AUC < 0.5. Training and prediction in each comparison were performed only on shared ASVs between the trained and the predicted cohorts. Squares marked in the heatmap, indicate the prediction results obtained after training of the classifier using the same cohort. B Random Forest classifier heatmap, showing the prediction AUC after performing random permutation of labels of the predicting cohort prior to the classifier prediction, to further validate the non-random results obtained in A. C Dysbiosis index per dataset was measured by two models: per-sample rank (UniDI) [5], and by using the CD dysbiosis index [2], and the resulting P-value (Mann-Whitney) after comparing disease and controls for each dataset is shown in the plot where the x-axis showing the sample-rank model (UniDI), and the y-axis showing the CD dysbiosis index [2]. For the performance evaluation, we used a leave-one-out approach. We iterated over all disease cohorts, and for each iteration, the analysis was performed while leaving out a single validation disease cohort. The up_nonspecific, down_nonspecific ASV groups were identified as described but without the validation cohort (i.e., the non-specific ASVs were identified based on 58 disease cohorts). Diseases with at least 2 cohorts were colored by a specific color, while single cohorts were all colored in gray (detailed map in Additional file 1: Fig. S5). Pink left down quadrant indicates non-significant p-value (p > 0.05) using both UniDI and CD dysbiosis index, green left upper quadrant indicates significant p-value (p < 0.05) only using CD dysbiosis index, the purple right down quadrant indicates significant p-value (p < 0.05) only using UniDI, while the larger white quadrant indicates significant p-values in both UniDI and CD dysbiosis index. All dot under the diagonal line received lower p value with UniDI while those above had a lower p value with the CD dysbiosis index.
+
+Well in identifying sick vs. healthy states but may fail to differentiate between different diseases.

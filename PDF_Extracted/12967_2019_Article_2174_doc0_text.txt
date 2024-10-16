@@ -1,0 +1,29 @@
+# Kumar et al. J Transl Med (2019) 17:419
+
+# Integrating omics for a better understanding of Inflammatory Bowel Disease: a step towards personalized medicine
+
+# Manoj Kumar, Mathieu Garand and Souhaila Al Khodor*
+
+# Abstract
+
+Background: Inflammatory Bowel Disease (IBD) is a multifactorial chronic disease. Understanding only one aspect of IBD pathogenesis does not reflect the complex nature of IBD nor will it improve its clinical management. Therefore, it is vital to dissect the interactions between the different players in IBD pathogenesis in order to understand the biology of the disease and enhance its clinical outcomes.
+
+Aims: To provide an overview of the available omics data used to assess the potential mechanisms through which various players are contributing to IBD pathogenesis and propose a precision medicine model to fill the current knowledge gap in IBD.
+
+Results: Several studies have reported microbial dysbiosis, immune and metabolic dysregulation in IBD patients, however, this data is not sufficient to create signatures that can differentiate between the disease subtypes or between disease relapse and remission.
+
+Conclusions: We summarized the current knowledge in the application of omics in IBD patients, and we showed that the current knowledge gap in IBD hinders the improvements of clinical decision for treatment as well as the prediction of disease relapse. We propose one way to fill this gap by implementing integrative analysis of various omics datasets generated from one patient at a single time point.
+
+Keywords: Crohn’s disease, Ulcerative colitis, Multi-omics, Systems biology
+
+# Background
+
+Inflammatory Bowel Disease (IBD) is an inflammatory disorder of the gastrointestinal (GI) tract, resulting from the complex interactions between genetic makeup, microbiome composition, environmental factors, and mucosal immune response [1]. IBD is characterized by the repeated alternating cycles of clinical relapse and remission [2] and in the absence of an adequate treatment, a chronic inflammation leading to irreversible intestinal damages [3]. Based on the disease manifestation, IBD is classified into three major subtypes [4]: Ulcerative Colitis (UC), which primarily affects the colon, Crohn’s disease (CD) which affects various GI sites [5], and a third subtype where histology assessments done on patients do not categorize to either UC or CD. This subtype is defined as “Inflammatory Bowel Disease, type unclassified” or “Undetermined” (IBD-U) [6, 7]. IBD is a lifelong disease that substantially reduces the quality of life for the patients and their families [8].
+
+Although the first case of UC was reported in Europe in 1875 [9] and CD was first reported in USA in 1932 [10], IBD was still a rare disease until the second half of the 20th century. Post-World War II, a rapid increase in the incidence of UC and CD had been reported, with more than 5 million people affected worldwide [11–13]. This drastic increase in IBD patterns suggest that other factors aside from industrialization must be involved in driving.
+
+*Correspondence: salkhodor@sidra.org
+
+Research Department, Sidra Medicine, Doha, Qatar
+
+© The Author(s) 2019. This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.

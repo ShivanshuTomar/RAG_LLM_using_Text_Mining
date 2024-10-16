@@ -1,0 +1,29 @@
+# Stratification of human gut microbiomes by succinotype is associated with inflammatory bowel disease status
+
+# Christophe Lacroix, Philipp Rogalla von Bieberstein, Laura Anthamatten, Tomas de Wouters, Gabriel E. Leventhal, Carmen Menzi, Janina N. Zünd
+
+# Abstract
+
+Background: The human gut microbiome produces and consumes a variety of compounds that interact with the host and impact health. Succinate is of particular interest as it intersects with both host and microbiome metabolism. However, which gut bacteria are most responsible for the consumption of intestinal succinate is poorly understood.
+
+Results: We build upon an enrichment-based whole fecal sample culturing approach and identify two main bacterial taxa that are responsible for succinate consumption in the human intestinal microbiome, Phascolarctobacterium and Dialister. These two taxa have the hallmark of a functional guild and are strongly mutual exclusive across 21,459 fecal samples in 94 cohorts and can thus be used to assign a robust “succinotype” to an individual. We show that they differ with respect to their rate of succinate consumption in vitro and that this is associated with higher concentrations of fecal succinate. Finally, individuals suffering from inflammatory bowel disease (IBD) are more likely to have the Dialister succinotype compared to healthy subjects.
+
+Conclusions: We identified that only two bacterial genera are the key succinate consumers in human gut microbiome, despite the fact that many more intestinal bacteria encode for the succinate pathway. This highlights the importance of phenotypic assays in functionally profiling intestinal microbiota. A stratification based on “succinotype” is to our knowledge the first function-based classification of human intestinal microbiota. The association of succinotype with IBD thus builds a bridge between microbiome function and IBD pathophysiology related to succinate homeostasis.
+
+# Correspondence:
+
+Tomas de Wouters: t.dewouters@pharmabiome.com
+
+Gabriel E. Leventhal: g.leventhal@pharmabiome.com
+
+# Affiliations:
+
+1PharmaBiome AG, Schlieren, Switzerland
+
+2Laboratory of Food Biotechnology, Institute of Food, Nutrition and Health, ETH Zurich, Zurich, Switzerland
+
+# Introduction
+
+The intestinal microbiome interacts with its host through the production and consumption of physiologically relevant metabolites [1]. This overall microbiome metabolic activity emerges from the individual activity of the member microbes, and thus the overall metabolic output can vary depending on the specific microbiome composition [2]. Screening for and controlling the specific microbes that are the drivers of these activities is a promising diagnostic and intervention target. However, which
+
+© The Author(s) 2024. Open Access This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by-nc-nd/4.0/.

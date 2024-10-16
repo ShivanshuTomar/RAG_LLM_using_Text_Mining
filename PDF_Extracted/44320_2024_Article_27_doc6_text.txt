@@ -1,0 +1,70 @@
+# Molecular Systems Biology
+
+# Amrisha Bhosle et al
+
+# Chemical subclass or class*
+
+| |CD-dys enriched|UC enriched|CD-dys depleted|UC depleted|
+|---|---|---|---|---|
+|Abundance vs anchor (AVA)|AVA ≥ 100|100|AVA ≥ 10|50|
+| |AVA ≥ 1| |1 > AVA ≥ 0.5|0|
+|Perturbation type|CD-dys+UC depleted|75|CD-dys|UC depleted| |
+| |CD-dys+UC enriched|50|CD-dys|UC enriched| |
+|Features (%)|CD-dys depleted; UC enriched|25|CD-dys enriched; UC depleted| |
+| |none|0| | |
+
+|Chemical Subclass or Class|Count|
+|---|---|
+|1-benzopyrans|6|
+|Benzenediols|7|
+|Pyridoindoles|9|
+|Furanones|24|
+|Methoxyphenols|7|
+|Gamma-keto acids and derivatives|406|
+|Biotin and derivatives*|5754|
+|Steroids and steroid derivatives|3293|
+|Polyols|3342|
+|Alkaloids and derivatives|1|
+|Xylenes|40|
+|Pyrimidine nucleosides*|16|
+|Purine 2'-deoxyribonucleosides|20|
+|Nucleoside and nucleotide analogues*|25|
+|Alloxazines and isoalloxazines|55|
+|Pyrimidines and pyrimidine derivatives|82|
+|Purines and purine derivatives|128|
+|Pyridinecarboxylic acids and derivatives| |
+|Aniline and substituted anilines|231|
+|Benzoic acids and derivatives|232|
+|Styrenes|313|
+|Phenylpropanoic acids*| |
+|Quaternary ammonium salts|10|
+|Glycerophosphocholines|39|
+|Carboxylic acid derivatives|42|
+|Carboximidic acids|69|
+|Glycerophosphoethanolamines|85|
+|Phosphosphingolipids|108|
+|Aminoxides|119|
+|Guanidines| |
+|Tricarboxylic acids and derivatives|129|
+|Fatty acid esters|157|
+|Organosulfonic acids and derivatives|170|
+|Imidazoles|217|
+|Amines|239|
+|Bile acids alcohols and derivatives|254|
+|Purine nucleosides*|269|
+|Carbohydrates and carbohydrate conjugates|274|
+|Bilirubins|280|
+|Amino acids peptides and analogues| |
+|Dicarboxylic acids and derivatives|10|
+|Beta hydroxy acids and derivatives| |
+|Fatty acids and conjugates|3942|
+
+# IBD-relevant modules
+
+Figure 3. Potential novel bioactives in IBD span diverse chemical classes and ecological patterns.
+
+(A) Top: 40 modules where ≥25% metabolic features were significantly perturbed in at least one of the four categories i.e., (1) CD-dysbiosis (CD-dys) enriched, (2) UC enriched, (3) CD-dys depleted, or (4) UC depleted, were labeled IBD-relevant. A majority of metabolic features in each module were enriched or depleted in either CD-dys or UC. Modules were categorized into four types depending on both the direction of perturbation and the disease arm of their differentially abundant metabolic features (labeled at top). Almost all modules contained >1 features similarly perturbed (enriched or depleted) in both disease arms (CD-dys + UC). Few features across different modules showed contrasting behaviors among disease arms. Bottom: Chemical taxonomy of the standards was used to determine the subclasses or classes* associated with IBD-relevant modules. A majority of subclasses/classes* were associated with a single, highly dominant direction of perturbation. (B) Abundance versus anchor (AVA) of metabolic features in IBD-relevant modules: Each module contained features that were at least 10% as abundant as the most abundant co-clustered standard (i.e., anchor metabolite). Unidentified features that appear to be as or more ecologically relevant than the standard (AVA ≥ 1) were observed in 28 modules.
+
+Notably, a curated list of 36 standard metabolites previously published as CD associated were well-predicted by MACARRoN’s prioritization (AUC: 0.893, Dataset EV8) (Franzosa et al, 2019; Gallagher et al, 2021). These CD-linked metabolites were distributed across a small subset of 15 modules, each also containing highly prioritized unannotated metabolic features that often outranked the standards themselves (Fig. 4A). Several of these unannotated features also differed from co-clustered standards by small mass-differences (median |Δm/z | = 27.98), indicating potential derivatives or conjugates. This distribution is thus supportive of the methodology, since known immunomodulatory metabolites were included, but also suggested that novel derivatives within various metabolite classes could be equally or more important in disease. Significantly, we observed prioritization of recently identified derivatives of lithocholic acid (Paik et al, 2022) and cholic acid (Quinn et al, 2020). Isolithocholic acid, a modulator of T H 17 response in CD, was very highly prioritized (priority score: 0.959) and anchored by lithocholic acid in module 274. Similarly, three amino acid conjugates of cholate, anchored by cholate in module 24, were moderately- and highly prioritized in CD (priority scores—leucocholic acid: 0.746, tyrosocholic acid: 0.663, and phenylalanocholic acid: 0.789) (Fig. 4A; Dataset EV7).
+
+© The Author(s)

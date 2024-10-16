@@ -1,0 +1,31 @@
+# Meta-analysis defines predominant shared microbial responses in various diseases and a specific inflammatory bowel disease signal
+
+# Haya Abbas‑Egbariya1†, Yael Haberman1,2*†, Amnon Amir 1*, Tzipi Braun1, Rotem Hadar1, Lee Denson 2, Ohad Gal‑Mor 3
+
+*Correspondence: Yael.Haberman@sheba.health.gov.il; yael.haberman@cchmc.org; amnonim@gmail.com
+
+Haya Abbas‑Egbariya and Yael Haberman have equal contributions.
+
+Sheba Medical Center, Tel‑HaShomer, affiliated with the Tel‑Aviv University, Tel Aviv, Israel
+
+Full list of author information is available at the end of the article
+
+# Abstract
+
+# Background:
+
+Gut microbial alteration is implicated in inflammatory bowel disease but is noted in other diseases. Systematic comparison to define similarities and specificities is hampered since most studies focus on a single disease.
+
+# Results:
+
+We develop a pipeline to compare between disease cohorts starting from the raw V4 16S amplicon sequence variants. Including 12,838 subjects, from 59 disease cohorts, we demonstrate a predominant shared signature across diseases, indicating a common bacterial response to different diseases. We show that classifiers trained on one disease cohort predict relatively well other diseases due to this shared signal, and hence, caution should be taken when using such classifiers in real‑world scenarios, where diseases are intermixed. Based on this common signature across a large array of diseases, we develop a universal dysbiosis index that successfully differentiates between cases and controls across various diseases and can be used for prioritizing fecal donors and samples with lower disease probability. Finally, we identify a set of IBD‑specific bacteria, which can direct mechanistic studies and design of IBD‑specific microbial interventions.
+
+# Conclusions:
+
+A robust non‑specific general response of the gut microbiome is detected in a large array of diseases. Disease classifiers may confuse between different diseases due to this shared microbial response. Our universal dysbiosis index can be used as a tool to prioritize fecal samples and donors. Finally, the IBD‑specific taxa may indicate a more direct association to gut inflammation and disease pathogenesis, and those can be further used as biomarkers and as future targets for interventions.
+
+# Keywords:
+
+Gut microbiome, Crohn’s disease, Ulcerative colitis, 16S amplicon, Meta‑analyses
+
+© The Author(s) 2022. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.

@@ -1,0 +1,44 @@
+# References
+
+1. Ocansey et al. Clin Trans Med (2019) 8:31 Page 16 of 17
+2. Sepsis in mice in part by enhancing the phagocytic activity of blood monocytes. Am J Physiol Cell Mol Physiol 302:L1003–L1013. https://doi.org/10.1152/ajplung.00180.2011
+3. Mei S, Haitsma J, Dos Santos C et al (2010) Mesenchymal stem cells reduce inflammation while enhancing bacterial clearance and improving survival in sepsis. Am J Respir Crit Care Med 182:1047–1057
+4. Nemeth K, Leelahavanichkul A, Yuen P et al (2009) Bone marrow stromal cells attenuate sepsis via prostaglandin E2-dependent reprogramming of host macrophages to increase their interleukin-10 production. Nat Med 15:42–49
+5. Brandau S, Jakob M, Bruderek K et al (2014) Mesenchymal stem cells augment the antibacterial activity of neutrophil granulocytes. PLoS ONE 9:e114201
+6. Harman RM, Yang S, He MK, Van de Walle GR (2017) Antimicrobial peptides secreted by equine mesenchymal stromal cells inhibit the growth of bacteria commonly found in skin wounds. Stem Cell Res Ther 8:157. https://doi.org/10.1186/s13287-017-0610-6
+7. Johnson V, Webb T, Norman A et al (2017) Activated mesenchymal stem cells interact with antibiotics and host innate immune responses to control chronic bacterial infections. Sci Rep 7:9575. https://doi.org/10.1038/s41598-017-08311-4
+8. Kościuczuk E, Lisowski P, Jarczak J et al (2012) Cathelicidins: family of antimicrobial peptides, a review. Mol Biol Rep 39:10957–10970
+9. Gupta N, Krasnodembskaya A, Kapetanaki M et al (2012) Mesenchymal stem cells enhance survival and bacterial clearance in murine Escherichia coli pneumonia. Thorax 67:533–539
+10. Sung D, Chang Y, Sung S et al (2016) Antibacterial effect of mesenchymal stem cells against Escherichia coli is mediated by secretion of beta-defensin-2 via toll-like receptor 4 signaling: antibacterial effects of MSCs via beta defensin-2. Cell Microbiol 18:424–436
+11. Kurashima Y, Yamamoto D, Nelson S et al (2017) Mucosal mesenchymal cells: secondary barrier and peripheral educator for the gut immune system. Front Immunol. https://doi.org/10.3389/fimmu.2017.01787
+12. Akira S, Uematsu S, Takeuchi O (2006) Pathogen recognition and innate immunity. Cell 124:783–801
+13. Vijay-Kumar M, Aitken JD, Carvalho FA et al (2010) Metabolic syndrome and altered gut microbiota in mice lacking toll-like receptor 5. Science (80−) 328:228–231. https://doi.org/10.1126/science.1179721
+14. Liotta F, Angeli R, Cosmi L et al (2008) Toll-like receptors 3 and 4 are expressed by human bone marrow-derived mesenchymal stem cells and can inhibit their T-cell modulatory activity by impairing Notch signaling. Stem Cells 26:279–289. https://doi.org/10.1634/stemcells.2007-0454
+15. Shirjang S, Mansoori B, Solali S et al (2017) Toll-like receptors as a key regulator of mesenchymal stem cell function: an up-to-date review. Cell Immunol 315:1–10. https://doi.org/10.1016/j.cellimm.2016.12.005
+16. Yiu JHC, Dorweiler B, Woo CW (2017) Interaction between gut microbiota and toll-like receptor: from immunity to metabolism. J Mol Med (Berl) 95:13–20. https://doi.org/10.1007/s00109-016-1474-4
+17. Atarashi K, Tanoue T, Oshima K et al (2013) Treg induction by a rationally selected mixture of Clostridia strains from the human microbiota. Nature 500:232–236
+18. Littman D, Rudensky A (2010) Th17 and regulatory T cells in mediating and restraining inflammation. Cell 140:845–858
+19. Sokol H, Pigneur B, Watterlot L et al (2008) Faecalibacterium prausnitzii is an anti-inflammatory commensal bacterium identified by gut microbiota analysis of Crohn disease patients. Proc Natl Acad Sci USA 105:16731–16736
+20. Miquel S, Leclerc M, Martin R et al (2015) Identification of metabolic signatures linked to anti-inflammatory effects of Faecalibacterium prausnitzii. MBio. https://doi.org/10.1128/mBio.00300-15
+21. Sarrabayrouse G, Bossard C, Chauvin J-M et al (2014) CD4CD8αα lymphocytes, a novel human regulatory T cell subset induced by colonic bacteria and deficient in patients with inflammatory bowel disease. PLoS Biol 12:e1001833. https://doi.org/10.1371/journal.pbio.1001833
+22. Quévrain E, Maubert MA, Michon C et al (2016) Identification of an anti-inflammatory protein from Faecalibacterium prausnitzii, a commensal bacterium deficient in Crohn’s disease. Gut 65:415–425. https://doi.org/10.1136/gutjnl-2014-307649
+23. Parekkadan B, Upadhyay R, Dunham J, Iwamoto Y (2011) Bone marrow stromal cell transplants prevent experimental enterocolitis and require host CD11b+ splenocytes. Gastroenterology 140:966–975
+24. Chao K, Zhang S, Yao J, He Y (2014) Imbalances of CD4(+) T-cell subgroups in Crohn’s disease and their relationship with disease activity and prognosis. J Gastroenterol Hepatol 29:1808–1814
+25. Pouya S, Heidari M, Baghaei K, Asadzadeh Aghdaei H (2018) Study the effects of mesenchymal stem cell conditioned medium injection in mouse model of acute colitis. Int Immunopharmacol 54:86–94. https://doi.org/10.1016/j.intimp.2017.11.001
+26. Liang L, Dong C, Chen X, Fang Z (2011) Human umbilical cord mesenchymal stem cells ameliorate mice trinitrobenzene sulfonic Acid (TNBS)-induced colitis. Cell Transplant 20:1395–1408. https://doi.org/10.3727/096368910X557245
+27. Akiyama K, Chen C, Wang D, Xu X (2012) Mesenchymal-stem-cell-induced immunoregulation involves FAS-ligand-/FAS-mediated T cell apoptosis. Cell Stem Cell 10:544–555
+28. Abdel Salam AG, Ata HM, Salman TM, Rashed LA (2014) Potential therapeutic utility of mesenchymal stem cells in inflammatory bowel disease in mice. Int Immunopharmacol 22:515–521. https://doi.org/10.1016/j.intimp.2014.07.030
+29. Solchaga LA, Zale EA (2012) Prostaglandin E2: a putative potency indicator of the immunosuppressive activity of human mesenchymal stem cells. Am J Stem Cells 1:138–145
+30. Fawzy SA, El-Din Abo-Elnou RK, Abd-El-Maksoud El-Deeb DF, Yousry Abd-Elkader MM (2013) The possible role of mesenchymal stem cells therapy in the repair of experimentally induced colitis in male albino rats. Int J stem cells 6:92–103
+31. Gong W, Guo M, Han Z et al (2016) Mesenchymal stem cells stimulate intestinal stem cells to repair radiation-induced intestinal injury. Cell Death Dis 7:e2387. https://doi.org/10.1038/cddis.2016.276
+32. La Francesca S, Aho JM, Barron MR et al (2018) Long-term regeneration and remodeling of the pig esophagus after circumferential resection using a retrievable synthetic scaffold carrying autologous cells. Sci Rep 8:4123. https://doi.org/10.1038/s41598-018-22401-x
+33. Chen Q, Yan L, Wang C, Wang W (2013) Mesenchymal stem cells alleviate TNBS-induced colitis by modulating inflammatory and autoimmune responses. World J Gastroenterol 19:4702–4717
+34. Hinz B (2016) Myofibroblasts. Exp Eye Res 142:56–70. https://doi.org/10.1016/j.exer.2015.07.009
+35. Roulis M, Flavell RA (2016) Fibroblasts and myofibroblasts of the intestinal lamina propria in physiology and disease. Differentiation 92:116–131. https://doi.org/10.1016/j.diff.2016.05.002
+36. de Lau W, Kujala P, Schneeberger K et al (2012) Peyer’s patch M cells derived from Lgr5 + stem cells require SpiB and are induced by RankL in cultured “Miniguts”. Mol Cell Biol 32:3639–3647. https://doi.org/10.1128/MCB.00434-12
+37. Knoop KA, Kumar N, Butler BR et al (2009) RANKL is necessary and sufficient to initiate development of antigen-sampling M cells in the intestinal epithelium. J Immunol 183:5738–5747. https://doi.org/10.4049/jimmunol.0901563
+38. Nigro G, Rossi R, Commere P et al (2014) Short article the cytosolic bacterial peptidoglycan sensor Nod2 affords stem cell protection and links microbes to gut epithelial regeneration. Cell Host Microbe 15:792–798. https://doi.org/10.1016/j.chom.2014.05.003
+39. Neal M, Sodhi C, Jia H et al (2012) Toll-like receptor 4 is expressed on intestinal stem cells and regulates their proliferation and apoptosis via the p53 up-regulated modulator of apoptosis. J Biol Chem 287:37296–37308
+40. Oprita R, Bratu M, Oprita B, Diaconescu B (2016) Fecal transplantation–the new, inexpensive, safe, and rapidly effective approach in the treatment of gastrointestinal tract diseases. J Med Life 9:160–162
+41. Kang D-W, Adams JB, Gregory AC et al (2017) Microbiota Transfer Therapy alters gut ecosystem and improves gastrointestinal and autism symptoms: an open-label study. Microbiome 5:10. https://doi.org/10.1186/s40168-016-0225-7
+42. Frank DN, Amand ALS, Feldman RA et al (2007) Molecular-phylogenetic characterization of microbial community imbalances in human inflammatory bowel diseases. Proc Natl Acad Sci USA 140:13780–13785

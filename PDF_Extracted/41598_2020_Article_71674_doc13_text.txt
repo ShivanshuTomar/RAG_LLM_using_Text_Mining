@@ -1,0 +1,54 @@
+# Scientific Reports
+
+# (2020) 10:15131
+
+# https://doi.org/10.1038/s41598-020-71674-8
+
+# References
+
+1. Siala, M. et al. MHC class I and class II genes in Tunisian patients with reactive and undifferentiated arthritis. Clin. Exp. Rheumatol. 27, 208–213 (2009).
+2. Shimamoto, Y., Sugiyama, H. & Hirohata, S. Reiter’s syndrome associated with HLAB51. Intern. Med. J. 39, 182–184 (2017).
+3. Alvarez-Navarro, C. et al. Novel HLA-B27-restricted epitopes from chlamydia trachomatis generated upon endogenous processing of bacterial proteins suggest a role of molecular mimicry in reactive arthritis. J. Biol. Chem. 288, 25810–25825 (2013).
+4. Sartor, R. B. Mechanisms of disease: pathogenesis of Crohn’s disease and ulcerative colitis. Nat. Clin. Pract. Gastroenterol. Hepatol. 3, 390–407 (2006).
+5. Kosiewicz, M. M. et al. Th1-type responses mediate spontaneous ileitis in a novel murine model of Crohn’s disease. J. Clin Invest. 107, 695–702 (2001).
+6. Elicabe, R. J. et al. Lack of TNFR p55 results in heightened expression of IFN-γ and IL-17 during the development of reactive arthritis. J. Immunol. 185, 4485–4495 (2010).
+7. Pöllänen, R. et al. Microbial antigens mediate HLA-B27 diseases via TLRs. J. Autoimmun. 32, 172–177 (2009).
+8. Neish, A. S. Microbes in gastrointestinal health and disease. Gastroenterology 136, 65–80 (2009).
+9. Ahvonen, P., Sievers, K. & Aho, K. Arthritis associated with Yersinia enterocolitica infection. Acta Rheumatol. Scand. 15, 232–253 (1969).
+10. Braun, J. et al. Chlamydia pneumoniae—a new causative agent of reactive arthritis and undifferentiated oligoarthritis. Ann. Rheum. Dis. 53, 100–105 (1994).
+11. Kumar, P., Bhakuni, D. S. & Rastogi, S. Diagnosis of Chlamydia trachomatis in patients with reactive arthritis and undifferentiated spondyloarthropathy. J. Infect. Dev. Ctries. 8, 648–654 (2014).
+12. Granfors, K. et al. Salmonella lipopolysaccharide in synovial cells from patients with reactive arthritis. Lancet. 335, 685–688 (1990).
+13. Singh, A. & Karrar, S. The role of intracellular organisms in the pathogenesis of inflammatory arthritis. Int. J. Inflamm. 2014, 158793 (2014).
+14. Kumar, P., Khanna, G., Batra, S., Sharma, V. K. & Rastogi, S. A Pilot Study for detection of intra-articular chromosomal and extra chromosomal genes of chlamydia trachomatis among genitourinary reactive arthritis patients in India. ISCA 1, 16–20 (2013).
+15. Ebright, J. R. & Ryan, L. M. Acute erosive reactive arthritis associated with Campylobacter jejuni-induced colitis. Am. J. Med. 76, 321–323 (1984).
+16. Zautner, A. E. et al. Seroprevalence of campylobacteriosis and relevant post-infectious sequelae. Eur. J. Clin. Microbiol. Infect. Dis. 33, 1019–1027 (2014).
+17. Bodkhe, R., Balakrishnan, B. & Taneja, V. The role of microbiome in rheumatoid arthritis treatment. Ther. Adv. Musculoskelet. Dis. 11, 1759720X19844632 (2019).
+18. Firestein, G. S. & McInnes, I. B. Immunopathogenesis of rheumatoid arthritis. Immunity 46, 183–196 (2017).
+19. Chaurasia, S., Shasany, A. K., Aggarwal, A. & Misra, R. Recombinant Salmonella typhimurium outer membrane protein A is recognized by synovial fluid CD8 cells and stimulates synovial fluid mononuclear cells to produce interleukin (IL)-17/IL-23 in patients with reactive arthritis and undifferentiated spondyloarthropathy. Clin. Exp. Immunol. 185, 210–218 (2016).
+20. Saxena, S., Aggarwal, A. & Misra, R. Outer membrane protein of salmonella is the major antigenic target in patients with salmonella induced reactive arthritis. J. Rheumatol. 32, 86–92 (2005).
+21. Ugrinovic, S., Mertz, A., Wu, P., Braun, J. & Sieper, J. A single nonamer from the Yersinia 60-kDa heat shock protein is the target of HLA-B27-restricted CTL response in Yersinia-induced reactive arthritis. J. Immunol. 159, 5715–5723 (1997).
+22. Appel, H., Mertz, A., Distler, A., Sieper, J. & Braun, J. The 19 kDa protein of Yersinia enterocolitica O: 3 is recognized on the cellular and humoral level by patients with Yersinia induced reactive arthritis. J. Rheumatol. 26, 1964–1971 (1999).
+23. Probst, P., Hermann, E., zum Büschenfelde, K. M. & Fleischer, B. Identification of the Yersinia enterocolitica urease beta subunit as a target antigen for human synovial T lymphocytes in reactive arthritis. Infect. Immun. 61, 4507–4509 (1993).
+24. Stieglitz, H. & Lipsky, P. Association between reactive arthritis and antecedent infection with shigella flexneri carrying a 2-md plasmid and encoding an hla-b27 mimetic epitope. Arthritis Rheum. 36, 1387–1391 (1993).
+25. Singh, M. et al. Role of 30 kDa antigen of enteric bacterial pathogens as a possible arthritogenic factor in post-dysenteric reactive arthritis. Indian. J. Pathol. Microbiol. 56, 231 (2013).
+26. De Luca, F. & Shoenfeld, Y. The microbiome in autoimmune diseases. Clin. Exp. Immunol. 195, 74–85 (2019).
+27. Antunes, L. C. M. et al. Antivirulence activity of the human gut metabolome. mBio 5, e01183-14 (2014).
+28. Kho, Z. Y. & Lal, S. K. The human gut microbiome—a potential controller of wellness and disease. Front. Microbiol. 9, 1835 (2018).
+29. Savolainen, E. et al. Prevalence of antibodies against Chlamydia trachomatis and incidence of C. trachomatis-induced reactive arthritis in an early arthritis series in Finland in 2000. Scand. J. Rheumatol. 38, 353–356 (2009).
+30. Pope, J. E., Krizova, A., Garg, A. X., Thiessen-Philbrook, H. & Ouimet, J. M. Campylobacter reactive arthritis: a systematic review. Semin. Arthritis Rheum. 37, 48–55 (2007).
+31. Mukherjee, S. & Kar, M. Reactive arthritis: current perspectives. JIACM 1, 233–238 (2000).
+32. Li, B., Selmi, C., Tang, R., Gershwin, M. E. & Ma, X. The microbiome and autoimmunity: a paradigm from the gut–liver axis. Cell Mol. Immunol. 15, 595–609 (2018).
+33. Lazar, V. et al. Aspects of gut microbiota and immune system interactions in infectious diseases, immunopathology and cancer. Front. Immunol. 9, 1830 (2018).
+34. Cheung, S. et al. Systematic review of gut microbiota and major depression. Front. Psychiatry 10, 34 (2019).
+35. Horgan, R. P. & Kenny, L. C. SAC review ‘Omic’ technologies: proteomics and metabolomics learning objectives: ethical issues. Obstet. Gynecol. 13, 189–195 (2011).
+36. Metris, A., Reuter, M., Gaskin, D. J. H., Baranyi, J. & van Vliet, A. H. M. In vivo and in silico determination of essential genes of Campylobacter jejuni. BMC Genomics 12, 1–14 (2011).
+37. Thiele, I. et al. A community-driven global reconstruction of human metabolism. Nat. Biotechnol. 31, 415–427 (2013).
+38. Suzuki, S. et al. Systems analysis of inflammatory bowel disease based on comprehensive gene information. BMC Med. Genet. 13, 25 (2012).
+39. Asadzadeh-Aghdaee, H. et al. Introduction of inflammatory bowel disease biomarkers panel using protein–protein interaction (PPI) network analysis. Gastroenterol. Hepatol. Bed Bench 9, S8–S13 (2016).
+40. Liao, Y. C., Tsai, M. H., Chen, F. C. & Hsiung, C. A. GEMSiRV: a software platform for GEnome-scale metabolic model simulation, reconstruction and visualization. Bioinformatics 28, 1752–1758 (2012).
+41. Gasteiger, E. et al. ExPASy: the proteomics server for in-depth protein knowledge and analysis. Nucleic Acids Res. 31, 3784–3788 (2003).
+42. Sharma, M. et al. A systematic reconstruction and constraint-based analysis of Leishmania donovani metabolic network: identification of potential antileishmanial drug targets. Mol. BioSyst. 277, 38245–38253 (2017).
+43. El-Semman, I. E. et al. Genome-scale metabolic reconstructions of Bifidobacterium adolescentis L2–32 and Faecalibacterium prausnitzii A2–165 and their interaction. BMC Syst. Biol. 8, 1–11 (2014).
+44. Schellenberger, J. et al. Quantitative prediction of cellular metabolism with constraint-based models: the COBRA Toolbox v2.0. Nat. Protoc. 6, 1290–1307 (2011).
+45. Bartell, J. A. et al. Reconstruction of the metabolic network of Pseudomonas aeruginosa to interrogate virulence factor synthesis. Nat. Commun. 8, 14631 (2017).
+46. Wattam, A. R. et al. PATRIC, the bacterial bioinformatics database and analysis resource. Nucleic Acids Res. 42, D581–D591 (2014).

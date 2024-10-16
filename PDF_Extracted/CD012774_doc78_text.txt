@@ -1,0 +1,57 @@
+# Cochrane Library
+
+# Cochrane Database of Systematic Reviews
+
+# NCT03483246 (Continued)
+
+# Inclusion criteria
+
+- Currently active (PMC > 1) and planned to be treated by systemic corticosteroids (minimum prednisone equivalent 40 mg daily) OR
+- Currently treated by systemic corticosteroid (minimum prednisone equivalent 40 mg daily) within maximum 3 weeks OR
+- Steroid-dependency (≥ 1 unsuccessful attempt to discontinue steroid within the last 6 months before inclusion)
+- Health insurance (AME excepted)
+- Informed written consent
+- For females of childbearing age: active birth control during at least period of treatment until the end of active follow-up period (week 24)
+
+# Exclusion criteria
+
+- UC complication requiring surgical treatment
+- Treatment with high-dose corticosteroid > 3 weeks before inclusion (prednisone equivalent ≥ 40 mg daily) except in case of steroid-dependence
+- Contraindication to colonoscopy or anesthesia
+- Pregnancy or breastfeeding during study
+- Treatment preceding the colonoscopy with:
+- infliximab or vedolizumab or ustekinumab (< 6 weeks before planned date of colonoscopy) or adalimumab (< 2 weeks before planned date of colonoscopy) or golimumab or tofacitinib (< 4 weeks before planned date of colonoscopy), or a combination of these
+- immunosuppressant (thiopurine, methotrexate, tacrolimus, or other classical immunosuppressant) started or stopped < 3 months before planned date of colonoscopy
+- antibiotic, antifungic, or probiotic treatment < 4 weeks before planned date of colonoscopy
+- Participation in any other interventional study
+- People under legal protection
+
+# Interventions
+
+# Experimental arm
+
+- FMT 3 times after inclusion and randomization
+
+# Control arm
+
+- Sham transplantation 3 times after inclusion and randomization
+
+# Outcomes
+
+# Primary outcome
+
+- Steroid-free clinical and endoscopic remission (defined as Total Mayo score ≤ 2 and no subscore > 1; mucosal healing defined as endoscopic subscore 0 or 1 via sigmoidoscopy) at week 12 after FMT or sham
+
+# Secondary outcomes
+
+- Steroid-free clinical remission (Partial Mayo Clinic score 0 or 1) at weeks 12 and 24 after FMT or sham
+- Steroid-free endoscopic response (Mayo Endoscopy subscore ≤ 1, with reduction of ≥ 1 point from baseline) at week 12 after FMT or sham
+- Steroid-free endoscopic remission (Endoscopic Mayo Clinic score of 0) at week 12 after FMT or sham
+- Microbiota composition and diversity (assessed by 16s sequencing compared to baseline and donor microbiota) at weeks 12 and 24 after FMT or sham
+- Proportion of adverse events (abdominal pain, nausea, vomiting, fever, modified intestinal transit, episode of infection) in each group through study completion, up to 25 months and 1 week
+- Inflammatory biologic parameters (CRP, fecal calprotectin, platelet count) up to week 24
+- Endoscopic lesions at colonoscopy and sigmoidoscopy by Endoscopic Mayo score at week 12 after FMT or sham
+
+Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

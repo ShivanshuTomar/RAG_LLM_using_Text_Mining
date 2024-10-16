@@ -1,0 +1,22 @@
+# Results
+
+# Characterization of MMTV infection in IL‑10−/− mice
+
+While deriving evidence of MMTV infection in AMA- producing mouse models with immune defects and spontaneous inflammatory disease [13], we observed increased expression of MMTV RNA in lymphoid tissues of IL-10−/− mice, more so than the SvEv WT. In the present study, we directly addressed the question of whether the IL-10−/− model expressed increased MMTV RNA in the colon using RT-qPCR and observed approximately a tenfold increase in colon MMTV RNA in the IL-10−/− as compared to the SvEv WT (Fig. 1A).
+
+As neonatal mice make poor humoral responses to MMTV infection [17], we sought evidence of cellular immune responses to MMTV instead. For these studies, we examined production of the pro-inflammatory cytokine IFN-γ in both the SvEv WT and the IL-10−/− mice by stimulating splenocytes with overlapping MMTV Gag peptides (Supplementary Table 1). We found the IL-10−/− mice demonstrated a slight increase in IFN-γ response production at baseline, and therefore, the stimulation studies were normalized by subtracting the background cytokine levels (Fig. 1B). Following stimulation with MMTV Gag peptides, splenocytes from IL-10−/− secreted increased levels of IFN-γ as compared to the SvEv WT (0.97 vs. 0.10 pg/5174).
+
+# Fig. 1 Increased viral load and immune responses to MMTV in IL-10 − / − and SvEv WT mouse.
+
+A RT-PCR of colon RNA shows increased relative MMTV copy number in IL-10 − / − vs. SvEv colon (relative units; **p = 0.004, Mann–Whitney test).
+
+B Interferon-γ release assay showing increased production in the IL-10 − / − vs. SvEv splenocytes without any stimulus (nil) and following stimulation with either MMTV Gag peptides or PMA/ionomycin (mean ± SEM, Gag, and PMA levels normalized to background production; *p = 0.05, **p = 0.002, unpaired t-test).
+
+|A|B|
+|---|---|
+|3|2.5|
+|1|2.0|
+|2|1.5|
+|2|1.0|
+|0| |
+|SvEv WT|Gag PMA|

@@ -1,0 +1,74 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Library
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# NCT03110289 (Continued)
+
+# Exclusion criteria
+
+- Significant immunosuppression (e.g. HIV and other infectious diseases, bone marrow malignancies, liver cirrhosis)
+- Use of topical therapy and trial medications, systemic chemotherapy, antibiotics in the prior 4 weeks
+- History of surgery (total colectomy, presence of stoma or ileo-anal pouch)
+- Presence of intra-abdominal fistula, colon carcinoma, diverticulitis
+- Steroid dependence requiring > 15 mg of methylprednisolone 2 weeks before participation
+- Diagnosis of CD or indeterminate colitis
+- Pregnancy
+
+# Interventions
+
+# Experimental arm
+
+- "Super-donor" FMT via sigmoidoscopy at baseline, then "rectal instillation" at weeks 1–3
+
+# Control arm
+
+- Autologous FMT via sigmoidoscopy at baseline, then "rectal instillation" at weeks 1–3
+
+# Outcomes
+
+# Primary outcomes
+
+- Steroid-free clinical remission at week 8 (total Mayo score ≤ 2, with all Mayo subscores ≤ 1)
+- Steroid-free endoscopic remission or response at week 8 (≥ 1-point reduction from baseline in endoscopy subscore)
+
+# Secondary outcomes
+
+- Changes in calprotectin and CRP before and after FMT at week 8
+- Steroid-free clinical remission at week 8 (combined Mayo subscores of ≤ 1 for Rectal Bleeding + Stool Frequency)
+- Steroid-free clinical response at week 8 (Mayo score decrease ≥ 3 points, ≥ 50% reduction from baseline in combined Rectal Bleeding + Stool Frequency Mayo subscores, or both)
+- Steroid-free endoscopic response at week 8 (Mayo Endoscopic subscore ≤ 1, with reduction ≥ 1 point from baseline)
+- Steroid-free endoscopic remission at week 8 (Mayo Endoscopic subscore 0 or 1)
+
+# Starting date
+
+# Contact information
+
+# Notes
+
+# NCT03273465
+
+# Study name
+
+Fecal microbiota transplantation in ulcerative colitis
+
+# Methods
+
+RCT conducted in Israel
+
+# Participants
+
+# Inclusion criteria
+
+- Adequate birth control (hormonal or barrier method; abstinence) prior to study entry and for duration of participation: participants of childbearing potential must show negative urine pregnancy test
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

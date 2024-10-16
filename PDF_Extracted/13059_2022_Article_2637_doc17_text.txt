@@ -1,0 +1,19 @@
+# Calculation of rarified NRMD
+
+Prior to NRMD calculation, all samples from all disease cohorts were rarified to 4000 reads per sample. Samples with &lt; 4000 reads were discarded. The NRMD calculation was then performed as described above.
+
+# Calculation of LEFSE LDA
+
+LEFSE (1.1.01) was used to calculate the LDA for each disease cohort using the parameters -a 1 -l 0 -w 1 (no filtering based on LDA/Wilcoxon or subgroup values). The resulting per-bacteria LDA were converted to positive/negative based on the direction of the higher group (disease/healthy) and were then used for the direction overlap analysis. For the identification of LEFSE LDA based non-specific bacteria, since LEFSE does not provide FDR correction, we used a p-value cutoff of 0.1 (as compared to FDR = 0.25 in the NRMD-based analysis).
+
+# Identification of IBD‑specific ASVs
+
+IBD-specific ASVs were defined as ASVs showing significantly higher (or lower) NRMD values in CD and UC fecal disease cohorts in comparison to all other disease cohorts. These IBD-specific ASVs were identified using a rank-mean test (implemented in Calour) on the NRMD in all studies (i.e., 10 CD and UC disease cohorts, vs. 45 disease cohorts with other diseases, not including the 2 non-specific IBD diagnosis disease cohorts, and the 2 disease cohorts that used biopsies rather than fecal samples), with dsFDR correction (FDR = 0.1).
+
+# dbBact terms word clouds
+
+ASVs (either specific or non-specific), that were shown to be related to a given disease, were compared to all the annotations in the dbbact database to search for ontology terms related to those ASVs (i.e., diseases, geographical locations, bacterial main niches in the body, and habitant for those bacteria). For each term, the word size is the F-score combining the precision (i.e., how many of the query sequences contain the given term) and the recall (i.e., how many of the dbBact annotations containing the term contain the query sequences). Blue and red word colors indicate terms positively or negatively associated with the query sequences respectively.
+
+# Identification of salivary ASVs in additional studies
+
+Per-sample FASTA reads files were downloaded from the SRA for two studies that included salivary microbiome samples (AGP and PRJNA383868 [42]) sequenced using the V4 region. Sequences were processed using the same pipeline described for the current dataset, and we summarized those ASVs that were present in 25% and more in the salivary samples (those 2 cohorts included 500 and above participants) and looked for overlapped with disease non-specific increased ASVs (n = 31) and IBD-specific increased ASVs (n = 13).

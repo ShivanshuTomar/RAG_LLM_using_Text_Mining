@@ -1,0 +1,49 @@
+# Functional intraepithelial lymphocyte changes in inflammatory bowel disease and spondyloarthritis have disease specific correlations with intestinal microbiota
+
+# Authors
+
+Diana Ir, Emilie H. Regner, Carsten Görg, Janet Siebert, Charles E. Robertson, Liron Caplan, Daniel N. Frank, Neha Ohri, Andrew Stahly, Mark E. Gerich, Blair P. Fennimore, Widian K. Jubair, Kristine A. Kuhn*
+
+# Abstract
+
+# Background
+
+Dysbiosis occurs in spondyloarthritis (SpA) and inflammatory bowel disease (IBD), which is subdivided into Crohn’s disease (CD) and ulcerative colitis (UC). The immunologic consequences of alterations in microbiota, however, have not been defined. Intraepithelial lymphocytes (IELs) are T cells within the intestinal epithelium that are in close contact with bacteria and are likely to be modulated by changes in microbiota. We examined differences in human gut-associated bacteria and tested correlation with functional changes in IELs in patients with axial SpA (axSpA), CD, or UC, and in controls.
+
+# Methods
+
+We conducted a case-control study to evaluate IELs from pinch biopsies of grossly normal colonic tissue from subjects with biopsy-proven CD or UC, axSpA fulfilling Assessment of SpondyloArthritis International Society (ASAS) criteria and from controls during endoscopy. IELs were harvested and characterized by flow cytometry for cell surface markers. Secreted cytokines were measured by ELISA. Microbiome analysis was by 16S rRNA gene sequencing from rectal swabs. Statistical analyses were performed with the Kruskal-Wallis and Spearman’s rank tests.
+
+# Results
+
+The total number of IELs was significantly decreased in subjects with axSpA compared to those with IBD and controls, likely due to a decrease in TCRβ+ IELs. We found strong, significant negative correlation between peripheral lymphocyte count and IEL number. IELs secreted significantly increased IL-1β in patients with UC, significantly increased IL-17A and IFN-γ in patients with CD, and significantly increased TNF-α in patients with CD and axSpA as compared to other cohorts. For each disease subtype, IELs and IEL-produced cytokines were positively and negatively correlated with the relative abundance of multiple bacterial taxa.
+
+# Conclusions
+
+Our data indicate differences in IEL function among subjects with axSpA, CD, and UC compared to healthy controls. We propose that the observed correlation between altered microbiota and IEL function in these populations are relevant to the pathogenesis of axSpA and IBD, and discuss possible mechanisms.
+
+# Trial registration
+
+ClinicalTrials.gov, NCT02389075. Registered on 17 March 2015.
+
+# Keywords
+
+Inflammatory bowel disease, Ulcerative colitis, Crohn’s disease, Spondyloarthritis, Intraepithelial lymphocytes, Microbiome
+
+# Correspondence
+
+kristine.kuhn@ucdenver.edu
+
+Emilie H. Regner and Neha Ohri contributed equally to this work.
+
+# Affiliations
+
+Division of Rheumatology, Department of Medicine, University of Colorado
+
+School of Medicine, Aurora, CO, USA
+
+Mucosal Inflammation Program, University of Colorado School of Medicine, Aurora, CO, USA
+
+# License
+
+© The Author(s). 2018 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.

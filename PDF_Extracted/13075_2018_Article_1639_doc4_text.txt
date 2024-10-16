@@ -1,0 +1,41 @@
+# Regner et al. Arthritis Research & Therapy (2018) 20:149
+
+# Table 1 Demographic and clinical characteristics of study subjects
+
+| |Controls (N = 15)|CD (N = 10)|UC (N = 7)|axSpA (N = 6)|p value|
+|---|---|---|---|---|---|
+|Age in years|48.4 (9.7)|40.5 (15.2)|39.2 (12.4)|34.4 (3.3)|0.06|
+|Female|9 (60%)|7 (70%)|3 (43%)|1 (17%)|0.18|
+|Non-Hispanic white|15 (100%)|9 (90%)|6 (86%)|6 (100%)|0.29|
+|Former smoker|4 (27%)|5 (50%)|1 (14%)|3 (50%)|0.34|
+|Family history of autoimmunity|6 (40%)|3 (30%)|1 (14%)|2 (33%)|0.53|
+|Disease duration in months|–|127.5 (107.9)|171.7 (153.9)|78.5 (58.1)|0.36|
+|HLA-B27 positivity|0|0|1 (14%)|5 (83%)|0.0001a|
+|WBC (109 cells/L)|7.2 (2.2)|6.6 (2.2)|5.5 (3.2)|9.5 (2.3)|0.04|
+|Absolute lymphocytes (109 cells/L)|1.9 (0.1)|1.7 (0.2)|0.9 (0.1)|2.6 (0.3)|0.004|
+|CRP (mg/L)|2.5 (2.5)|4.2 (3.0)|1.7 (1.7)|5.6 (12.5)|0.5|
+|TNF inhibitor usage|–|5 (50%)|0 (0%)|5 (83%)|< 0.01|
+|Prednisone usage|–|2 (20%)|0 (0%)|1 (17%)|0.5|
+|Harvey Bradshaw Index|–|1.9 (0.526)|–|–|–|
+|Simple Clinical Colitis Activity Index|–|–|0.857 (0.553)|–|–|
+|Bath AS Disease Activity Index|–|–|–|3.96 (1.01)|–|
+
+aData are mean (SD) or number (%); p value is based on Fisher’s exact test for categorical variables and on one-way analysis of variance for continuous variables.
+
+Bold text indicates significant p-values
+
+HC healthy controls, CD Crohn’s disease, UC ulcerative colitis, axSpA axial spondyloarthritis, CRP C-reactive protein, AS ankylosing spondylitis
+
+significant correlation between IEL number and disease activity in any of our cohorts (Additional file 2: Table S1).
+
+Because we hypothesized that subjects with axSpA and IBD would exhibit functional changes in IELs compared to control subjects, we evaluated individual cytokine secretion by IELs obtained from biopsy tissue. A few subjects had dramatically elevated levels of certain cytokines but these were not limited to the same subjects. IELs secreted significantly increased IL-1β in patients with UC as compared to other cohorts (Fig. 2a), significantly increased IL-17A and IFN-γ in patients with CD as compared to other cohorts (Fig. 2b, c), and significantly increased TNF-α in patients with CD and axSpA as compared to other cohorts (Fig. 2d). The data are shown on a logarithmic axis to demonstrate the range of cytokine values. No significant differences in IEL secretion of IL-6, IL-10, or IL-22 was detected between cohorts (Additional file 1: Figure S2).
+
+Sex, age, race, length of disease, disease activity scores, CRP, and family history of autoimmune disease was not associated with the presence or absence of individual cytokine secretion when analyzed using linear regression (Additional file 2: Table S2). Smoking history was negatively associated with secretion of TNF-α (p = 0.008), and TNFi use was associated with secretion of TNF-α and IFN-γ (p = 0.001 and p = 0.04, respectively). Kruskal-Wallis analysis did not identify any significant association between cytokine levels and intake of red meat, fish, whole grains, fruits, or vegetables (Additional file 2: Table S2).
+
+# Microbiome associations
+
+Bacterial profiling of subjects’ fecal material was of sufficient depth as indicated by Good’s coverage > 99% for all subjects. No difference in richness (Chao1) was noted among the three groups (Additional file 1: Figure S3A). Analysis of diversity indices showed no difference in community complexity, as measured by the mean Shannon H index (Additional file 1: Figure S3B), or in community evenness (Additional file 1: Figure S3C).
+
+Our study was primarily powered to evaluate differences in IEL phenotypes across groups. Nevertheless, our exploratory analysis identified appreciable differences in overall microbiota composition between healthy controls and subjects with axSpA (PERMANOVA p = 0.06; Fig. 3a). In pairwise comparisons between healthy controls and patients with CD, UC, and axSpA we identified few significant differences as defined by p < 0.05 analyzed by the Wilcoxon rank-sum test. In CD there was increased relative abundance of Carnobacteriaceae (Fig. 3b). In healthy controls, as compared to patients with UC, the relative abundance of Bradyrhizobiaceae was increased (Fig. 3c). In patients with axSpA as compared to healthy controls, the relative abundance of Rickettsiales was increased (Fig. 3d).
+
+We next evaluated how IELs related to specific bacteria in the setting of disease. For each subject group, total IEL number or IEL-produced cytokine level (using only those cytokines that were significantly different between subject groups) was correlated with the relative abundance of each OTU.

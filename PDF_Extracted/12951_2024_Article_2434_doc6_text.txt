@@ -1,0 +1,20 @@
+# Yang et al. Journal of Nanobiotechnology (2024) 22:166
+
+# Page 7 of 16
+
+|FITC|YBNs|YBNs@PDA|Comparison|
+|---|---|---|---|
+|A| | | |
+|2.0|6 h|2|12 h|
+|6 h|1|1.5|High|
+|1.0|0.5|12 h|Low|
+|FITC YBNs|YBNs@PDA|8| |
+|4.0|1|2| |
+|3.5|3.0|2|100 pm|
+|DAPI|FITC| | |
+
+Fig. 3 YBNs@PDA localizes in inflamed colon in DSS-treated mice. (A, B) After 6 h and 12 h of treating animals with 10 mg/kg free-FITC, YBNs-FITC or YBNs@PDA-FITC, colons were imaged by in vivo imaging system (IVIS) (A) and quantified for FITC fluorescence signal (B). Comparison picture was taken by comparing one colon sample from each group. (C) Ex vivo fluorescence images of major organs collected from colitis mice 12 h after oral gavage of free-FITC, YBNs-FITC or YBNs@PDA-FITC, respectively. (D) CLSM images sections of the distal colon tissues from mice orally administered with YBNs-FITC or YBNs@PDA-FITC.
+
+Infiltration level. All of the treatment groups had lowered MPO levels, among which the high dose YBNs@PDA treatment group had the most pronounced effects overall, dramatically downregulating MPO levels, which indicates the potent anti-inflammatory effect of YBNs@PDA. We further confirm ROS level in the colon using DCF fluorescence imaging. As shown in Additional file 1: Fig. S6A, the elevated intestine ROS levels induced by DSS treatment were reversed with YBNs@PDA intervention, demonstrating the potent ROS-scavenging capability of YBNs@PDA. Excessive production of ROS can trigger inappropriate apoptosis, resulting in colonic damage, intestinal barrier dysfunction, and bacterial translocation [38]. The TUNEL assay confirmed the reduction in apoptosis in the colonic epithelium after YBNs@PDA treatment, which is consistent with the ROS findings.
+
+IBD is triggered in its earliest stages by oxidative stress caused by an excess of ROS that exert intestinal mucosal barrier disruption [9]. Subsequently, an examination was conducted to determine the impact of YBNs@PDA on the inflammatory state of colonic epithelial cells that have a compromised intestinal barrier function. Tight junction proteins are essential for maintaining normal gut function and gut homeostasis because of the significant functions in maintaining the integrity of the intestinal mucosal barrier and intestinal permeability [39]. Conspicuously, tight junction proteins Occludin and Claudin-1 had their expression patterns restored after being orally supplied YBNs@PDA in DSS-colitis mice (Fig. 5A and Additional file 1: Fig. S6B). Although the expression of Claudin-1 was restored in both the YBNs and YBNs@PDA-treated groups, the latter showed much more efficacy in reversing the damage to the intestinal barrier.

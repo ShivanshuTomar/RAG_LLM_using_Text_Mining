@@ -1,0 +1,13 @@
+# Kumar et al. J Transl Med (2019) 17:419
+
+# Fig. 1
+
+The multifaceted triggering factors for IBD and major disease symptoms. IBD develops at the intersection of host genetic predisposition, environmental influences, immune dysregulation and dysbiosis of the gut microbiota (left side). The major symptoms reported in the IBD patients are summarized on the right side.
+
+IBD patients, especially with the increased frequency of disease heterogeneity and atypical phenotypes [19]. Moreover, clinicians are often faced with a difficult clinical decision for the IBD-U patients and frequently resort to mixing treatment protocols in an anticipation for the development of either UC or CD over time [6, 7, 33]. Such approaches often result in unsatisfactory patient outcomes, unnecessary treatment or, in some cases, inappropriate clinical care. Therefore, it is critical to understand the disease signature specific to each subtype in order to provide the most appropriate and personalized care for patients suffering from IBD.
+
+# Application of omics: a step towards a better understanding of IBD pathogenesis
+
+# Genomics in IBD pathogenesis
+
+In the past two decades, technological advances in genomics and availability of large consortia genomic data have significantly contributed to our understanding of the link between specific gene loci and their.

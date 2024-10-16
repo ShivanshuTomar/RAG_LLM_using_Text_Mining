@@ -1,0 +1,43 @@
+# Zhao et al. Microbiome (2022) 10:115
+
+# Phenotypic clinical evaluation
+
+# Disease Activity Index (DAI)
+
+Following DSS treatment, the disease activity index (DAI) was monitored on a daily basis. The DAI score was calculated as (body weight loss score + stool consistency score + haematochezia score)/3. The body weight loss score ranged from 0 to 3: 0 = stable; 1 = mild loss (lost > 1% to < 5%); 2 = moderate loss (lost > 5% to < 10%); and 3 = severe loss (lost > 10%). The stool consistency score ranged from 0 to 3: 0 = normal, 1 = soft, 2 = fluid and 3 = completely liquid. The haematochezia score was determined by the colloidal gold method.
+
+# H&E staining
+
+The severity of colonic lesions was scored macroscopically and histologically. Colon samples were fixed in 4% paraformaldehyde, embedded in paraffin and sectioned and stained with haematoxylin and eosin (H&E) for histological examination to determine the severity of inflammation and the extent of mucosal and crypt damage. Images were captured at 100× magnification using a US Moticam 3000 photomicrography imaging system.
+
+# Organ index
+
+The spleen and colon were collected and evaluated by the organ index formula: organ index (%) = (organ weight/body weight) × 100%.
+
+# Sequencing of microbiota from colonic digesta samples and data analysis
+
+# DNA extraction
+
+According to the manufacturer’s instructions, total genomic DNA was extracted from colonic digesta using the E.Z.N.A.®Stool DNA Kit (D4015, Omega, Inc., USA).
+
+# PCR amplification and microbiota sequencing
+
+The V3-V4 region of the bacterial 16S rDNA gene was amplified using the primers 341F (5′-CCTACG GGNGGC WGC AG-3′) and 805R (5′-GAC TAC HVGGGTATCTAATCC-3′) combined with barcode sequences. Then, the amplicon pools were prepared for sequencing, and the size and quantity of the amplicon library were assessed on an Agilent 2100 Bioanalyzer (Agilent, USA) and with the Library Quantification Kit for Illumina (Kapa Biosciences, Woburn, MA, USA), respectively. The libraries were sequenced on the NovaSeq PE250 platform.
+
+# Bioinformatics analysis
+
+The sequences obtained by sequencing were subjected to quality filtering and modification. Alpha diversity and beta diversity were calculated by random normalisation to the same sequences. Then, according to the SILVA (release 132) classifier, feature abundance was normalised using the relative abundance of each sample. LEfSe was performed to assess differences in abundance. Phenotypes of bacterial communities were predicted using BugBase. The microbiome functions were determined by the KEGG profiles by combining the resulting metagenomic data with biodiversity data.
+
+# Colonic metabolite measurements and bioinformatics analysis
+
+The collected samples were thawed on ice, and metabolites were extracted with 50% methanol buffer. Then, all samples were analysed by LC-MS according to the instructions for the system, and a TripleTOF 5600 Plus high-resolution tandem mass spectrometer (SCIEX, UK) was used to detect metabolites eluted from the column. The online KEGG database was used to annotate the metabolites by matching the exact molecular mass data (m/z) of samples with those from a database. We used an in-house fragment spectrum library of metabolites to validate the metabolite identification. Student t-tests were conducted to detect differences in metabolite concentrations between the two phenotypes. The P-value was adjusted for multiple tests using an FDR (false discovery rate). Supervised PLS-DA was conducted to discriminate the different variables between groups. The VIP value was calculated. A VIP cut-off value of 1.0 was used to select important features. For SCFA analysis, phosphoric acid (0.5% v/v) solution was added to the colonic digesta samples, then vortexed for 10 min, ultra-sonicated for 5 min and centrifuged at 12,000 r/min and 4 °C for 10 min. Then, the supernatant was collected, and MTBE (containing internal standard) solution was added. After centrifugation at 12,000 r/min for 10 min at 4 °C, the supernatant was aspirated into a sampling bottle for GC–MS/MS analysis.
+
+# RNA‑seq analysis from colon samples and data analysis
+
+# RNA isolation and purification
+
+Total RNA was isolated and purified using TRIzol reagent (Invitrogen, Carlsbad, CA, USA) following the manufacturer’s procedure. The amount and purity of each RNA sample were quantified using a NanoDrop ND-1000 (NanoDrop, Wilmington, DE, USA).
+
+# cDNA library construction and bioinformatics analysis
+
+The cDNA library was constructed, and we performed 150 bp paired-end sequencing on an Illumina NovaSeq 6000 (LC Bio, Hangzhou, China). Gene expression levels were estimated by calculating the value of fragments.

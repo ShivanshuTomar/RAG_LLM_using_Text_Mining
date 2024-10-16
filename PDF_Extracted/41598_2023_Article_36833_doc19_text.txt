@@ -1,0 +1,112 @@
+# Figure 9.
+
+Correlation between immune infiltration and shared specific gene related to the gut microbiome in RA.
+
+|A|RA Training|B|CD|C| |UC|D| |RA Validation| | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Macrophages M1(CIBERSORT)|<0.001| |Dendritic cells activated(CIBERSORT)|0.001|Macrophages M1(CIBERSORT)|<0.001|Macrophages M1(CIBERSORT)|<0.001| | | | | | | |
+|Plasma cells|<0.001| |Eosinophils|0.003|Eosinophils| |0.014| |T cells gamma delta|<0.001| | | | | |
+|T cells follicular helper|<0.001| | | | | | | |T cells CD4 memory activated|<0.001| | | | | |
+|T cells gamma delta|CXCL10|0.002|Macrophages M2|CXCL10|0.004|Dendritic cells activated|CXCL10|0.016|Plasma cells|CXCL10|0.004| | | | |
+| | | |NK cells activated|0.006| |Macrophages M0|0.032|B cells naive|0.003|abs(cor)| | | | | |
+| | |0.1|Mast cells resting|0.007|0.1|Mast cells activated|0.124|0.1| | | | | | | |
+|Monocytes|0.267| | | | | | | |B cells naive|0.471| | | | | |
+| |0.485|0.2|B cells memory|0.130|0.2|B cells naive|0.169|0.2| | | | | | | |
+|T cells CD4 memory resting|0.604| | |0.2|T cells CD8|Macrophages M0|0.498|0.3|Mast cells activated|0.228|0.3| | | | |
+| | | | | | |Monocytes|0.191|0.3|T cells CD4 naive|0.963|0.3|T cells CD4 memory activated|0.611|0.4| |
+| | | |Macrophages M0|0.455|0.4|Mast cells resting|0.227|0.4|Macrophages M0|0.799|0.4| | | | |
+|Mast cells resting|0.744|0.5| |0.5| |Macrophages M2|0.329|0.5|Monocytes|0.693|0.5| | | | |
+|Neutrophils|0.360| | | | |Plasma cells|0.780| |Dendritic cells activated|0.343| | | | | |
+| | | |T cells gamma delta|0.625| | |NK cells activated|0.359| | | | | | | |
+|T cells CD4 naive|0.312| |Monocytes|0.744| | | | |Mast cells activated|0.189| | | | | |
+| | | | | | |B cells memory|0.830| | |T cells regulatory (Tregs)|0.949| | | | |
+|T cells regulatory (Tregs)|0.173|pvalue| |pvalue| |T cells CD8|0.661|pvalue| | | | | | | |
+|Mast cells resting|0.151|pvalue| |B cells naive|0.854|0|Dendritic cells resting|0.488|0| |0| | | | |
+|Macrophages M2|0.140| |Dendritic cells resting|0.362| | | | |NK cells activated|0.147| | | | | |
+| | |0.2| | | |T cells follicular helper|0.246|0.2| |0.2| | | | | |
+|B cells memory|0.074|0.4|T cells CD8|0.166|0.4| | | | | | | | | | |
+|T cells gamma delta|0.217| | |Dendritic cells activated|0.062|0.6| | | | | | | | | |
+| | | |T cells follicular helper|0.112| |Neutrophils|0.124| |NK cells resting|0.029| | | | | |
+| | | | | | | |0.8| | | |0.8| |0.8| |0.8|
+|NK cells resting|0.010| |Plasma cells|0.071| |T cells regulatory (Tregs)|0.117| |Dendritic cells resting|0.007| | | | | |
+|1| | | |1| |1| |1| | | | | | | |
+|Mast cells activated|0.002| |T cells CD4 naive|0.003|T cells CD4 naive| |0.107| |T cells regulatory (Tregs)|<0.001| | | | | |
+
+−0.5 0.0 0.5
+
+−0.6 −0.4 −0.2 0.0 0.2 0.4 0.6
+
+−0.6 −0.4 −0.2 0.0 0.2 0.4 0.6
+
+−0.5 0.0 0.5
+
+# E
+
+# RA Training
+
+# F
+
+# CD
+
+# G
+
+# UC
+
+# H
+
+# RA Validation
+
+|Activated CD8 T cell (ssGSEA)|<0.001| |Activated dendritic cell(ssGSEA)|<0.001|Gamma delta T cell (ssGSEA)|<0.001|Activated CD8 T cell Activated B cell(ssGSEA)|<0.001| | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Activated B cell|<0.001| |MDSC|<0.001| |Immature B cell|0.005| |0.001| | | | |
+|MDSC|<0.001| |Effector memeory CD8 T cell|<0.001| |Activated dendritic cell|0.017|MDSC|0.001| | | | |
+|Activated CD4 T cell|<0.001| |Gamma delta T cell|0.001| |Monocyte|0.021|Activated CD4 T cell|0.001| | | | |
+|Immature B cell|CXCL10|0.047|Monocyte|CXCL10|0.005|MDSC|CXCL10|0.021|Immature B cell|CXCL10|0.011| | |
+|Gamma delta T cell|0.734|abs(cor)|T follicular helper cell|0.054|abs(cor)|Effector memeory CD8 T cell|0.082|abs(cor)|Type 1 T helper cell|0.018|abs(cor)| | |
+|Effector memeory CD4 T cell|0.409| |CD56dim natural killer cell|0.076| |Activated B cell|0.093| |Gamma delta T cell|0.069| | | |
+|Regulatory T cell|0.153|0.1|Activated B cell|0.087|0.1|Activated CD4 T cell|0.110|0.1|Macrophage|0.122|0.1| | |
+|Type 17 T helper cell|0.092|0.2|Mast cell|0.101|0.2|T follicular helper cell|0.115|0.2|Effector memeory CD8 T cell|0.147|0.2| | |
+|T follicular helper cell|0.077|0.3|Immature B cell|0.238|0.3|Mast cell|0.211|0.3|Type 2 T helper cell|0.312|0.3| | |
+|Macrophage|0.076|0.4|Central memory CD8 T cell|0.417|0.4|Effector memeory CD4 T cell|0.434|0.4|Activated dendritic cell|0.340|0.4| | |
+|Natural killer T cell|0.043|0.5|Macrophage|0.549|0.5|CD56dim natural killer cell|0.489|0.5|Natural killer cell|0.430|0.5| | |
+|Effector memeory CD8 T cell|0.041| |Activated CD4 T cell|0.620| |Regulatory T cell|0.635|Regulatory T cell| |0.697| | | |
+|Natural killer cell|0.006| |Immature dendritic cell|0.840| |Activated CD8 T cell|0.702| |Monocyte|0.733| | | |
+|Memory B cell|<0.001| |Type 1 T helper cell|0.874| |Plasmacytoid dendritic cell|0.708| |Central memory CD8 T cell|0.961| | | |
+|Type 2 T helper cell|<0.001| |Regulatory T cell|0.890| |Central memory CD8 T cell|0.788| |Mast cell|0.872| | | |
+|Central memory CD8 T cell|<0.001| |Natural killer cell|0.937| |Memory B cell|0.934| |T follicular helper cell|0.792| | | |
+|Activated dendritic cell|<0.001| |Plasmacytoid dendritic cell|0.960| |Macrophage|0.745| |Eosinophil|0.710| | | |
+|CD56bright natural killer cell|<0.001|pvalue0|Memory B cell|0.991|pvalue0|Natural killer T cell|0.561|pvalue0| | | | | |
+| | | |Effector memeory CD4 T cell|0.497|pvalue0|Type 1 T helper cell|<0.001|Effector memeory CD4 T cell|0.891|Central memory CD4 T cell|0.467|CD56dim natural killer cell|0.359|
+|Eosinophil|<0.001| |Activated CD8 T cell|0.812| |CD56bright natural killer cell|0.374| |Neutrophil|0.150| | | |
+|Monocyte|<0.001|0.2|Type 17 T helper cell|0.787|0.2|Natural killer cell|0.244|0.2|CD56bright natural killer cell|0.123|0.2| | |
+|Mast cell|<0.001|0.4|Central memory CD4 T cell|0.564|0.4|Eosinophil|0.241|0.4|Natural killer T cell|0.089|0.4| | |
+|Neutrophil|<0.001|0.6|Eosinophil|0.421|0.6|Type 1 T helper cell|0.172|0.6|Memory B cell|0.024|0.6| | |
+|Immature dendritic cell|<0.001| |CD56bright natural killer cell|0.417| |Type 17 T helper cell|0.136| |Central memory CD4 T cell|0.006| | | |
+|Plasmacytoid dendritic cell|<0.001|0.8|Natural killer T cell|0.392|0.8|Type 2 T helper cell|0.058|0.8|Plasmacytoid dendritic cell|0.003|0.8| | |
+|Central memory CD4 T cell|<0.001|1|Type 2 T helper cell|0.134|1|Immature dendritic cell|0.027|1|Type 17 T helper cell|<0.001|1| | |
+|CD56dim natural killer cell|<0.001| |Neutrophil|0.006|Neutrophil| |0.017| |Immature dendritic cell|<0.001| | | |
+
+−0.5 0.0 0.5
+
+−0.6 −0.4 −0.2 0.0 0.2 0.4 0.6
+
+−0.4 −0.2 0.0 0.2 0.4
+
+−0.5 0.0 0.5
+
+# Data availability
+
+The datasets GSE55235, GSE55457, GSE179285, and GSE77298 for this study can be found in the Gene Expression Omnibus database here. The RA-related metagenomic sequencing dataset, PRJEB6997, for this study can be found in the GMrepo database here.
+
+Received: 4 January 2023; Accepted: 10 June 2023; Published online: 6 June 2023
+
+# References
+
+1. Aletaha, D. & Smolen, J. S. Diagnosis and management of rheumatoid arthritis: A review. JAMA 320(13), 1360–1372. https://doi.org/10.1001/jama.2018.13103 (2018).
+2. Scher, J. U. et al. Expansion of intestinal Prevotella copri correlates with enhanced susceptibility to arthritis. Elife 2, e01202. https://doi.org/10.7554/eLife.01202 (2013).
+3. Alpizar-Rodriguez, D. et al. Prevotella copri in individuals at risk for rheumatoid arthritis. Ann. Rheum. Dis. 78(5), 590–593. https://doi.org/10.1136/annrheumdis-2018-214514 (2019).
+4. Tajik, N. et al. Targeting zonulin and intestinal epithelial barrier function to prevent onset of arthritis. Nat. Commun. 11(1), 1995. https://doi.org/10.1038/s41467-020-15831-7 (2020).
+5. Lee, Y. K. & Mazmanian, S. K. Has the microbiota played a critical role in the evolution of the adaptive immune system?. Science 330(6012), 1768–1773. https://doi.org/10.1126/science.1195568 (2010).
+6. Sommer, F. & Bäckhed, F. The gut microbiota–masters of host development and physiology. Nat. Rev. Microbiol. 11(4), 227–238. https://doi.org/10.1038/nrmicro2974 (2013).
+7. Lee, J. W. et al. Inflammatory bowel disease cohort studies in Korea: Present and future. Intest. Res. 13(3), 213–218. https://doi.org/10.5217/ir.2015.13.3.213 (2015).
+8. Lettre, G. & Rioux, J. D. Autoimmune diseases: Insights from genome-wide association studies. Hum. Mol. Genet. 17(R2), R116–R121. https://doi.org/10.1093/hmg/ddn246 (2008).

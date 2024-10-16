@@ -1,0 +1,37 @@
+# Gut microbial co-abundance networks show specificity in inflammatory bowel disease and obesity
+
+Lianmin Chen1,2, Valerie Collij1,3,14, Martin Jaeger4,14, Inge C. L. van den Munckhof4, Arnau Vich Vila1,3, Alexander Kurilshikov1, Ranko Gacesa1,3, Trishla Sinha1, Marije Oosting4, Leo A. B. Joosten4,5, Joost H. W. Rutten4, Niels P. Riksen4, Ramnik J. Xavier6,7,8,9, Folkert Kuipers2,10, Cisca Wijmenga1,11, Alexandra Zhernakova1, Mihai G. Netea4,12,13, Rinse K. Weersma3 & Jingyuan Fu1,2✉
+
+The gut microbiome is an ecosystem that involves complex interactions. Currently, our knowledge about the role of the gut microbiome in health and disease relies mainly on differential microbial abundance, and little is known about the role of microbial interactions in the context of human disease. Here, we construct and compare microbial co-abundance networks using 2,379 metagenomes from four human cohorts: an inflammatory bowel disease (IBD) cohort, an obese cohort and two population-based cohorts. We find that the strengths of 38.6% of species co-abundances and 64.3% of pathway co-abundances vary significantly between cohorts, with 113 species and 1,050 pathway co-abundances showing IBD-specific effects and 281 pathway co-abundances showing obesity-specific effects. We can also replicate these IBD microbial co-abundances in longitudinal data from the IBD cohort of the integrative human microbiome (iHMP-IBD) project. Our study identifies several key species and pathways in IBD and obesity and provides evidence that altered microbial abundances in disease can influence their co-abundance relationship, which expands our current knowledge regarding microbial dysbiosis in disease.
+
+# Affiliations
+
+1 Department of Genetics, University of Groningen, University Medical Center Groningen, Groningen, the Netherlands.
+
+2 Department of Pediatrics, University of Groningen, University Medical Center Groningen, Groningen, the Netherlands.
+
+3 Department of Gastroenterology and Hepatology, University of Groningen, University Medical Center Groningen, Groningen, the Netherlands.
+
+4 Department of Internal Medicine and Radboud Institute for Molecular Life Sciences, Radboud University Medical Center, Nijmegen, the Netherlands.
+
+5 Department of Medical Genetics, Iuliu Hatieganu University of Medicine and Pharmacy, Cluj-Napoca, Romania.
+
+6 Center for Computational and Integrative Biology, Massachusetts General Hospital, Boston, MA, USA.
+
+7 Broad Institute of MIT and Harvard, Cambridge, MA, USA.
+
+8 Gastrointestinal Unit and Center for the Study of Inflammatory Bowel Disease, Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA.
+
+9 Center for Microbiome Informatics and Therapeutics, Massachusetts Institute of Technology, Cambridge, MA, USA.
+
+10 Department of Laboratory Medicine, University of Groningen, University Medical Center Groningen, Groningen, the Netherlands.
+
+11 University of Groningen, Groningen, the Netherlands.
+
+12 Department for Genomics & Immunoregulation, Life and Medical Sciences Institute, University of Bonn, 53115 Bonn, Germany.
+
+13 Human Genomics Laboratory, Craiova University of Medicine and Pharmacy, Craiova, Romania.
+
+14 These authors contributed equally: Valerie Collij, Martin Jaeger.✉email: j.fu@umcg.nl
+
+NATURE COMMUNICATIONS | (2020) 11:4018 | https://doi.org/10.1038/s41467-020-17840-y | www.nature.com/naturecommunications

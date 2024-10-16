@@ -1,0 +1,40 @@
+# nodes in the network based on their topological similarities, aims to maximise the modularity.
+
+The maximised modularity is an important descriptor of the network structure; the lower the modularity, the lower the total number of modules. We obtained that the lowest modularity (0.538) can be found in the NI correlation network, meaning that it was not possible to separate some of the modules and there would be interconnections between them, the CD and the UC correlation networks resulted in a modularity of 0.583 and 0.622, respectively.
+
+As we can see in Fig. 1, the pathways in the NI correlation network were divided into three large modules, one module was isolated, by contrast, the other two modules were communicating strictly through several nodes. The isolated module was composed of Phocaeicola vulgatus and Bacteroides uniformis pathways, this meant that in control subjects the two species co-variated and were interdependent through specific pathways (on the frontiers of the species modules, it was possible to find nodes PWY-6387|BACTEROIDES_UNIFORMIS, PWY-6151|BACTEROIDES_UNIFORMIS, PEPTIDOGLYCANSYN-PWY|BACTEIROIDES_UNIFORMIS, PWY-5667|BACTEROIDES_UNIFORMIS on the B. uniformis side and nodes PANTO-PWY|PHOCAEICOLA_VULGATUS, PWY-6700|PHOCAEICOLA_VULGATUS, PWY-7220|PHOCAEICOLA_VULGATUS, PWY-7222|PHOCAEICOLA_VULGATUS on the P. vulgatus side).
+
+The light purple module, on the other hand, contained Faecalibacterium prausnitzii, whereas the remaining large module contained the Bacteroides ovatus pathways, Eubacterium rectale pathways, and the unclassified species pathways. The nodes with the highest betweenness centrality (Table 1), the importance given by the number of shortest paths crossing the node, among the unclassified pathways in the two connected modules were connected through:
+
+1. node PWY-6527|UNCLASSIFIED;
+2. node GLYCOGENSYNTH-PWY|UNCLASSIFIED;
+3. node PWY66-422|UNCLASSIFIED;
+4. node PWY-6317|UNCLASSIFIED.
+
+Whereas, the nodes with the highest betweenness centrality among the F. prausnitzii pathway module that was connected to the unclassified pathway module were:
+
+1. node PWY-5659|FAECALIBACTERIUM_PRAUSNITZII;
+2. node PWY-6277|FAECALIBACTERIUM_PRAUSNITZII;
+3. node PWY-6121|FAECALIBACTERIUM_PRAUSNITZII;
+4. node PWY-6122|FAECALIBACTERIUM_PRAUSNITZII.
+
+To notice that pathway of node PWY-5659|FAECALIBACTERIUM_PRAUSNITZII correlated with only 4 E. rectale pathways.
+
+In the CD correlation network, there were fewer connections, and the network was divided into 6 modules. Each module corresponded to the species groups of pathways. The smallest module was composed of E. rectale pathways. The largest (light purple) module comprising F. prausnitzii was connected to the unclassified (green) module using node COA-PWY|UNCLASSIFIED similar to the UC correlation network. Moreover, an additional bridge connecting node was node SER-GLYSYN-PWY|FAECALIBACTERIUM_PRAUSNITZII, which was linked to nodes PWY-6527|UNCLASSIFIED and ILEUSYN-PWY|UNCLASSIFIED, to mention two high betweenness centrality nodes among the unclassified pathways. High betweenness centrality nodes DTDPRHAMSYN-PWY|UNCLASSIFIED and PWY-5659|BACTEROIDES_OVATUS connected unclassified species module with B. ovatus module, node PWY-6124|BACTEROIDES_OVATUS, in turn, was connected to node PWY-7219|BACTEROIDES_UNIFORMIS linking B. ovatus module to the B. uniformis module. Finally, similarly to the NI correlation network, P. vulgatus and B. uniformis were connected though (nodes PWY-3841|PHOCAEICOLA_VULGATUS, PWY-7221|PHOCAEICOLA_VULGATUS, and PWY-7228|PHOCAEICOLA_VULGATUS on the former side and nodes PWY0-845|BACTEROIDES_UNIFORMIS.
+
+|Node|Pathway|Betweenness centrality|
+|---|---|---|
+|821|PWY-6527|UNCLASSIFIED|0.094492|
+|466|PWY-5659|FAECALIBACTERIUM_PRAUSNITZII|0.031006|
+|610|PWY-6122|FAECALIBACTERIUM_PRAUSNITZII|0.026071|
+|724|PWY-6277|FAECALIBACTERIUM_PRAUSNITZII|0.026071|
+|177|GLYCOGENSYNTH-PWY|UNCLASSIFIED|0.024356|
+|579|PWY-6121|FAECALIBACTERIUM_PRAUSNITZII|0.017164|
+|1225|PWY66-422|UNCLASSIFIED|0.015345|
+|751|PWY-6317|UNCLASSIFIED|0.014598|
+|1090|PWY-7242|FAECALIBACTERIUM_PRAUSNITZII|0.010309|
+|499|PWY-5667|UNCLASSIFIED|0.007929|
+
+Table 1. Top 10 pathway nodes with the highest betweenness centrality in the non-IBD (NI) correlation network with prevalent pathways.
+
+Scientific Reports | (2023) 13:19428 | https://doi.org/10.1038/s41598-023-46184-y

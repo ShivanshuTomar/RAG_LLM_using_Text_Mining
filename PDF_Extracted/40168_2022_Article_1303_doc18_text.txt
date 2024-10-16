@@ -1,0 +1,43 @@
+# Zhao et al. Microbiome (2022) 10:115
+
+# M-CON vs M-DSS
+
+# Y-CON vs Y-DSS
+
+# Lumen
+
+| |Ruminococcaceae| |Spirochaetes|
+|---|---|---|---|
+| |Eubacterium|Blautia|Helicobacter|
+|Spirochaetes| |Eubacterium|Desulfovibrio|
+|Prevotellaceae|Christensenellaceae|Butyricicoccus|Bacteroidetes|
+| |Lactobacillus|Lachnospiraceae|Prevotellaceae|
+|Clostridia|Roseburia|Alistipes|Bilophila|
+
+# Indole metabolism
+
+| |Tryptophan|SCFAS| |
+|---|---|---|---|
+|Secondary bile acid|hypotaurine|SCFAS|Ig4|
+
+# Epithelia
+
+|TLRJNLR|TLR?|Protect gut barrier function| | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|
+| | | | |Myda8|NF KD|dysfunction| | | |
+| | | | | | |SlgA|IL 23|Treg| |
+| | | | | |Th1z|Macrophage|CD8+ cell| | |
+|Th17| | |IL-23|IL-Ip| | | | | |
+|CD4+ T cell| | | | | |IL-17|IgA+ B cells| | |
+| |Th2| | |TLR4 /NODZA|IL-18| | | | |
+|IL-6| | | | |IL-8|IL4| | | |
+|IL-10| |Th17| |(NF-RB| |TNF-a| | | |
+| | | | | | |IFN-Y|IL2| | |
+
+# Fig. 10
+
+Host-microbiota interaction-mediated resistance to inflammatory bowel disease in Min pigs and Yorkshire pigs. The comparison of the responses of the two breeds to disease and inflammatory immune stimuli showed that colon microbial taxonomies, functions and metabolites and their interactions with host physiological suitability were associated with resistance. Many potentially beneficial microbes, such as Lactobacillus, Clostridia, Eubacterium and several Ruminococcaceae and Christensenellaceae genera, were increased in diseased Min pigs, which were positively correlated with the improvement of microbial metabolites, including indole derivatives and short-chain fatty acids, and thus may recover the intestinal barrier. In addition, core bacteria altered in abundance, and partial PRR nonactivation was maintained, thereby effectively inhibiting the inflammatory response. The increase in CD4+ T cells in the lamina propria improved the supervision of the host immunity response, contributing to maintenance of Th2-type immune superiority and immune tolerance patterns and controlling excessive inflammatory reactions. In Yorkshire pigs, concentrations of bile acid metabolites and short-chain fatty acids were lower in diseased individuals, associated with the increases in potentially harmful microbes, such as Bilophila, Alistipes and Bacteroidetes, and the depletion of potentially beneficial microbes, such as Blautia, Eubacterium, Dorea, Butyricicoccus, Lachnospiraceae and Roseburia. The increases in potentially harmful microbes and damaged intestinal barrier in Yorkshire pigs might be a factor in activating PRRs, thereby enriching Toll-like receptor 4 binding, NF-κB signalling and T-helper 1- and 17-type immune responses accentuated gut barrier dysfunction. In M-DSS pigs, enrichment of Lactobacillus and promotion of tryptophan metabolism might increase indole derivative levels, which could enhance intestinal barrier function. At the same time, the increases of SCFA production might result from the increase in several potentially beneficial microbes, maintaining colonic OCLN and CLDN levels. In addition, TLR2 activation was increased in M-DSS pigs. TLR2 enhances the integrity of the intestinal epithelial barrier through protein kinase C (PKC) [79]. These data suggested that adjustment of microbial community structures and subsequent metabolite recovery in Min pigs may protect the intestinal barrier in this IBD model.
+
+# Conclusions
+
+Here, an effect of breeds characterised by different disease resistance on host-microbiota interaction was discovered using microbiota sequencing, metabolomics, transcriptomics and other analyses (Fig. 10). Our study suggested that partial PRR nonactivation was maintained in M-DSS pigs with the increases of potentially beneficial microbes and stabilisation of intestinal barrier. Our data also suggested that the increase in CD4+ T cells in M-DSS pigs but not in Y-DSS pigs might be relevant to the increases in Lactobacillus and tryptophan metabolism, thus retaining Th2-type immune superiority and an immune tolerance pattern. Furthermore, association analyses revealed a positive association between

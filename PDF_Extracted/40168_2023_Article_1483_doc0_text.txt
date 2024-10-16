@@ -1,0 +1,29 @@
+# Mouse mammary tumor virus is implicated in severity of colitis and dysbiosis in the IL-10−/− mouse model of inflammatory bowel disease
+
+# Heather Armstrong1,2†, Mandana Rahbari1,3†, Heekuk Park4, David Sharon1,3, Aducio Thiesen5, Naomi Hotte1,3, Ning Sun1,3,6, Hussain Syed1,3,6, Hiatem Abofayed1,3,6, Weiwei Wang1,3, Karen Madsen1,3, Eytan Wine1,7,8 and Andrew Mason1,3,6,9*
+
+# Abstract
+
+# Background
+
+Following viral infection, genetically manipulated mice lacking immunoregulatory function may develop colitis and dysbiosis in a strain-specific fashion that serves as a model for inflammatory bowel disease (IBD). We found that one such model of spontaneous colitis, the interleukin (IL)-10 knockout (IL-10−/−) model derived from the SvEv mouse, had evidence of increased Mouse mammary tumor virus (MMTV) viral RNA expression compared to the SvEv wild type. MMTV is endemic in several mouse strains as an endogenously encoded Betaretrovirus that is passed as an exogenous agent in breast milk. As MMTV requires a viral superantigen to replicate in the gut-associated lymphoid tissue prior to the development of systemic infection, we evaluated whether MMTV may contribute to the development of colitis in the IL-10−/− model.
+
+# Results
+
+Viral preparations extracted from IL-10−/− weanling stomachs revealed augmented MMTV load compared to the SvEv wild type. Illumina sequencing of the viral genome revealed that the two largest contigs shared 96.4–97.3% identity with the mtv-1 endogenous loci and the MMTV(HeJ) exogenous virus from the C3H mouse. The MMTV sag gene cloned from IL-10−/− spleen encoded the MTV-9 superantigen that preferentially activates T-cell receptor Vβ-12 subsets, which were expanded in the IL-10−/− versus the SvEv colon. Evidence of MMTV cellular immune responses to MMTV Gag peptides was observed in the IL-10−/− splenocytes with amplified interferon-γ production versus the SvEv wild type. To address the hypothesis that MMTV may contribute to colitis, we used HIV reverse transcriptase inhibitors, tenofovir and emtricitabine, and the HIV protease inhibitor, lopinavir boosted with ritonavir, for 12-week treatment versus placebo. The combination antiretroviral therapy with known activity against MMTV was associated with reduced colonic MMTV RNA and improved histological score in IL-10−/− mice, as well as diminished secretion of pro-inflammatory cytokines and modulation of the microbiome associated with colitis.
+
+# Conclusions
+
+This study suggests that immunogenetically manipulated mice with deletion of IL-10 may have reduced capacity to contain MMTV infection in a mouse-strain-specific manner, and the antiviral inflammatory responses may contribute to the complexity of IBD with the development of colitis and dysbiosis.
+
+# Keywords
+
+Inflammatory bowel disease, Interleukin-10 knockout mouse, Mouse mammary tumor virus
+
+†Heather Armstrong and Mandana Rahbari shared co-first authorship.
+
+*Correspondence: Andrew Mason andrew.mason@ualberta.ca
+
+Full list of author information is available at the end of the article
+
+© The Author(s) 2023. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.

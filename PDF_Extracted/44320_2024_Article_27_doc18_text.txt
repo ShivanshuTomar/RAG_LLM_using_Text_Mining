@@ -1,0 +1,47 @@
+# Molecular Systems Biology
+
+# Amrisha Bhosle et al
+
+# References
+
+1. Bieganowski P, Brenner C (2004) Discoveries of nicotinamide riboside as a nutrient and conserved NRK genes establish a Preiss-Handler independent route to NAD+ in fungi and humans. Cell 117:495–502
+2. Brown KD, Maqsood S, Huang JY, Pan Y, Harkcom W, Li W, Sauve A, Verdin E, Jaffrey SR (2014) Activation of SIRT3 by the NAD(+) precursor nicotinamide riboside protects from noise-induced hearing loss. Cell Metab 20:1059–1068
+3. Canto C, Houtkooper RH, Pirinen E, Youn DY, Oosterveer MH, Cen Y, Fernandez-Marcos PJ, Yamamoto H, Andreux PA, Cettour-Rose P et al (2012) The NAD(+) precursor nicotinamide riboside enhances oxidative metabolism and protects against high-fat diet-induced obesity. Cell Metab 15:838–847
+4. Caspi R, Billington R, Ferrer L, Foerster H, Fulcher CA, Keseler IM, Kothari A, Krummenacker M, Latendresse M, Mueller LA et al (2016) The MetaCyc database of metabolic pathways and enzymes and the BioCyc collection of pathway/genome databases. Nucleic Acids Res 44:D471–480
+5. Chaleckis R, Meister I, Zhang P, Wheelock CE (2019) Challenges, progress and promises of metabolite annotation for LC-MS-based metabolomics. Curr Opin Biotechnol 55:44–50
+6. Chellappa K, McReynolds MR, Lu W, Zeng X, Makarov M, Hayat F, Mukherjee S, Bhat YR, Lingala SR, Shima RT et al (2022) NAD precursors cycle between host tissues and the gut microbiome. Cell Metab 34:1947–1959.e1945
+7. Chen G, Ran X, Li B, Li Y, He D, Huang B, Fu S, Liu J, Wang W (2018) Sodium butyrate inhibits inflammation and maintains epithelium barrier integrity in a TNBS-induced inflammatory bowel disease mice model. EBioMedicine 30:317–325
+8. Chen ML, Takeda K, Sundrud MS (2019) Emerging roles of bile acids in mucosal immunity and inflammation. Mucosal Immunol 12:851–861
+9. Chun E, Lavoie S, Fonseca-Pereira D, Bae S, Michaud M, Hoveyda HR, Fraser GL, Gallini Comeau CA, Glickman JN, Fuller MH et al (2019) Metabolite-sensing receptor Ffar2 regulates colonic group 3 innate lymphoid cells and gut immunity. Immunity 51:871–884.e876
+10. De Preter V, Machiels K, Joossens M, Arijs I, Matthys C, Vermeire S, Rutgeerts P, Verbeke K (2015) Faecal metabolite profiling identifies medium-chain fatty acids as discriminating compounds in IBD. Gut 64:447–458
+11. Djoumbou Feunang Y, Eisner R, Knox C, Chepelev L, Hastings J, Owen G, Fahy E, Steinbeck C, Subramanian S, Bolton E et al (2016) ClassyFire: automated chemical classification with a comprehensive, computable taxonomy. J Cheminform 8:61
+12. Djoumbou-Feunang Y, Fiamoncini J, Gil-de-la-Fuente A, Greiner R, Manach C, Wishart DS (2019) BioTransformer: a comprehensive computational tool for small molecule metabolism prediction and metabolite identification. J Cheminform 11:2
+13. Donia MS, Fischbach MA (2015) HUMAN MICROBIOTA. Small molecules from the human microbiota. Science 349:1254766
+14. Edmands WM, Petrick L, Barupal DK, Scalbert A, Wilson MJ, Wickliffe JK, Rappaport SM (2017) compMS2Miner: an automatable metabolite identification, visualization, and data-sharing R package for high-resolution LC-MS data sets. Anal Chem 89:3919–3928
+15. Elhassan YS, Kluckova K, Fletcher RS, Schmidt MS, Garten A, Doig CL, Cartwright DM, Oakey L, Burley CV, Jenkinson N et al (2019) Nicotinamide riboside augments the aged human skeletal muscle NAD(+) metabolome and induces transcriptomic and anti-inflammatory signatures. Cell Rep 28:1717–1728.e1716
+16. Elsden SR, Hilton MG, Waller JM (1976) The end products of the metabolism of aromatic amino acids by Clostridia. Arch Microbiol 107:283–288
+17. Fahmy K, Gray CH, Nicholson DC (1972) The reduction of bile pigments by faecal and intestinal bacteria. Biochim Biophys Acta 264:85–97
+18. Fox Ramos AE, Pavesi C, Litaudon M, Dumontet V, Poupon E, Champy P, Genta-Jouve G, Beniddir MA (2019) CANPA: computer-assisted natural products anticipation. Anal Chem 91:11247–11252
+19. Franzosa EA, Sirota-Madi A, Avila-Pacheco J, Fornelos N, Haiser HJ, Reinker S, Vatanen T, Hall AB, Mallick H, McIver LJ et al (2019) Gut microbiome structure and metabolic activity in inflammatory bowel disease. Nat Microbiol 4:293–305
+20. Funabashi M, Grove TL, Wang M, Varma Y, McFadden ME, Brown LC, Guo C, Higginbottom S, Almo SC, Fischbach MA (2020) A metabolic pathway for bile acid dehydroxylation by the gut microbiome. Nature 582:566–570
+21. Gallagher K, Catesson A, Griffin JL, Holmes E, Williams HRT (2021) Metabolomic analysis in inflammatory bowel disease: a systematic review. J Crohns Colitis 15:813–826
+22. Garner CE, Smith S, de Lacy Costello B, White P, Spencer R, Probert CS, Ratcliffe NM (2007) Volatile organic compounds from feces and their potential for diagnosis of gastrointestinal disease. FASEB J 21:1675–1688
+23. Gazzaniga F, Stebbins R, Chang SZ, McPeek MA, Brenner C (2009) Microbial NAD metabolism: lessons from comparative genomics. Microbiol Mol Biol Rev 73:529–541.
+24. Guijas C, Montenegro-Burke JR, Domingo-Almenara X, Palermo A, Warth B, Hermann G, Koellensperger G, Huan T, Uritboonthai W, Aisporna AE et al (2018) METLIN: a technology platform for identifying knowns and unknowns. Anal Chem 90:3156–3164
+25. Hamoud AR, Weaver L, Stec DE, Hinds Jr TD (2018) Bilirubin in the liver-gut signaling axis. Trends Endocrinol Metab 29:140–150
+26. Han S, Van Treuren W, Fischer CR, Merrill BD, DeFelice BC, Sanchez JM, Higginbottom SK, Guthrie L, Fall LA, Dodd D et al (2021) A metabolomics pipeline for the mechanistic interrogation of the gut microbiome. Nature 595:415–420
+27. Hopper DJ, Taylor DG (1975) Pathways for the degradation of m-cresol and p-cresol by Pseudomonas putida. J Bacteriol 122:1–6
+28. Igarashi M, Miura M, Williams E, Jaksch F, Kadowaki T, Yamauchi T, Guarente L (2019) NAD(+) supplementation rejuvenates aged gut adult stem cells. Aging Cell 18:e12935
+29. Jansson JK, Hofmockel KS (2020) Soil microbiomes and climate change. Nat Rev Microbiol 18:35–46
+30. Kanehisa M, Goto S (2000) KEGG: kyoto encyclopedia of genes and genomes. Nucleic Acids Res 28:27–30
+31. Kelly CJ, Zheng L, Campbell EL, Saeedi B, Scholz CC, Bayless AJ, Wilson KE, Glover LE, Kominsky DJ, Magnuson A et al (2015) Crosstalk between microbiota-derived short-chain fatty acids and intestinal epithelial HIF augments tissue barrier function. Cell Host Microbe 17:662–671
+32. Kim S, Chen J, Cheng T, Gindulyte A, He J, He S, Li Q, Shoemaker BA, Thiessen PA, Yu B et al (2021) PubChem in 2021: new data content and improved web interfaces. Nucleic Acids Res 49:D1388–D1395
+33. Koeth RA, Wang Z, Levison BS, Buffa JA, Org E, Sheehy BT, Britt EB, Fu X, Wu Y, Li L et al (2013) Intestinal microbiota metabolism of L-carnitine, a nutrient in red meat, promotes atherosclerosis. Nat Med 19:576–585
+34. Kolomytseva MP, Baskunov BP, Golovleva LA (2007) Intradiol pathway of para-cresol conversion by Rhodococcus opacus 1CP. Biotechnol J 2:886–893
+35. Kour D, Kaur T, Devi R, Yadav A, Singh M, Joshi D, Singh J, Suyal DC, Kumar A, Rajput VD et al (2021) Beneficial microbiomes for bioremediation of diverse contaminated environments for environmental sustainability: present status and future challenges. Environ Sci Pollut Res Int 28:24917–24939
+36. Krautkramer KA, Fan J, Backhed F (2021) Gut microbial metabolites as multi-kingdom intermediates. Nat Rev Microbiol 19:77–94
+37. Kurnasov O, Goral V, Colabroy K, Gerdes S, Anantha S, Osterman A, Begley TP (2003) NAD biosynthesis: identification of the tryptophan to quinolinate pathway in bacteria. Chem Biol 10:1195–1204
+38. Langfelder P, Horvath S (2008) WGCNA: an R package for weighted correlation network analysis. BMC Bioinformatics 9:559
+39. Langfelder P, Zhang B, Horvath S (2008) Defining clusters from a hierarchical cluster tree: the Dynamic Tree Cut package for R. Bioinformatics 24:719–720
+
+356 Molecular Systems Biology Volume 20 | Issue 4 | April 2024 | 338 – 361 © The Author(s)

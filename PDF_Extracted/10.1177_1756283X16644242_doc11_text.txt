@@ -1,0 +1,51 @@
+# SM Vindigni, TL Zisman et al.
+
+# References
+
+Bernstein, C. and Shanahan, F. (2008) Disorders of a modern lifestyle: reconciling the epidemiology of inflammatory bowel diseases. Gut 57: 1185–1191.
+
+Bertrand, J., Ghouzali, I., Guerin, C., Bole-Feysot, C., Gouteux, M., Dechelotte, P. et al. (2015) Glutamine restores tight junction protein claudin-1 expression in colonic mucosa of patients with diarrhea-predominant irritable bowel syndrome. JPEN J Parenter Enteral Nutr, 13 May 2015 [Epub ahead of print].
+
+Bianco, A., Girardelli, M. and Tommasini, A. (2015) Genetics of inflammatory bowel disease from multifactorial to monogenic forms. World J Gastroenterol 21: 12296–12310.
+
+Biedermann, L., Zeitz, J., Mwinyi, J., Sutter-Minder, E., Rehman, A., Ott, S. et al. (2013) Smoking cessation induces profound changes in the composition of the intestinal microbiota in humans. PLoS One 8: e59260.
+
+Blonski, W., Buchner, A., Aberra, F. and Lichtenstein, G. (2013) Teduglutide in Crohn’s disease. Expert Opin Biol Ther 13: 1207–1214.
+
+Bollhalder, L., Pfeil, A., Tomonaga, Y. and Schwenkglenks, M. (2013) A systematic literature review and meta-analysis of randomized clinical trials of parenteral glutamine supplementation. Clin Nutr 32: 213–223.
+
+Borody, T., Paramsothy, S. and Agrawal, G. (2013) Fecal microbiota transplantation: indications, methods, evidence, and future directions. Curr Gastroenterol Rep 15: 337.
+
+Borrelli, O., Cordischi, L., Cirulli, M., Paganelli, M., Labalestra, V., Uccini, S. et al. (2006) Polymeric diet alone versus corticosteroids in the treatment of active pediatric Crohn’s disease: a randomized controlled open-label trial. Clin Gastroenterol Hepatol 4: 744–753.
+
+Bourlioux, P. and Workgroup of the French Academy of Pharmacy (2015) Faecal microbiota transplantation: key points to consider. Ann Pharm Fr 73: 163–168.
+
+Brandt, L., Bernstein, L., Boley, S. and Frank, M. (1982) Metronidazole therapy for perineal Crohn’s disease: a follow-up study. Gastroenterology 83: 383–387.
+
+Buchman, A., Katz, S., Fang, J., Bernstein, C. and Abou-Assi, S. Teduglutide Study Group (2010) Teduglutide, a novel mucosally active analog of glucagon-like peptide-2 (GLP-2) for the treatment of moderate to severe Crohn’s disease. Inflamm Bowel Dis 16: 962–973.
+
+Buhner, S., Buning, C., Genschel, J., Kling, K., Herrmann, D., Dignass, A. et al. (2006) Genetic basis for increased intestinal permeability in families with Crohn’s disease: role of CARD15 3020insC mutation? Gut 55: 342–347.
+
+Busquets, D., Mas-De-Xaxars, T., Lopez-Siles, M., Martinez-Medina, M., Bahi, A., Sabat, M. et al. (2015) Anti-tumour necrosis factor treatment with adalimumab induces changes in the microbiota of Crohn’s disease. J Crohns Colitis 9: 899–906.
+
+Camilleri, M., Madsen, K., Spiller, R., Greenwood-Van Meerveld, B. and Verne, G. (2012) Intestinal barrier function in health and gastrointestinal disease. Neurogastroenterol Motil 24: 503–512.
+
+Cammarota, G., Ianiro, G., Cianci, R., Bibbò, S., Gasbarrini, A. and Currò, D. (2015) The involvement of gut microbiota in inflammatory bowel disease pathogenesis: potential for therapy. Pharmacol Ther 149: 191–212.
+
+Cani, P., Possemiers, S., Van De Wiele, T., Guiot, Y., Everard, A., Rottier, O. et al. (2009) Changes in gut microbiota control inflammation in obese mice through a mechanism involving GLP-2-driven improvement of gut permeability. Gut 58: 1091–1103.
+
+Catanzaro, D., Rancan, S., Orso, G., Dall’acqua, S., Brun, P., Giron, M. et al. (2015) Boswellia serrata preserves intestinal epithelial barrier from oxidative and inflammatory damage. PLoS One 10: e0125375.
+
+Chan, S., Luben, R., Bergmann, M., Boeing, H., Olsen, A., Tjonneland, A. et al. (2011) Aspirin in the aetiology of Crohn’s disease and ulcerative colitis: a European prospective cohort study. Aliment Pharmacol Ther 34: 649–655.
+
+Chapman-Kiddell, C., Davies, P., Gillen, L. and Radford-Smith, G. (2010) Role of diet in the development of inflammatory bowel disease. Inflamm Bowel Dis 16: 137–151.
+
+Chassaing, B., Koren, O., Goodrich, J., Poole, A., Srinivasan, S., Ley, R. et al. (2015) Dietary emulsifiers impact the mouse gut microbiota promoting colitis and metabolic syndrome. Nature 519: 92–96.
+
+Cheluvappa, R., Luo, A.S. and Grimm, M.C. (2014) Autophagy Suppression by Appendicitis and Appendectomy Protects against Colitis. Inflamm Bowel Dis 20: 847–855.
+
+Chiba, M., Abe, T., Tsuda, H., Sugawara, T., Tsuda, S., Tozawa, H. et al. (2010) Lifestyle-related disease in Crohn’s disease: relapse prevention by a semi-vegetarian diet. World J Gastroenterol 16: 2484–2495.
+
+Chow, J., Tang, H. and Mazmanian, S. (2011) Pathobionts of the gastrointestinal microbiota and inflammatory disease. Curr Opin Immunol 23: 473–480.
+
+Clayton, E., Rea, M., Shanahan, F., Quigley, E., Kiely, B., Hill, C. et al. (2009) The vexed relationship between Clostridium difficile and inflammatory

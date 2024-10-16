@@ -1,0 +1,27 @@
+# Tian et al. Microbiome (2024) 12:130
+
+# Methods
+
+# Sample Preparation
+
+The samples were then filtered through 0.45-μm and 0.22-μm filter membranes. The samples were then subjected to ultracentrifugation (750,000 × g, 60 min), followed by resuspension in saline solution. For counting the virus component prepared in the previous step, fixation was carried out using formalin. Subsequently, filtration was performed using a 0.02-μm filter (Whatman). Afterward, staining was done using SYBR Gold (Thermo Scientific) dye, and images were captured using an epifluorescence microscope for counting. Based on these results, the virus particle concentration for FVT was adjusted to approximately 1 × 109/mL. For animal experiments, 200 μL was administered by gavage each time per mouse.
+
+# DSS‑induced colitis model
+
+Healthy male C57BL/6 mice were maintained under SPF conditions for 1 week prior to the experiment. Mice received an antibiotics cocktail in the drinking water for 5 days (neomycin 1 mg/mL, streptomycin 1 mg/mL, and bacitracin 1 mg/mL) to deplete gut microbiota. Then, mice received FMT from either IBD patients or healthy controls for 21 days to generate HMA mice, followed by a high-dose FVT for 5 more days. After FMT and FVT, colitis was induced by 2% (w/v) DSS in the drinking water for 7 days, followed by 2 days of regular drinking water before sacrifice. Throughout the experiment, consistent daily dosing was maintained, and changes in the mice’s body weight, diarrhea, and rectal bleeding were recorded. At the end of the experiment, the mice were anesthetized, and a colonoscopy was performed. Subsequently, the mice were euthanized, and the colon were collected and the colon length was measured. Approximately 1 cm segments of the colon were placed in formaldehyde fixation solution for histological analysis, while the remaining portions were placed in centrifuge tubes and stored at − 80 °C for subsequent experiments.
+
+# Microbial compositional analysis
+
+Fecal specimens of mice were collected before and after the FVT procedures. Each fecal samples underwent for microbial DNA extraction, DNA library preparation, shotgun metagenomic sequencing, and data quality control using the aforementioned methods employed for bulk metagenomic sequencing of human feces. To determinate the viral composition of the mouse fecal samples, sequencing reads were mapped to the vOTU catalog of this study using Bowtie 2, and the read count for each vOTU were generated. For each sample, the relative abundances of IBD-enriched and control-enriched vOTUs were calculated by summing the read count of each type of vOTUs and then dividing by the total number of reads of that sample. Similarly, the bacterial composition was determined by mapping the sequencing reads to the UHGG database. Due to the substantial difference in genome size between viruses and bacteria, directly comparing their relative abundances in samples cannot adequately reflect their differences. Therefore, we used the virus-to-bacterium ratio to reflect the difference of “cell count” between viruses and bacteria in each fecal sample. For each virus or bacterium, the number of mapped reads was divided by its genome length to obtain an estimate of “cell count”. The sum of “cell counts” for all viruses was divided by the sum of “cell counts” for all bacteria to obtain the virus-to-bacterium ratio.
+
+# DAI scores
+
+The disease activity index (DAI), including body weight loss, diarrhea, and rectal bleeding, was assigned scores on a 0–4 scale. Body weight: 0, body weight loss ≤ 0; 1, body weight loss ≤ 5; 2, body weight loss ≤ 10; 3, body weight loss ≤ 15; and 4, body weight loss > 15. Diarrhea: 0, normal stool; 1, soft but still formed stool; 2, soft stool; 3, very soft and wet stool; and 4, watery stool. Rectal bleeding: 0, no bleeding; 1, positive hemoccult; 2, visible blood traces in stool; 3, visible blood traces that adhered to the anus; and 4, gross bleeding.
+
+# Hematoxylin and eosin (HE) staining
+
+Fixed colon segments were fixed in 10% buffered formaldehyde solution, embedded in paraffin, and sectioned. Sections were stained with HE for pathological lesion assessment. Pathological injures (crypt damage, inflammation, and ulceration) were assigned scores on a 0–3 scale by experienced and blinded researchers used a pathology scoring method as follows. Inflammation was scored as follows: 0 = none; 1 = slight; 2 = moderate; and 3 = severe. Crypt damage was assigned scores as follows: 0, normal; 1, mild to moderate crypt loss (basal 1/3 damage); 2, severe crypt loss (basal 2/3 damage); and 3, complete crypt loss. Ulceration was assigned scores as follows: 0, normal; 1, destruction of mucosa; 2, destruction of musularis mucosa layer; and 3, destruction of submucosa.
+
+# qPCR
+
+The levels of inflammatory cytokines (TNFα, IL1β, IL6, IFNγ) in the colon were determined by qPCR assays. Approximately 25 mg of colon tissue was placed in 500 μL of Trizol to obtain total RNA. A total of 1000 ng of total RNA was reverse-transcribed into cDNA using a reverse transcription kit according to the manufacturer’s instructions. The primers used for qPCR were designed as follows: IL1β: Forward 5’-TGCCACCTT TTGACAGTG ATG-3’, Reverse 5’-TGATGTGCTGCTGCGAGATT-3’; IL6: Forward 5’-GGG ACTGATGCTGGTGACAA-3’, Reverse

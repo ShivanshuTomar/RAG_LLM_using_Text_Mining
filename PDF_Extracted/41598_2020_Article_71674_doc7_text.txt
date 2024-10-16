@@ -1,0 +1,54 @@
+# Scientific Reports
+
+# (2020) 10:15131
+
+# https://doi.org/10.1038/s41598-020-71674-8
+
+|Indo| |Pred|Cipr|Sulf|Azat|Meth|Hydr|
+|---|---|---|---|---|---|---|---|
+|NHAA Ecoli|55.88|-4217|4.799|-6.506|-3.491|-7.362|-6.558|
+|NHAA Koxy|-3.941|4.782|426|-3.704|-3.459|5.083|4514|
+|NHAA $: typ|-3.964|-3.995|5.135|4.991|4591|4.068|-2.597|
+|NHAA S: dys|5.134|4575|4.757|-6.697|33.847|-8.059|-6.047|
+|NHAA Y ent|-6.245|4393|6.294|-7.085|-3.451|6.727|-7447|
+|KYNU human|1.113|-3.249|-2.285|4.049|-3.841|3.016|5.357|
+
+Figure 5. Docking scores of drugs utilised in IBD and ReA against NHAA and KYNU.
+
+Deaminase (ADA), Catalase (CAT) and Superoxide Dismutase 2 (SOD2) with both IBD and ReA from analysed datasets, published datasets and literature sources (see Supplementary Table S10 online). These 397 proteins can be postulated as probable contenders transcending their role in the simulated network as important regulators in the co-existent disorders.
+
+The composite associations of the above 397 proteins with non-specific protein diagnostic markers of IBD and ReA were obtained (see Supplementary Table S11 online). This gave rise to a single connected protein network consisting of 402 proteins and 13,350 interactions. The association of above 402 with symptoms and diseases linked with IBD and ReA were obtained (see Supplementary Table S12 online). Apart from non-specific diagnostic markers, the major protein linked with majority of symptoms/diseases is Angiotensin I Converting Enzyme (ACE).
+
+78 pathways of the 402 proteins were obtained (see Supplementary Table S13 online) in total out of which the pathway associated with majority of proteins was carbon metabolism.
+
+Another layer of disease network substantiates the role of therapeutic regime followed in the studied autoimmune diseases, so the docking analysis of drugs used to suppress the effect of IBD and ReA against NHAA of target microorganisms and KYNU of human host was done.
+
+The docking analysis resulted in docking scores that represent binding of drugs with host KYNU and microbial NHAA of all 5 microorganisms selected in our study. Higher the negative docking score more is the binding.
+
+Escherichia coli O157:H7 NHAA shows highest and lowest docking score with methotrexate (− 7.362) and azathioprine (− 3.491); Klebsiella oxytoca NHAA with methotrexate (− 5.083) and azathioprine (− 3.459); Salmonella typhimurium NHAA with ciprofloxacin (− 5.135) and hydroxychloroquine (− 2.597); Shigella dysenteriae NHAA with methotrexate (− 8.059) and azathioprine (− 3.847); Yersinia enterocolitica NHAA with hydroxychloroquine (− 7.47) and azathioprine (− 3.451) and human KYNU with hydroxychloroquine (− 5.357) and indomethacin (1.113). Our results portray methotrexate to have highest docking scores with maximum proteins and therefore can be considered as a vital drug for IBD associated ReA.
+
+The resultant docking scores are provided in Fig. 5.
+
+The extensive interaction pattern of NHAA with KYNU along with 396 proteins, 5 markers, 66 symptoms/diseases, 78 pathways and 7 drugs give rise to a host-microbe disease network of IBD co-existent ReA (Fig. 6 and see Supplementary Table S14 online).
+
+The final league of information processed in this study design was to accommodate the concept of molecular mimicry between the essential host proteins and selected microorganisms.
+
+NHAA protein of target microorganisms shows homology with human HLA-B27, HLA-B51 and HLA-DRB1 (Fig. 7).
+
+Peptides homologous to HLA-B27:
+
+- Escherichia coli O157:H7 (112–126)
+- Klebsiella oxytoca (114–156)
+- Salmonella typhimurium (3–13)
+- Shigella dysenteriae (112–126)
+- Yersinia enterocolitica (349–373)
+
+Peptides homologous to HLA-B51:
+
+- Escherichia coli O157:H7 (112–140)
+- Klebsiella oxytoca (114–122)
+- Salmonella typhimurium (204–245)
+- Shigella dysenteriae (112–140)
+- Yersinia enterocolitica (107–164)
+
+Peptides homologous to HLA-DRB1:

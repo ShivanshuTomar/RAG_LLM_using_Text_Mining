@@ -1,0 +1,33 @@
+# Zhao et al. Microbiome
+
+# (2022) 10:115
+
+# References
+
+1. Smelt MJ, de Haan BJ, Bron PA, van Swam I, Meijerink M, Wells JM, et al. The impact of Lactobacillus plantarum WCFS1 teichoic acid D-alanylation on the generation of effector and regulatory T-cells in healthy mice. PLoS One. 2013;8:e63099.
+2. Cervantes-Barragan L, Chai JN, Tianero MD, Di Luccia B, Ahern PP, Merriman J, et al. Lactobacillus reuteri induces gut intraepithelial CD4+ CD8αα+ T cells. Science. 2017;357:806–10.
+3. Strugnell RA, Wijburg OLC. The role of secretory antibodies in infection immunity. Nat Rev Microbiol. 2010;8:656–67.
+4. Gopalakrishnan V, Helmink BA, Spencer CN, Reuben A, Wargo JA. The influence of the gut microbiome on cancer, immunity, and cancer immunotherapy. Cancer Cell. 2018;33:570–80.
+5. Ghosh S, Whitley CS, Haribabu B, Jala VR. Regulation of intestinal barrier function by microbial metabolites. Cell Mol Gastroenter. 2021;11:1463–82.
+6. Ong HS, Yim HCH. Microbial factors in inflammatory diseases and cancers. Adv Exp Med Biol. 2017;1024:153–74.
+7. Prochazkova P, Roubalova R, Dvorak J, Tlaskalova-Hogenova H, Cermakova M, Tomasova P, et al. Microbiota, microbial metabolites, and barrier function in a patient with anorexia nervosa after fecal microbiota transplantation. Microorganisms. 2019;7:338.
+8. Kurashima Y, Kiyono H. Mucosal ecological network of epithelium and immune cells for gut homeostasis and tissue healing. Annu Rev Immunol. 2017;35:119–47.
+
+# Publisher’s Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+# Ready to submit your research?
+
+Choose BMC and benefit from:
+
+- fast, convenient online submission
+- thorough peer review by experienced researchers in your field
+- rapid publication on acceptance
+- support for research data, including large and complex data types
+- gold Open Access which fosters wider collaboration and increased citations
+- maximum visibility for your research: over 100M website views per year
+
+At BMC, research is always in progress.
+
+Learn more biomedcentral.com/submissions

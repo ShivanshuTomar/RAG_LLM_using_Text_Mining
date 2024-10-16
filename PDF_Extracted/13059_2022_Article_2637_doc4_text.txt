@@ -1,0 +1,21 @@
+# Abbas-Egbariya et al. Genome Biology (2022) 23:61
+
+# Page 5 of 23
+
+|Disease-cohorts|Case|Control|Effect size (Disease cohort 1)| |
+|---|---|---|---|---|
+|Autism|259|Schizophrenia|2/59| |
+|Drabctos Thec|2|4/59|Depression|2/59|
+|Heart diseases|2459|IBD|14759| |
+|Cancer|2/59|H459|10s3/59| |
+|Other diseases|13/59| | | |
+
+# Meta-analysis pipeline
+
+We reanalyzed 12,838 human gut samples, spanning 59 disease cohorts linked with 28 unique diseases (A). Per-sample V4 16S amplicon sequencing raw reads were processed using Deblur, resulting in bacterial amplicon sequence variants (ASVs) (B). Potential disease dependent ASVs within each original study were identified separately within each disease cohort (rank mean tests, FDR < 0.25, using a random subset of 23 cases and 10 controls to include as many case/control comparison and avoid dominance of large cohort size) (C). ASVs were then combined, resulting in 731 unique ASVs (D). For each disease cohort, the effect size (normalized rank mean difference—NRMD) was calculated for these 731 ASVs using all available samples in each cohort (n = 12,838) (E), and results were combined to a single table (F). Each column in the heatmap represents a single disease cohort, and each row represents a single ASV, with color representing the NRMD effect size; red and blue colors indicate higher or lower in disease respectively, while white indicates ASVs not present in the disease cohort. Non-disease specific ASVs were identified using a binomial test (FDR < 0.1) (G), whereas CD/UC specific ASVs were identified using rank-mean test (FDR < 0.1) (H).
+
+(NRMD) was now calculated between cases and controls within each disease cohort, using all samples in each disease cohort (n = 12,838).
+
+# Similarities and differences in the microbial composition within and between disease states
+
+To evaluate the ability of our pipeline to reduce the study specific contribution and to capture signals across diseases/studies, we used a Bray-Curtis based principal coordinates analysis (PCoA) either on the original mean ASVs relative abundance in cases and controls in each study (Additional file 1: Fig. S1C-D) or on the NRMD effect size resulting from our pipeline. Using the original mean relative abundance, cases, and controls from each disease cohort tended to be positioned together (Additional file 1:).

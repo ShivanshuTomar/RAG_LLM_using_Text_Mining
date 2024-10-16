@@ -1,0 +1,16 @@
+# Alatawi et al.: Microbiota and anti-TNF-α response in IBD patients
+
+# FIGURE S5.
+
+| |PCon|PCI|PC?|
+|---|---|---|---|
+|Gali|0:0|PCI|PCZ|
+| |0]5| | |
+
+(A) Beta diversity and Bray-Curtis distance; (B) Unweighted UniFrac diversity distance. Shows the dissimilarity/similarity between the two groups, responders (R) and primary non-responders (P).
+
+Bosn J Basic Med Sci. 2022;22(3):412-426
+
+426
+
+www.bjbms.org

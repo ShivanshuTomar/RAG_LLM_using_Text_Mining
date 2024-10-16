@@ -1,0 +1,39 @@
+# Scientific Reports
+
+# (2023) 13:19428
+
+# Top 10 pathway nodes with the highest betweenness centrality in the Crohn’s disease (CD) correlation network with prevalent pathways.
+
+|Node|Pathway|Betweenness centrality|
+|---|---|---|
+|137|DTDPRHAMSYN-PWY|UNCLASSIFIED|0.419592|
+|462|PWY-5659|BACTEROIDES_OVATUS|0.414082|
+|632|PWY-6124|BACTEROIDES_OVATUS|0.349599|
+|988|PWY-7219|BACTEROIDES_UNIFORMIS|0.342192|
+|105|COA-PWY|UNCLASSIFIED|0.258219|
+|1261|SER-GLYSYN-PWY|FAECALIBACTERIUM_PRAUSNITZII|0.133321|
+|204|ILEUSYN-PWY|UNCLASSIFIED|0.116815|
+|5|1CMET2-PWY|BACTEROIDES_UNIFORMIS|0.10414|
+|1205|PWY0-845|BACTEROIDES_UNIFORMIS|0.073644|
+|821|PWY-6527|UNCLASSIFIED|0.051347|
+
+The pathways with the highest betweenness centralities can be found in Table 2.
+
+The pathways in the UC correlation network were divided into 5 modules. The smallest module (coral red) was composed of E. rectale pathways scattered around the network. The dark green nodes mixed with the turquoise nodes were B. ovatus pathways mixed with B. uniformis pathways, respectively. The green module comprised of unclassified species pathways, whereas, the light purple module comprised of F. prausnitzii pathways. The green and the light purple modules were strictly connected similarly to the NI correlation network, the pathways connecting them were the node COA-PWY|UNCLASSIFIED, which was linked to several nodes of both modules and node PWY-6121|FAECALIBACTERIUM_PRAUSNITZII, which was linked to nodes PWY-724|UNCLASSIFIED and THRESYN-PWY|UNCLASSIFIED. Even E. rectale behaved as a bridge between the two large modules through a few connections. Furthermore, there was one node of F. prausnitzii module that was deeply correlated with all the P. vulgatus pathways: node DTDPRHAMSYN-PWY|FAECALIBACTERIUM_PRAUSNITZII. Finally, two nodes with high betweenness centrality were node PWY-6737|FAECALIBACTERIUM_PRAUSNITZII in the light purple module and node PWY-6703|BACTEROIDES_UNIFORMIS in the mixed dark green and turquoise module (see Table 3). Differently from the NI correlation network, B. uniformis did not correlate P. vulgatus, whereas it correlated with B. ovatus.
+
+In Fig. 2, we have projected the bipartite network, a graph with two distinct sets of nodes (namely samples and pathways), onto the nodes of the bacterial pathways and we validate the projection through a null model (with the following parameters; significance threshold α = 0.05 and family-wise error rate fwer = none). Again, we divided the pathways according to their presence along with the samples. We considered the case of 75% of the presence across the samples for NI subjects. We found 1715 edges for 153 nodes and the community detection resulted in 6 large communities; namely, the unclassified species community, the F. prausnitzii community, the E. rectale community, the B. uniformis community, the B. ovatus community and P. vulgatus community. All the communities identified were isolated, the node COA-PWY|UNCLASSIFIED was connected to the unclassified module through the nodes PWY-6609|UNCLASSIFIED, PWY-3001|UNCLASSIFIED, and THRESYN-PWY|UNCLASSIFIED. Also, nodes PWY-5100|UNCLASSIFIED and PANTO-PWY|UNCLASSIFIED were separated from the rest of the unclassified module. Considering F. prausnitzii module, nodes PWY0-1586|FAECALIBACTERIUM_PRAUSNITZII, PWY-6305|FAECALIBACTERIUM_PRAUSNITZII, and PWY-5659|-FAECALIBACTERIUM_PRAUSNITZII were disconnected from the rest of the module. In Table 4, the pathways with the highest centrality belonged to unclassified and F. prausnitzii. This can explained by the fact that the two groups of pathways are merged in a unique module.
+
+# Top 10 pathway nodes with the highest betweenness centrality in the Crohn’s disease (CD) correlation network with prevalent pathways.
+
+|Node|Pathway|Betweenness centrality|
+|---|---|---|
+|901|PWY-6737|FAECALIBACTERIUM_PRAUSNITZII|0.319|
+|105|COA-PWY|UNCLASSIFIED|0.315|
+|873|PWY-6703|BACTEROIDES_UNIFORMIS|0.311|
+|133|DTDPRHAMSYN-PWY|FAECALIBACTERIUM_PRAUSNITZII|0.179|
+|579|PWY-6121|FAECALIBACTERIUM_PRAUSNITZII|0.110|
+|1093|PWY-724|UNCLASSIFIED|0.049|
+|1284|THRESYN-PWY|UNCLASSIFIED|0.049|
+|101|COA-PWY|FAECALIBACTERIUM_PRAUSNITZII|0.037|
+|1008|PWY-7219|EUBACTERIUM_RECTALE|0.029|
+|1154|PWY0-1296|UNCLASSIFIED|0.022|

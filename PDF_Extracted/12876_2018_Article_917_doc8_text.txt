@@ -1,0 +1,59 @@
+# Imhann et al. BMC Gastroenterology (2019) 19:5
+
+# Downloading 1000IBD research data
+
+The 1000IBD research data can be downloaded from the EGA at https://ega-archive.org using accession number EGAS00001002702. All raw files (FASTQ, IDAT) from genotyping and sequencing of the genome, transcriptome and microbiome will be available to run through custom pipelines. Researchers can reuse the 1000IBD data and perform analyses without the need to set up a cohort, collect samples or perform expensive sequencing. The sharing and reusing of the 1000IBD data will drive IBD research forwards.
+
+# Additional file
+
+# Recalling 1000IBD participants for additional sampling
+
+1000IBD participants are recallable for additional sampling. The possibility to recall patients for additional material is only available to UMCG researchers. However, collaborations in which extra material is collected are possible.
+
+# Coauthorship and citing 1000IBD
+
+The arrangements for publication regarding co-authorship or just citation will depend on the extent of cooperation required by the Groningen team. If IBD participants need to be recalled for additional sampling or if large data processing efforts by the Groningen team are required, co-authorship will be required. However, if a limited amount of data is requested from the EGA, citation of the current manuscript would suffice.
+
+# Privacy and controlled access
+
+To share the molecular and clinical data in a responsible way, we need to maintain patient privacy. It is therefore not possible to publicly share extensive phenotype data, and the publicly available phenotype data will remain limited to a basic phenotype set. 1000IBD data is stored externally in the EGA, but because 1000IBD consists of patient data, a controlled access procedure is in place.
+
+# Preparation of next release
+
+While the first data is released, preparations for the second data release are on-going. The second 1000IBD data release will consist of: i. the complete 544 microbiome WGS metagenomes from stool samples from 544 1000IBD participants and ii. pooled targeted resequencing of UC susceptibility loci.
+
+# Conclusions
+
+The 1000IBD project aims to discover molecular subtypes of IBD and biomarker profiles that capture the clinical heterogeneity of IBD and to prioritise new targets for early stage drug discovery or other interventional strategies by generating extensive multi-omics and phenotype data of over 1000 IBD patients. The project is a showcase for FAIR data management following the guiding principles for scientific data management and stewardship (FAIR: Findability, Accessibility, Interoperability, and Reusability) [39, 40]. All 1000IBD data that can be shared without violating patient privacy will be made available to the scientific community.
+
+# Additional file 1
+
+Table S1. Information_model. This table contains the information model of the 1000IBD phenotypes. (XLS 98 kb)
+
+# Abbreviations
+
+BBMRI-ERIC: Biobanking And BioMolecular Resources Research Infrastructure - European Research Infrastructure Consortium; BBMRI-NL: Biobanking and BioMolecular resources Research Infrastructure The Netherlands; CD: Crohn’s disease; EHR: Electronic Health Record; GI: Gastrointestinal; IBD: Inflammatory bowel disease; IT: Information technology; UC: Ulcerative colitis; UG: University of Groningen in the Netherlands; UMCG: University Medical Center Groningen in the Netherlands
+
+# Acknowledgements
+
+We would like to thank the IBD patients who participate in the 1000IBD project; Dianne Jansen for helping with sample preparation and laboratory experiments; Mariska Slofstra and Marieke Bijlsma for helping upload the 1000IBD data into the 1000ibd.org Molgenis Research web application; Salome Scholtens, Luuk Dijkhuis, Fleur Kelpin, Bart Charbon, Connor Stroomberg, Tommy de Boer, Sido Haakma, Dennis Hendriksen, Chao Pang, and Mark de Haan for helping set up the 1000IBD IT infrastructure; David van Enckevort and Carin Tappel for making 1000IBD findable in catalogues; the UMCG Genomics Coordination center, the UG Center for Information Technology and their sponsors BBMRI-NL & TarGet for storage and computational infrastructure; the nurses of the specialized IBD Center of the UMCG for entering clinical data into the IBD-EHR; and Kate McIntyre for language editing.
+
+# Funding
+
+Setting up 1000IBD.org was funded by BBMRI-NL. RKW is supported by a VIDI grant (016.136.308) from the Netherlands Organization for Scientific Research (NWO) and a Diagnostics Grant from the Dutch Digestive Foundation (MLDS D16–14). EAMF is supported by a Career Development Grant (CD14–04) from the Dutch Digestive Foundation (Maag Lever Darm Stichting). MCV Visschedijk is supported by an AGIKO grant (92.003.577) from the Netherlands Organization for Scientific Research (NWO).
+
+# Availability of data and materials
+
+The data presented in release 1, as well as future releases is available at the EGA, accession number EGAS00001002702.
+
+# Authors’ contributions
+
+FI, RKW, GD and EAMF designed the 1000IBD project. FI, RB, RA, MDV, AVV, CV, LMS, KvdS, VP, HMvD, MCV, GD and RKW entered the data and processed the samples. FI, JvdV, RA, RB and MAS created the software and infrastructure. RB uploaded the data into the 1000ibd.org Molgenis Research web application and the EGA. RA created the visualizations on 1000ibd.org. FI and JvdV wrote the manuscript. FI, JvdV, RB, RA, MDV, AVV, VC, LMS, KvdS, VP, HMvD, MCV, EAMF, MAS, GD and RKW critically reviewed and approved the manuscript.
+
+# Ethics approval and consent to participate
+
+The 1000IBD project was approved by the Institutional Review Board of the UMCG (official name in Dutch: Medisch Ethische Toetsingscommissie (METc) of the University Medical Center Groningen in Groningen, the Netherlands; IRB number 2008.338). All participants signed a written informed consent form.
+
+# Consent for publication
+
+Not applicable.

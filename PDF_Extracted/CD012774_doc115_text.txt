@@ -1,0 +1,42 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Library
+
+# Better health.
+
+# Analysis 1.19. Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 19: Quality of life (Inflammatory Bowel Disease Questionnaire [IBDQ]) scores at longest follow-up for induction of remission in UC
+
+|Study or Subgroup|FMT Mean|FMT SD|FMT Total|Control Mean|Control SD|Control Total|Weight|Mean Difference IV, Random, 95% CI|
+|---|---|---|---|---|---|---|---|---|
+|Crothers 2021|169|34|7|163.4|27.2|8|21.3%|5.60 [-25.86 , 37.06]|
+|Haifer 2022|183.5|26|15|178.8|22.2|20|36.6%|4.70 [-11.66 , 21.06]|
+|Paramsothy 2017|163|28.125|41|133.5|25.25|40|42.1%|29.50 [17.87 , 41.13]|
+|Total (95% CI)| | |63| | |68|100.0%|15.34 [-3.84 , 34.52]|
+
+Heterogeneity: Tau² = 192.12; Chi² = 6.72, df = 2 (P = 0.03); I² = 70%
+
+Test for overall effect: Z = 1.57 (P = 0.12)
+
+Test for subgroup differences: Not applicable
+
+# Analysis 1.20. Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 20: Quality of life (IBDQ) scores at longest follow-up for induction of remission in UC: sensitivity analysis without Haifer 2022
+
+|Study or Subgroup|FMT Mean|FMT SD|FMT Total|Control Mean|Control SD|Control Total|Weight|Mean Difference IV, Random, 95% CI|
+|---|---|---|---|---|---|---|---|---|
+|Crothers 2021|169|34|7|163.4|27.2|8|30.5%|5.60 [-25.86 , 37.06]|
+|Paramsothy 2017|163|28.125|41|133.5|25.25|40|69.5%|29.50 [17.87 , 41.13]|
+|Total (95% CI)| |48|48|100.0%|22.20 [0.63 , 43.78]| | | |
+
+Heterogeneity: Tau² = 139.18; Chi² = 1.95, df = 1 (P = 0.16); I² = 49%
+
+Test for overall effect: Z = 2.02 (P = 0.04)
+
+Test for subgroup differences: Not applicable
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

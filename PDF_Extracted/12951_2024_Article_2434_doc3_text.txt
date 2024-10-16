@@ -1,0 +1,43 @@
+# Yang et al. Journal of Nanobiotechnology (2024) 22:166
+
+# Page 4 of 16
+
+# Esterificalion
+
+| |YBG|YBA| |YBNs|YBNs@PDA| | | |
+|---|---|---|---|---|---|---|---|---|
+| | | | | |1|20Onm|100|1000|
+|Diameter (nm)| | | |YBNs|PDA| | | |
+
+# Wavelength (nm)
+
+|YBNs|YBNs@PDA|
+|---|---|
+|3500|3000|
+|2500|2000|
+|1500|1000|
+
+# Temperature (°C)
+
+200
+400
+600
+# Binding Energy (eV)
+
+|Wavelength (nm)|Time (day)|
+|---|---|
+|1200|1000|
+|800|600|
+|400|200|
+|500|550|
+|600| |
+
+Fig. 1 Preparation and characterization of the oral YBNs@PDA. (A) Synthesis route of YBNs@PDA. (B) TEM and SEM images of YBNs@PDA. (C) Size distribution of YBNs and YBNs@PDA. (D) Zeta potential of YBNs, YBNs@PDA and YBNs@PDA in gastric fluid for 24 h. (E) FT-IR spectrum of PDA, YBNs and YBNs@PDA. (F) TGA spectra of YBNs, PDA and YBNs@PDA. (G) X-ray photoelectron spectroscopy (XPS) spectra of YBNs, PDA and YBNs@PDA. (H) Fluorescence spectra of YBNs@PDA labeled with FITC. (I) Hydrodynamic diameter changes of YBNs@PDA in simulated gastric fluid.
+
+facilitated the uniform dispersion of nanoparticles in aqueous solutions, while the size distribution remained unchanged in the presence of serum (Additional file 1: Fig. S2C). These findings indicated that PDA significantly improved the colloidal stability of the nanoparticles and exhibited a better anti-fouling property against serum proteins.
+
+To ensure the stability of orally administered nanoparticles, it is crucial to examine their ability to withstand the harsh conditions of the gastrointestinal tract (GIT) before being absorbed into the body. Hence, particle size alterations were evaluated to determine the stability of YBNs@PDA nanoparticles subsequent to co-incubation with acidic conditions (pH = 1.2), which imitates the gastrointestinal environment [36]. Noticeably, YBNs@PDA showed remarkable stability in acidic gastric environments, as demonstrated in Fig. 1D and I, which illustrates minimal alterations in particle size and zeta potential within 24 h. Therefore, the results demonstrate the remarkable stability of YBNs@PDA and their ability to resist the harsh acidic environment in the GIT, thus promoting their potential as an effective oral drug delivery system.
+
+# ROS scavenging activity in vitro
+
+In the inflammatory pathological microenvironments, the extended generation of ROS by infiltrated immune cells (e.g., inflammatory macrophages, dendritic cells and neutrophils) may exacerbate the progression of inflammatory disease through oxidative damage to lipids, proteins, and DNA. Therefore, the inhibition of intracellular ROS and cytoprotective effect by nanoparticles were evaluated. Assessed by MTT assay, we discovered that YBNs@PDA formulations (concentrations ranging

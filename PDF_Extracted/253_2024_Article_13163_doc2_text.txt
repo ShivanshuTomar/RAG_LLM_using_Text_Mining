@@ -1,0 +1,31 @@
+# Applied Microbiology and Biotechnology
+
+# (2024) 108:333
+
+# Page 3 of 14
+
+in Dulbecco’s modified Eagle medium (DMEM) with high glucose and 10% fetal bovine serum (FBS). RAW264.7 cells were utilized to assess the effects of anti-TNF-α nanobody and IL-10. Cells were harvested when they reached approximately 70–80% confluence in a 25 cm2 culture flask containing 5 mL of medium.
+
+The suspension was then collected by centrifugation at 800 rcf (relative centrifugal force) for 5 min. Following centrifugation, the cells were resuspended in DMEM medium and adjusted to a concentration of 5 × 104 cells/mL. An 800 μL of suspension was added to each well. To the wells of the culture plate, either an anti-TNF-α nanobody or IL-10 was added at a final concentration of 20 μg/mL. The cells were pre-incubated for 2 h before being stimulated with 100 μg/mL lipopolysaccharide (LPS) for 14 h. To determine the levels of cytokines, cytokine detection kits from NEOBIOSCIENCE (Shenzhen, China) were used, following the instructions.
+
+# Construction of constitutive and inducible engineered bacteria
+
+The plasmids were constructed in E. coli strain DH5α following standard procedures. The high-strength constitutive promoter Ptac was used to control the expression of therapeutic proteins in the development of constitutive plasmids containing the pSC101 replication origin (Zou et al. 2023). The sequences of 3´end of the anti-TNF-α nanobody gene and the IL-10 gene were fused with the DNA sequence for the secretory peptide encoded by gene HlyA, and the anti-TNF-α nanobody gene and the IL-10 gene were fused with the sequences for the Flag-tag and the His-tag, respectively.
+
+To construct inducible plasmids, we integrated thsS/R from E. coli Nissle 1917, whose products can sense and respond to thiosulfate (Daeffler et al. 2017), under the control of promoters Pj123104 and Pj123100 into a low-copy plasmid with pSC101 as its replication origin. In addition, we utilized promoter PphsA, which responds to thiosulfate via ThsR, to regulate the expression of drug proteins. Subsequently, we transformed these plasmids into the engineered E. coli strain EcN where α-hemolysin secretion system genes (hlyB and hlyD) were integrated into the chromosome under the control of a constitutive promoter Pj23104.
+
+# Analysis of expression and secretion of anti‑TNF‑α nanobody and IL‑10 in engineered bacteria by western blotting and enzyme linked immune sorbent assay (ELISA)
+
+To assess the expression and secretion of anti-TNF-α nanobody and IL-10 in EcN-TNFαNb and EcN-IL10 strains, the strains were cultured in LB medium with respective antibiotics until reaching OD 600 ≈ 0.6 and then incubated with shaking for durations of 6, 8, 10, and 12 h. Then, the supernatant of culture (LB medium supernatant) was collected by centrifugation. The engineering bacterial cells in the precipitate were resuspended with PBS and subjected to ultrasonic cell fragmentation to obtain “whole protein.” Finally, the “whole protein supernatant” was collected by centrifugation of the whole protein.
+
+To assess the expression and secretion of anti-TNF-α nanobody and IL-10 in thio-EcN-TNFαNb and thio-EcN-IL10 induced by varying concentrations of thiosulfate, the strains were cultured in LB medium with respective antibiotics until reaching the logarithmic growth phase (OD 600 ≈ 0.6), followed by a 10-h incubation with different concentrations of thiosulfate (0, 125, 250, and 500 μM) under shaking conditions. Then, the supernatant of culture (LB medium supernatant) was collected by centrifugation. The engineering bacterial cells in the precipitate were resuspended with PBS and subjected to ultrasonic cell fragmentation to obtain “whole protein.” Finally, the “whole protein supernatant” was collected by centrifugation of the whole protein.
+
+Culture supernatant, “whole protein” and “supernatant” were analyzed by gel electrophoresis and subsequently transferred onto a polyvinylidene fluoride (PVDF) membrane for western blotting experiments, following the established protocol (Zou et al. 2023).
+
+A standard curve was generated using purified anti-TNF-α nanobody and IL-10 protein. The anti-TNF-α nanobody protein was diluted to 25, 12.5, 6.25, 3.125, 1.5625, and 0 ng/mL, while the IL-10 protein was diluted to 50, 25, 12.5, 6.25, 3.125, 1.5625, and 0 ng/mL respectively. ELISA experiments were performed according to the previously described protocol (Zou et al. 2023).
+
+# Animal experiments
+
+Male C57BL/6 mice aged 6–8 weeks were procured from Shanghai Model Organisms Center, Inc. (China). They were adapted for one week at 20–22℃ with a 12-h light/12-h dark cycle. All animal experiments strictly followed the Guidelines for the Care and Use of Laboratory Animals established by East China University of Science and Technology. Approval was obtained from the Animal Ethics Committee of the university prior to the commencement of any experiments.
+
+The strains were cultured at 37℃ for 12 h until they reached an OD 600 of approximately 1.3. Then, the bacteria were collected and resuspended in PBS. The EcN-TNFαNb + EcN-IL10 (PBS, DSS+) group involved culturing the two strains individually and subsequently combining them in a 1:1 ratio. Subsequently, the mice were randomly allocated into six distinct groups, with four mice per group: non-colitis (PBS, DSS −), colitis (PBS, DSS +), EcN (consisting of the a-hemolysin secretion

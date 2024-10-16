@@ -1,0 +1,37 @@
+# Wang et al. Cell Death and Disease (2019) 10:391
+
+# Fig. 7
+
+Rapamycin aggravated CRH-induced Paneth cell metaplasia but not colonic damage in IBD mice. DSS (3%) was given to C57BL/6 mice for 6 days while water was given to the control group. For certain groups, CRH (50 μg/kg body weight) and/or rapamycin (1.25 mg/kg body weight) was intraperitoneally given from day 1 to day 6 and saline was injected as vehicle.
+
+a–c Body weight, the presence of occult or gross blood per rectum, stool consistency, and colon length were determined by two investigators blinded to the treatment groups. Compared to the DSS + Vehicle group, the mice in the DSS + CRH group exhibited significant deterioration in body weight loss, bloody stool score, and colon length, which were not significantly affected by rapamycin (n = 8 per group). *P &lt; 0.05 vs. the control group. **P &lt; 0.01 vs. the control group. ##P &lt; 0.01 vs. the DSS + Vehicle group.
+
+d–h The left edge of the left colon was isolated and the levels of TNF-α, IL-18, IL-7, MPO, and MPO activity in the left colon were analyzed by ELISA and the O-dianisidine method. Compared to the DSS + Vehicle group, the mice in the DSS + CRH group showed aggravated colonic inflammation, which were not significantly affected by rapamycin (n = 6 per group). **P &lt; 0.01.
+
+i The left edge of the colon was isolated and fixed and H&E staining was used for the detection of histological score. Compared to the DSS + Vehicle group, the mice in the DSS + CRH group showed aggravated inflammatory infiltration in the left colon, which were not significantly affected by rapamycin (n = 8 per group). **P &lt; 0.01.
+
+j The left edge of the left colon was separated and fixed and immunohistochemical staining was used for the detection of Paneth cell. IOD values were analyzed. Compared to the DSS + Vehicle group, the mice in the DSS + CRH group showed enhancement of Paneth cell metaplasia in the epithelium of the left colon, while the administration of rapamycin further aggravated the effect of CRH (n = 6 per group). **P &lt; 0.01
+
+# Discussion
+
+moderate IBD and the severe IBD groups (Fig. 1f), which was favored by the research conducted by Bretin et al.43. Similarly, no changes were found in DSS-induced mice (Supplementary Fig. 1). Taken together, we proposed that ATF4 might not take part in the deterioration of the severity of IBD induced by CRH.
+
+positive role in the alleviation of IBD46,47. However, it was also demonstrated that over-activation of autophagy might aggravate IBD through the induction of autophagic cell death, thus leading to the disruption of the intestinal barrier and the excessive production of proinflammatory cytokines48–51. Chloroquine, a classic autophagy inhibitor, has long been proven to act as a potential therapy for the treatment of IBD via the regulation of cellular metabolism and modulation of inflammatory reaction 48,52–54.
+
+Consistently, in the current study, we observed an increase in autophagy in colonic tissues during the occurrence of IBD and peripheral administration of CRH further enhanced the level of autophagy accompanied with the aggravation of IBD severity. The similar trend was also validated by our human sample. Furthermore, the administration of chloroquine for the blockade of over-induced autophagy largely attenuated the detrimental effects of aggravated severity and colonic inflammatory infiltration of IBD led to by peripheral administration of CRH. Those data indicated the therapeutic effect of blockade of autophagy in IBD caused by peripheral CRH.
+
+Paneth cell, a member of IEC, is an important component of intestinal defensive system through the secretion of various kinds of antimicrobial peptides, including HD-5, HD-6, and lysozyme, which largely influence the intestinal inflammatory and immune responses55,56. This study demonstrated that the occurrence of IBD led to the increase in Paneth cell metaplasia in the left colon. The challenge of stress induced by peripheral administration of CRH further led to the increase in Paneth cell metaplasia, contributing to the severity of IBD. In addition, colonic autophagy was demonstrated to be involved in DSS-induced Paneth cell metaplasia according to our findings. The application of chloroquine for the blockade of the autophagy process largely attenuated Paneth cell metaplasia, while the administration of rapamycin for the induction of autophagy led to the reverse effects.
+
+# Conclusion
+
+The microenvironment of the gut forms a proper microbiota habitat that has been demonstrated to influence the occurrence of many kinds of digestive diseases. The disturbance of intestinal microbiota homeostasis has been widely considered to be closely associated with the pathogenesis and progression of IBD59.
+
+This present study demonstrated that peripheral administration of CRH led to further disturbance of gut microbiota homeostasis, indicating that restoring microbiota homeostasis was vital for the treatment of stress-aggravated IBD. In addition, the polarization of the M1 proinflammatory phenotype has been considered as an important factor for the onset and development of IBD, thus reducing the ratio of M1/M2 was effective for the alleviation of overwhelming inflammatory reaction60,61.
+
+This current study demonstrated that peripheral administration of CRH led to the polarization of the M1 phenotype in mice and that the patients with higher CPSS also presented the similar augmentation of the M1 phenotype. The CRH-induced M1 polarization process was involved in autophagy, through our findings that blocking autophagy by chloroquine significantly attenuated the effect.
+
+Taken together, we demonstrated that stress factor aggravated IBD via activating autophagy. Our findings might lead to a better understanding of the pathogenesis and progression of IBD and provide a novel insight on the autophagy in treatment of IBD.
+
+# Materials and methods
+
+Collection and analysis of human IBD samples. The study regarding the role of stress on severity and autophagy of IBD was conducted at the Digestive.

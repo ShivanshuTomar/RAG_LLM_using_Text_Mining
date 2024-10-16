@@ -1,0 +1,76 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Library
+
+# Better health.
+
+# Zhao 2020
+
+Zhao HL, Chen SZ, Xu HM, Zhou YL, He J, Huang HL, et al. Efficacy and safety of fecal microbiota transplantation for treating patients with ulcerative colitis: a systematic review and meta-analysis. Journal of Digestive Diseases 2020;21(10):534-48.
+
+# References to other published versions of this review
+
+# Imdad 2017
+
+Imdad A, Nicholson MR, Tanner-Smith EE, Zackular JP, Gomez-Duarte O, Borromeo Beaulieu DM, et al. Fecal transplantation for treatment of inflammatory bowel disease. Cochrane Database of Systematic Reviews 2017, Issue 8. Art. No: CD012774. [DOI: 10.1002/14651858.CD012774]
+
+# Imdad 2018
+
+Imdad A, Nicholson MR, Tanner-Smith EE, Zackular JP, Gomez-Duarte OG, Beaulieu DB, et al. Fecal transplantation for treatment of inflammatory bowel disease. Cochrane Database of Systematic Reviews 2018, Issue 11. Art. No: CD012774. [DOI: 10.1002/14651858.CD012774.pub2]
+
+* Indicates the major publication for the study
+
+# CHARACTERISTICS OF STUDIES
+
+# Characteristics of included studies [ordered by study ID]
+
+# Březina 2021
+
+# Study characteristics
+
+# Methods
+
+Multicenter, open-label RCT conducted in the Czech Republic
+
+# Participants
+
+# Inclusion criteria
+
+- Adults age < 70 years, with clinically and endoscopically active left-sided UC for > 3 months, total Mayo score 4–10, and endoscopy subscore ≥ 2
+- Participants were allowed to use oral 5-ASA (stable dose for 8 weeks, maximal dose 4 g), thiopurines (stable dose for 8 weeks), and oral prednisone (≤ 10 mg daily, stable for 4 weeks), if they maintained same dosage during study period
+
+# Exclusion criteria
+
+- Use of anti-TNF medication and other biologic therapy in preceding 12 weeks, rectal corticosteroids or 5-ASA in preceding 4 weeks, calcineurin inhibitors in preceding 12 weeks, methotrexate in preceding 8 weeks, prednisone > 10 mg, antibiotics or probiotics in preceding 8 weeks
+- Indeterminate colitis, CD, IBS, impending risk of colectomy, history of bowel cancer
+- Positive stool culture for Salmonella, Shigella, Yersinia, Campylobacter, pathogenic Escherichia coli; cytomegalovirus infection, Clostridioides difficile infection
+- Pregnancy, lactation
+
+# Interventions
+
+# Experimental arm
+
+n = 23
+
+- Single donor feces (multiple donors recruited for study but each participant received feces from 1 donor only)
+- 50 g of stool in 150–170 mL infusion per treatment; administered via enema; 5 times in the first week and then once weekly for 5 more weeks
+
+# Control arm
+
+n = 22
+
+- Mesalamine 4 g; administered via enema; daily for 2 weeks and then every other day until end of week 6
+
+# Outcomes
+
+# Primary outcome
+
+Clinical remission at week 12 (total Mayo score ≤ 2 with no subscore > 1)
+
+Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

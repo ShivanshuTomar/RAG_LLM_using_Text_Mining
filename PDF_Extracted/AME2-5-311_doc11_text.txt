@@ -1,0 +1,8 @@
+# References
+
+How to cite this article: Zhang Y, Si X, Yang L, Wang H, Sun Y, Liu N. Association between intestinal microbiota and inflammatory bowel disease. Anim Models Exp Med. 2022;5:311-322. doi: 10.1002/ame2.12255
+
+|177.|Verma R, Verma AK, Ahuja V, et al. Real-time analysis of mucosal flora in patients with inflammatory bowel disease in India. J Clin Microbiol. 2010;48:4279-4282.|
+|---|---|
+|178.|Scanlan PD, Shanahan F, Marchesi JR. Culture-independent analysis of desulfovibrios in the human distal colon of healthy, colorectal cancer and polypectomized individuals. FEMS Microbiol Ecol. 2009;69:213-221.|
+|179.|Ohkusa T, Okayasu I, Ogihara T, et al. Induction of experimental ulcerative colitis by Fusobacterium varium isolated from colonic mucosa of patients with ulcerative colitis. Gut. 2003;52:79-83.|

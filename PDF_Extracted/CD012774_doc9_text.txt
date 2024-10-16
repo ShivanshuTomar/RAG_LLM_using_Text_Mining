@@ -1,0 +1,26 @@
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+|Outcome|Risk with control|Risk with FMT|RR|Participants|Certainty of evidence|Comments|
+|---|---|---|---|---|---|---|
+|Maintenance of clinical remission in UC (RR > 1 favors intervention)|556 per 1000 (144 to 1000)|1000 per 1000 (0.26 to 34.42)|RR 2.97|71|⊕⊝⊝⊝|The evidence is very uncertain about the effect of FMT on maintenance of clinical remission in UC.|
+|Serious adverse events with use of FMT for maintenance of remission in UC (RR > 1 favors control)|0 per 1000 (0 to 0)|0 per 1000|Not estimable|71|⊕⊝⊝⊝|The evidence is very uncertain about the effect of FMT on serious adverse events when FMT was used for maintenance of remission in UC.|
+|Any adverse events with use of FMT for maintenance of remission in UC (RR > 1 favors the control)|556 per 1000 (472 to 883)|644 per 1000 (0.85 to 1.59)|RR 1.16|71|⊕⊝⊝⊝|The evidence is very uncertain about the effect of FMT on any adverse events when FMT was used for maintenance of remission in UC.|
+|Maintenance of endoscopic remission in UC (RR > 1 favors FMT)|222 per 1000 (162 to 1000)|729 per 1000 (0.73 to 14.74)|RR 3.28|71|⊕⊝⊝⊝|The evidence is very uncertain about the effect of FMT on maintenance of endoscopic remission in UC.|
+|Quality-of-life scores with use of FMT for maintenance of remission in UC|The mean quality-of-life score was 164 in control group when FMT was used for maintenance of remission in UC|MD 38.2 IBDQ score higher (19.3 higher to 57.1 higher)|—|10|⊕⊝⊝⊝|The evidence is very uncertain about the effect of FMT on quality-of-life scores when FMT was used for maintenance of remission in UC.|
+
+Follow-up: 48–56 weeks
+
+Follow-up: mean 56 weeks
+
+*The risk in the intervention group (and its 95% confidence interval) is based on the assumed risk in the comparison group and the relative effect of the intervention (and its 95% CI).
+
+# Cochrane Database of Systematic Reviews
+
+CI: confidence interval; FMT: fecal microbiota transplantation; IBDQ: Inflammatory Bowel Disease Questionnaire; MD: mean difference; RCT: randomized controlled trial; RR: risk ratio; UC: ulcerative colitis.
+
+# GRADE Working Group grades of evidence
+
+- High certainty: we are very confident that the true effect lies close to that of the estimate of the effect.
+- Moderate certainty: we are moderately confident in the effect estimate: the true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different.
+- Low certainty: our confidence in the effect estimate is limited: the true effect may be substantially different from the estimate of the effect.
+- Very low certainty: we have very little confidence in the effect estimate: the true effect is likely to be substantially different from the estimate of the effect.

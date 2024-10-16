@@ -1,0 +1,30 @@
+# Molecular Systems Biology
+
+# Amrisha Bhosle et al
+
+|count|581.2163|587.4515|587.2892|GNPS|589.301|589.302|589.312|
+|---|---|---|---|---|---|---|---|
+|stercobilin|591.317|591.317|593.3341|591.318|591.319| | |
+|594.340775|593.344|591.499|593.33|594.342375|594.341475|593.331|595.3530|
+|594.341825|593.332|593.331|594.791|595.349| | | |
+|3593.331|595.136|595.647|593.332|595.195|598.369| | |
+|595.656|593.333|596.284|This study|2596.034|595.348| | |
+|593.333|595.348|596.102|1| | | | |
+|610.336925|611.276|610.337575|610.3371250|611.343|610.337475|610.337175600| |
+|625|650|611.359|612.353175|613.3|mass (GNPS) or neutral mass (this study)| | |
+|617.470575|Figure EV2.|Masses of highly prioritized features in modules 10 and 85, and compounds in stercobilin molecular networks across 11 MassIVE datasets.| | | | | |
+|621.364|(bottom)|Shown are the highly prioritized features in modules 10 and 85 with |Δm/z | &lt;100 w.r.t stercobilin.| | | | | |
+| |(top)|Compounds that were directly connected to stercobilin|or urobilin in molecular networks within the aforementioned mass-difference shown.| | | | |
+|The tight cluster of masses represents masses associated with stercobilin in these|624.353575| | | | | | |
+|molecular networks.|Count represents the number of times a particular mass was observed.| | | | | | |
+|626.331775|626.332275| | | | | | |
+|633.804|635.305|637.324|638.305175| | | | |
+|637.324|637.323|638.368775| | | | | |
+|637.324|639.339|638.332475| | | | | |
+|638.368625|639.201| | | | | | |
+|640.345875|638.367675|640.346475| | | | | |
+|638.368575|644.343175| | | | | | |
+|644.342375|654.363975| | | | | | |
+|670.360175| | | | | | | |
+
+EV2 Molecular Systems Biology Volume 20 | Issue 4 | April 2024 | 338 – 361 © The Author(s)

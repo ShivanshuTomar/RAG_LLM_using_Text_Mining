@@ -1,0 +1,69 @@
+# Data Identification
+
+1071 records
+
+# Data Screening
+
+426 records
+
+48 IBD records
+
+# Data Selection
+
+32 ReA records
+
+IBD linked ReA records
+
+# No. Of microorganisms in
+
+- 36 in IBD
+- 31 in ReA
+- 2 in IBD linked ReA
+
+# Target Microorganisms
+
+# Common microorganisms between IBD and ReA
+
+(Campylobacter jejuni, Escherichia coli O157:H7, Klebsiella oxytoca, Salmonella typhimurium, Shigella dysenteriae, Yersinia enterocolitica)
+
+# Microorganisms in IBD linked ReA
+
+# Figure 2
+
+Target microorganisms for IBD co-evolved ReA obtained after text mining.
+
+# Table 1
+
+Metabolic network reconstruction (GEMSiRV) and simulation (COBRA) of target microorganisms.
+
+|Microorganisms|Genes|Proteins|Reactions|Metabolites|Inner cell reactions|Exchange reactions|Essential genes|
+|---|---|---|---|---|---|---|---|
+|Escherichia coli O157:H7|1,156|1,057|1,824|1,001|1,824|283|857|
+|Klebsiella oxytoca|1,073|1,001|1,794|984|1,794|283|833|
+|Salmonella typhimurium|1,062|974|1,779|980|1,779|282|834|
+|Shigella dysenteriae|955|892|1,623|966|1,623|277|735|
+|Yersinia enterocolitica|882|821|1,573|942|1,573|270|726|
+|Campylobacter jejuni|45|44|79|140|79|N/A|? (Partial info)|
+
+# Table 2
+
+Filtering and host-microbe interactions of protein sequences corresponding to essential genes of target microorganisms.
+
+|Microorganisms|Corresponding proteins to essential genes|Non-repeats|Non-homologs|Host-microbe interactors|
+|---|---|---|---|---|
+|Escherichia coli O157:H7|2024|858|454|136|
+|Klebsiella oxytoca|833|830|430|141|
+|Salmonella typhimurium|849|828|439|136|
+|Shigella dysenteriae|735|732|382|117|
+|Yersinia enterocolitica|726|723|365|133|
+|Campylobacter jejuni|153|153|151|N/A|
+
+Escherichia coli O157:H7 {2024, 858, 454}; Klebsiella oxytoca {833, 830, 430}; Salmonella typhimurium {849, 828, 439}; Shigella dysenteriae {735, 732, 382}; Yersinia enterocolitica {726, 723, 365} and Campylobacter jejuni {153, 153, 151}.
+
+The essential genes, their corresponding proteins, reactions and metabolites from the curated dataset were refined to create a list of most relevant molecular indicators to assess their coveted role in disease establishment. The non-redundant filtered proteins were utilised further in the computational work-pipeline canvassing the drug targets and signatures in the interspecies communication.
+
+Essential host-microbe and microbe-microbe interactions. The central mechanism of host-microbe/microbe interface conferred through gut microbiome was correlated for the selected microbial species and processed to obtain the common signatures so as to follow the core system of metabolic changes affecting the host harbouring them as either commensal or pathogenic loads. The interactors between human and target microorganisms were obtained.
+
+The interactors of Escherichia coli O157:H7 were 136; Klebsiella oxytoca were 141; Salmonella typhimurium were 136; Shigella dysenteriae were 117 and Yersinia enterocolitica were 133. There were no interactors for Campylobacter jejuni (Supplementary Table S3–S7 online). Table 2 shows the results of filtering and host-microbe interactions of protein sequences corresponding to essential genes of target microorganisms.
+
+Scientific Reports | (2020) 10:15131 | https://doi.org/10.1038/s41598-020-71674-8

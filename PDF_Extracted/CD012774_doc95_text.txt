@@ -1,0 +1,87 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# NCT05538026
+
+# Study name
+
+Effectiveness of fecal microbiota transplantation as add-on therapy in mild-to-moderate ulcerative colitis
+
+# Methods
+
+RCT conducted in Ukraine
+
+# Participants
+
+# Inclusion criteria
+
+- Ages 18–60 years
+- Endoscopically and morphologically confirmed UC with Partial Mayo score 4–6, Mayo Endoscopic subscore ≥ 1, fecal calprotectin > 150 μg/g
+- Treatment with mesalazine 3 g/day for last 4 weeks
+- Negative stool culture for pathogenic bacteria (Shigella spp, Salmonella spp, Campylobacter spp, Yersinia spp) and toxin-producing Clostridioides difficile
+
+# Exclusion criteria
+
+- Pregnancy, planning pregnancy, or lactation
+- Postponed operations on abdominal cavity
+- Severe mental disorders, alcohol or drug abuse
+- Use of systemic corticosteroids, biologic agents, and probiotics within 8 weeks before study
+- Any condition or circumstance that would prevent/interfere with either completion of study or analysis of results, in the opinion of investigator
+
+# Interventions
+
+# Experimental arm
+
+- FMT via colonoscopy to proximal colon
+
+# Control arm
+
+- Mesalazine 3 g (2 g orally + 1 g rectally) once daily
+
+# Outcomes
+
+# Primary outcomes
+
+- Change in Partial Mayo score > 2 at 8 weeks
+- Changes in fecal calprotectin at 8 weeks
+
+# Secondary outcomes
+
+- Change in microbiome profile at 4 weeks
+
+# Starting date
+
+1 September 2020
+
+# Contact information
+
+Nazarii Kobyliak, Associate Professor, Endocrinology Department, Bogomolets National Medical University
+
+# Notes
+
+# Pai 2019
+
+# Study name
+
+PediCRaFT: Pediatric Crohn's Disease Fecal Transplant Trial (PediCRaFT)
+
+# Methods
+
+RCT conducted in Canada
+
+# Participants
+
+# Inclusion criteria
+
+- Children and adolescents ages 3–17 years
+
+Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

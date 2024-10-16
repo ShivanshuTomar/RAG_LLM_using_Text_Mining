@@ -1,0 +1,31 @@
+# Amrisha Bhosle et al
+
+# Molecular Systems Biology
+
+possibly known (putative mass-match with entry in the HMDB) and completely novel (unknown) compounds.
+
+# Consolidation of redundant ion features.
+
+Features likely to represent exactly the same ion were consolidated within each LC–MS method, based on an initial very high correlation in abundances across all samples. Spearman rank correlation threshold of 0.85 was used for C8-pos and C18-neg and 0.8 for the HILIC methods. When more than one feature clustered above these thresholds, only the feature with the highest mean abundance was labeled as the primary feature. Features that co-eluted (ΔRT of 0.015 min for C8-pos and C18-neg and of 0.025 min for HILIC) with the primary feature were considered redundant. 14,634 (17.9%) were identified as redundant and represented adducts, multimers, or in-source ion fragments. These were omitted from subsequent analyses.
+
+# Evaluation of modules
+
+Detection of modules. Of the 67,233 primary ion features detected in the metabolomes, those present in at least 70% of the metabolomes of at least one phenotype (CD; UC; non-IBD) were selected for further analysis, yielding 37,201 features. Correlations between pairs of these features were calculated using log2-transformed abundances in each phenotype, and the highest of the three bicors was used for tree construction. Modules in the resulting dendrogram were identified using the default MACARRoN module detection parameters and minClusterSize of 33 (∛37,201).
+
+# Quantitative annotations.
+
+AVA: In each module, the metabolic feature with the highest mean abundance in any phenotype (CD; UC; non-IBD) was chosen as the anchor. For annotated-modules (modules with at least one standard), only the standards were candidates for anchors. AVA for a metabolic feature was the ratio of its highest mean abundance in any phenotype and that of the anchor, as described earlier.
+
+Effect size and q value: Mixed-effect linear regression models were implemented using MaAsLin 2 v0.99.12 (Mallick et al, 2021) to identify metabolic features that were differentially abundant between non-IBD and IBD (CD and UC) as well as between dysbiosis states within each phenotype. First, zero values were additively smoothed by 1 on a per-feature basis (smallest non-zero value was 5). Then, the abundances of the 37,201 metabolic features were log-transformed and fitted to a similar per-feature linear model as in the previous HMP2 analysis (Lloyd-Price et al, 2019).
+
+In other words, transformed abundances were modeled as a function of diagnosis (a categorical variable with non-IBD as the reference group) and dysbiosis states as a binary nested variable within each diagnosis category (phenotype) with nondysbiosis as the reference variable. Effects contributed by antibiotic usage and age of the subject were regressed-out. Since each subject contributed multiple samples, subject IDs were used as a random effect. Nominal P values were FDR-adjusted on a per-metadata, per-category basis using Benjamini–Hochberg to obtain q values. Highest number of significantly differentially abundant features were observed for contrasts (1) CD-dysbiosis and CD-nondysbiosis and (2) UC and non-IBD. Effect sizes for each feature were calculated as the where c is the count of a class, n is the number of unique classes and S is the total number of standards.
+
+# Comparison with GNPS clusters.
+
+Cystic fibrosis sputum metabolomics: MS1 abundances for 9280 metabolic features in 101 sputum metabolomes included in a cross-sectional study of cystic fibrosis severity (Quinn et al, 2019) were kindly provided by Dr. Robert A. Quinn. Results of the GNPS molecular networks analysis for the same study were downloaded from gnps.ucsd.edu (MassIVE ID: MSV000080655). GNPS uses the cosine score, a measure of similarity between MS2 fragmentation spectra, to associate compounds in molecular networks. In other words, compounds in a GNPS molecular network are connected if the alignment of their fragmentation spectra yields a cosine score ≥0.7 (default). The GNPS molecular networks of the sputum metabolomes included 1938 metabolites; cosine scores and GNPS molecular network IDs were available for 2356 pairs of metabolites. All cosine scores were ≥0.7. Of the 1938 metabolites, MS1 abundances were available for 1311 (9280 MS1 ∩ 1938 MS2).
+
+Comparison between bicors and cosines Sample metadata included 4 distinct “disease states” of the sputum donor: A (clinical decision to treat with intravenous antibiotics; n = 15), B (on treatment; n = 2), C (post treatment n = 11), and D (no treatment or clinical decision to treat; n = 65) (Quinn et al, 2019). Metabolomes of disease state B and without disease state information were removed from analysis. As per MACARRoN methodology, for all pairs of metabolites, bicors in each of the disease states were determined and the best was considered. Both bicor and cosine values were available for 1030 pairs of metabolites.
+
+ARI between GNPS clusters and MACARRoN modules Best-observed bicor was considered for dendrogram construction. Modules were detected using default MACARRoN arguments.
+
+© The Author(s) Molecular Systems Biology Volume 20 | Issue 4 | April 2024 | 338 – 361

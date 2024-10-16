@@ -1,0 +1,93 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# NCT04521205 (Continued)
+
+# Inclusion criteria
+
+- People with IBD for whom standard or conventional medical treatment was ineffective, with recurrent symptoms, with drug dependence or recurrence with reduced or discontinued use, or untreated patients who voluntarily received FMT
+
+# Exclusion criteria
+
+- Contraindications for gastrointestinal endoscopy
+- Other serious diseases (e.g. respiratory failure, heart failure, severe immunodeficiency)
+- Indications for surgery
+
+# Interventions
+
+# Experimental arm
+
+- Standardized FMT via capsule, given 3 times a week
+
+# Control arm
+
+- FMT via blank capsule
+
+# Outcomes
+
+# Primary outcome
+
+- Clinical remission (by modified Mayo score ≤ 2 and endoscopy) at up to 1 year (endpoint of follow-up at time of clinical recurrence)
+
+# Starting date
+
+September 2020
+
+# Contact information
+
+Contact: Yanyun Fan, Doctor
+18759212670
+trudy@163.com
+
+Zhongshan Hospital Xiamen University, Xiamen, China
+
+# Notes
+
+Phase 1 trial
+
+# NCT04637438
+
+# Study name
+
+Fecal microbiota transplantation in postoperative Crohn's disease
+
+# Methods
+
+RCT conducted in Finland
+
+# Participants
+
+# Inclusion criteria
+
+- Age > 18 years
+- Ability to provide written consent
+- Stricturing or fistulizing (or both) CD needing ileocecal or ileal resection
+
+# Exclusion criteria
+
+- Pregnancy
+- Active infection, abscess, or fistula at the time of first colonoscopy
+- Use of antibiotics or probiotics at the time of first colonoscopy
+- Life expectancy < 1 year
+- Inability to provide written consent
+
+# Interventions
+
+# Experimental arm
+
+- FMT via colonoscopy
+
+# Control arm
+
+- Water infusion via colonoscopy
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

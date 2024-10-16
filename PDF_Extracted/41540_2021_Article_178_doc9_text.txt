@@ -1,0 +1,60 @@
+# A. Heinken et al.
+
+# Statistical analysis
+
+Wilcoxon rank sum test, and correction for false discovery rate (FDR) were performed in MATLAB using the ranksum and mafdr functions, respectively. Correlations between computed fluxes and species abundances were calculated using a dedicated Microbiome Modelling Toolbox function (correlateFluxWithTaxonAbundance.m).
+
+The number of secreted metabolites was calculated from the computed net production fluxes (Supplementary Table 2). The association between study group and number of secreted metabolites was assessed in linear regression (ordinary least squares), introducing the log number of species as covariate. For investigating the functional dependence of the number of secreted metabolites fractional polynomials were used. A logarithmic dependency showed a significant better fit (p < 0.01) than a linear function and was therefore used. Next, we tested the secretion (binary: yes vs. no) on association with the study group using Fisher’s exact tests controlling for the FDR as before. The number of tests to control for was determined by counting the number of independent dichotomised secretions.
+
+In a third step, we counted the number of sulfur-containing metabolites independently secreted for each microbiome. We tested this number on association with the study group in linear regressions. Furthermore, we explored the classification of healthy microbiomes vs. dysbiotic IBD microbiomes in logistic regression by the number and calculated the area under the curve (AUC) as metric of classification accuracy. Then, we analysed the pattern of final breakdown products of sulfur metabolism (hydrogen, sulfide, sulfate, methanethiol, sulfite, and thiosulfate) across the three study groups via Fisher’s exact test. Finally, we checked whether the presence of any glycan-degrading species statistically mediated the effects of the study group variable via the Sobel Goodman test, deriving the confidence intervals by non-parametric bootstrapping with 1000 replications. These analyses were performed in STATA 14\MP (Stata Inc., College Station, USA).
+
+# Random forests analysis
+
+Random forests analysis was performed using the online implementation of MetaboAnalyst 5.031 (https://www.metaboanalyst.ca), which relies on the MetaboAnalystR package. Briefly, the random forests classifier is built using a customisable number of trees with one-third of the data left out of the bootstrap sampling process. The left-out data is then used to estimate the out-of-bag (OOB) error. Metabolite secretion fluxes were imported through the Statistical Analysis module in the MetaboAnalyst interface without performing normalisation, transformation, or scaling of the data. The classifier was built with 5000 trees and the resulting visualisation of features ranked by their contributions to classification accuracy was exported.
+
+# Visualisation
+
+Phylum to amino acid and subsystem contributions were visualised using the online implementation of Circos (http://circos.ca). All other data was visualised in MATLAB version R2018b and in R version 3.5.3 (https://www.r-project.org).
+
+# Reporting summary
+
+Further information on research design is available in the Nature Research Reporting Summary linked to this article.
+
+# DATA AVAILABILITY
+
+The AGORA resource is freely available at the Virtual Metabolic Human website (https://vmh.life). The relative strain abundances mapped to AGORA as performed previously as well as the models and fluxes generated in this study have been deposited at https://www.thielelab.eu/in-silico-models.
+
+# CODE AVAILABILITY
+
+The COBRA Toolbox, the Microbiome Modelling Toolbox, and COBRA.jl are freely available at GitHub (https://github.com/opencobra). Code to reproduce the analysis is available at https://github.com/ThieleLab/CodeBase and relies on MATLAB, Julia, the COBRA Toolbox, and R.
+
+# REFERENCES
+
+1. Lynch, S. V. & Pedersen, O. The human intestinal microbiome in health and disease. N. Engl. J. Med. 375, 2369–2379 (2016).
+2. Sonnenburg, J. L. & Backhed, F. Diet-microbiota interactions as moderators of human metabolism. Nature 535, 56–64 (2016).
+3. Okubo, H. et al. Gut microbiota as a therapeutic target for metabolic disorders. Curr. Med. Chem. 25, 984–1001 (2018).
+4. Lavelle, A. & Sokol, H. Gut microbiota-derived metabolites as key actors in inflammatory bowel disease. Nat. Rev. Gastroenterol. Hepatol. 17, 223–237 (2020).
+5. de Souza, H. S. P., Fiocchi, C. & Iliopoulos, D. The IBD interactome: an integrated view of aetiology, pathogenesis and therapy. Nat. Rev. Gastroenterol. Hepatol. 14, 739–749 (2017).
+6. Knox, N. C., Forbes, J. D., Van Domselaar, G. & Bernstein, C. N. The gut microbiome as a target for IBD treatment: are we there yet? Curr. Treat. Options Gastroenterol. 17, 115–126 (2019).
+7. Gevers, D. et al. The treatment-naive microbiome in new-onset Crohn’s disease. Cell Host Microbe 15, 382–392 (2014).
+8. Lewis, J. D. et al. Inflammation, antibiotics, and diet as environmental stressors of the gut microbiome in pediatric Crohn’s disease. Cell Host Microbe 18, 489–500 (2015).
+9. Franzosa, E. A. et al. Gut microbiome structure and metabolic activity in inflammatory bowel disease. Nat. Microbiol. 4, 293–305 (2019).
+10. Santoru, M. L. et al. Cross sectional evaluation of the gut-microbiome metabolome axis in an Italian cohort of IBD patients. Sci. Rep. 7, 9523 (2017).
+11. Palsson, B. Systems Biology: Properties of Reconstructed Networks. (Cambridge University Press, 2006).
+12. Orth, J. D., Thiele, I. & Palsson, B. O. What is flux balance analysis? Nat. Biotechnol. 28, 245–248 (2010).
+13. Gu, C., Kim, G. B., Kim, W. J., Kim, H. U. & Lee, S. Y. Current status and applications of genome-scale metabolic models. Genome Biol. 20, 121 (2019).
+14. Baldini, F. et al. The Microbiome Modeling Toolbox: from microbial interactions to personalized microbial communities. Bioinformatics. https://doi.org/10.1093/bioinformatics/bty941 (2018).
+15. Aurich, M. K., Fleming, R. M. & Thiele, I. MetaboTools: a comprehensive toolbox for analysis of Genome-Scale Metabolic Models. Front. Physiol. 7, 327 (2016).
+16. O’Brien, E. J. & Palsson, B. O. Computing the functional proteome: recent progress and future prospects for genome-scale models. Curr. Opin. Biotechnol. 34, 125–134 (2015).
+17. Noronha, A. et al. The Virtual Metabolic Human database: integrating human and gut microbiome metabolism with nutrition and disease. Nucleic Acids Res. 47, D614–D624 (2019).
+18. Magnusdottir, S. et al. Generation of genome-scale metabolic reconstructions for 773 members of the human gut microbiota. Nat. Biotechnol. 35, 81–89 (2017).
+19. Magnusdottir, S. & Thiele, I. Modeling metabolism of the human gut microbiome. Curr. Opin. Biotechnol. 51, 90–96 (2018).
+20. Bauer, E. & Thiele, I. From metagenomic data to personalized in silico microbiotas: predicting dietary supplements for Crohn’s disease. NPJ Syst. Biol. Appl. 4, 27 (2018).
+21. Aden, K. et al. Metabolic functions of gut microbes associate with efficacy of tumor necrosis factor antagonists in patients with inflammatory bowel diseases. Gastroenterology 157, 1279–1292.e1211 (2019).
+22. Yilmaz, B. et al. Microbial network disturbances in relapsing refractory Crohn’s disease. Nat. Med. 25, 323–336 (2019).
+23. Effenberger, M. et al. Microbial butyrate synthesis indicates therapeutic efficacy of azathioprine in IBD patients. J. Crohns Colitis. https://doi.org/10.1093/ecco-jcc/jjaa152 (2020).
+24. Heinken, A. et al. Systematic assessment of secondary bile acid metabolism in gut microbes reveals distinct metabolic capabilities in inflammatory bowel disease. Microbiome 7, 75 (2019).
+25. Heirendt, L., Thiele, I. & Fleming, R. M. DistributedFBA.jl: high-level, high-performance flux balance analysis in Julia. Bioinformatics (Oxford, England), https://doi.org/10.1093/bioinformatics/btw838 (2017).
+26. Lloyd-Price, J. et al. Multi-omics of the gut microbial ecosystem in inflammatory bowel diseases. Nature 569, 655–662 (2019).
+27. Ijssennagger, N., van der Meer, R. & van Mil, S. W. C. Sulfide as a mucus barrier-breaker in inflammatory bowel disease? Trends Mol. Med. 22, 190–199 (2016).
+28. Wallace, J. L., Motta, J. P. & Buret, A. G. Hydrogen sulfide: an agent of stability at the microbiome-mucosa interface. Am. J. Physiol. Gastrointest. Liver Physiol. 314, G143–G149 (2018).

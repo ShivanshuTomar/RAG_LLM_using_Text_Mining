@@ -1,0 +1,69 @@
+# Regner et al. Arthritis Research & Therapy (2018) 20:149
+
+unlikely to have biased our data; (3) while microbiome data was collected via rectal swab instead of directly via mucosal biopsy, prior studies have shown this mainly affects diversity, not OTU abundance [48]; (4) the change in our cytokine expression was small; however, if each pinch biopsy is approximately 4mm2 and the average colon is 2m2 in surface area then an increase in 1 unit of secretion represents greater than 30,000-fold increase in expression of that cytokine in the colon as a whole. Some subjects displayed high IEL production of certain cytokines; however, subjects producing high levels of one cytokine were not the same for other cytokines. The presence of cytokine secretion was not driven by outliers, as data for TNF-α and IFN-γ graphed on a logarithmic axis demonstrate the full range of values; (5) histologic evidence of disease activity was not assessed when subjects lacked symptoms such as change in bowel function, but all subjects lacked visible evidence of mucosal inflammation; (6) finally, the observational study design did not permit evaluation of causal links between alterations in microbiome and IEL function.
+
+In spite of these limitations, our data provide provocative insights into how the intestinal microbiome interacts with mucosal immune cells to contribute to disease pathogenesis within human subjects. Our findings demonstrate a complex relationship between IEL-produced cytokines and microbial diversity.
+
+# Conclusion
+
+The findings of this study indicate differences in IEL function among subjects with axSpA, CD, and UC compared to healthy controls. Our findings demonstrate unique correlation between altered microbiota and IEL function in these distinct populations. We believe the unique interactions between microbiota and IEL function by disease state is relevant to the pathogenesis of disease. Additional research is needed to validate these findings, yet our results give credence to the hypothesis that the gut microbiome is an important mediator in the development of IBD and axSpA.
+
+# Acknowledgements
+
+The authors would like to thank Lisa Davis, MD, for her participation in ensuring the safety of patients during the study.
+
+# Funding
+
+This work was supported by grants from the National Center for Advancing Translational Science (UL1 TR001082 to NO), the National Institute of Arthritis and Musculoskeletal and Skin Diseases (T32 AR007534 to NO and EHR), and the National Institute of Diabetes and Digestive and Kidney Diseases (K08DK107905 to KAK) at the National Institutes of Health. Additional support was provided by the Michelson charitable fund and the UC Denver Gastrointestinal and Liver Innate Immune Program (KAK, DNF, CER, DI). Dr Caplan is supported by VA MERIT IIR 14-083-03.
+
+# Availability of data and materials
+
+All data generated or analyzed during this study are included in this published article and its supplementary information files.
+
+# Authors’ contributions
+
+EHR, NO, and KAK designed the study. MEG and BPF performed the endoscopies and obtained study biopsies. EHR, NO, and KAK recruited subjects and performed IEL experiments. WKJ assisted with the IEL experiments. DI, DNF, and CER processed samples and sequenced and analyzed microbiome data. AS and LC assisted with statistical analyses. EHR, NO, AS, LC, and KAK analyzed and interpreted data and wrote the paper. CG and JS assisted with statistical analyses. All authors contributed to reviewing and revising the manuscript and approved the final draft for submission.
+
+# Ethics approval and consent to participate
+
+All clinical investigations were conducted according to the principles expressed in the Declaration of Helsinki. The study protocol was approved by the Colorado Multiple Institutional Review Board. All patients provided written informed consent and authorization for release of personal health information. An independent safety officer was assigned and met every 12 months with the investigators to conduct safety reviews.
+
+# Competing interests
+
+The authors declare that they have no competing interests.
+
+# Publisher’s Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+# Author details
+
+1Division of Gastroenterology, Department of Medicine, University of Colorado School of Medicine, Aurora, CO, USA. 2Division of Rheumatology, Department of Medicine, University of Colorado School of Medicine, Aurora, CO, USA. 3Division of Infectious Disease, Department of Medicine, University of Colorado School of Medicine, Aurora, CO, USA. 4Mucosal Inflammation Program, University of Colorado School of Medicine, Aurora, CO, USA. 5Denver Veterans Affairs Medical Center (Denver VAMC), Denver, CO, USA. 6Computational Bioscience Program, University of Colorado School of Medicine, Aurora, CO, USA.
+
+# Additional files
+
+- Additional file 1 Supplementary Data. (DOCX 22 kb)
+- Additional file 2: Supplementary Figures S1-S3. (PDF 11177 kb)
+
+# Abbreviations
+
+ASAS: Assessment of SpondyloArthritis International Society; axSpA: Axial spondyloarthritis; BASDAI: Bath Ankylosing Spondylitis Disease Activity Index; CD: Crohn’s disease; CRP: C-reactive protein; ELISA: Enzyme-linked immunosorbent assay; IBD: Inflammatory bowel disease; IELs: Intraepithelial lymphocytes; IFN: Interferon; OTUs: Operational taxonomic units; PBS: Phosphate-buffered saline; SCCAI: Simple Clinical Colitis Activity Index; SpA: Spondyloarthritis; TCR: T cell receptor; TNFi: TNF inhibitor; UC: Ulcerative colitis; WBC: White blood cell
+
+# Received
+
+23 April 2018
+
+# Accepted
+
+1 June 2018
+
+# Published online
+
+20 July 2018
+
+# References
+
+1. Martindale J, Shukla R, Goodacre J. The impact of ankylosing spondylitis/axial spondyloarthritis on work productivity. Best Pract Res Clin Rheumatol. 2015;29(3):512–23.
+2. Loftus CG, Loftus EV Jr, Harmsen WS, Zinsmeister AR, Tremaine WJ, Melton LJ 3rd, Sandborn WJ. Update on the incidence and prevalence of Crohn's disease and ulcerative colitis in Olmsted County, Minnesota, 1940-2000. Inflamm Bowel Dis. 2007;13(3):254–61.
+3. Ranganathan V, Gracey E, Brown MA, Inman RD, Haroon N. Pathogenesis of ankylosing spondylitis - recent advances and future directions. Nat Rev Rheumatol. 2017;13(6):359–67.
+4. Turkcapar N, Toruner M, Soykan I, Aydintug OT, Cetinkaya H, Duzgun N, Ozden A, Duman M. The prevalence of extraintestinal manifestations and

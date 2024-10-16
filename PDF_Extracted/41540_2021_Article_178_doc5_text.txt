@@ -1,0 +1,29 @@
+# A. Heinken et al.
+
+# 6
+
+# Reduced metabolic diversity in dysbiotic IBD
+
+a Logarithmic dependency of the number of secreted metabolites in dependency on the number of identified strains. Curves for dysbiotic (red) and non-dysbiotic (blue) microbiomes are statistically different (b = −6.81, 95%−CI: (−13.38;−0.25), p = 0.042).
+
+b Box plots for the number of secreted metabolites for the three study groups. Differences across the three study groups are significant (p < 1e-08).
+
+c Number of secreted not perfectly coupled sulfur species in dependency on study group and the presence of glycan-degrading species. The presence of glycan producing species mediates significantly the effects of the study group (mediation effect: 53.11%, 95%−CI:(28,64%;77.60%, p = 2.14e-05).
+
+d Distribution of secretion patterns of end products of bacterial sulfur metabolism across the study groups. Abbreviations for metabolites are from https://www.vmh.life. p-values were derived from Fisher’s exact test. In the box plots, the centre lines represent the median; box limits represent upper and lower quartiles; whiskers represent 1.5x interquartile range.
+
+# Independent sulfur species
+
+Independent sulfur species (e.g., not being perfectly correlated in their occurrence) was classifying healthy controls from dysbiotic IBD cases nearly perfectly (AUC = 0.95, p = 0.002, Supplementary Fig. 2). Interestingly, non-dysbiotic microbiomes still showed reduced capability to produce a variety of sulfur species (p = 0.003), revealing that also non-dysbiotic IBD microbiomes displayed an altered sulfur metabolism pattern. Consequently, when analysing the pattern of final breakdown products prevalent in secretion profiles, we found different distributions for these patterns across the three study groups (Fig. 4d).
+
+Investigating species that could be causal to this loss in diversity in sulfur metabolites, we noticed that the species capable of using host glycans, i.e., chondroitin sulfate and heparan sulfate, as carbon source were depleted in most dysbiotic communities. Consequently, the associated glycan degradation reactions were also absent in these microbiomes (Fig. 3b). Thus, we followed the hypothesis that breakdown products of heparan and chondroitin may change systematically the availability of sulfur-containing metabolites in microbiomes, increasing therefore the metabolic diversity. Indeed, the presence of any heparan and chondroitin degrading species was statistically mediating the effect of IBD on the diversity in sulfur metabolism (mediation effect: 53.11%, 95%-CI:(28,64%;77.60%), z = 4.29, p = 1.79e-05). Therefore, over 50% of the difference in number of secreted sulfur compounds between healthy and dysbiotic IBD communities could be attributed to the lack of heparan and chondroitin degrading species in IBD. Consequently, IBD microbiomes containing any heparan and chondroitin degrading species were more similar to healthy controls in terms of diversity in sulfur metabolism (Fig. 4c).
+
+Concluding, community modelling delivers a methodology to investigate the metabolic diversity of microbial communities. We found that metabolic diversity is reduced in IBD, in particular in sulfur metabolism. We delivered evidence that the loss of chondroitin sulfate and heparan sulfate degrading species may be causal to the loss in metabolic diversity. These species should be therefore considered as corner-stone species within the human microbiome.
+
+# A wide variety of taxon to metabolite contributions are altered in IBD microbiomes
+
+Faecal gut metabolite levels are altered in IBD patients, including many host-microbial co-metabolites, however, the contributions of specific microbes to these changes are often unknown. To gain insight into which microbial taxa are responsible for the altered metabolic profiles in dysbiotic IBD patients, we modelled the strain-to-metabolite contributions directly by predicting the quantitative contribution of each strain to each secreted metabolite in each individual microbiome.
+
+All 601 strains present in at least one microbiome contributed to the secretion of at least one metabolite indicating they should be able to potentially influence host metabolism. In total, 26,873 strain-to-metabolite contributions were predicted, corresponding on average to 44.71 contributions per strain (Supplementary Table 6). Of the 26,873 strain-to-metabolite contributions, 2609 (9.71%).
+
+npj Systems Biology and Applications (2021) 19 Published in partnership with the Systems Biology Institute

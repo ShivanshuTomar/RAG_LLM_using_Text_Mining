@@ -1,0 +1,43 @@
+# A. Heinken et al.
+
+# 8
+
+# a) Phylum contributions to metabolites by subsystem
+
+|Healthy microbiomes|Non-dysbiotic IBD microbiomes|Dysbiotic IBD microbiomes|
+|---|---|---|
+|Ac Vitamins Nucleolldes|AcVitaminsNucleolides|VilaminsNucleotides|
+|Lipids|Lipids|Lipids|
+|Inorganic ions|Inorganic ions|Inorganic ions|
+|Energy|Energy|Energy|
+|metabolites|melabolites|metabolites|
+|Carbohydrates|Carbohydrales|Carbohydrates|
+|Amino acids|4minoacids|Amino acids|
+
+# b) Phylum contributions to amino acids
+
+|Healthy microbiomes|Non-dysbiotic IBD microbiomes|Dysbiotic IBD microbiomes|
+|---|---|---|
+|AcVal TyfTrp Ser|Ac ValTyf Trp Ser|Ac Val Tyt Trp Ser|
+|Pro|Pro| |
+|Phe|Phe| |
+|Orn|Omn|Orn|
+|Mel|Met|Met|
+|Lys|Lys| |
+|Leu| |Leu|
+|Besaine|88iaine|Besaine|
+|Glu|Glu|Glu|
+|Gln|Gln| |
+|Fuprve Nla/ Arg Asn Asp CySABA|Fu Pr_ Ve Ala Arg Asn AspCysGABA|Ala Arg Asn Asp Cys|
+
+Fig. 5 Strain to metabolite contributions computed for the three clusters summarised by the seven most prominent phyla. Shown are the contributions (mmol/person/day, Supplementary Table 6) summarised separately for the 25 healthy, 63 non-dysbiotic IBD, and 20 dysbiotic IBD microbiomes. a Phylum-level contributions to all metabolites summarised by metabolite subsystem. b Phylum-level contributions to 22 amino acid metabolites. Ac = Actinobacteria, Ba = Bacteroidetes, Eu = Eurarchaeota, Fi = Firmicutes, Fu = Fusobacteria, Pr = Proteobacteria, Ve = Verrucomicrobia. Phyla that did not contribute in a given cluster are omitted for that cluster.
+
+We determined the net production and uptake potential of each microbiome, the qualitative and quantitative presence of reactions and pathways in each microbiome, the correlations between net production potential and reaction abundance, and finally the quantitative contributions of all strains present in the microbiomes to all secreted metabolites.
+
+A wide variety of metabolic network properties and fluxes differed between dysbiotic IBD microbiomes and non-dysbiotic microbiomes (Supplementary Table 4b). First, the qualitative and quantitative presence of reactions and pathways differed in dysbiotic microbiomes (Fig. 3b and Supplementary Table 4b). As a result of their disturbed metabolic network structure, dysbiotic microbiomes also demonstrated an altered potential to take up and secrete metabolites (Fig. 2 and Supplementary Table 4b). The quantitative contributions of each strain to each secreted metabolite differed clearly between non-dysbiotic and dysbiotic microbiomes (Figs. 3c and 4; Supplementary Table 4b). This constraint-based modelling framework enabled us to link microbes and metabolites in the context of the gut microbial community resulting in detailed biosynthesis profiles of each metabolite (Supplementary Figs. 3–12).
+
+We confirmed known microbe-metabolite links, e.g., butyrate production of Faecalibacterium (Supplementary Fig. 3), and lactate production of Lactobacillus, Streptococcus, and Escherichia spp. (Supplementary Fig. 4). In addition, we propose contributing microbes for less-studied metabolites. For instance, gut microbes regulate circulating tryptophan levels and impaired tryptophan metabolism may play a role in IBD. We here predict that, e.g., Bacteroides, Coprococcus, and Odoribacter spp. can synthesise tryptophan (Supplementary Fig. 11) and thus may play a role in mediating host–microbe interactions in tryptophan metabolism.
+
+Importantly, our results provide clear evidence that reduced microbial diversity in strains leads to reduced metabolic diversity (e.g., reduced number of secreted metabolites). In the case of IBD, this includes particularly microbial sulfur metabolism with potential clinical consequences. Following a stoichiometric argument, all sulfur consumed by microbial communities must be released either by death or secretion. Assuming that the uptake of sulfur is relatively constant across microbiomes, reduced numbers in secreted sulfur metabolites must result in higher secretion potentials for the few secreted compounds. In accordance, the ubiquitously secreted hydrogen sulfide showed higher secretion potentials in dysbiotic IBD microbial communities, which displayed drastically reduced numbers in secreted sulfur compounds. Hydrogen sulfide is considered to be pro-inflammatory in the gastrointestinal environment. Subsequently, restoring species diversity may reduce the potentially harmful production of hydrogen sulfide. Interestingly, a recent study has identified a link between changes in gut microbial sulfur metabolism and Crohn’s Disease.
+
+Importantly, the loss in diversity in sulfur metabolism was mediated by the loss of glycan-degrading species. Host glycan degradation is mainly attributed to Bacteroides, the abundances of which strongly correlated with glycan degradation product secretion in our study.

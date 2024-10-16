@@ -1,0 +1,29 @@
+# Alatawi et al.: Microbiota and anti-TNF-α response in IBD patients
+
+|Klebsiella|Flexispira|Roseburia|
+|---|---|---|
+|10|7|7|
+|1|1| |
+|3|3|3|
+|Subgroups of IBD patients|Subgroups of IBD patients|Subgroups of IBD patients|
+|Pediococcus|Proteus|Shigella|
+|[15|1|40|
+|7|0.3|30|
+|L|20| |
+|8|8|8|
+|0.0| | |
+|Subgroups of IBD patients|Subgroups of IBD patients|Subgroups of IBD patients|
+
+FIGURE 4. Independent samples t-test showing responders (R=blue) and primary non-responders (P=purple) with statistically significant P values in Pediococcus (*P< 0.034983), Proteus (*P< 0.040331), Shigella (*P< 0.010478), Roseburia (*P< 0.04166), Flexispira (*P< 0.034983), and Klebsiella (*P< 0.016427).
+
+Lachnospira, Roseburia, and Ruminococcus. By contrast, some SCFA-producing bacteria showed an increase in relative abundance in primary non-responders, such as Blautia, Faecalibacterium, Lachnobacterium, Odoribacter, Oscillospira, and Pseudoramibacter eubacterium. An increased diversity of several pathogenetic gut microbiota was observed in primary non-responders, including Enterococcus, Fusobacterium (adherent-invasive bacteria), Clostridium, Streptococcus, Staphylococcus, Actinomyces, Corynebacterium, Rothia, Rhodococcus, Atopobium, Listeria, Peptostreptococcus, Clostridium, Campylobacter, Flexispira, Morganella, Actinobacillus, Selenomonas, Haemophilus, Acinetobacter, and Klebsiella. Furthermore, a great abundance of opportunistic pathogens such as Muribaculaceae, Proteus, Odoribacter, Alistipes, Veillonella, and Pseudomonas was recorded in fecal samples of primary non-responders. An independent t-test showed a statistically significant association (p < 0.05) for six genera and seven species [Figure 4]. These results suggest that primary non-responders to anti-TNF-α treatment possess a type of unstable gut microbiota structure.
+
+# Alpha and beta diversity
+
+The alpha diversity was measured in observed species (Sobs) (p = 0.79118), using the Chao1 estimator (p = 0.63053), ACE (p = 0.57874), Shannon diversity (p = 0.79594), and Simpson diversity (p = 0.63053) indices [Figure S4 and Table S1]. In general, in terms of alpha diversity, there was no significant difference in relative abundance between responders and primary non-responders [Figure 5 and Table S2].
+
+The beta diversity analysis was estimated using the Bray–Curtis dissimilarity, for unweighted and weighted UniFrac distances Figure S5. These tools showed that the composition of intestinal microbiota of primary non-responders overall shifted toward dysbiosis compared with responders. Principal coordinate analysis and 2D-weighted UniFrac showed a significant overlap between the gut microbiota structure of responders and primary non-responders [Figure 6A and B]. The weighted UniFrac heat map was used to determine the intestinal microbiota profile distances in IBD patients, between responders and non-responders. The microbial community composition of primary non-responders showed the proportion of change (disorder) compared with responders.
+
+Bosn J Basic Med Sci. 2022;22(3):412-426
+
+www.bjbms.org

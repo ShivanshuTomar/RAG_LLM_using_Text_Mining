@@ -1,0 +1,48 @@
+# Cronin et al. BMC Gastroenterology (2019) 19:29
+
+# Table 1 Baseline demographic, clinical and anthropometric characteristics of patients in the exercise and non-exercising disease control groups
+
+| |Exercise group (n = 13)|Control group (n = 7)|p-value|
+|---|---|---|---|
+|Age (years)|33 (31, 36)|31 (31, 36)|0.938|
+|Sex (female)|n = 4 (30.8%)|n = 1 (14.3%)|0.417a|
+|Height (cm)|172 (165, 179)|173 (167, 183)|0.485|
+|Weight (kg)|84.5 (75.8, 97)|89 (70.5, 102.9)|0.757|
+|BMI (kg/m2)|28.1 (26.2, 32.4)|27.2 (24.5, 33.7)|0.938|
+|Resting heart rate (Beats per minute)|73 (64, 77)|76 (58, 83)|0.817|
+|Systolic Blood Pressure (mmHg)|123 (114, 131)|124 (119, 130)|0.485|
+|Diastolic Blood Pressure (mmHg)|73 (69, 86)|82 (70, 86)|0.311|
+|Body fat (%)|35.2 (30.9, 37.4)|34.2 (32.2, 35.7)|0.817|
+|Fat mass - total (kg)|28.1 (22.8, 35.7)|29.9 (23.8, 34.7)|0.938|
+|Fat mass - trunk (kg)|14.7 (12.9, 21.3)|16.8 (13.1, 22.2)|0.699|
+|Lean tissue mass (kg)|50.2 (44, 61.6)|52.69 (45.8, 63.8)|0.643|
+|Estimated weekly physical activity (kCals)|1017 (283, 1399)|266.9 (0, 1039)|0.097|
+
+Median values (inter-quartile ranges) are stated. Mann-Whitney U or Chi-squared test used to compare groups as appropriate. aIndicates Chi-squared test
+
+Participants’ disease activity indices remained low after 8 weeks of exercise and no patient was removed from the trial due to a flare of symptoms. Two patients, one from each group, required oral antibiotics during the study for mild, intercurrent, non-IBD related infections (1 superficial skin infection and 1 lower respiratory tract infection). These incidents occurred at the midpoint of the study (weeks four and five).
+
+There were no statistically significant changes in quality of life scores (SF36®V2, four physical and four mental health domains) or mood and anxiety scores (HADS, STAI, BDI-II) between the control and intervention groups after eight-weeks (data not shown).
+
+# Table 2 Disease characteristics, baseline disease activity scores and pharmacological treatment of patients in the exercise and non-exercising disease control groups
+
+| |Exercise group (n = 13)|Control group (n = 7)|p-value| |
+|---|---|---|---|---|
+|Condition (%)|Ulcerative Colitis|8 (61.5%)|5 (71.4%)|0.658a|
+| |Crohn’s Disease|5 (38.5%)|2 (28.6%)| |
+|Age at diagnosis (years)|25 (25, 31)|26 (22, 31)|0.642| |
+|Previous surgery for condition|Yes: 1 (7.7%)|Yes: 0|0.452a| |
+|Baseline Disease activity score|Simple Colitis Index|1.5 (1, 2.75)|1 (0, 4)|0.833|
+| |Harvey Bradshaw Index|1 (0, 1.5)|1 (0, 1)|1.00|
+|Disease treatment|Current steroid use|None|None| |
+| |Steroid use in the last year (%)|Yes: 5 (38.5%)|Yes: 3 (42.9%)|0.848a|
+| |No: 8 (61.5%)|No: 4 (57.1%)| | |
+| |Current anti-TNF treatment|Yes: 2 (15.4%)|Yes: 1 (14.3%)|0.948a|
+| |No: 11 (84.6%)|No: 6 (85.7%)| | |
+| |Currently on immunomodulation|Yes: 100%|Yes: 100%| |
+| |Azathioprine|N = 1|N = 1| |
+| |Mesalazine|N = 11|N = 6| |
+| |6-mercaptopurine|N = 4|N = 2| |
+| |Proton pump inhibitors|N = 4|N = 4| |
+
+Proportions, medians (interquartile ranges) are stated as appropriate. Mann-Whitney U and Chi-squared tests performed to compare groups. aIndicates Chi-squared test

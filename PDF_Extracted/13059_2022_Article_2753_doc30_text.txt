@@ -1,0 +1,40 @@
+# Ma et al. Genome Biology
+
+# (2022) 23:208
+
+# References
+
+1. Schloss PD. Identifying and overcoming threats to reproducibility, replicability, robustness, and generalizability in microbiome research. MBio. 2018;9(3):e00525–18.
+2. Tsilimigras MC, Fodor AA. Compositional data analysis of the microbiome: fundamentals, tools, and challenges. Ann Epidemiol. 2016;26:330–5.
+3. Lloyd-Price J, Mahurkar A, Rahnavard G, Crabtree J, Orvis J, Hall AB, et al. Strains, functions and dynamics in the expanded Human Microbiome Project. Nature. 2017;550:61–6.
+4. Ritchie ME, Phipson B, Wu D, Hu Y, Law CW, Shi W, et al. limma powers differential expression analyses for RNA-sequencing and microarray studies. Nucleic Acids Res. 2015;43:e47.
+5. Jaskowiak PA, Campello RJ, Costa IG. On the selection of appropriate distances for gene expression data clustering. BMC Bioinformatics. 2014;15(Suppl 2):S2.
+6. Csardi G, Nepusz T. The igraph software package for complex network research. Int J Complex Syst. 2006;1695(5):1–9.
+7. Brandes U, Delling D, Gaertler M, Gorke R, Hoefer M, Nikoloski Z, et al. On modularity clustering. IEEE Trans Knowl Data Eng. 2007;20:172–88.
+8. McIver LJ, Abu-Ali G, Franzosa EA, Schwager R, Morgan XC, Waldron L, et al. bioBakery: a meta’omic analysis environment. Bioinformatics. 2018;34:1235–7.
+9. Edgar RC. UPARSE: highly accurate OTU sequences from microbial amplicon reads. Nat Methods. 2013;10:996–8.
+10. McDonald D, Price MN, Goodrich J, Nawrocki EP, DeSantis TZ, Probst A, et al. An improved Greengenes taxonomy with explicit ranks for ecological and evolutionary analyses of bacteria and archaea. ISME J. 2012;6:610–8.
+11. Callahan BJ, McMurdie PJ, Rosen MJ, Han AW, Johnson AJ, Holmes SP. DADA2: high-resolution sample inference from Illumina amplicon data. Nat Methods. 2016;13:581–3.
+12. Armour CR, Topcuoglu BD, Garretto A, Schloss PD. A Goldilocks principle for the gut microbiome: taxonomic resolution matters for microbiome-based classification of colorectal cancer. mBio. 2022;13(1):e03161–21.
+13. Costea PI, Hildebrand F, Arumugam M, Backhed F, Blaser MJ, Bushman FD, et al. Enterotypes in the landscape of gut microbial community composition. Nat Microbiol. 2018;3:8–16.
+14. Ma S. Population structure discovery in meta-analyzed microbial communities and inflammatory bowel disease. GitHub; 2022. https://github.com/biobakery/ibd_paper/tree/paper_publication.
+15. Ma S. Population structure discovery in meta-analyzed microbial communities and inflammatory bowel disease: Zenodo; 2022. https://doi.org/10.5281/zenodo.7008567.
+
+# Publisher’s Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+# Ready to submit your research?
+
+Choose BMC and benefit from:
+
+- fast, convenient online submission
+- thorough peer review by experienced researchers in your field
+- rapid publication on acceptance
+- support for research data, including large and complex data types
+- gold Open Access which fosters wider collaboration and increased citations
+- maximum visibility for your research: over 100M website views per year
+
+At BMC, research is always in progress.
+
+Learn more biomedcentral.com/submissions

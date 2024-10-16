@@ -1,0 +1,50 @@
+# Open access
+
+# Table 1 Eligibility criteria
+
+|Type|Inclusion criteria|
+|---|---|
+|IBD|Patients with documented CD, UC or IBD-U, >4 years old|
+|IBS|Patients with IBS who have met Rome IV criteria, ≥13 years old|
+|IBS- D|Normal CBC Negative tissue transglutaminase antibody if diarrhoea the main symptom Symptoms onset >45 years old, then negative colonic biopsies for microscopic colitis|
+|IBS- C, IBS- M and IBS- U|Negative tissue transglutaminase antibody Symptoms onset >50 years age, with new symptoms <1- year duration, then have a negative colonoscopy, CT colonography or Air Contrast Barium Enema Normal CBC|
+|Healthy controls|No GI symptoms using the Rome IV Questionnaire|
+
+# Exclusion criteria
+
+- Patients with subtotal colectomy and/or ileostomy
+- Major comorbid condition where the projected survival is less than 5 years
+- Difficulties with communication, including unable to communicate in English or French
+- Diagnosis of schizophrenia
+- Diagnosis of eating disorder
+- Major GI surgery (Roux en y, bowel resection)
+- Drug use that is the major cause of GI symptoms and/or undermines longitudinal compliance, including chronic antibiotic use, narcotic analgesics and substance abuse
+- Narcotic analgesic use causing GI symptoms
+- GI cancer within 5 years
+- Any major comorbid chronic condition
+
+CBC, complete blood count; CD, Crohn’s disease; GI, gastrointestinal; IBD, inflammatory bowel disease; IBD-U, unclassified IBD; IBS, irritable bowel syndrome; IBS-C, constipation-predominant IBS; IBS- D, diarrhoea-predominant IBS; IBS-M, IBS with mixed bowel habits; IBS-U, unclassified IBS; UC, ulcerative colitis.
+
+to provincial administrative data from the Canadian Gastro-Intestinal Epidemiology Consortium (https://cangiec.ca).
+
+# Biosamples
+
+A stool sample is collected for faecal microbiome, inflammatory markers and short-chain fatty acids. A urine sample is collected for metabolomics, and blood samples are taken for DNA isolation as well as for serum for inflammatory markers (ie, cytokines, chemokines, high-sensitivity C reactive protein, lipopolysaccharide) and metabolomic profile (eg, tryptophan metabolites, growth factors such as brain-derived neurotrophic factor, neurotransmitters such as GABA and serotonin, and stress hormones such as cortisol) at each study visit. All biosamples are shipped to Population Health Research Institute (PHRI) for storing at −80°C.
+
+# Data management
+
+Questionnaires are completed electronically using tablets during the clinic visit with the option to complete the any questionnaires remaining after clinic visit at home on a
+
+# Table 2 Participant information collection
+
+|Contact|Screening period|12-month visit|24-month visit|36-month visit|48-month visit|
+|---|---|---|---|---|---|
+|Purpose|Enrol in study|Health status|Health status|Health status|Health status|
+| |Biosamples|Biosamples|Biosamples|Biosamples| |
+| |Questionnaires|Questionnaires|Questionnaires|Questionnaires| |
+|Information collected|Contact by telephone, email or clinic visit.|Signed consent|Medical history|Medical history|Medical history|
+| |Eligibility|Obtain urine, stool, blood|Obtain urine, stool, blood|Obtain urine, stool, blood| |
+| |Demographics|Questionnaires|Questionnaires|Questionnaires| |
+| |Medical history|Provide urine and stool kit|Obtain blood (+DNA)|Questionnaires| |
+
+MoayyedifiP, et al. BMJ Open 2020;10:e041733. doi:10.1136/bmjopen-2020-041733

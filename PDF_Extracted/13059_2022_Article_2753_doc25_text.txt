@@ -1,0 +1,33 @@
+# Ma et al. Genome Biology (2022) 23:208
+
+Page 26 of 31
+
+# Testing for phenotypic severity within CD and UC patients
+
+Meta-analytical testing of features associated with CD behavior and UC extent classifications were performed with similar models (Additional file 5: Table S3). Specifically, within each study’s CD patients, the tests for contrasts B2 versus B1 and B3 versus B1 are performed by:
+
+Relative abundance ∼ β0 + β1I{subject is B2} + additional covariates (subsetted to B1, B3 CDs)
+
+Relative abundance ∼ β0 + β1I{subject is B3} + additional covariates (subsetted to B1, B2 CDs)
+
+The two β1 coefficients, once aggregated with meta-analysis, were reported as the effect sizes shown in Fig. 4a, along with their FDR corrected q-values (adjusted across features for each test).
+
+Relative abundance ∼ β0 + β1I{subject is B2 or B3} + β2I{subject is B3} + additional covariates
+
+β2 in this model corresponds to the effect of B3 in addition to the overall contrasts between B23 versus B1. The meta-analysis aggregated p-values of these effects were reported as the differentiation between the most severe and “medium” severity phenotypes (vertical bars indicating significance in Fig. 4a). Note that FDR adjustment of this effect was performed across the subset of features with at least either B2 versus B1 or B3 versus B1 effect significant (i.e., the subset of features visualized in Fig. 4a). Equivalent models were adopted for contrasts between extent categories of UC patients. Individual study results for the aggregated effects in Fig. 4a are in Additional file 7: Table S5.
+
+# Interaction effects testing
+
+To test for interaction effects with sample type and diseases, we fit meta-analysis moderator models [34] on the per cohort strata effects:
+
+βˆip = β0p + β1pI{cohort strata i is CD} + ǫip + eip
+
+βˆip = β0p + β1p I{cohort strata i is biopsy} + ǫip + eip
+
+The moderator effects β1p correspond to the interaction effect between the exposure under evaluation (disease, treatment, etc.) with the moderator variable. Figure 4b visualizes the two example features, Dehalobacterium and Enterobacteriacea; all significant interactions as well as individual study effects are in Additional file 8: Table S6.
+
+# Population structure analyses
+
+# Discrete structure discovery
+
+We performed discrete subtype discovery (i.e., “enterotyping” [67]) in IBD, CD, and UC populations across studies (longitudinal studies subsetted to baseline samples), using MMUPHin’s discrete structure discovery component (MMUPHin_Discrete). Only studies with at least 33 samples were considered for clustering analysis, as this was the sample size in the original enterotype paper [32]. Specifically, clustering was performed on Bray-Curtis dissimilarity by the partition-around-medoid method as implemented in R.

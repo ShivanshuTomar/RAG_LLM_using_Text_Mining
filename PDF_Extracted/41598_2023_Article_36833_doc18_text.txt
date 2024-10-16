@@ -1,0 +1,50 @@
+# Intestinal immune network for IgA production
+
+# Type I diabetes mellitus
+
+# Leishmaniasis
+
+# Ruminococcus champanellensis
+
+# Prevotella copri
+
+# Ruminococcus bromii
+
+# Ruminococcus flavefaciens
+
+# Ruminococcus gnavus
+
+# Allograft rejection
+
+# Asthma
+
+# Autoimmune thyroid disease
+
+# Graft-versus-host disease
+
+|A|D|Intestinal immune network for IgA production|
+|---|---|---|
+|Type I diabetes mellitus|Leishmaniasis|Ruminococcus champanellensis|
+|STAT1|FAS|HLA-DPA1|
+|IL15RA|HLA-DQB1|HLA-DPB1|
+|Ruminococcus bromii|Ruminococcus flavefaciens|Fructose|
+|Propionate|Butyrate|Glycine|
+|Alanine|Tartaric acid|Glycocholic acid|
+|Succinate|Ursodeoxycholic acid|Glycerol|
+|Acetate| | |
+
+# Figure 8
+
+Construction of an interaction network among shared specific gene associated with the gut microbiome in RA, genes related to shared pathways identified via GSEA, and the RA-specific gut microbiome.
+
+(A) Interaction network of shared specific gene and metabolites associated with the gut microbiome in RA; CXCL10 was directly associated with the metabolites.
+
+(B) Venn diagram demonstrating 7 shared high-expression pathways associated with RA and IBD identified via GSEA.
+
+(C) Venn diagram demonstrating 18 common genes associated with the 7 pathways.
+
+(D) An interaction network between the shared specific gene associated with the gut microbiome in RA, shared pathways via GSEA, genes related to shared pathways identified via GSEA, and the RA-specific gut microbiome.
+
+Scientific Reports | (2023) 13:9754 | https://doi.org/10.1038/s41598-023-36833-7
+
+Vol.:(0123456789)

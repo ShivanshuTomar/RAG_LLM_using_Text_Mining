@@ -1,0 +1,28 @@
+# Wang et al. Cell Death and Disease (2019) 10:391
+
+# Relationship between the severity of disease and personal characteristics
+
+|Characteristic|Severe IBD|Moderate IBD|Mild IBD|
+|---|---|---|---|
+|Female|0 (46.7)|R = -0.625|P = 0.0015|
+|Mezlamoe|0.5 (51)|LC3-n|GAP|
+|Immunomodulator|1 (100)|2015.41|Conflict|
+|Anti-TNF|7 / 53.81|2| |
+|Patients with higher CPSS|8|4|0|
+|Mayo score|CPSS|CPSS score| |
+
+Fig. 1 Stress contributes to the aggravation of IBD and enhancement of autophagy in IBD patients. Ten mild/moderate IBD and 13 severe IBD patients were enrolled. The basic characteristics, and endoscopic pictures were obtained during the colonoscopy. The colonic biopsy tissue was fixed, and H&E staining was used for assessment of histological changes. Immunohistochemical staining for LC3 was used for identification of autophagy and immunohistochemical staining for CD68 for detection of M1. Western blotting was applied for the detection of autophagy-related Beclin-1 and LC3-II/I ratio and correlation between autophagy-related proteins (Beclin-1 and LC3-II/I ratio) and IBD severity index (IBD activity and score) was analyzed by correlation analysis.
+
+a, b Compared to the mild and moderate IBD group, the severe IBD patient group showed a significant increase in CPSS (P = 0.039) and there was a moderate relationship between the CPSS and Mayo Score (R = 0.625, P = 0.0015). c Compared to the patients with lower CPSS, those with higher CPSS showed aggravated inflammatory infiltration in the colonoscopic view and HE staining, as well as enhancement of the levels of CD68 and LC3 in the colonic tissue (n = 6 per group). *P < 0.05 vs. the patients with low CPSS, **P < 0.01 vs. the patients with low CPSS.
+
+d Western blotting analysis for Beclin-1, LC3-II/I ratio in biopsy specimens from the healthy controls, mild/moderate IBD patients, and severe IBD patients. *P < 0.05, **P < 0.01 vs. the control group; #P < 0.05, ##P < 0.01 vs. the mild and moderate IBD group.
+
+e Correlation analysis between psychosocial stress and autophagy (evaluated with Beclin-1 and LC3-II/I ratio) and correlation analysis between IBD score and autophagy (evaluated with Beclin-1 and LC3-II/I ratio). *P < 0.05, **P < 0.01 vs. the control group; #P < 0.05, ##P < 0.01 vs. the mild and moderate IBD group.
+
+f Western blotting analysis for Atg16L1, Atg4B, and ATF4 in biopsy specimens from health control, mild/moderate IBD patients and severe IBD patients (n = 6 per group). *P < 0.05, **P < 0.01 vs. the control group; #P < 0.05, ##P < 0.01 vs. the mild and moderate IBD group results indicated that the IBD patients with high psychosocial stress had enhanced intestinal autophagy.
+
+Administration of CRH deteriorates the severity of IBD
+
+To further investigate the effect of psychosocial stress on autophagy during IBD, CRH was injected peripherally in IBD mice to reproduce the effect of psychosocial stress. Mice receiving 3% DSS for 7 days developed a severe illness characterized by the presence of sustained weight loss and bloody diarrhea, and shortened colon length. Notably, the administration of CRH aggravated the progress of IBD.
+
+Official journal of the Cell Death Differentiation Association

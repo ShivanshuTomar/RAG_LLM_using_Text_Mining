@@ -1,0 +1,29 @@
+# 834
+
+# Fitzgerald R. S. et al.
+
+presents in the ileum. Granulomas and fissures are microscopic features often distinguishing CD from UC [3, 5].
+
+# Secondary Effects
+
+In addition to the gastrointestinal symptoms, IBD is also associated with a set of additional risks. Patients with IBD are at an increased risk of cancer, particularly colon cancer (UC and CD) and small bowel cancer (CD) (for paediatric patients development of such cancers may occur when they reach adulthood). The risk between these intestinal cancers and IBD is influenced by multiple factors, including the extent of the disease, the age of the patient at diagnosis, and the length of time since the patient was diagnosed [5], suggesting the possibility that paediatric patients may be at an even greater risk given the permanency of the diseases. A study of Danish and Finnish paediatric IBD patients found them to be 2.5 times as likely to develop cancer as the general population [6], and similar findings were reported in a study of Swedish paediatric patients by Olen et al. [7]. Patients with IBD may also suffer with extra intestinal manifestations linked to IBD such as arthritis, liver disease, and skin or ocular complications. These manifestations are common in children and adults, but in children, they may precede gastrointestinal symptoms [5].
+
+Paediatric patients are also at risk of growth failure [5], which occurs in approximately 40% of CD and 10% of UC paediatric patients [8]. Approximately, a fifth of paediatric CD patients achieved a height significantly less than the expected target (>8 cm below target height) [9]. Consequently, steroids used to treat UC and CD in adults may not always be appropriate in paediatric patients due to the risk of growth retardation associated with these medications, especially in cases of children already suffering malnutrition due to IBD. Malnutrition is a more common occurrence in CD than UC; however, in recent years, an increased number of children diagnosed with IBD are either overweight or obese, following global trends of the general paediatric population [10]. Rates of obesity for children with UC were similar to the general population; however, lower rates were observed in children with CD.
+
+Furthermore, psychosocial stress is often an additional side effect of IBD in children and adults. Absence from school, isolation from peers, extended hospital stays, and familial stress may all be contributing factors to this. Children with IBD were found to be at a higher risk of depressive disorders [11] and more likely to report a lower health related quality of life [12]. Danish and Finnish IBD patients who had childhood onset IBD have been found to be more likely to die from suicide than the general population, which may be reflective of this increased probability of depressive disorders [6].
+
+# Incidence and Prevalence of IBD
+
+Prevalence of CD and UC are highest in the developed world, particularly North America and Europe [13], and the incidence of IBD appears to be increasing, particularly in developing countries [14]. Approximately, 20 to 25% of patients present with IBD before the age of 20 [5, 8, 15], with approximately 4% of paediatric IBD presenting before the age of 5, and 10% before the age of 10 [8, 15]. For paediatric IBD, many studies suggest an increasing prevalence of paediatric IBD, even in the developed world [16, 17]. A study of paediatric IBD in Ontario found that prevalence per 100,000 of the population had increased from 42.1 in 1994 to 56.3 in 2005 and incidence rates per 100,000 increased from 9.5 in 1994 to 11.4 in 2005 [18].
+
+# Potential Risk Factors for IBD
+
+A major risk factor influencing the incidence of IBD is its genetic component, with >200 IBD associated loci [19]. Familial studies have demonstrated the genetic link of IBD [20], with up to 14% of IBD patients having a family member also suffering from the disease [21]. These genetic links can be seen in Jewish populations, where both CD and UC are found to be more common in people of Jewish descent [2], and familial risk being increased for Jews vs non-Jews [22].
+
+Increased risk is also related to geography with the prevalence and incidence of IBD higher in developed countries though this is most likely due to environmental risk factors such as industrialisation (leading to increases in pollution, such as air pollution [23]), sanitation (the hygiene hypothesis [24, 25]), and western diet and lifestyle.
+
+A potential risk factor in IBD which has seen increased interest is the role of the microbiota in IBD, particularly the gut microbiota. Studies involving the composition and abundance of microorganisms in the gut (or ‘gut microbiome’) in IBD have revealed differences between healthy individuals and patients with IBD [26], both in colon [27] and stool samples [28], as well as between different disease states and varying with disease severity [29–31]. These differences can be seen in both children and adult IBD patients; however, for the purpose of this review, the focus will be on paediatric IBD.
+
+# The Paediatric Microbiome
+
+The microorganisms that colonise the human gut are often collectively referred to as the gut microbiome. When a child is born, the gut is initially colonised by environmental microbes, mainly from the mother’s microbiome, that may be the vaginal (or faecal) microbiome or the skin microbiome if born via Caesarean section [32]. The phyla Firmicutes,

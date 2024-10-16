@@ -1,0 +1,64 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Library
+
+# Better health.
+
+# Analysis 1.26. Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 26: C-reactive protein (CRP) at longest follow-up for induction of remission in UC (mg/L)
+
+|Study or Subgroup|Mean|SD|Total|Mean|SD|Total|Weight|IV, Random, 95% CI|
+|---|---|---|---|---|---|---|---|---|
+|Crothers 2021|10.12|10.43|7|10.65|11.31|8|7.3%|-0.53 [-11.54 , 10.48]|
+|Moayyedi 2015|4.9|5.9|15|3.3|3.4|17|76.2%|1.60 [-1.80 , 5.00]|
+|Paramsothy 2017|3.8|11.25|41|4.2|20.73|40|16.5%|-0.40 [-7.69 , 6.89]|
+|Total (95% CI)| | |63| | |65|100.0%|1.11 [-1.85 , 4.08]|
+
+Heterogeneity: Tau² = 0.00; Chi² = 0.33, df = 2 (P = 0.85); I² = 0%
+
+Test for overall effect: Z = 0.74 (P = 0.46)
+
+Test for subgroup differences: Not applicable
+
+# Analysis 1.27. Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 27: CRP at longest follow-up for induction of remission in UC: sensitivity analysis without Moayyedi 2015 (mg/L)
+
+|Study or Subgroup|Mean|SD|Total|Mean|SD|Total|Weight|IV, Random, 95% CI|
+|---|---|---|---|---|---|---|---|---|
+|Crothers 2021|10.12|10.43|7|10.65|11.31|8|30.5%|-0.53 [-11.54 , 10.48]|
+|Paramsothy 2017|3.8|11.25|41|4.2|20.73|40|69.5%|-0.40 [-7.69 , 6.89]|
+|Total (95% CI)| |48|48|100.0%|-0.44 [-6.52 , 5.64]| | | |
+
+Heterogeneity: Tau² = 0.00; Chi² = 0.00, df = 1 (P = 0.98); I² = 0%
+
+Test for overall effect: Z = 0.14 (P = 0.89)
+
+Test for subgroup differences: Not applicable
+
+# Analysis 1.28. Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 28: Fecal calprotectin at longest follow-up for induction of remission in UC (μg/mg)
+
+|Study or Subgroup|Mean|SD|Total|Mean|SD|Total|Weight|IV, Random, 95% CI|
+|---|---|---|---|---|---|---|---|---|
+|Crothers 2021|298|428|7|369|309|8|20.0%|-71.00 [-453.59 , 311.59]|
+|Haifer 2022|465|312|15|425|220|20|51.8%|40.00 [-145.00 , 225.00]|
+|Paramsothy 2017|710|714|41|980|690.19|40|28.2%|-270.00 [-575.80 , 35.80]|
+|Total (95% CI)| |63|68|100.0%|-69.49 [-260.62 , 121.65]| | | |
+
+Heterogeneity: Tau² = 9436.12; Chi² = 2.91, df = 2 (P = 0.23); I² = 31%
+
+Test for overall effect: Z = 0.71 (P = 0.48)
+
+Test for subgroup differences: Not applicable
+
+# Comparison 2. Fecal microbiota transplantation (FMT) versus control for maintenance of remission in ulcerative colitis (UC)
+
+|Outcome or subgroup title|No. of studies|No. of participants|Statistical method|Effect size|
+|---|---|---|---|---|
+|2.1 Maintenance of clinical remission in UC|2|71|Risk Ratio (M-H, Random, 95% CI)|2.97 [0.26, 34.42]|
+|2.2 Maintenance of clinical remission in UC: sensitivity analysis using fixed-effect model|2|71|Risk Ratio (M-H, Fixed, 95% CI)|1.53 [1.13, 2.07]|
+
+Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

@@ -1,0 +1,51 @@
+# Cochrane Library
+
+# Moayyedi 2015 (Continued)
+
+Trusted evidence. Informed decisions. Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Interventions
+
+|Experimental arm|Control arm|
+|---|---|
+|n = 38 • Single donor feces • 50 g stool in 300 mL mixture; 50 mL treatments administered via enema once per week for 6 weeks|n = 37 • Placebo consisting of water • 50 mL treatments administered via enema once per week for 6 weeks|
+
+# Outcomes
+
+Primary outcome
+
+- Clinical remission at week 7 (full Mayo score &lt; 3, Endoscopic Mayo score = 0)
+
+Secondary outcomes
+
+- Clinical response at week 7 (reduction in full Mayo score ≥ 3 points)
+- Improvement in UC symptoms (defined as ≥ 3 improvement in full Mayo score)
+- Full Mayo score
+- IBDQ scores (mean values reported without SD)
+- Inflammatory markers (ESR and CRP)
+- Adverse events
+
+# Notes
+
+The study was stopped early due to futility.
+
+Data interpretation: study authors reported that all analyses were conducted on an ITT basis, which considered all participants originally randomized to each group even though not every participant completed the trial. They also reported that the IBDQ data had missing values, which were imputed using their means. However, because the IBDQ means for each group were reported without SD values, we excluded this study from the corresponding analysis.
+
+Data extraction: data for ESR and CRP were given for a subset of participants and were used accordingly. We also think that Table 2 of the published manuscript reported SD for continuous outcomes and not SE. The continuous data in Table 1 were reported as mean and SD and when we converted the SE values in Table 2 to SD using the formula SE × √(n) = SD, the values obtained were implausible. Therefore, we extracted the data reported in Table 2 of the published manuscript as SD values. We also wrote to the authors to clarify these data.
+
+Funding: Hamilton Academic Health Sciences Organization (HAHSO) and Crohn's and Colitis Canada (CCC).
+
+# Risk of bias
+
+# Bias
+
+|Authors' judgement|Support for judgement|
+|---|---|
+|Random sequence generation (selection bias)|Low risk Quote: "Eligible patients were randomized 1:1 according to a computer-generated randomization list that was stratified for patients with UC diagnosed within 1 year. The randomization was held centrally at the McMaster Gastroenterology Clinical Trials Unit to ensure concealment of allocation." (page 103) Comment: most likely done.|
+|Allocation concealment (selection bias)|Low risk Quote: "The randomization was held centrally at the McMaster Gastroenterology Clinical Trials Unit to ensure concealment of allocation. The treatment lo-|
+
+Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

@@ -1,0 +1,17 @@
+# Article
+
+https://doi.org/10.1038/s41467-023-42788-0
+
+# Fig. 5 | Construction of multi-omics biological correlation (MOBC) maps of gut microbiota in IBD.
+
+a 4 IBD cohorts are available for integrative analysis (n = 391).
+
+b Flowchart for the identification of 8 different KO genes related to metabolism and disease phenotypes to construct multi-omics biological correlation (MOBC) maps.
+
+# c–j MOBC maps of the 8 KO genes.
+
+The reaction equation below each image represents a reaction process corresponding to a KO gene. The bolded metabolites and KO genes represent those that have been validated and show significant differences in our metagenomics and metabolomics analyses. The red color indicates enrichment in IBD, while blue represents depletion. The bar chart in the top half of each image represents the top 5 contributors of gut bacteria carrying this KO gene.
+
+Source data are provided as a Source Data file.
+
+Nature Communications | (2023)14:7135

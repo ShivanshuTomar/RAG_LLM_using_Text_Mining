@@ -1,0 +1,31 @@
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+# What did we want to assess?
+
+We wanted to assess the benefits and risks of FMT for treatment of IBD (UC and CD).
+
+# What did we do?
+
+We searched multiple databases for randomized controlled trials (RCTs), a study design considered to be superior for assessment of clinical interventions, that compared FMT to control therapies for IBD. We combined the data from multiple studies when possible and rated our confidence in the evidence based on factors such as study methods, participants' awareness of the treatment they received, and sample sizes.
+
+# What did we find?
+
+Ten studies (nine in adults and one in children) showed that FMT may increase rates of induction of clinical remission and endoscopic remission and may result in little to no difference in rates of any adverse events in people with active UC. The data on risk of serious adverse events and improvement in quality of life were very uncertain, and no conclusions could be drawn regarding these outcomes.
+
+Two studies reported data on use of FMT for maintenance of remission in adults with controlled UC. Overall, the evidence was very uncertain about the use of FMT to maintain clinical or endoscopic remission in controlled UC, as well as the associated risk of adverse events and improvement in quality of life.
+
+None of the included studies reported data on use of FMT for control of active CD.
+
+One study reported data on use of FMT for maintenance of remission in adults with controlled CD, and the evidence was very uncertain about the benefits and risks of FMT when used to maintain clinical remission in controlled CD.
+
+The studies varied in their methods, dosages, and frequencies of FMT administration, as well as the types of donors and baseline severity of disease. The FMT administration methods included oral capsule, nasoduodenal tube (a tube that travels from the nose to small bowel via the stomach), rectal enema, colonoscopy (a tube inserted into the colon via the anus), and combinations of these methods.
+
+# What are the limitations of the evidence?
+
+Our confidence in the evidence was limited due to the small numbers of participants, concerns regarding how the studies were conducted, and variations of effect among studies in some of the analyses. Additional studies are needed to address the benefits and risks of FMT in adults and children with IBD.
+
+# How up-to-date is this evidence?
+
+This review is an update of our previous review that was published in 2018. The evidence is up-to-date as of 22 December 2022.
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

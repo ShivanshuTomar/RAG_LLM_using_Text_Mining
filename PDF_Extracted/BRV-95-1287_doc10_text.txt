@@ -1,0 +1,25 @@
+# Exosomes and IBD
+
+# Table 1 Exosome components and their effects in studies of inflammatory bowel disease (IBD)
+
+|Exosome component|Source|Effects|References|
+|---|---|---|---|
+|Metallothionein-2|Bone marrow-derived MSCs|Maintenance of intestinal barrier integrity Polarization of M2b macrophages Induction of IL-10 from macrophages|Liu et al. (2019)|
+|Annexin A1|IECs|Activates mucosal wound repair Potential biomarker of intestinal mucosal inflammation|Leoni et al. (2015)|
+|81 proteins including tetraspanin 14–3-3 protein, enolase and heat shock proteins, together with 52 miRNA species|Hookworm|Protection against colitis by significantly suppressing IFNγ, IL-6, IL-1β, and IL-17a and upregulating anti-inflammatory cytokine IL-10|Eichenberger et al. (2018a)|
+|miR-21|Human colonocytes and mouse colonic crypts|Promotes cell proliferation and migration in human colonic epithelial cells and colonic crypts in wild-type mice|Bakirtzi et al. (2019)|
+|NEAT1|Mouse intestinal mucosa and serum|Involved in IBD pathogenesis hence a possible biomarker Downregulation of NEAT1 suppresses inflammatory response by modulating intestinal epithelial barrier and via exosome-mediated polarization of macrophages in IBD|Liu et al. (2018a)|
+|mdo-miR7267-3p|Ginger|Shapes gut microbiota Improves barrier function Ameliorates colitis via IL-22-dependent mechanisms|Teng et al. (2018)|
+|miR-4334, miR-219 and miR-338|Porcine milk|Prevents LPS-induced intestinal inflammation, apoptosis and damage via inhibiting TLR4/NF-κB and p53 pathways|Xie et al. (2019)|
+|miR-223|Mice colonic epithelial cells|Modulates communication between IL-23 signal pathway and claudin-8 in IBD development Modulates intestinal barrier integrity|H. Wang et al. (2016)|
+|miR-34c and PlncRNA1|Intestinal epithelial cell line Caco-2|Modulates ZO-1, MAZ and occludin expression Modulates intestinal barrier integrity|Chen et al. (2017)|
+|mdo-miR7267-3p|Ginger|Shapes gut microbiome by gene targeting in Lactobacillus rhamnosus Increases expression of indole-3-carboxaldehyde (I3A) and IL-22 Improves intestinal barrier function and ameliorates colitis|Teng et al. (2018)|
+|GELNs lipids|Grapes|Enhances in vivo targeting of intestinal stem cells Remodels and protects intestinal tissue against DSS-induced colitis|Ju et al. (2013)|
+
+DSS, dextran sulfate sodium; GELN, grape exosome-like nanoparticles; IEC, intestinal epithelial cell; IFNγ, gamma interferon; IL, interleukin; LPS, lipopolysaccharide; MAZ, myc-associated zinc finger protein; miR, microRNA; MSC, mesenchymal stem cell; NEAT1, nuclear paraspeckle assembly transcript 1; NF-κB, nuclear factor kappa B; PlncRNA1, long non-coding RNA PlncRNA-1; TLR4, toll-like receptor 4; ZO-1, zona occludens-1.
+
+# VI. STEM CELL-DERIVED EXOSOMES AND IBD
+
+Stem cell-derived exosomes are increasingly implicated as regulators of several stem cell-associated therapeutic effects. These exosomes are believed to elicit their therapeutic activities by delivering their cargo consisting of potentially therapeutic proteins and RNAs to recipient cells. One mechanism through which MSC-derived exosomes perform their biological function of dampening inflammation is via ubiquitination (Wu et al., 2018). Exosomes obtained from MSCs of human umbilical cord significantly attenuate IBD by upregulating levels of IL10 and IFN-γ inducible protein-10 (IP10), while downregulating IL-1β, TNF-α, IL-6, ubiquitin-conjugating enzymes (E2M), NEDD8-activating enzyme E1 (NAe1), and ubiquitin like modifier activating enzyme 3 (Uba3). Further analysis by western blot showed decreased expression levels of proteins such as K48, K63 and FK2 (indicating regulation of ubiquitin modification) in exosome-treated IBD mice compared with controls (Wu et al., 2018).
+
+Biological Reviews 95 (2020) 1287–1307 © 2020 The Authors. Biological Reviews published by John Wiley & Sons Ltd on behalf of Cambridge Philosophical Society.

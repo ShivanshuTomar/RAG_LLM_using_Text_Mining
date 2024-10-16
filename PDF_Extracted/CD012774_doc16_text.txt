@@ -1,0 +1,54 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Library
+
+# Better health.
+
+was an independent event unless the published report indicated otherwise.
+
+# Cochrane Database of Systematic Reviews
+
+15% to be a minimally important clinical difference (MICD) between the two groups for the primary outcome.
+
+# Dealing with missing data
+
+Attrition is an important factor that may affect the validity of studies, and differential dropout rates between study groups can lead to biased estimates of effect size (Dumville 2006). We described missing data, including withdrawals and reasons for withdrawal, as reported by the study authors. We contacted the authors if data were missing and no reasons were provided. When authors applied complete data to withdrawn participants (e.g. imputed using regression methods), we extracted the latter. If data were not available for the primary outcomes of this review, we contacted the authors for additional information. All data from the RCTs were analyzed on an ITT basis. Specifically, we conducted our analyses using the total number of participants originally randomized to each study group, rather than the number of participants who completed each study and for whom data were reported. As such, we assumed that participants with missing values for the primary outcomes did not develop the outcome of interest in either arm of the study and experienced treatment failure.
+
+# Assessment of heterogeneity
+
+We assessed clinical, methodologic, and statistical heterogeneity across the included studies. Clinical heterogeneity was assessed by comparing the distributions of important factors such as study population, dose, and frequency of FMT. Methodologic heterogeneity was assessed by comparing data included in the risk of bias tables. Statistical heterogeneity was assessed by visual inspection of the forest plots, the I² statistic, and the P value of the Chi² test. If the forest plot was indicative of a heterogeneous effect (opposite direction or prominent difference in magnitude of effect), while the I² values were greater than 50% and P values for the Chi² test were less than 0.1, statistical heterogeneity was considered to be substantial. We explored potential explanations for heterogeneity using subgroup analyses.
+
+# Subgroup analysis and investigation of heterogeneity
+
+We planned the following a priori subgroup analyses:
+
+- Route of administration: upper GI tract (i.e. oral capsules; nasogastric, nasoduodenal, nasojejunal tube) versus lower GI tract (i.e. colonoscopy, enema);
+- Type of donor: single donor (i.e. one person's stool administered per dose) versus multiple donors (i.e. more than one person's stool blended per dose);
+- Age of participants: children versus adults;
+- Frequency of FMT administration: single infusion versus multiple infusions during treatment period.
+
+We used the Chi² test to determine any statistical significance between the subgroup analyses. The subgroup analyses were considered separately for use of FMT in the induction and maintenance phases of remission in UC and CD. Subgroup analyses were conducted when at least 10 studies were available for analysis.
+
+# Sensitivity analysis
+
+The following a priori sensitivity analysis was performed:
+
+- choice of statistical model: random-effects versus fixed-effect models for primary outcomes.
+
+Given that we performed an ITT analysis, which included randomized participants who may not have received the intervention and completed follow-up, we also performed post-hoc available case analyses for the primary outcomes, in which only those participants who completed follow-up were included. We also updated the post-hoc analysis conducted in the last version of this review for studies that defined induction of remission with a combination of clinical and endoscopic/histologic criteria (Imdad 2018).
+
+# Data synthesis
+
+We synthesized data from individual trials using meta-analysis when the interventions, participant groups, and outcomes were sufficiently similar (as determined by consensus) using Review Manager Web (RevMan Web 2023). We planned to conduct separate meta-analyses for use of FMT in the induction and maintenance phases of remission in UC and CD. For dichotomous outcomes, we calculated pooled RRs and corresponding 95% CIs. We combined RRs (number of participants who experienced the event) and rate ratios (number of participants who experienced the event-days/months/years) for two reasons: studies were expected to be completed in a relatively short duration, and the primary outcome (induction of clinical remission) was not expected to be a recurrent event. All meta-analyses were conducted using the log RR, with all reported results transformed back into the RR metric for ease of interpretability. We considered a risk of difference of at least 10% to be a minimally important clinical difference (MICD).
+
+# Summary of findings and assessment of the certainty of the evidence
+
+We assessed the overall certainty of the evidence supporting the primary outcomes and selected secondary outcomes using GRADE (Guyatt 2011). This method takes into consideration the impact of the types of studies (i.e. randomized versus observational), risk of bias, imprecision, inconsistency (i.e. unexplained heterogeneity).
+
+Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

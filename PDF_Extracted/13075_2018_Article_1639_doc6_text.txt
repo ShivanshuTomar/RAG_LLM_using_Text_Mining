@@ -1,0 +1,19 @@
+# Regner et al. Arthritis Research & Therapy (2018) 20:149
+
+# Fig. 2 Cytokines produced by intraepithelial lymphocytes (IELs) are altered in individuals with inflammatory bowel disease (IBD) and axial spondyloarthritis (axSpA).
+
+Colonic IELs were mitogen-stimulated overnight and secreted cytokines measured by ELISA. a IL-1β, b IL-17A, c interferon (IFN)-γ, and d TNF-α production in pg/ml was normalized to the number of IELs collected from each subject. Each dot represents a case/control analyzed. A solid square indicates subjects on a TNF inhibitor, a solid dot indicates the subject was taking steroids, and an open dot indicates the subject was taking neither. Subjects with undetectable cytokine levels are absent from the graphs due to the logarithmic scale as are means that fall below the axis range. Statistical differences were identified by the Kruskal-Wallis test with Dunn’s post-hoc analysis for pairwise differences: *p &lt; 0.05 and **p &lt; 0.01. HC, healthy controls; CD, Crohn’s disease; UC, ulcerative colitis; axSpA, axial spondyloarthritis.
+
+|IL-1β|IL-17A|IFN-γ|TNF-α|
+|---|---|---|---|
+|1x10-6|1x10-6|1x10-6|1x10-6|
+|1x10-7|1x10-7|1x10-7|1x10-7|
+|1x10-8|1x10-8|1x10-8|1x10-8|
+
+# Discussion
+
+In this study we hypothesized that IEL function would vary by disease type and would be modulated by microbial milieu. Herein, we show for the first time that colonic IELs undergo functional changes in SpA and IBD. Furthermore, we suggest that changes in the microbiome may drive the functional changes observed in colonic IELs, specifically through interactions affecting cytokine secretion as demonstrated by the unique cytokine-microbiome interactions within each disease.
+
+Our results are in agreement with prior studies that suggested no difference in absolute IEL number in subjects with IBD as compared to healthy controls. However, one of our most interesting findings is that total IEL count is significantly reduced in axSpA. Prior studies document that IELs function to maintain epithelial homeostasis and that IELs promote epithelial barrier function through expressed cytokines, such as IL-6, in response to commensal bacteria [15, 37]. A decrease in IEL count in axSpA would be consistent with the frequently observed barrier dysfunction associated with subclinical colitis in many patients with axSpA [6].
+
+Furthermore, we identified strong, significant, negative correlation between peripheral lymphocyte count and colonic IEL count in patients with axSpA, which may suggest IEL trafficking between blood and colon compartments in this disease, although our data do not.

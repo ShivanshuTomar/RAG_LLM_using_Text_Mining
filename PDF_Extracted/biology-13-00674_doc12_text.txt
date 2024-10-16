@@ -1,0 +1,31 @@
+# Biology 2024, 13, 674
+
+# References
+
+1. Fang, M.; Hu, Z.F.; Feng, L.J. Association between dietary pattern and the risk of type 2 diabetes mellitus in Zhejiang Province, China: A case-control study. Asia Pac. J. Clin. Nutr. 2020, 29, 821–826. [CrossRef]
+2. Lin, Y.; Mei, Q.; Qian, X.; He, T. Salt consumption and the risk of chronic diseases among Chinese adults in Ningbo city. Nutr. J. 2020, 19, 9. [CrossRef]
+3. Qin, Y.; Melse-Boonstra, A.; Pan, X.; Zhao, J.; Yuan, B.; Dai, Y.; Zhou, M.; Geleijnse, J.M.; Kok, F.J.; Shi, Z. Association of dietary pattern and body weight with blood pressure in Jiangsu Province, China. BMC Public Health 2014, 14, 948. [CrossRef]
+4. Herforth, A.; Arimond, M.; Álvarez-Sánchez, C.; Coates, J.; Christianson, K.; Muehlhoff, E. A Global Review of Food-Based Dietary Guidelines. Adv. Nutr. 2019, 10, 590–605. [CrossRef]
+5. Zhang, Y.Z.; Li, Y.Y. Inflammatory bowel disease: Pathogenesis. World J. Gastroenterol. 2014, 20, 91–99. [CrossRef] [PubMed]
+6. Xiang, H.; Tao, X.; Guan, X.; Yin, T.; Li, J.; Dong, D.; Shang, D. Contemporary Chinese dietary pattern: Where are the hidden risks? Front. Nutr. 2022, 9, 997773. [CrossRef] [PubMed]
+7. Trends in the prevalence of excess dietary sodium intake—United States, 2003–2010. MMWR Morb. Mortal. Wkly. Rep. 2013, 62, 1021–1025.
+8. Briefel, R.R.; Johnson, C.L. Secular trends in dietary intake in the United States. Annu. Rev. Nutr. 2004, 24, 401–431. [CrossRef]
+9. Wilck, N.; Matus, M.G.; Kearney, S.M.; Olesen, S.W.; Forslund, K.; Bartolomaeus, H.; Haase, S.; Mähler, A.; Balogh, A.; Markó, L.; et al. Salt-responsive gut commensal modulates T(H)17 axis and disease. Nature 2017, 551, 585–589. [CrossRef] [PubMed]
+10. He, F.J.; Tan, M.; Ma, Y.; MacGregor, G.A. Salt Reduction to Prevent Hypertension and Cardiovascular Disease: JACC State-of-the-Art Review. J. Am. Coll. Cardiol. 2020, 75, 632–647. [CrossRef]
+11. Kong, C.; Gao, R.; Yan, X.; Huang, L.; Qin, H. Probiotics improve gut microbiota dysbiosis in obese mice fed a high-fat or high-sucrose diet. Nutrition 2019, 60, 175–184. [CrossRef] [PubMed]
+12. Stappenbeck, T.S.; Virgin, H.W. Accounting for reciprocal host-microbiome interactions in experimental science. Nature 2016, 534, 191–199. [CrossRef]
+13. Ferguson, J.F.; Aden, L.A.; Barbaro, N.R.; Van Beusecum, J.P.; Xiao, L.; Simmons, A.J.; Warden, C.; Pasic, L.; Himmel, L.E.; Washington, M.K.; et al. High dietary salt-induced dendritic cell activation underlies microbial dysbiosis-associated hypertension. JCI Insight 2019, 5, e126241. [CrossRef]
+14. Quaglio, A.E.V.; Grillo, T.G.; De Oliveira, E.C.S.; Di Stasi, L.C.; Sassaki, L.Y. Gut microbiota, inflammatory bowel disease and colorectal cancer. World J. Gastroenterol. 2022, 28, 4053–4060. [CrossRef]
+15. Wang, J.; Zhu, N.; Su, X.; Gao, Y.; Yang, R. Gut-Microbiota-Derived Metabolites Maintain Gut and Systemic Immune Homeostasis. Cells 2023, 12, 793. [CrossRef] [PubMed]
+16. García-Montero, C.; Fraile-Martínez, O.; Gómez-Lahoz, A.M.; Pekarek, L.; Castellanos, A.J.; Noguerales-Fraguas, F.; Coca, S.; Guijarro, L.G.; García-Honduvilla, N.; Asúnsolo, A.; et al. Nutritional Components in Western Diet Versus Mediterranean Diet at the Gut Microbiota-Immune System Interplay. Implications for Health and Disease. Nutrients 2021, 13, 699. [CrossRef] [PubMed]
+17. David, L.A.; Maurice, C.F.; Carmody, R.N.; Gootenberg, D.B.; Button, J.E.; Wolfe, B.E.; Ling, A.V.; Devlin, A.S.; Varma, Y.; Fischbach, M.A.; et al. Diet rapidly and reproducibly alters the human gut microbiome. Nature 2014, 505, 559–563. [CrossRef]
+18. Perler, B.K.; Friedman, E.S.; Wu, G.D. The Role of the Gut Microbiota in the Relationship Between Diet and Human Health. Annu. Rev. Physiol. 2023, 85, 449–468. [CrossRef]
+19. Aghamohammad, S.; Sepehr, A.; Miri, S.T.; Najafi, S.; Pourshafie, M.R.; Rohani, M. Anti-inflammatory and immunomodulatory effects of Lactobacillus spp. as a preservative and therapeutic agent for IBD control. Immun. Inflamm. Dis. 2022, 10, e635. [CrossRef] [PubMed]
+20. Kerem, G.; Yu, X.; Ismayi, A.; Teng, B.; Udduttula, A.; Liu, C.; Yu, Z.; Tohty, D.; Zhang, J.V.; Ren, P.G. Small intestinal microbiota composition altered in obesity-T2DM mice with high salt fed. Sci. Rep. 2023, 13, 8256. [CrossRef]
+21. Aghamohammad, S.; Sepehr, A.; Miri, S.T.; Najafi, S.; Pourshafie, M.R.; Rohani, M. The Role of Combining Probiotics in Preventing and Controlling Inflammation: A Focus on the Anti-Inflammatory and Immunomodulatory Effects of Probiotics in an In Vitro Model of IBD. Can. J. Gastroenterol. Hepatol. 2022, 2022, 2045572. [CrossRef]
+22. Yan, X.; Jin, J.; Su, X.; Yin, X.; Gao, J.; Wang, X.; Zhang, S.; Bu, P.; Wang, M.; Zhang, Y.; et al. Intestinal Flora Modulates Blood Pressure by Regulating the Synthesis of Intestinal-Derived Corticosterone in High Salt-Induced Hypertension. Circ. Res. 2020, 126, 839–853. [CrossRef]
+23. Wang, C.; Huang, Z.; Yu, K.; Ding, R.; Ye, K.; Dai, C.; Xu, X.; Zhou, G.; Li, C. High-Salt Diet Has a Certain Impact on Protein Digestion and Gut Microbiota: A Sequencing and Proteome Combined Study. Front. Microbiol. 2017, 8, 1838. [CrossRef] [PubMed]
+24. Png, C.W.; Lindén, S.K.; Gilshenan, K.S.; Zoetendal, E.G.; McSweeney, C.S.; Sly, L.I.; McGuckin, M.A.; Florin, T.H. Mucolytic bacteria with increased prevalence in IBD mucosa augment in vitro utilization of mucin by other bacteria. Am. J. Gastroenterol. 2010, 105, 2420–2428. [CrossRef]
+25. Boltin, D.; Perets, T.T.; Vilkin, A.; Niv, Y. Mucin function in inflammatory bowel disease: An update. J. Clin. Gastroenterol. 2013, 47, 106–111. [CrossRef] [PubMed]
+26. Kapoor, P.; Tiwari, A.; Sharma, S.; Tiwari, V.; Sheoran, B.; Ali, U.; Garg, M. Effect of anthocyanins on gut health markers, Firmicutes-Bacteroidetes ratio and short-chain fatty acids: A systematic review via meta-analysis. Sci. Rep. 2023, 13, 1729. [CrossRef] [PubMed]
+27. Dong, Z.; Liu, Y.; Pan, H.; Wang, H.; Wang, X.; Xu, X.; Xiao, K.; Liu, M.; Xu, Z.; Li, L.; et al. The Effects of High-Salt Gastric Intake on the Composition of the Intestinal Microbiota in Wistar Rats. Med. Sci. Monit. 2020, 26, e922160. [CrossRef]

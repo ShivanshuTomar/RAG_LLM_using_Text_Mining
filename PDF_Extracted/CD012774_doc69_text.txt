@@ -1,0 +1,87 @@
+# Cochrane Library
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# NCT02272868 (Continued)
+
+# Inclusion criteria
+
+- Availability of stool donor from family
+- Patient's agreement to nasogastric tube placement
+
+# Exclusion criteria
+
+- PCDAI score < 15 or > 45
+- Active or history of intra-abdominal abscess, perianal abscess, perianal fistula, intra-abdominal fistula, stricturing CD
+- Other serious medical conditions (e.g. neurologic, liver, kidney, autoimmune, systemic disease)
+- Allergy to any product used in study (e.g. rifaximin, omeprazole, MiraLAX)
+- Pregnancy, lactation, child-bearing potential (unless abstinent or willing to use adequate birth control from screening to end of study)
+- Intolerance to nasogastric tube placement (e.g. due to recent surgery or trauma to nares)
+- Presence of condition or abnormality that may compromise patient safety or data quality, as deemed by investigator
+
+# Interventions
+
+# Experimental arm
+
+- Pretransplant regimen (rifaxamin + omeprazole + MiraLAX) + donor FMT
+
+# Control arm
+
+- Pretransplant regimen (rifaxamin + omeprazole + MiraLAX) + normal saline
+
+# Outcomes
+
+# Primary outcome
+
+- PCDAI at week 12
+
+# Notes
+
+Trial completed on 1 October 2016 with actual enrollment of 7 participants; no results available.
+
+# Zhang 2019
+
+# Methods
+
+RCT
+
+# Participants
+
+# Inclusion criteria
+
+Unavailable
+
+# Exclusion criteria
+
+Unavailable
+
+# Interventions
+
+# Experimental arm
+
+- FMT
+
+# Control arm
+
+- Standard medical treatment: sulfasalazine tablets
+
+# Outcomes
+
+# Primary outcome
+
+- Pre- and post-treatment inflammatory factors (CRP, interleukin-6, tumor necrosis factor-α)
+
+# Secondary outcomes
+
+- Sutherland Index score
+- Intestinal flora score
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

@@ -1,0 +1,35 @@
+# Sternes et al. Arthritis Research & Therapy (2022) 24:163
+
+# Table 1 Demographics of the sampled cohorts
+
+|Demographics|Australia| | | |Italy|Sweden|
+|---|---|---|---|---|---|---|
+| |AS|AS-IBD|IBD|HC|AS|AS|
+|Age (mean ± SD)|48.5 ± 15.3|60 ± 9.8|42.7 ± 11.6|62.2 ± 10.3|39.6 ± 10.1|55.8 ± 11.8|
+|BMI (mean ± SD)|26.9 ± 5.5|26.2 ± 3.3|27.7 ± 7.0|27.3 ± 6.1|27.6 ± 4.8|27.72 ± 5.7|
+|Gender (% male)|86|60|42|54|69|70|
+|Ethnicity (% white)|100|100|94|77|100|100|
+|No. individuals|28|5|59|105|16|136|
+|No. samples|52|15|199|311|16|211|
+|% NSAID|50|50|5|17|31|57|
+|% DMARD|18|17|72|0|0|76|
+|% TNF|84|83|45|0|0|100|
+|% steroid|14|33|13|3|n/a|4|
+
+For all AS patients, disease activity was fully assessed by blood tests (full blood count, CRP, and ESR), and patient-reported disease activity (BASDAI). Bowel symptoms were evaluated quantitatively in all patients with AS using the spondyloarthritis modification of the Dudley Inflammatory Bowel Symptom Questionnaire (DISQ), a validated outcome measure described previously [28]. Faecal calprotectin was used as an objective marker of bowel inflammation as was measured using ELISA as described previously [28].
+
+# DNA extraction
+
+Samples were thawed to room temperature at time of DNA extraction. DNA was extracted from human stool samples using the Promega Maxwell® 16 LEV Blood DNA Kit (#AS1290) according to the manufacturer’s instructions. At the completion of DNA extraction RNase was added and incubated at 37 °C for 15 min, before RNA concentration was checked by Nanodrop.
+
+# 16S sequencing prep
+
+Samples were quantified using Agilent 4200 TapeStation and normalised to 50 ng/μL for a total of 200ng per sample DNA (4 μL per sample). First stage PCR was performed using 517F and 803R regions of the 16S rRNA gene at a 25 μL half-reaction volume for 25 PCR cycles [19]. A QC step of Agilent 4200 TapeStation analysis to confirm amplification size was performed before Beckman AMPure XP magnetic bead clean-up protocol was completed. Dual Indexing PCR was performed using the Nextera XT indexing kits and the manufacturer’s protocol. Samples were then pooled using the Perkin Elmer JANUS Liquid Handler running the “normalisation” protocol which automatically randomised samples to eliminate batch effect. Agilent 4200 TapeStation QC was performed to confirm a concentration of ~2 nM before the library was denatured with 10% PhiX.
+
+# Data processing of 16S gene amplicons
+
+FASTQ files were interrogated using FastQC v0.11.5 [29] and samples with low per base sequencing qualities were removed. FASTQ files were trimmed and the depth was assessed using QIIME2 v2020.2 [30]. Samples with low amplicon abundance (&lt;4485 amplicons) were excluded from further analysis. Subsequently, reads were joined using PEAR v0.9.10 [31] and imported, quality filtered, denoised, classified (Greengenes; gg_13_8, 99% similarity), and exported at the genus level using QIIME2.
+
+# Statistical analysis
+
+Multidimensional data visualisation of beta diversity was conducted using a sparse partial least squares discriminant analysis (sPLSDA) on arcsine squared root transformed data, as implemented in R v3.5.2 [32] as part of the MixOmics package v6.3.1 [33]. Association of the microbial composition (beta diversity) with metadata of interest was conducted using a PERMANOVA test as part of vegan v2.4-5 [34] on arcsine square-root transformed data at the genus level, taking into account individual identity where multiple sites per individual were co-analysed, as well as the sources of covariation such as BMI, ethnicity, age, gender, smoking status and TNFi usage. Alpha diversity was calculated at the species level using the rarefy function as implemented in vegan v2.4-5 and differences were evaluated using a Wilcoxon rank-sum test. Differential abundances of bacterial taxa were tested for.

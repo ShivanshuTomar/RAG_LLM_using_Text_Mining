@@ -1,0 +1,38 @@
+# Dikhnah Alshehri, et al.: Gut microbiota in IBD therapy
+
+# References
+
+1. Sherman PM, et al. Defining a healthy human gut microbiome: Current concepts, future directions, and clinical applications. Cell Host Microbe 2012;12(5):611-22. https://doi.org/10.1016/j.chom.2012.10.012.
+2. Browne HP, Forster SC, Anonye BO, Kumar N, Neville BA, Stares MD, et al. Culturing of “unculturable” human microbiota reveals novel taxa and extensive sporulation. Nature 2016;533:543. https://doi.org/10.1038/nature17645.
+3. Qin J, Li R, Raes J, Arumugam M, Burgdorf KS, Manichanh C, et al. A human gut microbial gene catalogue established by metagenomic sequencing. Nature 2010;464(7285):59.
+4. Guinane CM, Tadrous A, Fouhy F, Ryan CA, Dempsey EM, Murphy B, et al. Microbial composition of human appendices from patients following appendectomy. MBio 2013;4(1):e00366-12. https://doi.org/10.1128/mbio.00366-12.
+5. Lurie-Weinberger MN, Gophna U. Archaea in and on the human body: Health implications and future directions. PLoS Pathog 2015;11(6):e1004833. https://doi.org/10.1371/journal.ppat.1004833.
+6. Hoffmann C, Dollive S, Grunberg S, Chen J, Li H, Wu GD, et al. Archaea and fungi of the human gut microbiome: Correlations with diet and bacterial residents. PLoS One 2013;8(6):e66019. https://doi.org/10.1371/journal.pone.0066019.
+7. Lagkouvardos I, Overmann J, Clavel T. Cultured microbes represent a substantial fraction of the human and mouse gut microbiota. Gut Microbes 2017;8(5):493-503. https://doi.org/10.1080/19490976.2017.1320468.
+8. The Human Microbiome Project Consortium. Structure, function and diversity of the healthy human microbiome. Nature 2012;486(7402):207-14. https://doi.org/10.1038/nature11234.
+9. Schirmer M, Smeekens SP, Vlamakis H, Jaeger M, Oosting M, Franzosa EA, et al. Linking the human gut microbiome to inflammatory cytokine production capacity. Cell 2016;167(4):1125-36. https://doi.org/10.1016/j.cell.2016.10.020.
+10. Gilbert JA, Blaser MJ, Caporaso JG, Jansson JK, Lynch SV, Knight R. Current understanding of the human microbiome. Nat Med 2018;24:392. https://doi.org/10.1038/nm.4517.
+11. Ursell LK, Van Treuren W, Metcalf JL, Pirrung M, Gewirtz A, Knight R. Replenishing our defensive microbes. Bioessays 2013;35:810-7. https://doi.org/10.1002/bies.201300018.
+12. Rajilić-Stojanović M, Heilig HG, Tims S, Zoetendal EG, de Vos WM. Long-term monitoring of the human intestinal microbiota composition. Environ Microbiol 2012;2013:12023. https://doi.org/10.1111/1462-2920.12023.
+13. Song SJ, Lauber C, Costello EK, Lozupone CA, Humphrey G, Berg-Lyons D, et al. Cohabiting family members share microbiota with one another and with their dogs. Elife 2013;2:e00458. https://doi.org/10.7554/elife.00458.
+14. David LA, Maurice CF, Carmody RN, Gootenberg DB, Button JE, Wolfe BE, et al. Diet rapidly and reproducibly alters the human gut microbiome. Nature 2014;505(7484):559-63. https://doi.org/10.1038/nature12820.
+15. Dethlefsen L, Huse S, Sogin ML, Relman DA. The pervasive effects of an antibiotic on the human gut microbiota, as revealed by deep 16S rRNA sequencing. PLoS Biol 2008;6(11):e280. https://doi.org/10.1371/journal.pbio.0060280.
+16. Biedermann L, Zeitz J, Mwinyi J, Sutter-Minder E, Rehman A, Ott SJ, et al. Smoking cessation induces profound changes in the composition of the intestinal microbiota in humans. PLoS One 2013;8(3):e59260. https://doi.org/10.1371/journal.pone.0059260.
+17. Flores GE, Caporaso JG, Henley JB, Rideout JR, Domogala D, Chase J, et al. Temporal variability is a personalized feature of the human microbiome. Genome Biol 2014;15(12):531. https://doi.org/10.1186/s13059-014-0531-y.
+18. Bircher J. Towards a dynamic definition of health and disease. Med Health Care Philos 2005;8(3):335-41.
+19. David LA, Materna AC, Friedman J, Campos-Baptista MI, Blackburn MC, Perrotta A, et al. Host lifestyle affects human microbiota on daily timescales. Genome Biol 2014;15(7):R89. https://doi.org/10.1186/gb-2014-15-7-r89.
+20. Fierer N, Lauber CL, Zhou N, McDonald D, Costello EK, Knight R. Forensic identification using skin bacterial communities. Proc Natl Acad Sci 2010;107(14):6477-81. https://doi.org/10.1073/pnas.1000162107.
+21. Sharara AI, Al Awadhi S, Alharbi O, Al Dhahab H, Mounir M, Salese L, et al. Epidemiology, disease burden, and treatment challenges of ulcerative colitis in Africa and the Middle East. Exp Rev Gastroenterol Hepatol 2018;12(9):883-97. https://doi.org/10.1080/17474124.2018.1503052.
+22. Celiberto LS, Graef FA, Healey GR, Bosman ES, Jacobson K, Sly LM, et al. Inflammatory bowel disease and immunonutrition: Novel therapeutic approaches through modulation of diet and the gut microbiome. Immunology 2018;155(1):36-52. https://doi.org/10.1111/imm.12939.
+23. Brant SR, Okou DT, Simpson CL, Cutler DJ, Haritunians T, Bradfield JP, et al. Genome-wide association study identifies African-specific susceptibility loci in African Americans with inflammatory bowel disease. Gastroenterology 2017;152(1):206-17. https://doi.org/10.1053/j.gastro.2017.02.041.
+24. Knights D, Lassen KG, Xavier RJ. Advances in inflammatory bowel disease pathogenesis: Linking host genetics and the microbiome. Gut 2013;62(10):1505-10. https://doi.org/10.1136/gutjnl-2012-303954.
+25. Thursby E, Juge N. Introduction to the human gut microbiota. Biochem J 2017;474(11):1823-36. https://doi.org/10.1042/bcj20160510.
+26. Willing BP, Dicksved J, Halfvarson J, Andersson AF, Lucio M, Zheng Z, et al. A pyrosequencing study in twins shows that gastrointestinal microbial profiles vary with inflammatory bowel disease phenotypes. Gastroenterology 2010;139(6):1844-54. https://doi.org/10.1053/j.gastro.2010.08.049.
+27. Carlsson AH, Yakymenko O, Olivier I, Håkansson F, Postma E, Keita ÅV, et al. Faecalibacterium prausnitzii supernatant improves intestinal barrier function in mice DSS colitis. Scand J Gastroenterol 2013;48(10):1136-44. https://doi.org/10.3109/00365521.2013.828773.
+28. Wright EK, Kamm MA, Teo SM, Inouye M, Wagner J, Kirkwood CD. Recent advances in characterizing the gastrointestinal microbiome in Crohn’s disease: A systematic review. Inflamm Bowel Dis 2015;21(6):1219-28. https://doi.org/10.1097/mib.0000000000000382.
+29. Sartor RB. Mechanisms of disease: Pathogenesis of Crohn’s disease and ulcerative colitis. Nat Clin Pract Gastroenterol Hepatol 2006;3(7):390-407. https://doi.org/10.1038/ncpgasthep0528.
+30. Sokol H, Pigneur B, Watterlot L, Lakhdari O, Bermudez-Humaran LG, Gratadoux JJ, et al. Faecalibacterium prausnitzii is an anti-inflammatory commensal bacterium identified by gut microbiota analysis of Crohn disease patients. Proc Natl Acad Sci USA 2008;105(43):16731-6. https://doi.org/10.1073/pnas.0804812105.
+31. Frank DN, Amand AL, Feldman RA, Boedeker EC, Harpaz N, Pace NR. Molecular-phylogenetic characterization of microbial community imbalances in human inflammatory bowel diseases. Proc Natl Acad Sci 2007;104(34):13780-5. https://doi.org/10.1073/pnas.0706625104.
+32. Wallace KL, Zheng LB, Kanazawa Y, Shih DQ. Immunopathology of inflammatory bowel disease. World J Gastroenterol 2014;20(1):6.
+33. Fujimoto J, Kadara H, Garcia MM, Kabbout M, Behrens C, Liu DD, et al. G-protein coupled receptor family C, group 5, member A (GPRC5A) expression is decreased in the adjacent field and normal bronchial epithelia of patients with chronic obstructive pulmonary disease and non-small-cell lung cancer. J Thorac Oncol 2012;7(12):1747-54. https://doi.org/10.1097/jto.0b013e31826bb1ff.
+34. Rossi O, Khan MT, Schwarzer M, Hudcovic T, Srutkova D.

@@ -1,0 +1,97 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Library
+
+# Better health.
+
+intestine and colon: no difference for Crohn's disease. Digestive Diseases and Sciences 2020;65(1):150-7.
+
+Yang Z, Wang X, Bu C. Fecal microbiota transplant for Crohn's disease: a prospective, randomized study in Chinese population. United European Gastroenterology Journal 2017;5(Suppl 5):A112-3.
+
+# References to studies awaiting assessment
+
+# Caenepeel 2022 {published data only}
+
+- Caenepeel C, Deleu S, Arnauts K, Vázquez-Castellanos JF, Braekeleire S, Machiels K, et al. Standardized faecal microbiota transplantation with microbiome-guided donor selection in active UC patients: a randomized, placebo-controlled intervention study. Journal of Crohn's and Colitis 2022;16(Suppl 1):i003-4.
+- Deleu S, Caenepeel C, Arnauts K, Vázquez-Castellanos JF, Braekeleire S, Machiels K, et al. Standardized fecal microbiota transplantation through microbiome-guided donor selection in active ulcerative colitis patients: a randomized, placebo-controlled intervention study. Gastroenterology 2022;162(7):S-95-6.
+
+# Jitsumura 2022 {published data only}
+
+- Jitsumura M, Cunningham A, Hitchings MD, Wilkinson T, Kinross J, Row P, et al. Faecal microbiota transplant in ulcerative colitis (FMTUC) – a randomised clinical trial feasibility study. Journal of Crohn's and Colitis 2022;16(Suppl 1):i612-3.
+- Jitsumura M, Cunningham AL, Hitchings MD, Islam S, Davies AP, Row PE, et al. Protocol for faecal microbiota transplantation in ulcerative colitis (FMTUC): a randomised feasibility study. BMJ Open 2018;8(10):e021987.
+
+# NCT02272868 {published data only}
+
+NCT02272868. Fecal microbial transplant in pediatric Crohn's disease (FMTCD). clinicaltrials.gov/ct2/show/NCT02272868 (first received 23 October 2014).
+
+# Zhang 2019 {published data only}
+
+Zhang KQ, Jiang Q, Zhang HB. Effect of fecal microbiota transplantation on gastrointestinal function and intestinal flora in patients with ulcerative colitis. Shijie Huaren Xiaohua Zazhi 2019;27(1):68-72.
+
+# References to ongoing studies
+
+# CTRI/2021/03/032131 {published data only}
+
+CTRI/2021/03/032131. Stool transplant for treatment of colitis and Crohns disease. trialsearch.who.int/Trial2.aspx?TrialID=CTRI/2021/03/032131 (first received 18 March 2021).
+
+# EUCTR 2019-003816-29 {published data only}
+
+EUCTR 2019-003816-29. Fecal microbiota transplantation in Crohn's disease as relay after anti-TNF withdrawal. www.clinicaltrialsregister.eu/ctr-search/trial/2019-003816-29/FR (first received 14 October 2019).
+
+# Cochrane Database of Systematic Reviews
+
+# NCT01961492 {published data only}
+
+NCT01961492. Fecal microbiota transplantation in patients with ulcerative colitis. clinicaltrials.gov/ct2/show/NCT01961492 (first received 11 October 2013).
+
+# NCT02335281 {published data only}
+
+NCT02335281. Standardized fecal microbiota transplantation for inflammatory bowel disease (SFMT-IBD). clinicaltrials.gov/ct2/show/NCT02335281 (first received 9 January 2015).
+
+# NCT02998112 {published data only}
+
+NCT02998112. Fecal microbiota transplantation for ulcerative colitis through colonic transendoscopic enteral tubing. clinicaltrials.gov/ct2/show/NCT02998112 (first received 20 December 2016).
+
+# NCT03078803 {published data only}
+
+NCT03078803. Fecal transplant for Crohn's disease. clinicaltrials.gov/ct2/show/NCT03078803 (first received 13 March 2017).
+
+# NCT03110289 {published data only}
+
+NCT03110289. Restoration of the microbiome through superdonor selection (RESTORE-UC). clinicaltrials.gov/ct2/show/NCT03110289 (first received 12 April 2017).
+
+# NCT03273465 {published data only}
+
+NCT03273465. Fecal microbiota transplantation in ulcerative colitis. clinicaltrials.gov/ct2/show/NCT03273465 (first received 6 September 2017).
+
+# NCT03483246 {published data only}
+
+NCT03483246. Impact of fecal microbiota transplantation in ulcerative colitis (REBALANCE-UC). clinicaltrials.gov/ct2/show/NCT03483246 (first received 30 March 2018).
+
+# NCT03561532 {published data only}
+
+NCT03561532. Fecal transplantation in ulcerative colitis (FMT-CU). clinicaltrials.gov/ct2/show/NCT03561532 (first received 19 June 2018).
+
+# NCT03582969 {published data only}
+
+NCT03582969. Capsulized fecal microbiota transplantation in pediatric ulcerative colitis patients (FMT UC). clinicaltrials.gov/ct2/show/NCT03582969 (first received 11 July 2018).
+
+# NCT03716388 {published data only}
+
+NCT03716388. Fecal microbiota therapy vs 5-aminosalicylates for induction of remission in newly diagnosed mild-moderately active UC. clinicaltrials.gov/ct2/show/NCT03716388 (first received 23 October 2018).
+
+# NCT03804931 {published data only}
+
+NCT03804931. Fecal microbiota transplantation for ulcerative colitis. clinicaltrials.gov/ct2/show/NCT03804931 (first received 15 January 2019).
+
+# NCT03998488 {published data only}
+
+NCT03998488. Examining the efficacy of fecal microbiota transplantation (FMT) and dietary fiber in patients with
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

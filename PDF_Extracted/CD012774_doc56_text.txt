@@ -1,0 +1,52 @@
+# Cochrane Library
+
+# Paramsothy 2017 (Continued)
+
+Trusted evidence. Informed decisions. Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Intervention arm
+
+- Multiple donor feces (blended from 3–7 donors); each participant received treatment from same donor batch
+- 37.5 g stool in 150 mL infusion, administered first via colonoscopy; starting the next day, administered via enema 5 times per week for 8 weeks (total 40 enemas)
+
+# Control arm
+
+n = 40
+
+- Isotonic saline in 150 mL infusion, administered first via colonoscopy; starting the next day, administered via enema 5 times per week for 8 weeks (total 40 enemas)
+
+# Outcomes
+
+# Primary outcome
+
+- Composite of steroid-free clinical remission and endoscopic remission or response at week 8 (total Mayo score ≤ 2, with all Mayo subscores ≤ 1, and ≥ 1-point reduction from baseline in endoscopy subscore)
+
+# Secondary outcomes
+
+- Steroid-free clinical remission at week 8 (combined Mayo subscores of ≤ 1 for Rectal Bleeding plus Stool Frequency)
+- Steroid-free clinical response at week 8 (either decrease of ≥ 3 points on Mayo score, ≥ 50% reduction from baseline in combined Rectal Bleeding plus Stool Frequency Mayo subscores, or both)
+- Steroid-free endoscopic response at week 8 (Mayo Endoscopy subscore ≤ 1, with reduction of ≥ 1 point from baseline)
+- Steroid-free endoscopic remission at week 8 (Mayo Endoscopy subscore 0)
+- IBDQ scores
+- Adverse events
+
+# Notes
+
+Data extraction: data on quality-of-life scores were reported as medians and ranges, so these were converted to means and SDs by methods given in Hozo 2005.
+
+Data interpretation: study authors used an mITT analysis, in which only the participants who received ≥ 1 study dose were considered. For each group, the postrandomization n values were reported on an mITT basis only, so those are the numbers we extracted. The study authors also report in the 'Statistical analysis' section of their published paper that missing values were imputed using the worst value in the cohort.
+
+Funding: Broad Medical Research Program, Gastroenterological Society of Australia, Mount Sinai (New York) SUCCESS fund, University of New South Wales.
+
+# Risk of bias
+
+|Bias|Authors' judgement|Support for judgement|
+|---|---|---|
+|Random sequence generation (selection bias)|Low risk|Quote: "Patients were randomised centrally by the Centre for Digestive Diseases after screening in a 1:1 ratio to either faecal microbiota transplantation or placebo, using a pre-established computer-generated randomisation list with permutated blocks of four and stratified for study site and concomitant corticosteroid use." (page 1220)|
+|Allocation concealment (selection bias)|Low risk|Quote: "Patients and investigators were unaware of treatment allocation." (page 1220)|
+
+Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

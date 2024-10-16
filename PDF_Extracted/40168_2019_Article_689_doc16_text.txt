@@ -1,0 +1,75 @@
+# Heinken et al. Microbiome
+
+# (2019) 7:75
+
+# Funding
+
+This study was funded by Luxembourg National Research Fund (FNR) through the ATTRACT program grant (FNR/A12/01 to I.T.), the National Centre of Excellence in Research (NCER) on Parkinson’s disease, and the OPEN (FNR/O16/11402054) grant and by the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation program (grant agreement No 757922).
+
+# Availability of data and materials
+
+The annotated bile acid pathway genes are represented as a subsystem at the PubSEED website [69]. The expanded AGORA reconstructions generated in this study are available at the VMH database (https://vmh.life) [16]. The simulation results are shown in this article and its Supplementary files. Scripts used to analyze simulation results are available as a tutorial in the COBRA Toolbox [34] GitHub (https://github.com/opencobra/cobratoolbox) and rely on the COBRA Toolbox [34], COBRA.jl [76], and the Microbiome Modeling Toolbox [33].
+
+# Authors’ contributions
+
+AH and IT conceived the study. DAR performed the comparative genomic analysis and formulation of bile acid reactions. AH performed the expansion of AGORA reconstructions, microbiome modeling simulations, and analysis of simulation results. FB constructed the microbiome models. LH and RMTF provided tools and computational infrastructure for large-scale simulations. IT supervised the study. AH, DAR, and IT wrote the manuscript. All authors read, edited, and approved the final manuscript.
+
+# Ethics approval and consent to participate
+
+Not applicable. All data has been published elsewhere [35–37].
+
+# Consent for publication
+
+Not applicable. All data has been published elsewhere [35–37].
+
+# Competing interests
+
+The authors declare that they have no competing interests.
+
+# Publisher’s Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+# Author details
+
+1School of Medicine, National University of Ireland, Galway, University Road, Galway, Ireland.
+
+2Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg.
+
+3Division of Analytical Biosciences, Leiden Academic Centre for Drug Research, Faculty of Science, University of Leiden, Leiden, The Netherlands.
+
+4Discipline of Microbiology, School of Natural Sciences, National University of Ireland, Galway, University Road, Galway, Ireland.
+
+# Received: 7 September 2018 Accepted: 26 April 2019 Published online: 15 May 2019
+
+# References
+
+1. de Souza HSP, Fiocchi C, Iliopoulos D. The IBD interactome: an integrated view of aetiology, pathogenesis and therapy. Nat Rev Gastroenterol Hepatol. 2017;14:739–49.
+2. Nielsen J. Systems biology of metabolism: a driver for developing personalized and precision medicine. Cell Metab. 2017;25:572–9.
+3. Wahlstrom A, Sayin SI, Marschall HU, Backhed F. Intestinal crosstalk between bile acids and microbiota and its impact on host metabolism. Cell Metab. 2016;24:41–50.
+4. Ridlon JM, Harris SC, Bhowmik S, Kang DJ, Hylemon PB. Consequences of bile salt biotransformations by intestinal bacteria. Gut Microbes. 2016;7:22–39.
+5. Duboc H, Rajca S, Rainteau D, Benarous D, Maubert MA, Quervain E, Thomas G, Barbu V, Humbert L, Despras G, et al. Connecting dysbiosis, bile-acid dysmetabolism and gut inflammation in inflammatory bowel diseases. Gut. 2013;62:531–9.
+6. Staley C, Weingarden AR, Khoruts A, Sadowsky MJ. Interaction of gut microbiota with bile acid metabolism and its influence on disease states. Appl Microbiol Biotechnol. 2016;101(1):47–64.
+7. Palsson B. Systems biology: properties of reconstructed networks. Cambridge: Cambridge University Press; 2006.
+8. Thiele I, Palsson BO. A protocol for generating a high-quality genome-scale metabolic reconstruction. Nat Protoc. 2010;5:93–121.
+9. Orth JD, Thiele I, Palsson BO. What is flux balance analysis? Nat Biotechnol. 2010;28:245–8.
+10. van der Ark KCH, van Heck RGA, Martins Dos Santos VAP, Belzer C, de Vos WM. More than just a gut feeling: constraint-based genome-scale metabolic models for predicting functions of human intestinal microbes. Microbiome. 2017;5:78.
+11. Heinken A, Sahoo S, Fleming RM, Thiele I. Systems-level characterization of a host-microbe metabolic symbiosis in the mammalian gut. Gut Microbes. 2013;4:28–40.
+12. Heinken A, Thiele I. Systematic prediction of health-relevant human-microbial co-metabolism through a computational framework. Gut Microbes. 2015;6(2):120–30.
+13. Kumar M, Ji B, Babaei P, Das P, Lappa D, Ramakrishnan G, Fox TE, Haque R, Petri WA, Backhed F, Nielsen J. Gut microbiota dysbiosis is associated with malnutrition and reduced plasma amino acid levels: lessons from genome-scale metabolic modeling. Metab Eng. 2018;49:128–42.
+14. Magnusdottir S, Thiele I. Modeling metabolism of the human gut microbiome. Curr Opin Biotechnol. 2017;51:90–6.
+15. Magnusdottir S, Heinken A, Kutt L, Ravcheev DA, Bauer E, Noronha A, Greenhalgh K, Jager C, Baginska J, Wilmes P, et al. Generation of genome-scale metabolic reconstructions for 773 members of the human gut microbiota. Nat Biotechnol. 2017;35:81–9.
+16. Noronha A, Modamio J, Jarosz Y, Guerard E, Sompairac N, Preciat G, Danielsdottir AD, Krecke M, Merten D, Haraldsdottir HS, et al. The Virtual Metabolic Human database: integrating human and gut microbiome metabolism with nutrition and disease. Nucleic Acids Res. 2019;47:D614–24.
+17. Thiele I, Heinken A, Fleming RM. A systems biology approach to studying the role of microbes in human health. Curr Opin Biotechnol. 2013;24:4–12.
+18. Heinken A, Thiele I. Systems biology of host-microbe metabolomics. Wiley Interdiscip Rev Syst Biol Med. 2015;7:195–219.
+19. Thiele I, Sahoo S, Heinken A, Heirendt L, Aurich MK, Noronha A, Fleming RMT. When metabolism meets physiology: Harvey and Harvetta. bioRxiv. 2018:255885.
+20. Hale VL, Jeraldo P, Chen J, Mundy M, Yao J, Priya S, Keeney G, Lyke K, Ridlon J, White BA, et al. Distinct microbes, metabolites, and ecologies define the microbiome in deficient and proficient mismatch repair colorectal cancers. Genome Med. 2018;10:78.
+21. Jones BV, Begley M, Hill C, Gahan CG, Marchesi JR. Functional and comparative metagenomic analysis of bile salt hydrolase activity in the human gut microbiome. Proc Natl Acad Sci U S A. 2008;105:13580–5.
+22. Bennett MJ, McKnight SL, Coleman JP. Cloning and characterization of the NAD-dependent 7α-hydroxysteroid dehydrogenase from bacteroides fragilis. Current Microbiology. 2003;47:475–84.
+23. Devlin AS, Fischbach MA. A biosynthetic pathway for a prominent class of microbiota-derived bile acids. Nat Chem Biol. 2015;11:685–90.
+24. Doden H, Sallam LA, Devendran S, Ly L, Doden G, Daniel SL, Alves JMP, Ridlon JM. Metabolism of Oxo-bile acids and characterization of recombinant 12alpha-hydroxysteroid dehydrogenases from bile acid 7alpha-dehydroxylating human gut bacteria. Appl Environ Microbiol. 2018;84(10).
+25. Ferrandi EE, Bertolesi GM, Polentini F, Negri A, Riva S, Monti D. In search of sustainable chemical processes: cloning, recombinant expression, and functional characterization of the 7alpha- and 7beta-hydroxysteroid dehydrogenases from Clostridium absonum. Appl Microbiol Biotechnol. 2012;95:1221–33.
+26. Disz T, Akhter S, Cuevas D, Olson R, Overbeek R, Vonstein V, Stevens R, Edwards RA. Accessing the SEED genome databases via Web services API: tools for programmers. BMC Bioinformatics. 2010;11:319.
+27. Overbeek R, Begley T, Butler RM, Choudhuri JV, Chuang HY, Cohoon M, de Crecy-Lagard V, Diaz N, Disz T, Edwards R, et al. The subsystems approach to genome annotation and its use in the project to annotate 1000 genomes. Nucleic Acids Res. 2005;33:5691–702.
+28. Harris JN, Hylemon PB. Partial purification and characterization of NADP-dependent 12alpha-hydroxysteroid dehydrogenase from Clostridium leptum. Biochim Biophys Acta. 1978;528:148–57.
+29. Harris SC, Devendran S, Alves JMP, Mythen SM, Hylemon PB, Ridlon JM. Identification of a gene encoding a flavoprotein involved in bile acid.

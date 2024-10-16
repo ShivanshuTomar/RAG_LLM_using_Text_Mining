@@ -1,0 +1,46 @@
+# www.nature.com/scientificreports/
+
+# Table 12.
+
+Top 10 pathway nodes with the highest betweenness centrality in the ulcerative colitis (UC) projected network with uncommon pathways.
+
+|Node|Pathway|Betweenness centrality|
+|---|---|---|
+|314|PWY-1042|ANAEROSTIPES_HADRUS|0.0177|
+|875|PWY-6703|BACTEROIDES_XYLANISOLVENS|0.0166|
+|131|DTDPRHAMSYN-PWY|ESCHERICHIA_COLI|0.0109|
+|391|PWY-5097|ANAEROSTIPES_HADRUS|0.0109|
+|472|PWY-5667|ANAEROSTIPES_HADRUS|0.0086|
+|1161|PWY0-1319|ANAEROSTIPES_HADRUS|0.0086|
+|136|DTDPRHAMSYN-PWY|ROSEBURIA_INTESTINALIS|0.0079|
+|1108|PWY-7357|ROSEBURIA_INTESTINALIS|0.0079|
+|583|PWY-6121|ODORIBACTER_SPLACHNICUS|0.0068|
+|320|PWY-1042|ESCHERICHIA_COLI|0.0063|
+
+which in turn was connected to L. bacterium 5 1 63FAA module. 5 nodes of A. hadrus community was connected to most of the nodes of the other two species exhibiting high betweenness centrality, they were:
+
+1. node VALSYN-PWY|ANAEROSTIPES_HADRUS;
+2. node PWY-5104|ANAEROSTIPES_HADRUS;
+3. node PWY-5659|ANAEROSTIPES_HADRUS;
+4. node PWY-6700|ANAEROSTIPES_HADRUS;
+5. node PWY-6121|ANAEROSTIPES_HADRUS.
+
+Similarly to the NI case, node GLCMANNANAUT-PWY|RUMINOCOCCUS_TORQUES was connected only to pathways of other species. Another difference with the NI projected network was the edges of R. intestinalis which in this case were connected to B. instestinihominis, whereas, in the NI case, they were connected to nodes PWY-6151|ROSEBURIA_INULINIVORANS and 1CMET2-PWY|BACTEROIDES_UNIFORMIS.
+
+The UC network projection had 910 and only 10140 edges. The first striking property of this network was that there were much fewer edges compared to the previous two cases. It was not possible to say much about the module of E. coli. On the other hand, it was possible to observe that L. bacterium 5 1 63FAA and A. hadrus were separated. Furthermore, L. bacterium 5 1 63FAA module was connected to the R. hominis module through several nodes. Related to the R. torques group, we had one main module similar to the other cases, two isolated nodes (node PWY-7221|RUMINOCOCCUS_TORQUES as the NI case and node PWY-6121|RUMINOCOCCUS_TORQUES) and two nodes connected between them (nodes PWY-6277|RUMINOCOCCUS_TORQUES and PWY-6122|RUMINOCOCCUS_TORQUES), but separated from the rest of the pathways.
+
+As shown in Fig. 3, we found with a two-way ANOVA test a statistically significant difference in the number of edges by network type (p &lt; 0.00187) for correlation networks, but not diagnosis, the interaction between these terms was not significant. On the other hand, edges had not a statistically significant difference by network type nor diagnosis for projected networks.
+
+# Figure 3.
+
+The barplots show the number of edges for each diagnosis in correlation networks (a) and projected networks (b).
+
+| |correlation-prevalent|correlation-uncommon|projected-prevalent|projected-uncommon|
+|---|---|---|---|---|
+|diagnosis|50000|50000|40000|40000|
+|CD|30000|30000|20000|20000|
+|UC|10000|10000| | |
+
+Scientific Reports | (2023) 13:19428 | https://doi.org/10.1038/s41598-023-46184-y
+
+Vol:.(1234567890)

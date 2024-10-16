@@ -1,0 +1,23 @@
+# Applied Microbiology and Biotechnology
+
+# (2024) 108:333
+
+# Page 5 of 14
+
+# SDS-PAGE
+
+|kDa|PM|
+|---|---|
+|180|PM Protein marker|
+|140| |
+|100|Whole protein|
+| |Supernatant|
+| |Purification|
+| |TNF-α Nb|
+| |IL-10|
+
+# Characterization of anti-TNF-α nanobody and IL-10 in vitro.
+
+A-B Anti-TNF-α nanobody and IL-10 expression levels in “W,” “S,” and “P” were detected by subjecting E. coli BL21 (DE3) bearing anti-TNF-α nanobody and IL-10-gene expressing plasmids to SDS-PAGE after IPTG induction and ultrasonication. The BL21 cells induced by IPTG and collected from the cultures via centrifugation were resuspended in PBS buffer, followed by ultrasonic cell disruption to obtain the product described as “whole protein” (W). Subsequently, the supernatant (S) of the samples were collected through centrifugation, and the purified products (P) were obtained by purifying the supernatant using nickel columns.
+
+C The specificity and affinity of the anti-TNF-α nanobody to mouse TNF-α were detected by ELISA. D-F The effects of drug proteins on the release of cytokines in the LPS-induced RAW264.7. Statistical significance was determined by one-way ANOVA test; *P ≤ 0.05, **P ≤ 0.01, ***P ≤ 0.001, ****P ≤ 0.0001.

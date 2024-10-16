@@ -1,0 +1,30 @@
+# Regner et al. Arthritis Research & Therapy (2018) 20:149
+
+# Figure 4
+
+There was disease-specific correlation between microbiota and intraepithelial lymphocyte (IEL) production of cytokines. Correlation between the operational taxonomic unit (OTU) relative abundance and the IEL-produced cytokine value in each case/control group was tested using Spearman’s rank test. The data are shown as heatmaps, with the color of each correlation test corresponding to the Spearman rho value: *p < 0.05, †p < 0.01, and ‡p < 0.001. HC, healthy controls; CD, Crohn’s disease; UC, ulcerative colitis; axSpA, axial spondyloarthritis.
+
+Compared to other cohorts. Previously published findings corroborate these findings by reporting increased gene expression of IL-17A and IFN-γ in colonic biopsies taken from patients with UC and CD compared to healthy controls [41]. Finally, in patients with CD and axSpA compared to other cohorts, colonic IELs secreted significantly increased TNF-α, which is a well-established pro-inflammatory mediator in both diseases. Thus, while IEL numbers may not be significantly different in individuals with IBD, there are IEL functional changes that may contribute to local inflammation. Because we found no relationship between age, sex, duration of disease, disease activity index, or CRP and IEL abundance or cytokine production, we suggest that alterations in microbiota found in the disease states may influence cytokine production by IELs. Of note, we did find a negative association between smoking and TNFα secretion. This finding is consistent with prior studies as it has previously been shown in rat models that TNFα expression in colonic tissue increases with exposure to cigarette smoke in a dose-dependent fashion [42]. We also noted that TNFi use was associated with increased TNFα production by IELs. TNFα production is likely a reflection of disease activity and TNFi use is presumably a marker of more active disease.
+
+Although not powered for microbiome comparisons, our pilot microbiome sequencing data were consistent with prior studies. Specifically, we noted increased relative abundance of Ruminococcus in patients with SpA as compared to healthy controls, which has been previously published [10]. A trend toward decreased number of certain members of the phylum Firmicutes family Clostridia was also noted in SpA, as previously published [43, 44].
+
+# Table 2
+
+# Significant correlation between IEL number and OTU in individuals with axSpA
+
+|Operational Taxonomic Unit|Spearman’s Rho|p value|
+|---|---|---|
+|Bacteroidales: Prevotellaceae|−0.8857|0.0188|
+|Firmicutes: Clostridiaceae|−0.8286|0.0416|
+|Deferribacteres: Deferribacteraceae|−0.9276|0.0077|
+|Tenericutes: Anaeroplasmataceae|−0.8804|0.0206|
+|Actinobacteria: Dermabacteraceae|−0.8804|0.0206|
+|Tenericutes: RF9|−0.9856|0.0003|
+|Bacteroidales: RF16|−0.8452|0.0341|
+|Firmicutes: Eubacteriaceae|0.8697|0.0244|
+
+Intraepithelial lymphocyte (IEL) numbers and relative abundance of bacterial operational taxonomic units (OTUs) were compared by Spearman’s rank correlation coefficient, which is reported alongside the p value for the most significant results. In the IBD group, certain members of Firmicutes (Carnobacteriaceae) were expanded, consistent with prior findings [45].
+
+Our data on correlation between IEL-produced cytokines and the abundance of specific bacterial populations in the setting of IBD and axSpA provides an important link between functional mucosal consequences with changes in gut microbiome. In reviewing the strongest correlation, we note that in patients with CD, strong negative correlation was observed between Fusobacteriales and TNF-α. Prior research suggests that phylum Fusobacteria is increased in active CD [46]. Decreased IEL secretion of TNF-α in the setting of increased Fusobacteria and active inflammation could constitute a protective response. In patients with UC, we identified positive correlation between different families within Firmicutes (Chistensenellaceae) and Proteobacteria (Pseudomonadaceae) and increased IEL secretion of IL-1β. Prior studies have suggested increased abundance of Firmicutes and Proteobacteria in active IBD [45]. One mechanism by which these bacteria may be pro-inflammatory in UC is through increased IEL secretion of IL-1β. Finally, in patients with axSpA, we identified both positive and negative correlation between specific species within Firmicutes and IEL production of TNF-α. Others have noted increased Prevotella species and decreased Bacteroides species in axSpA [47]. The new finding that Firmicutes species may be linked to pro-inflammatory cytokine secretion is an area for further investigation. Clearly, additional study is required to understand these complicated relationships between IEL-produced cytokines and microbiota.
+
+We acknowledge several limitations to this study: (1) the small number of patients only allows evaluation of changes with large effect sizes; (2) we were not powered to account for confounders, such as medications other than TNFi. TNFi use among 50% of the patients with CD and 83% of patients with axSpA compared to none of the HC and patients with UC is a major limitation to this study as is the use of steroids among three study subjects. Ideally we would have enrolled subjects with new-onset, untreated axSpA and IBD. However, this would have severely limited our enrollment of subjects and the feasibility of this study. Nevertheless, when looking at cytokine production by IELs from those subjects on TNFi or steroids compared to those not on these medications (Figs. 1 and 2), there is no obvious visual difference. This suggests that these medications were.

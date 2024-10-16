@@ -1,0 +1,27 @@
+# Protein–protein interaction network analysis of the corresponding WGCNA module genes for rheumatoid disease (RA) and inflammatory bowel disease (IBD) (Crohn’s disease [CD] and ulcerative colitis [UC])
+
+# (A) Protein interaction network of RA’s corresponding WGCNA module genes.
+
+# (B) Protein interaction network of CD’s corresponding WGCNA module genes.
+
+# (C) Protein interaction network of UC’s corresponding WGCNA module genes.
+
+# (D) Network diagram of the hub nodes from RA.
+
+# (E) Network diagram of the hub nodes from CD.
+
+# (F) Network diagram of the hub nodes from UC.
+
+The hub genes of the WGCNA module corresponding to UC include CXCL10 and MMP9 (Fig. 4F; Supplementary Spreadsheet S12).
+
+# Functional annotation of candidate genes and identification of pathways associated with RA and IBD.
+
+The abovementioned 15 candidate genes were subjected to GO (Table 2) and KEGG (Table 3) functional enrichment analyses. The results of GO analysis revealed that the candidate genes were primarily associated with neutrophil chemotaxis, collagen-containing extracellular matrix, and chemokine activity (Fig. 5A). The results of KEGG analysis revealed the candidate genes were primarily associated with the IL-17 signaling pathway, chemokine signaling pathway, and cytokine–cytokine receptor interaction (Fig. 5B). Subsequently, the STRING database was used to construct a PPI network to visualize the interaction among the 15 candidate genes (Fig. 5C). The pathways associated with these genes in the RA training (Table 4), CD (Table 5) and UC (Table 6) cohorts were identified via GSEA. In the RA training cohort, pathways related to the intestinal immune network for IgA production, allograft rejection, and antigen processing and presentation were activated, whereas those related to retinol metabolism, regulation of lipolysis in adipocytes, and tyrosine metabolism were inhibited (Fig. 5D,G). In the CD cohort, pathways related to IBD, the intestinal immune network for IgA production, and asthma were activated, whereas those related to the metabolism of xenobiotics by cytochrome P450, metabolism of drugs by cytochrome P450, and butanoate metabolism were inhibited (Fig. 5E,H). In the UC cohort, pathways related to IBD, asthma, and the intestinal immune network for IgA production were activated, whereas those related to the metabolism of xenobiotics by cytochrome P450 and metabolism of drugs by cytochrome P450 were inhibited (Fig. 5F,I).
+
+# Machine learning algorithm-based screening and validation of shared specific genes.
+
+The RA training set was selected to screen for key genes between RA and IBD using two different machine learning algorithms. Of the 15 candidate genes, 4 were identified using the SVM-RFE algorithm (Fig. 6A,B), and 7 were identified using the LASSO regression algorithm (Fig. 6C,D). Eventually, three key genes (CXCL10, DUOX2, and CCL18) that were commonly identified using these two algorithms were selected (Fig. 6E). We performed differential expression and ROC curve discriminative efficacy demonstration to determine whether these three key genes are shared specific genes of RA and IBD. In the RA training set, CXCL10 and CCL18 had a high.
+
+Scientific Reports | (2023) 13:9754 | https://doi.org/10.1038/s41598-023-36833-7
+
+Vol.:(0123456789)

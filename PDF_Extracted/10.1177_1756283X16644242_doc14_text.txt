@@ -1,0 +1,55 @@
+# Therapeutic Advances in Gastroenterology 9(4)
+
+# References
+
+Hooper, L. and Macpherson, A. (2010) Immune adaptations that maintain homeostasis with the intestinal microbiota. Nat Rev Immunol 10: 159–169.
+
+Hou, J., Abraham, B. and El-Serag, H. (2011) Dietary intake and risk of developing inflammatory bowel disease: a systematic review of the literature. Am J Gastroenterol 106: 563–573.
+
+Human Microbiome Project Consortium (2012) Structure, function and diversity of the healthy human microbiome. Nature 486: 207–214.
+
+Ianiro, G., Bruno, G., Lopetuso, L., Beghella, F., Laterza, L., D’Aversa, F. et al. (2014) Role of yeasts in healthy and impaired gut microbiota: the gut mycome. Curr Pharm Des 20: 4565–4569.
+
+Iliev, I., Funari, V., Taylor, K., Nguyen, Q., Reyes, C., Strom, S. et al. (2012) Interactions between commensal fungi and the C-type lectin receptor dectin-1 influence colitis. Science 336: 1314–1317.
+
+Integrative HMP (iHMP) Research Network Consortium (2014) The Integrative Human Microbiome Project: dynamic analysis of microbiome-host omics profiles during periods of human health and disease. Cell Host Microbe 16: 276–289.
+
+Jeffery, I., Claesson, M., O’Toole, P. and Shanahan, F. (2012) Categorization of the gut microbiota: enterotypes or gradients? Nat Rev Microbiol 10: 591–592.
+
+Jeppesen, P. (2012) Teduglutide, a novel glucagon-like peptide 2 analog, in the treatment of patients with short bowel syndrome. Therap Adv Gastroenterol 5: 159–171.
+
+Johansson, M., Gustafsson, J., Holmen-Larsson, J., Jabbar, K., Xia, L., Xu, H. et al. (2014) Bacteria penetrate the normally impenetrable inner colon mucus layer in both murine colitis models and patients with ulcerative colitis. Gut 63: 281–291.
+
+Johansson, M., Phillipson, M., Petersson, J., Velcich, A., Holm, L. and Hansson, G. (2008) The inner of the two Muc2 mucin-dependent mucus layers in colon is devoid of bacteria. Proc Natl Acad Sci U S A 105: 15064–15069.
+
+Jostins, L., Ripke, S., Weersma, R., Duerr, R., McGovern, D., Hui, K. et al. (2012) Host-microbe interactions have shaped the genetic architecture of inflammatory bowel disease. Nature 491: 119–124.
+
+Kakodkar, S., Farooqui, A., Mikolaitis, S. and Mutlu, E. (2015) The specific carbohydrate diet for inflammatory bowel disease: a case series. J Acad Nutr Diet 115: 1226–1232.
+
+Kamada, N., Chen, G., Inohara, N. and Nunez, G. (2013) Control of pathogens and pathobionts by the gut microbiota. Nat Immunol 14: 685–690.
+
+Kaplan, G., Jackson, T., Sands, B., Frisch, M., Andersson, R. and Korzenik, J. (2008) The risk of developing Crohn’s disease after an appendectomy: a meta-analysis. Am J Gastroenterol 103: 2925–2931.
+
+Kaplan, G., Pedersen, B., Andersson, R., Sands, B., Korzenik, J. and Frisch, M. (2007) The risk of developing Crohn’s disease after an appendectomy: a population-based cohort study in Sweden and Denmark. Gut 56: 1387–1392.
+
+Karner, M., Kocjan, A., Stein, J., Schreiber, S., Von Boyen, G., Uebel, P. et al. (2014) First multicenter study of modified release phosphatidylcholine ‘LT-02’ in ulcerative colitis: a randomized, placebo-controlled trial in mesalazine-refractory courses. Am J Gastroenterol 109: 1041–1051.
+
+Kato, L., Kawamoto, S., Maruya, M. and Fagarasan, S. (2014) The role of the adaptive immune system in regulation of gut microbiota. Immunol Rev 260: 67–75.
+
+Kelly, C., Ihunnah, C., Fischer, M., Khoruts, A., Surawicz, C., Afzali, A. et al. (2014) Fecal microbiota transplant for treatment of Clostridium difficile infection in immunocompromised patients. Am J Gastroenterol 109: 1065–1071.
+
+Khan, K., Ullman, T., Ford, A., Abreu, M., Abadir, A., Marshall, J. et al. (2011) Antibiotic therapy in inflammatory bowel disease: a systematic review and meta-analysis. Am J Gastroenterol 106: 661–673.
+
+Klapproth, J. and Sasaki, M. (2010) Bacterial induction of proinflammatory cytokines in inflammatory bowel disease. Inflamm Bowel Dis 16: 2173–2179.
+
+Knights, D., Lassen, K. and Xavier, R. (2013) Advances in inflammatory bowel disease pathogenesis: linking host genetics and the microbiome. Gut 62: 1505–1510.
+
+Koenig, J., Spor, A., Scalfone, N., Fricker, A., Stombaugh, J., Knight, R. et al. (2011) Succession of microbial consortia in the developing infant gut microbiome. Proc Natl Acad Sci U S A 108(Suppl. 1): 4578–4585.
+
+Koloski, N., Bret, L. and Radford-Smith, G. (2008) Hygiene hypothesis in inflammatory bowel disease: a critical review of the literature. World J Gastroenterol 14: 165–173.
+
+Kostic, A., Xavier, R. and Gevers, D. (2014) The microbiome in inflammatory bowel disease: current status and the future ahead. Gastroenterology 146: 1489–1499.
+
+Kronman, M., Zaoutis, T., Haynes, K., Feng, R. and Coffin, S. (2012) Antibiotic exposure and IBD development among children: a population-based cohort study. Pediatrics 130: e794–e803.
+
+Kruis, W., Fric, P., Pokrotnieks, J., Lukás, M., Fixa, B., Kascák, M. et al. (2004) Maintaining remission

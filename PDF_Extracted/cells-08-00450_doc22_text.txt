@@ -1,0 +1,22 @@
+# Cells 2019, 8, 450
+
+# References
+
+1. Lee, G.S.; Subramanian, N.; Kim, A.I.; Aksentijevich, I.; Goldbach-Mansky, R.; Sacks, D.B.; Germain, R.N.; Kastner, D.L.; Chae, J.J. The calcium-sensing receptor regulates the NLRP3 inflammasome through Ca2+ and cAMP. Nature 2012, 492, 123–127. [CrossRef]
+2. Murakami, T.; Ockinger, J.; Yu, J.; Byles, V.; McColl, A.; Hofer, A.M.; Horng, T. Critical role for calcium mobilization in activation of the NLRP3 inflammasome. Proc. Natl. Acad. Sci. USA 2012, 109, 11282–11287. [CrossRef]
+3. Munoz-Planillo, R.; Kuffa, P.; Martinez-Colon, G.; Smith, B.L.; Rajendiran, T.M.; Nunez, G. K(+) efflux is the common trigger of NLRP3 inflammasome activation by bacterial toxins and particulate matter. Immunity 2013, 38, 1142–1153. [CrossRef]
+4. Khor, B.; Gardet, A.; Xavier, R.J. Genetics and pathogenesis of inflammatory bowel disease. Nature 2011, 474, 307–317. [CrossRef]
+5. Poritz, L.S.; Garver, K.I.; Green, C.; Fitzpatrick, L.; Ruggiero, F.; Koltun, W.A. Loss of the tight junction protein ZO-1 in dextran sulfate sodium induced colitis. J. Surg. Res. 2007, 140, 12–19. [CrossRef]
+6. Salim, S.Y.; Soderholm, J.D. Importance of disrupted intestinal barrier in inflammatory bowel diseases. Inflamm. Bowel Dis. 2011, 17, 362–381. [CrossRef] [PubMed]
+7. Shao, Y.X.; Lei, Z.; Wolf, P.G.; Gao, Y.; Guo, Y.M.; Zhang, B.K. Zinc Supplementation, via GPR39, Upregulates PKCzeta to Protect Intestinal Barrier Integrity in Caco-2 Cells Challenged by Salmonella enterica Serovar Typhimurium. J. Nutr. 2017, 147, 1282–1289. [CrossRef]
+8. de Valliere, C.; Vidal, S.; Clay, I.; Jurisic, G.; Tcymbarevich, I.; Lang, S.; Ludwig, M.G.; Okoniewski, M.; Eloranta, J.J.; Kullak-Ublick, G.A.; et al. The pH-sensing receptor OGR1 improves barrier function of epithelial cells and inhibits migration in an acidic environment. Am. J. Physiol. Gastrointest. Liver Physiol. 2015, 309, G475–G490. [CrossRef] [PubMed]
+9. Li, L.; Clevers, H. Coexistence of quiescent and active adult stem cells in mammals. Science 2010, 327, 542–545. [CrossRef] [PubMed]
+10. Kabiri, Z.; Greicius, G.; Madan, B.; Biechele, S.; Zhong, Z.; Zaribafzadeh, H.; Edison; Aliyev, J.; Wu, Y.; Bunte, R.; et al. Stroma provides an intestinal stem cell niche in the absence of epithelial Wnts. Development 2014, 141, 2206–2215. [CrossRef] [PubMed]
+11. Lee, Y.S.; Kim, T.Y.; Kim, Y.; Lee, S.H.; Kim, S.; Kang, S.W.; Yang, J.Y.; Baek, I.J.; Sung, Y.H.; Park, Y.Y.; et al. Microbiota-Derived Lactate Accelerates Intestinal Stem-Cell-Mediated Epithelial Development. Cell Host Microbe 2018, 24, 833–846.e6. [CrossRef]
+12. Ho, S.; Pothoulakis, C.; Koon, H.W. Antimicrobial peptides and colitis. Curr. Pharm. Des. 2013, 19, 40–47. [PubMed]
+13. Zhao, Y.; Chen, F.; Wu, W.; Sun, M.; Bilotta, A.J.; Yao, S.; Xiao, Y.; Huang, X.; Eaves-Pyles, T.D.; Golovko, G.; et al. GPR43 mediates microbiota metabolite SCFA regulation of antimicrobial peptide expression in intestinal epithelial cells via activation of mTOR and STAT3. Mucosal. Immunol. 2018, 11, 752–762. [CrossRef]
+14. Sina, C.; Gavrilova, O.; Forster, M.; Till, A.; Derer, S.; Hildebrand, F.; Raabe, B.; Chalaris, A.; Scheller, J.; Rehmann, A.; et al. G protein-coupled receptor 43 is essential for neutrophil recruitment during intestinal inflammation. J. Immunol. 2009, 183, 7514–7522. [CrossRef]
+15. Kamp, M.E.; Shim, R.; Nicholls, A.J.; Oliveira, A.C.; Mason, L.J.; Binge, L.; Mackay, C.R.; Wong, C.H. G Protein-Coupled Receptor 43 Modulates Neutrophil Recruitment during Acute Inflammation. PLoS ONE 2016, 11, e0163750. [CrossRef]
+16. Kamanna, V.S.; Ganji, S.H.; Kashyap, M.L. The mechanism and mitigation of niacin-induced flushing. Int. J. Clin. Pract. 2009, 63, 1369–1377. [CrossRef]
+
+© 2019 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/).

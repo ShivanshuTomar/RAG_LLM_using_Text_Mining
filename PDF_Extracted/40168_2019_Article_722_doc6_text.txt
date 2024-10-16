@@ -1,0 +1,55 @@
+# Minot and Willis Microbiome
+
+# (2019) 7:110
+
+gene groups that are associated with human diseases in multiple cohorts, and we identify specific microbial isolates that contain these genes. The development of diagnostics or therapeutics based on this list of genes and genomes is left to future work.
+
+# Methods
+
+# Datasets
+
+# Gene-level metagenomic analysis pipeline
+
+All microbiome WGS data were analyzed using a Docker-based workflow, with each individual step executed inside a Docker image. The workflow outlined below was executed independently for the set of samples from Schirmer et al., as well as for the set of samples from Zeller et al.
+
+The sequence of analyses is as follows:
+
+1. Each sample was individually downloaded from NCBI SRA with Entrez Direct
+- Docker image: quay.io/fhcrc-microbiome/get_sra:v0.4
+- Code: https://github.com/FredHutch/docker-sra
+- Wrapper script: get_sra.py
+- Software version(s):
+- sratoolkit.2.8.2-ubuntu64
+- CMake3.11
+- fastq-pair 4ae91b0d9074410753d376e5adfb2dd d090f7d85
+2. Each sample was individually assembled with metaSPAdes
+- Docker image: quay.io/fhcrc-microbiome/metaspades:v3.11.1--10
+- Code: https://github.com/FredHutch/docker-metaspades
+- Wrapper script: run_metaspades.py
+- Software version(s): SPAdes-3.11.1-Linux
+3. Each sample’s metagenomic assembly was annotated using Prokka
+- Docker image: quay.io/fhcrc-microbiome/metaspades:v3.11.1--8
+- Code: https://github.com/FredHutch/docker-metaspades
+- Software version(s): Prokka v1.12; barrnap v0.9
+- Wrapper script: run_prokka.py
+4. Each sample was aligned against the non-redundant protein sequences using DIAMOND, with post-alignment filtering using FAMLI. The Docker image associated with this step includes both the DIAMOND aligner and the FAMLI filtering code
+- Docker image: quay.io/fhcrc-microbiome/famli:v1.1
+- Code: https://github.com/FredHutch/famli
+- Software version(s): DIAMOND v0.9.10; famli==1.0
+- Wrapper script: famli
+- Parameters:
+- min_qual = 30
+- min_score = 20
+- query_gencode = 11
+5. The non-redundant protein sequences were functionally annotated via eggNOG-mapper
+- Docker image: quay.io/fhcrc-microbiome/eggnog-mapper:v0.1
+- Code: https://github.com/FredHutch/docker-eggnog-mapper
+- Software version(s): eggNOG-mapper = 1.0.3--py27_0
+- Wrapper script: run_eggnog_mapper.py
+6. The non-redundant protein sequences were analyzed via the taxonomic assignment functionality of DIAMOND (using NCBI’s RefSeq as the reference database)
+- Docker image: quay.io/fhcrc-microbiome/famli:v1.3
+- Code: https://github.com/FredHutch/famli
+- Software version(s): DIAMOND v0.9.22
+- Wrapper script: diamond-tax.py
+- Parameters: top_pct = 1
+7. The protein-coding sequences from all of the metagenomic assemblies for a given dataset were clustered into CAGs based on their abundance profile across the dataset.

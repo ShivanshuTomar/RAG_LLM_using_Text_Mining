@@ -1,0 +1,66 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Library
+
+# Better health.
+
+# Sarbagili Shabat 2022 (Continued)
+
+|Bias Type|Risk|Comments|
+|---|---|---|
+|Incomplete outcome data (attrition bias)|Low risk|All outcomes|
+|Selective reporting (reporting bias)|Low risk|All intended outcomes were reported.|
+|Other bias|Low risk|No other risks of bias were noted.|
+
+# Sokol 2020
+
+# Study characteristics
+
+# Methods
+
+Multicenter, single-blind RCT conducted in France
+
+# Participants
+
+# Inclusion criteria
+
+- Adults ages 18–70 years with health insurance, with colonic or ileo-colonic involvement
+- People with active disease at screening (Harvey Bradshaw Index > 4) received oral prednisolone (minimum dose 40 mg/day, maximum dose 1 mg/kg/day); those who achieved clinical remission (Harvey Bradshaw Index < 5) within 3 weeks were randomized to receive either FMT or sham FMT by colonoscopy
+
+# Exclusion criteria
+
+- Active fistulizing disease, perianal or abdominal abscesses, complications requiring surgery, pregnancy; use of anti-TNF agents (ongoing or stopped within month preceding randomization), immunosuppressants (started or stopped within 3 months preceding randomization), non-steroidal anti-inflammatory drugs (within 4 weeks preceding randomization), antibiotics or antifungals (within 4 weeks preceding colonoscopy), probiotics (within 4 weeks preceding colonoscopy), Clostridioides difficile infection within 10 days preceding randomization; any contraindication to colonoscopy or anesthesia
+
+# Interventions
+
+# Experimental arm
+
+n = 11
+
+- Single donor feces (5 donors involved, but only 1 donor was used per participant)
+- 50–100 g stool in 300 mL infusion, administered via colonoscopy after achieving clinical remission with oral corticosteroids (FMT was performed within 5 weeks of starting the corticosteroids)
+
+# Control arm
+
+n = 10
+
+- Physiologic serum in sham infusion, administered via colonoscopy
+
+# Outcomes
+
+- Maintenance of remission at week 24
+- CRP
+- Fecal calprotectin
+- Adverse events
+
+# Notes
+
+Data interpretation: the study authors reported that they used an ITT approach for their analysis, although upon further review of the published paper, it appeared that they used an mITT analysis in which only the participants who received ≥ 1 study dose were considered. For our review, we created
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

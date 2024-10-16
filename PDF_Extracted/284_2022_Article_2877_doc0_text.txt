@@ -1,0 +1,55 @@
+# Current Microbiology (2022) 79:184
+
+https://doi.org/10.1007/s00284-022-02877-7
+
+# REVIEW ARTICLE
+
+# Association of Gut Microbiota with Inflammatory Bowel Disease and COVID‑19 Severity: A Possible Outcome of the Altered Immune Response
+
+Anju Kaushal1 · Rashed Noor2
+
+Received: 6 November 2021 / Accepted: 12 April 2022 / Published online: 5 May 2022
+
+© The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2022
+
+# Abstract
+
+Inflammatory bowel disease could be induced by SARS-CoV-2, involved in alteration of gut microbiota during the respiratory viral infection. Presence of viral RNA in fecal samples for longer period, even after the clearance of the virus from respiratory tract, is suggestive of dysbiosis leading to the poor prognosis of COVID-19 in hospitalized patients. Gut microbiome (GM) plays a significant role to stimulate the modulated antiviral immune response against invading pathogens regulating the physiological homeostasis. GM profile of COVID-19 patients has revealed the drastic depletion of dominant families of commensals in the gut such as, Bacteroidaceae, Lachnospiraceae and Ruminococcaceae to be replaced with Enterococcus, Staphylococcus, Streptococcus, Serratia etc. Immune dysfunction of Th1–Th17 cells along gut-lung axis impairs the mucosal lining translocating the microorganisms including commensals and metabolites to other body organs like lungs, brain, kidney through circulation. These events may cause hyper inflammations associated with excessive secretion of cytokines and chemokines to form the cytokine storm causing ARDS. Gut virome could interact with microbiome and immune cells, help establishing the antiviral immune signaling, important for health maintenance/ or in disease progression. Essentially, these immunological strategies are needed to use in future prospective therapeutics to control the severity events.
+
+# Abbreviations
+
+|Abbreviation|Full Form|
+|---|---|
+|CCR|Chemokine receptor (transmembrane- g protein coupled receptor)|
+|AP1|Activator protein transcription factor|
+|ATP-gated P2RX7 receptor|Purinergic P2X receptor ligand-gated ion channel 7; in response to extracellular ATP|
+|CXCL|Chemokine (C-X-C motif) ligand|
+|CX3CR1 +|Chemokine CX3C motifs receptor 1|
+|APCs|Antigen presenting cells|
+|Calu3 2B4 cells|Cellosaurus cell line|
+|ATG16L1 Gene|Autophagy related 16 like 1|
+|ARDS|Acute respiratory distress syndrome|
+|CDN|Cyclic dinucleotide|
+|BP-38-CAP|Carboxypeptidase derived BP-38-CAP protein|
+|CTT|C-terminal tail|
+|cGAS-STING pathway|Cyclic GMP-AMP synthase-stimulator of interferon genes|
+|CERB|Cyclic response element binding protein|
+|DEX|Dexamethasone|
+|Ffar2|Free fatty acid receptor|
+|GPxs|Glutathione peroxidase|
+|GSK 3 β|Glycogen synthase kinase 3β|
+|GATA 4|GATA binding protein 4|
+|GALT|Gut associated lymphoid tissues|
+|GAS|GMP-AMP synthase|
+
+* Anju Kaushal
+
+anjukaushal186@hotmail.com; anjukaushal186@gmail.com
+
+* Rashed Noor
+
+rashednoor@iub.edu.bd
+
+1 Auckland, New Zealand
+
+2 Independent University, Bangladesh (IUB), Dhaka, Bangladesh

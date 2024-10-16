@@ -1,0 +1,41 @@
+# Wang et al. Cell Death and Disease (2019) 10:391
+
+# Fig. 5
+
+The level of autophagy is increased by peripheral administration of CRH in the left colon from IBD mice. DSS (3%) was given to C57BL/6 mice for 6 days while water was given to the control group. For certain groups, CRH was intraperitoneally given at the dose of 50 μg/kg body weight from day 1 to day 6 and saline was injected as vehicle.
+
+a The left colon was separated and the levels of Beclin-1, LC3-II/I ratio, and p62/SQSTM1 were analyzed by western blotting. Compared to the DSS + Vehicle group, the mice in the DSS + CRH group showed an increase in Beclin-1 and LC3-II/I ratio while a decrease in p62/SQSTM1 (n = 5 per group). **P < 0.01 vs. the control group, ##P < 0.01 vs. the DSS + Vehicle group.
+
+Electronic microscope was used for the detection of autophagosome number (b) and immunofluorescence staining for LC3 was used for the analysis of autophagy level (c). Compared to the DSS + Vehicle group, the mice in the DSS + CRH group showed an increase in the number of autophagosome and LC3 dots (n = 6 per group). **P < 0.01 vs. the control group, ##P < 0.01 vs. the DSS + Vehicle group.
+
+The left colon was separated and the total RNA (125 ng) was extracted and reverse transcribed to cDNA using miScript II RT kit (Qiagen, Valencia, CA, USA), and the expression profiles of autophagy gene, including a total of 84 genes were analyzed.
+
+d Heatmap displaying the relative expression of autophagy-related genes in the control, CRH, DSS + Vehicle and DSS + CRH groups (n = 3 per group).
+
+e Relative gene expression profiles between the DSS + Vehicle vs. the DSS + CRH mice (n = 3). The red lines indicate positive or negative fold changes (upregulated twofold or downregulated 0.5-fold) for selected genes in the DSS vs. DSS + CRH mice.
+
+f Most significant increased genes were mainly associated with autophagy, the process utilizing autophagic mechanism, and macroautophagy.
+
+g Compared to the DSS group, the levels of several proteins vital in the induction and regulation of autophagy were significantly changed (red nodes for genes with higher expression and blue nodes for genes with lower expression). Compared to the DSS + Vehicle group, several proteins positively correlated to autophagy such as PIK3R4, Atg4B, and DRAM1 were upregulated and those negatively correlated to autophagy such as GAA, HSP, CTSD, PPKAA1 were downregulated in the DSS + CRH group.
+
+# Blockade of autophagy by chloroquine attenuates CRH-induced colonic damage and Paneth cell metaplasia in IBD mice
+
+To determine whether the autophagy process was involved in the CRH-induced intestinal damage in IBD mice, we used an autophagy inhibitor, chloroquine, for the pharmacological blockade of the autophagy process and detected the severity of IBD. The administration of CRH significantly aggravated the severity of IBD in body weight loss (Fig. 6a), bloody stool score (Fig. 6b), and colon length (Fig. 6c). These effects were obviously blocked by chloroquine (Fig. 6a–c).
+
+Additionally, chloroquine (60 mg/kg) significantly reversed the enhanced TNF-α (Fig. 6d), IL-18 (Fig. 6e), and IL-7 expression (Fig. 6f). Accordingly, chloroquine suppressed the expression and activity of inflammatory infiltration marker MPO (Fig. 6g, h) and inflammatory infiltration (Fig. 6i).
+
+In addition, the administration of CRH significantly enhanced Paneth cell metaplasia in the epithelium, while chloroquine largely attenuated the effect (Fig. 6j). We further demonstrated that chloroquine attenuated CRH-induced enhancement of autophagy in the left colon from IBD mice (Supplemental Fig. 1). All of these data indicated that autophagy was required for the CRH-induced colonic damage and Paneth cell metaplasia in IBD mice.
+
+# Induction of autophagy by rapamycin aggravated CRH-induced Paneth cell metaplasia but not colonic damage in IBD mice
+
+We further investigated the involvement of autophagy in the CRH-induced intestinal damage and Paneth cell metaplasia through the induction of autophagy by rapamycin. Inducing autophagy by rapamycin did not significantly aggravate the detrimental effects led to by administration of CRH in body weight loss (Fig. 7a), bloody stool score (Fig. 7b), colon length (Fig. 7c), and inflammatory infiltration (Fig. 7i) in the left colon, as well as inflammatory reaction (Fig. 7d–h).
+
+However, rapamycin significantly aggravated the effect of CRH-mediated enhancement of Paneth cell metaplasia in the epithelium (Fig. 7j). Taken together, these data indicated that autophagy was more closely involved in the involvement of CRH-induced Paneth cell metaplasia compared to intestinal damage in IBD mice.
+
+# Blockade of autophagy by chloroquine attenuates CRH-induced enhancement of the M1/M2 ratio in the left colon from IBD mice and in murine bone marrow-derived macrophage (BMDM) under the challenge of lipopolysaccharide (LPS)
+
+We then detected whether the change in the M1/M2 ratio, a vital factor of the induction of inflammatory reaction, was involved in this process. We used CD68 and CD206 for the labeling of M1 and M2 cells, respectively. The administration of CRH significantly increased the ratio of CD68+ cells while decreased that of CD206+ cells in the left colon from IBD mice. However, those effects were attenuated through the blockade of the autophagy process by chloroquine (Fig. 8a, b).
+
+Similar trends in changes were observed in murine BMDM under the challenge of LPS in the ratios of CD68+ and CD206+ cells.
+
+Official journal of the Cell Death Differentiation Association

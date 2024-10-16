@@ -1,0 +1,31 @@
+# Cochrane Library
+
+# Sarbagili Shabat 2022 (Continued)
+
+Trusted evidence. Informed decisions. Better health.
+
+# Cochrane Database of Systematic Reviews
+
+- Fecal calprotectin &lt; 250 μg/g at week 8
+- Need for additional therapy or flare, based on physician's discretion, at week 12
+- Change in microbiome from baseline at day 14 for donor and week 8 for recipient, based on analysis of fecal samples
+- Endoscopic SCCAI score for each group at week 8
+
+# Notes
+
+Data extraction: we combined the 2 FMT groups (experimental arm and control arm 1) and compared them with the control group (control arm 2). This study reported adverse events as individual events rather than the number of participants experiencing each event, so these data were not extracted. Furthermore, the study stated that CRP levels were obtained at study visits and that change in calprotectin at week 8 was a secondary endpoint, but these data were not found in the paper. Last, the study assessed SCCAI scores at week 12, but these data were not considered as it did not appear that the study groups were re-randomized after the trial opened for analysis at week 8.
+
+Funding: ECCO Pioneer Prize, Litwin IBD Pioneer grant, and the Azrieli, Solomon and Beker foundations.
+
+# Risk of bias
+
+|Bias|Authors' judgement|Support for judgement|
+|---|---|---|
+|Random sequence generation (selection bias)|Low risk|Quote: "Randomisation was started 1:1:1 for the first 60 patients until the first 20 patients in Group 3 were enrolled, and then was to continue as a two-arm study with Group 1 and Group 2 alone randomised 1:1 to complete at least 76 patients in the FT arms [effectively 2:2:1 by the end of the study]; the dietary arm was to have fewer patients [as this arm was designed to evaluate the independent role of diet on recipients' clinical state and their microbiome] in blocks of 6, provided by opaque randomisation envelopes handed to the patient during enrolment after consent." (page 372)|
+|Allocation concealment (selection bias)|Low risk|Quote: "Randomisation was started … provided by opaque randomisation envelopes handed to the patient during enrolment after consent. In order to ensure physician blinding, a coordinator in each institution set up the study visits, met with the dietitians and patients, and ensured that patients received the appropriate donor sample and diet according their allocated group without the physicians' knowledge." (page 372)|
+|Blinding of participants and personnel (performance bias)|Low risk|Quote: "Randomisation was started … provided by opaque randomisation envelopes handed to the patient during enrolment after consent. In order to ensure physician blinding, a coordinator in each institution set up the study visits, met with the dietitians and patients, and ensured that patients received the appropriate donor sample and diet according their allocated group without the physicians' knowledge." (page 372)|
+|Blinding of outcome assessment (detection bias)|Low risk|Quote: "Randomisation was started … provided by opaque randomisation envelopes handed to the patient during enrolment after consent. In order to ensure physician blinding, a coordinator in each institution set up the study visits, met with the dietitians and patients, and ensured that patients received the appropriate donor sample and diet according their allocated group without the physicians' knowledge." (page 372)|
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

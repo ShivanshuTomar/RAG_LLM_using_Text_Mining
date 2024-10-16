@@ -1,0 +1,41 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Table 1. Microbiome outcomes (Continued)
+
+|MANOVA p|donor stool was|dominated by|Firmicutes, with|
+|---|---|---|---|
+|= 0.003,|the families|Lachnospiraceae|(67%) and Ru-|
+|PERMDISP|p = 0.099).|The rela-|tive abundance|
+|of Actinobac-|teria (1%) and|Bacteroidetes|(2%) was quite|
+|low, represent-|ed by the fami-|ly Coriobacteri-|aceae and the|
+|families Prevotel-|laceae and Bac-|teroideaceae, re-|spectively. F.|
+|prausnitzii was|present with a|frequency of 3%|in the stool of|
+|the donor.| | | |
+
+Sarbag-ili Shabat 2022
+
+Next-gen-
+
+eration se-
+
+quencing
+
+libraries were pre-
+
+pared using Nex-
+
+tera DNA li-
+
+brary prep [Illumina] and sequenced on a NovaSeq sequencing platform [Illumina]. Sequencing was performed with 75-bp single-end reads with the depth of 10 million reads per sample. We filtered metagenomic reads containing Illumina adapters, filtered low quality reads, and trimmed low-quality read edges. We detected host DNA by mapping with Bowtie to the human genome with inclusive parameters, and removed those reads. Bacterial relative abundance [RA] estimation was performed by mapping bacterial reads to species-level genome bins [SGB] representative genomes. We selected all SGB representatives with at least 5 genomes in a group, and for these representatives' genomes kept only unique regions as a reference dataset. Mapping was performed using Bowtie and abundance was estimated by calculating the mean cover-
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

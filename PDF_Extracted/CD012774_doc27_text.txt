@@ -1,0 +1,81 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Library
+
+# Better health.
+
+# Induction of clinical response in ulcerative colitis at longest follow-up
+
+FMT may increase rates of clinical response in participants with UC at the longest follow-up (RR 1.33, 95% CI 0.96 to 1.84; 10 studies, 468 participants; Analysis 1.21).
+
+# Induction of endoscopic response in ulcerative colitis at longest follow-up
+
+FMT may increase rates of endoscopic response in participants with active UC; however, the CIs around the summary estimate were imprecise and a null effect could not be ruled out (RR 1.48, 95% CI 0.79 to 2.76; 3 studies, 164 participants; Analysis 1.22).
+
+# Withdrawals in studies on induction of remission in ulcerative colitis
+
+There was little to no difference in withdrawal rates between the FMT and control groups of participants with active UC (RR 0.91, 95% CI 0.62 to 1.34; 10 studies, 468 participants; Analysis 1.23).
+
+# Erythrocyte sedimentation rate at longest follow-up
+
+There was no evidence of a difference in ESR at longest follow-up between FMT and control groups of participants with active UC (MD 2.98 mm/hour, 95% CI −0.38 to 6.34; 2 studies, 113 participants; Analysis 1.24).
+
+# C-reactive protein at longest follow-up
+
+There was no evidence of a difference in CRP at longest follow-up between FMT and control groups of participants with active UC (MD 1.11 mg/L, 95% CI −1.85 to 4.08; 3 studies, 128 participants; Analysis 1.26). Another study, Pai 2021, also measured CRP, but the data were not reported as final means and SDs and could not be combined with data from the other three studies.
+
+# Cochrane Database of Systematic Reviews
+
+2022; Sood 2019a). The evidence was very uncertain about the effect of FMT on maintenance of clinical remission in participants with UC (RR 2.97, 95% CI 0.26 to 34.42; very low-certainty evidence; Analysis 2.1). We downgraded the certainty of evidence due to risk of bias, inconsistency, and very serious imprecision (Summary of findings 2).
+
+# Sensitivity analyses
+
+A sensitivity analysis using a fixed-effect model showed that FMT may lead to a small increase in rates of maintenance of remission in participants with controlled UC (RR 1.53, 95% CI 1.13 to 2.07; Analysis 2.2). A sensitivity analysis based on participants who completed follow-up showed similar results (RR 1.66, 95% CI 0.47 to 5.81; Analysis 2.3).
+
+# Publication bias and subgroup analyses
+
+The number of studies was fewer than 10, so we did not draw funnel plots for publication bias or perform subgroup analyses.
+
+# Serious adverse events
+
+Two studies reported no serious adverse events in 71 participants with UC for whom FMT was used for maintenance of remission (Analysis 2.4). Overall, the evidence was very uncertain (Summary of findings 2). We downgraded the certainty of evidence due to risk of bias and very serious imprecision.
+
+# Publication bias, subgroup analyses, and sensitivity analyses
+
+None of the subgroup or sensitivity analyses were performed as the number of events was zero in both studies. The funnel plot was not drawn because there were fewer than 10 studies.
+
+# Secondary outcomes
+
+# Any adverse events
+
+# Fecal calprotectin at longest follow-up
+
+Three studies of 131 participants with UC reported data on FC at longest follow-up for the FMT versus control groups (Crothers 2021; Haifer 2022; Paramsothy 2017). FMT may decrease FC levels; however, the CIs were wide and included the possibility of no effect (MD −69.49 μg/mg, 95% CI −260.62 to 121.65; 3 studies, 131 participants; Analysis 1.28). Two other studies also measured FC (Costello 2019; Pai 2021), but their data were not reported as final means and SDs and could not be combined with data from the other three studies. One study reported data as medians and IQR (Haifer 2022), which we converted to means and SDs using a calculator based on methods by Hozo 2005.
+
+# Microbiome outcomes
+
+Table 1 provides the summary of methods used to assess microbiome-related outcomes and the summary of key findings.
+
+# Comparison 2: fecal microbiota transplantation for maintenance of remission in ulcerative colitis
+
+# Primary outcomes
+
+# Maintenance of clinical remission in ulcerative colitis at longest follow-up
+
+Two studies assessed FMT for maintenance of remission in 71 participants with UC, all of whom had achieved remission with FMT before randomization to the FMT versus control groups (Haifer). The data from two studies showed very uncertain evidence about the risk of any adverse events when FMT was used for maintenance of remission in UC (RR 1.16, 95% CI 0.85 to 1.59; very low-certainty evidence; Analysis 2.5). We downgraded the certainty of evidence due to risk of bias and very serious imprecision (Summary of findings 2).
+
+# Maintenance of endoscopic remission in ulcerative colitis at longest follow-up
+
+The evidence was very uncertain about the use of FMT for maintenance of remission in people with UC (RR 3.28, 95% CI 0.73 to 14.74; very low-certainty evidence; Analysis 2.6). We downgraded the certainty of evidence due to risk of bias and very serious imprecision (Summary of findings 2).
+
+# Quality of life at longest follow-up
+
+Haifer 2022 reported quality-of-life (IBDQ) scores after use of FMT for maintenance of remission in people with UC and the evidence was very uncertain, so no conclusive statement could be made (MD 38.2, 95% CI 19.3 to 57.1; 10 participants; very low-certainty evidence). The data in this study were reported in such a way that an effect size could not be calculated. We downgraded the certainty of evidence due to risk of bias and very serious imprecision (Summary of findings 2).
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

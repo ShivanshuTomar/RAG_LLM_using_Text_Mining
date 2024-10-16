@@ -1,0 +1,36 @@
+# Khanna et al. Microbiome (2017) 5:55
+
+# SourceTracker analysis
+
+To assess the proportion of pre-transplant communities that were retained in the patients’ microbiota, we used SourceTracker [23]. The pre-transplant samples and the donor samples were described as sources; all the other samples were used as sinks. For all samples at days 7 and 28, SourceTracker estimated the proportion of communities that were attributed to 1 of 3 environments, (1) the donor, (2) the patient pre-transplant, and (3) unknown community. Using these proportions, we grouped the samples according to their IBD status and compared their distributions using the Mann-Whitney test (as implemented in SciPy 0.15.1 [24]).
+
+# Clinical statistics
+
+Statistical analyses for clinical data were performed with JMP version 11.0 (SAS institute, NC). Data analysis included descriptive statistics, t tests for normally distributed variables, non-parametric tests for skewed variables, chi-square tests, and ANOVA tests as applicable. A p value less than 0.05 was considered statistically significant.
+
+# Results
+
+# FMT leads to resolution of CDI
+
+In order to assess gut microbiota changes following FMT, 38 patients with recurrent CDI were enrolled in the study and a fecal sample was obtained prior to transplant, as well as 7 and 28 days post-transplant. Sample handling, donor and recipient sample collection, sample processing, and data analyses are detailed in supplementary methods. FMT was accomplished by colonoscopy using fresh donor stools from related (n = 12) or unrelated (n = 26) donors. None of the IBD patients received stool from a related donor. The demographic, disease, and treatment characteristics are outlined in Table 1. Detailed characteristics of IBD patients are shown in Additional file 1: Table S1. Twelve patients (31.6%) had IBD (6 with UC and 6 with Crohn’s disease), with median age 27.6 years (range 23.3–74.9), and median IBD duration 5 years (range 2–33). 58.3% of patients were on 5-ASA (amino salicylic acid) agents, 50% on biologics, 33.3% on immunomodulators, and 58.3% on steroids. Among patients with IBD, at the time of colonoscopy, 2 had normal colonoscopy, 1 had pseudopolyps, 5 had severe pancolitis, 1 had moderate colitis, 1 had mild colitis, 1 had mild procto-sigmoiditis, and 1 had moderate ileocolitis (Additional file 1: Table S1).
+
+All patients responded to FMT with regards to clinical or microbiologic remission of CDI (negative C. difficile testing in the presence of ongoing diarrhea), 92.1% (n = 35) of patient symptoms returned to baseline bowel pattern (as before CDI) and resolution of CDI, 5.3% (n = 2, both with IBD) had worsening diarrhea (C. difficile negative), and 2.6% (n = 1) had new onset constipation after FMT. Upon long-term follow-up of 24 months; 13.2% (n = 5/38; of these, n = 1 within 56 days, n = 1 from
+
+# Table 1 Clinical characteristics
+
+| |Overall (n = 38)|IBD (n = 12)|No IBD (n = 26)|
+|---|---|---|---|
+|Age, median (range)|53.1 (21.9–82.7)|27.6 (23.3–74.9)|58.3 (21.9–82.7)|
+|Sex distribution (% female)|81.6|66.7|88.5|
+|BMI, kg/m2 median (range)|24.8 (14.9–39.9)|25.6 (18.5–30.3)|23.8 (14.9–39.9)|
+|Number prior CDI episodes, median (range)|5 (3–13)|4.5 (3–7)|5 (3–13)|
+|Number prior metronidazole courses, median (range)|1 (0–8)|1 (0–2)|1 (0–8)|
+|Patients treated with at least one prior course of metronidazole, n (%)|33 (86.8%)|9 (75%)|24 (92.3%)|
+|Number prior vancomycin 10–14 day courses, median (range)|2 (0–4)|2 (0–4)|2 (0–3)|
+|Patients treated with at least one prior course of vancomycin, n (%)|36 (94.7%)|11 (91.7%)|25 (96.2%)|
+|Number prior vancomycin tapers, median (range)|1 (0–5)|1 (0–1)|1 (0–5)|
+|Patients treated with at least one prior course of vancomycin taper, n (%)|26 (68.4%)|7 (58.3%)|19 (73.1%)|
+|Number prior fidaxomicin courses, median (range)|0 (0–4)|0 (0–2)|0 (0–4)|
+|Patients treated with at least one prior course of fidaxomicin, n (%)|16 (61.5%)|5 (41.7%)|16 (61.5%)|
+|Related donors, n (%)|12 (31.6%)|0 (0%)|12 (46.2%)|
+|Recurrent CDI within 24 months of FMT, n (%)|5 (13.2%)|3 (25%)|2 (7.7%)|

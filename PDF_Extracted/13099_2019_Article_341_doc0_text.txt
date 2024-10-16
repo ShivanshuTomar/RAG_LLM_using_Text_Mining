@@ -1,0 +1,29 @@
+# Microbial imbalance in inflammatory bowel disease patients at different taxonomic levels
+
+# Mohammad Tauqeer Alam2* and Ramesh P. Arasaradnam1,3,4,51*, Gregory C. A. Amos2,6, Andrew R. J. Murphy2, Simon Murch1, Elizabeth M. H. Wellington
+
+# Abstract
+
+Background: Inflammatory bowel disease (IBD), is a debilitating group of chronic diseases including Crohn’s Disease (CD) and ulcerative colitis (UC), which causes inflammation of the gut and affects millions of people worldwide. At different taxonomic levels, the structure of the gut microbiota is significantly altered in IBD patients compared to that of healthy individuals. However, it is unclear how these IBD-affected bacterial groups are related to other common bacteria in the gut, and how they are connected across different disease conditions at the global scale.
+
+Results: In this study, using faecal samples from patients with IBD, we show through diversity analysis of the microbial community structure based on the 16S rRNA gene that the gut microbiome of IBD patients is less diverse compared to healthy individuals. Furthermore, we have identified which bacterial groups change in abundance in both CD and UC compared to healthy controls. A substantial imbalance was observed across four major bacterial phyla including Firmicutes, Bacteroidetes, Proteobacteria and Actinobacteria, which together constitute > 98% of the gut microbiota. Next, we reconstructed a bacterial family co-abundance network based on the correlation of abundance profiles obtained from the public gut microbiome data of > 22,000 samples of faecal and gut biopsies taken from both diseased and healthy individuals. The data was compiled using the EBI metagenomics database (Mitchell et al. in Nucleic Acids Res 46:D726–D735, 2018). By mapping IBD-altered bacterial families to the network, we show that the bacterial families which exhibit an increased abundance in IBD conditions are not well connected to other groups, implying that these families generally do not coexist together with common gut organisms. Whereas, the bacterial families whose abundance is reduced or did not change in IBD conditions compared to healthy conditions are very well connected to other bacterial groups, suggesting they are highly important groups of bacteria in the gut that can coexist with other bacteria across a range of conditions.
+
+Conclusions: IBD patients exhibited a less diverse gut microbiome compared to healthy individuals. Bacterial groups which changed in IBD patients were found to be groups which do not co-exist well with common commensal gut bacteria, whereas bacterial groups which did not change in patients with IBD were found to commonly co-exist with commensal gut microbiota. This gives a potential insight into the dynamics of the gut microbiota in patients with IBD.
+
+Keywords: Inflammatory bowel disease, Crohn’s disease, Ulcerative colitis, Gut microbiota, Microbial imbalance
+
+# 1 Correspondence
+
+T.Alam@warwick.ac.uk; E.M.H.Wellington@warwick.ac.uk
+
+Warwick Medical School, University of Warwick, Coventry, UK
+
+School of Life Sciences, University of Warwick, Coventry, UK
+
+Full list of author information is available at the end of the article
+
+# Introduction
+
+Inflammatory bowel disease (IBD), a group of chronic intestinal disorders including Crohn’s disease (CD) and ulcerative colitis (UC), causes inflammation of the gut and affects millions of people worldwide [1–4]. Both CD and UC diseases are differentiated by their location and levels of inflammation in the gastrointestinal (GI) tract.
+
+© The Author(s) 2020. This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.

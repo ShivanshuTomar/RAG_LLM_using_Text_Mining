@@ -1,0 +1,25 @@
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+# SUMMARY OF FINDINGS
+
+# 1. Fecal microbiota transplantation compared to control for induction of remission in ulcerative colitis
+
+Patient or population: people with active UC
+
+Setting: inpatient or outpatient
+
+Intervention: FMT
+
+Comparison: control
+
+|Outcome|Anticipated absolute effects*|Relative effect|№ of participants (studies)|Certainty of the evidence|What happens|
+|---|---|---|---|---|---|
+|Induction of clinical remission in UC at longest follow-up (RR > 1 favors FMT)|Risk with control: 174 per 1000 Risk with FMT: 312 per 1000|RR 1.79 (95% CI: 1.13 to 2.84)|468 (10 RCTs)|⊕⊕⊖⊖ Lowa,b,c|FMT may increase induction of clinical remission in UC at longest follow-up.|
+|Serious adverse events with use of FMT for induction of remission in UC (RR > 1 favors control)|Risk with control: 54 per 1000 Risk with FMT: 95 per 1000|RR 1.77 (95% CI: 0.88 to 3.55)|468 (10 RCTs)|⊕⊝⊝⊝ Very lowa,d|The evidence is very uncertain about the effect of FMT on serious adverse events in people with UC.|
+|Any adverse events with use of FMT for induction of remission in UC (RR > 1 favors control)|Risk with control: 455 per 1000 Risk with FMT: 450 per 1000|RR 0.99 (95% CI: 0.85 to 1.16)|417 (9 RCTs)|⊕⊕⊖⊖ Lowa,e|FMT may result in little to no difference in any adverse events in people with UC.|
+|Induction of endoscopic remission in UC at longest follow-up (RR > 1 favors FMT)|Risk with control: 98 per 1000 Risk with FMT: 143 per 1000|RR 1.45 (95% CI: 0.64 to 3.29)|285 (5 RCTs)|⊕⊕⊖⊖ Lowf,g,h|FMT may result in an increase in induction of endoscopic remission in UC at longest follow-up; however, the CIs around the summary estimate were wide and included a possibility of no effect.|
+|Quality-of-life scores: IBDQ with use of FMT for induction of remission in UC (MD > 0 favors FMT)|The mean quality of life score: IBDQ was 150 higher|MD 15.34 QOL-IBDQ scores|131 (3 RCTs)|⊕⊝⊝⊝ Very lowi,j,k|The evidence is very uncertain about the effect of FMT on quality-of-life scores: IBDQ in UC.|
+
+Follow-up: range 6–12 weeks
+
+Follow-up: range 8–12 weeks

@@ -1,0 +1,25 @@
+# Cells 2019, 8, 659
+
+# References
+
+1. Rogler, G.; Vavricka, S. Anemia in inflammatory bowel disease: An under-estimated problem? Front. Med. (Lausanne) 2014, 1, 58. [CrossRef]
+2. Mahid, S.S.; Minor, K.S.; Soto, R.E.; Hornung, C.A.; Galandiuk, S. Smoking and inflammatory bowel disease: A meta-analysis. Mayo Clin. Proc. 2006, 81, 1462–1471. [CrossRef] [PubMed]
+3. Richardson, C.E.; Morgan, J.M.; Jasani, B.; Green, J.T.; Rhodes, J.; Williams, G.T.; Lindstrom, J.; Wonnacott, S.; Peel, S.; Thomas, G.A. Effect of smoking and transdermal nicotine on colonic nicotinic acetylcholine receptors in ulcerative colitis. QJM 2003, 96, 57–65. [CrossRef] [PubMed]
+4. Khor, B.; Gardet, A.; Xavier, R.J. Genetics and pathogenesis of inflammatory bowel disease. Nature 2011, 474, 307–317. [CrossRef] [PubMed]
+5. Pituch-Zdanowska, A.; Banaszkiewicz, A.; Albrecht, P. The role of dietary fibre in inflammatory bowel disease. Prz. Gastroenterol. 2015, 10, 135–141. [CrossRef] [PubMed]
+6. Hildebrandt, M.A.; Hoffmann, C.; Sherrill-Mix, S.A.; Keilbaugh, S.A.; Hamady, M.; Chen, Y.Y.; Knight, R.; Ahima, R.S.; Bushman, F.; Wu, G.D. High-fat diet determines the composition of the murine gut microbiome independently of obesity. Gastroenterology 2009, 137, 1716–1724. [CrossRef] [PubMed]
+7. Parks, B.W.; Nam, E.; Org, E.; Kostem, E.; Norheim, F.; Hui, S.T.; Pan, C.; Civelek, M.; Rau, C.D.; Bennett, B.J.; et al. Genetic control of obesity and gut microbiota composition in response to high-fat, high-sucrose diet in mice. Cell Metab. 2013, 17, 141–152. [CrossRef] [PubMed]
+8. Geerling, B.J.; Dagnelie, P.C.; Badart-Smook, A.; Russel, M.G.; Stockbrugger, R.W.; Brummer, R.J. Diet as a risk factor for the development of ulcerative colitis. Am. J. Gastroenterol. 2000, 95, 1008–1013. [CrossRef]
+9. Aldini, R.; Micucci, M.; Cevenini, M.; Fato, R.; Bergamini, C.; Nanni, C.; Cont, M.; Camborata, C.; Spinozzi, S.; Montagnani, M.; et al. Antiinflammatory effect of phytosterols in experimental murine colitis model: Prevention, induction, remission study. PLoS ONE 2014, 9, e108112. [CrossRef]
+10. Brolinson, P.G.; Elliott, D. Exercise and the immune system. Clin. Sports Med. 2007, 26, 311–319. [CrossRef]
+11. Saxena, A.; Fletcher, E.; Larsen, B.; Baliga, M.S.; Durstine, J.L.; Fayad, R. Effect of exercise on chemically-induced colitis in adiponectin deficient mice. J. Inflamm. 2012, 9, 30. [CrossRef]
+12. Khalili, H.; Ananthakrishnan, A.N.; Konijeti, G.G.; Liao, X.; Higuchi, L.M.; Fuchs, C.S.; Spiegelman, D.; Richter, J.M.; Korzenik, J.R.; Chan, A.T. Physical activity and risk of inflammatory bowel disease: Prospective study from the Nurses’ Health Study cohorts. BMJ 2013, 347, f6633. [CrossRef] [PubMed]
+13. Ng, S.C.; Tang, W.; Leong, R.W.; Chen, M.; Ko, Y.; Studd, C.; Niewiadomski, O.; Bell, S.; Kamm, M.A.; de Silva, H.J.; et al. Environmental risk factors in inflammatory bowel disease: A population-based case-control study in Asia-Pacific. Gut 2015, 64, 1063–1071. [CrossRef] [PubMed]
+14. Loudon, C.P.; Corroll, V.; Butcher, J.; Rawsthorne, P.; Bernstein, C.N. The effects of physical exercise on patients with Crohn’s disease. Am. J. Gastroenterol. 1999, 94, 697–703. [CrossRef] [PubMed]
+15. Engels, M.; Cross, R.K.; Long, M.D. Exercise in patients with inflammatory bowel diseases: Current perspectives. Clin. Exp. Gastroenterol. 2018, 11, 1–11. [CrossRef] [PubMed]
+16. Bloomfield, S.F.; Stanwell-Smith, R.; Crevel, R.W.; Pickup, J. Too clean, or not too clean: The hygiene hypothesis and home hygiene. Clin. Exp. Allergy 2006, 36, 402–425. [CrossRef]
+17. Ng, S.C.; Bernstein, C.N.; Vatn, M.H.; Lakatos, P.L.; Loftus, E.V., Jr.; Tysk, C.; O’Morain, C.; Moum, B.; Colombel, J.F.; Epidemiology; et al. Geographical variability and environmental risk factors in inflammatory bowel disease. Gut 2013, 62, 630–649. [CrossRef] [PubMed]
+18. Koloski, N.A.; Bret, L.; Radford-Smith, G. Hygiene hypothesis in inflammatory bowel disease: A critical review of the literature. World J. Gastroenterol. 2008, 14, 165–173. [CrossRef]
+19. Carpio, D.; Barreiro-de Acosta, M.; Echarri, A.; Pereira, S.; Castro, J.; Ferreiro, R.; Lorenzo, A.; Group, E. Influence of urban/rural and coastal/inland environment on the prevalence, phenotype, and clinical course of inflammatory bowel disease patients from northwest of Spain: A cross-sectional study. Eur J. Gastroenterol. Hepatol 2015, 27, 1030–1037. [CrossRef]
+20. Piovani, D.; Danese, S.; Peyrin-Biroulet, L.; Nikolopoulos, G.K.; Lytras, T.; Bonovas, S. Environmental Risk Factors for Inflammatory Bowel Diseases: An Umbrella Review of Meta-analyses. Gastroenterology 2019. [CrossRef]
+21. Ungaro, R.; Bernstein, C.N.; Gearry, R.; Hviid, A.; Kolho, K.L.; Kronman, M.P.; Shaw, S.; Van Kruiningen, H.; Colombel, J.F.; Atreja, A. Antibiotics associated with increased risk of new-onset Crohn’s disease but not ulcerative colitis: A meta-analysis. Am. J. Gastroenterol. 2014, 109, 1728–1738. [CrossRef]

@@ -1,0 +1,78 @@
+# Open access
+
+# Table 3 List of patient-answered questionnaires
+
+|Subgroup|Adults|
+|---|---|
+|IBS|- Demographic questionnaire
+- Disease specific
+- IBS Severity Score
+- GI symptoms
+- - PROMIS Scale 5a (GI Belly Pain)
+- PROMIS Scale 6a (GI Diarrhoea)
+- PROMIS Scale 9a (GI Constipation)
+- PROMIS Scale 13a (GI Gas and Bloating)
+- Leeds Dyspepsia Questionnaire
+General Quality of Life
+- - Euro Quality of Life
+Psychological
+- - Patient Health Questionnaire
+- PROMIS-29 (Physical Function, Anxiety, Depression, Fatigue, Sleep Disturbance, Pain Interference and Intensity)
+- Generalised Anxiety Disorder (GAD-7)
+- Perceived Stress Scale
+- Adverse Childhood Experiences
+- Brief Resiliency Survey
+- Pain Catastrophising Scale
+Productivity
+- - Work Productivity and Activity Index
+Diet
+|
+|IBD|- Demographic Questionnaire
+- Disease specific
+- Short IBD Symptom Inventory
+- GI symptoms
+- - PROMIS Scale 5a (GI Belly Pain)
+- PROMIS Scale 6a (GI Diarrhoea)
+- PROMIS Scale 9a (GI Constipation)
+- PROMIS Scale 13a (GI Gas and Bloating)
+- Leeds Dyspepsia Questionnaire
+General quality of life
+- - Euro Quality of Life
+Psychological
+- - Patient Health Questionnaire
+- PROMIS-29 (Physical Function, Anxiety, Depression, Fatigue, Sleep Disturbance, Pain Interference and Intensity)
+- GAD-7
+- Perceived Stress Scale
+- Adverse Childhood Experiences
+- Brief Resiliency Survey
+- Pain Catastrophising Scale
+Productivity
+- - Work Productivity and Activity Index
+Diet
+|
+|Paediatrics|- Demographics (exclusions apply)
+- IBS Severity Score
+- Rome IV Diagnostic Questionnaire
+- PedsQL GI Symptoms Scale (stomach pain and hurt; discomfort when eating; heartburn and reflux; nausea and vomiting; gas and bloating; constipation; blood in BM; diarrhoea; worry about stomachaches; worry about BM)—age 5–17
+- Euro Quality of Life Youth—age 8–15
+- Euro Quality of Life 5 Level—age 16+
+- PROMIS-25 (Physical Function Mobility; Anxiety; Depressive Symptoms; Fatigue; Peer Relations; Pain Interference)—age 5–17
+- Brief Resiliency Survey—age 12–17
+- Pain Catastrophising Scale—age 8–17
+- Revised Child Anxiety and Depression Scale—age 6–17
+- Food Frequency Questionnaire
+- FODMAP Questionnaire
+- Demographics (exclusions apply)
+- IMPACT- III—age 9–17
+- PUCAI (UC); PCDAI (CD)
+- PedsQL GI Symptoms Scale (stomach pain and hurt; discomfort when eating; heartburn and reflux; nausea and vomiting; gas and bloating; constipation; blood in BM; diarrhoea; worry about stomachaches; worry about BM)—age 4–17
+- Euro Quality of Life Youth—age 8–15
+- PROMIS-25 (Physical Function Mobility; Anxiety; Depressive Symptoms; Fatigue; Peer Relations; Pain Interference)—age 5–17
+- Brief Resiliency Survey—age 12–17
+- Pain Catastrophising Scale—age 8–17
+- Revised Child Anxiety and Depression Scale—age 6–17
+- Food Frequency Questionnaire
+- FODMAP Questionnaire
+|
+
+MoayyedifiP, et al. BMJ Open 2020;10:e041733. doi:10.1136/bmjopen-2020-041733

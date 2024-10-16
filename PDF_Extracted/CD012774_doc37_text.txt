@@ -1,0 +1,49 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Library
+
+# Better health.
+
+# Clinical Trials
+
+|Trial ID|Title|Link|First Received|
+|---|---|---|---|
+|NCT03998488|Ulcerative colitis (MINDFUL)|clinicaltrials.gov/ct2/show/NCT03998488|26 June 2019|
+|NCT04034758|Safety and efficacy of heterologous FMT by SQIMC-md capsule in mild-moderate ulcerative colitis patients (SQIMC-md)|clinicaltrials.gov/ct2/show/NCT04034758|26 July 2019|
+|NCT04202211|FMT for remission of active ulcerative colitis in adults|clinicaltrials.gov/ct2/show/NCT04202211|17 December 2019|
+|NCT04328922|Fecal microbial transplantation and vedolizumab treatment of Crohn's disease|clinicaltrials.gov/ct2/show/NCT04328922|1 April 2020|
+|NCT04373473|Evaluation of the safety and efficacy of lyophilized fecal microbiota transplantation administered orally for prevention of relapse or intestinal inflammation in adults with ulcerative colitis|clinicaltrials.gov/ct2/show/NCT04373473|4 May 2020|
+|NCT04434872|Fecal microbiota transplantation as a treatment for ulcerative colitis|clinicaltrials.gov/ct2/show/NCT04434872|17 June 2020|
+|NCT03426683|The effect of intestinal microbiota transplantation for inflammatory bowel diseases (IBD)|clinicaltrials.gov/ct2/show/NCT03426683|8 February 2018|
+|NCT04521205|A multicenter clinical trial: efficacy, safety of fecal microbiota transplantation for inflammatory bowel disease|clinicaltrials.gov/ct2/show/NCT04521205|20 August 2020|
+|NCT04637438|Fecal microbiota transplantation in postoperative Crohn's disease|clinicaltrials.gov/ct2/show/NCT04637438|19 November 2020|
+|NCT04924270|Safety and efficacy of faecal microbiota transplantation in treatment-naïve patients with newly diagnosed chronic inflammatory diseases (FRONT)|clinicaltrials.gov/ct2/show/NCT04924270|11 June 2021|
+|NCT04970446|The MIRO II study: microbial restoration in inflammatory bowel diseases (MIRO II)|clinicaltrials.gov/ct2/show/NCT04970446|21 July 2021|
+|NCT04997733|Fecal microbiota transplantation in Crohn's disease as relay after anti-TNF withdrawal (MIRACLE)|clinicaltrials.gov/ct2/show/NCT04997733|10 August 2021|
+|NCT05030064|Clinical study on the fecal microbiota transplantation in the treatment of ulcerative colitis with depression|clinicaltrials.gov/ct2/show/NCT05030064|1 September 2021|
+|NCT05538026|Effectiveness of fecal microbiota transplantation as add-on therapy in mild-to-moderate ulcerative colitis|clinicaltrials.gov/ct2/show/NCT05538026|13 September 2022|
+
+# Published Data
+
+|Reference|Details|
+|---|---|
+|Pai 2019|Protocol for a double-blind, randomised, placebo-controlled pilot study for assessing the feasibility and efficacy of faecal microbiota transplant in a paediatric Crohn's disease population: PediCRaFT Trial. BMJ Open 2019;9(11):e030120.|
+|Stallmach 2022|Transfer of FRozen Encapsulated multi-donor Stool filtrate for active ulcerative Colitis (FRESCO): study protocol for a prospective, multicenter, double-blind, randomized, controlled trial. Trials 2022;23(1):173.|
+|UMIN000033127|Multicenter randomized controlled trial to study the efficacy of multidonor fecal microbiota transplantation for Crohn's disease. center6.umin.ac.jp/cgi-open-bin/ctr_e/ctr_view.cgi?recptno=R000037777 (first received 24 June 2018).|
+
+# Additional References
+
+|Reference|Details|
+|---|---|
+|Abraham 2009|Abraham C, Cho JH. Inflammatory bowel disease. New England Journal of Medicine 2009;361(21):2066-78.|
+|Abraham 2012|Abraham BP, Mehta S, El-Serag HB. Natural history of pediatric-onset inflammatory bowel disease: a systematic review. Journal of Clinical Gastroenterology 2012;46(7):581-9.|
+|Ahuja 2010|Ahuja V, Tandon RK. Inflammatory bowel disease in the Asia-Pacific area: a comparison with developed countries and regional differences. Journal of Digestive Diseases 2010;11(3):134-47.|
+|Alang 2015|Alang N, Kelly CR. Weight gain after fecal microbiota transplantation. Open Forum Infectious Diseases 2015;2(1):ofv004.|
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

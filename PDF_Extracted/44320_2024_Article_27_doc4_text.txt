@@ -1,0 +1,46 @@
+# Molecular Systems Biology
+
+# Amrisha Bhosle et al
+
+# Figure 2.
+
+Covariation in abundances produces chemically consistent modules.
+
+|Module type|number of standards = 2|3|4|5|6|7|9|10|13|16|
+|---|---|---|---|---|---|---|---|---|---|---|
+|A|100|1.0|0.8|0.6|0.4|0.2|0|0|300|600|
+|B|50|1|2|3|4|5|6|7|8|9|
+
+# (A)
+
+37,201 prevalent metabolic features in HMP2 metabolomes were assigned to 355 modules based on covarying abundances. In total, 124 modules that contained at least one standard compound were labeled “annotated.” Both annotated and unannotated modules spanned biologically relevant sizes from 33 to 1116 features, with 67% of modules containing <100 members.
+
+# (B)
+
+Chemical homogeneity of 57 annotated-modules containing ≥2 standards was determined using the chemical taxonomy (class) information of the standards (see “Methods”). Of these, 48 (~84%) were ≥50% homogeneous and 31 (45%) were ≥75% homogeneous.
+
+# (C)
+
+MACARRoN covariation in abundance (using bicor (Langfelder and Horvath, 2008)) was compared with GNPS MS2 cosine similarity networks for 101 independent sputum metabolomes. Metabolites that were chemically similar (i.e., in the same GNPS molecular network) tended to have correlated abundances, whereas chemically different metabolites did not.
+
+# (D)
+
+The distribution of mass-differences (Δm/zs) between co-clustered unannotated and standard metabolites in the 124 annotated-modules was significantly different than random (Kolmogorov–Smirnov test P value < 0.01; as compared to 1000 shuffles of module labels). The real distribution also contained smaller Δm/zs, indicating chemically plausible side-chain modifications among co-clustered features.
+
+# (E)
+
+A permutation test revealed 24 positive and 7 negative Δm/zs significantly enriched (FDR corrected empirical P value < 0.05) in the annotated-modules. Enriched Δm/zs were non-uniformly distributed across modules, as expected if different modules capture distinct side-chain modifications characteristic of different chemical classes. However, Δm/zs associated with common biochemical transformations (indicated) were universally more prevalent.
+
+# (F)
+
+Wide ranges of module coverage (percentage of total modules in which a specific Δm/z is observed) and Δm/z coverage (percentage of total Δm/zs observed in a module) were observed. Although a few modules achieved 100% Δm/z coverage, no Δm/z was observed in all modules, again consistent with class-specific side-chain enrichments.
+
+# (G)
+
+Δm/z coverage appeared to be proportional to both the size of the module and the number of standards in it.
+
+Next, we assessed the accuracy with which covarying pairs had bicor ≥0.6 within at least one phenotype, thus also indicating strongly correlated abundances.
+
+We continued this analysis by applying the MACARRoN method, which uses the similarity between MS2 fragmentation data module identification process to the dataset, then directly comparing GNPS clusters to MACARRoN modules using the adjusted Rand Index (ARI) (see “Methods”). We found that although the overlap between the two was small (ARI: 0.014), it was significantly higher than those obtained from randomly generated pairs.
+
+© The Author(s) Molecular Systems Biology Volume 20 | Issue 4 | April 2024 | 338 – 361

@@ -1,0 +1,45 @@
+# Open access
+
+We will enhance this approach by convening citizen panels to capture the insights and values of a diverse group of citizens, with different types of lived experience with the issue at hand, in a panel summary, the key messages of which would be included in the evidence brief informing the stakeholder dialogue. We plan to address two topics using this approach, one focused on reducing emergency-department usage in people with IBD, and one focused on framing the work led by IMAGINE in the context of rapid learning health systems for specific conditions (including those addressed by the IMAGINE Network). For each topic we will conduct consultations with a steering committee and key informants to define the terms of reference for evidence briefs, identify stakeholders and potential dialogue invitees, and review the outputs (briefs, summaries and evaluation reports).
+
+# ARTICLE SUMMARY
+
+# Strengths
+
+Studies that have evaluated the microbiome in IBS18 and IBD19 have been small and underpowered. These studies usually did not evaluate disease phenotype in detail and have not assessed diet,18 19 which can be an important effect modifier.58 This will be the largest observational study published to date that is sufficiently powered to evaluate the microbiome in IBS and IBD. All relevant confounding factors and effect modifiers will be captured and followed over time and longitudinally, which will allow a better understanding of what drives exacerbations of both IBS and IBD given that these are chronic relapsing and remitting diseases. There is also the possibility of pooling data with similar cohorts to provide more robust data on microbiome changes over time in these diseases.59 The other strength of the study is the multidisciplinary team that makes up the IMAGINE Network. In particular, the collaboration between psychiatry and gastroenterology allows a careful evaluation of gut brain connections17 and in particular how the gut microbiome60 may impact on anxiety and depression in patients with IBD and IBS. Another key component of the multidisciplinary team is the level of patient engagement throughout the proposal. This is a Canadian Institute of Health Research funded grant through the SPOR initiative mandating that priorities are set by patients and they have input into study design. To date, we have 19 patient partners as part of the IMAGINE Network and many are involved in the MAGIC cohort study. This strengthens the research, making it more patient focused, and supports knowledge translation of the findings to patients.
+
+# Limitations
+
+This study is observational so any associations found may not relate to the causes of IBS and IBD. We will rigorously control for confounding factors and but cannot control for unknown confounders and so cannot draw causal inferences from the data. The MAGIC study will therefore be hypothesis generating and any data relating to the microbiome or diet are likely to need confirmation in RCTs. The IMAGINE Network is committed to develop RCTs to further investigate any promising findings from the MAGIC cohort study. This is the largest study evaluating IBS and IBD, but the data that will be collected are enormous and so any results related to the secondary outcomes of the study need to be interpreted with caution. The adjustment for multiple testing is for the primary outcomes only and given the number of other outcomes that can be evaluated with the data that are generated, it is important to realise that any positive results from the secondary outcomes could be a chance finding related to multiple testing. We will highlight this when reporting the data of more exploratory outcomes being studied. Despite these caveats, the MAGIC Study will provide valuable insight into the aetiology of IBS and IBD as well as associated psychiatric disorders. Data from this study will also provide strategies for personalised medicine approaches to manage these diseases more effectively.
+
+# Author affiliations
+
+1. Medicine, McMaster University Faculty of Health Sciences, Hamilton, Ontario, Canada
+2. Medicine, University of Calgary, Calgary, Alberta, Canada
+3. Gastroenterology, University of Manitoba, Winnipeg, Manitoba, Canada
+4. Medicine, Queen's University, Kingston, Ontario, Canada
+5. Medicine, University of Alberta, Edmonton, Ontario, Canada
+6. McMaster University Faculty of Health Sciences, Hamilton, Alberta, Canada
+7. Universite de Montreal, Montreal, Ontario, Canada
+8. Faculty of Medicine and Dentistry, University of Alberta, Edmonton, Alberta, Canada
+9. Division of Gastroenterology, McMaster University Faculty of Health Sciences, Hamilton, Ontario, Canada
+10. Department of Clinical Epidemiology and Biostatistics, McMaster University Faculty of Health Sciences, Hamilton, Ontario, Canada
+11. Dalhousie University, Halifax, Nova Scotia, Canada
+12. Mount Sinai Hospital, Toronto, Ontario, Canada
+13. Population Health Research Institute, McMaster University Faculty of Health Sciences, Hamilton, Ontario, Canada
+14. Department of Community Health Sciences, University of Calgary, Calgary, Alberta, Canada
+15. PaCER Innovates, University of Calgary, Calgary, Alberta, Canada
+
+# Acknowledgements
+
+We are grateful to Glenda MacQueen for all the support she gave to the IMAGINE Network and the MAGIC Study. Her advice was invaluable throughout this project and she will be missed by all of us. We are grateful to all our patient partners and everyone within the IMAGINE Network.
+
+# Contributors
+
+PM, GM, CNB, SV, PB, KLM, MS, JDR, LAD, EV, RJdS, AO, LT, JL, JC, DAM, SZ and AF have contributed to the conception and design of the protocol and obtained funding. PM, MS, JDR, KLM and RJdS provided statistical support. JDR led the genetic, MS the microbiome, KLM the metabolomic, GM the psychiatric, CNB the inflammatory bowel disease, PB and SV the irritable bowel syndrome, LAD, EV and RJdS the diet, AO the paediatric, JL the knowledge translation, DAM and SV the patient engagement and JC the data management portions of the protocol. PM and AF constructed the first draft of the article which was significantly revised by all other authors. CNB, SV, PB, KLM, MS, JDR, LAD, EV, RJdS, AO, LT, JL, JC, DAM and SZ have provided informatics support, given critical revisions to the manuscript and approved the final version of the manuscript submitted for publication. PM acts as the guarantor for the article.
+
+# Funding
+
+The IMAGINE Network is supported by a grant from the Canadian Institute of Health Research (Funding Reference Number: RN279389–35803) with funding from several partners. Funding was matched by McMaster University, University of Calgary, University of Alberta, Queen’s University, Dalhousie University, Montreal Heart Institute Research Centre, Takeda Pharmaceutical Company, Allergan Incorporated, Alberta Innovates, Research Manitoba, Crohn’s and Colitis Canada.
+
+MoayyedifiP, et al. BMJ Open 2020;10:e041733. doi:10.1136/bmjopen-2020-041733

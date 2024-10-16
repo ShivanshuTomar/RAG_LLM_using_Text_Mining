@@ -1,0 +1,81 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Library
+
+# Better health.
+
+# Analysis 2.5. Comparison 2: Fecal microbiota transplantation (FMT) versus control for maintenance of remission in ulcerative colitis (UC), Outcome 5: Any adverse events for maintenance of remission in UC
+
+|Study or Subgroup|FMT Events|FMT Total|Control Events|Control Total|Weight|M-H, Random, 95% CI|Risk of Bias|
+|---|---|---|---|---|---|---|---|
+|Haifer 2022|0|4|0|6|Not estimable| |+ + + + + +|
+|Sood 2019a|24|31|20|30|100.0%|1.16 [0.85 , 1.59]|+ ? + + + +|
+|Total (95% CI)|35|36| | |100.0%|1.16 [0.85 , 1.59]| |
+
+Total events: 24 (FMT) / 20 (Control)
+
+Heterogeneity: Not applicable
+
+Test for overall effect: Z = 0.93 (P = 0.35)
+
+Favors FMT Favors control
+
+Test for subgroup differences: Not applicable
+
+# Risk of bias legend
+
+(A) Random sequence generation (selection bias)
+
+(B) Allocation concealment (selection bias)
+
+(C) Blinding of participants and personnel (performance bias)
+
+(D) Blinding of outcome assessment (detection bias)
+
+(E) Incomplete outcome data (attrition bias)
+
+(F) Selective reporting (reporting bias)
+
+(G) Other bias
+
+# Analysis 2.6. Comparison 2: Fecal microbiota transplantation (FMT) versus control for maintenance of remission in ulcerative colitis (UC), Outcome 6: Maintenance of endoscopic remission in UC
+
+|Study or Subgroup|FMT Events|FMT Total|Control Events|Control Total|Weight|M-H, Random, 95% CI|Risk Ratio|Risk of Bias|
+|---|---|---|---|---|---|---|---|---|
+|Haifer 2022|4|4|0|6|23.3%|12.60 [0.86 , 185.05]| |+ + + + + +|
+|Sood 2019a|18|31|8|30|76.7%|2.18 [1.12 , 4.23]| |+ ? + + + +|
+|Total (95% CI)| |35| |36|100.0%|3.28 [0.73 , 14.74]| | |
+
+Total events: 22 (FMT) / 8 (Control)
+
+Heterogeneity: Tau² = 0.65; Chi² = 1.65, df = 1 (P = 0.20); I² = 40%
+
+Test for overall effect: Z = 1.55 (P = 0.12)
+
+Favors control Favors FMT
+
+Test for subgroup differences: Not applicable
+
+# Risk of bias legend
+
+(A) Random sequence generation (selection bias)
+
+(B) Allocation concealment (selection bias)
+
+(C) Blinding of participants and personnel (performance bias)
+
+(D) Blinding of outcome assessment (detection bias)
+
+(E) Incomplete outcome data (attrition bias)
+
+(F) Selective reporting (reporting bias)
+
+(G) Other bias
+
+Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

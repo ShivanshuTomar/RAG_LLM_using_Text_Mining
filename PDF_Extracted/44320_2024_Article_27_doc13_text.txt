@@ -1,0 +1,45 @@
+# Amrisha Bhosle et al
+
+# Molecular Systems Biology
+
+|Reagent/ resource|Reference or source|Identifier or catalog number|Reagent/ resource|Reference or source|Identifier or catalog number|
+|---|---|---|---|---|---|
+|Nicotinamide riboside (NR)|PCI Synthesis, Newburyport, MA|23111-00-4|PFA|Sigma-Aldrich|441244|
+
+# Databases, software, and libraries for bioinformatic and statistical analyses
+
+|GNPS|https://gnps.ucsd.edu/ (Wang et al, 2016)|
+|---|---|
+|MetaWIBELE v0.3.8|https://github.com/biobakery/metawibele (Zhang et al, 2022)|
+|WGCNA v1.72-1|https://cran.r-project.org/web/packages/WGCNA/index.html (Langfelder and Horvath, 2008)|
+|MaAsLin2 v1.12.0|https://www.bioconductor.org/packages/Maaslin2/ (Mallick et al, 2021)|
+|limma v3.54.2|https://www.bioconductor.org/packages/limma/ (Ritchie et al, 2015)|
+|tidyverse v2.0.0|https://cran.r-project.org/web/packages/tidyverse/index.html|
+|data.table v1.14.8|https://cran.r-project.org/web/packages/data.table/index.html|
+|mclust v6.0.0|https://cran.r-project.org/web/packages/mclust/index.html (Scrucca et al, 2016)|
+|HMDB v5.0|https://hmdb.ca/ (Wishart et al, 2022)|
+|IBDMDB|https://www.ibdmdb.org/ (Lloyd-Price et al, 2019)|
+|HMBR portal|https://portal.microbiome-bioactives.org/|
+
+# Libraries for visualizations
+
+|ggplot2 v3.4.1|https://cran.r-project.org/web/packages/ggplot2/index.html|
+|---|---|
+|ggrepel v0.9.3|https://cran.r-project.org/web/packages/ggrepel/index.html|
+|ggpubr v0.6.0|https://cran.r-project.org/web/packages/ggpubr/index.html|
+|cowplot v1.1.1|https://cran.r-project.org/web/packages/cowplot/index.html|
+|RcolorBrewer v1.1-3|https://cran.r-project.org/web/packages/RColorBrewer/index.html|
+
+# Methods and protocols
+
+# The MACARRoN algorithm for putative bioactive prioritization
+
+MACARRoN is a set of methodologies for prioritization and initial annotation of small molecules with potential bioactivity in phenotypes of interest from large-scale metabolomes. Untargeted metabolomics provide abundances for typically several thousand metabolic features per environment, only very few of which can be confidently identified (i.e., assigned annotations by chemical standards). To accommodate typical MS-based untargeted chemical profiles, MACARRoN requires as inputs; (1) MS1 abundances of metabolic features, (2) systematic identifiers (HMDB (Wishart et al, 2022) or PubChem (Kim et al, 2021)) for a priori identified metabolite standards, and (3) per-sample metadata including host or environment phenotypes of interest. The workflow employs a three-step strategy to associate, quantitatively annotate, and prioritize metabolic features. MACARRoN (https://huttenhower.sph.harvard.edu/macarron/) is available as an R package from Bioconductor (https://bioconductor.org/packages/Macarron) and can also be executed via the command line.
+
+# Guilt by association
+
+In its first step, MACARRoN clusters untargeted metabolic features into covarying modules based on similar abundance profiles. To do this, first, metabolic features that are prevalent i.e., observed in at least a user-defined fraction of samples of at least one phenotype are selected (default 70%). Next, for each pair of prevalent metabolic features, biweight midcorrelation (bicor) (Langfelder and Horvath, 2008) is calculated in a stratified manner considering samples from each phenotype at a time. This is done to avoid false positive correlations arising due to differences in abundances in two conditions. Correlations between metabolites are systemic properties. Noise in complex biological systems such as the gut makes interpretation of underlying biological phenomena from metabolite correlations challenging (Steuer, 2006). This is especially true for weak to moderate negative correlations, which may arise due to complex pathway structure, enzyme abundances, and pleiotropy as well as system-level perturbations such as diet and antibiotics. Therefore, MACARRoN considers only positive correlations and negative bicor values are replaced with 0.
+
+As recommended by previous studies for scale-free topology, the best-observed correlation is cubed and used for tree construction with average-linkage hierarchical clustering (Langfelder and Horvath, 2008; Mock et al, 2018). For the detection of modules (i.e., clusters of highly correlated metabolites), MACARRoN implements the dynamic-hybrid algorithm to build clusters in a “bottom-up” manner (Langfelder et al, 2008). Briefly, modules that contain a certain minimum number of metabolic features (“minClusterSize”) are detected and then smaller modules and unassigned metabolic features (singletons) are progressively merged into larger modules.
+
+© The Author(s) Molecular Systems Biology Volume 20 | Issue 4 | April 2024 | 338 – 361

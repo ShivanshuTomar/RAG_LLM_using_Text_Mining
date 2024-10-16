@@ -1,0 +1,29 @@
+# Distinctive gut microbiomes of ankylosing spondylitis and inflammatory bowel disease patients suggest differing roles in pathogenesis and correlate with disease activity
+
+# P. R. Sternes 1*, L. Brett2, J. Phipps3, F. Ciccia4, T. Kenna1,5, E. de Guzman8 and M. A. Brown9,10
+
+# G. Holtmann 7, E. Klingberg8, D. Mauro4, C. McIvor2, H. Forsblad‑d’Elia1,3, K. Zimmermann5, M. Morrison 6
+
+# Abstract
+
+Background: Multiple studies have confirmed dysbiosis in ankylosing spondylitis (AS) and inflammatory bowel disease (IBD); however, due to methodological differences across studies, it has not been possible to determine if these diseases have similar or different gut microbiomes.
+
+Results: In this study, faecal and intestinal biopsies were obtained from 33 Australian AS patients (including 5 with concomitant IBD, ‘AS‑IBD’), 59 IBD patients and 105 healthy controls. Stool samples were also obtained from 16 Italian AS patients and 136 Swedish AS patients. Focusing on the Australian cohort, AS, AS‑IBD and IBD patients differed from one another and from healthy controls in both alpha and beta diversity. AS patients with and without clinical IBD could be distinguished from one another with moderate accuracy using stool microbiome (AUC=0.754). Stool microbiome also accurately distinguished IBD patients from healthy controls (AUC=0.757). Microbiome composition was correlated with disease activity measured by BASDAI and faecal calprotectin (FCP) levels. Enrichment of potentially pathogenic Streptococcus was noted in AS, AS‑IBD and IBD patients. Furthermore, enrichment of another potentially pathogenic genus, Haemophilus, was observed in AS, AS‑IBD, IBD, AS patients with increased BASDAI, and IBD patients with faecal calprotectin >100 μg/mg. Apart from these genera, no other taxa were shared between AS and IBD patients.
+
+Conclusions: In conclusion, the distinct gut microbiome of AS and AS‑IBD patients compared to IBD patients and healthy controls is consistent with immunological and genetic evidence suggesting that the gut plays a different role in driving AS compared with IBD. However, enrichment of two potentially pathogenic genera in both diseases suggests that the presence of a shared/common microbial trigger of disease cannot be discounted.
+
+Keywords: Ankylosing spondylitis, Inflammatory Bowel disease, Dysbiosis, Gut
+
+# Correspondence
+
+peter.sternes@qut.edu.au
+
+1 Centre for Microbiome Research, Queensland University of Technology, Brisbane, Australia
+
+Full list of author information is available at the end of the article
+
+# Introduction
+
+Genetics research has provided important information as to the cause of the development of both ankylosing spondylitis (AS) and inflammatory bowel disease (IBD). There are strong genetic components in the risks of developing both conditions, with high heritability of AS [1, 2] and IBD [3] demonstrated in twin studies. The high
+
+© The Author(s) 2022. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.

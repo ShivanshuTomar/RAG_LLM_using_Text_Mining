@@ -1,0 +1,69 @@
+# Cochrane Library
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Pai 2019 (Continued)
+
+# Inclusion criteria
+
+- CD or IBD-Unclassified favoring CD (as deemed by the participant's primary pediatric gastroenterologist)
+- Active symptoms
+
+# Exclusion criteria
+
+- Severe comorbid medical illness (at discretion of participant's primary pediatric gastroenterologist)
+- Concomitant Clostridioides difficile infection
+- Severe CD flare requiring hospitalization
+- Commenced new or temporary medical therapies (i.e. corticosteroids, antibiotics, prebiotics) within 4 weeks prior to trial; note: weaning doses of corticosteroid will be permitted (≤ 0.25 mg/kg/day)
+- Current enrollment in another clinical trial
+- Inability to give informed consent or assent
+
+# Interventions
+
+# Experimental arm
+
+- Baseline FMT colonoscopic infusion at week 0, followed by twice-weekly oral microbiota capsule therapy for 6 weeks (including week 0)
+
+# Control arm
+
+- Baseline normal saline colonoscopic infusion at week 0, followed by twice-weekly dextrose-containing oral placebo capsule therapy for 6 weeks (including week 0)
+
+# Outcomes
+
+# Primary outcomes
+
+- Monthly recruitment rate at week 30: assessment of recruitment rate (based on participants meeting all eligibility criteria who were approached for trial entry)
+- Dropout rate after enrollment at week 30: rate of participants leaving the trial (participant- or protocol-directed exclusion) after enrollment
+- Rate of participant protocol adherence at week 30: rate of participants providing all required blood, stool, and urine samples per protocol
+- Rate of adverse events at week 30: rate of participants requiring hospitalization, or experiencing PCDAI increase ≥ 20 at 2 successive measures
+
+# Secondary outcomes
+
+- Clinical: improvement in disease symptoms at baseline, and weeks 6 and 30: PCDAI decrease ≥ 15 from baseline: weeks 6 and 30
+- Clinical: remission in disease symptoms at weeks 6 and 30: PCDAI ≤ 10: weeks 6 and 30
+- Clinical: improvement in serum inflammatory markers at baseline, and weeks 6 and 30: decrease CRP from baseline: weeks 6 and 30
+- Clinical: improvement in mucosal inflammatory markers at baseline, and weeks 6 and 30: decrease fecal calprotectin from baseline: weeks 6 and 30
+- Clinical: change in urine metabolomics at baseline, and weeks 6 and 30: change in urine metabolite profile from baseline: weeks 6 and 30
+- Clinical: change in fecal microbiome at baseline, and weeks 6 and 30: change in fecal 16s rRNA + metagenomics profile from baseline: weeks 6 and 30
+
+# Starting date
+
+1 December 2018
+
+# Contact information
+
+Nikhil Pai, BSc, MD
+
+Division of Pediatric Gastroenterology & Nutrition, McMaster Children's Hospital
+
+# Notes
+
+Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

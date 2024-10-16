@@ -1,0 +1,19 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Table 1. Microbiome outcomes (Continued)
+
+|Study|Condition|Method|Findings|
+|---|---|---|---|
+|Březina 2021|UC|Ion Torrent PGM platform with an Ion 316 Chip Kit v2|"The analysis of bacterial diversity was assessed through alpha diversity (Chao1, evenness, Faith's phylogenetic diversity, and Shannon index). Beta diversity, which evaluates the similarity of bacterial communities among samples, was assessed using the Qiime2 pipeline." "Beta-Diversity trended higher from baseline to week 6 in FMT vs placebo arms. Several bacterial taxa were associated with achieving the composite clinical outcome after multiple test correction, including Alistipes spp and Escherichia spp." "In total, 9 phyla, 142 genera, and 184 species were detected in the samples of UC patients. Firmicutes (41–94%) were detected as the dominant phylum in all samples, regardless of treatment, except for one sample (19%) from the FMT group at the baseline, in which Proteobacteria (52%) were flourishing." "The second most abundant were Actinobacteria (1–38%), and/or Bacteroidetes (1–37%). Firmicutes were mainly represented by the order Clostridiales; Bacteroidetes were mainly represented by the order Bacteroidales; and in Actinobacteria, the order Bifidobacteriales predominated." "A non-significant increase was detected in Shannon diversity index, for both responders and non-responders, 2 weeks after both therapy types compared to the baseline." "A higher Shannon index was still observed when more samples from different sampling points after therapy initiation were included in the calculation, indicating that FMT and 5-ASA can, to a certain extent, influence the microbial alpha diversity of UC patients."|
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

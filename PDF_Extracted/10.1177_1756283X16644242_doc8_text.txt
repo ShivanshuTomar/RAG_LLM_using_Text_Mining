@@ -1,0 +1,17 @@
+# Therapeutic Advances in Gastroenterology 9(4)
+
+VSL#3 when used in combination with adjunctive treatment with diet may also augment conventional therapy has also demonstrated some efficacy [Damman et al. 2015]. Several mechanisms of action have been proposed, including promoting the growth of anti-inflammatory bacteria and inhibiting the growth of pathogenic bacteria [Dalal and Chang, 2014]. Some strains of bacteria are also able to produce SCFAs that are the preferred energy source of colonocytes. Probiotics are often formulated with prebiotics, indigestible fibers that help promote their growth. Despite some beneficial results overall in IBD, there are no current guidelines recommending the routine use of probiotics in the induction or maintenance of IBD. Additionally, one must consider the potential risk of bacterial translocation of probiotics in patients who are critically ill or immunocompromised, which can very rarely lead to sepsis and multiorgan failure [Theodorakopoulou et al. 2013].
+
+To help mitigate this risk, several groups are evaluating the role of a rationally designed ‘artificial stool’ that contains a subset of clinically active microbes with more limited infectious risks [Petrof et al. 2013; Petrof and Khoruts, 2014].
+
+# Fecal microbiota transplantation
+
+FMT involves the infusion of donor stool into an individual with the aim of restoring a ‘healthy’ microbiota and treating disease. It has been used most extensively and effectively (>90% cure rate) as a treatment for recurrent C. difficile infection [Gough et al. 2011; Van Nood et al. 2013] and in the wake of this success has been evaluated for other diverse indications [Borody et al. 2013].
+
+# Diet
+
+Various diets have been proposed to prevent and treat IBD. Given the strong benefit of fiber intake, a well balanced, healthy diet with fruits and vegetables is recommended. Since a protein-rich diet with excess meat and alcohol has demonstrated increased relapse rates in UC, avoidance of these items may be beneficial [Tilg and Kaser, 2004].
+
+Several case series [Colman and Rubin, 2014] and placebo-controlled trials [Moayyedi et al. 2015; Rossen et al. 2015] have evaluated its efficacy in IBD with mixed results [Damman et al. 2012; Hansen and Sartor, 2015]. Many of these studies have evaluated its effect in UC [Angelberger et al. 2013; Kump et al. 2013; Kunde et al. 2013; Damman et al. 2015], although some studies have also investigated the treatment for CD [Zhang et al. 2013; Cui et al. 2015; Suskind et al. 2015].
+
+While induction of remission appears to be possible in a subset of patients with both UC and CD, this effect is neither universal, nor sustained. Several studies have measured whether engraftment of the donor stool correlates with efficacy with mixed results [Angelberger et al. 2013; Kump et al. 2013; Damman et al. 2015]. It is likely that repeated infusions are necessary for maximum efficacy and sustained effect [Damman et al. 2015]. It is possible that pretreatment with antibiotics and enhancing nutritional status, and altering the microbiome and immune response [Voitk et al. 1973; Rajendran and Kumar, 2010].

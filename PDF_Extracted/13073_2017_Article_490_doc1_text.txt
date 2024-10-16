@@ -1,0 +1,31 @@
+# Hall et al. Genome Medicine (2017) 9:103
+
+# Introduction
+
+allowing strain-level and functional profiling. In addition, several computational tools for metagenomic sequencing data have recently enabled high-resolution study of specific strain variants within abundant species [6, 7]. It is increasingly clear that strain variability can result in important physiological and functional differences in how microbes interact with the host [8]. For example, different strains of the same species can provoke different host immune responses [8], and in the context of IBD, analysis of Escherichia coli showed a specific enrichment of adherent invasive E. coli (AIEC) strains in IBD vs. healthy individuals [9].
+
+IBD is characterized by relapsing inflammation followed by periods of remission, highlighting the importance of tracking patients and their microbiome over time. Because the symptoms of IBD vary temporally, it is important to collect multiple samples from each patient to understand the changing landscape of the IBD gut microbiome. Furthermore, longitudinal studies of healthy individuals have revealed large inter-subject variations within the gut microbiome [10–12], suggesting the importance of understanding IBD disease-specific effects across multiple individuals. One notable study performed metagenomic sequencing on longitudinal IBD samples [13]. With recently developed tools, it is now possible to analyze large-scale, longitudinal, metagenomic cohorts to study the IBD gut microbiome at the strain level.
+
+In this study, we aim to address two outstanding questions in IBD: 1) How does oxidative stress in IBD shape the composition of the gut microbiome at the species and strain levels? 2) Do IBD-associated strains have specific genomic adaptations that increase their fitness in the IBD gut? We used metagenomic sequencing of a longitudinal cohort to analyze functionally binned microbial species by their ability to tolerate oxidative stress, and we found increased abundance of facultative anaerobe species in the IBD gut. We detected dramatic, transient blooms in the relative abundance of Ruminococcus gnavus in IBD, often corresponding with increased disease activity. We further experimentally characterized aerotolerance of R. gnavus and identified an R. gnavus clade that is enriched in IBD patients and has a distinct functional repertoire including genes exclusively present in this clade. These genes often involve functions that may improve colonization of the IBD gut, including oxidative stress responses, adhesion, iron acquisition, and mucus utilization. This study highlights the importance of strain-level analysis to reveal IBD-specific taxonomic features and their functionality.
+
+# Methods
+
+# Sample collection
+
+# Samples from the PRISM study, collected at Massachusetts General Hospital
+
+A subset of the PRISM cohort was selected for longitudinal analysis. A total of 15 IBD cases (nine CD, five UC, one indeterminate colitis) were enrolled in the longitudinal stool study (LSS). Three participants with gastrointestinal symptoms that tested negative for IBD were included as a control population. Enrollment in the study did not affect treatment. Stool samples were collected monthly, for up to 12 months. The first stool sample was taken after treatment had begun. Comprehensive clinical data for each of the participants was collected at each visit. At each collection, a subset of participants were interviewed to determine their disease activity index, the Harvey-Bradshaw index for CD participants and the simple clinical colitis activity index (SCCAI) for UC participants (Additional file 1: Table S1).
+
+# Samples collected at Emory University
+
+To increase the number of participants in our analysis, a subset of the pediatric cohort STiNKi was selected for whole metagenome sequencing including five individuals with UC and nine healthy controls. All selected UC cases were categorized as non-responders to treatment [14]. Stool samples were collected approximately monthly for up to 10 months. The first sample from participants in the STiNKi cohort is before treatment started, and subsequent samples are after treatment started. Stool collection and DNA extraction methods are detailed in Shaw et al. [14].
+
+# DNA and RNA isolation
+
+# Samples from the PRISM study, collected at Massachusetts General Hospital
+
+DNA was extracted from stool using the QIAGEN AllPrep RNA/DNA Mini kit with an enzymatic and mechanical lysis step. Lysozyme and proteinase K were added to frozen stool as described in the QIAGEN RNAprotect Bacteria Reagent handbook with a 10-min incubation at room temperature while vortexing every 2 min. Samples were resuspended in RLT buffer and 0.1 mm glass beads were added for mechanical lysis with bead beating on a Mini Bead beater-8 from BioSpec products on the homogenize setting for 3 min. Debris was removed by two sequential centrifugation steps at maximum speed for 5 min. Supernatant was transferred to a QIAshredder spin column and homogenized lysate was added to the AllPrep spin column for DNA and RNA extraction using the QIAGEN protocol.
+
+# Samples collected at Emory University
+
+Total nucleic acid was extracted via the Chemagic MSM I with the Chemagic DNA Blood Kit-96 from Perkin Elmer. This kit combines chemical and mechanical lysis with magnetic bead-based purification. Prior to extraction on the MSM-I, TE buffer, lysozyme, Proteinase K, and RLT buffer with beta-mercaptoethanol were added to each stool sample. The stool lysate solution was vortexed to mix. Samples were then placed on the MSM I unit.

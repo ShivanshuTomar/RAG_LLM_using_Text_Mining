@@ -1,0 +1,9 @@
+# Article
+
+https://doi.org/10.1038/s41467-023-42788-0
+
+# Fig. 6 | Multi-omics signatures integration for diagnosing IBD across different cohorts.
+
+We developed Random Forest (RF) classifiers to identify patients with IBD using multi-omics data. Specifically, we trained three different RF classifiers: one on species and KO genes (a, d), one on species and metabolites (b, e), and one on metabolite and KO genes (c, f). The training and testing of these classifiers were carried out using 10-fold cross-validation (red) and leave-one-out cross-validation (LOOCV) (blue) within the Puxi or FranzosaEA 2019A cohorts, respectively. The performance of these classifiers was then validated on independent validation sets (green) in the Pudong or FranzosaEA 2019B cohorts. In addition, we also trained RF classifiers using a combined panel of metabolites, species, and KO genes (g, h). Shaded areas represent the 95% confidence intervals of the corresponding ROC curves.
+
+Nature Communications | (2023)14:7135

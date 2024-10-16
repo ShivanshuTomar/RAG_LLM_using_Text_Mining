@@ -1,0 +1,34 @@
+# Molecular Systems Biology
+
+# Amrisha Bhosle et al
+
+# log q value Features 10 mean log 2 Abundance
+
+ulcerative colitis (UC) and 135 non-IBD stool samples from 106 participants, followed longitudinally for up to one year each (average of 5.2 (SD = 1.2) samples per participant). Participants with IBD (n = 80) contributed fewer features than non-IBD controls (n = 26) on average (CD (n = 50): 49957, UC (n = 30): 49511, and non-IBD: 50,910, Welch’s two-sample t test, CD vs. non-IBD P value = 0.037 and UC vs. non-IBD P value = 0.016), consistent with reduced metabolite (and microbiome) diversity in IBD (Franzosa et al, 2019; Ott et al, 2004). We classified features into three categories (Viant et al, 2017): standards, putative mass-matches, and unknowns, to profile possibly known and completely unknown features in the HMP2 stool metabolomes. Standards comprised 596 (~0.7%) features that were accurately identified using references from an internal library of 600.
+
+# A
+
+| |non−IBD (n = 135)|CD (n = 265)|UC (n = 146)|
+|---|---|---|---|
+|Abundances|50000|40000|30000|
+| |20000|10000|0|
+
+# B
+
+|Feature category|standard|putative mass−match|unknown|
+|---|---|---|---|
+|count|30|20|10|
+| |0.00|0.25|0.50|
+
+# C
+
+| |standard|putative mass−match|unknown|
+|---|---|---|---|
+|10.0|7.5|5.0|2.5|
+|0.0|−15|−10|−5|
+
+# Figure 1.
+
+Evidence of novel inflammation-linked bioactivity in the gut metabolome and methodology for prioritizing candidate compounds. (A) Overview of the annotation status of features from 546 stool metabolomes (CD: 265, UC: 146, non-IBD: 135) spanning 106 IBD patients and non-IBD controls from the Integrative Human Microbiome Project (HMP2). Each untargeted metabolome contained several thousand metabolic features which were assigned to three broad categories—standards, putative mass-match, and unknown—based on available annotations and similarity between observed m/z and molecular weights of metabolites in the HMDB. Of 596 total available standards, an average of 544.3 (SD 14.8) were detected per sample (i.e., assigned an HMDB ID). A majority of features were observed to have m/z similar to HMDB metabolites (putative mass-match), while many thousand could not even be assigned a sufficiently confident putative mass-match (unknowns). (B) Standards were enriched for high population prevalence and abundances. The abundance and prevalence of putative mass-match and unknown features were highly variable. However, several thousand were comparable to or more widespread than standards. (C) The effect size and q value of differential abundance of metabolic features in IBD was estimated from a mixed-effects linear model by considering both disease type (CD or UC) and activity (dysbiosis) (see “Methods”). The contrasts CD-dysbiosis vs CD-nondysbiosis and UC vs non-IBD showed the greatest number of significantly perturbed features. A greater fraction of putative mass-match and unknown features were significantly enriched or depleted as compared with standards, suggesting phenotypic relevance. (D) Since many thousand candidate bioactive compounds are difficult to screen directly, we developed a computational method for prioritizing promising bioactives based on chemical, ecological, and phenotypic properties from uncharacterized metabolomes (MACARRoN, Metabolome Analysis and Combined Annotation Ranks to pRioritize Novel bioactives). The method is based on the principle of “guilt-by-association,” where modules based on covarying abundances are used to transfer putative annotations from annotated metabolites to co-clustered unannotated features. The next two steps leverage the ecological and epidemiological properties of metabolic features to determine their likelihood of bioactivity. Briefly, for each feature, abundance in comparison to a co-clustered standard (abundance vs. anchor (AVA)), effect size, and q value of differential abundance in the phenotype of interest are determined. Next, ranks for each of these properties are integrated into a meta-rank that is ultimately used to prioritize features based on bioactivity (see “Methods”).
+
+340 Molecular Systems Biology Volume 20 | Issue 4 | April 2024 | 338 – 361 © The Author(s)

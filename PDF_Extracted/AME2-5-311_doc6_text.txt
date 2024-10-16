@@ -1,0 +1,33 @@
+# ZHANG et al.
+
+an increasing interest in SCFAs, main metabolites of gut microbiota, given its potentially important role in remission of chronic inflammation. SCFAs, including acetate, propionate, and butyrate, are produced by fermenting non-digestible and non-absorbable dietary fiber and resistant starches. SCFAs function as energy sources of colonic epithelial cells and exhibit anti-inflammatory effects by binding to G-protein-coupled receptors (GPRs). Butyrate is the most important anti-inflammatory SCFA by suppressing NF-κB and interferon-γ (IFN-γ) signaling, enhancing peroxisome proliferator-activated receptor-γ (PPARγ) activation, and regulating proliferation and differentiation of Tregs. Faecalibacterium prausnitzii (F. prausnitzii) is one of the most abundant butyrate-producing species, which is significantly decreased in ileal biopsies of CD patients and in the colon of UC patients. Furthermore, restoration of F. prausnitzii is associated with maintenance of clinical remission of UC, and a low proportion of F. prausnitzii has been associated with higher risk of IBD recurrence. The mucin-degrading bacteria muciniphila is able to produce acetate and propionate during this degradation process. Furthermore, the decreased population of A. muciniphila and concentrations of acetate, propionate, and butyrate have been observed in DSS-treated mice, whereas FMT enriched with A. muciniphila and SCFAs improved DSS-induced colitis in mice. Correspondingly, the administration of A. muciniphila could ameliorate DSS-induced UC-type colitis in mice. Accordingly, decreased populations of SCFA-producing bacteria and SCFA production have been reported in IBD patients and colitis mice, while supplementation of SCFA-producing bacteria or SCFAs showed a positive improvement in colitis, which indicated the high relations of gut microbiota metabolites with IBD development. In contrast, some metabolites, such as hydrogen sulfide, may have opposite effects against SCFAs in IBD development, which can disrupt the use of butyrate in colonocytes. In addition, literature reported that proinflammatory sulfur-reducing bacteria were more abundant in IBD patients compared to healthy individuals, which reduce sulfur and sulfur-containing compounds to hydrogen sulfide. Otherwise, cultured supernatant of F. varium isolated from UC patients containing high concentrations of n-butyric acid is toxic to Vero cells, and rectal administration of enema containing the cultured supernatants caused UC-like colonic mucosal inflammation in mice, which indicates that some metabolites in dysbiosis can promote onset or progression of IBD.
+
+# AUTHOR CONTRIBUTIONS
+
+Yunchang Zhang, Ye Sun, and Ning Liu wrote the main manuscript text. Xuemeng Si designed and produced figures of manuscripts. Ling Yang and Hui Wang were involved in writing, review, and editing. All the authors have read and approved the final version of the manuscript.
+
+# ACKNOWLEDGEMENTS
+
+This work was supported by the National Natural Science Foundation of China (nos. 32000082 and 31625025), Project funded by China Postdoctoral Science Foundation (2022M713405), R&D Program of Beijing Municipal Education Commission (KM202212448002), and the 111 Project (B16044).
+
+# FUNDING INFORMATION
+
+National Natural Science Foundation of China, Grant/Award Number: nos. 32000082 and 31625025; Project funded by China Postdoctoral Science Foundation, Grant/Award Number: 2022M713405; R&D Program of Beijing Municipal Education Commission, Grant/Award Number: KM202212448002; and the 111 Project, Grant/Award Number: B16044.
+
+# CONFLICT OF INTEREST
+
+The authors declare no competing financial interests.
+
+# CONCLUSIONS
+
+The well-characterized and commonly accepted pathogenesis of IBD includes genetic susceptibility, intestinal microbiota, environmental factors, and immune responses, among which the intestinal microbiota attracts more spotlights as it can be easily modified by genetic and environmental elements and activate host immune responses. Much of the current knowledge to date has identified the indispensable roles of the microbial community within the host, including, but not limited to, nutrient metabolism, intestinal immune system development, and host defense. Nevertheless, the homeostasis regarding the commensal.
+
+# ORCID
+
+Ning Liu https://orcid.org/0000-0002-7484-0534
+
+# REFERENCES
+
+1. Lee SH, Kwon JE, Cho ML. Immunological pathogenesis of inflammatory bowel disease. Intest Res. 2018;16:26-42.
+2. Park JH, Peyrin-Biroulet L, Eisenhut M, et al. IBD immunopathogenesis: A comprehensive review of inflammatory molecules. Autoimmun Rev. 2017;16:416-426.
+3. Ng SC, Shi HY, Hamidi N, et al. Worldwide incidence and prevalence of inflammatory bowel disease in the 21st century: a systematic review of population-based studies. Lancet. 2017;390:2769-2778.

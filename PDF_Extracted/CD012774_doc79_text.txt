@@ -1,0 +1,74 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# NCT03483246 (Continued)
+
+• Endoscopic lesions at colonoscopy (baseline) and sigmoidoscopy by UCEIS score at week 12 after FMT or sham
+
+Starting date: 17 September 2018
+
+Contact information: Service de Gastroentérologie et Nutrition Hôpital Saint Antoine, Paris, 75012, France
+
+# Notes
+
+# NCT03561532
+
+Study name: Fecal transplantation in ulcerative colitis (FMT-CU)
+
+Methods: RCT conducted in Finland
+
+# Participants
+
+# Inclusion criteria
+
+- Ages 18–75 years with diagnosis of UC based on clinical, endoscopic, and histologic findings
+- Remission based on Mayo score 0–1 and fecal calprotectin < 100 μg/g
+- Availability of consecutive fecal samples for 1 year after UC diagnosis
+- Availability of blood samples to study IBD-associated genetic background
+- Compliance to attend ileocolonoscopy and FMT within 3–6 months after UC diagnosis and at week 52
+
+# Exclusion criteria
+
+- Need for antibiotic therapy within 3 months
+- Use of corticosteroids, immunosuppressives, or biologics at baseline
+- Use of probiotics
+- Pregnancy
+
+# Interventions
+
+# Experimental arm
+
+• Fecal suspension of healthy donor feces; administered into cecum via colonoscopy
+
+# Control arm
+
+• Fecal suspension of autologous feces; administered into cecum via colonoscopy
+
+# Outcomes
+
+# Primary outcome
+
+• Maintenance of remission of UC at 52 weeks (endoscopic remission and Mayo score < 2)
+
+Starting date:
+
+Contact information:
+
+Notes:
+
+# NCT03582969
+
+Study name: Capsulized fecal microbiota transplantation in pediatric ulcerative colitis patients (FMT UC)
+
+Methods: RCT conducted in Israel
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

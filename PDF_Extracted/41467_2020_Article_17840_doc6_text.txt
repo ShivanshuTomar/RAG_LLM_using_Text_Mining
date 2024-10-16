@@ -1,0 +1,28 @@
+# NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467-020-17840-y
+
+# ARTICLE
+
+|a|Isoleucine|b|Methionine|
+|---|---|---|---|
+|BRANCHED−CHAIN−AA−SYN−PWY|ILEUSYN−PWY|Oxaloacetate/aspartate AAs| |
+|Isoleucine|Allantoin|Methionine| |
+|PWY−3001|PWY−5103|PWY−724|Threonine|
+|Oxamate|Homoserine| | |
+
+−0.6 −0.4 −0.2 0.0 −0.6 −0.4 −0.2 0.0 −0.6 −0.4 −0.2 0.0 −0.6 −0.4 −0.2 0.0
+
+|c|Threonine|d|Lysine|e|Aspartate|f|Homoserine|
+|---|---|---|---|---|---|---|---|
+|LLD|PWY−2942|500|FG|300|OB|IBD| |
+
+−0.6 −0.4 −0.2 0.0 −0.6 −0.4 −0.2 0.0 −0.6 −0.4 −0.2 0.0 −0.6 −0.4 −0.2 0.0 −0.4 −0.3 −0.2 −0.1 0.0 −0.6 −0.4 −0.2 0.0
+
+# Fig. 6 Allantoin degradation pathway links to glycaemia in obesity.
+
+The allantoin degradation pathway shows stronger negative correlation with 14 amino acid biosynthesis pathways in the obesity cohort compared to the other cohorts. These pathways represent the biosynthesis of six amino acids: a PWY0−781 isoleucine (PWY-5103, PWY-3001, BRANCHED-CHAIN-AA-SYN-PWY and ILEUSYN-PWY), b methionine (PWY-6151, PWY-5347, MET-SAM-PWY and HOMOSER-METSYN-PWY), c threonine (THRESYN-PWY and PWY-724), d lysine (PWY-5097 and PWY-2942), e aspartate (PWY0-781) and f homoserine (METSYN-PWY). All six amino acids are involved in the oxaloacetate/aspartate amino acids biosynthesis pathway. Lines with arrows represent metabolic relationships. Lines with a circle represent an inhibitory role in a metabolic pathway. N = 2379 independent samples are involved (NLLD = 1135, N500FG = 450, N300OB = 298, NIBD = 496). The forest plots show co-abundance strength and direction in each cohort, with square dot for the PWY−6151 HOMOSER−METSYN−PWY correlation coefficient and bar for the 95% confidence interval.
+
+# Discussion
+
+This study is a microbial co-abundance network analysis based on metagenomics data, involving 2379 participants from two population-based cohorts (LLD and 500FG) and two disease cohorts (IBD and 300OB). We report 3454 species and 43,355 pathway co-abundance relationships that were significant in at least one cohort. Among them, the effect sizes of 38.6% of species co-abundances and 64.3% of pathway co-abundances were significantly different between cohorts. In particular, 113 species co-abundances and 1050 pathway co-abundances showed IBD-specific co-abundance relationships with 85 pathways. Allantoin is one of the active principles in various plants, e.g. yams, and is found to enhance insulin secretion and lower plasma glucose. Its degradation product, oxamate, plays an inhibitory role in oxaloacetate/aspartate amino acids. In line with this, we found that the allantoin degradation pathway showed stronger negative correlations with the biosynthesis pathways of oxaloacetate/aspartate amino acids (including lysine, homoserine, methionine, threonine and isoleucine) and the biosynthesis pathway of aspartate, which were both positively associated with fasting glucose level and negatively associated with fasting insulin level (P < 0.05, Supplementary Table 2).
+
+Our study yielded several findings. We identified three species and four pathways in IBD and one pathway in 300OB that served as key players in disease-specific co-abundance networks. IBD-associated species included E. coli and O. formigenes. A higher abundance of the pathogenic species E. coli has previously been associated with IBD, likely due to an increased release of oxidized haemoglobin into the intestinal lumen as a result of chronic inflammation of the gastrointestinal walls. Consistent with this, we replicated high abundances of E. coli and low abundances of anaerobic metabolism pathways in IBD. E. coli also showed strong positive co-abundance with other inflammation-inducing species in IBD, including streptococcus species such as S. mutans, S. vestibularis and S. infantis. In contrast, these co-abundances were either weak or negative in our population-based and obesity cohorts. We further identified A. graevenitzii as a key species in IBD. Although no evidence supports a direct role for Actinomyces in the pathogenesis of IBD, A. graevenitzii has been associated with coeliac disease in children and can induce actinomycosis, with both conditions sharing similar abdominal pathologies with IBD. Two case reports have also suggested that Actinomyces may aggravate the intestinal injuries caused by inflammation.

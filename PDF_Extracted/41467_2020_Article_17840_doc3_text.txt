@@ -1,0 +1,221 @@
+# ARTICLE
+
+# NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467-020-17840-y
+
+# a
+
+# b
+
+# Sugar derivatives degradation
+
+# Aminoacyl tRNAs charging
+
+# Clostridiales_noname
+
+# Aromatic compounds biosynthesis
+
+# NAD metabolism
+
+# Haemophilus
+
+# Desulfovibrio
+
+# Coprococcus
+
+# Roseburia
+
+# Unmapped
+
+# Paraprevotella
+
+# Cell structures biosynthesis
+
+# Ruminococcus
+
+# Eubacterium
+
+# Dorea
+
+# Fermentation
+
+# Glycolysis
+
+# Lachnospiraceae_noname
+
+# Clostridium
+
+# Polysaccharides degradation
+
+# Carbohydrates biosynthesis
+
+# Carbohydrates degradation
+
+# Escherichia
+
+# Faecalibacterium
+
+# Nucleosides and nucleotides degradation
+
+# Alistipes
+
+# Erysipelotrichaceae_noname
+
+# Secondary metabolites biosynthesis
+
+# Oxalobacter
+
+# Rothia
+
+# Amino acids biosynthesis
+
+# Bifidobacterium
+
+# Actinomyces
+
+# Unintegrated
+
+# Veillonella
+
+# Other
+
+# Nucleosides and nucleotides biosynthesis
+
+# Anaerostipes
+
+# Blautia
+
+# Alcohol degradation
+
+# Fatty acid and lipid biosynthesis
+
+# Streptococcus
+
+# Vitamin biosynthesis
+
+# Bacteroides
+
+# Phascolarctobacterium
+
+# Pentose phosphate cycle
+
+# Metabolic regulators
+
+# Prevotella
+
+# Fatty acid and lipid degradation
+
+# Pseudoflavonifractor
+
+# Methanobrevibacter
+
+# Other degradation
+
+# Catenibacterium
+
+# Burkholderiales_noname
+
+# Aromatic compounds degradation
+
+# Acetyl-CoA biosynthesis
+
+# Bacteroidales_noname
+
+# Adlercreutzia
+
+# Lactobacillus
+
+# Flavonifractor
+
+# Amine degradation
+
+# Siderophore biosynthesis
+
+# Collinsella
+
+# Gordonibacter
+
+# Turicibacter
+
+# Holdemania
+
+# Dialister
+
+# Quinone biosynthesis
+
+# Polyprenyl biosynthesis
+
+# Carboxylates degradation
+
+# Porphyrin compounds biosynthesis
+
+# Polyamine biosynthesis
+
+# Barnesiella
+
+# Respiration
+
+# TCA cycle
+
+# Parasutterella
+
+# Eggerthella
+
+# Amino acids degradation
+
+# Photosynthesis
+
+# Peptostreptococcaceae_noname
+
+# Parabacteroides
+
+# Ruminococcaceae_noname
+
+# c
+
+# 300OB: n = 4 (3%)
+
+# d
+
+# 300OB: n = 281 (19%)
+
+# LLD
+
+# IBD: n = 113 (94%)
+
+# 500FG
+
+# 300OB
+
+# IBD: n = 1,050 (73%)
+
+# IBD
+
+# Cohort-specific species co-abundances
+
+# (n = 120)
+
+# Cohort-specific pathway co-abundances
+
+# (n = 1448)
+
+# Fig. 3 Differential and cohort-specific microbial co-abundances.
+
+a Differential species co-abundances involved in 45 microbial genera.
+
+b Differential pathway co-abundances involved in 41 microbial metabolic categories. Each dot indicates one microbial genus or metabolic category. Each line represents differential species or pathway co-abundances between species or pathways from either the same or different genera or metabolic categories. The width and darkness of the lines represent the relative number of differential co-abundances.
+
+c Pie chart of 120 cohort-specific species co-abundances showing the proportion of specific co-abundances detected in each cohort.
+
+d Pie chart of 1448 cohort-specific pathway co-abundances showing the proportion of specific co-abundances detected in each cohort.
+
+[inflammation (n = 121) vs. no inflammation (n = 377)] (Supplementary Table 1). Most of the co-abundance relationships were comparable between disease characteristics, and only a few showed significant differences at FDR < 0.05 (Supplementary Fig. 7, Supplementary Data 9 and 10), namely 16 species co-abundances related to disease subtypes and 8 species co-abundances related to location. For the pathway co-abundances, 91 were related to disease subtypes, 24 to location and 3 to activity (Cochran-Q test FDR < 0.05, Supplementary Fig. 7). Out of these, five co-abundance relationships were related to an important butyrate producer, Faecalibacterium prausnitzii, which showed stronger co-abundance relationships in UC compared to CD. One example here was the negative co-abundance relationship of prausnitzii with Haemophilus parainfluenzae, a species known to have pathogenic properties.
+
+Microbial networks of IBD in relation to medication: We further tested whether drug usage can affect microbial co-abundance, as usage of antibiotics (20.0%) and proton pump inhibitors (PPIs; 26.5%) was higher in patients with IBD than in the general population cohorts (1.1% and 8.4%) (Supplementary Table 1). Here we detected no significant difference in species co-abundances between antibiotic users and non-users (Cochran-Q test FDR > 0.05, Supplementary Fig. 7), while 1049 out of 37,959 (3.7%) pathway co-abundance relationships showed statistically significant differences between PPI users and non-users, in particular related to the isoprene biosynthesis and methylerythritol phosphate pathways (Cochran-Q test FDR < 0.05, Supplementary Fig. 7, Supplementary Data 10).
+
+Key species and pathways in IBD: When comparing microbial co-abundance in IBD to the other 3 cohorts, we identified 113 species co-abundances and 1050 pathway co-abundances that showed significantly different effects compared to the other 3 cohorts. We then assessed whether these IBD-specific co-abundances were highly connected to a specific pathway or species that may be disease relevant, and our analysis identified three key species and four key pathways for IBD.
+
+Key species included Escherichia coli, Oxalobacter formigenes and Actinomyces graevenitzii. E. coli has been associated with IBD, O. formigenes have previously been identified.
+
+# 4
+
+# NATURE COMMUNICATIONS | (2020) 11:4018 | https://doi.org/10.1038/s41467-020-17840-y | www.nature.com/naturecommunications

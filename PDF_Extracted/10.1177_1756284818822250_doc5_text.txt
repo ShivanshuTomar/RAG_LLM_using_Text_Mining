@@ -1,0 +1,19 @@
+# Therapeutic Advances in Gastroenterology
+
+# Metabonomics in IBD
+
+The unique advantage of metabonomics is that it can link metabolites found to specific metabolic pathways which can directly link in with the bacterial metabolic pathways, therefore advancing the interplay of the microbiota and metabolic pathways on disease aetiology. For instance, it has been shown that there are low levels of hippurate (a metabolite that is derived from the gut microbiota) in the urine of patients with IBD. This finding is of interest as hippurate levels have been shown to correlate with the presence of Clostridia in the gut.
+
+Furthermore, Williams and colleagues, using NMR profiling, found that significant decreases in urinary hippurate were found in patients with IBD.
+
+Serum has been another biofluid that has been analyzed in IBD. Despite differences being shown between amino acids and molecules of the tricarboxylic acid (TCA) cycle between UC and CD, the ability to discriminate between UC and CD is reduced. It is also likely that due to homeostatic regulation and the fact that serum is not directly in contact with the gut microbiota, this biofluid is less likely to be able to provide information on important changes in the gut microbiota through metabonomic processing.
+
+# Metabonomics and Pharmacometabonomics
+
+Metabonomics can be used to predict responses to medical treatment (termed pharmacometabonomics), as well in the prediction of diseased states, raising the potential for personalized medicine. This integrated technology utilizes 1H-nuclear magnetic resonance (NMR) and mass spectrometry (MS), which is split into liquid chromatography-MS (LC-MS) and gas chromatography-MS (GC-MS). There is also a growing interest in ambulatory MS techniques, such as rapid evaporative ionization MS (REIMS) and desorption MS imaging (DESI). Complex multivariate statistical models and bioinformatics are used to enable interpretation of metabolic profiling data.
+
+# Metabolic Profiling of Faeces
+
+The dysbiosis found in IBD has created a lot of interest in the metabolic profiling of faeces. Marchesi and colleagues highlighted that patients with IBD showed a lower level of faecal SCFAs when compared with healthy people through NMR profiling. Specifically, they found that a depletion in SCFAs including acetate and butyrate in patients with CD when compared with healthy people. The SCFAs are mainly produced by the fermentation of complex carbohydrates via the gut bacteria. Furthermore, they found that methylamine and trimethylamine were decreased in patients with CD. In trying to link to the gut microbiota, it has been shown that these two compounds are derived from intestinal degradation of food components such as choline and carnitine by the microbiota.
+
+The role of SCFAs was supported by Le Gall and colleagues, who reported that butyrate and acetate were reduced in CD when compared with healthy people; they also found elevated levels of taurine in active UC when compared with healthy people and suggested that this could be.

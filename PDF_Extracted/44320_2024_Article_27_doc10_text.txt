@@ -1,0 +1,30 @@
+# Molecular Systems Biology
+
+# Metabolite Pathways
+
+| |quinolinate| |NAD+|
+|---|---|---|---|
+|Aspartate| |OH| |
+|Tryptophan| |OH|NAMN|
+|Nicotinamide| |nicotinate| |
+|riboside| | |OH|
+|NAM|HO|NMN|NAD+|
+|HO|OH| | |
+
+PBS or NR (1000 mg/kg)
+
+CS7BL/6J
+
+6-8 weeks
+
+-2 -1 0 1 2 3 4 5 6 7 days
+
+88
+
+PBS
+NR
+such as inflammation, as well as a foundation for more basic characterization of the gut (and other environments’) metabolome. In this study’s data, prioritized (priority score ≥0.6) metabolites covaried with standards belonging to 43 chemical subclasses (structure-based chemical taxonomy defined by ChemOnt (Djoumbou-Feunang et al, 2016)). This shows, first, the unappreciated diversity of IBD-linked metabolic pathways, since previous studies have focused on small subsets of validated standards such as bile acids (Chen et al, 2019), butyrate (Chen et al, 2018), bilirubin (Li et al, 2021), and tryptophan derivatives (Scott et al, 2020). Second, relatedly, the combination of disease (or other phenotype) epidemiology with co-clustered standards and chemical properties allows us to locate potentially bioactive unannotated metabolic features even in the absence of MS-MS or other additional experimental profiles. This is demonstrated by the prioritization of the recently identified lithocholate and cholate derivatives, microbially associated metabolites that covary with stercobilin, and by the experimentally validated bioactivity of nicotinamide riboside in IBD (Figs. 4A,F and 5A,F,H).
+
+# Volume 20 | Issue 4 | April 2024 | 338 – 361
+
+© The Author(s)

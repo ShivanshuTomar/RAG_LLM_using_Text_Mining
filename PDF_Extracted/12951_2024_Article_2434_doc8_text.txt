@@ -1,0 +1,22 @@
+# Yang et al. Journal of Nanobiotechnology (2024) 22:166
+
+# Page 9 of 16
+
+|Water|2.5% DSS|PBS|PBS| |YBNs@PDA-L| |YBNs@PDA-H|YBNs| | |
+|---|---|---|---|---|---|---|---|---|---|---|
+|ccludin| | | |10Qum| |OOpm| | | | |
+|10Opm| | | |16S rRNA|Muc2|Nucleus| | | | |
+| |TNF-&| | |IL-18| |IL-6| | |MCP-1| |
+| | | |400| |150| | |[ 250|[ 300| |
+| | | | | |[ 100| | |! 150 -200|2|2 200|
+| | | | | |2|100|2|9| | |
+| |PBS|PBS|YBNs1|88| | | | | | |
+|YBNS@PDA-LPBS| | | |YBNS@PDA-H|`YBNs|PBSYBNS@PDA-L87| | | | |
+| | | | |YBNs| | | |28~PBS|11019| |
+| |YBNs @PDAWalel2.5% DSS| | |Water 2.59 DSS| |Water 2,5% DSSYBNs@PDA-H|Water 2.59 DSS| | | |
+
+# Fig. 5
+
+In vivo therapeutic evaluations of YBNs@PDA. (A) Immunofluorescence images of occludin and claudin-1 proteins in mice colon tissues. (B) Mucus layer and gut bacteria were stained using anti-Muc2 antibody and fluorescent in situ hybridization probe for universal bacterial 16 S rRNA. (C) The levels of TNF-α, IL-1β, IL-6 and MCP-1 cytokines in colon tissues from mice treated with different drug formulations were analyzed by ELISA. Data are presented as mean ± standard deviation from a representative experiment (n = 6). *P < 0.05, **P < 0.01, ***P < 0.001, analysed by two-tailed unpaired Student’s t-test.
+
+gene, we may learn about the diversity of bacteria that cause colitis in mice. Significantly, YBNs@PDA enhanced the abundance of butyrate producing bacteria Lachnospira-ceae NK4A136 [41] and probiotics Bifidobacterium [42] group, as indicated by Venn diagram analysis and the high values of the Chao index (Fig. 6A and B). Notably, PCoA suggested that YBNs and YBNs@PDA-treated [43, 44]. Both phenomena are symptomatic of a dysbiotic microbiota that has been indicated in IBD. To further identify the biologically informative features that help in differentiating microbiome composition from different groups, linear discriminant analysis (LDA) effect size exhibited similarities to the faecal communities of healthy mice, in comparison to the other treatment groups. This finding is consistent with the prophylactic efficacy of YBNs@PDA against IBD. When focusing on the genus YBNs@PDA treated group, whereas PBS treated group.

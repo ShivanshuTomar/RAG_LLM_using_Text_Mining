@@ -1,0 +1,66 @@
+# NATURE COMMUNICATIONS | DOI: 10.1038/s41467-018-05357-4
+
+# ARTICLE
+
+# References
+
+1. Vernier-Massouille, G. et al. Natural history of pediatric Crohn’s disease: a population-based cohort study. Gastroenterology 135, 1106–1113 (2008).
+2. Szatanek, R., Baran, J., Siedlar, M. & Baj-Krzyworzeka, M. Isolation of extracellular vesicles: determining the correct approach (Review). Int. J. Mol. Med. 36, 11–17 (2015).
+3. Kelly, B. J. et al. Power and sample-size estimation for microbiome studies using pairwise distances and PERMANOVA. Bioinformatics 31, 2461–2468 (2015).
+4. Arenas, F. A. et al. The Escherichia coli btuE gene, encodes a glutathione peroxidase that is induced under oxidative stress conditions. Biochem. Biophys. Res. Commun. 398, 690–694 (2010).
+5. Barrangou, R. et al. CRISPR provides acquired resistance against viruses in prokaryotes. Science 315, 1709–1712 (2007).
+6. Garneau, J. E. et al. The CRISPR/Cas bacterial immune system cleaves bacteriophage and plasmid DNA. Nature 468, 67–71 (2010).
+7. Loubinoux, J., Bronowicki, J. P., Pereira, I. A., Mougenel, J. L. & Faou, A. E. Sulfate-reducing bacteria in human feces and their association with inflammatory bowel diseases. FEMS Microbiol. Ecol. 40, 107–112 (2002).
+8. Yoshida, Y. et al. Production of hydrogen sulfide by two enzymes associated with biosynthesis of homocysteine and lanthionine in Fusobacterium nucleatum subsp. nucleatum ATCC 25586. Microbiology 156, 2260–2269 (2010).
+9. Song, Z. et al. L-cysteine protects intestinal integrity, attenuates intestinal inflammation and oxidant stress, and modulates NF-kappaB and Nrf2 pathways in weaned piglets after LPS challenge. Innate Immun. 22, 152–161 (2016).
+10. Lewis, J. D. et al. Inflammation, antibiotics, and diet as environmental stressors of the gut microbiome in pediatric Crohn’s disease. Cell Host Microbe 18, 489–500 (2015).
+11. Segata, N. et al. Metagenomic biomarker discovery and explanation. Genome Biol. 12, R60 (2011).
+12. Hansen, R. et al. Microbiota of de-novo pediatric IBD: increased Faecalibacterium prausnitzii and reduced bacterial diversity in Crohn’s but not in ulcerative colitis. Am. J. Gastroenterol. 107, 1913–1922 (2012).
+13. Assa, A. et al. Mucosa-associated ileal microbiota in new-onset pediatric Crohn’s Disease. Inflamm. Bowel Dis. 22, 1533–1539 (2016).
+14. Sokol, H. et al. Faecalibacterium prausnitzii is an anti-inflammatory commensal bacterium identified by gut microbiota analysis of Crohn disease patients. Proc. Natl Acad. Sci. USA 105, 16731–16736 (2008).
+15. Song, H., Yoo, Y., Hwang, J., Na, Y. C. & Kim, H. S. Faecalibacterium prausnitzii subspecies-level dysbiosis in the human gut microbiome underlying atopic dermatitis. J. Allergy Clin. Immunol. 137, 852–860 (2016).
+16. Szklarczyk, D. et al. The STRING database in 2017: quality-controlled protein-protein association networks, made broadly accessible. Nucleic Acids Res. 45, D362–D368 (2017).
+17. Kim, D. K. et al. EVpedia: a community web portal for extracellular vesicles research. Bioinformatics 31, 933–939 (2015).
+18. Simpson, R. J., Kalra, H. & Mathivanan, S. ExoCarta as a resource for exosomal research. J. Extracell. Vesicles 1, 18374 (2012).
+19. David, S. S. & Wiliams, S. D. Chemistry of glycosylases and endonucleases involved in base-excision repair. Chem. Rev. 98, 1221–1261 (1998).
+20. Lotvall, J. et al. Minimal experimental requirements for definition of extracellular vesicles and their functions: a position statement from the International Society for Extracellular Vesicles. J. Extracell. Vesicles 3, 26913 (2014).
+21. Kugathasan, S. et al. Prediction of complicated disease course for children newly diagnosed with Crohn’s disease: a multicentre inception cohort study. Lancet 389, 1710–1718 (2017).
+22. Schirmer, M. et al. Dynamics of metatranscription in the inflammatory bowel disease gut microbiome. Nat Microbiol 3, 337–346 (2018).
+23. Raposo, G. & Stoorvogel, W. Extracellular vesicles: exosomes, microvesicles, and friends. J. Cell Biol. 200, 373–383 (2013).
+24. Timar, C. I. et al. Antibacterial effect of microvesicles released from human neutrophilic granulocytes. Blood 121, 510–518 (2013).
+25. Lakschevitz, F. S. et al. Identification of neutrophil surface marker changes in health and inflammation using high-throughput screening flow cytometry. Exp. Cell Res. 342, 200–209 (2016).
+26. Saiki, T. Myeloperoxidase concentrations in the stool as a new parameter of inflammatory bowel disease. Kurume Med. J. 45, 69–73 (1998).
+27. Masoodi, I. et al. Evaluation of fecal myeloperoxidase as a biomarker of disease activity and severity in ulcerative colitis. Dig. Dis. Sci. 57, 1336–1340 (2012).
+28. Wagner, M., Peterson, C. G., Ridefelt, P., Sangfelt, P. & Carlson, M. Fecal markers of inflammation used as surrogate markers for treatment outcome in relapsing inflammatory bowel disease. World J. Gastroenterol. 14, 5584–5589 (2008). discussion 5588.
+29. Davies, M. J. Myeloperoxidase-derived oxidation: mechanisms of biological damage and its prevention. J. Clin. Biochem. Nutr. 48, 8–19 (2011).
+30. Friedberg, E. C., Walker, G. C., Siede, W. & Wood, R. D. DNA repair and mutagenesis, (American Society for Microbiology Press, Washington, 2005).
+31. Brito, I. L. et al. Mobile genes in the human microbiome are structured from global to individual scales. Nature 535, 435–439 (2016).
+32. Diard, M. et al. Inflammation boosts bacteriophage transfer between Salmonella spp. Science 355, 1211–1215 (2017).
+33. Modi, S. R., Lee, H. H., Spina, C. S. & Collins, J. J. Antibiotic treatment expands the resistance reservoir and ecological network of the phage metagenome. Nature 499, 219–222 (2013).
+34. Raymond, F. et al. The initial state of the human gut microbiome determines its reshaping by antibiotics. ISME J. 10, 707–720 (2016).
+35. Yin, J. et al. L-Cysteine metabolism and its nutritional implications. Mol. Nutr. Food Res. 60, 134–146 (2016).
+36. Bauchart-Thevret, C., Stoll, B., Chacko, S. & Burrin, D. G. Sulfur amino acid deficiency upregulates intestinal methionine cycle activity and suppresses epithelial growth in neonatal pigs. Am. J. Physiol. Endocrinol. Metab. 296, E1239–E1250 (2009).
+37. North American Society for Pediatric Gastroenterology, H. et al. Differentiating ulcerative colitis from Crohn disease in children and young adults: report of a working group of the North American Society for Pediatric Gastroenterology, Hepatology, and Nutrition and the Crohn’s and Colitis Foundation of America. J. Pediatr. Gastroenterol. Nutr. 44, 653–674 (2007).
+38. Hyams, J. et al. Evaluation of the pediatric crohn disease activity index: a prospective multicenter experience. J. Pediatr. Gastroenterol. Nutr. 41, 416–421 (2005).
+39. Turner, D. et al. Development, validation, and evaluation of a pediatric ulcerative colitis activity index: a prospective multicenter study. Gastroenterology 133, 423–432 (2007).
+40. Li, J. et al. An integrated catalog of reference genes in the human gut microbiome. Nat. Biotechnol. 32, 834–841 (2014).
+41. Chehoud, C. et al. Fungal signature in the gut microbiota of pediatric patients with inflammatory bowel disease. Inflamm. Bowel Dis. 21, 1948–1956 (2015).
+42. Fu, L., Niu, B., Zhu, Z., Wu, S. & Li, W. CD-HIT: accelerated for clustering the next-generation sequencing data. Bioinformatics 28, 3150–3152 (2012).
+43. Cheng, K. et al. MetaLab: an automated pipeline for metaproteomic data analysis. Microbiome 5, 157 (2017).
+44. Jagtap, P. et al. A two-step database search method improves sensitivity in peptide sequence matches for metaproteomics and proteogenomics studies. Proteomics 13, 1352–1357 (2013).
+45. Cox, J. et al. Accurate proteome-wide label-free quantification by delayed normalization and maximal peptide ratio extraction, termed MaxLFQ. Mol. Cell. Proteomics 13, 2513–2526 (2014).
+46. Mitsuhashi, S. et al. Luminal extracellular vesicles (EVs) in inflammatory bowel disease (IBD) exhibit proinflammatory effects on epithelial cells and macrophages. Inflamm. Bowel Dis. 22, 1587–1595 (2016).
+47. Wisniewski, J. R., Zougman, A., Nagaraj, N. & Mann, M. Universal sample preparation method for proteome analysis. Nat. Methods 6, 359–362 (2009).
+48. Mesuere, B. et al. Unipept: tryptic peptide-based biodiversity analysis of metaproteome samples. J. Proteome Res. 11, 5773–5780 (2012).
+49. Mesuere, B. et al. Unipept web services for metaproteomics analysis. Bioinformatics 32, 1746–1748 (2016).
+50. Kanehisa, M., Sato, Y. & Morishima, K. BlastKOALA and GhostKOALA: KEGG tools for functional characterization of genome and metagenome sequences. J. Mol. Biol. 428, 726–731 (2016).
+51. Huson, D. H., Auch, A. F., Qi, J. & Schuster, S. C. MEGAN analysis of metagenomic data. Genome Res. 17, 377–386 (2007).
+52. Xia, J., Sinelnikov, I. V., Han, B. & Wishart, D. S. MetaboAnalyst 3.0–making metabolomics more meaningful. Nucleic Acids Res. 43, W251–W257 (2015).
+
+# Acknowledgements
+
+This work was supported by funding from the Natural Sciences and Engineering Research Council of Canada, Genome Canada (OGI-114 and OGI-067), Canadian Institutes of Health Research (GPH-129340, ECD-144627, and MOP-114872), Ontario Ministry of Economic Development and Innovation (REG1–4450), IBD Foundation of Crohn’s and Colitis Canada, and the Children’s Hospital of Eastern Ontario (CHEO) Foundation. D.F. acknowledges a Canada Research Chair in Proteomics and Systems Biology. S.A.D. acknowledges support from the Ontario Graduate Scholarship. We thank Dr. Derrick Gibbings and Ryan Reshke for help in nanoparticle tracking analysis.
+
+# Author contributions
+
+D.F., A.S., D.M., X.Z., and S.A.D. designed the study. D.M., J.B., J.L., and R.S. collected samples. X.Z. and S.A.D. performed the experiments. All authors participated in the data.

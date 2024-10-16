@@ -1,0 +1,66 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Library
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Stallmach 2022
+
+# Study name
+
+Transfer of FRozen Encapsulated multi-donor Stool filtrate for active ulcerative Colitis (FRESCO): study protocol for a prospective, multicenter, double-blind, randomized, controlled trial
+
+# Methods
+
+Multicenter RCT conducted in Germany
+
+# Participants
+
+# Inclusion criteria
+
+- Ages 18–75 years
+- Prior endoscopically confirmed active UC of ≥ 6 months and disease extent of ≥ 15 cm from anal verge
+- Active disease (Mayo score 4–10 and Mayo Endoscopic subscore > 1) at study entry
+- May be receiving 1 of the following drugs:
+- oral 5-ASA compounds with stable prescribed dose for ≥ 4 weeks prior to randomization and the first 12 weeks after randomization
+- azathioprine, 6-mercaptopurine, or methotrexate with stable prescribed dose for 8 weeks prior to randomization and the first 12 weeks after randomization
+- oral corticosteroid therapy (prednisone at stable dose ≤ 20 mg/day or budesonide at stable dose of ≤ 9 mg/day) if prescribed dose has been stable for 2 weeks prior to randomization
+- topical therapy (foams, enema) with mesalazine or budesonide if prescribed dose has been stable for 2 weeks prior to randomization
+- Complete vaccination against SARS-CoV-2 as recommended by the Standing Committee on Vaccination at the Robert Koch Institute
+- Ability to understand and willingness to sign informed consent document and comply with protocol
+
+# Exclusion criteria
+
+- CD or indeterminate colitis or proctitis alone
+- Clinical emergencies requiring emergent management (e.g. acute abdomen: bowel obstruction, perforation or abscess (or both), previous bowel surgery)
+- Concurrent gastrointestinal infections or other causes of diarrhea
+- Congenital or acquired immunodeficiency, severe comorbidities (e.g. diabetes mellitus, cancer, systemic lupus, decompensated cirrhosis, recent malignancy in last 3 years)
+- Negative EBV/CMV serology
+- Pregnancy
+- Inability or unwillingness to undergo colonoscopy
+- Previous treatment with anti-TNF, integrin, or interleukin-12/interleukin-23 antibodies within last 8 weeks
+- Previous treatment with calcineurin or JAK inhibitors within last 4 weeks
+- Systemic antibiotic use within the last 8 weeks
+- Participation in clinical trial within last 3 months
+- History of FMT or FMFT
+- Probiotic use within 14 days of study start date
+- Not ensuring frozen storage (−15 ± 5 °C) of capsules
+- Medical conditions or circumstances that interfere with appreciation of the nature, significance, scope, and possible consequences of the clinical trial; signs of non-compliance
+
+# Interventions
+
+# Experimental arm
+
+n = 58
+
+- Classical FMT 5 capsules orally twice daily, 5 days per week for weeks 1–12
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

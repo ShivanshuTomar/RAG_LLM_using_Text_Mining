@@ -1,0 +1,27 @@
+# Ocansey et al. Clin Trans Med (2019) 8:31
+
+# Page 12 of 17
+
+|IL-23|VInflammation|Elafin|
+|---|---|---|
+|Th-17|Restored gut-|8-defensin|
+|IL 6IFN-Y|microbiome|TFF3|
+|Th-12|diversity|Resistin|
+| |Restored gut-|Lysozyme|
+|FMT-MSC|ICAM-1|microbiome|
+|TNF o|composition|Mucin|
+|FMT-MSC|IL-2|^Damage repair|
+|TGF 8|^Tissue replacement|Bacterocin:|
+|IL-10|^Tissue proliferation|RegmI-Y|
+|IL-4|4Pathogen clearance|Cathelicidin|
+|Treg cells| |Lipo calin|
+
+Fig. 3 The combined effects of FMT–MSC secretomes in attenuating IBD. Several immunomodulatory factors are found in the inflammatory environment. With the quest to attenuate IBD, the administered MSCs and FMT regulate these modulators to inhibit inflammation and restore gut function. In the event of pathogenic bacterial colonization, a number of bactericides are expressed to eradicate infection.
+
+Microbiome–MSCs interactions, certain researches have already documented the close communication between microbiota (and their products) and stem cells in the intestinal niche; potentially in the crypt, assisting stem cells in their roles of epithelial regeneration and homeostasis post-damage repair [121, 122]. In one of such investigations, a common peptidoglycan motif to all bacteria, triggered stem cell survival, leading to a strong cyto-protection against oxidative stress-mediated cell death [121]. Soontararak et al. reported that, the administration of induced pluripotent stem cells (earlier proven to be functionally equal to adipose derived MSCs), did not only trigger increase in Lgr5+ intestinal stem cells, but also upsurge the intestinal epithelial cells proliferation, angiogenesis and even significantly restored alterations in the gut microbiome of IBD mice [68].
+
+# Discussions and future perspective
+
+Currently, many preliminary investigations have demonstrated the therapeutic potentials of FMT in IBD [29] and gastrointestinal disorders [123, 124], among few other conditions. The outcome alongside reviews and meta-analysis have asserted that, FMT application in IBD is promising, effective and safe. However, it is confronted with challenges including minor to serious adverse events, unknown long-term stability of remission, low overall quality of available studies, undefined study designs and treatment protocols, donor and recipient factors as well as poorly defined efficacy endpoint. Again, the low remission rates witnessed in FMT application in IBD studies could be attributed to the complex interplay between microbial, environmental [125], genetic and immunologic [28, 126] factors that take part in the pathogenesis of IBD, therefore the introduction of just a new set of gut microbiota may not necessarily produce the expected outcome. Similarly, MSC therapy is confronted with similar challenges in its application in IBD in spite of the successes witnessed. While these challenges are being battled out in the mission to improve their therapeutic efficacy, there is the need to mount more investigations bent on throwing more light on microbiome–MSC interactions. Although it is asserted that, MSC–microbiome communications occur via TLRs [98] and NLRs [127], the direct and specific proof of such contacts and their resulting impact on the immunomodulatory capability of MSCs remain undefined. Gut microbiome along with other modulators may even contribute to establishing engrafted MSC’s niche in IBD during MSC therapy, and determine whether the given MSCs will take on a pro-inflammatory or an anti-inflammatory phenotype [128, 129]. More researches focused in this area may result in the discovery of a novel product/mechanism of their communication in therapy, since the few available data appear highly encouraging.
+
+Although it is not certain whether it is the MSC-activated effects that enhance the microbiome diversity or rather the opposite, by and large, both effects within the colon epithelium improve each other’s functions, consequently encouraging intestinal epithelial cells regeneration, dampened inflammation, pathogen eradication and angiogenesis. While FMT and MSC therapies are confronted with several challenges in their utility in IBD, a combined therapeutic approach may successfully yield an increased clinical response and remission since both therapies do not only share common characteristics in impart but also influence each other to enhance and potentiate their functionality and therapeutic efficacy. Also, the identification and subsequent administration

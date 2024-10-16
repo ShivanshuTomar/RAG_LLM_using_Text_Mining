@@ -1,0 +1,84 @@
+# Regner et al. Arthritis Research & Therapy (2018) 20:149
+
+# Page 9 of 13
+
+|HC|CD|UC|axSpA|
+|---|---|---|---|
+|Z2|elzz|4| |
+
+# Actinobacteria
+
+- Acti Corynebacteriaceae
+- Acti Corynebacteriales
+- Acti Dermabacteraceae
+- Acti Dermatophilaceae
+- Acti: Microbacteriaceae
+- Bact: Bacteroidales
+- Bact: Prevotellaceae
+- Bact: RF16
+- Bact: Rikenellaceae
+- Bact: S24-7
+- Bact: Sphingobacteriaceae
+- Cyan Chloroplast
+
+# Deferribacteres
+
+- Defe Deferribacteraceae
+
+# Firmicutes
+
+- Firm Acidaminococcaceae
+- Firm Aerococcaceae
+- Firm Bacillaceae
+- Firm Bacillales
+- Firm: Christensenellaceae
+- Firm Clostridiaceae
+- Firm Family-XI-Incertae-Sedis
+- Firm Eubacteriaceae
+- Firm Lachnospiraceae
+- Firm Leuconostocaceae
+- Firm Peptococcaceae
+- Firm Rs-D42
+- Firm: Staphylococcaceae
+- Firm Streptococcaceae
+- Firm vadinBB6o
+
+# Fusobacteria
+
+- Fuso ASCCO2
+- Fuso Fusobacteriaceae
+- Fuso Fusobacteriales
+
+# Proteobacteria
+
+- Prot: Alcaligenaceae
+- Prot: B38
+- Prot Bradyrhizobiaceae
+- Prot Burkholderiaceae
+- Prot Campylobacteraceae
+- Prot: Cardiobacteriaceae
+- Prot: Comamonadaceae
+- Prot: Desulfovibrionaceae
+- Prot: Helicobacteraceae
+- Prot-Moraxellaceae
+- Prot mitochondria
+- Prot: Pseudomonadaceae
+- Prot: Neisseriaceae
+- Prot Pseudomonadales
+- Prot Rhizobiaceae
+- Prot: Rhodobacteraceae
+- Prot Rhizobiales
+
+# Tenericutes
+
+- Tene: Anaeroplasmataceae
+- Tene Mycoplasmataceae
+- Tene RF9
+
+# Verrucomicrobia
+
+- Verr-Verrucomicrobiaceae
+
+# Spearman rho
+
+Fig. 4 (See legend on next page.)

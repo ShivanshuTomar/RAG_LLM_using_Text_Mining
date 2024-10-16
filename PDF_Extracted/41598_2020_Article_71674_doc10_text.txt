@@ -1,0 +1,39 @@
+# www.nature.com/scientificreports/
+
+|Sample ID|Age|Gender|Clinical presentation|C-reactive protein (mg/L)|HLA-B27|Currently undergoing treatment|Duration of disease|
+|---|---|---|---|---|---|---|---|
+|1 (case)|34|F|Inflammatory back pain, fatigue, fever, swollen joint|30.60|N/A|NO|N/A|
+|2 (case)|26|M|Swollen joint, diarrhea, gastrointestinal symptoms|61.4|N/A|NO|N/A|
+|3 (case)|28|F|Ankylosing spondylitis, diarrhea|14|+|NO|N/A|
+|4 (case)|65|M|Inflammatory back pain, fatigue, swollen joint|32.8|N/A|NO|N/A|
+|5 (case)|44|M|Dactylitis, diarrhea, fatigue, swollen joint|56.5|N/A|NO|N/A|
+|6 (case)|32|M|Swollen joint|25.1|N/A|NO|N/A|
+|7 (case)|31|F|Fatigue, fever|1.4|N/A|NO|N/A|
+|8 (case)|30|M|Fatigue, fever, swollen joint|47|+|NO|N/A|
+|9 (case)|25|M|Fatigue|3.9|N/A|NO|7 months|
+|10 (case)|50|F|Inflammatory back pain, fatigue, swollen joint|5.3|N/A|NO|N/A|
+|11 (control)|29|F|Fatigue, fever, Poncet’s disease|29.9|N/A|NO|N/A|
+|12 (control)|56|F|Healthy|N/A|N/A|NO|N/A|
+|13 (control)|57|M|Diarrhea, inflammatory back pain, fatigue|5.3|N/A|YES|N/A|
+|14 (control)|60|M|Diarrhea|42.1|N/A|YES|N/A|
+|15 (control)|73|M|Inflammatory back pain|27.80|N/A|YES|N/A|
+
+Table 3. Sociodemographic and clinical characteristics of ReA cases vs controls. CRP normal levels (0–3). N/A—data not available.
+
+# Relative Expression
+
+| |0|20|031|016|008|004|
+|---|---|---|---|---|---|---|
+|KYNU|Cene KYNU gene expression is decreased in ReA compared to controls|Cene KYNU gene expression is decreased in ReA compared to controls|Cene KYNU gene expression is decreased in ReA compared to controls|Cene KYNU gene expression is decreased in ReA compared to controls|Cene KYNU gene expression is decreased in ReA compared to controls|Cene KYNU gene expression is decreased in ReA compared to controls|
+
+Data were normalized to GAPDH and represented as relative expression ratios between samples and controls. Error bars were calculated by REST analysis and asterisks indicate p-values < 0.05.
+
+# Figure 8
+
+Relative expression of KYNU in cases vs controls.
+
+# Discussion
+
+Gut microbiome is pitched to be the central theme housing enormous diversity of microbial species, characterizing the fine balance between healthy and diseased states. The physiological drifts from healthy to diseased and vice-versa is tuned to sophisticated interactive networks of human host and the microbial flora residing the gut. The autoimmune conditions Reactive Arthritis (ReA) and Inflammatory Bowel Disease (IBD) have been linked to prevalent dysbiosis of the gut, where disease development occurs as a perceptive reaction due invading population of microbes. To find out the basal networks of interactions at the host-microbe interface, common microbes affecting the co-evolved diseases with shared characteristics were studied. These involved comprehensive analysis of the bimolecular functional networks including the gene, protein, metabolite molecular signatures engraved at the host-microbe and microbe-microbe interface. This ‘interspecies communication’ have been linked now with immuno-pathogenesis of most human autoimmune disorders 82,83.
+
+Scientific Reports | (2020) 10:15131 | https://doi.org/10.1038/s41598-020-71674-8

@@ -1,0 +1,33 @@
+# Faecalibacterium: Faecalibacterium_prausnitzii
+
+# Unclassified Bacteroides
+
+- Bacteroides_uniformis
+- Bacteroides_vulgatus
+- Bacteroides_ovalus
+
+# Eubacterium
+
+- Eubacterium_rectale
+
+# Figure 2
+
+Projected network representation of prevalent metagenomic pathways in (a) NI subjects, (b) CD subjects, (c) UC subjects. Networks are obtained through a bipartite projection and the exclusion of an edge between two nodes is made through a comparison with a null model. The nodes highlighted describe the pathway with the highest betweenness centrality. The legend remarks the species of each node/pathway.
+
+# Module Analysis
+
+Module, node PWY-7219|EUBACTERIUM_RECTALE detached from the E. rectale module, and several more fragments of the module. Similar to the previous two cases, the highest betweenness centrality nodes belonged to F. prausnirzii and unclassified groups.
+
+# Escherichia coli
+
+As it is possible to observe in Fig. 4, the relatively uncommon pathways were 910 in total. There were 49203 edges in NI correlation network (thNI = 0.474), 42617 edges in CD correlation network (thCD = 0.446), 44523 edges in UC correlation network (thUC = 0.465). The number of edges was comparable in the three networks. We could observe 9 modules in the NI correlation network (modularity 0.623), 9 modules in the CD correlation network (modularity 0.644), and 6 modules in the UC correlation network (modularity 0.695).
+
+In every network, it was possible to identify an approximately isolated ball-shaped module containing E. coli pathways. It was interesting to highlight the position of B. fragilis pathways in respect of E. coli pathways in the different diagnoses. In the NI correlation network, B. fragilis pathways were connected to the E. coli module through Veillonella parvula pathways, by contrast, in the UC correlation network, B. fragilis pathways were incorporated and surrounded by the same module containing E. coli pathways, whereas in the CD correlation network, the bacterial pathways of the two species were separated.
+
+In the NI correlation network, the module containing E. coli included also bacterial pathways of other species, notably Eubacterium siraeum and Ruminococcus gnavus pathways that behaved as bridge nodes between E. coli containing the module and the rest of the network. In the CD correlation network, this role was assumed by Roseburia intestinalis and V. parvula, whereas, in the UC correlation network, we did not observe any pathways behaving as bridge nodes.
+
+An additional important module that was also the...
+
+Scientific Reports | (2023) 13:19428 | https://doi.org/10.1038/s41598-023-46184-y
+
+Vol.:(0123456789)

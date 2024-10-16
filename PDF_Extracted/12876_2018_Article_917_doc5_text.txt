@@ -1,0 +1,25 @@
+# Imhann et al. BMC Gastroenterology (2019) 19:5
+
+# Genotyping using the ImmunoChip
+
+Host DNA samples from 314 of the 1215 1000IBD participants was genotyped using the ImmunoChip [25] during previous projects between 2010 and 2013 [3], and this data has been added to the 1000IBD project. The ImmunoChip is an Illumina Infinium array comprising 196,524 Single Nucleotide Variants (SNVs) as well as a small number of insertion and deletion markers. These SNVs and markers were selected based on results from genome-wide association studies of IBD and 11 other immune-mediated diseases. Normalized intensities for all samples were called using the OptiCall clustering program [26]. Marker and sample quality control was performed as described previously [6]. Because the ImmunoChip is no longer available, no additional DNA samples will be genotyped by this method. Newer arrays such as the Global Screening Array (GSA) will now be used to ensure that all 1000IBD participants are genotyped.
+
+# Genotyping using the GSA
+
+At the moment, host DNA samples from 1013 of the 1215 1000IBD participants have been genotyped using the Infinium GSA-24 v1.0 BeadChip combined with the optional Multi-Disease drop-in panel (GSA-MD). The GSA-MD array comprises a multi-ethnic genome-wide backbone combined with Multi-Disease Drop-in content derived from exome sequencing and meta-analyses of several phenotype-specific consortia including the International IBD Genetics Consortium (IIBDGC). The GSA-MD includes over 700,000 genetic variants. Genotypes were called using the OptiCall [26] clustering program (opticall.bitbucket.io) and quality control steps were performed using PLINK 1.9 (www.cog-genomic-s.org/plink/1.9/) [27]. The remaining 1000IBD participants, as well as future 1000IBD participants, will also be genotyped using the GSA.
+
+# Genotyping using the Illumina HumanExomeChip
+
+DNA samples of 419 CD patients were genotyped using the Illumina HumanExome-12 v1.1 BeadChip array, which contains 242,901 exonic genetic variants, the majority being low-frequency or rare non-synonymous, splice, or stop-altering variants. The remaining 1000IBD participants will not be genotyped using the HumanExomeChip, but will instead be sequenced using Whole Exome Sequencing.
+
+# Pooled targeted re-sequencing of UC patients
+
+Host DNA samples of pooled targeted deep high-throughput sequencing has been performed of 122 UC-associated genes [28]. Pooled targeted enrichment of DNA from 404 1000IBD participants (12 individuals per pool) was performed using a custom-made kit (Agilent HaloPlex, designed with Agilent’s Sure Design), resulting in coverage of 99.9% of the target sequence. After enrichment, sequencing was performed on the Illumina HiSeq 2500.
+
+# Whole exome sequencing
+
+Host DNA samples from 1003 1000IBD participants were whole exome sequenced according to the Broad Institute of Harvard and MIT Standard Human Whole Exome Sequencing v5 (http://genomics.broadinstitute.org/products/whole-exome-sequencing). DNA samples were processed using the Illumina Nextera preparation kit and hybrid capture was performed using Illumina Rapid Capture Enrichment (37 Mb target). Sequencing was done on the Illumina HiSeq platform to generate 150 bp paired DNA reads. Exome sequencing reads were subsequently processed in accordance with the Broad Institute of Harvard and MIT best practice guidelines (https://software.broadinstitute.org/gatk/best-practices/). Reads were mapped to the human genome reference sequence build 37 using BWA MEM5. The Genome Analysis Toolkit (GATK) [29] version 26 was used to call alleles at variant sites as previously described [30]. The VQSR pipeline was used to assess the quality of called variants.
+
+# Intestinal biopsies and the generation of transcriptome data
+
+Intestinal biopsies were collected from 1000IBD participants during colonoscopies for regular clinical care. These biopsies were immediately snap-frozen by the endoscopy nurse or research technician present during the endoscopy procedure using liquid nitrogen, which is readily available in the endoscopy room. We were able to successfully isolate both DNA and RNA from the snap-frozen samples, and results using the bacterial DNA from biopsies have already been published [31]. To date, 5933 biopsies from 900 patients have been snap frozen in liquid nitrogen and stored at − 80 °C. DNA and RNA were simultaneously isolated from 300 fresh frozen human intestine biopsies using the AllPrep DNA/RNA Mini kit (Qiagen, REF no: 80204) according to the company’s protocol. Biopsies were homogenized in RLT plus buffer containing β-mercaptoethanol using the Qiagen Tissue Lyser with stainless steel beads (5 mm mean diameter, Qiagen REF nr: 69989). Sample preparation was executed using the BioScientific NextFlex mRNA sample preparation kit. Sequencing was performed on the Illumina NextSeq500 sequencer. The RNA samples were pseudo-randomized on plates to assure that no

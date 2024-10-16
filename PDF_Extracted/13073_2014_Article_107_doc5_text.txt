@@ -1,0 +1,27 @@
+# Knights et al. Genome Medicine 2014, 6:107
+
+Page 6 of 11
+
+http://genomemedicine.com/content/6/12/107
+
+# Network legend
+
+- Co-expression
+- Co-localization
+- Genetic interactions
+- Physical interactions
+- Shared protein domains
+
+# Figure 3 Host genes with reproducible microbiome associations across cohorts
+
+Network analysis of host signaling and metabolic pathways enriched for association with microbial taxa (FDR <0.25, Matthew’s correlation test). The visualization of gene-gene interaction network for the subset of 49 genes with significantly conserved directionalities of association with the microbiome is supported by several types of gene-gene connection [30]. This enrichment analysis identified enriched functional networks in innate immune response, inflammatory response, and the JAK-STAT pathway, all of which play roles in immune response to pathogen infection [1].
+
+# Testing
+
+For all NOD2 testing we aggregated risk allele dosage across six known causal variants: rs2066844 (R702W), rs2066845 (G908R), rs5743277, rs5743293 (fs1007insC), rs104895431 and rs104895467 [29]. This novel methodology was crucial as individual variants contained only part of the signal (Figure 2b,c).
+
+# A complex web of genotype-environment-microbiome interactions in IBD
+
+Our findings indicate that host genetics are part of a complex web of host-associated factors influencing microbiome composition. We performed a meta-analysis of interactions between clinical host factors and bacterial taxa using the above 474 subjects and an additional 55 subjects who had recently taken antibiotics. This analysis included NOD2 as one of the host factors. We identified an additional 99 significant associations of non-genetic factors with relative abundance of specific bacterial taxa, largely in agreement with previous analyses of the IBD microbial environment [4].
+
+To visualize the overlap of interactions between various host factors and microbial taxa, we constructed a network of associations between bacterial taxa and observed host and environmental factors (Figure 5; Additional file 8; Supplementary methods in Additional file 1). This analysis revealed a web of complex overlapping linkages between numerous host factors and bacterial taxa. For example, recent antibiotic usage is associated with systematic shifts in many major taxonomic groups (Figure 6; FDR <0.05); immunosuppressants are associated with decreased Firmicutes, and Ruminococcaceae. Biopsy location and...

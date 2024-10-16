@@ -1,0 +1,15 @@
+# Ma et al. Genome Biology (2022) 23:208
+
+# Fig. 5
+
+Unsupervised population structure discovery finds no evidence of microbiome-based subtypes in the IBD gut, but a reproducible gradient of continuously variable dysbiosis in disease.
+
+a No support was detected for discrete microbiome subtypes (clusters) within the IBD microbiome, neither within cohort nor when evaluated among studies (red bars) using prediction strength [42]. This remained true during stratification within CD and UC, and for additional dissimilarity metric/clustering strength measurements (Additional file 1: Fig. S12).
+
+b Conversely, two reproducible, continuously variable patterns of microbiome population structure were identified using groups of similar principal components (“Methods”) [35]. These patterns were consistent within and between cohorts, disease types, and sample types, as well as under different edge strength cutoffs (Additional file 1: Fig. S14), and their consensus loadings were reproducible among cohorts (Additional file 1: Fig. S15).
+
+c Top 20 genera with highest absolute loadings for the disease-associated dysbiosis score corresponding to the first cluster in b. Many of these taxa were also IBD-associated (Fig. 3b).
+
+d Distribution of the dysbiosis pattern across CD, UC, non-IBD control, and healthy populations. Although it was defined in an unsupervised way solely within the IBD population, across which the pattern is highly variable, it also differentiates well between IBD and control populations (Additional file 1: Fig. S16).
+
+Additional file 1: Fig. S17), even though it was identified unsupervisedly only from diseased subsets. The composition of the score and its population structure are also consistent with our recent definition of dysbiotic gut microbiome configurations corresponding with multi-‘omic perturbations during IBD activity [9]. Together with the supervised meta-analysis results above, these unsupervised population structure findings confirm that there are no detectable discrete subtypes of the gut microbiome in IBD even among ~5000 combined samples, while showing a single continuously variable gradient of microbiome changes reproducibly present during more dysbiotic diseases.

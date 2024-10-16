@@ -1,0 +1,58 @@
+# Sternes et al. Arthritis Research & Therapy
+
+# (2022) 24:163
+
+# Page 10 of 10
+
+Received: 21 February 2022
+
+Published online: 07 July 2022
+
+Accepted: 15 June 2022
+
+# References
+
+1. Brown MA, Kennedy LG, Macgregor AJ, et al. Susceptibility to ankylosing spondylitis in twins the role of genes, HLA, and the environment. Arthritis Rheum. 1997;40(10):1823–8.
+2. Pedersen O, Svendsen AJ, Ejstrup L, et al. Ankylosing spondylitis in Danish and Norwegian twins: occurrence and the relative importance of genetic vs. environmental effectors in disease causation. Scand J Rheumatol. 2008;37(2):120–6.
+3. Halme L, Paavola‑Sakki P, Turunen U, et al. Family and twin studies in inflammatory bowel disease. World J Gastroenterol. 2006;12(23):3668.
+4. Sternes PR, Martin TM, Paley M, et al. HLA‑A alleles including HLA‑A29 affect the composition of the gut microbiome: a potential clue to the pathogenesis of birdshot retinochoroidopathy. Sci Rep. 2020;10(1):17636.
+5. Asquith M, Sternes PR, Costello ME, et al. HLA alleles associated with risk of ankylosing spondylitis and rheumatoid arthritis influence the gut microbiome. Arthritis Rheum. 2019;71(10):1642–50.
+6. Ellinghaus D, Jostins L, Spain SL, et al. Analysis of five chronic inflammatory diseases identifies 27 new associations and highlights disease‑specific patterns at shared loci. Nat Genet. 2016;48(5):510–8.
+7. Ciccia F, Accardo‑Palumbo A, Alessandro R, et al. Interleukin‑22 and interleukin‑22–producing NKp44+ natural killer cells in subclinical gut inflammation in ankylosing spondylitis. Arthritis Rheum. 2012;64(6):1869–78.
+8. Mielants H, Veys E, Cuvelier C, et al. HLA‑B27 related arthritis and bowel inflammation. Part 2. Ileocolonoscopy and bowel histology in patients with HLA‑B27 related arthritis. J Rheumatol. 1985;12(2):294–8.
+9. Martinez‑Gonzalez O, Cantero‑Hinojosa J, Paule‑Sastre P, et al. Intestinal permeability in patients with ankylosing spondylitis and their healthy relatives. 1994.
+10. Mielants H, De Vos M, Goemaere S, et al. Intestinal mucosal permeability in inflammatory rheumatic diseases. II. Role of disease. J Rheumatol. 1991;18(3):394–400.
+11. Morris A, Howden C, Robertson C, et al. Increased intestinal permeability in ankylosing spondylitis‑‑primary lesion or drug effect? Gut. 1991;32(12):1470–2.
+12. Vaile J, Meddings J, Yacyshyn B, et al. Bowel permeability and CD45RO expression on circulating CD20+ B cells in patients with ankylosing spondylitis and their relatives. J Rheumatol. 1999;26(1):128–35.
+13. Glassner KL, Abraham BP, Quigley EM. The microbiome and inflammatory bowel disease. J Allergy Clin Immunol. 2020;145(1):16–27.
+14. D’Haens GR, Vermeire S, Van Assche G, et al. Therapy of metronidazole with azathioprine to prevent postoperative recurrence of Crohn’s disease: a controlled randomized trial. Gastroenterology. 2008;135(4):1123–9.
+15. Rutgeerts P, Peeters M, Hiele M, et al. Effect of faecal stream diversion on recurrence of Crohn’s disease in the neoterminal ileum. Lancet. 1991;338(8770):771–4.
+16. Jostins L, Ripke S, Weersma RK, et al. Host–microbe interactions have shaped the genetic architecture of inflammatory bowel disease. Nature. 2012;491(7422):119–24.
+17. Paramsothy S, Kamm MA, Kaakoush NO, et al. Multidonor intensive faecal microbiota transplantation for active ulcerative colitis: a randomised placebo‑controlled trial. Lancet. 2017;389(10075):1218–28.
+18. Breban M, Tap J, Leboime A, et al. Faecal microbiota study reveals specific dysbiosis in spondyloarthritis. Ann Rheum Dis. 2017;76(9):1614–22.
+19. Costello ME, Ciccia F, Willner D, et al. Brief report: intestinal dysbiosis in ankylosing spondylitis. Arthritis Rheum. 2015;67(3):686–91.
+20. Morgan XC, Tickle TL, Sokol H, et al. Dysfunction of the intestinal microbiome in inflammatory bowel disease and treatment. Genome Biol. 2012;13(9):R79.
+21. Stoll ML, Kumar R, Morrow CD, et al. Altered microbiota associated with abnormal humoral immune responses to commensal organisms in enthesitis‑related arthritis. Arthritis Res Ther. 2014;16(6):1–10.
+22. Tito RY, Cypers H, Joossens M, et al. Brief report: dialister as a microbial marker of disease activity in spondyloarthritis. Arthritis Rheum. 2017;69(1):114–21.
+23. Wen C, Zheng Z, Shao T, et al. Quantitative metagenomics reveals unique gut microbiome biomarkers in ankylosing spondylitis. Genome Biol. 2017;18(1):1–13.
+24. Yin J, Sternes PR, Wang M, et al. Shotgun metagenomics reveals an enrichment of potentially cross‑reactive bacterial epitopes in ankylosing spondylitis patients, as well as the effects of TNFi therapy upon microbiome composition. Ann Rheum Dis. 2020;79(1):132–40.
+25. Klingberg E, Magnusson MK, Strid H, et al. A distinct gut microbiota composition in patients with ankylosing spondylitis is associated with increased levels of fecal calprotectin. Arthritis Res Ther. 2019;21(1):248.
+26. Garcia‑Vicuna R, Brown MA. Vedolizumab for inflammatory bowel disease: a two‑edge sword in the gut‑joint/enthesis axis. Rheumatology (Oxford). 2019;58(6):937–9.
+27. van der Linden S, Valkenburg HA, Cats A. Evaluation of diagnostic criteria for ankylosing spondylitis. A proposal for modification of the New York criteria. Arthritis Rheum. 1984;27(4):361–8.
+28. Roberts RL, Wallace MC, Harrison AA, et al. Association of Crohn’s disease‑related chromosome 1q32 with ankylosing spondylitis is independent of bowel symptoms and faecal calprotectin. PeerJ. 2018;6:e5088.
+29. Andrews S. FastQC: a quality control tool for high throughput sequence data. Cambridge: Babraham Bioinformatics, Babraham Institute; 2010.
+30. Bolyen E, Rideout JR, Dillon MR, et al. Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2. Nat Biotechnol. 2019;37(8):852–7.
+31. Zhang J, Kobert K, Flouri T, et al. PEAR: a fast and accurate Illumina Paired‑End reAd mergeR. Bioinformatics. 2014;30(5):614–20.
+32. R Core Team. R: A language and environment for statistical computing. Foundation for Statistical Computing, Vienna, Austria; 2021. https://www.R-proje ct.org/.
+33. Lê Cao K‑A, Costello M‑E, Lakis VA, et al. MixMC: a multivariate statistical framework to gain insight into microbial communities. PLoS One. 2016;11(8):e0160169.
+34. Oksanen J, Blanchet FG, Kindt R, Legendre P, Minchin PR, O’hara RB, Simpson GL, Solymos P, Stevens MH, Wagner H, Oksanen MJ. Package ‘vegan’. Community ecology package, version. 2013;2(9):1‑295.
+35. Wickham H. ggplot2. Wiley Interdisciplinary Reviews. Comput Stat. 2011;3(2):180–5.
+36. Fragoulis GE, Liava C, Daoussis D, et al. Inflammatory bowel diseases and spondyloarthropathies: from pathogenesis to treatment. World J Gastroenterol. 2019;25(18):2162.
+37. Rush PJ, Shore A, Inman R, et al. Arthritis associated with Haemophilus influenzae meningitis: septic or reactive? J Pediatr. 1986;109(3):412–5.
+38. Bonora G, Rogari P, Acerbi L, et al. Reactive arthritis associated with Haemophilus influenzae type b meningitis. J Pediatr. 1988;113(1 Pt 1):163–4.
+39. Mustafa MM, Lebel MH, McCracken GH Jr. Tenosynovitis and transient arthritis associated with Haemophilus influenzae type b bacteremia. Pediatr Infect Dis J. 1988;7(7):517–9.
+40. Bawazir Y, Towheed T, Anastassiades T. Post‑Streptococcal Reactive Arthritis. Curr Rheumatol Rev. 2020;16(1):2–8.
+
+# Publisher’s Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.

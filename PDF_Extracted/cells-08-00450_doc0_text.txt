@@ -1,0 +1,25 @@
+# Metabolite-Sensing G Protein-Coupled Receptors Connect the Diet-Microbiota-Metabolites Axis to Inflammatory Bowel Disease
+
+# Hassan Melhem 1, Berna Kaya 1, C. Korcan Ayata 1, Petr Hruz 2 and Jan Hendrik Niess 1,2,*
+
+1 Department of Biomedicine, University of Basel, 4031 Basel, Switzerland; hassan.melhem@unibas.ch (H.M.); berna.kaya@unibas.ch (B.K.); korcan.ayata@unibas.ch (C.K.A.)
+
+2 University Center for Gastrointestinal and Liver Diseases, St. Clara Hospital and University Hospital of Basel, CH-4031 Basel, Switzerland; petr.hruz@usb.ch
+
+* Correspondence: janhendrik.niess@clarunis.ch; Tel.: + 41-61-32-86608
+
+Received: 12 April 2019; Accepted: 9 May 2019; Published: 14 May 2019
+
+# Abstract
+
+Increasing evidence has indicated that diet and metabolites, including bacteria- and host-derived metabolites, orchestrate host pathophysiology by regulating metabolism, immune system and inflammation. Indeed, autoimmune diseases such as inflammatory bowel disease (IBD) are associated with the modulation of host response to diets. One crucial mechanism by which the microbiota affects the host is signaling through G protein-coupled receptors (GPCRs) termed metabolite-sensing GPCRs. In the gut, both immune and nonimmune cells express GPCRs and their activation generally provide anti-inflammatory signals through regulation of both the immune system functions and the epithelial integrity. Members of GPCR family serve as a link between microbiota, immune system and intestinal epithelium by which all these components crucially participate to maintain the gut homeostasis. Conversely, impaired GPCR signaling is associated with IBD and other diseases, including hepatic steatosis, diabetes, cardiovascular disease, and asthma. In this review, we first outline the signaling, function, expression and the physiological role of several groups of metabolite-sensing GPCRs. We then discuss recent findings on their role in the regulation of the inflammation, their existing endogenous and synthetic ligands and innovative approaches to therapeutically target inflammatory bowel disease.
+
+# Keywords
+
+inflammatory bowel diseases; metabolites; microbiota; metabolite-sensing G protein-coupled receptors
+
+# 1. Introduction
+
+Inflammatory bowel disease (IBD), which encompasses Crohn’s disease (CD) and ulcerative colitis (UC), is a chronic, relapsing inflammatory disorder of the gastrointestinal (GI) tract [1]. The inflammation affects the functioning of GI organs causing abdominal pain, persistent diarrhea, cramping, weight loss, gastrointestinal bleeding, and fatigue [2]. The prevalence of IBD has been continuously increasing during the last half-century and varies according to geographical location [3,4]. Like most autoimmune diseases, IBD has multifactorial causes, in which environmental factors, including, diet and gut microbiota, and the immune system, are gaining increased attention. In this regard, changes in the diet may contribute to the increased prevalence of IBD. Indeed, clinical pieces of evidence have reported that diets rich in poly-unsaturated fatty acids, trans-fats, alcohol, and red/processed meat may increase the risk of IBD [5,6]. By contrast, a diet rich in fibers reduces the CD risk [7]. Microbial products, such as polysaccharides and proteins can induce the intestinal immune system through the activation of pattern recognition receptors, including Toll-like receptors, and
+
+Cells 2019, 8, 450; doi:10.3390/cells8050450 www.mdpi.com/journal/cells

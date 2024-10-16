@@ -1,0 +1,35 @@
+# Transcriptomics and Metabolomics/Metabonomic Data Integration in Plant Species
+
+# Metabolomics
+
+# Integration of System Biology Platform
+
+Linking multiple omics data sets (e.g. transcriptomics, metabolomics, proteomics) and trying to forge mechanistic understanding of pathways.
+
+and CCA included in the packages. An example is Mixomics (R version 6.32) that aims to help draw the variable omics together to create a logical integrative story. Acharjee and colleagues developed omicsFusion, which is a web application that can perform statistical analysis based on regularization like LASSO and Elastic net together with univariate regression and dimension reduction methods.
+
+The other type of integration is treating each of the omics data separately with a clinical outcome and selecting important features from them and integrating. Procedures for selecting subsets of features/variables are called variable or feature selection procedures. By doing this, it is possible to reduce the dimensionality of the data set and perhaps to get rid of some or even many noise variables (variables that have no predictive power for the response variable) in the data set.
+
+Therefore, such type of integration is essentially integration of two labels. This integration provides us with two types of information: first, the type of the omics data, which is important for future experiments; and second, features that are important for prediction. Acharjee and colleagues used a random forest approach to selecting features from metabolomics and lipidomics data and linked these with clinical outcomes in mouse data sets. Furthermore, Acharjee and colleagues used a similar approach to integrate.
+
+# Conclusion
+
+This review has highlighted the potential of omics to integrate all the various variables that contribute to IBD to enable us to begin to understand their interactions within the gut microbiota. It is important to highlight that as well as integrating the known omics, future studies need to integrate the role of environmental factors that may contribute to alterations to the microbiota in IBD, including diet, medication and environmental exposure. Such integration (omics and non-omics data sets) for IBD will open up new therapeutic targets and mechanistic understanding of IBD.
+
+# Acknowledgements
+
+The Division of Integrative Systems Medicine and Digestive Disease at Imperial College, London, UK receives financial support from the National Institute of Health Research Imperial Biomedical Research Centre based at Imperial College Healthcare NHS Trust and Imperial College London. BHM is the recipient of a UK Medical Research Council Clinical Research Training Fellowship (grant reference: MR/R000875/1).
+
+JPS, BHM, MNQ were responsible for conception, literature review, writing and revising the manuscript and are joint first authors. AA conducted a literature review and contributed to writing and revising the manuscript. HW, TI, AH, and JRM gave critical revisions and helped revise the manuscript. All authors agreed to the final version.
+
+# Funding
+
+This research received no specific grant from any funding agency in the public, commercial, or not-for-profit sectors.
+
+# Conflict of Interest Statement
+
+The authors declare that there is no conflict of interest.
+
+# References
+
+1. Molodecky NA, Soon IS, Rabi DM, et al. Increasing incidence and prevalence of the

@@ -1,0 +1,51 @@
+# Therapeutic Advances in Gastroenterology 9(4)
+
+# References
+
+Shaw, S., Blanchard, J. and Bernstein, C. (2011) Association between the use of antibiotics and new diagnoses of Crohn’s disease and ulcerative colitis. Am J Gastroenterol 106: 2133–2142.
+
+Sheehan, D., Moran, C. and Shanahan, F. (2015) The microbiota in inflammatory bowel disease. J Gastroenterol 50: 495–507.
+
+Sigall-Boneh, R., Pfeffer-Gik, T., Segal, I., Zangen, T., Boaz, M. and Levine, A. (2014) Partial enteral nutrition with a Crohn’s disease exclusion diet is effective for induction of remission in children and young adults with Crohn’s disease. Inflamm Bowel Dis 20: 1353–1360.
+
+Singh, S., Graff, L. and Bernstein, C. (2009) Do NSAIDs, antibiotics, infections, or stress trigger flares in IBD? Am J Gastroenterol 104: 1298–1313; quiz 1314.
+
+Smith, P., Howitt, M., Panikov, N., Michaud, M., Gallini, C., Bohlooly, Y. et al. (2013) The microbial metabolites, short-chain fatty acids, regulate colonic Treg cell homeostasis. Science 341: 569–573.
+
+Soderholm, J., Yates, D., Gareau, M., Yang, P., Macqueen, G. and Perdue, M. (2002) Neonatal maternal separation predisposes adult rats to colonic barrier dysfunction in response to mild stress. Am J Physiol Gastrointest Liver Physiol 283: G1257–G1263.
+
+Sokol, H., Pigneur, B., Watterlot, L., Lakhdari, O., Bermúdez-Humarán, L., Gratadoux, J. et al. (2008) Faecalibacterium prausnitzii is an anti-inflammatory commensal bacterium identified by gut microbiota analysis of Crohn disease patients. Proc Natl Acad Sci U S A 105: 16731–16736.
+
+Sood, A., Midha, V., Makharia, G., Ahuja, V., Singal, D., Goswami, P. et al. (2009) The probiotic preparation, VSL#3 induces remission in patients with mild-to-moderately active ulcerative colitis. Clin Gastroenterol Hepatol 7: 1202–1209, 1209.e1201.
+
+Spor, A., Koren, O. and Ley, R. (2011) Unravelling the effects of the environment and host genotype on the gut microbiome. Nat Rev Microbiol 9: 279–290.
+
+Strauss, J., Kaplan, G., Beck, P., Rioux, K., Panaccione, R., Devinney, R. et al. (2011) Invasive potential of gut mucosa-derived fusobacterium nucleatum positively correlates with IBD status of the host. Inflamm Bowel Dis 17: 1971–1978.
+
+Stremmel, W., Hanemann, A., Braun, A., Stoffels, S., Karner, M., Fazeli, S. et al. (2010) Delayed release phosphatidylcholine as new therapeutic drug for ulcerative colitis – a review of three clinical trials. Expert Opin Investig Drugs 19: 1623–1630.
+
+Sun, J. and Chang, E. (2014) Exploring gut microbes in human health and disease: pushing the envelope. Genes Dis 1: 132–139.
+
+Suskind, D., Brittnacher, M., Wahbeh, G., Shaffer, M., Hayden, H., Qin, X. et al. (2015) Fecal microbial transplant effect on clinical outcomes and fecal microbiome in active Crohn’s disease. Inflamm Bowel Dis 21: 556–563.
+
+Suskind, D., Wahbeh, G., Gregory, N., Vendettuoli, H. and Christie, D. (2014) Nutritional therapy in pediatric Crohn disease: the specific carbohydrate diet. J Pediatr Gastroenterol Nutr 58: 87–91.
+
+Sutherland, L., Singleton, J., Sessions, J., Hanauer, S., Krawitt, E., Rankin, G. et al. (1991) Double blind, placebo controlled trial of metronidazole in Crohn’s disease. Gut 32: 1071–1075.
+
+Swidsinski, A., Dorffel, Y., Loening-Baucke, V., Theissig, F., Ruckert, J., Ismail, M. et al. (2011) Acute appendicitis is characterised by local invasion with Fusobacterium nucleatum/necrophorum. Gut 60: 34–40.
+
+Swidsinski, A., Loening-Baucke, V., Bengmark, S., Lochs, H. and Dorffel, Y. (2007) Azathioprine and mesalazine-induced effects on the mucosal flora in patients with IBD colitis. Inflamm Bowel Dis 13: 51–56.
+
+Swidsinski, A., Weber, J., Loening-Baucke, V., Hale, L. and Lochs, H. (2005) Spatial organization and composition of the mucosal flora in patients with inflammatory bowel disease. J Clin Microbiol 43: 3380–3389.
+
+Takeuchi, K., Smale, S., Premchand, P., Maiden, L., Sherwood, R., Thjodleifsson, B. et al. (2006) Prevalence and mechanism of nonsteroidal anti-inflammatory drug-induced clinical relapse in patients with inflammatory bowel disease. Clin Gastroenterol Hepatol 4: 196–202.
+
+Talley, N., Abreu, M., Achkar, J., Bernstein, C., Dubinsky, M., Hanauer, S. et al. (2011) An evidence-based systematic review on medical therapies for inflammatory bowel disease. Am J Gastroenterol 106(Suppl. 1): S2–25; quiz S26.
+
+Theodorakopoulou, M., Perros, E., Giamarellos-Bourboulis, E. and Dimopoulos, G. (2013) Controversies in the management of the critically ill: the role of probiotics. Int J Antimicrob Agents 42(Suppl.): S41–S44.
+
+Theodoratou, E., Campbell, H., Ventham, N., Kolarich, D., Pucic-Bakovic, M., Zoldos, V. et al. (2014) The role of glycosylation in IBD. Nat Rev Gastroenterol Hepatol 11: 588–600.
+
+Tilg, H. and Kaser, A. (2004) Diet and relapsing ulcerative colitis: take off the meat? Gut 53: 1399–1401.
+
+Timmer, A., Sutherland, L. and Martin, F. (1998) Oral contraceptive use and smoking are risk factors for relapse in Crohn’s disease. The Canadian Mesalamine for Remission of Crohn’s Disease Study Group. Gastroenterology 114: 1143–1150.

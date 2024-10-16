@@ -1,0 +1,77 @@
+# Alam et al. Gut Pathog (2020) 12:1
+
+sample ranged from 6936 to 100,972, with an average of 38,931 reads per sample.
+
+# Bioinformatic analysis of 16S rRNA sequencing data
+
+16S rRNA high-throughput sequencing data was analysed by following the workflow from Callahan et al. [33]. Quality checking, filtering and trimming of fastq files were performed by functions from the dada2 package in R [34]. After filtering the reads, high-resolution Amplicon Sequence Variants (ASVs) were inferred using dada function [34]. ASVs are a higher-resolution analogue of the traditional OTUs. Chimeric sequences were removed and taxonomy assigned to ASVs based on the naive Bayesian classifier method with silva_nr_v132_train_set.fa as the training set [34]. Species-richness and alpha diversity (Shannon) were analysed by plot_richness function from the phyloseq package in R [35]. To make the rarefaction species richness curve, ‘rarecurve’ function from the vegan package [36] in R was used.
+
+# Statistical analysis: bacterial family co-abundance network based on microbiome data
+
+Taxonomic assignments, containing a detailed taxonomy and abundance data of OTUs or ASVs in samples, of 113 gut microbiome studies, covering more than 22,000 samples, were downloaded from the EBI metagenomics database [1]. The data were then parsed and tables containing bacterial abundance from different phyla, classes and families were generated. Abundance at the level of phylum was then used for the global gut microbial abundance. The family-level bacterial abundance was used to construct the bacterial family–family coexistence network. For each pair of bacterial families, Pearson’s correlation test was performed. Family nodes were connected when P-value < 1e−10 and Pearson’s correlation coefficient > 0.3.
+
+# Supplementary information
+
+Supplementary information accompanies this paper at https://doi.org/10.1186/s13099-019-0341-6.
+
+- Additional file 1: Table S1. List of gut microbiome studies from EBI metagenomics database.
+- Additional file 2: Figure S1. Phylum level richness in the gut microbiota from our samples (shown in green) compared to the gut microbial species richness obtained across studies, each with more than 100 OTUs (total 81 study), from a variety of conditions (shown in black).
+
+# Acknowledgements
+
+We thank BBSRC (BBSRC BB/L027801/1) and FAPIC (EU H2020 Proposal Number: SEP-210176939 2015-2020) for funding the project. MTA was Funded by the Warwick medical school.
+
+# Authors’ contributions
+
+The study was conceived by RPA and EMHW and they secured the funding. RPA and SM recruited the patients. Sequencing was performed by GCAA and ARJM. MTA performed the data analysis. The first draft of the manuscript was written by MTA. All authors read and approved the final manuscript.
+
+# Funding
+
+EMHW and GCAA received financial support from BBSRC (BBSRC BB/L027801/1), Warwick Medical School and AM from FAPIC—Fast Assay for Pathogen Identification and Characterisation EU H2020 Proposal Number: SEP-210176939 2015-2020.
+
+# Availability of data and materials
+
+Sequence data of the study has been submitted to European Nucleotide Archive (ENA) (https://www.ebi.ac.uk/ena/submit/sra/#studies) under the Accession Number PRJEB33711.
+
+# Ethics approval and consent to participate
+
+Patients were recruited as part of the Famished Multicentre Study (Warwickshire local research Ethics No: 09/H1211/38).
+
+# Consent for publication
+
+Not required.
+
+# Competing interests
+
+The authors declare that they have no competing interests.
+
+# Author details
+
+1 Warwick Medical School, University of Warwick, Coventry, UK. 2 School of Life Sciences, University of Warwick, Coventry, UK. 3 Department of Gastroenterology, University Hospitals Coventry & Warwickshire NHS Trust, Clifford Bridge Road, Coventry CV2 2DX, UK. 4 School of Life Sciences, University of Coventry, Coventry, UK. 5 Faculty of Life Science, University of Leicester, Leicester, UK. Present Address: G.C.A.A National Institute for Biological Standards and Control (NIBSC), Potters Bar, UK.
+
+# Received
+
+19 September 2019
+
+# Accepted
+
+12 December 2019
+
+# Published online
+
+04 January 2020
+
+# References
+
+1. Mitchell AL, Scheremetjew M, Denise H, Potter S, Tarkowska A, Qureshi M, et al. EBI Metagenomics in 2017: enriching the analysis of microbial communities, from sequence reads to assemblies. Nucleic Acids Res. 2018;46:D726–35.
+2. Abraham C, Cho JH. Inflammatory bowel disease. N Engl J Med. 2009;361:2066–78.
+3. Kaplan GG. The global burden of IBD: from 2015 to 2025. Nat Rev Gastroenterol Hepatol. 2015;12:720–7.
+4. Mozdiak E, O’Malley J, Arasaradnam R. Inflammatory bowel disease. BMJ. 2015. h4416.
+5. Baumgart DC, Sandborn WJ. Crohn’s disease. Lancet. 2012;380:1590–605.
+6. McGovern DPB, Kugathasan S, Cho JH. Genetics of inflammatory bowel diseases. Gastroenterology. 2015;149(1163–76):e2.
+7. Luo Y, de Lange KM, Jostins L, Moutsianas L, Randall J, Kennedy NA, et al. Exploring the genetic architecture of inflammatory bowel disease by whole-genome sequencing identifies association at ADCY7. Nat Genet. 2017;49:186–92.
+8. Molodecky NA, Kaplan GG. Environmental risk factors for inflammatory bowel disease. Gastroenterol Hepatol. 2010;6:339–46.
+9. Ananthakrishnan AN. Environmental risk factors for inflammatory bowel disease. Gastroenterol Hepatol. 2013;9:367–74.
+10. Sheehan D, Moran C, Shanahan F. The microbiota in inflammatory bowel disease. J Gastroenterol. 2015;50:495–507.
+11. Goldsmith JR, Sartor RB. The role of diet on intestinal microbiota metabolism: downstream impacts on host immune function and health, and therapeutic implications. J Gastroenterol. 2014;49:785–98.
+12. Liu JZ, van Sommeren S, Huang H, Ng SC, Alberts R, Takahashi A, et al. Association analyses identify 38 susceptibility loci for inflammatory bowel disease and highlight shared genetic risk across populations. Nat Genet. 2015;47:979–86.

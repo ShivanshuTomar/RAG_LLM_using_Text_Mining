@@ -1,0 +1,51 @@
+# Introduction
+
+Human physiological homeostasis and onset of disease largely depends on the interactions among the resident microbiome of different habitats, such as skin surface, oral cavity, respiratory tract, gastrointestinal system, genital area, and host’s protective immunity [1, 2]. The gut dysbiosis could also be linked with various diseases like, rheumatoid arthritis, cancer, obesity, diabetes, cardiovascular diseases and infectious diseases [1].
+
+The gut microbiome has the capacity to influence innate and adaptive immune arms and mediate the interactions among immune cells by secreting secondary metabolites to balance the inflammatory response against the pathogens. Induction of type I IFNs create the antiviral state; however, any change occurs in microbiota could result in debilitating hyperinflammation instigating the opportunistic pathogens to propagate [1, 3, 4]. Gut microflora like Faecalibacterium prausnitzii, Eubacterium rectale and bifidobacteria (probiotics in stomach and intestine) harbor the immunomodulatory properties, noted to be depleted in hospitalized patients even after the disease resolution than healthy individuals [5].
+
+Recent studies in metagenomics have also revealed the phenomenal association of virome, microbiome and immune cells. Virome/microbiome linkage may regulate the immune cells like T-cells, B-cells, NK- cells, monocytes and macrophages [4, 6, 7]. Bacterial population can be evolved by the acquisition of genes transferred by phage in the intestine. Phage/virus- host dynamics can influence the homogeneity /or may be responsible for causing dysbiosis [8]. The secondary infections with COVID-19, could increase the expression of ACE-2 receptors in gut and colon; especially in elderly patients with higher chances of getting dysbiosis leading to cause IBD; suggesting the potential entry of virus through altered microbiome. [2, 6]. A single cell transcriptomic study revealed that ACE-2 receptors are highly expressed in the oesophageal epithelium, and enterocytes of intestines helping in effective dissemination [9].
+
+Excessive secretion of pro-inflammatory cytokines, change in O2 level, reduction in the antimicrobial peptides, TLRs, NOD/NLRs, and SCFAs production eventually disrupt the function of microbiome. Increasing the translocation
+
+|Abbreviation|Full Form|
+|---|---|
+|GCSF|Granulocyte colony-stimulating factor|
+|Syk|Spleen tyrosin kinase|
+|TNF-α|Tumor necrosis factor α|
+|hsCRP|High-sensitive C-reactive protein|
+|Th1-Th17 cells|Thymus cells|
+|Tfh cells|Follicular helper T-cell|
+|HDAC3|Histone deacetylase 3|
+|IL|Interleukin|
+|IP10|Induced protein (small inducible cytokine)|
+|TBK1|Tank binding kinase|
+|T1D|Type 1 diabetes|
+|IFN-γI|Interferon γI|
+|iNKT cells|Invariant natural killer cells|
+|ILC3|Innate lymphoid cells|
+|IL10R2|IFNλ receptor|
+|IFNAR 1&2|IFN α/ β receptor|
+|MHC-I|Major histocompatibility complex-I|
+|MAMPs|Microbial associated molecular patterns|
+|MNP|Mononuclear phagocyte|
+|MyD88|Myeloid differentiation primary response 88|
+|MDA5|Melanoma associated protein 5|
+|MAVS|Mitochondrial antiviral signaling protein|
+|MAP kinase|Mitogen activated protein kinase|
+|MIP-1α|Macrophage inflammatory protein|
+|MCP-1|Monocyte chemoattractant protein|
+|NOD-2|Nucleotide -binding oligomerization domain-2|
+|NFKB|Nuclear factor kappa-light chain enhancer of activated B-cells|
+|NLRP6|NOD like receptor family pyrin domain containing 6|
+|OAS|Oligo adenylate synthase|
+|OLRs|OAS like receptors|
+|PC3|Pathogen containment level 3|
+|PRRs|Pattern recognition receptors|
+|PI3K|Phosphoinositide 3 kinase|
+|RANKL|Receptor activator of nuclear factor kappa-B ligand|
+|RORγ, RAR|Related orphan receptor gamma|
+|RIG-1|Retinoic acid inducible gene I|
+|STAT|Signal transducer and activator of transcription|
+|SCFAs|Short chain fatty acids|
+|STING|Stimulator of interferon genes|

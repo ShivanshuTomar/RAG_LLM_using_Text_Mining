@@ -1,0 +1,11 @@
+# Sternes et al. Arthritis Research & Therapy (2022) 24:163
+
+# Page 7 of 10
+
+# Fig. 4
+
+Comparison of microbiome composition in the Australian cohort, sampled from terminal ileum, rectum, right colon and stool, whilst accounting for repeated sampling. Composition was measured according to FCP levels. A sPLSDA visualisation of microbiome composition (beta diversity) according to FCP level. B PERMANOVA significance testing of beta diversity according to FCP level. C Comparison of species richness (alpha diversity) according to FCP level.
+
+that the sample size for this analysis was small and that these findings need replication. Furthermore, the presence of IBD in AS patients was also able to be identified with moderate diagnostic accuracy (AUC 0.754) in the stools of AS patients. It follows that the differing pathogenicity of AS compared to IBD corresponds with unique microbiome composition, highlighting the potential multifarious function of the gut microbiome.
+
+The AS microbiome has been studied across a variety of geographically and ethnically diverse populations. In the current study, Australian, Swedish and Italian AS patients all exhibited unique microbiomes from each other (Fig. 2). Whilst the array of environmental and technical factors which differentially influence microbiome composition in each region can be numerous and varied, these results highlight the degree of inter-cohort variability occurring in AS studies internationally. Therefore,

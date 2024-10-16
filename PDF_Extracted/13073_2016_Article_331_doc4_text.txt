@@ -1,0 +1,36 @@
+# Shaw et al. Genome Medicine (2016) 8:75
+
+# Predictive modeling
+
+We used the R package randomForest [33] and genus frequency data from each subject’s first pretreatment fecal sample (available for 5 responders and 12 non-responders) to train a random forest with 25,001 trees to predict response or non-response. Trees were grown to the maximum size possible; by default, 12 genera (the square root of the number of input genera) were considered as candidates at each split, and splitter importance was calculated as mean decrease in the Gini impurity, described in the randomForest documentation [33]. Because of the small sample size, we did not differentiate between UC and CD patients for this analysis. To assess if this was reasonable, we calculated the proportion of the variance in weighted UniFrac distances between patients’ pretreatment samples explained by response/non-response status and IBD subtype using permutational ANOVA (PERMANOVA) as implemented in the adonis function in the R package vegan [29]. To account for unequal sample sizes of responders and non-responders in our random forest, we used weights equal to the inverse of the sample size of each class; the cost of misclassifying responders therefore equaled the cost of misclassifying non-responders. We also performed the analysis with equal class sizes (5 each of responders and non-responders) to ensure that our results were not the result of the class imbalance of our cohort. The receiver operating characteristic (ROC) curves and the area under the ROC curves (AUC) were generated using the ROCR package in R [34]. The significance of prediction accuracy and AUC was assessed by permuting the response/non-response status 10,000 times.
+
+# Results
+
+# Extensive characterization of gut inflammation and microbiome in a longitudinal cohort of children with IBD
+
+Twenty-nine individuals were included in the longitudinal analysis, representing four groups: patients with CD (n = 15), patients with UC (n = 4), unaffected controls with a first-degree genetic relationship to an affected individual (family members, n = 6), and unaffected controls with no genetic relationship to any affected individual included in this study (unrelated, n = 4). A more detailed summary of number of microbiome measures, calprotectin values, and PCDAI time points by case/control group is provided in Additional file 2: Table S1. Figure 1 shows a comprehensive visualization of calprotectin measures for all patient and control time points used in all analyses. GEE comparison of familial and unrelated controls showed no significant differences at baseline and no differences in average fecal calprotectin or alpha diversity between the two groups. However, on average unrelated controls had a higher dysbiosis index than related controls (Additional file 2: Table S2). These groups were pooled into one group of controls for all subsequent analyses, so our results were not inflated by the lower dysbiosis index apparent in related controls.
+
+# Subjects with IBD have increased markers of inflammation and dysbiosis compared to controls
+
+We first tested general differences in inflammation, microbiome diversity, and microbial dysbiosis between IBD cases and controls using our weighted GEE approach to properly control for correlations within individuals. The significance of these coefficients was assessed via Wald tests. Additional file 2: Table S3 summarizes beta and p value information for comparisons of baseline values (including time since first sample as a covariate) and overall averages. Figure 2 shows calprotectin, alpha diversity, and dysbiosis for all time points for controls, CD patients, and UC patients (Additional file 2: Figure S1 shows all time points summarized in box-and-whisker plots; Additional file 2: Figure S2 shows controls, responders, and non-responders over time with a different color for each individual).
+
+For controls, baseline calprotectin was 42 ± 99 μg/g. Patients with CD had fecal calprotectin values 313 μg/g.
+
+# Table 1 A summary of relevant characteristics for study participants
+
+|Cases|Count (%)|
+|---|---|
+|Diagnosis|Crohn's disease 15 (78.9 %)|
+| |Ulcerative colitis 4 (21.1 %)|
+|Treatment outcome|Response/mucosal healing 6 (31.6 %)|
+| |Non-response without surgery 8 (42.1 %)|
+| |Non-response with surgery 5 (26.3 %)|
+|Time points|Microbiome 6 (1–12) Median|
+| |Calprotectin 6 (1–12) (range)|
+| |PCDAI 7 (3–13)|
+|Controls|Count (%)|
+|Relatedness|Familial 6 (60 %)|
+| |Unrelated 4 (40 %)|
+|Time points|Microbiome 5 (1-8) Median|
+| |Calprotectin 6.5 (1–9) (range)|
+| |PCDAI NA|

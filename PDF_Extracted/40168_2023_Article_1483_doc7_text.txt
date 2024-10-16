@@ -1,0 +1,36 @@
+# Armstrong et al. Microbiome
+
+# (2023) 11:39
+
+# Page 8 of 15
+
+# A)
+
+|Qu6|Mtv-1|Mtv-13|S5H3|
+|---|---|---|---|
+|Qu|Mtv-9|S1L4| |
+|Qu|Mtv-9|S1H4| |
+|Q2|Mtv-9|S1L2| |
+| |Mtv-9|S5L2| |
+|QN6| |Mtv-9|S5L3|
+| | |Mtv-9|SSH2|
+| | |Mtv-9|SSH4|
+| | |Mtv-9|SSL7|
+| | |Mtv-9|SSL9|
+|002| |Mtv-9|SSL6|
+| | |Mtv-9|S1H1|
+
+# B)
+
+|Spleen|Colon|
+|---|---|
+|IL1O Spleen|IL1O colon|
+|SvEv Spleen|SvEv colon|
+|1|1|
+|038| |
+
+# Fig. 2
+
+MMTV superantigen and cognate TCR-Vβ differences in IL-10 − / − vs. SvEv WT colon. A Phylogram of sag clones showing a predominance TRVBS TRVB12 (92%) of mtv-9 that activates TCR-Vβ5 and TCR-Vβ12 (phylogenetic tree made by MacVector 18.5: neighbor joining; Best Tree; tie breaking = random; distance: uncorrected (“p”); gaps distributed proportionally). B TCR-Vβ5 and TCR-Vβ12 subset distribution of read count assessed by Illumina sequencing in spleen and colon showed no significant differences between IL-10 − / − vs. SvEv in the spleen, whereas IL-10 − / − colon had more than twofold % increase in TCR-Vβ5 and TCR-Vβ12 (mean ± SEM, **p = 0.006, multiple unpaired t-test, Benjamini, Kreiger, and Yekutieli two-stage setup).
+
+levels of TNFα, KC GRO, and IL-6 in colon tissue lysates effect of cART treatment on the gut microbiome of compared to placebo (p < 0.05, Fig. 5). IL-10−/− mice. As seen in Fig. 6, cART treatment induced changes in the microbial composition in the IL-10−/− mice. For example, an increased abundance in Absiella inocuum, Absiella, and Blautia was seen in the IL-10−/− mice treated with cART versus placebo and a decreased abundance of Lactobacillus johnsonii, Lactobacillus taiwanensis, and Staphylococcus xylosus in IL-10−/− mice.

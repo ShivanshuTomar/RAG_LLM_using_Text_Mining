@@ -1,0 +1,72 @@
+# NATURE COMMUNICATIONS | DOI: 10.1038/s41467-018-05357-4
+
+# ARTICLE
+
+# a [L] Replication, recombination and repair
+
+|COG ID|Description|
+|---|---|
+|COG0551|ssDNA-binding Zn-finger and Zn-ribbon domains of topoisomerase 1|
+|COG2189|Adenine specific DNA methylase Mod|
+|COG0249|DNA mismatch repair ATPase MutS|
+|COG0749|DNA polymerase I –3'–5' exonuclease and polymerase domains|
+|COG1200|RecG-like helicase|
+|COG0358|DNA primase|
+|COG1204|Replicative superfamily II helicase|
+|COG1573|Uracil-DNA glycosylase|
+
+# [V] Defense mechanisms
+
+|COG ID|Description|
+|---|---|
+|COG0386|Glutathione peroxidase|
+|COG1203|CRISPR/Cas system-associated endonuclease/helicase Cas3|
+|COG3513|CRISPR/Cas system type II associated protein|
+|COG1598|Predicted nuclease of the RNAse H fold, HicB family|
+|COG1403|5-methylcytosine-specific restriction endonuclease McrA|
+
+# [X] Mobilome: prophages, transposons
+
+|COG ID|Description|
+|---|---|
+|COG3316|Transposase (or an inactivated derivative)|
+|COG3636|DNA-binding prophage protein|
+|COG5412|Phage-related protein|
+|COG3385|IS4 transposase|
+
+# [M] Cell wall/membrane/envelope biogenesis
+
+|COG ID|Description|
+|---|---|
+|COG0795|Lipopolysaccharide export LptBFGC system, permease protein LptF|
+|COG0769|UDP-N-acetylmuramyl tripeptide synthase|
+|COG4238|Outer membrane murein-binding lipoprotein Lpp|
+|COG2327|Polysaccharide pyruvyl transferase family protein WcaK|
+|COG1442|Lipopolysaccharide biosynthesis protein, LPS:glycosyltransferase|
+
+# [E] Amino acid transport and metabolism
+
+|COG ID|Description|
+|---|---|
+|COG3681|L-cysteine desulfidase|
+|COG1448|Aspartate/tyrosine/aromatic aminotransferase|
+
+# Control
+
+|CD|UC|–2|–1|0|1|2|
+|---|---|---|---|---|---|---|
+|LFQ intensity (z-score)| | | | | | |
+
+# Fig. 3 Functional compositions of MLI microbiome in pediatric IBD patients.
+
+Categories are shown and the colors indicate the average LFQ intensity for each subgroup of samples. Each row corresponds to a COG with the COG id and name indicated. b, c LFQ intensity of COG category X (mobilome) and category S (unknown function) in MLI microbiome of IBD patients. For the box plot, the bottom and top of the box are the first and third quartiles, respectively. The middle line represents the sample median. Whiskers are drawn from the ends of the IQR to the furthest observations within the 1.5 times the IQR range. Outliers >1.5 times the IQR are indicated with circle. *p < 0.05, **p < 0.01, ***p < 0.001.
+
+# a Heatmap of differentially abundant COGs in IBD.
+
+Representative COG.
+
+At the COG category level, we found that mobilome and category S (function unknown) were significantly increased in IBD compared to controls (Fig. 3b, c), in particular the mobilome displayed significant increase in both CD and UC at all three intestinal regions. Four COGs belonging to mobilome were identified as differentially abundant in IBD microbiome compared to that of controls (Fig. 3a), among which 2 were transposase and the other 2 were phage-related proteins. Furthermore, we found that 2 COGs with functions relating to CRISPR/Cas system, an important prokaryotic immune system against foreign nucleic acids, such as phage genome sequences, were significantly increased in the microbiome of pediatric IBD patients (Fig. 3a).
+
+# Altered microbial sulfur and cysteine metabolism in IBD.
+
+Sulfate reducing bacteria and the production of hydrogen sulfide (H2S) in the gut are known to be increased in IBD patients, however, the pathways underlying the production of H2S in the microbiome of pediatric IBD patients remain largely unknown. Therefore, we investigated proteins involved in H2S production, including those for L-cysteine metabolism enzymes as L-cysteine can act as a substrate for H2S production. We found that L-cysteine desulfidase, an enzyme that catalyzes the production of H2S and ammonia from L-cysteine, was significantly increased in IBD at both the DeC and AsC (Fig. 3a). KEGG annotation identified 60 KOs corresponding to 912 proteins that belong to sulfur metabolism or cysteine/methionine metabolism pathways. The wilcoxon rank-sum test identified 41 proteins that were significantly different between either CD or UC and controls in at least two intestinal locations, among which there were 18 proteins that decreased and 23 that increased in IBD (Fig. 4a). Within these 41 proteins, 13 are directly involved in the synthesis of L-cysteine, including 8 O-acetylhomoserine (thiol)-lyase proteins (K01740).

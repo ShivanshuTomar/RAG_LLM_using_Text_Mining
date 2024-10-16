@@ -1,0 +1,75 @@
+# Cochrane Library
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# NCT03804931 (Continued)
+
+# Exclusion criteria
+
+- Antibiotic use within 7 days
+- High risk of toxic megacolon
+- Colon cancer or neoplasia
+- Other severe diseases (cardiovascular, respiratory, gastrointestinal, kidney)
+
+# Interventions
+
+# Experimental arm
+
+- 200 mL prepared fecal suspension from healthy donors, injected into intestine; 2 treatments + mesalazine or prednisone (or both)
+
+# Control arm
+
+- Saline infusion + mesalazine or prednisone (or both)
+
+# Outcomes
+
+# Primary outcomes
+
+- Clinical remission (Total Mayo score < 2 and no subscore > 1) at week 12
+- Clinical improvement (Total Mayo score decreased > 3) at week 12
+
+# Secondary outcomes
+
+- Change in intestinal microbiota composition after FMT vs original microbiota and donor microbiota at week 12
+
+# Starting date
+
+# Contact information
+
+# Notes
+
+# NCT03998488
+
+# Study name
+
+# Methods
+
+Single-center RCT conducted in the US
+
+# Participants
+
+# Inclusion criteria
+
+- People age ≥ 18 years with intact descending colon
+- Documented prior history of mild-to-moderate UC
+- Endoscopically confirmed active UC ≥ 15 cm at week 0 screening via colonoscopy (Total Mayo score 4–10 with Endoscopic subscore ≥ 1)
+- If on steroid or biologic therapy, stable dose for 4 weeks prior to screening, maintained throughout trial
+- Discontinuation of anti-rCDI antibiotics (e.g. vancomycin, fidaxomicin) 48 hours prior to FMT delivery
+
+# Exclusion criteria
+
+- Biopsy-confirmed CD
+- Severe UC (Total Mayo score > 10)
+- Clinical complications requiring emergent management, such as stricture, bowel obstruction, perforation, abscess, or a combination of these
+- History of FMT
+- PSC
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

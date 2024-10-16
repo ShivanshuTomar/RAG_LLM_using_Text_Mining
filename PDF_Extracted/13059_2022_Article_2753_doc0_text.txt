@@ -1,0 +1,29 @@
+# Population structure discovery in meta-analyzed microbial communities and inflammatory bowel disease using MMUPHin
+
+Siyuan Ma 1, Dmitry Shungin 2, Himel Mallick 2, Melanie Schirmer 2, Long H. Nguyen 3, Raivo Kolde 2, Eric Franzosa 1, Hera Vlamakis 2, Ramnik Xavier 2* and Curtis Huttenhower 1*
+
+*Correspondence:
+
+xavier@molbio.mgh.harvard.edu;
+
+chuttenh@hsph.harvard.edu
+
+1 Harvard Chan Microbiome in Public Health Center, Harvard T.H. Chan School of Public Health, Boston, MA, USA
+
+2 Broad Institute of MIT and Harvard, Cambridge, MA, USA
+
+Full list of author information is available at the end of the article
+
+# Abstract
+
+Microbiome studies of inflammatory bowel diseases (IBD) have achieved a scale for meta-analysis of dysbioses among populations. To enable microbial community meta-analyses generally, we develop MMUPHin for normalization, statistical meta-analysis, and population structure discovery using microbial taxonomic and functional profiles. Applying it to ten IBD cohorts, we identify consistent associations, including novel taxa such as Acinetobacter and Turicibacter, and additional exposure and interaction effects.
+
+A single gradient of dysbiosis severity is favored over discrete types to summarize IBD microbiome population structure. These results provide a benchmark for characterization of IBD and a framework for meta-analysis of any microbial communities.
+
+Keywords: Inflammatory bowel disease, Metagenomics, Dysbiosis, Meta-analysis, Batch effect
+
+# Background
+
+Meta-analysis for molecular epidemiology in large populations has seen great success in linking high-dimensional ‘omic features to complex health-related phenotypes. One example of this is in genome-wide association studies (GWAS [1]), where the appropriate study scale, achieved by rigorous integration of multiple cohorts, has both facilitated reproducible discoveries (in the form of disease-associated loci [2–4]) and addressed confounding due to unobserved population structure [5]. The inflammatory bowel diseases (IBD) represent a particular success story for GWAS meta-analysis [3, 4], and environmental and microbial contributors complementing the condition’s complex genetic architecture have been detailed by many individual studies [6–8]. However, in the absence of methods appropriate for large-scale microbial meta-analysis, the extent to which these findings reproduce across studies, or can be extended by increased joint.
+
+© The Author(s) 2022. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.

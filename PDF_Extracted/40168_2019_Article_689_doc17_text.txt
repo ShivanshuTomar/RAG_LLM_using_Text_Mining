@@ -1,0 +1,54 @@
+# Heinken et al. Microbiome
+
+# (2019) 7:75
+
+# References
+
+1. Osterman A, Overbeek R. Missing genes in metabolic pathways: a comparative genomics approach. Curr Opin Chem Biol. 2003;7:238–51.
+2. Henry CS, DeJongh M, Best AA, Frybarger PM, Linsay B, Stevens RL. High-throughput generation, optimization and analysis of genome-scale metabolic models. Nat Biotechnol. 2010;28:977–82.
+3. Magnusdottir S, Heinken A, Fleming RMT, Thiele I. Reply to “Challenges in modeling the human gut microbiome”. Nat Biotechnol. 2018;36:686–91.
+4. Baldini F, Heinken A, Heirendt L, Magnusdottir S, Fleming RMT, Thiele I. The Microbiome Modeling Toolbox: from microbial interactions to personalized microbial communities. Bioinformatics. 2018.
+5. Heirendt L, Arreckx S, Pfau T, Mendoza SN, Richelle A, Heinken A, Haraldsdóttir HS, Wachowiak J, Keating SM, Vlasov V, et al. Creation and analysis of biochemical constraint-based models using the COBRA Toolbox v.3.0. Nat Protoc. 2019;14:639–702.
+6. Human Microbiome Project C. A framework for human microbiome research. Nature. 2012;486:215–21.
+7. Lewis JD, Chen EZ, Baldassano RN, Otley AR, Griffiths AM, Lee D, Bittinger K, Bailey A, Friedman ES, Hoffmann C, et al. Inflammation, antibiotics, and diet as environmental stressors of the gut microbiome in pediatric Crohn’s disease. Cell Host Microbe. 2015;18:489–500.
+8. Wu GD, Chen J, Hoffmann C, Bittinger K, Chen YY, Keilbaugh SA, Bewtra M, Knights D, Walters WA, Knight R, et al. Linking long-term dietary patterns with gut microbial enterotypes. Science. 2011;334:105–8.
+9. Bauer E, Thiele I. From metagenomic data to personalized in silico microbiotas: predicting dietary supplements for Crohn’s disease. NPJ Syst Biol Appl. 2018;4:27.
+10. Joyce SA, Shanahan F, Hill C, Gahan CG. Bacterial bile salt hydrolase in host metabolism: Potential for influencing gastrointestinal microbe-host crosstalk. Gut Microbes. 2014;5:669–74.
+11. Ni J, Shen TD, Chen EZ, Bittinger K, Bailey A, Roggiani M, Sirota-Madi A, Friedman ES, Chau L, Lin A, et al. A role for bacterial urease in gut dysbiosis and Crohn’s disease. Sci Transl Med. 2017;9(416).
+12. Louis P, Flint HJ. Formation of propionate and butyrate by the human colonic microbiota. Environ Microbiol. 2017;19:29–41.
+13. Sokol H, Pigneur B, Watterlot L, Lakhdari O, Bermudez-Humaran LG, Gratadoux JJ, Blugeon S, Bridonneau C, Furet JP, Corthier G, et al. Faecalibacterium prausnitzii is an anti-inflammatory commensal bacterium identified by gut microbiota analysis of Crohn disease patients. Proc Natl Acad Sci U S A. 2008;105:16731–6.
+14. Magnusdottir S, Ravcheev D, de Crecy-Lagard V, Thiele I. Systematic genome assessment of B-vitamin biosynthesis suggests co-operation among gut microbes. Front Genet. 2015;6:148.
+15. Ravcheev DA, Thiele I. Comparative genomic analysis of the human gut microbiome reveals a broad distribution of metabolic pathways for the degradation of host-synthetized mucin glycans and utilization of mucin-derived monosaccharides. Front Genet. 2017;8:111.
+16. Turroni F, Ozcan E, Milani C, Mancabelli L, Viappiani A, van Sinderen D, Sela DA, Ventura M. Glycan cross-feeding activities between bifidobacteria under in vitro conditions. Front Microbiol. 2015;6:1030.
+17. Braune A, Blaut M. Bacterial species involved in the conversion of dietary flavonoids in the human gut. Gut Microbes. 2016;7:216–34.
+18. Ravcheev DA, Thiele I. Systematic genomic analysis reveals the complementary aerobic and anaerobic respiration capacities of the human gut microbiota. Front Microbiol. 2014;5:674.
+19. Jacobs JP, Goudarzi M, Singh N, Tong M, McHardy IH, Ruegger P, Asadourian M, Moon BH, Ayson A, Borneman J, et al. A disease-associated microbial and metabolomics state in relatives of pediatric inflammatory bowel disease patients. Cell Mol Gastroenterol Hepatol. 2016;2:750–66.
+20. Labbe A, Ganopolsky JG, Martoni CJ, Prakash S, Jones ML. Bacterial bile metabolising gene abundance in Crohn’s, ulcerative colitis and type 2 diabetes metagenomes. PLoS One. 2014;9:e115175.
+21. Li M, Wang B, Zhang M, Rantalainen M, Wang S, Zhou H, Zhang Y, Shen J, Pang X, Zhang M, et al. Symbiotic gut microbes modulate human metabolic phenotypes. Proc Natl Acad Sci U S A. 2008;105:2117–22.
+22. Opdam S, Richelle A, Kellman B, Li S, Zielinski DC, Lewis NE. A systematic evaluation of methods for tailoring genome-scale metabolic models. Cell Syst. 2017;4:318–329 e316.
+23. Aurich MK, Fleming RM, Thiele I. MetaboTools: a comprehensive toolbox for analysis of genome-scale metabolic models. Front Physiol. 2016;7:327.
+24. Verberkmoes NC, Russell AL, Shah M, Godzik A, Rosenquist M, Halfvarson J, Lefsrud MG, Apajalahti J, Tysk C, Hettich RL, Jansson JK. Shotgun metaproteomics of the human distal gut microbiota. ISME J. 2009;3:179–89.
+25. Brunk E, Sahoo S, Zielinski DC, Altunkaya A, Drager A, Mih N, Gatto F, Nilsson A, Preciat Gonzalez GA, Aurich MK, et al. Recon3D enables a three-dimensional view of gene variation in human metabolism. Nat Biotechnol. 2018;36(3):272–81.
+26. Henson MA, Hanly TJ. Dynamic flux balance analysis for synthetic microbial communities. IET Syst Biol. 2014;8:214–29.
+27. Covert MW, Xiao N, Chen TJ, Karr JR. Integrating metabolic, transcriptional regulatory and signal transduction models in Escherichia coli. Bioinformatics. 2008;24:2044–50.
+28. Mahadevan R, Edwards JS, Doyle FJ 3rd. Dynamic flux balance analysis of diauxic growth in Escherichia coli. Biophys J. 2002;83:1331–40.
+29. Bauer E, Zimmermann J, Baldini F, Thiele I, Kaleta C. BacArena: individual-based metabolic modeling of heterogeneous microbes in complex communities. PLoS Comput Biol. 2017;13:e1005544.
+30. Chan SHJ, Simons MN, Maranas CD. SteadyCom: predicting microbial abundances while ensuring community stability. PLoS Comput Biol. 2017;13:e1005539.
+31. Uhr GT, Dohnalová L, Thaiss CA. The dimension of time in host-microbiome interactions. mSystems. 2019;4(1).
+32. Thaiss CA, Zeevi D, Levy M, Zilberman-Schapira G, Suez J, Tengeler AC, Abramson L, Katz MN, Korem T, Zmora N, et al. Transkingdom control of microbiota diurnal oscillations promotes metabolic homeostasis. Cell. 2014;159:514–29.
+33. Sun L, Xie C, Wang G, Wu Y, Wu Q, Wang X, Liu J, Deng Y, Xia J, Chen B, et al. Gut microbiota and intestinal FXR mediate the clinical benefits of metformin. Nat Med. 2018;24:1919–29.
+34. Thiele I, Clancy CM, Heinken A, Fleming RMT. Quantitative systems pharmacology and the personalized drug–microbiota–diet axis. Current Opinion in Systems Biology. 2017;4:43–52.
+35. Dehal PS, Joachimiak MP, Price MN, Bates JT, Baumohl JK, Chivian D, Friedland GD, Huang KH, Keller K, Novichkov PS, et al. MicrobesOnline: an integrated portal for comparative and functional genomics. Nucleic Acids Res. 2010;38:D396–400.
+36. Edgar RC. MUSCLE: a multiple sequence alignment method with reduced time and space complexity. BMC Bioinformatics. 2004;5:113.
+37. Edgar RC. MUSCLE: multiple sequence alignment with high accuracy and high throughput. Nucleic Acids Research. 2004;32:1792–7.
+38. Guindon S, Dufayard JF, Lefort V, Anisimova M, Hordijk W, Gascuel O. New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0. Syst Biol. 2010;59:307–21.
+39. Huson DH, Richter DC, Rausch C, Dezulian T, Franz M, Rupp R. Dendroscope: an interactive viewer for large phylogenetic trees. BMC Bioinformatics. 2007;8:460.
+40. Ravcheev DA: Bile acid subsystem at PubSEED. http://pubseed.theseed.org//SubsysEditor.cgi?page=ShowSpreadsheet&subsystem=Bile_acids_transformations_HGM. 2017.
+41. Kanehisa M, Goto S, Sato Y, Furumichi M, Tanabe M. KEGG for integration and interpretation of large-scale molecular data sets. Nucleic Acids Res. 2012;40:D109–14.
+42. Ridlon JM, Kang DJ, Hylemon PB. Bile salt biotransformations by human intestinal bacteria. J Lipid Res. 2006;47:241–59.
+43. Hylemon PB, Melone PD, Franklund CV, Lund E, Bjorkhem I. Mechanism of intestinal 7 alpha-dehydroxylation of cholic acid: evidence that allo-deoxycholic acid is an inducible side-product. J Lipid Res. 1991;32:89–96.
+44. Lye HS, Rusul G, Liong MT. Removal of cholesterol by lactobacilli via incorporation and conversion to coprostanol. J Dairy Sci. 2010;93:1383–92.
+45. Thorleifsson SG, Thiele I. rBioNet: a COBRA toolbox extension for reconstructing high-quality biochemical networks. Bioinformatics. 2011;27:2009–10.
+46. Arkin AP, Cottingham RW, Henry CS, Harris NL, Stevens RL, Maslov S, Dehal P, Ware D, Perez F, Canon S, et al. KBase: The United States Department of Energy Systems Biology Knowledgebase. Nat Biotechnol. 2018;36:566–9.
+47. Heirendt L, Thiele I, Fleming RMT. DistributedFBA.jl: high-level, high-performance flux balance analysis in Julia. Bioinformatics. 2017;33:1421–3.
+48. Team RC: R: A language and environment for statistical computing. https://www.R-project.org/. R Foundation for Statistical Computing, Vienna, Austria 2016.

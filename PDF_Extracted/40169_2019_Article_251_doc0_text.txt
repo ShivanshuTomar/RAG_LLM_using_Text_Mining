@@ -1,0 +1,25 @@
+# Mesenchymal stem cell–gut microbiota interaction in the repair of inflammatory bowel disease: an enhanced therapeutic effect
+
+# Ocansey et al. Clin Trans Med (2019) 8:31
+
+# Abstract
+
+Background: Several investigations affirm that, patients with inflammatory bowel disease (IBD) exhibit dysbiosis characterized by restricted biodiversity and imbalanced bacterial composition intertwined with immune dysregulation. The interaction between stem cells and gut microbiota is a novel and highly promising field that could add up to a better understanding of the gut physiology, as well as therapeutic improvement towards diseases like IBD. Through direct contact or release of products and/or metabolites, gut bacteria regulate gut homeostasis, damage repair, regeneration and differentiation of stem cells. In the same way, mesenchymal stem cells (MSCs) produce similar effects including restoration of gut–microbiome composition.
+
+Body: We reviewed the anti-inflammatory, antimicrobial, pathogenic bacterial clearance, proliferation and tissue remodeling effects of mesenchymal stem cells (MSCs) and fecal microbiota transplantation (FMT) as separate transplants in IBD, and the outcome of the interaction between MSCs and gut microbiota.
+
+Conclusion: The two therapies share several points of connection in therapeutics with enhanced functionalities in their interaction with each other. Focused investigations of MSC–gut bacteria interactions could lead to a novel discovery in therapeutics. We also anticipate an improved clinical remission rate in a combined FMT–MSC transplantation approach in IBD than the current single FMT or MSC approach.
+
+Keywords: Mesenchymal stem cell therapy, Fecal microbiota transplant, Inflammatory bowel disease, MSC–gut bacteria interaction, Combined therapy
+
+# Background
+
+Microbiome is known to partake in a wide range of important roles such as hematopoiesis [1], immune system modulation and development [2], neurologic signaling [3], host metabolism [4], and remodeling of bone mass [5] in the mammalian tissue. Characterized by chronic and relapsing intestinal mucosa inflammation, inflammatory bowel disease (IBD) is generally defined as either Crohn’s disease (CD) or ulcerative colitis (UC) with related causes being genetic, gut (microbial and immune changes), environmental and lifestyle factors. The participation of gut–microbiota in the pathophysiology of IBD has lately been highlighted with the outcome suggesting a crucial function of the gut–microbiota in the intestinal inflammation and even in colorectal cancer [6]. Even though it has not clearly been determined how the dysbiosis observed participates in intestinal inflammation, it is however recognized that several of the documented IBD susceptibility genes are linked with recognizing and
+
+†*Correspondence: maofei2003@ujs.edu.cn
+
+Dickson Kofi Wiredu Ocansey and Li Wang contributed equally to this work Key Laboratory of Medical Science and Laboratory Medicine of Jiangsu Province, School of Medicine, Jiangsu University, 301 Xuefu Road, Zhenjiang 212013, Jiangsu, People’s Republic of China
+
+Full list of author information is available at the end of the article
+
+© The Author(s) 2019. This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.

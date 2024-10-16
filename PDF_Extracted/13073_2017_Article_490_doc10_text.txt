@@ -1,0 +1,94 @@
+# Hall et al. Genome Medicine (2017) 9:103
+
+# Additional files
+
+- Additional file 1: Table S1. Clinical metadata for samples collected at Massachusetts General Hospital. (XLSX 14 kb)
+- Additional file 2: Table S2. List of genera binned by aerotolerance. (XLSX 9 kb)
+- Additional file 3: Table S3. Differentially abundant species in IBD. Differentially abundant species in IBD patients compared to controls that are significant in both the LSS and Lewis et al. cohorts (q < 0.20, using MaAsLin). (XLSX 14 kb)
+- Additional file 4: Table S4. Differentially abundant species during R. gnavus blooms. (XLSX 13 kb)
+- Additional file 5: Table S5. Isolation sources for all currently available R. gnavus genomes. Isolate genomes sequenced and assembled in this manuscript are indicated with an asterisk. (XLSX 9 kb)
+- Additional file 6: Figure S1. Pangenome analysis on two distinct clades of R. gnavus. Pangenome analysis of R. gnavus using PanPhlAn showing the presence or absence of every gene in the R. gnavus pangenome. The x-axis shows metagenomic samples as well as R. gnavus reference genomes; the y-axis shows gene clusters from the R. gnavus pangenome. Clustering the results reveals two clades of R. gnavus, which we call clade 1 and clade 2. Using metagenomic samples from LSS/Lewis/HMP cohorts, we found that R. gnavus strains from all healthy adult controls and some IBD samples were functionally similar to R. gnavus clade 1. On the other hand, only IBD samples had R. gnavus strains which were functionally similar to R. gnavus clade 2. The red transparent rectangle contains genes enriched in R. gnavus group IBD. The green transparent rectangle contains genes many genes missing from R. gnavus group IBD. (PDF 2396 kb)
+- Additional file 7: Table S6. Gene annotations for the selected R. gnavus IBD-specific genes mentioned in the main text. (XLSX 9 kb)
+- Additional file 8: Table S7. Gene annotations of all 199 IBD-specific genes. (XLSX 15 kb)
+
+# Consent for publication
+
+Not applicable.
+
+# Competing interests
+
+DG is employed by the Janssen Human Microbiome Institute. CH is on the Scientific Advisory Board for Seres Therapeutics. The remaining authors declare that they have no competing interests.
+
+# Publisher’s Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+# Author details
+
+1. Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA.
+
+2. Center for Computational and Integrative Biology, Massachusetts General Hospital and Harvard Medical School, Boston, MA 02114, USA.
+
+3. Gastrointestinal Unit and Center for the Study of Inflammatory Bowel Disease, Massachusetts General Hospital and Harvard Medical School, Boston, MA 02114, USA.
+
+4. Center for Microbiome Informatics and Therapeutics, Massachusetts Institute of Technology, Cambridge, MA 02139, USA.
+
+5. MIT Department of Biological Engineering, Massachusetts Institute of Technology, Cambridge, MA 02142, USA.
+
+6. Emory University School of Medicine, Emory University, Atlanta, GA 30322, USA.
+
+7. MIT Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02142, USA.
+
+8. Department of Systems Biology, Harvard Medical School, Boston, MA 02114, USA.
+
+9. Department of Biostatistics, Harvard School of Public Health, Boston, MA 02115, USA.
+
+10. Current address: Vatche and Tamar Manoukian Division of Digestive Disease, David Geffen School of Medicine at UCLA, Los Angeles, CA 90095, USA.
+
+11. Current address: Janssen Human Microbiome Institute, Janssen Research & Development, Cambridge, MA 02142, USA.
+
+# Received
+
+23 June 2017
+
+# Accepted
+
+6 November 2017
+
+# Published online
+
+28 November 20[7]
+
+# Acknowledgements
+
+We thank Tiffany Poon for help with data generation and sample coordination. We also thank Holly Sturgeon and Elizabeth Andrews for PRISM management. We thank Henry J. Haiser for providing strains of R. gnavus.
+
+# Funding
+
+A.B.H. is a Merck Fellow of the Helen Hay Whitney Foundation. M.Y. is supported by NIH NIDDK 1K99DK113224; Klarman Family Foundation; Charles A. King Trust Postdoctoral Fellowship. R.J.X. and C.H. are supported by NIH grant U54DE023798, and the Crohn’s and Colitis Foundation of America. C.H. is supported by NSF Grant MCB-1453942. R.J.X. is supported by NIH grants R01DK92405 and P30DK43351.
+
+# Availability of data and materials
+
+The datasets generated during the current study are available from the NCBI SRA under the BioProject PRJNA385949. Isolate genomes are available from the NCBI under the BioProject PRJNA388337.
+
+# Authors’ contributions
+
+ABH and MY performed all analyses. ABH, MY, HV, RJX, and CH wrote the manuscript. XJ, TV, and DG contributed bioinformatic analysis. AG, TA, and NF performed microbiology experiments. GL and PB sequenced R. gnavus genomes. JS, RW, MC, ANA, and JG enrolled the MGH subjects. SK and MB enrolled the Emory subjects. RJX and CH conceived the study. ABH, MY, DG, JS, HV, ESL, RJX, and CH led method and research development. ESL, RJX, and CH served as principal investigators. All authors read and approved the final manuscript.
+
+# Ethics approval and consent to participate
+
+The design of the study was approved by the Institutional Review Board of Massachusetts General Hospital (protocol number 2004P001067). Written informed consent was obtained for participation in the study, and the study design complies with the Declaration of Helsinki.
+
+# References
+
+1. Khor B, Gardet A, Xavier RJ. Genetics and pathogenesis of inflammatory bowel disease. Nature. 2011;474:307–17.
+2. Balmus IM, Ciobica A, Trifan A, Stanciu C. The implications of oxidative stress and antioxidant therapies in inflammatory bowel disease: clinical aspects and animal models. Saudi J Gastroenterol. 2016;22:3–17.
+3. Poulsen NA, Andersen V, Møller JC, Møller HS, Jessen F, Purup S, et al. Comparative analysis of inflamed and non-inflamed colon biopsies reveals strong proteomic inflammation profile in patients with ulcerative colitis. BMC Gastroenterol. 2012;12:76.
+4. Seril DN, Liao J, Yang G-Y, Yang CS. Oxidative stress and ulcerative colitis-associated carcinogenesis: studies in humans and animal models. Carcinogenesis. 2003;24:353–62.
+5. Morgan XC, Tickle TL, Sokol H, Gevers D, Devaney KL, Ward DV, et al. Dysfunction of the intestinal microbiome in inflammatory bowel disease and treatment. Genome Biol. 2012;13:R79.
+6. Scholz M, Ward DV, Pasolli E, Tolio T, Zolfo M, Asnicar F, et al. Strain-level microbial epidemiology and population genomics from shotgun metagenomics. Nat Methods. 2016;13:435–8.
+7. Truong DT, Tett A, Pasolli E, Huttenhower C, Segata N. Microbial strain-level population structure and genetic diversity from metagenomes. Genome Res. 2017;27:626–38.
+8. Geva-Zatorsky N, Sefik E, Kua L, Pasman L, Tan TG, Ortiz-Lopez A, et al. Mining the human gut microbiota for immunomodulatory organisms. Cell. 2017;168:928–43. e11.
+9. Martinez-Medina M, Garcia-Gil LJ. Escherichia coli in chronic inflammatory bowel diseases: An update on adherent invasive Escherichia coli pathogenicity. World J Gastrointest Pathophysiol. 2014;5:213–27.
+10. Yassour M, Vatanen T, Siljander H, Hämäläinen A-M, Härkönen T, Ryhänen SJ, et al. Natural history of the infant gut microbiome and impact of antibiotic treatment on bacterial strain diversity and stability. Sci Transl Med. 2016;8:343ra81.
+11. Faith JJ, Guruge JL, Charbonneau M, Subramanian S, Seedorf H, Goodman AL, et al. The long-term stability of the human gut microbiota. Science. 2013;341:1237439.

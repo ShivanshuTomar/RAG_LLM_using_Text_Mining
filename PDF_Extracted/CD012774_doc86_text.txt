@@ -1,0 +1,79 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# NCT04328922
+
+# Study name
+
+Fecal microbial transplantation and vedolizumab treatment of Crohn's disease
+
+# Methods
+
+RCT conducted in Israel
+
+# Participants
+
+# Inclusion criteria
+
+- Mild-to-moderately active disease determined by the HBI of 5 to ≤ 15
+- Eligibility to commence treatment with vedolizumab (screened for tuberculosis and hepatitis B, without active infection or abscess)
+
+# Exclusion criteria
+
+- CD in remission (HBI < 5) or with severe disease (HBI > 16)
+- Presence of stoma
+- Hospitalization
+- Any ongoing or planned antibiotic therapy
+- Active intestinal infection – positive stool culture or Clostridioides difficile infection
+- Severe disease (e.g. malignant disease; hepatic failure; renal failure; cardiovascular, metabolic, neurologic disease)
+- Pregnancy or lactation
+- Severe food allergies
+- Inability to sign informed consent or complete study protocol
+
+# Interventions
+
+# Experimental arm
+
+- Capsules of fecal matter solution (feces from healthy donor, glycerol, and saline solution)
+
+# Control arm
+
+- Placebo capsules of glycerol and saline
+
+# Outcomes
+
+# Primary outcomes
+
+- Safety of FMT before vedolizumab treatment in participants with CD (measured by disease exacerbations, hospitalizations, and surgery rate in treatment vs placebo group) at weeks 14 and 46
+- Efficacy of FMT before vedolizumab treatment in participants with CD that results in higher remission rate at weeks 14 and 46
+
+# Secondary outcomes
+
+- Efficacy of FMT before vedolizumab treatment in participants with CD that results in:
+- clinical response rate at weeks 14, 22, and 46
+- endoscopic response at week 46
+- endoscopic remission at week 46
+- histologic healing at week 46
+- biologic remission at weeks 14, 22, and 46
+- Safety of FMT before vedolizumab treatment in participants with CD that results in low adverse events rate at week 46
+
+# Starting date
+
+3 July 2018
+
+# Contact information
+
+Department of Gastroenterology, Tel Aviv Sourasky Medical Center, Tel Aviv, Israel
+
+# Notes
+
+Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

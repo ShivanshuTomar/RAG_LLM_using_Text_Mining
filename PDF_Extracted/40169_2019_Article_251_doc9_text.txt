@@ -1,0 +1,16 @@
+# Ocansey et al. Clin Trans Med (2019) 8:31
+
+# Table 3 The influence of gut–bacteria on the functions of MSCs
+
+|Gut bacteria|Source of MSC|Experimental condition|Pathways/secretomes involved|Outcome of interaction|References|
+|---|---|---|---|---|---|
+|Specific-pathogen-free (SPF) gut microbiota|Bone marrow|DSS-induced colitis|Cell metabolic, HIF-1/inflammatory signaling, and neurodegenerative pathways|Altered MSC differentiation potential|[67]|
+|Lactobacillus acidophilus|Canine adipose|In vitro|Increased transcription of key immunomodulatory genes, like COX2, IL6 and IL8|Enhanced immunoregulatory function No induction of MSC death, degeneration or diminished proliferation Significantly increased PGE2 No effect on MSC migration|[70]|
+|Salmonella typhi|Canine adipose|In vitro|Increased transcription of key immunomodulatory genes like COX2, IL6 and IL8|No induction of antigen-presenting phenotype Increased capacity of MSCs to inhibit mitogen-induced T-cell proliferation Induction and expression of PPARγ, IL-6, IL8, HGF, COX2, CD54 and PGE2 Impeded MSC migration|[70]|
+|Restored composition and diversity of gut microbiota with Lactobacillus|Bone marrow|Chronic hypoxic rats|-|Restored defect of senescence, poor cell proliferation, cell cycle arrest and multi-lineage differentiation deficiency in MSCs Reduced d-galactose accumulation|[47]|
+|Lactobacillus rhamnosus GG|Lamina propria of the villus|Intestinal radioprotection in vitro|TLR2 and COX-2 dependent induction|Lactobacillus rhamnosus GG produced LTA, which then primed the epithelial stem cell niche to protect epithelial stem cells by activating macrophages and PGE2 secreting MSCs|[76]|
+|Helicobacter pylori|Bone marrow|GIT infection by H. pylori|Over-expression of TNFα and CCL2|Stimulated migration of MSC TNFα leads to activation of NF-κB-dependent pathway|[77]|
+
+This presents a sum-up of documented impacts of gut microbiome including some pathogenic bacteria on the functions of MSCs. In each demonstration, certain functions of MSCs were mostly improved with no distortion to the inherent properties.
+
+PPARγ peroxisome proliferator activator receptor gamma, IL interleukin, HGF hepatocyte growth factor, COX2 cyclooxygenase 2, PGE2 prostaglandin 2, NF-κB Nuclear Factor-kappa B, TLR2 toll-like receptor 2, LTA lipoteichoic acid, CCL2 C–C motive Chemokine ligand 2, TNFα tumor necrosis factor α

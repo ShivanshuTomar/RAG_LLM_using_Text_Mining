@@ -1,0 +1,43 @@
+# Anthamatten et al. Microbiome (2024) 12:186
+
+# Cultures for succinate consumption kinetics
+
+The strains to be tested were pre-cultured in YCFA medium supplemented with 80mM of succinate. To standardize the starting cell densities, we quantified the cell concentrations of the pre-cultures by flow cytometry using live/dead staining. A double staining assay with the two nucleic acid dyes SYBR Green (SG) and propidium iodide (PI) was used to differentiate between cells with intact (viable) and damaged (dead) cytoplasmic membranes7 [51]. We aimed for a starting cell density of 1 × 106 cells/mL; if necessary, pre-cultures were diluted accordingly in anaerobic dilution solution.
+
+Cultures were performed in 8 mL of YCFA medium supplemented with 80 mM of succinate. We selected sampling times for the different strains based on preliminary growth test in order to target the time window where most of the succinate consumption occurs: 1 h intervals during 25 h for Phascolarctobacterium, 2 h intervals during 52 h for Flavonifractor, and 4 h intervals during 100 h for Dialister. Separate cultures were inoculated for each time point to avoid effects from repeated sampling and full duplicates using separate pre-cultures.
+
+# Estimation of the per capita succinate consumption rate
+
+We modeled succinate uptake following Monod,
+
+dA/dt = -μ K A + A x, (1)
+
+dx/dt = -φ dt dA, (2)
+
+where A(t) is the concentration of substrate and x(t) is the microbial density at time t. μ is the maximum per capita succinate uptake rate, and φ is the growth yield per unit succinate taken up.
+
+We then estimate the parameters μ, φ, and K using Bayesian Markov Chain Monte Carlo (MCMC) using Stan [52, 53]. For each sample of the parameters, we first numerically solve the system of ordinary differential Eqs. (1) and (2) with A(0) = A0 and x(0) = x0. We then compute the log-likelihood of the observed data using the following hierarchical model,
+
+X(t) ∼ N (x(t), sx),
+
+A(t) ∼ N (A(t), sA),
+
+where N signifies the normal distribution, with the parameters sampled from the following prior distributions unless otherwise specified,
+
+dx/dt = -φBdt - φAdt (5)
+
+We then estimated the parameters in an analogous MCMC approach as the simpler model, with the additional or modified priors,
+
+μA ∼ N (50, 10), μA > 0,
+
+μB ∼ N (100, 40), μB > 0,
+
+ln φB ∼ N (−2, 0.3),
+
+KB ∼ N (20, 3), KB > 0.
+
+Because the concentration of the substrate B is not observed, we cannot estimate the values of B0, which we set to B0 = 100 without loss of generality. This implies that the value of B and thus also μB, φB, and KB are in arbitrary units.
+
+# Other amplicon and shotgun metagenomic data
+
+For the American Gut Project24, we downloaded the sOTU tables and corresponding DNA sequences from figshare and performed a new taxonomic assignment with the GTDB r95 database and the RDP classifier from Dada2. For the PROTECT27 and UCC25 data, we downloaded the raw sequencing reads from NCBI PRJNA436359 and PRJNA414072 and inferred ASVs and performed taxonomic assignment using the

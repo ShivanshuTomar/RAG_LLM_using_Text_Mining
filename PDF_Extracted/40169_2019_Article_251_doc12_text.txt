@@ -1,0 +1,60 @@
+# Ocansey et al. Clin Trans Med (2019) 8:31
+
+of only the specific gut–bacteria responsible for eliciting desired effects in IBD treatment, would yield better outcome than the administration of the bulk fecal material. Moreover, more studies geared toward elucidating not only host–microbiome interactions but also cross-microbiome interactions are expected to improve FMT. Finally, for a prospective utility of an FMT–MSC combined therapy in IBD and other conditions, there is the need to further investigate the interaction between the components of these two therapies and clearly understand the mechanisms underlying the enhanced effects on each other. Considering the increasing interest on these two therapies and the highly promising outcome of MSC–gut microbiota communication in the few available documents, this field would soon attract more investigations and applications across many conditions with significant daily medical practice impact.
+
+# Conclusion
+
+The participation of gut–microbiota in the pathophysiology of IBD is well established. The gut–microbiota provide several health benefits to the host including pathogen protection, cellular regeneration and immune modulation. With the background that, alterations in the function and composition of the gut–microbiota, coupled with immune-dysregulation lead to chronic and relapsing intestinal mucosa inflammation (i.e. IBD), the application of MSCs and FMT as therapies in IBD have gain much interest. These two therapies seek to resolve the underlying dysbiosis and repair damages. Irrespective of the successes, increasing trend in interest and the significant clinical efficacy of both therapies in IBD, they are still confronted with several unresolved challenges. In the phase of these challenges, stem cells–gut microbiota interaction is fast emerging as a novel and highly promising field. In the communication between MSCs and gut microbiota, the functions of each component are improved; in that while MSC reinstates gut microbiota composition and diversity, FMT also potentiates MSC activities. This could lead to higher clinical remission rates when applied together in the IBD environment, hence the need to explore further.
+
+# Abbreviations
+
+IBD: inflammatory bowel disease; MSCs: mesenchymal stem cells; FMT: fecal microbiota transplantation; CD: Crohn’s disease; UC: ulcerative colitis; NK cells: natural killer cells; DAI: disease activity index; CXCL: Chemokine (C–X–C motif) ligand; MCP: monocyte chemoattractant protein; iNOS: inducible nitric oxide synthase; CCL: Chemokine (C–C motif) ligand; IL: interleukin; NOD2: nucleotide-binding oligomerization domain-containing protein 2; TLR: toll-like receptor; ERK: extracellular signal-regulated kinases; TNF: tumor necrosis factor; HBI: Harvey–Bradshaw index; CDAI: Crohn’s disease activity index; CDEIS: Crohn’s disease endoscopic index of severity; PPARγ: peroxisome proliferator activator receptor gamma; HGF: hepatocyte growth factor; COX2: cyclooxygenase 2; PGE: prostaglandin; NF-κB: nuclear factor-kappa B; LTA: lipoteichoic acid; TFF3: trefoil factor 3; DC: dendritic cell; Th cells: T-helper cells; Tregs: regulatory T-cells; IFN: interferon; ICAM: intercellular adhesion molecule; APC: antigen presenting cell.
+
+# Authors’ contributions
+
+DWKO: conception and design, collection and/or assembly of data, data analysis and interpretation, and manuscript writing. LW: conception and design, collection and assembly of data, data analysis and interpretation, and manuscript writing. JW: collection and/or assembly of data and data analysis. YY: provision of study material and interpretation. HQ: data analysis and interpretation. XZ: collection and/or assembly of data. WX: study design, data analysis and interpretation. FM: study design, data analysis and interpretation, manuscript writing, and final approval of manuscript. All authors read and approved the final manuscript.
+
+# Funding and acknowledgments
+
+This study was funded by the National Natural Science Foundation of China (Grant No. 81670502), the Scientific Research Foundation of Jiangsu University (Grant No. FCJJ2015023), Nanjing health science and technology development special fund project (Grant No. YKK18207), the opening project of the Key Laboratory of Embryo Molecular Biology, Ministry of Health of China, and Shanghai Key Laboratory of Embryo and Reproduction Engineering (Grant No. KF201601), Project Funded by the Priority Academic Program Development of Jiangsu Higher Education Institutions and Zhenjiang Key Laboratory of High Technology Research on Exosomes Foundation and Transformation Application (Grant No. SS2018003). All authors approved the final version of the article.
+
+# Availability of data and materials
+
+Not applicable.
+
+# Ethics approval and consent to participate
+
+Not applicable.
+
+# Consent for publication
+
+Not applicable.
+
+# Competing interests
+
+The authors declare that they have no competing interests.
+
+# Author details
+
+1 Key Laboratory of Medical Science and Laboratory Medicine of Jiangsu Province, School of Medicine, Jiangsu University, 301 Xuefu Road, Zhenjiang 212013, Jiangsu, People’s Republic of China. 2 Huai’an Maternity and Children Hospital, Huaian 223002, Jiangsu, People’s Republic of China. 3 Directorate of University Health Services, University of Cape Coast, Cape Coast, Ghana.
+
+# Received
+
+17 October 2019
+
+# Published online
+
+23 December 2019
+
+# Accepted
+
+17 December 2019
+
+# References
+
+1. Khosravi A, Yáñez A, Price JG et al (2014) Gut microbiota promote hematopoiesis to control bacterial infection. Cell Host Microbe 15:374–381. https://doi.org/10.1016/j.chom.2014.02.006
+2. Macpherson AJ, Harris NL (2004) Interactions between commensal intestinal bacteria and the immune system. Nat Rev Immunol 4:478–485. https://doi.org/10.1038/nri1373
+3. Yano JM, Yu K, Donaldson GP et al (2015) Indigenous bacteria from the gut microbiota regulate host serotonin biosynthesis. Cell 161:264–276. https://doi.org/10.1016/j.cell.2015.02.047
+4. Canfora EE, Jocken JW, Blaak EE (2015) Short-chain fatty acids in control of body weight and insulin sensitivity. Nat Rev Endocrinol 11:577–591. https://doi.org/10.1038/nrendo.2015.128
+5. Cho I, Yamanishi S, Cox L et al (2012) Antibiotics in early life alter the murine colonic microbiome and adiposity. Nature 488:621–626. https://doi.org/10.1038/nature11400
+6. Allen J, Sears CL (2019) Impact of the gut microbiome on the genome and epigenome of colon epithelial cells: contributions to colorectal

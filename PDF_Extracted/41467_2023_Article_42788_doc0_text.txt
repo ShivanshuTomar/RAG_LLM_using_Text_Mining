@@ -1,0 +1,29 @@
+# Microbiome and metabolome features in inflammatory bowel disease via multi-omics integration analyses across cohorts
+
+Received: 24 May 2023
+
+Accepted: 20 October 2023
+
+Published online: 06 November 2023
+
+doi: 10.1038/s41467-023-42788-0
+
+Lijun Ning1,6, Yi-Lu Zhou1,6, Han Sun2,6, Youwei Zhang1, Yuqing Yan,
+
+Zhenhua Wang1, Baoqin Xuan, Ying Zhao, Yanru Ma3,6, Chaoqin Shen4,6,1,
+
+Tianying Tong1, Xiaowen Huang, Muni Hu, Xiaoqiang Zhu, Jinmei Ding1,
+
+Yue Zhang1, Zhe Cui5, Jing-Yuan Fang1, Haoyan Chen1 & Jie Hong1
+
+# Abstract
+
+The perturbations of the gut microbiota and metabolites are closely associated with the progression of inflammatory bowel disease (IBD). However, inconsistent findings across studies impede a comprehensive understanding of their roles in IBD and their potential as reliable diagnostic biomarkers. To address this challenge, here we comprehensively analyze 9 metagenomic and 4 metabolomics cohorts of IBD from different populations. Through cross-cohort integrative analysis (CCIA), we identify a consistent characteristic of commensal gut microbiota. Especially, three bacteria, namely Asaccharobacter celatus, Gemmiger formicilis, and Erysipelatoclostridium ramosum, which are rarely reported in IBD. Metagenomic functional analysis reveals that essential gene of Two-component system pathway, linked to fecal calprotectin, are implicated in IBD. Metabolomics analysis shows 36 identified metabolites with significant differences, while the roles of these metabolites in IBD are still unknown. To further elucidate the relationship between gut microbiota and metabolites, we construct multi-omics biological correlation (MOBC) maps, which highlights gut microbial biotransformation deficiencies and significant alterations in aminoacyl-tRNA synthetases. Finally, we identify multi-omics biomarkers for IBD diagnosis, validated across multiple global cohorts (AUROC values ranging from 0.92 to 0.98). Our results offer valuable insights and a significant resource for developing mechanistic hypotheses on host-microbiome interactions in IBD.
+
+# Introduction
+
+Recent studies have revealed that alterations in gut microbiota and metabolites are linked to changes in human health and various diseases, including Inflammatory bowel disease (IBD)1,2. IBD is a chronic inflammatory condition that affects the gastrointestinal tract and includes two main forms: Crohn’s disease (CD) and ulcerative colitis (UC)3,4. Millions of people worldwide are affected by IBD, and its incidence is shifting from developed to developing countries, highlighting the importance of early diagnosis5–7. The utilization of fecal shotgun metagenomics provides a powerful means to identify disease-associated species and understand co-metabolism between the host and microbiota at a higher taxonomic resolution, while metabolomics reveals changes in gut metabolites as a messenger of information exchange between the gut microbiota and the host8,9. Combining metagenomics and metabolomics presents a promising approach for understanding the development of IBD and related gut environment alterations and offers a non-invasive biomarker for IBD.
+
+A full list of affiliations appears at the end of the paper. e-mail: haoyanchen@sjtu.edu.cn; jiehong97@sjtu.edu.cn
+
+Nature Communications | (2023)14:7135

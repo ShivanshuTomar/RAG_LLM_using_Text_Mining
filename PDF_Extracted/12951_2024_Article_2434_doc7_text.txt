@@ -1,0 +1,19 @@
+# Yang et al. Journal of Nanobiotechnology (2024) 22:166
+
+# Page 8 of 16
+
+|Group|YBNS@PDA-L|YBNS@PDA-H|Water|PBS|DSS|
+|---|---|---|---|---|---|
+|Sacrifice|2.590|2.590|1|1|2.596|
+
+# Fig. 4
+
+Protective effect of YBNs@PDA in a DSS-induced acute colitis mice model. (A) Experimental timeline for different treatments. (B) Daily bodyweight changes in each group. YBNs (10 mg/kg) or YBNs@PDA (L: low dose: 5 mg/kg; H: High dose: 10 mg/kg). (C) Macroscopic colon appearance of each group. (D) Colon length was determined in the indicated groups. (E) Representative hematoxylin and eosin (H&E) staining images, alcian blue images, MPO and Tunel images of colon tissue of each group, respectively. Data are presented as mean ± standard deviation from a representative experiment (n = 6). *P &lt; 0.05, **P &lt; 0.01, ***P &lt; 0.001, analysed by two-way ANOVA (B) and two-tailed unpaired Student’s t-test (D)
+
+caused by DSS in mice. The mucus layer acts as a protective barrier against gut microbial penetration of the intestinal mucosal tissue. Due to the erosion of the mucus layer, GI bacteria infiltrate the mucosal tissue of DSS-treated mice to a substantial degree, whereas YBNs@PDA-treated mice exhibited minimal bacterial translocation into the colonic mucosa. (Fig. 5B).
+
+The presence of pro-inflammatory cytokines TNF-α, IL-1β, and IL-6 is a significant predictor of the severity of colitis. They are closely correlated with the production and secretion CD4 + T cells that promote innate and adaptive defense against a variety of pathogens at mucosal tissues [40]. As illustrated in Fig. 5C, those pro-inflammatory factors were less likely to be secreted by colon tissue after YBNs@PDA treatment. The level of MCP-1, a potent activator of monocytes and macrophages, was also decreased after treated with YBNs@PDA. Taken together, the self-assembled YBNs and PDA provided effective protection against colitis in mice.
+
+# Gut microbiome modulation by YBNs@PDA
+
+Dysbiosis of gut microbiota, which is associated with a range of inflammatory and immune-related conditions, is a contributing factor to the persistence of mucosal inflammation, thereby promoting the IBD progression. After confirming the therapeutic effectiveness of YBNs@PDA in treating colitis, we sought to investigate whether YBNs@PDA would have an impact on gut microbiota regulation. We characterized the microbial composition of fecal samples collected from healthy and colitic mice after treatment with PBS, YBNs, and YBNs@PDA. By sequencing the V3-V4 region of 16S ribosomal RNA.

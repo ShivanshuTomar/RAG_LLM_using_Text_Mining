@@ -1,0 +1,76 @@
+# Functional changes in gut microbiota on clinical outcomes following FMT in patients with IBD
+
+Conclusions
+
+There is a significant increase in microbial diversity in patients with recurrent CDI after FMT. Both the degree of microbial engraftment or donor type (related or unrelated) are not the key for successful treatment of recurrent CDI by FMT. Compared to CDI patients without IBD, CDI patients with IBD have higher proportion of the original microbial communities after FMT and increased episodes of future CDI on long-term follow-up.
+
+# Competing interests
+
+The authors declare that they have no competing interests.
+
+# Authors’ contributions
+
+SK, YV-B, RKDP, and PK was responsible for the design of the study, obtained funding, acquisition of data, analysis and interpretation of data, draft of the manuscript, and critical revision of the manuscript for important intellectual content. AG, SW, BS, DM-P, JR, PK, and SLF contributed to the analysis and interpretation of data and critical revision of the manuscript for important intellectual content. HN, MS, and AK was responsible for the analysis and interpretation of data, drafting of the manuscript, and critical revision of the manuscript for important intellectual content. All authors read and approved the final manuscript.
+
+# Consent for publication
+
+Not applicable (no individual patient/person data included).
+
+# Ethics approval and consent to participate
+
+Study approval was obtained from the Mayo clinic Institutional review board (IRB number: 12-000554), and written informed consent was obtained from every patient included in the study.
+
+# Additional files
+
+- Additional file 1: Table S1. Clinical characteristics of patients with inflammatory bowel disease. Table S2: Clostridium difficile infection episodes after fecal microbiota transplantation. Table S3: Bacterial taxa comprising the microbial dysbiosis index. (DOCX 64 kb)
+- Additional file 2: Figure S1. A significant increase in alpha diversity in patients with CDI following FMT using phylogenetic diversity, Shannon diversity, and observed species (Mann-Whitney p < 0.05). (TIF 221 kb)
+- Additional file 3: Figure S2. (A) Meta-analysis showing changes in unweighted UniFrac-based beta diversity in a published cohort in comparison with our cohort. (B) Phylogenetic diversity regressions against the healthy plane (where the healthy plane is defined as a surface that’s fitted to the first 3 dimensions of the coordinates of the healthy samples). (TIF 1127 kb)
+- Additional file 4: Figure S3. Linear regression of dysbiosis index versus phylogenetic diversity in patients with CDI with and without IBD demonstrating a significantly lower negative correlation between the increase in phylogenetic diversity and the increase of the microbial dysbiosis index in patients with IBD (Pearson’s correlation coefficient, IBD R = −0.68, no IBD R = −0.83; p < 0.0001). (TIF 769 kb)
+
+# Abbreviations
+
+CDI: Clostridium difficile infection; FMT: Fecal microbiota transplantation; IBD: Inflammatory bowel disease; MD: Microbial dysbiosis; OTU: Operational taxonomic units; PCoA: Principal Coordinates Analysis; QIIME: Quantitative Insights Into Microbial Ecology; UC: Ulcerative colitis
+
+# Acknowledgements
+
+We thank J. Mark Curry from Mayo Clinic Media Support for assistance in making figures.
+
+# Funding
+
+This research was made possible by the support from NIH K08 DK100638 (PK), Global Probiotic Council (PK), Minnesota Partnership for Biotechnology and Genomics (PK), and Center for Individualized Medicine, Mayo Clinic, Rochester, and CTSA grant number UL1 TR000135 from the National Center for Advancing Translational Sciences (NCATS), a component of the National Institutes of Health (NIH) and the National Institute of Diabetes and Digestive and Kidney Diseases of the National Institutes of Health under award number P30DK084567 (Clinical Core). Its contents are solely the responsibility of the authors and do not necessarily represent the official view of NIH.
+
+# Availability of data and materials
+
+Processed tables and sample information can be found in Qiita (https://qiita.ucsd.edu) under study id 10057.
+
+# Publisher’s Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+# Author details
+
+1Division of Gastroenterology and Hepatology, Mayo Clinic, Rochester, MN 55905, USA. 2 Department of Computer Science and Engineering, University of California, San Diego, La Jolla, CA, USA. 3Department of Pediatrics, University of California, San Diego, La Jolla, CA, USA. 4 Department of Chemical and Biological Engineering, University of Colorado, Boulder, CO, USA. 5 Division of Colorectal Surgery, Mayo Clinic, Rochester, MN, USA. 6BioTechnology Institute, University of Minnesota, Minneapolis, MN, USA. 7Division of Gastroenterology, University of Minnesota, Minneapolis, MN, USA.
+
+# Received
+
+7 November 2016
+
+# Accepted
+
+23 April 2017
+
+# Published online
+
+15 May 2017
+
+# References
+
+1. Khanna S, Tosh PK. A clinician’s primer on the role of the microbiome in human health and disease. Mayo Clin Proc. 2014;89(1):107–14.
+2. Khanna S, Pardi DS. Clinical implications of antibiotic impact on gastrointestinal microbiota and Clostridium difficile infection. Expert Rev Gastroenterol Hepatol. 2016;1–8. [Epub ahead of print].
+3. Lessa FC, Winston LG, McDonald LC, Emerging Infections Program CdST. Burden of Clostridium difficile infection in the United States. N Engl J Med. 2015;372(24):2369–70.
+4. Orenstein R, Dubberke E, Hardi R, Ray A, Mullane K, Pardi DS, Ramesh MS, Investigators PC. Safety and durability of RBX2660 (microbiota suspension) for recurrent Clostridium difficile infection: results of the PUNCH CD study. Clin Infect Dis. 2016;62(5):596–602.
+5. Khanna S, Pardi DS, Kelly CR, Kraft CS, Dhere T, Henn MR, Lombardo MJ, Vulic M, Ohsumi T, Winkler J et al. A novel microbiome therapeutic increases gut microbial diversity and prevents recurrent Clostridium difficile infection. J Infect Dis. 2016.
+6. Kelly CR, Kahn S, Kashyap P, Laine L, Rubin D, Atreja A, Moore T, Wu G. Update on fecal microbiota transplantation 2015: indications, methodologies, mechanisms, and outlook. Gastroenterology. 2015;149(1):223–37.
+7. Khoruts A, Rank KM, Newman KM, Viskocil K, Vaughn BP, Hamilton MJ, Sadowsky MJ. Inflammatory bowel disease affects the outcome of fecal microbiota transplantation for recurrent Clostridium difficile infection. Clin Gastroenterol Hepatol. 2016;14(10):1433–8.
+8. Khanna S, Weatherly R, Kammer PP, Pardi DS. Management and outcomes of patients with failed fecal microbiota transplantation for recurrent Clostridium difficile infection. Am J Gastroenterol. 2015;110:S580.
+9. Moayyedi P, Surette MG, Kim PT, Libertucci J, Wolfe M, Onischi C, Armstrong D, Marshall JK, Kassam Z, Reinisch W, et al. Fecal microbiota transplantation induces remission in patients with active ulcerative colitis in a randomized controlled trial. Gastroenterology. 2015;149(1):102–9. e106.

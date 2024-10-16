@@ -1,0 +1,87 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Library
+
+# Better health.
+
+# Analysis 2.2. Comparison 2: Fecal microbiota transplantation (FMT) versus control for maintenance of remission in ulcerative colitis (UC), Outcome 2: Maintenance of clinical remission in UC: sensitivity analysis using fixed-effect model
+
+|Study or Subgroup|Events|Total|Events|Total|Weight|M-H, Fixed, 95% CI|Risk of Bias| |
+|---|---|---|---|---|---|---|---|---|
+|Haifer 2022|4|4|0|6|2.0%|12.60 [0.86 , 185.05]|+ + + + + + +| |
+| |Sood 2019a (1)|27|31|20|30|98.0%|1.31 [0.98 , 1.74]|+ ? + + + + +|
+| |Total (95% CI)|35| |36|100.0%|1.53 [1.13 , 2.07]| | |
+
+Total events: 31 / 20
+
+Heterogeneity: Chi² = 3.56, df = 1 (P = 0.06); I² = 72%
+
+Test for overall effect: Z = 2.77 (P = 0.006)
+
+Favors FMT Favors control
+
+Test for subgroup differences: Not applicable
+
+# Footnotes
+
+(1) Mayo score ≤ 2 with all subscores ≤ 1 at week 48.
+
+# Risk of bias legend
+
+(A) Random sequence generation (selection bias)
+
+(B) Allocation concealment (selection bias)
+
+(C) Blinding of participants and personnel (performance bias)
+
+(D) Blinding of outcome assessment (detection bias)
+
+(E) Incomplete outcome data (attrition bias)
+
+(F) Selective reporting (reporting bias)
+
+(G) Other bias
+
+# Analysis 2.3. Comparison 2: Fecal microbiota transplantation (FMT) versus control for maintenance of remission in ulcerative colitis (UC), Outcome 3: Maintenance of clinical remission in UC: sensitivity analysis for available cases
+
+|Study or Subgroup|Events|Total|Events|Total|Weight|M-H, Random, 95% CI|M-H, Random, 95% CI|
+|---|---|---|---|---|---|---|---|
+|Haifer 2022|4|4|0|2|18.8%|5.40 [0.42 , 68.96]| |
+|Sood 2019a|27|30|20|28|81.2%|1.26 [0.97 , 1.64]| |
+|Total (95% CI)|34| |30|100.0%|1.66 [0.47 , 5.81]| | |
+
+Total events: 31 / 20
+
+Heterogeneity: Tau² = 0.49; Chi² = 1.57, df = 1 (P = 0.21); I² = 36%
+
+Test for overall effect: Z = 0.79 (P = 0.43)
+
+Favors control Favors FMT
+
+Test for subgroup differences: Not applicable
+
+# Analysis 2.4. Comparison 2: Fecal microbiota transplantation (FMT) versus control for maintenance of remission in ulcerative colitis (UC), Outcome 4: Serious adverse events for maintenance of remission in UC
+
+|Study or Subgroup|Events|Total|Events|Total|Weight|M-H, Random, 95% CI|M-H, Random, 95% CI|
+|---|---|---|---|---|---|---|---|
+|Haifer 2022|0|4|0|6| |Not estimable| |
+|Sood 2019a|0|31|0|30| |Not estimable| |
+|Total (95% CI)|0| |0| | |Not estimable| |
+
+Total events: 0 / 0
+
+Heterogeneity: Not applicable
+
+Test for overall effect: Not applicable
+
+Favors control Favors FMT
+
+Test for subgroup differences: Not applicable
+
+Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

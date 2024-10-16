@@ -1,0 +1,38 @@
+# Role of interleukin-6-mediated inflammation in the pathogenesis of inflammatory bowel disease
+
+# References
+
+1. Rezaie A, Kuenzig ME, Benchimol EI, Griffiths AM, Otley AR, Stein- hart AH, Kaplan GG and Seow CH (2015) Budesonide for induction of remission in Crohn's disease. Cochrane Database of Syst Reviews 6
+2. Rogler G (2015) Where are we heading to in pharmacological IBD therapy? Pharmacol Res 100:220–227
+3. Romano M, Sironi M, Toniatti C, Polentarutti N, Fruscella P, Ghezzi P, Faggioni R, Luini W, Van Hinsbergh V, Sozzani S (1997) Role of IL-6 and its soluble receptor in induction of chemokines and leukocyte recruitment. Immunity 6(3):315–325
+4. Rose-John S (2012) IL-6 trans-signaling via the soluble IL-6 receptor: importance for the pro-inflammatory activities of IL-6. Int J Biol Sci 8(9):1237
+5. Rose-John S, Heinrich PC (1994) Soluble receptors for cytokines and growth factors: generation and biological function. Biochem J 300(Pt 2):281
+6. Rosenbluh J, Nijhawan D, Cox AG, Li X, Neal JT, Schafer EJ, Zack TI, Wang X, Tsherniak A, Schinzel AC (2012) β-Catenin-driven cancers require a YAP1 transcriptional complex for survival and tumorigenesis. Cell 151(7):1457–1473
+7. Rosser EC, Oleinika K, Tonon S, Doyle R, Bosma A, Carter NA, Harris KA, Jones SA, Klein N, Mauri C (2014) Regulatory B cells are induced by gut microbiota–driven interleukin-1β and interleukin-6 production. Nat Med 20(11):1334–1339
+8. Rossi D, Modena V, Sciascia S, Roccatello D (2015a) Rheumatoid arthritis: biological therapy other than anti-TNF. Int Immunopharmacol 27(2):185–188
+9. Rossi J-F, Lu Z-Y, Jourdan M, Klein B (2015b) Interleukin-6 as a therapeutic target. Clin Cancer Res 21(6):1248–1257
+10. Round JL, Mazmanian SK (2009) The gut microbiota shapes intestinal immune responses during health and disease. Nat Rev Immunol 9(5):313–323
+11. Rutgeerts P, Sandborn WJ, Feagan BG, Reinisch W, Olson A, Johanns J, Travers S, Rachmilewitz D, Hanauer SB, Lichtenstein GR (2005) Infliximab for induction and maintenance therapy for ulcerative colitis. N Engl J Med 353(23):2462–2476
+12. Saadatdoust Z, Pandurangan AK, Sadagopan SKA, Esa NM, Ismail A, Mustafa MR (2015) Dietary cocoa inhibits colitis associated cancer: a crucial involvement of the IL-6/STAT3 pathway. J Nutr Biochem 26(12):1547–1558
+13. Sanchez-Muñoz F, Dominguez-Lopez A, Yamamoto-Furusho JK (2008) Role of cytokines in inflammatory bowel disease. World J Gastroenterol: WJG 14(27):4280
+14. Schaper F, Rose-John S (2015) Interleukin-6: biology, signaling and strategies of blockade. Cytokine Growth Factor Rev 26(5):475–487
+15. Schmitz J, Owyang A, Oldham E, Song Y, Murphy E, McClanahan TK, Zurawski G, Moshrefi M, Qin J, Li X (2005) IL-33, an interleukin-1-like cytokine that signals via the IL-1 receptor-related protein ST2 and induces T helper type 2-associated cytokines. Immunity 23(5):479–490
+16. Schreiber S, Aden K, Bernardes JP, Conrad C, Tran F, Höper H, Volk V, Mishra N, Blase JI, Nikolaus S (2021) Therapeutic Interleukin-6 Trans-signaling Inhibition by Olamkicept (sgp130Fc) in patients with active inflammatory bowel disease. Gastroenterology 160(7):2354–2366
+17. Semerano L, Thiolat A, Minichiello E, Clavel G, Bessis N, Boissier M-C (2014) Targeting IL-6 for the treatment of rheumatoid arthritis: phase II investigational drugs. Expert Opin Investig Drugs 23(7):979–999
+18. Shao X, Sun C, Tang X, Zhang X, Han D, Liang S, Qu R, Hui X, Shan Y, Hu L (2020) Anti-inflammatory and intestinal microbiota modulation properties of Jinxiang garlic (Allium sativum L.) polysaccharides toward dextran sodium sulfate-induced colitis. J Agric Food Chem 68(44):12295–12309
+19. Shen Y, Zou J, Chen M, Zhang Z, Liu C, Jiang S, Qian D, Duan J-A (2020) Protective effects of Lizhong decoction on ulcerative colitis in mice by suppressing inflammation and ameliorating gut barrier. J Ethnopharmacol 259:112919
+20. Shi J, Xie Q, Yue Y, Chen Q, Zhao L, Evivie SE, Li B, Huo G (2021) Gut microbiota modulation and anti-inflammatory properties of mixed lactobacilli in dextran sodium sulfate-induced colitis in mice. Food Funct 12(11):5130–5143
+21. Smith PM, Howitt MR, Panikov N, Michaud M, Gallini CA, Bohlooly- y M, Glickman JN, Garrett WS (2013) The microbial metabolites, short-chain fatty acids, regulate colonic Treg cell homeostasis. Science 341(6145):569–573
+22. Smith RP, Easson C, Lyle SM, Kapoor R, Donnelly CP, Davidson EJ, Parikh E, Lopez JV, Tartar JL (2019) Gut microbiome diversity is associated with sleep physiology in humans. PLoS ONE 14(10):e0222394
+23. Stolfi C, Rizzo A, Franzè E, Rotondi A, Fantini MC, Sarra M, Caruso R, Monteleone I, Sileri P, Franceschilli L (2011) Involvement of interleukin-21 in the regulation of colitis-associated colon cancer. J Exp Med 208(11):2279–2290
+24. Sun MC, Zhang FC, Yin X, Cheng BJ, Zhao CH, Wang YL, Zhang ZZ, Hao HW, Zhang TH, Ye HQ (2018) Lactobacillus reuteri F-9-35 prevents DSS-Induced colitis by inhibiting proinflammatory gene expression and restoring the gut microbiota in mice. J Food Sci 83(10):2645–2652
+25. Suzuki T, Yoshinaga N, Tanabe S (2011) Interleukin-6 (IL-6) regulates claudin-2 expression and tight junction permeability in intestinal epithelium. J Biol Chem 286(36):31263–31271
+26. Swidsinski A, Ladhoff A, Pernthaler A, Swidsinski S, Loening-Baucke V, Ortner M, Weber J, Hoffmann U, Schreiber S, Dietel M (2002) Mucosal flora in inflammatory bowel disease. Gastroenterology 122(1):44–54
+27. Taga T, Hibi M, Hirata Y, Yamasaki K, Yasukawa K, Matsuda T, Hirano T, Kishimoto T (1989) Interleukin-6 triggers the association of its receptor with a possible signal transducer, gp130. Cell 58(3):573–581
+28. Taneja V (2014) Arthritis susceptibility and the gut microbiome. FEBS Lett 588(22):4244–4249
+29. Taniguchi K, Wu L-W, Grivennikov SI, De Jong PR, Lian I, Yu F-X, Wang K, Ho SB, Boland BS, Chang JT (2015) A gp130–Src–YAP module links inflammation to epithelial regeneration. Nature 519(7541):57–62
+30. Tebbutt NC, Giraud AS, Inglese M, Jenkins B, Waring P, Clay FJ, Malki S, Alderman BM, Grail D, Hollande F (2002) Reciprocal regulation of gastrointestinal homeostasis by SHP2 and STAT-mediated trefoil gene activation in gp130 mutant mice. Nat Med 8(10):1089–1097
+31. Tilg H, Kaser A (2011) Gut microbiome, obesity, and metabolic dysfunction. J Clin Investig 121(6):2126–2132
+32. Van Assche G, Manguso F, Zibellini M, Nuño JLC, Goldis A, Tkachenko E, Varoli G, Kleczkowski D, Annese V, F. D’heygere, (2015) Oral prolonged release beclomethasone dipropionate and prednisone in the treatment of active ulcerative colitis: results from a double-blind, randomized, parallel group study. Off J Am Coll Gastroenterol ACG 110(5):708–715
+33. Van Kemseke C, Belaiche J, Louis E (2000) Frequently relapsing Crohn’s disease is characterized by persistent elevation in interleukin-6 and soluble interleukin-2 receptor serum levels during remission. Int J Colorectal Dis 15(4):206–210
+34. Vermeire S, Schreiber S, Petryka R, Kuehbacher T, Hebuterne X, Roblin X, Klopocka M, Goldis A, Wisniewska-Jarosinska M, Baranovsky A (2017) Clinical remission in patients with moderate-to-severe Crohn’s disease treated with

@@ -1,0 +1,91 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Library
+
+# Better health.
+
+# Kaur 2020
+
+Kaur L, Gordon M, Baines PA, Iheozor-Ejiofor Z, Sinopoulou V, Akobeng AK. Probiotics for induction of remission in ulcerative colitis. Cochrane Database of Systematic Reviews 2020, Issue 3. Art. No: CD005573. [DOI: 10.1002/14651858.CD005573.pub3]
+
+# Kelly 2014
+
+Kelly CR, Ihunnah C, Fischer M, Khoruts A, Surawicz C, Afzali A, et al. Fecal microbiota transplant for treatment of Clostridium difficile infection in immunocompromised patients. American Journal of Gastroenterology 2014;109(7):1065-71.
+
+# Kelly 2015
+
+Kelly CR, Kahn S, Kashyap P, Laine L, Rubin D, Atreja A, et al. Update on fecal microbiota transplantation 2015: indications, methodologies, mechanisms, and outlook. Gastroenterology 2015;149(1):223-37.
+
+# Kelly 2016
+
+Kelly CR, Khoruts A, Staley C, Sadowsky MJ, Abd M, Alani M, et al. Effect of fecal microbiota transplantation on recurrence in multiply recurrent Clostridium difficile infection: a randomized trial. Annals of Internal Medicine 2016;165(9):609-16.
+
+# Kelly 2021
+
+Kelly CR, Fischer M, Allegretti JR, LaPlante K, Stewart DB, Limketkai BN, et al. ACG clinical guidelines: prevention, diagnosis, and treatment of Clostridioides difficile infections [published correction appears in American Journal of Gastroenterology 2022 Feb 1;117(2):358]. American Journal of Gastroenterology 2021;116(6):1124-47.
+
+# Khoruts 2016
+
+Khoruts A, Rank KM, Newman KM, Viskocil K, Vaughn BP, Hamilton MJ, et al. Inflammatory bowel disease affects the outcome of fecal microbiota transplantation for recurrent Clostridium difficile infection. Clinical Gastroenterology and Hepatology 2016;14(10):1433-8.
+
+# Kostic 2014
+
+Kostic AD, Xavier RJ, Gevers D. The microbiome in inflammatory bowel disease: current status and the future ahead. Gastroenterology 2014;146(6):1489-99.
+
+# Kunde 2013
+
+Kunde S, Pham A, Bonczyk S, Crumb T, Duba M, Conrad H Jr, et al. Safety, tolerability, and clinical response after fecal transplantation in children and young adults with ulcerative colitis. Journal of Pediatric Gastroenterology and Nutrition 2013;56(6):597-601.
+
+# Lam 2022
+
+Lam S, Bai X, Shkoporov AN, Park H, Wu X, Lan P, et al. Roles of the gut virome and mycobiome in faecal microbiota transplantation. Lancet Gastroenterology and Hepatology 2022;7(5):472-84.
+
+# Lee 2016
+
+Lee CH, Steiner T, Petrof EO, Smieja M, Roscoe D, Nematallah A, et al. Frozen vs fresh fecal microbiota transplantation and clinical resolution of diarrhea in patients with recurrent Clostridium difficile infection: a randomized clinical trial. JAMA 2016;315(2):142-9.
+
+# Leffler 2015
+
+Leffler DA, Lamont JT. Clostridium difficile infection. New England Journal of Medicine 2015;372(16):1539-48.
+
+# Link 2016
+
+Link A, Lachmund T, Schulz C, Weigt J, Malfertheiner P. Endoscopic peroral jejunal fecal microbiota transplantation. Digestive and Liver Disease 2016;48(11):1336-9.
+
+# McDonald 2018
+
+McDonald LC, Gerding DN, Johnson S, Bakken JS, Carroll KC, Coffin SE, et al. Clinical practice guidelines for Clostridium difficile Infection in adults and children: 2017 update by the Infectious Diseases Society of America (IDSA) and Society for Healthcare Epidemiology of America (SHEA). Clinical Infectious Diseases 2018;66(7):987-94.
+
+# Mehta 2016
+
+Mehta F. Report: economic implications of inflammatory bowel disease and its management. American Journal of Managed Care 2016;22(Suppl 3):s51-60.
+
+# Molodecky 2012
+
+Molodecky NA, Soon IS, Rabi DM, Ghali WA, Ferris M, Chernoff G, et al. Increasing incidence and prevalence of the inflammatory bowel diseases with time, based on systematic review. Gastroenterology 2012;142(1):46-e30.
+
+# Moore 2014
+
+Moore T, Rodriguez A, Bakken JS. Fecal microbiota transplantation: a practical update for the infectious disease specialist. Clinical Infectious Diseases 2014;58(4):541-5.
+
+# Morgan 2012
+
+Morgan XC, Tickle TL, Sokol H, Gevers D, Devaney KL, Ward DV, et al. Dysfunction of the intestinal microbiome in inflammatory bowel disease and treatment. Genome Biology 2012;13(9):R79.
+
+# Mowat 2011
+
+Mowat C, Cole A, Windsor A, Ahmad T, Arnott I, Driscoll R, et al. Guidelines for the management of inflammatory bowel disease in adults. Gut 2011;60(5):571-607.
+
+# Nagao-Kitamoto 2016
+
+Nagao-Kitamoto H, Shreiner AB, Gillilland MG 3rd, Kitamoto S, Ishii C, Hirayama A, et al. Functional characterization of inflammatory bowel disease-associated gut dysbiosis in gnotobiotic mice. Cellular and Molecular Gastroenterology and Hepatology 2016;2(4):468-81.
+
+# Nageswaran 2022
+
+Nageswaran S, Ellis MB, Beveridge MS. Communication challenges faced by Spanish-speaking caregivers of children with medical complexity: a qualitative study. Journal of Racial and Ethnic Health Disparities 2022;9(6):2218-26.
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

@@ -1,0 +1,35 @@
+# Open access
+
+to improve recruitment and retention rates. Also, this network of patient-engaged researchers is communicating knowledge derived from the study to healthcare professionals, policymakers and other patients.
+
+# A key component of the IMAGINE research programme
+
+is developing capacity for patient engagement, patient preferences for informing treatment choices and working with our patient partners to improve our recruitment rates and long-term retention of IMAGINE participants. We have a unique opportunity to integrate patient engagement as recommended by SPOR by leveraging our innovative Patient and Community Engagement Research (PaCER) programme based at the University of Calgary. PaCER is designed to promote new roles for patients and family members in healthcare and health culture through engagement in research. PaCER provides opportunities for patients to be involved in the development and conduct of research designed to affect the lives of patients living with IBD and IBS. Involving patients and families in research is an opportunity to increase the capacity to anticipate problems, manage their condition as a partner in their healthcare team, and to support other patients and families.
+
+# DATA MONITORING AND ETHICS
+
+This is an observational study with no intervention mandated by the protocol and so there is no external data safety and monitoring board. Research ethics approval has been obtained for all 15 sites involved in the study. The protocol was approved on 31 May 2017 with an approval number 2017-3000-GRA with the last amendment to date being on 25 June 2019. The study was prospectively registered on 27 April 2017 (ClinicalTrials.gov Identifier: NCT03131414) and this was last updated on 7 March 2019. Recruitment commenced in October 2017.
+
+# SAMPLE SIZE AND ANALYSES
+
+# Sample size
+
+UC, CD and IBS cases will be analysed. A sample size of 2000 cases in each disease group and 2000 healthy controls will have 90% power to detect a probability of 0.547 that an observed abundance in the disease group is more than the observed abundance in the control group using a Wilcoxon (Mann-Whitney) rank-sum test with a 0.001 two-sided significance level (to adjust for multiple testing). This sample size also assumes 20% data dropout. The probability of 0.547 was derived from 75 IBD cases that we have obtained from pilot studies.
+
+# Analyses
+
+Primary and secondary aims will be evaluated through multivariate logistic regression with further details regarding how diet, microbiome, metabolomics and genetics will be analysed below.
+
+# Diet analyses
+
+We will use principal component analysis to derive dietary patterns from self-reported semi-quantitative food-frequency questionnaires (FFQs), and understand the differences in dietary patterns across participants with UC, CD, IBS and healthy controls; and for active versus non-active disease within each disease group, as outlined in the primary and secondary aims. Briefly, the purpose of principal component analysis (PCA) and/or machine learning is to reduce large and complex high-dimensional data into fewer dimensions—in this case comprehensive FFQ data (containing up to 150 items or more) is reduced to two or three dietary patterns (ie, foods commonly consumed together) that explain the greatest amount of dietary variability within the reported eating habits of the cohort. The number of dietary patterns to be retained for subsequent analysis will be based on visual inspection of Scree plots in conjunction with eigenvalues, and principal component interpretability. To account for differences in total energy intake between participants, dietary pattern scores will be adjusted to the mean total population caloric intake using the residual method.
+
+Associations between a participant’s adherence to a specific PCA-derived dietary pattern (eg, Western or plant-based) and UC, CD, IBS and its disease activity will be quantified using logistic regression (case vs control) with appropriate adjustment for covariates (eg, BMI, age, sex, and so on). For machine learning, dietary patterns will be derived using unsupervised methods that require little to no input or direction by the researcher. The use of both PCA and unsupervised machine-learning methods will allow for validation of the derived diet patterns. Our experience suggests that the PCA and machine-learning derived patterns will be largely similar.
+
+In an exploratory analysis, of particular interest for the IBS group, we will collect data using a supplementary fermentable oligo-di-monosacharides and polyols (FODMAP) Questionnaire to capture foods rich in: (a) oligosaccharides, including fructans and galacto-oligosaccharides; (b) disaccharides, including lactose; (c) monosaccharides, including fructose; (d) polyols. These data will be used to better understand ‘trigger foods’ or dietary components that are likely to produce symptoms in participants with IBS.
+
+# Microbiome processing and analyses
+
+All stool samples will be processed in one lab for consistency. Frozen samples sent from each site will be thawed on ice in an anaerobic environment, mixed thoroughly with a sterile spatula. Two aliquots of 0.3 g will be transferred to DNA extraction buffer for molecular analysis. Three aliquots of 1.8 mL will be biobanked at −80°C. DNA will be extracted using established methods. Total bacterial load will be measured by quantitative PCR of the 16S rRNA gene. Microbial community profiling will be carried out by amplification and paired-end Illumina sequencing of the v3–v4 region of the 16S rRNA gene for bacteria and the Internal Transcribed Region of the ribosomal genes for fungi. Microbiome profiles will be processed through in-house bioinformatic pipelines to generate amplicon sequence variants.
+
+MoayyedifiP, et al. BMJ Open 2020;10:e041733. doi:10.1136/bmjopen-2020-041733

@@ -1,0 +1,22 @@
+# Abbas-Egbariya et al. Genome Biology (2022) 23:61
+
+# Page 7 of 23
+
+and that different IBD cohorts or different Parkinson cohorts cluster together by disease type (Fig. 2C).
+
+# Non‑specific microbial alteration associated with multiple pathologies
+
+To define those non-specific general changes, we searched for ASVs whose NRMD effect size direction significantly differed from a 0.5/0.5 binomial distribution. This resulted in 128 ASVs that have similar behavior across multiple diseases (two sided binomial test with dsFDR< 0.1, Fig. 3A) and therefore associated with general disease state. Most (97 ASVs) showed reduced abundance, while only 31 showed higher abundance across different diseases (Fig. 3A and Additional file 2: Dataset S1). Specifically, we use the direction of the effect (rather than the effect size) for the binomial test used to identify the non-specific bacteria and therefore give equal weight to all studies not depending on the amplification level of the bacteria within each study. The relative taxonomy composition of the two groups showed that Bacteroidetes comprise 11 of the 97 nonspecific health-associated ASVs, whereas none were within the 31 disease-associated ASVs (chi-square p = 0.01, Fig. 3B). In contrast, Actinobacteria taxa (chi-square p = 0.02) were more abundant within disease associated ASVs (3/31) compared to health-associated ASVs (1/97) (Fig. 3B). Lactobacillales order (phylum: Firmicutes) were also significantly.
+
+# Lower in disease
+
+# Higher in disease
+
+|Phylum|Class|Order|
+|---|---|---|
+|discase1|disease'dkscase|disease adisease|
+|Loxce Higher in|Lowet Hieter In =|Lower Ine|
+
+# Fig. 3 Non‑specific microbial signal shared across diseases
+
+A Heatmap showing 128 non‑specific ASVs identified by applying a binomial test on the ratios of the 731 ASVs across all diseases (FDR < 0.1). Columns are disease cohorts, and rows represent the non‑specific ASVs that were significantly changed in at least four different diseases, with colors representing the NRMD. Red and blue indicate higher or lower abundance in disease respectively, while white indicates ASVs not present in the study. B Non‑specific ASVs were separated to two groups; those lower in disease (76% of non‑specific ASVs, left column), and those that are higher in disease (24% of non‑specific ASVs, right column). The fraction of bacteria from each of these groups is shown for three taxonomic levels as indicated: phylum, order, and class.

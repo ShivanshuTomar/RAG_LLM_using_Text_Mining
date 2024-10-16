@@ -1,0 +1,49 @@
+# Article
+
+analyses were performed using non-parametric tests, such as the Wilcoxon signed-rank test.
+
+# Data availability
+
+The metagenomics data generated in this study have been deposited in the China National Center for Bioinformation database under accession code PRJCA017408. Additionally, all other sequencing data analyzed in this work are available in public databases, including the curatedMetagenomicData (PRJNA385949, PRJEB1220, PRJNA398089, EGAS00001001704, EGAD00001004194, PRJEB27928, PRJEB1786, PRJEB7774, https://bioconductor.org/packages/curatedMetagenomicData) and the European Nucleotide Archive (PRJNA400072, PRJEB15371, https://www.ebi.ac.uk/). The metabolomics mass spectral raw data generated in this study have been deposited in MetaboLights under accession code MTBLS8713 (www.ebi.ac.uk/metabolights/MTBLS8713). The metabolomics data from the external cohorts are sourced from the supplementary materials of their respective articles10. The metabolomics data of non-IBD cohorts are sourced from the study by Muller, E. et al.59 (https://github.com/borenstein-lab/microbiome-metabolome-curated-data). The Human Metabolome Database (HMDB) is a freely accessible electronic database that provides comprehensive information about small molecule metabolites found in the human body (https://hmdb.ca/). Source data are provided as a Source Data file. Source data are provided with this paper.
+
+# Code availability
+
+The software packages used in this study are free and open source. The bioBakery tools (KneadData, MetaPhlAn3 and HUMAnN3) used to process multi-omics sequencing data are available via http://huttenhower.sph.harvard.edu/biobakery as source code and installable packages. The code and analysis scripts of this study are available on Zenodo (https://doi.org/10.5281/zenodo.8432120).
+
+# References
+
+1. Pittayanon, R. et al. Differences in Gut Microbiota in Patients With vs Without Inflammatory Bowel Diseases: A Systematic Review. Gastroenterology 158, 930–946.e1 (2020).
+2. Caruso, R., Lo, B. C. & Núñez, G. Host-microbiota interactions in inflammatory bowel disease. Nat. Rev. Immunol. 20, 411–426 (2020).
+3. Khor, B., Gardet, A. & Xavier, R. J. Genetics and pathogenesis of inflammatory bowel disease. Nature 474, 307–317 (2011).
+4. Podolsky, D. K. Inflammatory bowel disease. N. Engl. J. Med 347, 417–429 (2002).
+5. GBD 2017 Inflammatory Bowel Disease Collaborators. The global, regional, and national burden of inflammatory bowel disease in 195 countries and territories, 1990-2017: a systematic analysis for the Global Burden of Disease Study 2017. Lancet Gastroenterol Hepatol 5, 17–30 (2020).
+6. Danese, S. & Fiocchi, C. Ulcerative colitis. N. Engl. J. Med 365, 1713–1725 (2011).
+7. Baumgart, D. C. & Sandborn, W. J. Crohn’s disease. Lancet 380, 1590–1605 (2012).
+8. Jansson, J. K. & Baker, E. S. A multi-omic future for microbiome studies. Nat. Microbiol 1, 16049 (2016).
+9. Vich Vila, A. et al. Faecal metabolome and its determinants in inflammatory bowel disease. Gut 72, 1472–1485 (2023).
+10. Franzosa, E. A. et al. Gut microbiome structure and metabolic activity in inflammatory bowel disease. Nat. Microbiol 4, 293–305 (2019).
+11. Lloyd-Price, J. et al. Multi-omics of the gut microbial ecosystem in inflammatory bowel diseases. Nature 569, 655–662 (2019).
+12. Clooney, A. G. et al. Ranking microbiome variance in inflammatory bowel disease: a large longitudinal intercontinental study. Gut 70, 499–510 (2021).
+13. Lavelle, A. & Sokol, H. Gut microbiota-derived metabolites as key actors in inflammatory bowel disease. Nat. Rev. Gastroenterol. Hepatol. 17, 223–237 (2020).
+14. Lee, K. A. et al. Cross-cohort gut microbiome associations with immune checkpoint inhibitor response in advanced melanoma. Nat. Med 28, 535–544 (2022).
+15. Wirbel, J. et al. Meta-analysis of fecal metagenomes reveals global microbial signatures that are specific for colorectal cancer. Nat. Med 25, 679–689 (2019).
+16. Thomas, A. M. et al. Metagenomic analysis of colorectal cancer datasets identifies cross-cohort microbial diagnostic signatures and a link with choline degradation. Nat. Med 25, 667–678 (2019).
+17. Hiippala, K. et al. The Potential of Gut Commensals in Reinforcing Intestinal Barrier Function and Alleviating Inflammation. Nutrients 10, 988 (2018).
+18. Rodriguez-Castaño, G. P. et al. Bacteroides thetaiotaomicron Starch Utilization Promotes Quercetin Degradation and Butyrate Production by Eubacterium ramulus. Front. Microbiol 10, 1145 (2019).
+19. Lee, T. et al. Oral versus intravenous iron replacement therapy distinctly alters the gut microbiota and metabolome in patients with IBD. Gut 66, 863–871 (2017).
+20. Wu, Q. et al. Intestinal hypoxia-inducible factor 2α regulates lactate levels to shape the gut microbiome and alter thermogenesis. Cell Metab. 33, 1988–2003.e7 (2021).
+21. Chen, H. et al. Urea cycle activation triggered by host-microbiota maladaptation driving colorectal tumorigenesis. Cell Metab. 35, 651–666.e7 (2023).
+22. Mirhakkak, M. H. et al. Metabolic modeling predicts specific gut bacteria as key determinants for Candida albicans colonization levels. ISME J. 15, 1257–1270 (2021).
+23. Li, X. V. et al. Immune regulation by fungal strain diversity in inflammatory bowel disease. Nature 603, 672–678 (2022).
+24. Iino, C. et al. Daidzein Intake Is Associated with Equol Producing Status through an Increase in the Intestinal Bacteria Responsible for Equol Production. Nutrients 11, 433 (2019).
+25. Jensen, S. N. et al. Isoflavone diet ameliorates experimental autoimmune encephalomyelitis through modulation of gut bacteria depleted in patients with multiple sclerosis. Sci. Adv. 7, eabd4595 (2021).
+26. Henke, M. T. et al. Ruminococcus gnavus, a member of the human gut microbiome associated with Crohn’s disease, produces an inflammatory polysaccharide. Proc. Natl Acad. Sci. USA 116, 12672–12677 (2019).
+27. Henke, M. T. et al. Capsular polysaccharide correlates with immune response to the human gut microbe Ruminococcus gnavus. Proc. Natl Acad. Sci. USA 118, e2007595118 (2021).
+28. Bell, A. et al. Elucidation of a sialic acid metabolism pathway in mucus-foraging Ruminococcus gnavus unravels mechanisms of bacterial adaptation to the gut. Nat. Microbiol 4, 2393–2404 (2019).
+29. Le, P.-H., Chiu, C.-T., Yeh, P.-J., Pan, Y.-B. & Chiu, C.-H. Clostridium innocuum infection in hospitalised patients with inflammatory bowel disease. J. Infect. 84, 337–342 (2022).
+30. Liu, N.-N. et al. Multi-kingdom microbiota analyses identify bacterial-fungal interactions and biomarkers of colorectal cancer across cohorts. Nat. Microbiol 7, 238–250 (2022).
+31. van Hoek, M. L., Hoang, K. V. & Gunn, J. S. Two-Component Systems in Francisella Species. Front Cell Infect. Microbiol 9, 198 (2019).
+32. Casado, J., Lanas, Á. & González, A. Two-component regulatory systems in Helicobacter pylori and Campylobacter jejuni: Attractive targets for novel antibacterial drugs. Front Cell Infect. Microbiol 12, 977944 (2022).
+33. Sultan, M., Arya, R. & Kim, K. K. Roles of Two-Component Systems in Pseudomonas aeruginosa Virulence. Int J. Mol. Sci. 22, 12152 (2021).
+
+Nature Communications | (2023)14:7135

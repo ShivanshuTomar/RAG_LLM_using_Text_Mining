@@ -1,0 +1,67 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Library
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# SOURCES OF SUPPORT
+
+# Internal sources
+
+- New Source of support, Other
+
+No internal support was obtained for this review
+
+# External sources
+
+- New Source of support, Other
+
+No external support was obtained for this review
+
+# DIFFERENCES BETWEEN PROTOCOL AND REVIEW
+
+# Differences between previous version and current version of the review
+
+The following are differences between the previous version of this review (Imdad 2018) and the current version.
+
+# Literature search
+
+In the present update, we performed no additional search for conference proceedings as Embase has covered proceedings from the relevant conferences since 2010.
+
+The search strategies were substantially revised for this update, in that more terms related to FMT were added to increase sensitivity. The updated search strategies are available in Appendix 1.
+
+We had searched the Cochrane IBD Group Specialized Register in the previous version but not in this updated version, as the Register is not available for updated searches.
+
+# Types of studies
+
+In the previous version, we aimed to include non-randomized studies with comparator arms, but none of the available studies met these criteria. In this version, we did not consider any non-randomized studies with comparator arms.
+
+# Comparators
+
+We updated the comparators in the 'Types of interventions' section from the first version to this version as two of the included studies used autologous FMT as comparators (Costello 2019; Rossen 2015).
+
+# Outcomes
+
+The primary outcomes in the previous version were considered at weeks 8 and 12 of follow-up. We kept these same follow-up intervals but also included the data at longest follow-up, as the follow-up intervals were not consistent across all included studies.
+
+We added maintenance of remission in UC or CD at longest follow-up as a primary outcome.
+
+We considered the secondary outcomes of clinical response, endoscopic remission, and endoscopic response at longest follow-up.
+
+One of the secondary outcomes was related to alpha diversity of the microbiome. Studies did not report this outcome consistently, so we reported the microbiome outcomes subjectively in a table.
+
+# Summary of findings tables
+
+We created four separate summary of findings tables to address induction and maintenance of remission in UC and CD. This decision was based on the notion that conduct of intervention for induction and maintenance might differ and that the profile of outcomes (e.g. serious adverse events, quality of life) might differ when FMT is used for induction versus maintenance of remission.
+
+We prioritized five outcomes to be included in the summary of findings tables for this review. These included induction of clinical remission, serious adverse events, any adverse events, endoscopic remission, and quality of life. We removed the following outcomes that were included in the summary of findings table in the last version: clinical response and endoscopic response.
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

@@ -1,0 +1,61 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Library
+
+# Better health.
+
+# Analysis 1.8. Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 8: Induction of clinical remission in UC at longest follow-up: sensitivity analysis using fixed-effect model
+
+|Study or Subgroup|FMT Events|FMT Total|Control Events|Control Total|Weight|Risk Ratio M-H, Fixed, 95% CI|Risk Ratio M-H, Fixed, 95% CI|
+|---|---|---|---|---|---|---|---|
+|Březina 2021|12|23|8|22|19.6%|1.43 [0.73 , 2.82]| |
+|Costello 2019|12|38|3|35|7.5%|3.68 [1.13 , 11.98]| |
+|Crothers 2021|2|7|0|8|1.1%|5.63 [0.31 , 100.52]| |
+|Fang 2021|9|10|5|10|12.0%|1.80 [0.94 , 3.46]| |
+|Haifer 2022|8|15|3|20|6.1%|3.56 [1.13 , 11.18]| |
+|Moayyedi 2015|9|38|2|37|4.8%|4.38 [1.01 , 18.94]| |
+|Pai 2021|4|13|4|12|9.9%|0.92 [0.29 , 2.89]| |
+|Paramsothy 2017|11|41|3|40|7.3%|3.58 [1.08 , 11.88]| |
+|Rossen 2015|7|23|5|25|11.5%|1.52 [0.56 , 4.13]| |
+|Sarbagili Shabat 2022|6|36|6|15|20.3%|0.42 [0.16 , 1.09]| |
+|Total (95% CI)|80|244|39|224|100.0%|1.88 [1.37 , 2.57]| |
+
+Total events: 80 / 39
+
+Heterogeneity: Chi² = 17.15, df = 9 (P = 0.05); I² = 48%
+
+Test for overall effect: Z = 3.92 (P < 0.0001)
+
+Test for subgroup differences: Not applicable
+
+# Analysis 1.9. Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 9: Induction of clinical remission in UC at longest follow-up: sensitivity analysis for available cases
+
+|Study or Subgroup|FMT Events|FMT Total|Control Events|Control Total|Weight|Risk Ratio M-H, Random, 95% CI|Risk Ratio M-H, Random, 95% CI|
+|---|---|---|---|---|---|---|---|
+|Březina 2021|12|17|8|21|14.1%|1.85 [0.99 , 3.46]| |
+|Costello 2019|12|35|3|34|9.1%|3.89 [1.20 , 12.57]| |
+|Crothers 2021|2|6|0|5|2.7%|4.29 [0.25 , 72.90]| |
+|Fang 2021|9|10|5|10|13.9%|1.80 [0.94 , 3.46]| |
+|Haifer 2022|8|12|3|15|9.8%|3.33 [1.12 , 9.90]| |
+|Moayyedi 2015|9|36|2|34|7.2%|4.25 [0.99 , 18.28]| |
+|Pai 2021|4|9|4|7|10.8%|0.78 [0.29 , 2.06]| |
+|Paramsothy 2017|11|32|3|29|9.1%|3.32 [1.03 , 10.74]| |
+|Rossen 2015|7|17|5|20|11.0%|1.65 [0.64 , 4.25]| |
+|Sarbagili Shabat 2022|6|24|6|9|12.1%|0.38 [0.16 , 0.86]| |
+|Total (95% CI)|80|198|39|184|100.0%|1.77 [1.07 , 2.94]| |
+
+Total events: 80 / 39
+
+Heterogeneity: Tau² = 0.37; Chi² = 22.77, df = 9 (P = 0.007); I² = 60%
+
+Test for overall effect: Z = 2.23 (P = 0.03)
+
+Test for subgroup differences: Not applicable
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

@@ -1,0 +1,21 @@
+# Host-microbiota interaction-mediated resistance to inflammatory bowel disease in pigs
+
+# Jiang, Xiuyu Fang, Zhiqiang Guo, Xiaoxu Wang, Baoming Shi* and Qingwei Meng*
+
+# Xuan Zhao, Lin
+
+# Abstract
+
+Background: Disease resistance phenotypes are associated with immune regulatory functions and immune tolerance and have implications for both the livestock industry and human health. Microbiota plays an essential role in regulating immunity and autoimmunity in the host organism, but the influence of host-microbiota interactions on disease resistance phenotypes remains unclear. Here, multiomics analysis was performed to identify potential regulatory mechanisms of disease resistance at both the microbiome and host levels in two pig breeds.
+
+Results: Acute colitis models were established in Min pigs and Yorkshire pigs, and control and diseased individuals were compared. Compared with Yorkshire pigs under the same nutritional and management conditions, Min pigs exhibited strong disease resistance, as indicated by a low disease activity index (DAI) and a low histological activity index (HAI). Microbiota sequencing analysis showed that potentially harmful microbes Desulfovibrio, Bacteroides and Streptococcus were enriched in diseased individuals of the two breeds. Notably, potentially beneficial microbes, such as Lactobacillus, Clostridia and Eubacterium, and several genera belonging to Ruminococcaceae and Christensenellaceae were enriched in diseased Min pigs and were found to be positively associated with the microbial metabolites related to intestinal barrier function. Specifically, the concentrations of indole derivatives and short-chain fatty acids were increased in diseased Min pigs, suggesting beneficial action in protecting intestinal barrier. In addition, lower concentrations of bile acid metabolites and short-chain fatty acids were observed in diseased Yorkshire pigs, which were associated with increased potentially harmful microbes, such as Bilophila and Alistipes. Concerning enrichment of the immune response, the increase in CD4+ T cells in the lamina propria improved supervision of the host immunity response in diseased Min pigs, contributing to the maintenance of Th2-type immune superiority and immune tolerance patterns and control of excessive inflammation with the help of potentially beneficial microbes. In diseased Yorkshire pigs, more terms belonging to biological processes of immunity were enriched, including Toll-like receptors signalling, NF-κB signalling and Th1 and Th17-type immune responses, along with the increases of potentially harmful microbes and damaged intestinal barrier.
+
+Conclusions: Cumulatively, the results for the two pig breeds highlight that host-microbiota crosstalk promotes a disease resistance phenotype in three ways: by maintaining partial PRR nonactivation, maintaining Th2-type immune superiority and immunological tolerance patterns and recovering gut barrier function to protect against colonic diseases.
+
+Keywords: Disease resistance, Microbiota, Metabolome, Immunity response, Intestinal barrier function
+
+*Correspondence: shibaoming1974@163.com; qingweimeng1990@163.com
+
+Institute of Animal Nutrition, Northeast Agricultural University, Harbin 150030, People’s Republic of China
+
+© The Author(s) 2022. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.

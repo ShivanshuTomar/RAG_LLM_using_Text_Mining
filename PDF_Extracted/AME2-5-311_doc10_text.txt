@@ -1,0 +1,44 @@
+# References
+
+1. DeGruttola AK, Low D, Mizoguchi A, et al. Current understanding of dysbiosis in disease in human and animal models. Inflamm Bowel Dis. 2016;22:1137-1150.
+2. Strauss J, Kaplan GG, Beck PL, et al. Invasive potential of gut mucosa-derived Fusobacterium nucleatum positively correlates with IBD status of the host. Inflamm Bowel Dis. 2011;17:1971-1978.
+3. Ohkusa T, Yoshida T, Sato N, et al. Commensal bacteria can enter colonic epithelial cells and induce proinflammatory cytokine secretion: a possible pathogenic mechanism of ulcerative colitis. J Med Microbiol. 2009;58:535-545.
+4. Du Z, Hudcovic T, Mrazek J, et al. Development of gut inflammation in mice colonized with mucosa-associated bacteria from patients with ulcerative colitis. Gut pathogens. 2015;7:32.
+5. Natividad JM, Pinto-Sanchez MI, Galipeau HJ, et al. Ecobiotherapy rich in firmicutes decreases susceptibility to colitis in a humanized gnotobiotic mouse model. Inflamm Bowel Dis. 2015;21:1883-1893.
+6. Gupta S, Allen-Vercoe E, Petrof EO. Fecal microbiota transplantation: in perspective. Therap Adv Gastroenterol. 2016;9:229-239.
+7. Kho ZY, Lal SK. The human gut microbiome—a potential controller of wellness and disease. Front Microbiol. 2018;9:1835.
+8. Khan I, Ullah N, Zha L, et al. Alteration of gut microbiota in inflammatory bowel disease (IBD): cause or consequence? IBD treatment targeting the gut microbiome. Pathogens. 2019;8:126.
+9. Hyun CK. Molecular and pathophysiological links between metabolic disorders and inflammatory bowel diseases. Int J Mol Sci. 2021;22:9139.
+10. Kitajima S, Morimoto M, Sagara E, et al. Dextran sodium sulfate-induced colitis in germ-free IQI/Jic mice. Exp Anim. 2001;50:387-395.
+11. Hernández-Chirlaque C, Aranda CJ, Ocón B, et al. Germ-free and antibiotic-treated mice are highly susceptible to epithelial injury in DSS colitis. J Crohns Colitis. 2016;10:1324-1335.
+12. Ward NL, Phillips CD, Nguyen DD, et al. Antibiotic treatment induces long-lasting changes in the fecal microbiota that protect against colitis. Inflammat Bowel Dis. 2016;22:2328-2340.
+13. Bylund-Fellenius AC, Landström E, Axelsson LG, et al. Experimental colitis induced by dextran sulphate in normal and germfree mice. Microbial Ecol Health Dis. 1994;7:207-215.
+14. Hudcovic T, Stĕpánková R, Cebra J, et al. The role of microflora in the development of intestinal inflammation: acute and chronic colitis induced by dextran sulfate in germ-free and conventionally reared immunocompetent and immunodeficient mice. Folia Microbiol (Praha). 2001;46:565-572.
+15. Perez-Muñoz ME, Bergstrom K, Peng V, et al. Discordance between changes in the gut microbiota and pathogenicity in a mouse model of spontaneous colitis. Gut Microbes. 2014;5:286-295.
+16. Van der Sluis M, De Koning BA, De Bruijn AC, et al. Muc2-deficient mice spontaneously develop colitis, indicating that MUC2 is critical for colonic protection. Gastroenterology. 2006;131:117-129.
+17. Bergstrom K, Fu J, Johansson ME, et al. Core 1- and 3-derived O-glycans collectively maintain the colonic mucus barrier and protect against spontaneous colitis in mice. Mucosal Immunol. 2017;10:91-103.
+18. Sadlack B, Merz H, Schorle H, et al. Ulcerative colitis-like disease in mice with a disrupted interleukin-2 gene. Cell. 1993;75:253-261.
+19. Contractor NV, Bassiri H, Reya T, et al. Lymphoid hyperplasia, autoimmunity, and compromised intestinal intraepithelial lymphocyte development in colitis-free gnotobiotic IL-2-deficient mice. J Immunol. 1998;160:385-394.
+20. Sellon RK, Tonkonogy S, Schultz M, et al. Resident enteric bacteria are necessary for development of spontaneous colitis and immune system activation in interleukin-10-deficient mice. Infect Immun. 1998;66:5224-5231.
+21. Madsen KL, Doyle JS, Tavernini MM, et al. Antibiotic therapy attenuates colitis in interleukin 10 gene-deficient mice. Gastroenterology. 2000;118:1094-1105.
+22. Shen B, Hu J, Song H, et al. Antibiotics exacerbated colitis by affecting the microbiota, Treg cells and SCFAs in IL10-deficient mice. Biomed Pharmacother. 2019;114:108849.
+23. Montenegro-Burke JR, Kok BP, Guijas C, et al. Metabolomics activity screening of T cell-induced colitis reveals anti-inflammatory metabolites. Sci Signal. 2021;14:eabf6584.
+24. Lavelle A, Sokol H. Gut microbiota-derived metabolites as key actors in inflammatory bowel disease. Nat Rev Gastroenterol Hepatol. 2020;17:223-237.
+25. Deleu S, Machiels K, Raes J, et al. Short chain fatty acids and its producing organisms: An overlooked therapy for IBD? EBioMedicine. 2021;66:103293.
+26. Parada Venegas D, De la Fuente MK, Landskron G, et al. Short chain fatty acids (SCFAs)- mediated gut epithelial and immune regulation and its relevance for inflammatory bowel diseases. Front Immunol. 2019;10:277.
+27. Dalile B, Van Oudenhove L, Vervliet B, et al. The role of short-chain fatty acids in microbiota-gut-brain communication. Nat Rev Gastroenterol Hepatol. 2019;16:461-478.
+28. Donohoe DR, Garge N, Zhang X, et al. The microbiome and butyrate regulate energy metabolism and autophagy in the mammalian colon. Cell Metab. 2011;13:517-526.
+29. Thorburn AN, Macia L, Mackay CR. Diet, metabolites, and “western-lifestyle” inflammatory diseases. Immunity. 2014;40:833-842.
+30. Lührs H, Gerke T, Müller JG, et al. Butyrate inhibits NF-kappaB activation in lamina propria macrophages of patients with ulcerative colitis. Scand J Gastroenterol. 2002;37:458-466.
+31. Klampfer L, Huang J, Sasazuki T, et al. Inhibition of interferon gamma signaling by the short chain fatty acid butyrate. Mol Cancer Res. 2003;1:855-862.
+32. Kinoshita M, Suzuki Y, Saito Y. Butyrate reduces colonic paracellular permeability by enhancing PPARgamma activation. Biochem Biophys Res Commun. 2002;293:827-831.
+33. Kespohl M, Vachharajani N, Luu M, et al. The microbial metabolite butyrate induces expression of Th1-associated factors in CD4(+) T cells. Front Immunol. 2017;8:1036.
+34. Willing B, Halfvarson J, Dicksved J, et al. Twin studies reveal specific imbalances in the mucosa-associated microbiota of patients with ileal Crohn's disease. Inflamm Bowel Dis. 2009;15:653-660.
+35. Varela E, Manichanh C, Gallart M, et al. Colonisation by Faecalibacterium prausnitzii and maintenance of clinical remission in patients with ulcerative colitis. Aliment Pharmacol Ther. 2013;38:151-161.
+36. Rajca S, Grondin V, Louis E, et al. Alterations in the intestinal microbiome (dysbiosis) as a predictor of relapse after infliximab withdrawal in Crohn's disease. Inflamm Bowel Dis. 2014;20:978-986.
+37. Van Herreweghen F, Van den Abbeele P, De Mulder T, et al. In vitro colonisation of the distal colon by Akkermansia muciniphila is largely mucin and pH dependent. Benef Microbes. 2017;8:81-96.
+38. Wu Z, Huang S, Li T, et al. Gut microbiota from green tea polyphenol-dosed mice improves intestinal epithelial homeostasis and ameliorates experimental colitis. Microbiome. 2021;9:184.
+39. Bian X, Wu W, Yang L, et al. Administration of akkermansia muciniphila ameliorates dextran sulfate sodium-induced ulcerative colitis in mice. Front Microbiol. 2019;10:2259.
+40. Wang W, Chen L, Zhou R, et al. Increased proportions of Bifidobacterium and the Lactobacillus group and loss of butyrate-producing bacteria in inflammatory bowel disease. J Clin Microbiol. 2014;52:398-406.
+41. Takahashi K, Nishida A, Fujimoto T, et al. Reduced abundance of butyrate-producing bacteria species in the fecal microbial community in Crohn's disease. Digestion. 2016;93:59-65.
+42. Smith FM, Coffey JC, Kell MR, et al. A characterization of anaerobic colonization and associated mucosal adaptations in the undiseased ileal pouch. Colorectal Dis. 2005;7:563-570.

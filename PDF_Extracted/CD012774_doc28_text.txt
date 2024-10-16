@@ -1,0 +1,75 @@
+# Withdrawals in studies on maintenance of remission in ulcerative colitis
+
+There was little to no difference in withdrawal rates between the FMT and control groups after use of FMT for maintenance of remission in UC (RR 0.30, 95% CI 0.05 to 1.73; 2 studies, 71 participants; Analysis 2.7).
+
+# Erythrocyte sedimentation rate at longest follow-up
+
+One study reported low levels of ESR at the end of follow-up after use of FMT for maintenance of remission in UC (MD −10.40 mm/hour, 95% CI −12.54 to −8.26; 61 participants; Analysis 2.8).
+
+# C-reactive protein at longest follow-up
+
+One study reported low levels of CRP at the end of follow-up after use of FMT for maintenance of remission in UC (MD −2.70 mg/L, 95% CI −3.82 to −1.58; 61 participants; Analysis 2.9).
+
+# Microbiome outcomes
+
+Table 1 provides the summary of methods used to assess microbiome-related outcomes and the summary of key findings.
+
+# Comparison 3: fecal microbiota transplantation for induction of remission in Crohn disease
+
+None of the included studies reported data on use of FMT for induction of remission in CD.
+
+# Comparison 4: fecal microbiota transplantation for maintenance of remission in Crohn disease
+
+# Primary outcomes
+
+Maintenance of clinical remission in Crohn disease at longest follow-up
+
+One study reported data on maintenance of remission in people with CD after FMT versus control (Sokol 2020). The evidence was very uncertain and no conclusive statement could be made about the use of FMT for maintenance of remission in CD (RR 1.21, 95% CI 0.36 to 4.14; 21 participants; very low-certainty of evidence; Analysis 4.1; Summary of findings 4).
+
+# Serious adverse events
+
+One study of 21 participants reported 13 serious adverse events in people with CD (Sokol 2020). However, the paper did not specify an exact breakdown of events between the FMT and control groups that totaled 13 events, so we did not calculate an effect size from these data. Overall, the evidence was very uncertain and no conclusive statement could be made about the risk of serious adverse events with FMT in people with CD (Summary of findings 4).
+
+# Secondary outcomes
+
+# Any adverse events
+
+One study of 21 participants provided examples of adverse events experienced by participants, but the total number of any adverse events and corresponding breakdown between the FMT and control groups were not specified (Sokol 2020). It was also unclear whether the events reported were per person or if one participant experienced more than one event. Therefore, we did not calculate an effect size from these data. Overall, the evidence was very uncertain and no conclusive statement could be made about the risk of any adverse events with FMT in people with CD (Summary of findings 4).
+
+# Quality of life at longest follow-up
+
+No studies reported data on quality of life (IBDQ scores) in people with CD.
+
+# Withdrawals in studies on maintenance of remission in Crohn disease
+
+In one study, the withdrawal rate was 54.5% (6/11) in the FMT group versus 40.0% (4/10) in the control group (RR 1.36, 95% CI 0.54 to 3.46; 21 participants; Analysis 4.2).
+
+# Erythrocyte sedimentation rate at longest follow-up
+
+No studies reported ESR levels after use of FMT in people with CD.
+
+# C-reactive protein at longest follow-up
+
+One study reported CRP levels at six weeks after use of FMT as median values, which were lower in the FMT group (median 3.0 mg/L, IQR 3.0 to 14.2) than the control group (median 6.9 mg/L, IQR 4.0 to 8.7; Sokol 2020).
+
+# Fecal calprotectin at longest follow-up
+
+One study reported FC levels at six weeks after use of FMT and the results were similar between the FMT and control groups (Sokol 2020).
+
+# Microbiome outcomes
+
+Table 1 provides the summary of methods used to assess microbiome-related outcomes and the summary of key findings.
+
+# DISCUSSION
+
+# Summary of main results
+
+This review synthesized findings from 11 studies that assessed FMT for treatment of UC and one study that assessed FMT for treatment of CD. Eight new studies were added to this updated version of our previous review (Imdad 2018). FMT may increase the rates of clinical and endoscopic remission in people with active UC, with little to no difference in any adverse events. The evidence was very uncertain about the risk of serious adverse events and improvement in quality of life when FMT was used for control of active UC. The evidence was also very uncertain about the use of FMT for maintenance of remission in UC and for both induction and maintenance of remission in CD.
+
+# Overall completeness and applicability of evidence
+
+In this update, we added eight studies of participants with UC, which contributed to the analyses of FMT for induction of clinical remission, induction of endoscopic remission, serious adverse events, any adverse events, clinical response, endoscopic response, and quality of life. The addition of new data increased the overall number of events and size of the study population, which improved the precision of the summary estimates. However, the summary estimate was still very wide for most outcomes and the lower intervals of CIs around the summary estimate either showed a very small effect or crossed the null effect. More data will be required before the efficacy and safety of FMT for treatment of IBD can be established. It is important to note that the FDA issued safety alerts related to the use of FMT and risk of serious adverse events.
+
+Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

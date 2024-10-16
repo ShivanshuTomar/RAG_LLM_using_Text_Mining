@@ -1,0 +1,45 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Study
+
+# Reason for exclusion
+
+|Hourigan 2015|Wrong comparator: comparison group included children without IBD|
+|---|---|
+|Ishikawa 2017a|Wrong comparator: both study groups received FMT (with + without antibiotics)|
+|Ishikawa 2017b|Wrong length of time for follow-up: 4 weeks|
+|Ishikawa 2019|Wrong length of time for follow-up: 4 weeks|
+|Ishikawa 2022|Wrong intervention: intervention of interest was alginate drink after FMT following triple antibiotic therapy with amoxicillin, fosfomycin, and metronidazole|
+|Karolewska-Bochenek 2018|Wrong comparator: open prospective trial where all participants received FMT|
+|Kedia 2022|Wrong intervention: intervention of interest included FMT and specialized diet, so it was not possible to assess if the effect noted was because of the FMT or the specialized diet.|
+|Kump 2018|Wrong study design: not randomized|
+|Landy 2013|Wrong study population: included people with pouchitis only|
+|Li 2020|Wrong comparator: no comparator arm|
+|Ma 2020|Wrong study design: murine study design|
+|Mahajan 2018|Wrong comparator: historical controls treated without FMT|
+|Mandalia 2016|Wrong study population: included people with IBD with recurrent Clostridioides difficile infection|
+|Michail 2018|Wrong study design: retracted study|
+|Mintz 2016|Wrong study population: no control arm, and included people with recurrent Clostridioides difficile infection and UC|
+|NCT04436874|Wrong comparator: all groups received FMT|
+|NCT05202990|Wrong comparator: both groups received FMT|
+|Okahara 2020|Wrong study design: not randomized|
+|Osaki 2021|Wrong study design: no control group|
+|Quraishi 2019|Wrong comparator: all participants received FMT|
+|Quraishi 2022|Wrong comparator: both groups received FMT|
+|Rainer 2018|Wrong comparator: study assessed clinical efficacy of frozen vs fresh donor stool for FMT in UC|
+|Silber 2022|Wrong intervention: intervention of interest was VE202 (live biotherapeutic product)|
+|Smith 2022|Wrong comparator: all arms received FMT; 4 experimental groups differed on addition of pretreatment antibiotics or FMT capsules|
+|Sood 2019b|Wrong comparator: prospective study of people treated with FMT|
+|Steube 2019|Wrong study design: not randomized, not controlled, and all participants received FMT|
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

@@ -1,0 +1,30 @@
+# Tian et al. Microbiome (2024) 12:130
+
+# control-enriched vOTUs
+
+|VLP this study|Stockda|ISR|Fold change|
+|---|---|---|---|
+|Federic_FRA|93.9|Siphoviridae vOc6d|Acutalibacteraceae Sp.|
+|Federic_GER|92.6|Siphoviridae v1115|Coprobacter Spp.|
+|Federic_ISR| |v19ae|prausnitzii|
+|Federic_USA| |vico8|Gemmiger Spp.|
+|Franzosa_USA|86.2|Myoviridae vOc59|eddahense|
+|He_CHN| |v0d26| |
+|Neng|64.2|vof83|saccharolyticum|
+
+# Specificity
+
+|RF models based on top 33 markers|Importance ranking|Prokaryotic hosts|
+|---|---|---|
+|vOf4a|Innocmmn|saccharolyticum|
+|vOc24| | |
+|vidzc|Flavonifractor plautii| |
+|vidaf|Ag: butyriciproducens|prausnitzii|
+|v1d95| | |
+|vich7| |albertii|
+
+# Fig. 4
+
+Alterations in IBD-associated vOTUs in the external validation cohort. a Heatmap showing the fold changes in IBD-associated vOTUs in the VLP and bulk datasets of this study and external validation cohorts. Fold change > 0, enriched in patients; fold change < 0, enriched in controls. b–c Receiver operating characteristic (ROC) analysis of the classification of IBD/control status in each cohort using the random forest model trained by 139 IBD-associated vOTUs (b) and 34 top-ranking vOTUs (c). The classification performance of the model was assessed by the area under the ROC curve (AUC). d Heatmap showing the 34 most important vOTUs in the random forest models and their host information.
+
+The models achieved an average intra-dataset area under the curve (AUC) of 0.857 (ranging from 0.642 to 0.936) in these datasets, with five datasets exhibiting an AUC of over 0.90 (Fig. 4b), supporting the generalizability and reliability of our markers across different datasets. The 33 IBD-associated vOTUs consisted of 23 control-enriched vOTUs and 10 IBD-enriched vOTUs (Fig. 4d). Notably, some of the control-enriched vOTUs were predicted to infect butyrate-producing bacteria, such as Agathobaculum.

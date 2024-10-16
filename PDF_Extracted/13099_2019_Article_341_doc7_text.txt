@@ -1,0 +1,45 @@
+# References
+
+1. Nishida A, Inoue R, Inatomi O, Bamba S, Naito Y, Andoh A. Gut microbiota in the pathogenesis of inflammatory bowel disease. Clin J Gastroenterol. 2018;11:1–10.
+2. Khor B, Gardet A, Xavier RJ. Genetics and pathogenesis of inflammatory bowel disease. Nature. 2011;474:307–17.
+3. Lee SH, Kwon JE, Cho M-L. Immunological pathogenesis of inflammatory bowel disease. Intest Res. 2018;16:26–42.
+4. Shaw KA, Cutler DJ, Okou D, Dodd A, Aronow BJ, Haberman Y, et al. Genetic variants and pathways implicated in a pediatric inflammatory bowel disease cohort. Genes Immun. 2019;20:131–42.
+5. Ek WE, D’Amato M, Halfvarson J. The history of genetics in inflammatory bowel disease. Ann Gastroenterol Hepatol. 2014;27:294–303.
+6. Belkaid Y, Hand TW. Role of the Microbiota in Immunity and Inflammation. Cell. 2014;157:121–41.
+7. Nishida AH, Ochman H. A great-ape view of the gut microbiome. Nat Rev Genet. 2019;20:195–206.
+8. Cani PD. Human gut microbiome: hopes, threats and promises. Gut. 2018;67:1716–25.
+9. Franzosa EA, Sirota-Madi A, Avila-Pacheco J, Fornelos N, Haiser HJ, Reinker S, et al. Gut microbiome structure and metabolic activity in inflammatory bowel disease. Nat Microbiol. 2019;4:293–305.
+10. Eckburg PB, Bik EM, Bernstein CN, Purdom E, Dethlefsen L, Sargent M, et al. Diversity of the human intestinal microbial flora. Science. 2005;308:1635–8.
+11. Ley RE, Hamady M, Lozupone C, Turnbaugh PJ, Ramey RR, Bircher JS, et al. Evolution of mammals and their gut microbes. Science. 2008;320:1647–51.
+12. Zelezniak A, Andrejev S, Ponomarova O, Mende DR, Bork P, Patil KR. Metabolic dependencies drive species co-occurrence in diverse microbial communities. Proc Natl Acad Sci USA. 2015;112:6449–54.
+13. Tramontano M, Andrejev S, Pruteanu M, Klünemann M, Kuhn M, Galardini M, et al. Nutritional preferences of human gut bacteria reveal their metabolic idiosyncrasies. Nat Microbiol. 2018;3:514–22.
+14. Gophna U, Sommerfeld K, Gophna S, Doolittle WF, van Zanten SJO. Differences between tissue-associated intestinal microfloras of patients with Crohn’s disease and ulcerative colitis. J Clin Microbiol. 2006;44:4136–41.
+15. Vester-Andersen MK, Mirsepasi-Lauridsen HC, Prosberg MV, Mortensen CO, Träger C, Skovsen K, et al. Increased abundance of proteobacteria in aggressive Crohn’s disease seven years after diagnosis. Sci Rep. 2019;9:13473.
+16. Frank DN, St Amand AL, Feldman RA, Boedeker EC, Harpaz N, Pace NR. Molecular-phylogenetic characterization of microbial community imbalances in human inflammatory bowel diseases. Proc Natl Acad Sci USA. 2007;104:13780–5.
+17. LeBlanc JG, Laiño JE, del Valle MJ, Vannini V, van Sinderen D, Taranto MP, et al. B-group vitamin production by lactic acid bacteria—current knowledge and potential applications. J Appl Microbiol. 2011;111:1297–309.
+18. King HC, Murphy A, James P, Travis E, Porter D, Sawyer J, et al. Performance of a Noninvasive test for detecting Mycobacterium bovis shedding in European Badger (Meles meles) populations. J Clin Microbiol. 2015;53:2316–23.
+19. Tamaki H, Wright CL, Li X, Lin Q, Hwang C, Wang S, et al. Analysis of 16S rRNA amplicon sequencing options on the Roche/454 next-generation titanium sequencing platform. PLoS ONE. 2011;6:e25263.
+20. Dowd SE, Sun Y, Wolcott RD, Domingo A, Carroll JA. Bacterial tag-encoded FLX amplicon pyrosequencing (bTEFAP) for microbiome studies: bacterial diversity in the ileum of newly weaned Salmonella-infected pigs. Foodborne Pathog Dis. 2008;5:459–72.
+21. Callahan BJ, Sankaran K, Fukuyama JA, McMurdie PJ, Holmes SP. Bioconductor workflow for Microbiome Data analysis: from raw reads to community analyses. F1000 Res. 2016;5:1492.
+22. Callahan BJ, McMurdie PJ, Rosen MJ, Han AW, Johnson AJA, Holmes SP. DADA2: high-resolution sample inference from Illumina amplicon data. Nat Methods. 2016;13:581–3.
+23. McMurdie PJ, Holmes S. phyloseq: an R package for reproducible interactive analysis and graphics of microbiome census data. PLoS ONE. 2013;8:e61217.
+24. Oksanen J, Guillaume Blanchet F, Friendly M, Kindt R, Legendre P, McGlinn D, et al. vegan: Community Ecology Package. 2018. https://CRAN.R-project.org/package=vegan.
+
+# Publisher’s Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+# Ready to submit your research?
+
+Choose BMC and benefit from:
+
+- fast, convenient online submission
+- thorough peer review by experienced researchers in your field
+- rapid publication on acceptance
+- support for research data, including large and complex data types
+- gold Open Access which fosters wider collaboration and increased citations
+- maximum visibility for your research: over 100M website views per year
+
+At BMC, research is always in progress.
+
+Learn more biomedcentral.com/submissions.

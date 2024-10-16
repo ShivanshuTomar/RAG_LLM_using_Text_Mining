@@ -1,0 +1,63 @@
+# Kumar et al. J Transl Med (2019) 17:419
+
+# Fig. 4
+
+A proposed model for addressing the knowledge gap in IBD. A systems biology approach is one way to understand the complex IBD pathogenesis. Sample collection at various stages of the disease, a detailed disease index calculation, sample frequency and collection methods have to be optimized. High throughput technologies allowed processing of the samples using various omics approaches including (genomics, transcriptomics, proteomics, microbiomics, metabolomics, lipidomics and others). On the other hand, non-omics data like environmental factors, dietary information or others can also be generated. Integration of all types of omics and non-omics data will allow us to understand the phenotype-genotype interactions and help generate signatures associated with the disease. These signatures will pave the ways towards personalized treatment.
+
+Functional feature, in order to define personalized treatment options. While urgently needed, an integration of all omics that can be utilized on IBD patients from a systems biology perspective is still far from being achieved.
+
+An in-depth molecular reclassification of the IBD subtypes is required and a “deep dive” assessment of the IBD pathogenesis and progression is needed in order to achieve a comprehensive analysis of the disease. Large-scale cohorts of IBD patients are needed for systems biology applications, along with a standardization of all the protocols ranging from disease index calculation methods, time points for sample collection, collection kits, sample storage, frequency of sampling, etc.
+
+In this review, we propose that integrating datasets generated at various biological layers will create a landscape, that will explain the mechanisms of interactions between those layers through the identification of key biological components from each dataset along with their functional characterization and followed by integration of each constituent using integrative analysis to identify personalized signature (Fig. 4). Moreover, this will also allow us to remove abnormal signatures across multiple molecular dimensions (Fig. 4). This unbiased and comprehensive strategy will open entirely new avenues for developing novel personalized therapeutic interventions, and help identify biomarkers that can be non-invasive, highly specific, reliable and easy to assess by clinicians in routine practices.
+
+# Abbreviations
+
+IBD: Inflammatory Bowel Disease; GI: Gastrointestinal; UC: Ulcerative colitis; CD: Crohn’s disease; IBD-U: Inflammatory Bowel Disease, type unclassified; Th: T helper cells; AIEC: Adherent-invasive E. coli; Tj: Tight cell junctions.
+
+# Acknowledgements
+
+We thank Dr. Susie Huang and Dr. Mamoun Elawad for reviewing the manuscript.
+
+# Authors’ contributions
+
+All authors have contributed equally to writing this manuscript. Guarantor of the article: SAK. Specific author contributions: SAK had the idea for the review, MK and MG wrote the first draft. SAK critically revised the last version. All authors read and approved the final manuscript.
+
+# Funding
+
+This work was made possible by grant# NPRP10-0125-170242 received from the Qatar National Research Fund (a member of Qatar Foundation).
+
+# Availability of data and materials
+
+Not applicable.
+
+# Ethics approval and consent to participate
+
+Not applicable.
+
+# Consent for publication
+
+All authors reviewed and approved the final version for submission.
+
+# Competing interests
+
+The authors declare that they have no competing interests.
+
+# Received
+
+30 September 2019
+
+# Published online
+
+13 December 2019
+
+# Accepted
+
+8 December 2019
+
+# References
+
+1. Mehta M, Ahmed S, Dryden G. Immunopathophysiology of inflammatory bowel disease: how genetics link barrier dysfunction and innate immunity to inflammation. Innate Immun. 2017;23:497–505.
+2. Lee SH, Kwon JE, Cho ML. Immunological pathogenesis of inflammatory bowel disease. Intest Res. 2018;16:26–42.
+3. Rieder F, Fiocchi C. Intestinal fibrosis in IBD—a dynamic, multifactorial process. Nat Rev Gastroenterol Hepatol. 2009;6:228–35.
+4. Yu YR, Rodriguez JR. Clinical presentation of Crohn’s, ulcerative colitis, and indeterminate colitis: symptoms, extraintestinal manifestations, and disease phenotypes. Semin Pediatr Surg. 2017;26:349–55.
+5. Feakins RM. Ulcerative colitis or Crohn’s disease? Pitfalls and problems. Histopathology. 2014;64:317–35.

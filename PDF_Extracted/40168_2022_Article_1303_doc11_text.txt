@@ -1,0 +1,29 @@
+# Zhao et al. Microbiome (2022) 10:115
+
+# Differential Metabolites
+
+# Differential Pathway
+
+|Comparison|Min pig|Yorkshire pig|Pathway| | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| | | |Y-CON|Y-DSS|M-CON|M-DSS|Y-CON|Y-DSS|M-CON|M-DSS|RichFactor|RichFactor|
+|M-CON vs. M-DSS|4x105|3x105|2x105|1x105|CON|DSS|CON|DSS|Biosynthesis of amino acids|Linoleic acid metabolism| | |
+| | | | | | | | |Value|Value| | | |
+| | | | | | | | |Phenylalanine, tyrosine and tryptophan biosynthesis|Citrate cycle (TCA cycle)| | | |
+| | | | | | | | |D-Arginine and D-ornithine metabolism|Taurine and hypotaurine metabolism| | | |
+| | | | | | | | |Glycerophospholipid metabolism|Sphingolipid metabolism| | | |
+| | | | | | | | |Beta Alanine metabolism|Nitrotoluene degradation| | | |
+| | | | | | | | |Staurosporine biosynthesis|Alanine, aspartate and glutamate metabolism| | | |
+| | | | | | | | |Glutathione metabolism|Pantothenate and CoA biosynthesis| | | |
+| | | | | | | | |Cyanoamino acid metabolism|Pyruvate metabolism| | | |
+| | | | | | | | |Histidine metabolism|Pentose phosphate pathway| | | |
+| | | | | | | | |Ascorbate and aldarate metabolism|Glycerolipid metabolism| | | |
+| | | | | | | | |Glycine, serine and threonine metabolism|Secondary bile acid biosynthesis| | | |
+| | | | | | | | |Nicotinate and nicotinamide metabolism|Glutathione metabolism| | | |
+| | | | | | | | |Cysteine and methionine metabolism|Butanoate metabolism| | | |
+| | | | | | | | |Arginine and proline metabolism|Toluene degradation| | | |
+| | | | | | | | |Aminobenzoate degradation|Biosynthesis of Amino acids| | | |
+
+# Fig. 6
+
+Comparison of colonic metabolites in control and diseased Min pigs and Yorkshire pigs. a Venn diagram for differential metabolites in the comparisons M-CON vs. M-DSS and Y-CON vs. Y-DSS. b Common differential metabolites between control and diseased Min pigs and Yorkshire pigs. c Venn diagram for differential pathways of the comparisons M-CON vs. M-DSS and Y-CON vs. Y-DSS. d Pathway enrichment analysis was performed using the significantly different metabolites between control and diseased Min pigs and Yorkshire pigs (n = 6 samples/group). e The major pathways of significantly different metabolites in Min pigs and Yorkshire pigs after DSS treatment. f Concentrations of short-chain fatty acids (SCFAs) in Min pigs and Yorkshire pigs after DSS treatment (n = 8 samples/group).

@@ -1,0 +1,125 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Analysis 1.17
+
+Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 17: Any adverse events for induction of remission in UC
+
+# Analysis 1.18
+
+Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 18: Induction of endoscopic remission in UC at longest follow-up
+
+# Analysis 1.19
+
+Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 19: Quality of life (Inflammatory Bowel Disease Questionnaire [IBDQ]) scores at longest follow-up for induction of remission in UC
+
+# Analysis 1.20
+
+Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 20: Quality of life (IBDQ) scores at longest follow-up for induction of remission in UC: sensitivity analysis without Haifer 2022
+
+# Analysis 1.21
+
+Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 21: Induction of clinical response in UC at longest follow-up
+
+# Analysis 1.22
+
+Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 22: Induction of endoscopic response in UC at longest follow-up
+
+# Analysis 1.23
+
+Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 23: Withdrawals in studies on induction of remission in UC
+
+# Analysis 1.24
+
+Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 24: Erythrocyte sedimentation rate (ESR) at longest follow-up for induction of remission in UC (mm/hour)
+
+# Analysis 1.25
+
+Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 25: ESR at longest follow-up for induction of remission in UC: sensitivity analysis without Moayyedi 2015 (mm/hour)
+
+# Analysis 1.26
+
+Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 26: C-reactive protein (CRP) at longest follow-up for induction of remission in UC (mg/L)
+
+# Analysis 1.27
+
+Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 27: CRP at longest follow-up for induction of remission in UC: sensitivity analysis without Moayyedi 2015 (mg/L)
+
+# Analysis 1.28
+
+Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 28: Fecal calprotectin at longest follow-up for induction of remission in UC (μg/mg)
+
+# Analysis 2.1
+
+Comparison 2: Fecal microbiota transplantation (FMT) versus control for maintenance of remission in ulcerative colitis (UC), Outcome 1: Maintenance of clinical remission in UC
+
+# Analysis 2.2
+
+Comparison 2: Fecal microbiota transplantation (FMT) versus control for maintenance of remission in ulcerative colitis (UC), Outcome 2: Maintenance of clinical remission in UC: sensitivity analysis using fixed-effect model
+
+# Analysis 2.3
+
+Comparison 2: Fecal microbiota transplantation (FMT) versus control for maintenance of remission in ulcerative colitis (UC), Outcome 3: Maintenance of clinical remission in UC: sensitivity analysis for available cases
+
+# Analysis 2.4
+
+Comparison 2: Fecal microbiota transplantation (FMT) versus control for maintenance of remission in ulcerative colitis (UC), Outcome 4: Serious adverse events for maintenance of remission in UC
+
+# Analysis 2.5
+
+Comparison 2: Fecal microbiota transplantation (FMT) versus control for maintenance of remission in ulcerative colitis (UC), Outcome 5: Any adverse events for maintenance of remission in UC
+
+# Analysis 2.6
+
+Comparison 2: Fecal microbiota transplantation (FMT) versus control for maintenance of remission in ulcerative colitis (UC), Outcome 6: Maintenance of endoscopic remission in UC
+
+# Analysis 2.7
+
+Comparison 2: Fecal microbiota transplantation (FMT) versus control for maintenance of remission in ulcerative colitis (UC), Outcome 7: Withdrawals in studies on maintenance of remission in UC
+
+# Analysis 2.8
+
+Comparison 2: Fecal microbiota transplantation (FMT) versus control for maintenance of remission in ulcerative colitis (UC), Outcome 8: Erythrocyte sedimentation rate (ESR) at longest follow-up for maintenance of remission in UC (mm/hour)
+
+# Analysis 2.9
+
+Comparison 2: Fecal microbiota transplantation (FMT) versus control for maintenance of remission in ulcerative colitis (UC), Outcome 9: C-reactive protein (CRP) at longest follow-up for maintenance of remission in UC (mg/L)
+
+# Analysis 4.1
+
+Comparison 4: Fecal microbiota transplantation (FMT) versus control for maintenance of remission in Crohn's disease (CD), Outcome 1: Maintenance of clinical remission in CD
+
+# Analysis 4.2
+
+Comparison 4: Fecal microbiota transplantation (FMT) versus control for maintenance of remission in Crohn's disease (CD), Outcome 2: Withdrawals in studies on maintenance of remission in CD
+
+# ADDITIONAL TABLES
+
+120
+
+# APPENDICES
+
+129
+
+# WHAT'S NEW
+
+131
+
+# HISTORY
+
+131
+
+# CONTRIBUTIONS OF AUTHORS
+
+131
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

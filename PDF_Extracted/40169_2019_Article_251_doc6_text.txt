@@ -1,0 +1,17 @@
+# Ocansey et al. Clin Trans Med (2019) 8:31
+
+# Table 2 Application of MSC-based therapy in IBD clinical trials
+
+|IBD type|Study design|MSC source|Outcome|References|
+|---|---|---|---|---|
+|Moderate to severe UC|Phase I/II randomized controlled study|Human umbilical cord|30/36 patients showed good response with markedly improved mucosa at 1 month. Decreased median Mayo score and histology score during follow up. No evident adverse reactions after MSC infusion.|[53]|
+|CD|Randomized controlled study|Human umbilical cord|Decreased CDAI, HBI, and corticosteroid dosage with remarkable mucosal recovery at 12 months. Concomitant anal fistula was improved in six patients treated with MSC.|[54]|
+|Luminal CD refractory to biologic therapy|Phase 2, open-label, multicenter study|Bone marrow|Improved recovery associated with reduced CDAI and CDEIS scores. 7/15 patients had a clinical response, 8/15 had clinical remission, and 7/15 had endoscopic improvement.|[55]|
+|Complex perianal fistulas in CD|Phase 3 randomized double-blind controlled trial|Adipose|53/107 (50%) of MSC treated patients achieved combined remission in intention-to-treat protocol. 53/103 (51%) of modified intention-to-treat populations achieved combined remission.|[48]|
+|UC|Two years observation after MSC treatment|Bone marrow|72.7% of UC patients who received MSC treatment achieved significant response. Reduced activity of autoimmune inflammation and stimulated reparative process in the intestinal mucosa. Increased duration of remission, reduced risk of recurrence of disease, and reduced frequency of hospitalizations.|[56]|
+|UC|–|Bone marrow|Increased in the duration of remission in patients with chronic recurrent and continuous recurrent course of UC. Reduced risk of relapse, and reduced frequency of hospital admissions compared with medication therapy.|[57]|
+|Crohn’s perianal fistula|MSC safety study in pregnancy|Adipose|Fertility and pregnancy outcomes were not affected by MSC treatment. No signs of treatment-related malformations were observed in the neonates by their respective pediatricians.|[58]|
+
+Summary of some of the IBD clinical trials on the feasibility, safety and efficacy of MSC therapy. Different study designs across varying degrees and types of IBD employing distinct techniques and sources of MSC yielded different patients’ responses. CDAI Crohn’s disease activity index, HBI Harvey–Bradshaw index, CDEIS Crohn’s disease endoscopic index of severity.
+
+MSC-based therapy in UC. Out of the 15 studies included in the analysis, 7 were human (n = 216) trials and 8 were animal (n = 132) studies. The data showed that animals given MSCs had significantly lower DAI, longer colon length and lower histopathological score compared with control group. The clinical trials analysis also indicated an obvious recovery with single-arm studies analysis of four trials demonstrating an increased healing rate of 0.787 post-MSC treatment [59]. One of the challenges of MSC-based therapy is the issue of dosage and frequency.

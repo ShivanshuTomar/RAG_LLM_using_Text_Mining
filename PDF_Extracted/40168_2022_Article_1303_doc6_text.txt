@@ -1,0 +1,31 @@
+# Zhao et al. Microbiome (2022) 10:115
+
+# Page 7 of 22
+
+| |Min pig|Yorkshire pig|Min pig|Yorkshire pig|
+|---|---|---|---|---|
+|CON|500-|1200-|1| |
+|DSS|900600-|2| | |
+|CON|0.40|0.40| | |
+|PCOA1 (16.6%)|Min pig|Yorkshire pig|1500_| |
+| |Min pig|Yorkshire pig| | |
+|CON|0.25| | | |
+|M-CON|0.99-|1200900-|600-|300-|
+|DSS| | | | |
+
+|Phylum|Family|Genus|
+|---|---|---|
+|M-CON|Proteobacteria|Bacteroides|
+| |Spirochaetes|Blautia|
+| |Actinobacteria|Desulfovibrio|
+| |Bacteroidetes|Alloprevotella|
+| |Firmicutes|Faecalibacterium|
+| |Lachnospiraceae|Lactobacillus|
+| |Ruminococcaceae|Prevotellaceae UCG-003|
+| |Muribaculaceae|Prevotellaceae NK3B31|
+| | |Ruminococcaceae UCG-002|
+| | |Ruminococcaceae UCG-005|
+
+# Fig. 2
+
+Shifts in the colonic microbiota composition of Min pigs and Yorkshire pigs after DSS treatment. a Comparison of the observed OTUs and Shannon, Simpson and Chao1 indices of the gut microbiota between control and diseased Min pigs and Yorkshire pigs (n = 6 samples/group). b Principal coordinate analysis (PCoA) plot of the microbial compositional profiles between control and diseased Min pigs and Yorkshire pigs (n = 6 samples/group). Relative abundance of the colonic microbiota at the c phylum, d family and e genus levels in Min pigs and Yorkshire pigs after DSS treatment (n = 6 samples/group).

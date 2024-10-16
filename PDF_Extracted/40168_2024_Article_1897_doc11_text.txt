@@ -1,0 +1,71 @@
+# Anthamatten et al. Microbiome
+
+# (2024) 12:186
+
+# References
+
+1. Fan Y, Pedersen O. Gut microbiota in human metabolic health and disease. Nat Rev Microbiol. 2021;19(1):55–71. https://doi.org/10.1038/s41579-020-0433-9.
+2. Cox TO, Lundgren P, Nath K, Thaiss CA. Metabolic control by the microbiome. Genome Med. 2022;14(1):80. https://doi.org/10.1186/s13073-022-01092-0.
+3. Fernández-Veledo S, Vendrell J. Gut microbiota-derived succinate: friend or foe in human metabolic diseases? Rev Endocr Metab Disord. 2019;20(4):439–47. https://doi.org/10.1007/s11154-019-09513-z.
+4. Watanabe Y, Nagai F, Morotomi M. Characterization of Phascolarctobacterium succinatutens sp. nov., an Asaccharolytic, Succinate-Utilizing Bacterium Isolated from Human Feces. Appl Environ Microbiol. 2012;78(2):511–518. https://doi.org/10.1128/aem.06035-11.
+5. Louis P, Flint HJ. Formation of propionate and butyrate by the human colonic microbiota. Environ Microbiol. 2017;19(1):29–41. https://doi.org/10.1111/1462-2920.13589.
+6. Connors J, Dawe N, Limbergen JV. The role of succinate in the regulation of intestinal inflammation. Nutrients. 2018;11(1):25. https://doi.org/10.3390/nu11010025.
+7. Topping DL, Clifton PM. Short-chain fatty acids and human colonic function: roles of resistant starch and nonstarch polysaccharides. Physiol Rev. 2001;81(3):1031–64. https://doi.org/10.1152/physrev.2001.81.3.1031.
+8. Vernia P, Caprilli R, Latella G, Barbetti F, Magliocca FM, Cittadini M. Fecal lactate and ulcerative colitis. Gastroenterology. 1988;95(6):1564–8. https://doi.org/10.1016/s0016-5085(88)80078-7.
+9. Woodmansey EJ, McMurdo MET, Macfarlane GT, Macfarlane S. Comparison of compositions and metabolic activities of fecal microbiotas in young adults and in antibiotic-treated and non-antibiotic-treated elderly subjects. Appl Environ Microbiol. 2004;70(10):6113–22. https://doi.org/10.1128/aem.70.10.6113-6122.2004.
+10. Rubic T, Lametschwandtner G, Jost S, Hinteregger S, Kund J, Carballido-Perrig N, et al. Triggering the succinate receptor GPR91 on dendritic cells enhances immunity. Nat Immunol. 2008;9(11):1261–9. https://doi.org/10.1038/ni.1657.
+11. Macias-Ceja DC, Ortiz-Masiá D, Salvador P, Gisbert-Ferrándiz L, Hernández C, Hausmann M, et al. Succinate receptor mediates intestinal inflammation and fibrosis. Mucosal Immunol. 2019;12(1):178–87. https://doi.org/10.1038/s41385-018-0087-3.
+12. Serena C, Monfort-Ferre D, Bautista M, Menacho M, Martí M, Espin E, et al. P001 Succinate, a gut microbiota-derived metabolite, modulates the inflammatory status of the creeping fat in Crohn’s disease. J Crohn’s Colitis. 2021;15(Supplement_1):S123–S123. https://doi.org/10.1093/ecco-jcc/jjab076.130.
+13. Zakerska-Banaszak O, Tomczak H, Gabryel M, Baturo A, Wolko L, Michalak M, et al. Dysbiosis of gut microbiota in Polish patients with ulcerative colitis: a pilot study. Sci Rep. 2021;11(1):2166. https://doi.org/10.1038/s41598-021-81628-3.
+14. Reichardt N, Duncan SH, Young P, Belenguer A, Leitch CM, Scott KP, et al. Phylogenetic distribution of three pathways for propionate production within the human gut microbiota. ISME J. 2014;8(6):1323–35. https://doi.org/10.1038/ismej.2014.14.
+15. Flint HJ, Duncan SH, Scott KP, Louis P. Links between diet, gut microbiota composition and gut metabolism. Proc Nutr Soc. 2015;74(1):13–22. https://doi.org/10.1017/s0029665114001463.
+16. Fischbach MA, Sonnenburg JL. Eating for two: how metabolism establishes interspecies interactions in the gut. Cell Host Microbe. 2011;10(4):336–47. https://doi.org/10.1016/j.chom.2011.10.002.
+17. Janssen PH. Growth yield increase and ATP formation linked to succinate decarboxylation in Veillonella parvula. Arch Microbiol. 1992;157(5):442–5. https://doi.org/10.1007/bf00249102.
+18. Dot TD, Osawa R, Stackebrandt E. Phascolarctobacterium faecium gen. nov, spec. nov., a Novel Taxon of the Sporomusa Group of Bacteria. Syst Appl Microbiol. 1993;16(3):380–384. https://doi.org/10.1016/s0723-2020(11)80269-9.
+19. Jumas-Bilak E, Jean-Pierre H, Carlier JP, Teyssier C, Bernard K, Gay B, et al. Dialister micraerophilus sp. nov. and Dialister propionicifaciens sp. nov., isolated from human clinical samples. Int J Syst Evol Microbiol. 2005;55(6):2471–2478. https://doi.org/10.1099/ijs.0.63715-0.
+
+# Supplementary Information
+
+The online version contains supplementary material available at https://doi.org/10.1186/s40168-024-01897-8.
+
+# Acknowledgements
+
+We thank Leandra Knecht for support with experimental work, Alice de Wouters and Shaul Pollak for feedback and discussions, and Jill Marie O’Sullivan for uncovering additional studies reporting differential abundances of P and D. We also thank the AVINA Foundation for support.
+
+# Authors’ contributions
+
+L.A., C.M., and J.Z. performed experiments. L.A., T.d.W., and G.E.L. planned the execution of the project. L.A., P.R.v.B., and G.E.L. analyzed the data. L.A., T.d.W., and G.E.L. conceived the project. L.A., C.L., T.d.W., and G.E.L. interpreted the results. G.E.L. and L.A. wrote the first draft of the manuscript. All authors reviewed the final manuscript and provided feedback.
+
+# Funding
+
+PharmaBiome provided financial support and was supported by a grant from the AVINA foundation.
+
+# Data availability
+
+The raw sequencing data is available at the European Genome-Phenome Archive in dataset EGAD50000000740. All details related to the analysis methods are in the main text or supplementary materials.
+
+# Declarations
+
+# Ethics approval and consent to participate
+
+The research project was approved by the Ethic Committee of the Canton of Zurich (2017-01290).
+
+# Consent for publication
+
+Not applicable.
+
+# Competing interests
+
+L.A., P.R.v.B., C.M., T.d.W., and G.E.L. are or were employees of PharmaBiome. T.d.W. and C.L. are founders of PharmaBiome. L.A. is a co-founder of PharmaBiome. L.A., P.R.v.B., T.d.W., and G.E.L. are inventors on the patent application WO 2022/023458 A1 entitled “Microbial Niche Mapping” and on the patent application WO 2023/118460 A1 entitled “New biomarker for disorders and diseases associated with intestinal dysbiosis”. PharmaBiome provided financial support.
+
+# Received
+
+29 November 2023
+
+# Published online
+
+30 September 2024
+
+# Accepted
+
+31 July 2024

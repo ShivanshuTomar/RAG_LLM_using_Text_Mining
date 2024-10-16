@@ -1,0 +1,64 @@
+# Cochrane Library
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Paramsothy 2017 (Continued)
+
+|Bias Type|Risk|Quote|Comment|
+|---|---|---|---|
+|Blinding of participants and personnel (performance bias)|Low risk|Patients and investigators were unaware of treatment allocation. (page 1220)|most likely done.|
+|Blinding of outcome assessment (detection bias)|Low risk|Study investigators who played a part in patients' assessment did not see the investigational product at any time. (page 1220)|most likely done.|
+|Incomplete outcome data (attrition bias)|Low risk| |the overall attrition rate was > 20%; however, the dropout rates and reasons were similar between both groups.|
+|Selective reporting (reporting bias)|Low risk| |all intended outcomes were reported in the paper. The trial was registered on ClinicalTrials.gov (NCT01896635).|
+|Other bias|Low risk| |no other risk of bias noted.|
+
+# Rossen 2015
+
+# Study characteristics
+
+# Methods
+
+Single-center, double-blind RCT conducted in the Netherlands
+
+# Participants
+
+# Inclusion criteria
+
+- Adults with established UC according to Lennard-Jones criteria, participant-reported SCCAI 4–11, Endoscopic Mayo subscore ≥ 1 at baseline sigmoidoscopy
+- Stable medication dosing continued during study period (e.g. thiopurines, mesalamine, or corticosteroids ≤ 10 mg/day for 8 weeks before inclusion)
+
+# Exclusion criteria
+
+- Infectious cause of UC disease flare, history of colectomy, current stoma, life expectancy < 12 months, pregnancy, hospital admission
+- Use of anti-TNF or methotrexate within 8 weeks before inclusion or cyclosporine within 4 weeks before inclusion; use of antibiotics or probiotics within 6 weeks before inclusion
+
+# Interventions
+
+# Experimental arm
+
+n = 23
+
+- Multiple donor feces
+- 120 g stool in 500 mL suspension; administered via nasoduodenal tube once in first week and once 3 weeks later
+
+# Control arm
+
+n = 25
+
+- 120 g autologous stool in 500 mL suspension; administered via nasoduodenal tube once in first week and once 3 weeks later
+
+# Outcomes
+
+# Primary outcome
+
+- Composite of clinical remission (SCCAI score ≤ 2) in combination with ≥ 1-point improvement on combined Mayo Endoscopic score of sigmoid and rectum vs baseline sigmoidoscopy at weeks 6 and 12
+
+Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

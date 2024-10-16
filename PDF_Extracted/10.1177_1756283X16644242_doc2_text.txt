@@ -1,0 +1,20 @@
+# Therapeutic Advances in Gastroenterology 9(4)
+
+# Health
+
+# IBD
+
+|Mucus layer|Vascular space|cell|
+|---|---|---|
+|Tight junction|Pathogen|Dendritic cells|
+|Pattern recognition receptor|Commensal|Cytokine gradient|
+
+Figure 2. Mechanisms of inflammatory bowel disease (IBD) pathophysiology. IBD involves three pathophysiological components (dysbiosis, leaky gut, and inflammation) that are mutually dependent. In health, the mucosal barrier including two mucus layers, epithelial cells, and tight junctions separate the microbiota from the immune system. Breakdown of the mucosal barrier due to environmental and genetic factors leads to translocation of gastrointestinal organisms and activation of the innate and adaptive immune system. Genetic and environmental factors also contribute to dysbiosis and immune system activation leading to further breakdown of the mucosal barrier.
+
+The gastrointestinal epithelium, development and modulation of the immune system, and protection from infections [Sekirov et al. 2010]. A healthy microbiota, established at an early age, exhibits resilience; multiple environmental inputs are likely necessary to effect a sustained and clinically relevant change [Lozupone et al. 2012]. Alterations in the microbiome have been associated with a surprising range of conditions, including neuropsychiatric diseases [Collins et al. 2012], asthma and atopic diseases [Van Nimwegen et al. 2011], obesity and metabolic syndrome [Nicholson et al. 2012], colorectal cancer [Louis et al. 2014], enteric infections [Kamada et al. 2013], irritable bowel syndrome [Dupont, 2014], and IBD [Manichanh et al. 2012].
+
+# The microbiome in IBD
+
+The microbiome in IBD is known to be different from that of healthy individuals [Ott et al. 2004; Manichanh et al. 2006; Frank et al. 2007; Michail et al. 2012; Nagalingam and Lynch, 2012; Rajilic-Stojanovic et al. 2013; Bellaguarda and Chang, 2015; Sheehan et al. 2015] (Figure 2). The extent to which these changes are a cause or a consequence of inflammation remains a debate, but both may be accurate in that dysbiosis and inflammation are likely to be mutually reinforcing in patients with IBD. Similar to other forms of inflammatory diarrhea, there is a loss of diversity and stability of the microbiota in IBD. One of the most consistent findings is a decrease in the commensal spore-forming and butyrate-producing Clostridium clusters IV and XIVa (Firmicutes phylum) [Manichanh et al. 2006; Frank et al. 2007; Sartor, 2008]. These species are known to stimulate regulatory T cells (Tregs), leading to immune tolerance and reduction in gastrointestinal inflammation [Atarashi et al. 2011]. One member of this cluster, Faecalibacterium prausnitzii, is decreased in IBD [Fujimoto et al. 2013; Machiels et al. 2014] and predicts the recurrence of disease after ileal resection in CD [Sokol et al. 2008]. Similar decreases in Clostridium clusters IV and XIVa are seen in Clostridium difficile infection and C. difficile-negative nosocomial diarrhea and are therefore likely to be both a generic effect of and
+
+608 http://tag.sagepub.com

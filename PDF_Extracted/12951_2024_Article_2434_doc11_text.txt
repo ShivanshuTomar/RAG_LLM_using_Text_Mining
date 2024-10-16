@@ -1,0 +1,32 @@
+# Yang et al. Journal of Nanobiotechnology
+
+# (2024) 22:166
+
+# Page 12 of 16
+
+the colitis epithelium with YBNs@PDA group compared to PBS treated group (Fig. 8A, B and Additional file 1: Fig. S9). Additionally, YBNs@PDA treatment also suppressed the levels of pro-inflammatory cytokines such as TNF-α, IL-1β, IL-6 and MCP-1 in colon (Fig. 8C).
+
+# In vivo safety of YBNs@PDA
+
+Following the successful therapeutic results achieved by YBNs@PDA in a colitic mouse model, we then assessed the biosafety of YBNs@PDA and YBNs in a murine model, since the systemic biosafety of nanomaterials-based drugs in vivo is also a crucial factor for their clinical application. Six-week-old male C57BL/6J mice were randomly divided into four groups: normal group, YBNs group and YBNs@PDA groups with two doses, to receive treatments for 7 days. As expected, body weights exhibited nearly no difference as compared across all treatment groups (Additional file 1: Fig. S10B). We could not identify any obvious symptoms of systemic toxicity and necrosis in the major organs from the histological investigation of the YBNs and YBNs@PDA-treated group (Additional file 1: Fig. S10A). Alanine aminotransferase (ALT), aspartate aminotransferase (AST), blood urea nitrogen (BUN) and creatinine (CRE) belong to liver and kidney function parameters, all of which were performing in the normal range (Additional file 1: Fig. S10C). These results suggest excellent biosafety of the prepared YBNs@PDA and YBNs.
+
+# Conclusion
+
+Given the fact that multiple sources of ROS in the context of microbes necessitate the presence of crucial regulatory mechanisms to prevent the potential disorder that could occur during severe inflammation. To this end, we have developed a multifunctional platform of YBNs@PDA to safeguard colon tissues from the deleterious.
+
+# Fig. 8
+
+In vivo therapeutic evaluations of YBNs@PDA. (A) Immunofluorescence images of occludin and claudin-1 proteins in mice colon tissues. (B) Western blot analysis of occludin and claudin-1 proteins in mice colon tissues. (C) The levels of TNF-α, IL-1β, IL-6 and MCP-1 cytokines in colon tissues from mice treated with different drug formulations were analyzed by ELISA. Data are presented as mean ± standard deviation from a representative experiment (n = 6). *P &lt; 0.05, **P &lt; 0.01, analysed by two-tailed unpaired Student’s t-test.
+
+|Protein|Size (kDa)|
+|---|---|
+|Occludin|52|
+|Claudin-1|22|
+|GAPDH|37|
+
+|Group|TNF-α|IL-1β|IL-6|MCP-1|
+|---|---|---|---|---|
+|PBS|[250]|[2000]|[600]|[600]|
+|YBNs|[200]|[1500]|[400]|[400]|
+|YBNs@PDA-L|[100]|[1000]|[200]|[200]|
+|YBNs@PDA-H|[100]|[1000]|[200]|[200]|

@@ -1,0 +1,40 @@
+# Scientific Reports
+
+# Finally, in the last step of the algorithm, in order to understand which p-values were significant, a false-discovery hypotheses rate or FDR has been adopted to take into account the fact that we were testing multiple
+
+# Betweenness centrality
+
+There are many different centrality measures in network science, namely degree centrality, betweenness centrality, and eigenvector centrality; these measures describe the importance of a node in the network. In our work, we considered only the betweenness centrality, because it was the most suited to represent the importance of the nodes. The betweenness centrality was introduced by Freeman, and it considers more important the nodes that behave as bridges in the network. It can be calculated as:
+
+CB(i) = ∑ σst(i) / σst
+
+where σst is the number of shortest paths connecting s and t, whilst σst(i) is the number of shortest paths connecting s and t and going through i.
+
+# Community detection
+
+In the study of network science, both natural complex networks and artificial complex networks display a modular behaviour, i.e. groups of nodes are more densely connected within the members of the group than with the rest of the network. This phenomenon can also be described by a function called modularity, which can be used as a parameter for one of the several ways to perform community detection in complex networks. In our work, we used the Louvain method because it is suited to large complex networks, moreover, this method is usually used when it is assumed that the gut microbiome of a healthy subject is a singular assortative network. We hypothesized that the modularity changes if the network represents the gut microbiome of an IBD subject.
+
+The Louvain method is based on an optimization problem that can be solved in a time O(n · log2n) where n is the number of nodes in the network. The method is based on the aforementioned modularity optimization. Modularity is defined as:
+
+Q = (1 / 2m) ∑[Aij - (kikj)]δ(ci, cj)
+
+The algorithm is based on two phases that repeat iteratively. In the first phase, each node is repeatedly moved individually between the communities to maximize modularity. The first phase stops when no further individual move can improve the modularity. In the second phase, each community formed in the first phase is considered as a node of a weighted graph, where the weights of the edges are given by the sum of the edges connecting the nodes in the communities. The algorithm has a high efficiency partly because the gain modularity Q, due to moving a node i into a community C, can be steadily calculated as:
+
+Q = [(∑in / 2m + ki,in) - (∑tot + ki)2] / 2m - [(∑in / 2m) - (∑tot)2 / 2m - (ki / 2m)2]
+
+where ∑in is the sum of the weights of the edges inside C, ∑tot is the sum of the weights of the edges going from the outside to the nodes inside C, ki is the sum of the weights of the edges going to node i, and ki,in is the sum of the weights of the edges going from i to the nodes in C and, finally, m is the sum of the weights of all the edges in the graph. One of the limitations of community detection based on modularity is the resolution limit. This limitation to modularity may be present when ls ≈ √2L, where ls is the number of internal links in a module S and L is the total number of links in the network and it can be overcome through several methods, one of the most promising is Surprise maximization. The modularity in correlation networks differs from the modularity in projected networks mainly because, in the former networks, the information being represented is based on the covariance of the pathway expressions across all the subjects, whereas, in the latter networks, the information is built on a cumulative measure that counts the number of subjects sharing common pathways. Therefore, in the first case, community detection identifies groups of correlated pathways and, in the second case, it identifies pathways that often appear in the same subject.
+
+# Data availability
+
+The datasets used and/or analysed during the current study are available from the corresponding author on reasonable request.
+
+# Received
+
+16 August 2022; Accepted: 29 October 2023; Published online: 08 November 2023
+
+# References
+
+1. Sender, R., Fuchs, S. & Milo, R. Revised estimates for the number of human and bacteria cells in the body. PLoS Biol. 14, e1002533 (2016).
+2. Thursby, E. & Juge, N. Introduction to the human gut microbiota. Biochem. J. 474, 1823–1836 (2017).
+3. Tanaka, M. & Nakayama, J. Development of the gut microbiota in infancy and its impact on health in later life. Allergol. Int. 66, 515–522 (2017).
+4. Ma, Y., Chen, H., Lan, C. & Ren, J. Help, hope and hype: Ethical considerations of human microbiome research and applications. Protein Cell 9, 404–415 (2018).

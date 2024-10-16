@@ -1,0 +1,48 @@
+# Scientific Reports
+
+# (2023) 13:9754
+
+# References
+
+1. Baranzini, S. E. The genetics of autoimmune diseases: a networked perspective. Curr. Opin. Immunol. 21(6), 596–605. https://doi.org/10.1016/j.coi.2009.09.014 (2009).
+2. Lees, C. W. et al. New IBD genetics: Common pathways with other diseases. Gut 60(12), 1739–1753. https://doi.org/10.1136/gut.2009.199679 (2011).
+3. Bae, J. M. et al. Association of inflammatory bowel disease with ankylosing spondylitis and rheumatoid arthritis: A nationwide population-based study. Mod. Rheumatol. 27(3), 435–440. https://doi.org/10.1080/14397595.2016.1211229 (2017).
+4. Smith, M. D., Gibson, R. A. & Brooks, P. M. Abnormal bowel permeability in ankylosing spondylitis and rheumatoid arthritis. J. Rheumatol. 12(2), 299–3054032403 (1985).
+5. Schinocca, C. et al. Role of the IL-23/IL-17 pathway in rheumatic diseases: An overview. Front. Immunol. 12, 637829. https://doi.org/10.3389/fimmu.2021.637829 (2021).
+6. Walz, A. et al. Regulation and function of the CXC chemokine ENA-78 in monocytes and its role in disease. J. Leukoc. Biol. 62(5), 604–611. https://doi.org/10.1002/jlb.62.5.604 (1997).
+7. Z’Graggen, K. et al. The C-X-C chemokine ENA-78 is preferentially expressed in intestinal epithelium in inflammatory bowel disease. Gastroenterology 113(3), 808–816. https://doi.org/10.1016/s0016-5085(97)70175-6 (1997).
+8. De Benedetti, F. et al. Serum soluble interleukin 6 (IL-6) receptor and IL-6/soluble IL-6 receptor complex in systemic juvenile rheumatoid arthritis. J. Clin. Investig. 93(5), 2114–2119. https://doi.org/10.1172/jci117206 (1994).
+9. Bertani, L. et al. Assessment of serum cytokines predicts clinical and endoscopic outcomes to vedolizumab in ulcerative colitis patients. Br. J. Clin. Pharmacol. 86(7), 1296–1305. https://doi.org/10.1111/bcp.14235 (2020).
+10. Gross, V. et al. Evidence for continuous stimulation of interleukin-6 production in Crohn’s disease. Gastroenterology 102(2), 514–519. https://doi.org/10.1016/0016-5085(92)90098-j (1992).
+11. Danieli, M. G. et al. A machine learning analysis to predict the response to intravenous and subcutaneous immunoglobulin in inflammatory myopathies. A proposal for a future multi-omics approach in autoimmune diseases. Autoimmun. Rev. 21(6), 103105. https://doi.org/10.1016/j.autrev.2022.103105 (2022).
+12. Ayoub, I. et al. Prediction models of treatment response in lupus nephritis. Kidney Int. 101(2), 379–389. https://doi.org/10.1016/j.kint.2021.11.014 (2022).
+13. Dai, D. et al. GMrepo v2: A curated human gut microbiome database with special focus on disease markers and cross-dataset comparison. Nucleic Acids Res. 50(D1), D777-d784. https://doi.org/10.1093/nar/gkab1019 (2022).
+14. Woetzel, D. et al. Identification of rheumatoid arthritis and osteoarthritis patients by transcriptome-based rule set generation. Arthritis Res. Ther. 16(2), R84. https://doi.org/10.1186/ar4526 (2014).
+15. Keir, M. E. et al. Regulation and role of αE integrin and gut homing integrins in migration and retention of intestinal lymphocytes during inflammatory bowel disease. J. Immunol. 207(9), 2245–2254. https://doi.org/10.4049/jimmunol.2100220 (2021).
+16. Broeren, M. G. et al. Disease-regulated gene therapy with anti-inflammatory interleukin-10 under the control of the CXCL10 promoter for the treatment of rheumatoid arthritis. Hum. Gene Ther. 27(3), 244–254. https://doi.org/10.1089/hum.2015.127 (2016).
+17. Davis, S. & Meltzer, P. S. GEOquery: A bridge between the Gene Expression Omnibus (GEO) and BioConductor. Bioinformatics 23(14), 1846–1847. https://doi.org/10.1093/bioinformatics/btm254 (2007).
+18. Gautier, L. et al. affy–analysis of Affymetrix GeneChip data at the probe level. Bioinformatics 20(3), 307–315. https://doi.org/10.1093/bioinformatics/btg405 (2004).
+19. Leek, J. T. et al. The sva package for removing batch effects and other unwanted variation in high-throughput experiments. Bioinformatics 28(6), 882–883. https://doi.org/10.1093/bioinformatics/bts034 (2012).
+20. Ringnér, M. What is principal component analysis?. Nat. Biotechnol. 26(3), 303–304. https://doi.org/10.1038/nbt0308-303 (2008).
+21. Huber, W. et al. Orchestrating high-throughput genomic analysis with Bioconductor. Nat. Methods. 12(2), 115–121. https://doi.org/10.1038/nmeth.3252 (2015).
+22. Ritchie, M. E. et al. limma powers differential expression analyses for RNA-sequencing and microarray studies. Nucleic Acids Res. 43(7), e47. https://doi.org/10.1093/nar/gkv007 (2015).
+23. Wickham, F. R. H., Henry, L., Müller, K., Vaughan, D. dplyr: A Grammar of Data Manipulation_. R package version 1.1.2. (2023). https://CRAN.R-project.org/package=dplyr.
+24. Langfelder, P. & Horvath, S. WGCNA: An R package for weighted correlation network analysis. BMC Bioinform. 9, 559. https://doi.org/10.1186/1471-2105-9-559 (2008).
+25. C. H. VennDiagram: Generate High-Resolution Venn and Euler Plots_.R package version 1.7.3.2022. https://CRAN.R-project.org/package=VennDiagram.
+26. Szklarczyk, D. et al. STRING v11: Protein–protein association networks with increased coverage, supporting functional discovery in genome-wide experimental datasets. Nucleic Acids Res. 47(D1), D607-d613. https://doi.org/10.1093/nar/gky1131 (2019).
+27. Shannon, P. et al. Cytoscape: A software environment for integrated models of biomolecular interaction networks. Genome Res. 13(11), 2498–2504. https://doi.org/10.1101/gr.1239303 (2003).
+28. Bader, G. D. & Hogue, C. W. An automated method for finding molecular complexes in large protein interaction networks. BMC Bioinform. 4, 2. https://doi.org/10.1186/1471-2105-4-2 (2003).
+29. Yu, G. et al. clusterProfiler: An R package for comparing biological themes among gene clusters. OMICS 16(5), 284–287. https://doi.org/10.1089/omi.2011.0118 (2012).
+30. Tibshirani, R. Regression shrinkage and selection via the lasso. J. R. Stat. Soc. Ser. B Methodol. 58(1), 267–288 (1996).
+31. Friedman, J., Hastie, T. & Tibshirani, R. Regularization paths for generalized linear models via coordinate descent. J. Stat. Softw. 33(1), 1–2220808728 (2010).
+32. Suykens, J. A. & Vandewalle, J. Least squares support vector machine classifiers. Neural Process. Lett. 9(3), 293–300 (1999).
+33. Huang, M. L. et al. SVM-RFE based feature selection and Taguchi parameters optimization for multiclass SVM classifier. Sci. World J. 2014, 795624. https://doi.org/10.1155/2014/795624 (2014).
+34. Villanueva, R. A. M. & Chen, Z. J. ggplot2: Elegant Graphics for Data Analysis (Springer, 2019).
+35. K. A. ggpubr: ’ggplot2’ Based Publication Ready Plots_.R package version 0.4.0.2020. https://CRAN.R-project.org/package=ggpubr.
+36. Robin, X. et al. pROC: An open-source package for R and S+ to analyze and compare ROC curves. BMC Bioinform. 12, 77. https://doi.org/10.1186/1471-2105-12-77 (2011).
+37. Zhang, X. et al. The oral and gut microbiomes are perturbed in rheumatoid arthritis and partly normalized after treatment. Nat. Med. 21(8), 895–905. https://doi.org/10.1038/nm.3914 (2015).
+38. S. K.ggrepel: Automatically Position Non-Overlapping Text Labels with ’ggplot2’_.R package version 0.9.2.2022. https://CRAN.R-project.org/package=ggrepel.
+39. Cheng, L. et al. gutMGene: A comprehensive database for target genes of gut microbes and microbial metabolites. Nucleic Acids Res. 50(D1), D795-d800. https://doi.org/10.1093/nar/gkab786 (2022).
+40. Kuhn, M. et al. STITCH 4: Integration of protein-chemical interactions with user data. Nucleic Acids Res. 42(Database issue), D401–D407. https://doi.org/10.1093/nar/gkt1207 (2014).
+41. Newman, A. M. et al. Robust enumeration of cell subsets from tissue expression profiles. Nat. Methods. 12(5), 453–457. https://doi.org/10.1038/nmeth.3337 (2015).
+42. Bindea, G. et al. Spatiotemporal dynamics of intratumoral immune cells reveal the immune landscape in human cancer. Immunity 39(4), 782–795. https://doi.org/10.1016/j.immuni.2013.10.003 (2013).

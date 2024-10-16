@@ -1,0 +1,23 @@
+# C. D. Moulton et al.
+
+# NEURO-IMMUNE INTERACTIONS: HOW THE NERVOUS AND IMMUNE SYSTEMS INFLUENCE EACH OTHER
+
+# Table 1. Diagnosis and treatment of clinical depression in people with chronic diseases
+
+|Diagnosis according to the International Classification of Diseases 10th edition (ICD-10)|Stepped care treatment model according to NICE guidelines [5]|
+|---|---|
+|Criteria For at least 2 weeks (or less if symptoms are severe and of rapid onset), the following 2 core symptoms present: Low mood Anhedonia (loss of interest and enjoyment) Low energy Plus at least 2 associated symptoms: Reduced concentration and attention Reduced self-esteem and self-confidence Ideas of guilt and unworthiness (even in a mild type of episode) Bleak and pessimistic views of the future Ideas or acts of self-harm or suicide Disturbed sleep Diminished appetite|Severity Mild depression defined with minimum 2 core symptoms and total of 4 symptoms (core or other) Moderate depression defined with minimum 2 core symptoms and total of 6 symptoms Severe depression defined with all 3 core symptoms and total of 8 symptoms. Psychotic symptoms (e.g. delusions, hallucinations) may or may not be present|
+|Mild or subthreshold depression Group physical activity programme, group-based peer support or low-intensity psychological interventions (e.g. group CBT or computerized CBT) Antidepressants if symptoms are persistent or unresponsive to above|Moderate depression Antidepressant medication (SSRI usual first-line) for minimum of 6 months; alternatives include mirtazapine, SNRI, tricyclics (caution because of toxicity in overdose) High-intensity psychological therapy (e.g. individual CBT) Combination of antidepressants and psychological therapy (most evidence-based)|
+|Severe depression As per moderate depression, but referral to specialist mental services recommended if risk of self-harm, suicide or severe self-neglect|Specialist treatments may include augmentation with lithium, anti-psychotic medication or ECT|
+
+CBT = cognitive behavioural therapy; ECT = electroconvulsive therapy; ICD = International Classification of Diseases; NICE = National Institute for Health and Care Excellence; SNRI = serotonin and noradrenaline reuptake inhibitor; SSRI = selective serotonin reuptake inhibitor.
+
+of 4314 patients with IBD over 2 years found significant depression, schizophrenia and bipolar disorders [20]. Meta-analyses have found that inflammatory cytokines, such as interleukin (IL)-6, and acute phase proteins, such as C-reactive protein (CRP), are associated with increased risk of multiple adverse outcomes, including relapse, hospitalization, requirement for biologicals and surgery [9]. Further, another prospective study of 2007 patients found incidence of depressive symptoms over time [38].
+
+that depressive symptoms expedited clinical recurrence [37]. Table 2 summarizes the associations between depressive symptoms and adverse outcomes in the largest prospective studies to date. In sum, depressive symptoms are over-represented in people with IBD – especially in CD and in patients – although this is predominantly based on self-report measures. Moreover, the presence of depressive symptoms is associated with poor biomedical outcomes over time.
+
+# Inflammation as a link between depression and IBD
+
+During the last two decades, a pathogenic role for inflammation has been advocated in mental illnesses, including depressive symptoms and IBD, respectively, including increased concentrations of IL-1, sIL-2R, IL-6, IL-23 and CRP. However, the evidence specifically testing inflammation as a correlate.
+
+310 © 2019 British Society for Immunology, Clinical and Experimental Immunology, 197: 308–318

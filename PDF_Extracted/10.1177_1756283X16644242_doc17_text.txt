@@ -1,0 +1,59 @@
+# References
+
+SM Vindigni, TL Zisman et al.
+
+Png, C., Linden, S., Gilshenan, K., Zoetendal, E., McSweeney, C., Sly, L. et al. (2010) Mucolytic bacteria with increased prevalence in IBD mucosa augment in vitro utilization of mucin by other bacteria. *Am J Gastroenterol* 105: 2420–2428.
+
+Prantera, C., Lochs, H., Campieri, M., Scribano, M., Sturniolo, G., Castiglione, F. et al. (2006) Antibiotic treatment of Crohn’s disease: results of a multicentre, double blind, randomized, placebo-controlled trial with rifaximin. *Aliment Pharmacol Ther* 23: 1117–1125.
+
+Quince, C., Ijaz, U.Z., Loman, N., Eren, A.M., Saulnier, D., Russell, J. et al. (2015) Extensive Modulation of the Fecal Metagenome in Children with Crohn’s Disease During Exclusive Enteral Nutrition. *Am J Gastroenterol* 110: 1718–1729.
+
+Radford-Smith, G. (2008) What is the importance of appendectomy in the natural history of IBD? *Inflamm Bowel Dis* 14(Suppl. 2): S72–S74.
+
+Radford-Smith, G., Edwards, J., Purdie, D., Pandeya, N., Watson, M., Martin, N. et al. (2002) Protective role of appendicectomy on onset and severity of ulcerative colitis and Crohn’s disease. *Gut* 51: 808–813.
+
+Rajendran, N. and Kumar, D. (2010) Role of diet in the management of inflammatory bowel disease. *World J Gastroenterol* 16: 1442–1448.
+
+Rajilic-Stojanovic, M., Shanahan, F., Guarner, F. and De Vos, W. (2013) Phylogenetic analysis of dysbiosis in ulcerative colitis during remission. *Inflamm Bowel Dis* 19: 481–488.
+
+Rajilic-Stojanovic, M., Smidt, H. and De Vos, W. (2007) Diversity of the human gastrointestinal tract microbiota revisited. *Environ Microbiol* 9: 2125–2136.
+
+Ramasundara, M., Leach, S., Lemberg, D. and Day, A. (2009) Defensins and inflammation: the role of defensins in inflammatory bowel disease. *J Gastroenterol Hepatol* 24: 202–208.
+
+Ray, K. (2015) IBD. Gut microbiota in IBD goes viral. *Nat Rev Gastroenterol Hepatol* 12: 122.
+
+Reiberger, T., Ferlitsch, A., Payer, B., Mandorfer, M., Heinisch, B., Hayden, H. et al. (2013) Non-selective beta-blocker therapy decreases intestinal permeability and serum levels of LBP and IL-6 in patients with cirrhosis. *J Hepatol* 58: 911–921.
+
+Richard, M., Lamas, B., Liguori, G., Hoffmann, T. and Sokol, H. (2015) Gut fungal microbiota: the yin and yang of inflammatory bowel disease. *Inflamm Bowel Dis* 21: 656–665.
+
+Riordan, A., Hunter, J., Cowan, R., Crampton, J., Davidson, A., Dickinson, R. et al. (1993) Treatment of active Crohn’s disease by exclusion diet: East Anglian multicentre controlled trial. *Lancet* 342: 1131–1134.
+
+Roeselers, G., Ponomarenko, M., Lukovac, S. and Wortelboer, H. (2013) Ex vivo systems to study host-microbiota interactions in the gastrointestinal tract. *Best Pract Res Clin Gastroenterol* 27: 101–113.
+
+Rogers, M. and Aronoff, D. (2015) The influence of non-steroidal anti-inflammatory drugs on the gut microbiome. *Clin Microbiol Infect*:
+
+Rook, G. (2012) Hygiene hypothesis and autoimmune diseases. *Clin Rev Allergy Immunol* 42: 5–15.
+
+Rossen, N., Fuentes, S., Van Der Spek, M., Tijssen, J., Hartman, J., Duflou, A. et al. (2015) Findings from a randomized controlled trial of fecal transplantation for patients with ulcerative colitis. *Gastroenterology* 149: 110–118 e114.
+
+Rubin, D. (2013) Curbing our enthusiasm for fecal transplantation in ulcerative colitis. *Am J Gastroenterol* 108: 1631–1633.
+
+Rungoe, C., Langholz, E., Andersson, M., Basit, S., Nielsen, N., Wohlfahrt, J. et al. (2014) Changes in medical treatment and surgery rates in inflammatory bowel disease: a nationwide cohort study 1979–2011. *Gut* 63: 1607–1616.
+
+Sartor, R. (2008) Microbial influences in inflammatory bowel diseases. *Gastroenterology* 134: 577–594.
+
+Scanlan, P. and Marchesi, J. (2008) Micro-eukaryotic diversity of the human distal gut microbiota: qualitative assessment using culture-dependent and independent analysis of faeces. *ISME J* 2: 1183–1193.
+
+Scarpellini, E., Ianiro, G., Attili, F., Bassanelli, C., De Santis, A. and Gasbarrini, A. (2015) The human gut microbiota and virome: potential therapeutic implications. *Dig Liver Dis* 47: 1007–1012.
+
+Schultsz, C., Van Den Berg, F., Ten Kate, F., Tytgat, G. and Dankert, J. (1999) The intestinal mucus layer from patients with inflammatory bowel disease harbors high numbers of bacteria compared with controls. *Gastroenterology* 117: 1089–1097.
+
+Sekelja, M., Berget, I., Naes, T. and Rudi, K. (2011) Unveiling an abundant core microbiota in the human adult colon by a phylogroup-independent searching approach. *ISME J* 5: 519–531.
+
+Sekirov, I., Russell, S., Antunes, L. and Finlay, B. (2010) Gut microbiota in health and disease. *Physiol Rev* 90: 859–904.
+
+Shanahan, F. (2012) The gut microbiota – a clinical perspective on lessons learned. *Nat Rev Gastroenterol Hepatol* 9: 609–614.
+
+Shaw, S., Blanchard, J. and Bernstein, C. (2010) Association between the use of antibiotics in the first year of life and pediatric inflammatory bowel disease. *Am J Gastroenterol* 105: 2687–2692.
+
+http://tag.sagepub.com

@@ -1,0 +1,38 @@
+# Dikhnah Alshehri, et al.: Gut microbiota in IBD therapy
+
+# TABLE 1. Findings of several studies concerned with gut microbiota dysbiosis in IBD. F = changes within fecal samples, T = changes within tissue/mucosal (biopsy samples), reproduced from Mcllroy et al. [134]
+
+|Sample type, size and References|IBD Type|Result (Microbiota signature)|Pre-dominant phylum|Family|Taxon|Genus|Species| |
+|---|---|---|---|---|---|---|---|---|
+|Study 1 [135]|In CD patients|Reduction in Firmicutes ↓|Firmicutes|Ruminococcaceae|Faecalibacterium|Prausnitzii| | |
+| | | | | |Ruminococcus| | | |
+| | | | |lachnospiraceae|Blautia| | | |
+| | | | | |Coprococcus| | | |
+| | | | | |Roseburia| | | |
+|30 Control|Reduction in Bacteroidetes ↓|Bacteroidaceae|Bacteroides| | | | | |
+|Sample Type:|Mucosal biopsies [136]|In UC patients|No significant (limited) alterations noticed| | | | | |
+|Study 2 [137]|In UC patients|General Reduction in microbial richness (F)|Bacteroidetes|Bacteroidaceae|Bacteroides ↓|Prevotella ↓| | |
+|30 UC|Firmicutes|Number of unclassified|Lachnospiraceae ↓|Ruminococcaceae ↓|Streptococcaceae|Streptococcus ↑| | |
+|13 Control| | |Enterococcaceae|Enterococcus ↑| | | | |
+|Study 3 [138]|In UC patients|Protobacteria|Pasteurellaceae|Haemophilus ↑|Verrucomicrobia ↓|Verrucomicrobiaceae|Akkermansia ↓| |
+|Pediatrics|Firmicutes|lachnospiraceae|Roseburia ↓| | | | | |
+|10 UC| | | | | | | | |
+|13 Control| | | | | | | | |
+|Sample Type:|Mucosal biopsies [136]|Study 4 [139]|In CD patients|General Reduction in microbial richness (F)|Firmicutes|Peptostreptococcaceae|Peptostreptococcus ↑| |
+|Pediatrics| |Lachnospiraceae ↓|Ruminococcaceae|Faecalibacterium ↓|Subdoligranulum ↓| | | |
+|23 CD|21 Control|Sample Type:|Fecal (F)|Actinobacteria|Coriobacteriaceae|Atopobium ↑| | |
+|Study 5 [140]|In UC patients|Firmicutes|Ruminococcaceae|Ruminococcus|Bromii ↓|Eubacteriaceae|Eubacterium| |
+|15 UC|15 Control|Sample Type:|Fecal|(class)|Clostridiales|lachnospiraceae|Roseburia sp. ↓| |
+| | | |Peptostreptococcaceae|Peptostreptococcus sp. ↑| | | | |
+| | | |Clostridiales|Clostridiaceae|Clostridium|Difficile ↑| | |
+| | | |Verrucomicrobia|Verrucomicrobiaceae|Akkermansia sp. ↓|Fusobacteria|Fusobacteriaceae| |
+| | | |Protobacteria|Helicobacteraceae|Helicobacter sp. ↑|Campylobacteraceae|Campylobacter sp. ↑| |
+|Study 6 [141]|In CD patients|Firmicutes|(class) ↓|Clostridiales|Ruminococcaceae ↓|lachnospiraceae|Roseburia ↓| |
+|Pediatrics|19 UC|18 Control|Sample Type:|Fecal|Bacteroidetes ↑|Protobacteria|Enterobacteriaceae ↑| |
+|Study 7 [142]|In CD patients|Firmicutes|lachnospiraceae|Roseburia ↓|Ruminococcaceae ↓|Faecalibacterium|Prausnitzii ↓| |
+|Adults|121 CD|75 UC|In UC patients|Firmicutes|lachnospiraceae|Roseburia ↓| | |
+|27 Control|Sample Type:|Mucosal biopsies [136] (n=95)|Subgroup of fecal samples|(n=136)| | | | |
+
+Bosn J Basic Med Sci. 2021;21(3):270-283
+
+www.bjbms.org

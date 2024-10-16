@@ -1,0 +1,11 @@
+# Scientific Reports
+
+# (2023) 13:19428
+
+# https://doi.org/10.1038/s41598-023-46184-y
+
+Figure 5. Projected network representation of uncommon metagenomic pathways in (a) NI subjects, (b) CD subjects, (c) UC subjects. Networks are obtained through a bipartite projection and the exclusion of an edge between two nodes is made through a comparison with a null model. The nodes highlighted correspond to nodes with high betweenness centralities or to nodes that compare to the NI projected network are isolated. The legend remarks the species of each node/pathway, where the grey nodes are classified as 'other'.
+
+The result could differentiate the connectome of the UC microbiome from the connectome of the CD microbiome. The isolation of the E. coli module in the UC correlation network could further represent the peculiar features of the particular form of IBD. This isolation meant that there were no correlations with the other pathways, and the metagenomic expression pattern across the samples correlated only inside the same bacterial species. In the NI correlation network, E. siraeum and R. gnavus pathways were the two main bridge pathways between E. coli and the rest of the network, it could be possible to hypothesize that re-establishing a connection between E. coli module with the aforementioned bacterial species could lead back to healthy gut microbiota. In the CD correlation network, R. intestinalis pathways had the role of bridge pathways, and, in fact, by using the permutation tests between the NI and CD samples, we obtained that the most differential pathways were R. intestinalis pathways. In the literature, this bacterial species, which has anti-inflammatory properties on the intestinal walls, was depleted in IBD subjects; nevertheless, the mechanisms underlying its protective action against IBDs are still unknown 39,40.
+
+In the uncommon bacterial pathways of the NI projected network, the E. coli module was connected to the E. bolteae, which, in turn, was linked to Bifidobacterium longum module. B. longum is a bacterial species that can have anti-inflammatory properties in the human gut 10. By contrast, in the CD projected network, E. coli was connected to the rest of the network through two Dorea longicatena pathways, which were nodes PWY-6163|DOREA_LONGICATENA and COA-PWY-1|DOREA_LONGICATENA and were connected.

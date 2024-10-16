@@ -1,0 +1,35 @@
+# Genetic factors found common in both ReA and IBD
+
+are HLA-B27, HLA-B51 and HLA-DRB1. The most important mechanism of susceptibility of HLA in ReA is molecular mimicry that is microbial peptides mimicking HLA autopeptides of human host leading to autoimmunity. This mechanism has been observed in ReA where reports have predicted microorganism peptides such as chlamydial proteins (ClpC, NQRA and DNAP) and Yersinia pseudotuberculosis analysis 14. Similarly, molecular mimicry has also been observed in IBD cases having extraintestinal manifestations, peptides (YopH) showing homology with human HLA-B27 via bioinformatic tations. We performed targeted molecular mimicry analysis in our study using our robust microbial protein (NHAA) with HLA-B27, HLA-B51 and HLA-DRB1, enhancing the importance of NHAA acting as a trigger for generating IBD associated ReA.
+
+We generate a putative hypothesis amalgamating key findings with literature. We state that the initial host-microbe triggers for IBD associated ReA is when pathogenic microbial protein NHAA interacts with host protein KYNU that further interacts with human proteins ADA, SOD2, CAT and ACE and carbon metabolism involving the above host proteins is hampered. Methotrexate regulates carbon metabolism and the associated host-microbe proteins reducing effect of IBD associated ReA.
+
+Since carbon metabolism is the most basic aspect of life and therefore an extensive network consisting of sub-pathways, we narrowed down our findings towards a consequentially central and a significant pathway that embrace the carbon metabolism pathway involving the molecular signatures KYNU, ADA, SOD2, CAT and ACE, further is also effectuated by potential drug methotrexate and is associated with IBD/ ReA/ IBD and ReA cohorts affecting proinflammatory cytokines in IBD reducing inflammation93. In inflammatory arthritis, the mechanisms reported by which methotrexate reduces inflammation include enhanced adenosine release, de novo synthesis of purines and pyrimidines, inhibition of transmethylation reactions, diminished accumulation of polyamines and nitric oxide synthase uncoupling. Most of the mechanisms are associated with folate biosynthesis, a type of carbon metabolism 94. KYNU, ADA, SOD2, CAT and ACE are also found to be involved in folate biosynthesis and metabolism from GeneCards.
+
+Apart from the above targets, parallel interactors, pathways and drugs for IBD co-evolved ReA obtained in our host-microbe disease network can be utilised further as disease determinants. The experimental validation of these targets in patient cohorts need to be performed on a pilot scale in future to increase the robustness of this network.
+
+The intertwined information processed through the knowledge-base created for the linked disorders have given the most elaborate layout of patterns observed in disease diagnosis and analysis. The major information after processing the gene expression profiles, protein markers, molecular networks and metabolic networks involved here have led to chalk out as well as connect the strings for robust gut microbiome paradigm shifts.
+
+# Conclusions
+
+The current work on host-microbe interactions provides a starting point for researchers and clinicians to investigate Inflammatory Bowel Disease (IBD) associated Reactive Arthritis (ReA). In this study a combinatorial approach is utilised to reveal the interactions of gut microbes with human host extensively sketched through the work-pipeline providing the vital insights for the drug targets, biomarkers, pathways and inhibitors for etiology, prognosis, diagnosis and treatment attributes of pathogenic rheumatic autoimmunity.
+
+The information sorted through the combinatorial study will be useful in deciphering the etiopathogenesis of the co-linked disorders especially for the rare ReA, from synonymous analyses of IBD datasets, conferred through common microbial triggers.
+
+These predictions substantially furnish the intricate details of the cross-talk between post-infectious inflammatory reactions with shared patho-immunogenesis as the starting point for researchers and clinicians for detailed and newer experimental analysis. Future studies are required on larger cohort of patients having ReA due to IBD in order to have validated outputs of the predictive network.
+
+Received: 6 October 2019; Accepted: 6 July 2020; Published online: 15 September 2020
+
+# References
+
+1. Kim, P. S., Klausmeier, T. L. & Orr, D. P. Reactive arthritis: a review. J. Adolesc. Health. 44, 309–315 (2009).
+2. Orchard, T. R. Management of arthritis in patients with inflammatory bowel disease. Gastroenterol. Hepatol. 8, 327–329 (2012).
+3. Ajene, A. N., Fischer Walker, C. L. & Black, R. E. Enteric pathogens and reactive arthritis: a systematic review of Campylobacter, Salmonella and Shigella-associated reactive arthritis. JHPN 31, 299–307 (2013).
+4. Feagan, B. G. et al. Vedolizumab as induction and maintenance therapy for ulcerative colitis. N. Engl. J. Med. 369, 699–710 (2013).
+5. Tan, M., Ong, J. P. L. & Teo, E. K. Achieving deep remission in Crohn’s disease: treating beyond symptoms. Ann. Acad. Med. Singap. 43, 200–202 (2014).
+6. Manasson, J. et al. Gut microbiota perturbations in reactive arthritis and postinfectious spondyloarthritis. Arthritis Rheum. 70, 242–254 (2018).
+7. Misra, R. & Gupta, L. Epidemiology: time to revisit the concept of reactive arthritis. Nat. Rev. Rheumatol. 13, 327–328 (2017).
+8. Bodis, G., Toth, V. & Schwarting, A. Role of human leukocyte antigens (HLA) in autoimmune diseases. Rheumatol. Ther. 5, 5–20 (2018).
+9. Crux, N. B. & Elahi, S. Human leukocyte antigen (HLA) and immune regulation: how do classical and non-classical HLA alleles modulate immune response to human immunodeficiency virus and hepatitis C virus infections?. Front. Immunol. 8, 832 (2017).
+10. Birnbaum, J., Bartlett, J. G. & Gelber, A. C. Clostridium difficile: an under-recognized cause of reactive arthritis? Clin. Rheumatol. 27, 253–255 (2008).
+11. Townes, J. M. Reactive arthritis after enteric infections in the United States: the problem of definition. Clin. Infect. Dis. 50, 247–254 (2010).

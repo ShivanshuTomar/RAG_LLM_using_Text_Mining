@@ -1,0 +1,11 @@
+|Factor|Type of Study| |N|Intervention/Methodology|Outcome|Author(s)|Reference| |
+|---|---|---|---|---|---|---|---|---|
+| |In-vivo rat study| |4–5 rats per group|WAS and probiotics|Probiotics prevented chronic stress-induced intestinal abnormalities|Zareie, M. et al.|99| |
+| | | |84|Maternal separation and prebiotics/probiotics/LC-PUFA|Nutritional intervention at weaning normalized gut permeability and restored growth rate|Garcia-Rodenas, CL. et al.|100| |
+| |In-vivo mouse study| |36|Probiotic formulation|Suggested the importance of probiotics in gut/brain axis in stress-related disorders|Bravo, JA. et al.|111| |
+| | | |8 mice per group|Chronic mild stress and probiotics|Decreased pro-inflammatory cytokines and altered stress-related behaviors|Li, N. et al.|113| |
+|Pro/prebiotics| | |36 rats|Probiotic formulation|Anxiolytic-like activity in rats|Messaoudi, M. et al.|112| |
+| | | |66 individuals|Double-blind, placebo-controlled, randomized parallel group study|Probiotic formulation|Beneficial psychological effects in healthy human volunteers|Messaoudi, M. et al.|112|
+| |Systematic review| |11 RCTs|Prebiotic supplementation|Short-term beneficial effects in intestinal microbiota composition|Rao, S. et al.|114| |
+
+HPA = hypothalamic pituitary adrenal axis; LC-PUFA = long-chain poly-unsaturated fatty acids; RCT = randomized controlled trials; SDR = social disruption; WAS = water-avoidance stress.

@@ -1,0 +1,32 @@
+# Therapeutic Advances in Gastroenterology
+
+# 12
+
+# References
+
+1. metatranscriptomics and viromics to explore novel microbial interactions: towards a systems-level understanding of human microbiome. Comput Struct Biotechnol J 2015; 13: 390–401.
+2. Jin P, Wang K, Huang C, et al. Mining the fecal proteome: from biomarkers to personalised medicine. Expert Rev Proteomics 2017; 14: 445–459.
+3. Zhang X, Chen W, Ning Z, et al. Deep metaproteomics approach for the study of human microbiomes. Anal Chem 2017; 89: 9407–9415.
+4. Kim MS, Pinto SM, Getnet D, et al. A draft map of the human proteome. Nature 2014; 509: 575–581.
+5. Lichtman JS, Alsentzer E, Jaffe M, et al. The effect of microbial colonization on the host proteome varies by gastrointestinal location. ISME J 2016; 10: 1170–11781.
+6. Erickson AR, Cantarel BL, Lamendella R, et al. Integrated metagenomics/metaproteomics reveals human host-microbiota signatures of crohn’s disease. PLoS One 2012; 7: e49138.
+7. Li X, LeBlanc J, Elashoff D, et al. Microgeographic proteomic networks of the human colonic mucosa and their association with inflammatory bowel disease. Cell Mol Gastroenterol Hepatol 2016; 2: 567–583.
+8. Zhang X, Deeke SA, Ning Z, et al. Metaproteomics reveals associations between microbiome and intestinal extracellular vesicle proteins in pediatric inflammatory bowel disease. Nat Commun 2018; 9: 2873.
+9. Yan S, Nagle DG, Zhou Y, et al. Application of systems biology in the research of TCM formulae. Syst Biol its Appl TCM Formulas Res 2018; 31–67.
+10. Holmes E, Wilson ID and Nicholson JK. Metabolic phenotyping in health and disease. Cell 2008; 134: 714–717.
+11. Fernie AR, Trethewey RN, Krotzky AJ, et al. Metabolite profiling: from diagnostics to systems biology. Nat Rev Mol Cell Biol 2004; 5: 763–769.
+12. Andrew Clayton T, Lindon JC, Cloarec O, et al. Pharmaco-metabonomic phenotyping and personalized drug treatment. Nature 2006; 440: 1073–1077.
+13. Everett JR, Loo RL and Pullen FS. Pharmacometabonomics and personalized medicine. Ann Clin Biochem 2013; 50: 523–545.
+14. Everett JR. Pharmacometabonomics in humans: a new tool for personalized medicine. Pharmacogenomics 2015; 16: 737–754.
+15. Cameron SJS, Bolt F, Perdones-Montero A, et al. Rapid evaporative ionisation mass spectrometry (REIMS) provides accurate direct from culture species identification within the genus Candida. Sci Rep 2016; 6: 36788.
+16. Phelps DL, Balog J, Gildea LF, et al. The surgical intelligent knife distinguishes normal, borderline and malignant gynaecological tissues using rapid evaporative ionisation mass spectrometry (REIMS). Br J Cancer 2018; 118: 1349–1358.
+17. Claude E, Jones EA and Pringle SD. DESI mass spectrometry imaging (MSI). New York, NY: Humana Press, 2017, pp.65–75.
+18. Bundy JG, Lenz EM, Bailey NJ, et al. Metabonomic assessment of toxicity of 4-fluoroaniline, 3,5-difluoroaniline and 2-fluoro-4-methylaniline to the earthworm Eisenia veneta (Rosa): identification of new endogenous biomarkers. Environ Toxicol Chem 2002; 21: 1966–1972.
+19. Li M, Wang B, Zhang M, et al. Symbiotic gut microbes modulate human metabolic phenotypes. Proc Natl Acad Sci 2008; 105: 2117–2122.
+20. Williams HRT, Cox IJ, Walker DG, et al. Characterization of inflammatory bowel disease with urinary metabolic profiling. Am J Gastroenterol 2009; 104: 1435–1444.
+21. Schicho R, Shaykhutdinov R, Ngo J, et al. Quantitative metabolomic profiling of serum, plasma, and urine by H NMR spectroscopy discriminates between patients with inflammatory bowel disease and healthy individuals. J. Proteome Res 2012: 11; 3344–3357.
+22. Williams HRT, Willsmore JD, Cox IJ, et al. Serum metabolic profiling in inflammatory bowel disease. Dig Dis Sci 2012; 57: 2157–2165.
+23. Hisamatsu T, Okamoto S, Hashimoto M, et al. Novel, objective, multivariate biomarkers composed of plasma amino acid profiles for the diagnosis and assessment of inflammatory bowel disease. PLoS One 2012; 7: e31131.
+24. Ooi M, Nishiumi S, Yoshie T, et al. GC/MS-based profiling of amino acids and TCA cycle-related molecules in ulcerative colitis. Inflamm Res 2011; 60: 831–840.
+25. Julian RM, Elaine H, Fatima K, et al. Rapid and noninvasive metabonomic characterization of inflammatory bowel disease. J Proteome Res 2007; 6: 546–551.
+26. Yang F, Mao Y, Zhang X, et al. LC-MS/MS method for the determination of melamine in rat plasma: toxicokinetic study in Sprague-Dawley rats. J Sep Sci 2009; 32: 2974–2978.

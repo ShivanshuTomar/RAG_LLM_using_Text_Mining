@@ -1,0 +1,28 @@
+# Minot and Willis Microbiome
+
+# (2019) 7:110
+
+# Results and discussion
+
+because of the availability of metagenomic data from multiple independent cohorts [2–8]. Associative studies characterizing differences in the microbiome as a function of disease status are complicated by the effect of disease and treatment process on the microbiome [9–12], but it is still possible that some of the differences in the microbiome may play some causal role or implicate a causal biological process.
+
+The approach of gene-level metagenomics is not new to this study and has been proposed previously as an alternative to taxonomic or metabolic pathway analysis [13]. Indeed even the popular HUMAnN2 tool [14] includes gene-family abundance estimation using the UniRef database of proteins [15]. We took the previously described approach of grouping together genes that are consistently found at a similar level of abundance across multiple samples [13]. Such co-abundant genes are likely to be found on the same chromosome or piece of DNA across multiple samples, such as in the core genome for a bacterial species or consortium, on a plasmid that may move between strains, or as part of an operon in the accessory genome of a species that is only found in a subset of strains. Biologically speaking, co-abundant genes are not independent entities and can be grouped together for purposes of inferring their relationship with human health and disease. In addition, grouping genes by co-abundance finds low-dimensional structure in high-dimensional gene-level data, mitigating challenges with the statistical analysis of high-dimensional metagenomics data.
+
+The primary analytical challenge that we encountered in this project was that of efficiently clustering microbial genes based on co-abundance. This general approach has been proposed and implemented previously [13, 16], but existing implementations do not perform exhaustive searches for co-abundant genes because performing all pairwise comparisons of millions of genes in large microbiome datasets [17] is computationally intractable. To overcome this obstacle, we took advantage of the Approximate Nearest Neighbor (ANN) heuristic, which is able to robustly identify candidate subsets of co-abundant genes without having to perform all pairwise comparisons [18, 19]. We implemented a Python package (“ann_linkage_clustering”) to perform exhaustive average linkage clustering using the cosine distance metric on any dataset containing gene abundance data across a set of samples. While this method is relatively computationally intensive, we were able to execute it in a reasonable amount of time using commodity “cloud” computational resources (e.g., 17 h for a set of five million genes across 199 samples with a 256 GB RAM node). While this clustering procedure is not expected to be deterministic, our experience has been that clusters are generally reproduced across replicates and we are actively studying the generalizability of gene clustering as a function of input data and clustering thresholds. In the ideal case, this approach improves the precision of estimating gene-level abundance by combining data from multiple correlated observations, as well as reducing the number of hypotheses to test in an association study, while maintaining the interpretation advantages of distinct genetic elements (core genome, plasmid, virus, etc.).
+
+We applied this novel approach to gene-level metagenomics to test for an association of the gut microbiome across two distinct human diseases: IBD and CRC (Table 1). We selected these diseases because each has been studied by multiple groups who have collected stool samples and performed metagenomic whole-genome “shotgun” (WGS) sequencing (Table 1) [2–8]. Because each of these previous studies used slightly different protocols for selecting patients, collecting samples, and performing sequencing, an integrated analysis of these datasets should serve to identify those signals in the microbiome which are most robust to the methodological and experimental confounders.
+
+The Co-Abundant Gene groups (CAGs) identified in this project contained 2–23,856 genes, with the majority of genes found in CAGs ranging between 10 and 2000 genes in size and containing the range of metabolic functions expected from complete and partial microbial genomes (Additional file 1: Figure S1). Visual inspection of the genes making up these CAGs also demonstrated the highly consistent patterns of abundance displayed by the genes which were ultimately grouped into these CAGs (Fig. 1). We also analyzed a published single-cell sequencing dataset from the stool microbiome [20] and found that genes from the same CAG were found in the same physical cell at three to nine times the rate expected by chance (Additional file 2: Figure S2). The size, functional content, and clear pattern of co-abundance displayed by the genes in this analysis suggest that the CAGs used for statistical analysis represent biological units that are meaningful reflections of the composition of the microbiome across multiple independent datasets.
+
+Our approach to the bioinformatic and statistical analysis was to select a single study for each disease as the
+
+**Table 1 Published datasets analyzed in this study**
+|Group|Used for|Name|NCBI BioProject|
+|---|---|---|---|
+|IBD|Discovery|Schirmer et al. [2]|PRJNA389280|
+|IBD|Validation|Lewis et al. [3]|SRP057027|
+|IBD|Validation|Hall et al. [4]|PRJNA385949|
+|CRC|Discovery|Zeller et al. [5]|PRJEB6070|
+|CRC|Validation|Feng et al. [8]|PRJEB7774|
+|CRC|Validation|Yu et al. [7]|PRJEB10878|
+|CRC|Validation|Vogtmann et al. [6]|PRJEB12449|

@@ -1,0 +1,31 @@
+# www.nature.com/scientificreports/
+
+|ID|Description|
+|---|---|
+|hsa03040|Spliceosome|
+|hsa04923|Regulation of lipolysis in adipocytes|
+|hsa05210|Colorectal cancer|
+|hsa05213|Endometrial cancer|
+|hsa05216|Thyroid cancer|
+|hsa00040|Pentose and glucuronate interconversions|
+|hsa00350|Tyrosine metabolism|
+
+|Enrichment Score|pvalue|qvalue|Core_enrichment|
+|---|---|---|---|
+|− 0.54|< 0.001|< 0.001|SF3B3/U2AF2/ TXNL4A/HNRNPM/ NCBP2/U2AF1/ ACIN1/THOC2/ MAGOH/SRSF8/ SF3A1/SNW1/ SNRPD1/TCERG1/ FUS/SNRNP40/ SNRNP70/XAB2/ PRPF31/SRSF10/ PUF60/SF3A3/ PRPF40A/DDX5/|
+|− 0.568|< 0.001|0.004|ADCY3/IRS1/ NPR1/NPY1R/ AQP7/AKT2/ LIPE/ABHD5/ PIK3R1/CIDEC/ PNPLA2/ADCY2/ IRS2/PLIN1/ PTGS2/FABP4|
+|− 0.575|< 0.001|< 0.001|TGFB2/CTNNB1/ GADD45G/AKT2/ SMAD3/AREG/ PIK3R1/TCF7L1/ TCF7L2/EREG/ TGFBR2/PMAIP1/ JUN/GADD45A/ CDKN1A/MYC/ EGFR/FOS/ GADD45B|
+|− 0.592|< 0.001|0.001|PTEN/CTNNB1/ GADD45G/AKT2/ PIK3R1/TCF7L1/ TCF7L2/FOXO3/ GADD45A/CDKN1A/ MYC/EGFR/ GADD45B|
+|− 0.642|< 0.001|0.002|CTNNB1/GADD45G/ TCF7L1/PPARG/ TCF7L2/GADD45A/ CDKN1A/MYC/ GADD45B UGP2/DCXR/|
+|− 0.655|0.008|0.024|UGDH/AKR1B1/ AKR1B10 AOC2/PNMT/ ADH5/AOX1/|
+|− 0.683|< 0.001|0.002|ADH1C/AOC3/ FAH/MAOA/ ADH1B|
+
+Table 4. RA GSEA enrichment summary.
+
+among these pathways (Fig. 8B,C). Furthermore, an interaction network was established based on the two gut microbial groups identified at the genus level (Ruminococcus and Prevotella), 5 gut microbial groups identified at the species level (Prevotella copri, Ruminococcus bromii, Ruminococcus flavefaciens, Ruminococcus gnavus, and Ruminococcus champanellensis 18P13[T]), 14 metabolites (butyrate, alanine, leucine, isoleucine, glycine, proline, tartaric acid, glycocholic acid, fructose, propionate, glycerol, ursodeoxycholic acid, acetate, and succinate) associated with the gut microbiome in RA, and the one shared specific gene related to the gut microbiome (CXCL10). This network contained 47 nodes and 231 edges (Fig. 8D). The results suggest that gut microbes associated with RA control the expression of CXCL10 by altering metabolite content in vivo, thereby regulating the intestinal immune network for IgA synthesis and other pathways.
+
+# Correlation between immune infiltration and shared specific gene related to the gut microbiome in RA.
+
+In the CIBERSORT algorithm, CXCL10 had a significant positive correlation with M1 mac-
+
+Scientific Reports | (2023) 13:9754 | https://doi.org/10.1038/s41598-023-36833-7

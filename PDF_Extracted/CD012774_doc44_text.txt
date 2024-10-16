@@ -1,0 +1,72 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Costello 2019 (Continued)
+
+# Methods
+
+Multicenter, double-blind RCT conducted in Australia
+
+# Participants
+
+# Inclusion criteria
+
+- Ages ≥ 18 years with active UC, total Mayo score 3–10, endoscopic subscore ≥ 2
+- On stable dose of UC maintenance therapy prior to enrollment: 4 weeks for 5-ASA, 6 weeks for thiopurines and methotrexate, 8 weeks for biologic agents
+- Permitted to take oral prednisolone ≤ 25 mg, with mandatory taper of 5 mg per week (those unable to cease by week 8 were considered FMT non-responders)
+
+# Exclusion criteria
+
+- People with severe disease: total Mayo score 11–12 or Truelove and Witts criteria (passing > 6 bloody stools/day plus ≥ 1 of: temperature > 37.8 °C, HR > 90 bpm, hemoglobin < 10.5 g/dL, ESR > 30 mm/hour)
+- Previous colonic surgery, gastrointestinal infection, pregnancy, anticoagulant therapy, current use of antibiotics or probiotics
+
+# Interventions
+
+# Experimental arm
+
+n = 38
+
+- Multiple donor feces (each stool treatment was pooled and blended from 3 or 4 donors)
+- First treatment: 50 g stool administered in 200 mL infusion via colonoscopy
+- Each of next 2 treatments: 25 g stool administered in 100 mL infusion via enema, within 7 days following first treatment
+
+# Control arm
+
+n = 35
+
+- Autologous FMT
+- First treatment: 50 g stool administered in 200 mL infusion via colonoscopy
+- Each of next 2 treatments: 25 g stool administered in 100 mL infusion via enema, within 7 days following first treatment
+
+# Outcomes
+
+# Primary outcomes
+
+- Steroid-free remission at week 8 (total Mayo score ≤ 2 and endoscopic Mayo score ≤ 1)
+- Clinical remission at week 8 and month 12 (SCCAI score ≤ 2)
+
+# Secondary outcomes
+
+- Clinical response at week 8 and month 12 (≥ 3-point reduction in total Mayo score)
+- Endoscopic remission at week 8 and month 12 (Mayo score < 1)
+- Adverse events at week 8 and month 12
+- Withdrawals
+
+# Notes
+
+Data extraction: study reported data for open-label maintenance of remission at month 12, but only the data at week 8 were included in the analysis because re-randomization was not done after week 8. Also, fecal calprotectin outcomes were reported as log-transformed values, which were not included in the analysis because we needed data in the form of means with SD.
+
+Data interpretation: study authors used an ITT analysis, in which all participants originally randomized to each group were included in the primary analysis, even though there were withdrawals during that 8-week period. Authors stated that for participants with missing Mayo score data at week 8, the missing values were imputed, with methods outlined in the 'Statistical analysis' section of their published paper. We used the data as reported in the main manuscript.
+
+Funding: National Health and Medical Research Council and the Gutsy Foundation.
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

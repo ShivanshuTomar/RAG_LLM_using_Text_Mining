@@ -1,0 +1,33 @@
+# Dysbiosis, inflammation, and response to treatment: a longitudinal study of pediatric subjects with newly diagnosed inflammatory bowel disease
+
+# Kelly A. Shaw1†, Madeline Bertha2†, Tatyana Hofmekler 2†, Pankaj Chopra 2, Tommi Vatanen 3,4, Abhiram Srivatsa 2, Jarod Prince2, Archana Kumar 2, Cary Sauer 2, Michael E. Zwick 2,5*
+
+# Jennifer G. Mulle5,8, Ramnik J. Xavier 3,7 and Subra Kugathasan 5, Glen A. Satten6, Aleksandar D. Kostic 3,7
+
+# Abstract
+
+Background: Gut microbiome dysbiosis has been demonstrated in subjects with newly diagnosed and chronic inflammatory bowel disease (IBD). In this study we sought to explore longitudinal changes in dysbiosis and ascertain associations between dysbiosis and markers of disease activity and treatment outcome.
+
+Methods: We performed a prospective cohort study of 19 treatment-naïve pediatric IBD subjects and 10 healthy controls, measuring fecal calprotectin and assessing the gut microbiome via repeated stool samples. Associations between clinical characteristics and the microbiome were tested using generalized estimating equations. Random forest classification was used to predict ultimate treatment response (presence of mucosal healing at follow-up colonoscopy) or non-response using patients’ pretreatment samples.
+
+Results: Patients with Crohn’s disease had increased markers of inflammation and dysbiosis compared to controls. Patients with ulcerative colitis had even higher inflammation and dysbiosis compared to those with Crohn’s disease. For all cases, the gut microbial dysbiosis index associated significantly with clinical and biological measures of disease severity, but did not associate with treatment response. We found differences in specific gut microbiome genera between cases/controls and responders/non-responders including Akkermansia, Coprococcus, Fusobacterium, Veillonella, Faecalibacterium, and Adlercreutzia. Using pretreatment microbiome data in a weighted random forest classifier, we were able to obtain 76.5 % accuracy for prediction of responder status.
+
+Conclusions: Patient dysbiosis improved over time but persisted even among those who responded to treatment and achieved mucosal healing. Although dysbiosis index was not significantly different between responders and non-responders, we found specific genus-level differences. We found that pretreatment microbiome signatures are a promising avenue for prediction of remission and response to treatment.
+
+# Keywords:
+
+Inflammatory bowel disease, Microbiome, Crohn’s disease, Dysbiosis
+
+# Correspondence:
+
+skugath@emory.edu
+
+Kelly A. Shaw, Madeline Bertha, and Tatyana Hofmekler shared first authorship.
+
+2†Equal contributors Department of Pediatrics, Emory University School of Medicine & Children’s Healthcare of Atlanta, 2015 Uppergate Drive, room 248, Atlanta, GA 30322, USA
+
+5USA Department of Human Genetics, Emory University, Atlanta, GA 30322, USA
+
+Full list of author information is available at the end of the article
+
+© 2016 The Author(s). Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.

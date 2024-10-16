@@ -1,0 +1,44 @@
+# Alatawi et al.: Microbiota and anti-TNF-α response in IBD patients
+
+# Predominant phyla: comparison of the relative abundance at the phyla level in faecal samples
+
+|Primary non-responders patients|Responders patients|
+|---|---|
+|Aclinobacleria|Aclinobacleria|
+|Bacteroidetes|Bactercicetes|
+|Firmicutes|Firmicutes|
+|Preteobacteria|Proleobucteria|
+
+A Total-951
+
+B Total-982
+
+# Correlation-Pearson's test (Phylum level)
+
+C Primary non-responders(P)
+
+# Figure 2
+
+Predominant phyla: comparison of the relative abundance at the phyla level in faecal samples (A) primary non-responders, and (B) responders. (C) is a Pearson correlation coefficient graph showing r = 0.9900, 95% confidence interval = 0.9677 to 0.9969, and R squared = 0.9801.
+
+# Actinobacteria
+
+1 2.5
+
+2.0-
+
+1.5 7
+
+the two primary subgroups of IBD patients (UC and CD) [Figure 2B]. Interestingly, the populations of Firmicutes did not manifest obvious changes between the two primary subgroups of IBD patients (UC and CD) [Figure 2B]. The ratio of Bacteroidetes was lower in primary non-responders compared with responders. The Pearson correlation coefficient showed a strong positive correlation in gut microbiota composition between responder and non-responder IBD patients [Figure 2C]. Furthermore, an independent t-test showed no statistically significant difference between the relative abundance of predominant phyla of gut microbiota in response to anti-TNF-α treatment between the two IBD patient groups [Figures 3 and S1].
+
+# Subgroups of IBD patients
+
+Firmicutes Proteobacteria ns
+
+# Figure 3
+
+Independent samples t-test statistically showing phyla of the gut microbiota. All P values were non-significant for responders (R=blue) and primary non-responders (P=purple) to anti-TNF-α therapies.
+
+At the phylum level, the fecal microbiota of primary non-responders were characterized by the increased relative abundance of Proteobacteria and Actinobacteria [Figure 2A]. Several SCFA-producing bacteria were omitted in unresponsive patients (primary non-responders). These included Anaerostipes, Coprococcus,
+
+Bosn J Basic Med Sci. 2022;22(3):412-426

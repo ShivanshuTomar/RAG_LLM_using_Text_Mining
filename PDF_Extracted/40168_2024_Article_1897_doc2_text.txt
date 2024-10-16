@@ -1,0 +1,23 @@
+# Anthamatten et al. Microbiome (2024) 12:186
+
+# Fig. 1 Fecal microbiomes consume succinate at different rates.
+
+a We performed enrichment cultures of whole fecal microbiota from 13 different donors in a basal medium supplemented with 30 mM succinate as the primary carbon source. The triplicate cultures were sampled after 2 and 7 days, respectively.
+
+b The supplied succinate is consumed differently across fecal microbiota and replicates. We classify a culture as fast (red), intermediate (blue), or slow (orange) consumer, or non-consumer (green) of succinate. Each circle is a measurement of the succinate concentration in a replicate enrichment. The lines connect multiple time points from the same replicate.
+
+c The increase in optical density (OD) at day 2 was highest for the fast consuming cultures. Each thin line is a replicate enrichment from (b) and the thick lines are the average in each class.
+
+d The consumed succinate was converted to propionate at a molar ratio of 1:1. Each point corresponds to a point in (b).
+
+e Genus-level composition of the enrichment cultures after either 2 or 7 days. Only genera with at least 5% relative abundance are shown.
+
+f The “enrichment” is the difference in relative abundance between enrichments with supplemented succinate (SU+) and the corresponding enrichment without supplemented succinate (SU−) of the same donor. Only genera with positive enrichment values are shown.
+
+g Coefficients from a linear regression of the enrichment value on the rate category for each genus. Only genera with positive estimates are shown. Filled boxes are estimates with p < 0.05.
+
+Higher in the fast enrichments compared to the other categories (Fig. 1c; Kruskal-Wallis test, p = 0.0004), further indicating that different bacteria or even pathways might be associated with the category of succinate consumption. However, succinate was converted to propionate at a molar ratio of 1:1 across all enrichments (Fig. 1d) as expected from the succinate pathway [14], suggesting that this same pathway was “in use” across fecal microbiomes.
+
+We thus next set out to determine which bacterial taxa were performing the conversion of succinate to propionate across enrichments. To this end, we performed 16S amplicon sequencing of the succinate enrichment cultures (SU+) and the control cultures (SU−) on days 2 and 7 and computed the differential increase of each genus in SU+ compared to the SU− (see the “Methods” section). Some typically abundant genera dominated the enrichment cultures irrespective of the consumption category, including for example Bacteroides, Phocaeicola, or Faecalibacterium (Fig. 1e). To pinpoint those taxa that were specifically associated with succinate consumption across the three categories, we focused on those genera that had an increase in relative abundance in the SU+ compared to the SU− cultures (Fig. 1f).
+
+Four bacterial genera were significantly associated with the different consumption categories. We performed a linear regression of enrichment in SU+ versus SU− and identified those genera that were significantly associated with at least one of the categories (Fig. 1g). Phascolarctobacterium.

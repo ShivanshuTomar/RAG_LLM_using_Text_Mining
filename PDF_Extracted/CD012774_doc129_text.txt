@@ -1,0 +1,33 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Library
+
+# Better health.
+
+# Table 1. Microbiome outcomes (Continued)
+
+# Cochrane Database of Systematic Reviews
+
+The data revealed an apparent separation in the structure of the gut microbiota in each group. Principal coordinate analysis (PCoA) was used to indicate the similarity of the microbiota composition among samples. PCoA revealed that the gut microbiota in people with UC significantly deviated from that in healthy donors.
+
+• Bacteroidetes
+
+• Firmicute
+
+• Proteobacteria
+
+Treatment with FMT improved the distance markedly, and the samples clustered tightly together, showing a trend similar to that of their related donors, but did not return to the level of healthy donors.
+
+Prevotella was the dominant genus in the gut microbiota of the healthy donors, and the relative abundance of Prevotella increased after FMT treatment in active UC patients.
+
+"The PICRUSt tool was used to predict the functional profiles of gut microbiota with the predicted metagenome, and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway functions were categorized using PICRUSt. PICRUSt predicted analyses found that the gut microbiota pathway functions showed that several pathways in gut microbiome among the donor and pre and post FMT treatment changed significantly, especially the pathways of pyruvate metabolism, sulfur metabolism, pantothenate and CoA biosynthesis, glyoxylate and dicarboxylate metabolism, synthesis and degradation of ketone bodies and other transporters were significantly different between the groups."
+
+Pai 2021 UC Not reported Not reported "Beta-Diversity trended higher from achieving the" "Several bacterial taxa were associated with" "Microbial community profiling in fecal samples was performed centrally at McMaster Children's Hospital. We extracted genomic DNA from patient."
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

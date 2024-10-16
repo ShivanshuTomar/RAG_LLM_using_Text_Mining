@@ -1,0 +1,23 @@
+# Inflammatory Bowel Disease: A Stressed “Gut/Feeling”
+
+Yvonne Oligschlaeger, Tulasi Yadati, Tom Houben, Claudia Maria Condello Oliván and Ronit Shiri-Sverdlov *
+
+School of Nutrition & Translational Research in Metabolism (NUTRIM), Department of Molecular Genetics, Maastricht University, Universiteitssingel 50, 6229 ER Maastricht, The Netherlands
+
+* Correspondence: r.sverdlov@maastrichtuniversity.nl; Tel.: +31-43-388-1746; Fax: +31-43-388-4574
+
+Received: 14 May 2019; Accepted: 28 June 2019; Published: 30 June 2019
+
+# Abstract
+
+Inflammatory bowel disease (IBD) is a chronic and relapsing intestinal inflammatory condition, hallmarked by a disturbance in the bidirectional interaction between gut and brain. In general, the gut/brain axis involves direct and/or indirect communication via the central and enteric nervous system, host innate immune system, and particularly the gut microbiota. This complex interaction implies that IBD is a complex multifactorial disease. There is increasing evidence that stress adversely affects the gut/microbiota/brain axis by altering intestinal mucosa permeability and cytokine secretion, thereby influencing the relapse risk and disease severity of IBD. Given the recurrent nature, therapeutic strategies particularly aim at achieving and maintaining remission of the disease. Alternatively, these strategies focus on preventing permanent bowel damage and concomitant long-term complications. In this review, we discuss the gut/microbiota/brain interplay with respect to chronic inflammation of the gastrointestinal tract and particularly shed light on the role of stress. Hence, we evaluated the therapeutic impact of stress management in IBD.
+
+# Keywords
+
+IBD; gastrointestinal tract; microbiota; brain; interplay; stress
+
+# 1. Introduction
+
+Inflammatory bowel disease (IBD) is a chronic and relapsing disorder [1], including Crohn’s disease and ulcerative colitis. While Crohn’s disease is characterized by transmural inflammation in any part of the gastrointestinal tract, ulcerative colitis is affecting the mucosal layer of the colon and rectum. Similar to other immune-mediated chronic diseases, such as rheumatoid arthritis, IBD is hallmarked by periods of remission interspersed with periods of acute flare. During disease course, symptoms like abdominal pain, cramping, loose stools or bloody diarrhea, fatigue, anemia and/or weight loss can manifest. The prevalence and incidence of IBD are increasing enormously [2]. Together with its early onset, relapsing nature, and life-threatening complications, IBD is currently a major health issue. Although the exact pathogenesis is unclear, IBD is certainly driven by disturbed crosstalk between a variety of parameters, i.e., genetic susceptibility and internal and external factors [3], which will be discussed in more detail. Although treatment options mainly focus on reducing intestinal inflammation [1], achieving/maintaining remission or improving the patient’s quality-of-life, no cure for IBD is currently available. Given that IBD is a systemic disease, often associated with comorbidities such as anxiety and depression, this narrative review aims to evaluate the mutual interplay between stress and the gut/microbiota/brain axis, particularly with regard to chronic inflammation of the gastrointestinal tract. These insights set the basis for better understanding the impact of stress management on disease activity in IBD.
+
+Cells 2019, 8, 659; doi:10.3390/cells8070659 www.mdpi.com/journal/cells

@@ -1,0 +1,19 @@
+# 16S amplicon sequence bioinformatics and taxonomic profiling
+
+Sequences were processed, per cohort, with the published, standardized bioBakery workflow [62] using the UPARSE protocol [63] (version v9.0.2132-64bit). For all studies, demultiplexed sequences were truncated at 200bp max length and filtered by maximum expected error of one [63]. Operational taxonomic units (OTUs) were clustered at 97% identity and aligned using USEARCH with 97% identity to the Greengenes database 97% reference OTUs (version 13.8) [64] for taxonomy assignment. The resulting Greengenes identifiers for OTUs were used as basis for matching features (taxa) among cohorts.
+
+# Quality control
+
+Across samples, a median of 81.51% reads / sample passed quality control filtering and were successfully assigned to OTUs with Greengenes identifiers (Additional file 1: Fig. S1). These 8921 raw OTUs aggregated to a total of 1122 genera prior to quality control. We retained taxa that exceeded 5e−5 relative abundance with at least 10% prevalent in at least one study; this criterion generally removes spurious OTU assignments while retaining rare organisms if confidently present in at least one study. Lastly, we also removed low read depth samples with less than 3000 total sequences, which retained 78.34–100% samples per cohorts (Additional file 3: Table S1). The final resulting taxonomic profile, used for all further analysis, aggregated into 249 total genera spanning 4789 samples (OTUs unclassified under a particular taxonomy level were aggregated as “unclassified” feature under that taxon, e.g., “Enterbacteriaceae unclassified” accumulates all OTUs’ abundances under the family that could not be classified at the genus level.
+
+# Data availability
+
+Quality-controlled (truncated and filtered) sequences, Greengenes mapped OTU count profiles, and curated sample metadata are available at the Human Microbial Bioactives Resource Portal (http:// portal. micro biome- bioactives. org).
+
+# Applying MMUPHin to IBD gut microbiome meta‑analysis
+
+For the resulting collection of microbiome studies, batch and study effects were performed using MMUPHin_Correct on the genus level feature abundance profiles. Batch (i.e., sequencing run) effect correction was first performed within individual studies (when batch/plate information was available, applicable to BIDMC-FMT, CS-PRISM, LSS-PRISM, MucosalIBD, and RISK). Microbial abundance profiles across all studies were then jointly corrected for study effects, while modelling disease status (IBD or control), disease (CD or UC), and sample type (biopsy or stool) as covariates. Reduction of batch and study effects was evaluated by PERMANOVA R2 (Fig. 3a).
+
+# Sensitivity analysis for amplicon sequence variants (ASV) microbial abundance profiles
+
+We additionally evaluated the impact of OTU- versus ASV-based bioinformatics pipelines on our method and meta-analysis results (Additional file 1: Fig. S18). Specifically, we processed two studies representing extremes of size, BIDMC-FMT (n=16, two technical batches) and RISK (n=882, fifteen batches) with the dada2 method [65], and performed batch correction and evaluation on the generated ASV profiles. MMUPHin_Correct was

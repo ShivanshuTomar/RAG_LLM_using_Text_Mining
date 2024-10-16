@@ -1,0 +1,30 @@
+# SARS-CoV-2
+
+# Nasopharyngeal tract
+
+# Respiratory and GI tract microorganisms
+
+|Oropharynx|Pathogenic bacteria|TAPRSS2|ACE|
+|---|---|---|---|
+|H|SCFA|DC|Gut leukocytes|
+
+# Dysbiosis of gut microorganisms
+
+|Macrophage|Pro-inflammatory cytokines|B cell|Iga coating|
+|---|---|---|---|
+|Recovery from COVID-19|Lunet Injwn' Pathogens & cytokines translocation through circulation|to cause inflammation in other organs & secondary infection|Kidney injury|
+|Elimination of virus|Naive T-cells differentiate into Th1 and Th2 cells for proinflammatory response|Increased secretion of IL-2, IL-6, IL-7, IL-10, TNFa, MIP-1o, MCP-1|Pathogen & cytokines translocation through circulation to cause inflammation in other organs & secondary infection|
+
+# LUNG -GUT AXIS DYSBIOSIS
+
+Regulation of modulated immune response
+
+Increased production of SCFAs, butyrate and propionate
+
+Bacteroid fragilis to regulate the lymphoid tissue and early B-cell lineage
+
+# Fig. 1
+
+A SARS-CoV-2 infection via nasal passage infecting lungs and the virus multiplies in the alveolar cells, disrupt the immune system. The virus travels to the gut via mucosal lung-gut axis to create dysbiosis.
+
+B Schematic representation of gut microbiota dysbiosis and the establishment of flow of microflora through lung-gut axis to exacerbate the infection.

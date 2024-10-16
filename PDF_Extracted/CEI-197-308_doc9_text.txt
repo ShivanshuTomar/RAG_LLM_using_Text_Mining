@@ -1,0 +1,37 @@
+# NEURO-IMMUNE INTERACTIONS: HOW THE NERVOUS AND IMMUNE SYSTEMS INFLUENCE EACH OTHER
+
+# Depressive symptoms in inflammatory bowel disease
+
+1. Jokela M, Virtanen M, Batty GD, Kivimaki M. Inflammation and specific symptoms of depression. JAMA Psychiatry 2016; 73:87–8.
+2. Loftis JM, Patterson AL, Wilhelm CJ et al. Vulnerability to somatic symptoms of depression during interferon-alpha therapy for hepatitis C: a 16-week prospective study. J Psychosom Res 2013; 74:57–63.
+3. Czuber-Dochan W, Ream E, Norton C. Review article: Description and management of fatigue in inflammatory bowel disease. Aliment Pharmacol Ther 2013; 37:505–16.
+4. Graff LA, Vincent N, Walker JR et al. A population-based study of fatigue and sleep difficulties in inflammatory bowel disease. Inflamm Bowel Dis 2011; 17:1882–9.
+5. Twist K, Stahl D, Amiel SA, Thomas S, Winkley K, Ismail K. Comparison of depressive symptoms in type 2 diabetes using a two-stage survey design. Psychosom Med 2013; 75:791–7.
+6. Vogelaar L, van’t Spijker A, Timman R et al. Fatigue management in patients with IBD: a randomised controlled trial. Gut 2014; 63:911–8.
+7. Benhayon D, Youk A, McCarthy FN et al. Characterization of relations among sleep, inflammation, and psychiatric dysfunction in depressed youth with Crohn disease. J Pediatr Gastroenterol Nutr 2013; 57:335–42.
+8. Wilson RG, Stevens BW, Guo AY et al. High C-reactive protein is associated with poor sleep quality independent of nocturnal symptoms in patients with inflammatory bowel disease. Dig Dis Sci 2015; 60:2136–43.
+9. Hashash JG, Ramos-Rivers C, Youk A et al. Quality of sleep and coexistent psychopathology have significant impact on fatigue burden in patients with inflammatory bowel disease. J Clin Gastroenterol 2018; 52:423–30.
+10. Graff LA, Clara I, Walker JR et al. Changes in fatigue over 2 years are associated with activity of inflammatory bowel disease and psychological factors. Clin Gastroenterol Hepatol 2013; 11:1140–6.
+11. Ananthakrishnan AN, Long MD, Martin CF, Sandler RS, Kappelman MD. Sleep disturbance and risk of active disease in patients with Crohn’s disease and ulcerative colitis. Clin Gastroenterol Hepatol 2013; 11:965–71.
+12. Powell N, Walker MM, Talley NJ. The mucosal immune system: master regulator of bidirectional gut-brain communications. Nat Rev Gastroenterol Hepatol 2017; 14:143–59.
+13. Bonaz BL, Bernstein CN. Brain–gut interactions in inflammatory bowel disease. Gastroenterology 2013; 144:36–49.
+14. Horowitz MA, Zunszain PA, Anacker C, Musaelyan K, Pariante CM. Glucocorticoids and inflammation: a double-headed sword in depression? How do neuroendocrine and inflammatory pathways interact during stress to contribute to the pathogenesis of depression? Mod Trends Pharmacopsychiatry 2013; 28:127–43.
+15. Rohleder N, Schommer NC, Hellhammer DH, Engel R, Kirschbaum C. Sex differences in glucocorticoid sensitivity of proinflammatory cytokine production after psychosocial stress. Psychosom Med 2001; 63:966–72.
+16. Ulrich-Lai YM, Herman JP. Neural regulation of endocrine and autonomic stress responses. Nat Rev Neurosci 2009; 10:397–409.
+17. Mawdsley JE, Macey MG, Feakins RM, Langmead L, Rampton DS. The effect of acute psychologic stress on systemic and rectal mucosal measures of inflammation in ulcerative colitis. Gastroenterology 2006; 131:410–9.
+18. Kelly JR, Kennedy PJ, Cryan JF, Dinan TG, Clarke G, Hyland NP. Breaking down the barriers: the gut microbiome, intestinal permeability and stress-related psychiatric disorders. Front Cell Neurosci 2015; 9:392.
+19. Bjarnason I, MacPherson A, Hollander D. Intestinal permeability: an overview. Gastroenterology 1995; 108:1566–81.
+20. Grigoleit J-S, Kullmann JS, Wolf OT et al. Dose-dependent effects of endotoxin on neurobehavioral functions in humans. PLOS ONE 2011; 6:e28330.
+21. Maes M, Kubera M, Leunis J-C. The gut–brain barrier in major depression: intestinal mucosal dysfunction with an increased translocation of LPS from gram negative enterobacteria (leaky gut) plays a role in the inflammatory pathophysiology of depression. Neuro Endocrinol Lett 2008; 29:117–24.
+22. Stevens BR, Goel R, Seungbum K et al. Increased human intestinal barrier permeability plasma biomarkers zonulin and FABP2 correlated with plasma LPS and altered gut microbiome in anxiety or depression. Gut 2018; 67:1555–7.
+23. Silverman MN, Sternberg EM. Glucocorticoid regulation of inflammation and its functional correlates: from HPA axis to glucocorticoid receptor dysfunction. Ann NY Acad Sci 2012; 1261:55–63.
+24. Arnone D, Saraykar S, Salem H, Teixeira AL, Dantzer R, Selvaraj S. Role of Kynurenine pathway and its metabolites in mood disorders: a systematic review and meta-analysis of clinical studies. Neurosci Biobehav Rev 2018; 92:477–85.
+25. Forrest CM, Gould SR, Darlington LG, Stone TW. Levels of purine, kynurenine and lipid peroxidation products in patients with inflammatory bowel disease. Adv Exp Med Biol 2003; 527:395–400.
+26. Gupta NK, Thaker AI, Kanuri N et al. Serum analysis of tryptophan catabolism pathway: correlation with Crohn’s disease activity. Inflamm Bowel Dis 2012; 18:1214–20.
+27. Derry HM, Padin AC, Kuo JL, Hughes S, Kiecolt-Glaser JK. Sex differences in depression: does inflammation play a role? Curr Psychiatry Rep 2015; 17:78.
+28. Kostic AD, Xavier RJ, Gevers D. The microbiome in inflammatory bowel disease: current status and the future ahead. Gastroenterology 2014; 146:1489–99.
+29. Manichanh C, Rigottier-Gois L, Bonnaud E et al. Reduced diversity of faecal microbiota in Crohn’s disease revealed by a metagenomic approach. Gut 2006; 55:205–11.
+30. Paramsothy S, Paramsothy R, Rubin DT et al. Faecal microbiota transplantation for inflammatory bowel disease: a systematic review and meta-analysis. J Crohns Colitis 2017; 11:1180–99.
+31. Wegh CAM, Schoterman MHC, Vaughan EE, Belzer C, Benninga MA. The effect of fiber and prebiotics on children’s
+
+© 2019 British Society for Immunology, Clinical and Experimental Immunology, 197: 308–318

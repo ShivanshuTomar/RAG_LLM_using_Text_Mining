@@ -1,0 +1,47 @@
+# Scientific Reports
+
+# (2021) 11:18699
+
+With increasing numbers of publicly available genomes and improvements in the resolution of 16S rRNA sequencing through ASV approaches, the accuracy of this approach has improved, and it does allow us to explore potential differences which are present due to changes in taxonomic composition 20. Using this approach, it was clear that the microbiomes of the three disease conditions, and of the three CD locations, all had unique dysbioses with some unifying themes. For example, all CD patients were observed to be significantly deficient in pathways for the production of SCFAs that have a myriad of important functions relating to immune function and gut health 35–41. SCFAs are imperative to intestinal homeostasis: providing a key energy source for colonocytes, maintenance of hypoxia, production of antimicrobial compounds, and promotion of anti-inflammatory cytokines 35–41. The loss of the ability to produce SFCAs by the gut microbiome in CD patients could lead to inflammation and reduced cellular membrane integrity giving a mechanism for disease microbiome and disease severity as previously reported 10. Future work is needed to understand whether these patterns hold for patients with more progressed disease and the way that disease severity changes the microbiome for different IBD conditions and disease locations.
+
+# Conclusion
+
+This study suggests the microbiome does not uniformly present in the same way for all IBD conditions and that the microbiome can even present differently for the same disease at a different GI location. Results here highlight the importance of understanding the different factors that can influence the results of microbiome studies. Consistent stratification of clinical cohorts used in microbiome studies is required to ensure the meaningful comparison of microbiome studies and clinical trials.
+
+# Data availability
+
+All raw sequences used in this study have been deposited in the NCBI Sequence Research Archive (PRJNA761255).
+
+# Received
+
+1 February 2021; Accepted: 19 July 2021; Published online: 2 September 2021
+
+# References
+
+1. Sinha, R. et al. Assessment of variation in microbial community amplicon sequencing by the Microbiome Quality Control (MBQC) project consortium. Nat. Biotechnol. 35(11), 1077–1086 (2017).
+2. Amos, G. C. A. et al. Developing standards for the microbiome field. Microbiome 8, 98. https://doi.org/10.1186/s40168-020-00856-3 (2020).
+3. Cani, P. D. Human gut microbiome: Hopes, threats and promises. Gut 67(9), 1716–1725 (2018).
+4. Frank, D. N. et al. Molecular-phylogenetic characterization of microbial community imbalances in human inflammatory bowel diseases. Proc. Natl. Acad. Sci. U. S. A. 104(34), 13780–13785 (2007).
+5. Imhann, F. et al. Interplay of host genetics and gut microbiota underlying the onset and clinical presentation of inflammatory bowel disease. Gut 67(1), 108–119 (2018).
+6. Morgan, X. C. et al. Dysfunction of the intestinal microbiome in inflammatory bowel disease and treatment. Genome Biol. 13, R79. https://doi.org/10.1186/gb-2012-13-9-r79 (2012).
+7. Halfvarson, J. et al. Dynamics of the human gut microbiome in inflammatory bowel disease. Nat. Microbiol. 2, 17004 (2017).
+8. Franzosa, E. A. et al. Gut microbiome structure and metabolic activity in inflammatory bowel disease. Nat. Microbiol. 4(2), 293–305 (2019).
+9. Lloyd-Price, J. et al. Multi-omics of the gut microbial ecosystem in inflammatory bowel diseases. Nature 569(7758), 655–662 (2019).
+10. Schirmer, M. et al. Compositional and temporal changes in the gut microbiome of pediatric ulcerative colitis patients are linked to disease course. Cell Host Microbe 24(4), 600–10.e4 (2018).
+11. Clooney, A. G. et al. Ranking microbiome variance in inflammatory bowel disease: A large longitudinal intercontinental study. Gut https://doi.org/10.1136/gutjnl-2020-321106 (2020).
+12. Harvey, R. F. & Bradshaw, J. M. A simple index of Crohn’s-disease activity. Lancet 1(8167), 514 (1980).
+13. Lewis, J. D. et al. Use of the noninvasive components of the Mayo score to assess clinical response in ulcerative colitis. Inflamm. Bowel Dis. 14(12), 1660–1666 (2008).
+14. Thompson, L. R. et al. A communal catalogue reveals Earth’s multiscale microbial diversity. Nature 551(7681), 457–463 (2017).
+15. Parada, A. E., Needham, D. M. & Fuhrman, J. A. Every base matters: Assessing small subunit rRNA primers for marine microbiomes with mock communities, time series and global field samples. Environ. Microbiol. 18(5), 1403–1414 (2016).
+16. Apprill, A. et al. Minor revision to V4 region SSU rRNA 806R gene primer greatly increases detection of SAR11 bacterioplankton. Aquat. Microb. Ecol. 75(2), 129–137 (2015).
+17. Bolyen, E. et al. Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2. Nat. Biotechnol. 37(8), 852–857 (2019).
+18. Amir, A. et al. Deblur rapidly resolves single-nucleotide community sequence patterns. mSystems 2, e00191-16. https://doi.org/10.1128/mSystems.00191-16 (2017).
+19. R Core Team. R: A Language and Environment for Statistical Computing (R Foundation for Statistical Computing, Vienna, 2013).
+20. Douglas, G. et al. PICRUSt2 for prediction of metagenome functions. Nat. Biotechnol. 38(6), 685–688 (2020).
+21. McMurdie, P. J. & Holmes, S. phyloseq: An R package for reproducible interactive analysis and graphics of microbiome census data. PLoS ONE 8(4), e61217. https://doi.org/10.1371/journal.pone.0061217 (2013).
+22. Segata, N. et al. Metagenomic biomarker discovery and explanation. Genome Biol. 12, R60. https://doi.org/10.1186/gb-2011-12-6-r60 (2011).
+23. Carstens, A. et al. The gut microbiota in collagenous colitis shares characteristics with inflammatory bowel disease-associated dysbiosis. Clin. Transl. Gastroenterol. 10(7), e00065. https://doi.org/10.14309/ctg.0000000000000065 (2019).
+24. Callahan, B. J., McMurdie, P. J. & Holmes, S. P. Exact sequence variants should replace operational taxonomic units in marker-gene data analysis. ISMEJ 11(12), 2639–2643 (2017).
+25. Faith, D. P. Conservation evaluation and phylogenetic diversity. Biol. Conserv. 61(1), 1–10 (1992).
+26. Kostic, A. D., Xavier, R. J. & Gevers, D. The microbiome in inflammatory bowel disease: Current status and the future ahead. Gastroenterology 146(6), 1489–1499 (2014).
+27. Kang, S., Denman, S. E. & Morrison, M. Dysbiosis of fecal microbiota in Crohn’s disease patients as revealed by a custom phylogenetic microarray. Inflamm. Bowel. Dis. 16(12), 2034–2042 (2010).

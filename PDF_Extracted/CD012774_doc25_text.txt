@@ -1,0 +1,65 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Library
+
+# Better health.
+
+# Subgroup analyses
+
+We performed subgroup analyses based on the route of FMT administration (Analysis 1.4), type of donor (Analysis 1.5), age of participants (Analysis 1.6), and frequency of FMT (Analysis 1.7). The number of included studies in each subgroup analysis was small and the CIs of the summary estimates overlapped, indicating similar effects across all subgroups.
+
+# Sensitivity analyses
+
+A fixed-effect model for induction of clinical remission in UC showed similar results compared to the primary random-effects model used in this review (RR 1.88, 95% CI 1.37 to 2.57; 10 studies, 468 participants; Analysis 1.8; compare with Analysis 1.1).
+
+Our primary analysis was based on ITT, in which we considered all participants randomized to the case and control groups irrespective of whether they received the intervention or completed follow-up. A post-hoc sensitivity analysis that considered only participants who received the intervention and completed follow-up yielded similar results (RR 1.77, 95% CI 1.07 to 2.94; 382 participants; Analysis 1.9).
+
+We decided a priori that the primary outcome of 'clinical remission' would be based on a clinical score (e.g. Mayo score or SCCAI). However, there was also interest in examining composite clinical outcomes in which both clinical and endoscopic/histologic criteria were considered. A random-effects meta-analysis of studies that reported a composite outcome for induction of remission showed that FMT may increase rates of induction of remission by about two times compared to control (RR 2.13, 95% CI 1.51 to 3.02; 8 studies, 392 participants; Analysis 1.10).
+
+# Induction of clinical remission in ulcerative colitis at weeks eight and 12
+
+FMT may increase induction of remission after eight weeks in participants with active UC (RR 1.68, 95% CI 0.93 to 3.05; 8 studies, 408 participants; Analysis 1.2). FMT may also increase induction of remission after 12 weeks; however, the CIs around the summary estimate were wide and included a possibility of no effect (RR 1.54, 95% CI 0.89 to 2.66; 3 studies, 108 participants; Analysis 1.3).
+
+# Serious adverse events
+
+Ten studies reported data on serious adverse events when FMT was used for induction of remission in participants with active UC. The evidence was very uncertain about the risk of serious adverse events with use of FMT in active UC (RR 1.77, 95% CI 0.88 to 3.55; 468 participants; very low-certainty evidence; Analysis 1.11; Figure 5). We downgraded the certainty of evidence due to risk of bias and very serious imprecision of the summary estimate (Summary of findings 1). Serious adverse events included worsening of UC necessitating intravenous steroids or surgery, infection, small bowel perforation, and pneumonia.
+
+# Figure 5. Forest plot of comparison: 1 Fecal microbiota transplantation versus control for participants with ulcerative colitis, outcome: 1.8 Serious adverse events.
+
+|Study or Subgroup|FMT Events|FMT Total|Control Events|Control Total|Weight|M-H, Random, 95% CI|
+|---|---|---|---|---|---|---|
+|Březina 2021|4|23|1|22|10.9%|3.83 [0.46 , 31.62]|
+|Costello 2019|3|38|2|35|16.3%|1.38 [0.25 , 7.79]|
+|Crothers 2021|1|7|1|8|7.3%|1.14 [0.09 , 15.08]|
+|Fang 2021|0|10|0|10| |Not estimable|
+|Haifer 2022|2|15|2|20|14.4%|1.33 [0.21 , 8.41]|
+|Moayyedi 2015 (1)|3|38|2|37|16.3%|1.46 [0.26 , 8.25]|
+|Pai 2021|5|13|1|12|12.2%|4.62 [0.63 , 34.05]|
+|Paramsothy 2017|2|41|1|40|8.7%|1.95 [0.18 , 20.68]|
+|Rossen 2015|2|23|2|25|13.8%|1.09 [0.17 , 7.10]|
+|Sarbagili Shabat 2022|0|36|0|15| |Not estimable|
+|Total (95% CI)|22|244|12|224|100.0%|1.77 [0.88 , 3.55]|
+
+Total events: 22 / 12
+
+Heterogeneity: Tau² = 0.00; Chi² = 2.01, df = 7 (P = 0.96); I² = 0%
+
+Test for overall effect: Z = 1.60 (P = 0.11)
+
+Test for subgroup differences: Not applicable
+
+# Footnotes
+
+(1) FMT, 2 diagnoses changed to Crohn's colitis and 1 positive for C difficile toxin at end of therapy; control, 1 diagnosis changed to Crohn's colitis and 1 hospitalised.
+
+# Publication bias
+
+The funnel plot was symmetrical (Figure 6).
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

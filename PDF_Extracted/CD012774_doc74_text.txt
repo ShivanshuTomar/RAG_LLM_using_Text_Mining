@@ -1,0 +1,85 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# NCT02998112 (Continued)
+
+# Inclusion criteria
+
+- History of safety using 5-ASA
+- Ability to undergo endoscopy examination
+- Ages 18–65 years
+
+# Exclusion criteria
+
+- Use of immunosuppressive drugs and glucocorticoids within 4 weeks
+- Use of antibiotics within 7 days
+- High risk of toxic megacolon
+- Colon cancer or neoplasia
+- Other severe diseases (e.g. cardiovascular, respiratory, gastrointestinal, and kidney)
+
+# Interventions
+
+# Experimental arm
+
+- 5-ASA 4 g/day enema through TET for 1 week; 200 mL FMT suspension infusion through TET for 3 doses every other day for 1 week
+
+# Control arm
+
+- 5-ASA 4 g/day enema through TET for 1 week; 200 mL saline infusion through TET for 3 doses every other day for 1 week
+
+# Outcomes
+
+# Primary outcomes
+
+- Clinical remission at week 12: Total Mayo score < 2 and no signal item > 1
+- Clinical improvement at week 12: Total Mayo score decreased > 3 or > 30%
+
+# Secondary outcomes
+
+- Change in intestinal microbiota composition after FMT at week 12: compared with participant's original microbiota and donor microbiota
+
+# Starting date
+
+December 2016
+
+# Contact information
+
+Faming Zhang
+
+Associate professor, Gastroenterology, The Second Hospital of Nanjing Medical University, China
+
+# Notes
+
+Estimated enrollment: 188
+
+# NCT03078803
+
+# Study name
+
+Fecal transplant for Crohn's disease
+
+# Methods
+
+Multicenter RCT conducted in Canada
+
+# Participants
+
+# Inclusion criteria
+
+- Age ≥ 18 years
+- Mild-to-moderate ileal, ileo-colonic, or colonic CD
+- Active ileal or colonic (or both) disease on endoscopy with/without elevated inflammatory markers, i.e. CRP > 8 mg/L, fecal calprotectin > 250 μg/g
+- If applicable, medications on stable dose: 5-ASA for 4 weeks, prednisone ≤ 20 mg once daily for 4 weeks, budesonide ≤ 6 mg once daily for 4 weeks, azathioprine, 6-mercaptopurine and methotrexate for 12 weeks
+
+# Exclusion criteria
+
+Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

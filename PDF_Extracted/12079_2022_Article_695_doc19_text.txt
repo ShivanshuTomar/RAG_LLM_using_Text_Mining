@@ -1,0 +1,63 @@
+# References
+
+A. Shahini, A. Shahini. filgotinib (the FITZROY study): results from a phase 2, double-blind, randomised, placebo-controlled trial. The Lancet 389(10066):266–275
+
+Wallace KL, Zheng L-B, Kanazawa Y, Shih DQ (2014) Immunopathology of inflammatory bowel disease. World J Gastroenterol: WJG 20(1):6
+
+Wang C, Li W, Wang H, Ma Y, Zhao X, Zhang X, Yang H, Qian J, Li J (2019) Saccharomyces boulardii alleviates ulcerative colitis carcinogenesis in mice by reducing TNF-α and IL-6 levels and functions and by rebalancing intestinal microbiota. BMC Microbiol 19(1):1–12
+
+Wang H, Huang J, Ding Y, Zhou J, Gao G, Han H, Zhou J, Ke L, Rao P and Chen T (2022) Nanoparticles isolated from porcine bone soup ameliorated dextran sulfate sodium-induced colitis and regulated gut microbiota in mice. Front Nutr 9
+
+Wang J, Wang P, Li D, Hu X, Chen F (2020a) Beneficial effects of ginger on prevention of obesity through modulation of gut microbiota in mice. Eur J Nutr 59(2):699–718
+
+Wang X, Cheng K, Liu Z, Sun Y, Zhou L, Xu M, Dai X, Xiong Y, Zhang H (2021) Bioactive constituents of Mosla chinensis-cv. Jiangxiangru ameliorate inflammation through MAPK signaling pathways and modify intestinal microbiota in DSS-induced colitis mice. Phytomedicine 93:153804
+
+Wang Y, Duan X, Liu X, Liu Y, Fan H, Xu M, Chen Q, Tang Q (2020b) Rho kinase blockade ameliorates DSS-induced ulcerative colitis in mice through dual inhibition of the NF-κB and IL-6/STAT3 pathways. Inflammation 43(3):857–867
+
+Wang Z, Wu X, Wang C-L, Wang L, Sun C, Zhang D-B, Liu J-L, Liang Y-N, Tang D-X, Tang Z-S (2018) Tryptanthrin protects mice against dextran sulfate sodium-induced colitis through inhibition of TNF-α/NF-κB and IL-6/STAT3 pathways. Molecules 23(5):1062
+
+West NR (2019) Coordination of immune-stroma crosstalk by IL-6 family cytokines. Front Immunol 10:1093
+
+Wu H-J, Ivanov II, Darce J, Hattori K, Shima T, Umesaki Y, Littman DR, Benoist C, Mathis D (2010) Gut-residing segmented filamentous bacteria drive autoimmune arthritis via T helper 17 cells. Immunity 32(6):815–827
+
+Wu J, Wu Y, Chen Y, Liu M, Yu H, Zhang Y, Wang T (2021) Desmethylbellidifolin attenuates dextran sulfate sodium-induced colitis: impact on intestinal barrier, intestinal inflammation and gut microbiota. Planta Med 88:559–569
+
+Wu S, Zhang Y, Ma J, Liu Y, Li W, Wang T, Xu X, Wang Y, Cheng K, Zhuang R (2022) Interleukin-6 absence triggers intestinal microbiota dysbiosis and mucosal immunity in mice. Cytokine 153:155841
+
+Xavier RJ, Podolsky DK (2007) Unravelling the pathogenesis of inflammatory bowel disease. Nature 448(7152):427–434
+
+Xiao T, Zhang P, Feng T, Lu K, Wang X, Zhou S, Qiang Y (2021) Butyrate functions in concert with myeloid-derived suppressor cells recruited by CCR9 to alleviate DSS-induced murine colitis. Int Immunopharmacol 99:108034
+
+Xu X-R, Liu C-Q, Feng B-S, Liu Z-J (2014) Dysregulation of mucosal immune response in pathogenesis of inflammatory bowel disease. World J Gastroenterol: WJG 20(12):3255
+
+Yamamoto M, Yoshizaki K, Kishimoto T, Ito H (2000) IL-6 is required for the development of Th1 cell-mediated murine colitis. J Immunol 164(9):4878–4882
+
+Yamasaki K, Taga T, Hirata Y, Yawata H, Kawanishi Y, Seed B, Taniguchi T, Hirano T, Kishimoto T (1988) Cloning and expression of the human interleukin-6 (BSF-2/IFNβ 2) receptor. Science 241(4867):825–828
+
+Yang C, Qiao Z, Xu Z, Wang X, Deng Q, Chen W, Huang F (2021) Algal oil rich in docosahexaenoic acid alleviates intestinal inflammation induced by antibiotics associated with the modulation of the gut microbiome and metabolome. J Agric Food Chem 69(32):9124–9136
+
+Yang R, Rincon M (2016) IL-6 induces IL-21 and B cell helper function in CD8 cells. J Immunol 196(1):189.8
+
+Yang X, Zhang F, Wang Y, Cai M, Wang Q, Guo Q, Li Z, Hu R (2013) Oroxylin A inhibits colitis-associated carcinogenesis through modulating the IL-6/STAT3 signaling pathway. Inflamm Bowel Dis 19(9):1990–2000
+
+Ye M, Joosse ME, Liu L, Sun Y, Dong Y, Cai C, Song Z, Zhang J, Brant SR, Lazarev M (2020) Deletion of IL-6 exacerbates colitis and induces systemic inflammation in IL-10-deficient mice. J Crohns Colitis 14(6):831–840
+
+Yen D, Cheung J, Scheerens H, Poulet F, McClanahan T, McKenzie B, Kleinschek MA, Owyang A, Mattson J, Blumenschein W (2006) IL-23 is essential for T cell–mediated colitis and promotes inflammation via IL-17 and IL-6. J Clin Investig 116(5):1310–1316
+
+Yu F-X, Guan K-L (2013) The Hippo pathway: regulators and regulations. Genes Dev 27(4):355–371
+
+Zelante T, Iannitti RG, Cunha C, De Luca A, Giovannini G, Pieraccini G, Zecchi R, D’Angelo C, Massi-Benedetti C, Fallarino F (2013) Tryptophan catabolites from microbiota engage aryl hydrocarbon receptor and balance mucosal reactivity via interleukin-22. Immunity 39(2):372–385
+
+Zhao Y, Luan H, Jiang H, Xu Y, Wu X, Zhang Y, Li R (2021) Gegen Qinlian decoction relieved DSS-induced ulcerative colitis in mice by modulating Th17/Treg cell homeostasis via suppressing IL-6/JAK2/STAT3 signaling. Phytomedicine 84:153519
+
+Zheng R, Ma J, Wang D, Dong W, Wang S, Liu T, Xie R, Liu L, Wang B, Cao H (2018) Chemopreventive effects of silibinin on colitis-associated tumorigenesis by inhibiting IL-6/STAT3 signaling pathway. Med Inflamm. https://doi.org/10.1155/2018/1562010
+
+Zhou L, Sonnenberg GF (2018) Essential immunologic orchestrators of intestinal homeostasis. Sci Immunol 3(20):1605
+
+Zhu L-Q, Zhang L, Zhang J, Chang G-L, Liu G, Yu D-D, Yu X-M, Zhao M-S, Ye B (2021) Evodiamine inhibits high-fat diet-induced colitis-associated cancer in mice through regulating the gut microbiota. J Integr Med 19(1):56–65
+
+# Publisher's Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Springer Nature or its licensor holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.

@@ -1,0 +1,19 @@
+# Environmental risks
+
+Epidemiologic studies have described a rising incidence of both UC and CD as countries undergo industrialization and demographic transition [Bernstein and Shanahan, 2008]. These epidemiologic changes are brisk beyond the speed of genetic alterations at the population level, suggesting there is likely a strong environmental component [Sheehan et al. 2015]. There are multiple environmental factors that may synergistically contribute to the rising incidence of IBD, including hygiene, diet, medications, tobacco use, surgical practices, and stress [Shanahan, 2012]. These environmental factors are likely to have effects on all three components of IBD pathophysiology (microbiome, barrier function, and immunity), but may exert a disproportionate effect on the gut microbiome and barrier function.
+
+It also contributes to tight junction integrity and is a regulator of Treg cells [Smith et al. 2013].
+
+Associations between high fat, protein, and sugar diets have been less consistent in epidemiologic studies [Hou et al. 2011], although animal studies have shown a strong link between high fat, high simple sugar diets [Martinez-Medina et al. 2014]. It may be that particular fats versus overall fat intake is important for disease development. For example, saturated milk fat, but not polyunsaturated fat, leads to the expansion of the sulfite reducing pathobiont Bilophila wadsworthia and to the development of colitis in a mouse model of IBD [Devkota et al. 2012]. Interestingly, mode of feeding after birth (breastfeeding versus formula) influences the microbiota and may have a long-term effect on IBD incidence [Barclay et al. 2009; Guaraldi and Salvatori, 2012].
+
+# Hygiene
+
+The hygiene hypothesis has been discussed as a contributing factor to the rise of autoimmune diseases in the developed world [Rook, 2012]. Central to this hypothesis is the idea that developed countries see less pathogenic burden (e.g. viral infections, Helicobacter pylori, and helminths) due to improved cleanliness in comparison to developing countries. Lack of exposure to infectious antigens during early immune development in childhood may have lasting impact on the immune system by switching the predominance of T lymphocyte subtypes (T helper 1 to T helper 2) that potentiate autoimmune phenomena including IBD [Koloski et al. 2008].
+
+# Diet
+
+Several studies describe a potential association between the rising incidence of IBD and a ‘Western’ diet composed largely of processed foods that are high in fat and protein and low in fiber (fruits and vegetables) [Chapman-Kiddell et al. 2010; Hou et al. 2011]. This may be due to direct effects of diet on the microbiota [Wu et al. 2013] and barrier function [Martinez-Medina et al. 2014]. Diets low in fiber have consistently been linked to IBD perhaps due to decreases in short chain fatty acid (SCFA) production by commensal bacteria (Clostridium clusters IV and IVXa) whose preferred energy source is fiber [Van Immerseel et al. 2010]. The SCFA butyrate is critical for colonic health as the preferred energy source for colonocytes [Van Immerseel et al. 2010].
+
+# Medications
+
+Different patterns of medication use have been postulated to play a role in the rising incidence of IBD via an effect on the microbiota or barrier function. Antibiotics are known to cause shifts in microbial composition and use in infancy [Shaw et al. 2010], childhood [Kronman et al. 2012], and adult life [Shaw et al. 2011] has been associated with an increased risk of IBD [Modi et al. 2014]. Tetracycline in the treatment of acne has been associated with increased risk of CD [Margolis et al. 2010; Alikhan et al. 2011].

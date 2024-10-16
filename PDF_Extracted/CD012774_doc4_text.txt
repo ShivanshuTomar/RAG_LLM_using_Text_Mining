@@ -1,0 +1,63 @@
+# Cochrane Library
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# [Intervention Review]
+
+# Fecal transplantation for treatment of inflammatory bowel disease
+
+Aamer Imdad1, Natasha G Pandit2, Muizz Zaman2, Nathan Zev Minkoff3, Emily E Tanner-Smith4, Oscar G Gomez-Duarte5, Sari Acra6, Maribeth R Nicholson6
+
+1Department of Pediatrics, Division of Pediatric Gastroenterology, Hepatology and Nutrition, SUNY Upstate Medical University, Syracuse, New York, USA.
+
+2Norton College of Medicine, SUNY Upstate Medical University, Syracuse, New York, USA.
+
+3Pediatric Gastroenterology, Hepatology and Nutrition, Valley Children's Hospital, Madera, CA, USA.
+
+4Counseling Psychology and Human Services, University of Oregon, Eugene, Oregon, USA.
+
+5Division of Pediatric Infectious Diseases, Department of Pediatrics, University at Buffalo, State University of New York, Buffalo, New York, USA.
+
+6Department of Pediatrics, D. Brent Polk Division of Gastroenterology, Hepatology and Nutrition, Vanderbilt University School of Medicine, Nashville, Tennessee, USA.
+
+Contact: Aamer Imdad, aamer08@gmail.com.
+
+Editorial group: Cochrane Gut Group.
+
+Publication status and date: New search for studies and content updated (conclusions changed), published in Issue 4, 2023.
+
+Citation: Imdad A, Pandit NG, Zaman M, Minkoff NZ, Tanner-Smith EE, Gomez-Duarte OG, Acra S, Nicholson MR. Fecal transplantation for treatment of inflammatory bowel disease. Cochrane Database of Systematic Reviews 2023, Issue 4. Art. No.: CD012774. DOI: 10.1002/14651858.CD012774.pub3.
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+# A B S T R A C T
+
+# Background
+
+Inflammatory bowel disease (IBD) is a chronic, relapsing disease of the gastrointestinal (GI) tract that is thought to be associated with a complex interplay between the immune system, the GI tract lining, the environment, and the gut microbiome, leading to an abnormal inflammatory response in genetically susceptible individuals. An altered composition of the gut's native microbiota, known as dysbiosis, may have a major role in the pathogenesis of ulcerative colitis (UC) and Crohn disease (CD), two subtypes of IBD. There is growing interest in the correction of this underlying dysbiosis using fecal microbiota transplantation (FMT).
+
+# Objectives
+
+To evaluate the benefits and safety profile of FMT for treatment of IBD in adults and children versus autologous FMT, placebo, standard medication, or no intervention.
+
+# Search methods
+
+We searched CENTRAL, MEDLINE, Embase, two clinical trial registries, and the reference sections of published trials through 22 December 2022.
+
+# Selection criteria
+
+We included randomized controlled trials that studied adults and children with UC or CD. Eligible intervention arms used FMT, defined as the delivery of healthy donor stool containing gut microbiota to a recipient's GI tract, to treat UC or CD.
+
+# Data collection and analysis
+
+Two review authors independently screened studies for inclusion. Our primary outcomes were: 1. induction of clinical remission, 2. maintenance of clinical remission, and 3. serious adverse events. Our secondary outcomes were: 4. any adverse events, 5. endoscopic remission, 6. quality of life, 7. clinical response, 8. endoscopic response, 9. withdrawals, 10. inflammatory markers, and 11. microbiome outcomes. We used the GRADE approach to assess the certainty of evidence.
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

@@ -1,0 +1,20 @@
+# Minot and Willis Microbiome
+
+# (2019) 7:110
+
+# Page 6 of 10
+
+|A|B|
+|---|---|
+|cc8|ZSS=|
+|H|1|
+|C|D|
+|acinoin|Huminoc|
+|Dactero|Hdophila|
+|Clstn|Vactero de|
+|Phascolarctobucte|Copnc oaciu|
+|Rumnocor|8|
+
+Fig. 3 Association of individual microbes with CRC (a, c) and IBD (b, d). a and b show the estimated coefficient of abundance for individual CAGs with disease status (log10 mean and 90% confidence intervals, left panel), the taxonomic assignment (middle panel), and functional assignment (right panel) of genes within each of those CAGs. c and d show the number of genes from disease-associated CAGs that are found within bacterial genomes from NCBI RefSeq, showing both the total number of genes for each genome, as well as a heatmap showing which disease-associated genes are found in which genomes.
+
+Abundant gene groups are a reproducible and biologically meaningful unit of analysis. In addition, microbial genes are a meaningful and useful unit of analysis functionality. Using this approach, we identify a list of.

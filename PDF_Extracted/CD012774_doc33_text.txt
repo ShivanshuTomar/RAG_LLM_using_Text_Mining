@@ -1,0 +1,89 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Library
+
+# Better health.
+
+# Long-term remission in ulcerative colitis after faecal microbiota transplantation.
+
+ISME Journal 2017;11(8):1877-89.
+
+* Rossen NG, Fuentes S, van der Spek MJ, Tijssen JG, Hartman JH, Duflou A, et al. Findings from a randomized controlled trial of fecal transplantation for patients with ulcerative colitis. Gastroenterology 2015;149(1):110-8. [PMID: 25836986]
+
+van Thiel IA, Rahman S, Hakvoort TB, Davids M, Verseijden C, van Hamersveld PH, et al. Fecal filobasidium is associated with clinical remission and endoscopic response following fecal microbiota transplantation in mild-to-moderate ulcerative colitis. Microorganisms 2022;10(4):737.
+
+# Sarbagili Shabat 2022 {unpublished data only}
+
+NCT02734589. Fecal transplantation using a diet for donor and recipient in refractory colitis. clinicaltrials.gov/ct2/show/NCT02734589 (first received 12 April 2016).
+
+* Sarbagili Shabat C, Scaldaferri F, Zittan E, Hirsch A, Mentella MC, Musca T, et al. Use of faecal transplantation with a novel diet for mild to moderate active ulcerative colitis: the craft uc randomised controlled trial. Journal of Crohn's and Colitis 2022;16(3):369-78. [PMID: 34514495]
+
+# Sokol 2020 {published data only}
+
+* Sokol H, Landman C, Seksik P, Berard L, Montil M, Nion-Larmurier I, et al. Fecal microbiota transplantation to maintain remission in Crohn's disease: a pilot randomized controlled study. Microbiome 2020;8(1):12. [PMID: 32014035]
+
+# Sood 2019a {published data only (unpublished sought but not used)}
+
+Midha V, Singh A, Mahajan R, Mehta V, Khattar H, Narang V, et al. Maintenance with faecal microbiota transplantation enhances deep remission in patients with ulcerative colitis in clinical remission. Gut 2018;67:A74.
+
+* Sood A, Mahajan R, Singh A, Midha V, Mehta V, Narang V, et al. Role of faecal microbiota transplantation for maintenance of remission in patients with ulcerative colitis: a pilot study. Journal of Crohn's and Colitis 2019;13(10):1311-7. [PMID: 30873549]
+
+# References to studies excluded from this review
+
+# Adler 2019 {published data only}
+
+Adler E, Tabaa A, Kassam Z, Zydek M, Terdiman J, El-Nachef N. Capsule-delivered fecal microbiota transplant is safe and well tolerated in patients with ulcerative colitis. Digestive Diseases and Sciences 2019;64(9):2452-4.
+
+# Allegretti 2016 {published data only}
+
+Allegretti JR, Kassam Z, Smith M, Korzenik JR, Chan WW. Irregular bowel movements following fecal microbiota transplantation (FMT) are associated with pre-existing irritable bowel syndrome but not FMT-related factors. Gastroenterology 2016;150(4):S742.
+
+# Cochrane Database of Systematic Reviews
+
+# Borody 2003 {published data only}
+
+Borody TJ, Warren EF, Leis S, Surace R, Ashman O. Treatment of ulcerative colitis using fecal bacteriotherapy. Journal of Clinical Gastroenterology 2003;37(1):42-7.
+
+# Chen 2018 {published data only}
+
+Chen Q, Fan Y, Zhang B, Huang Q, Xiao C, Xu H, et al. Faecal microbiota transplantation by capsules for active uncreative colitis: a randomised trial. Gut 2018;67:A76-7.
+
+# Chen 2020 {published data only}
+
+Chen M, Liu XL, Zhang YJ, Nie YZ, Wu KC, Shi YQ. Efficacy and safety of fecal microbiota transplantation by washed preparation in patients with moderate to severely active ulcerative colitis. Journal of Digestive Diseases 2020;21(11):621-8.
+
+# Chin 2017 {published data only}
+
+Chin SM, Sauk J, Mahabamunuge J, Kaplan JL, Hohmann EL, Khalili H. Fecal microbiota transplantation for recurrent clostridium difficile infection in patients with inflammatory bowel disease: a single-center experience. Clinical Gastroenterology and Hepatology 2017;15(4):597-9.
+
+# Ding 2019 {published data only}
+
+Ding X, Li Q, Li P, Zhang T, Cui B, Ji G, et al. Long-term safety and efficacy of fecal microbiota transplant in active ulcerative colitis. Drug Safety 2019;42(7):869-80.
+
+# El-Nachef 2020 {published data only}
+
+El-Nachef N, Smith B, Piceno Y, Zydek M, Syriani L, Terdiman JP, et al. Antibiotic pretreatment prior to fecal microbiota transplantation increases rates of remission in patients with mild to moderate ulcerative colitis: results from a pilot randomized clinical trial. Gastroenterology 2020;158(6):S-14.
+
+# Fang 2017 {published data only}
+
+Fang YH, Chen J, Yu JD, Luo YY, Lou JG. The preliminary investigation of faecal microbiota transplantation for paediatric recurrent chronic bowel diseases and literature review. Hong Kong Journal of Paediatrics 2017;22:199-203.
+
+# Fischer 2016 {published data only}
+
+Fischer M, Kao D, Kelly C, Kuchipudi A, Jafri SM, Blumenkehl M, et al. Fecal microbiota transplantation is safe and efficacious for recurrent or refractory clostridium difficile infection in patients with inflammatory bowel disease. Inflammatory Bowel Diseases 2016;22(10):2402-9.
+
+# Gionchetti 2000 {published data only}
+
+Gionchetti P, Rizzello F, Venturi A, Brigidi P, Matteuzzi D, Bazzocchi G, et al. Oral bacteriotherapy as maintenance treatment in patients with chronic pouchitis: a double-blind, placebo-controlled trial. Gastroenterology 2000;119(2):305-9.
+
+# Hourigan 2015 {published data only}
+
+Hourigan SK, Chen LA, Grigoryan Z, Laroche G, Weidner M, Sears CL, et al. Microbiome changes associated with sustained eradication of Clostridium difficile after single faecal microbiota transplantation in children with and without inflammatory.
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

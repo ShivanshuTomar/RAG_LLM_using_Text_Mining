@@ -1,0 +1,35 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Outcome or subgroup title
+
+|Outcome or subgroup title|No. of studies|No. of participants|Statistical method|Effect size|
+|---|---|---|---|---|
+|1.12.1 Upper gastrointestinal|2|83|Risk Ratio (M-H, Random, 95% CI)|1.21 [0.32, 4.49]|
+|1.12.2 Lower gastrointestinal|7|370|Risk Ratio (M-H, Random, 95% CI)|2.19 [0.92, 5.23]|
+|1.12.3 Mixed (upper and lower) route|1|15|Risk Ratio (M-H, Random, 95% CI)|1.14 [0.09, 15.08]|
+|1.13 Serious adverse events for induction of remission in UC: subgroup analysis by type of donor|10|468|Risk Ratio (M-H, Random, 95% CI)|1.77 [0.88, 3.55]|
+|1.13.1 Single donor|6|191|Risk Ratio (M-H, Random, 95% CI)|2.36 [0.83, 6.69]|
+|1.13.2 Multiple donors|4|277|Risk Ratio (M-H, Random, 95% CI)|1.40 [0.55, 3.58]|
+|1.14 Serious adverse events for induction of remission in UC: subgroup analysis by age|10|468|Risk Ratio (M-H, Random, 95% CI)|1.77 [0.88, 3.55]|
+|1.14.1 Children|1|25|Risk Ratio (M-H, Random, 95% CI)|4.62 [0.63, 34.05]|
+|1.14.2 Adults|9|443|Risk Ratio (M-H, Random, 95% CI)|1.55 [0.73, 3.26]|
+|1.15 Serious adverse events for induction of remission in UC: sensitivity analysis using fixed-effect model|10|468|Risk Ratio (M-H, Fixed, 95% CI)|1.87 [0.95, 3.68]|
+|1.16 Serious adverse events for induction of remission in UC: sensitivity analysis for available cases|10|382|Risk Ratio (M-H, Random, 95% CI)|1.74 [0.88, 3.47]|
+|1.17 Any adverse events for induction of remission in UC|9|417|Risk Ratio (M-H, Random, 95% CI)|0.99 [0.85, 1.16]|
+|1.18 Induction of endoscopic remission in UC at longest follow-up|5|285|Risk Ratio (M-H, Random, 95% CI)|1.45 [0.64, 3.29]|
+|1.19 Quality of life (Inflammatory Bowel Disease Questionnaire [IBDQ]) scores at longest follow-up for induction of remission in UC|3|131|Mean Difference (IV, Random, 95% CI)|15.34 [-3.84, 34.52]|
+|1.20 Quality of life (IBDQ) scores at longest follow-up for induction of remission in UC: sensitivity analysis without Haifer 2022|2|96|Mean Difference (IV, Random, 95% CI)|22.20 [0.63, 43.78]|
+|1.21 Induction of clinical response in UC at longest follow-up|10|468|Risk Ratio (M-H, Random, 95% CI)|1.33 [0.96, 1.84]|
+|1.22 Induction of endoscopic response in UC at longest follow-up|3|164|Risk Ratio (M-H, Random, 95% CI)|1.48 [0.79, 2.76]|
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

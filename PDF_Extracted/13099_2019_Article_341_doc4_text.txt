@@ -1,0 +1,19 @@
+# Alam et al. Gut Pathog (2020) 12:1
+
+# Global co‑abundance in the gut of different bacterial families
+
+The gut microbiota abundance profiles from &gt; 22,000 samples across a variety of conditions from 113 different studies was analysed to explore how different bacterial groups change across global studies. Using the Pearson’s correlation test, we built a network of significantly co-abundant (Pearson’s correlation coefficient &gt; 0.3 and P value &lt; 1e−10) bacterial families across a range of conditions collected from global studies (Fig. 3ai). We observed that the majority of bacterial families in the network belonged to the phyla Proteobacteria, Actinobacteria, Firmicutes and Bacteroidetes (Fig. 3aii). In the global gut bacterial family–family co-abundance network (Fig. 3ai), family nodes of 45% of the total connections are from the same phylum, compared to a random network of the same size where percentage connections were much lower (~ 30%) (Fig. 3aiii). This suggests that groups from the same phylum, which likely have similar metabolic requirements, are likely to change abundance as a collective. To understand the family level microbial imbalance during IBD, we further considered a subnetwork of the global family co-abundance network, where at least one family node was from the most abundant bacterial families in either CD, UC or healthy subjects. In this subnetwork, we highlighted bacterial families which were changed during CD or UC, compared to the healthy (Fig. 3b, c).
+
+# Conclusions
+
+In summary, our analysis demonstrates that IBD patients (both CD and UC) and healthy volunteers have reduced species richness, and imbalances in families, classes, and phyla, relative to healthy volunteers. Four bacterial phyla including Firmicutes, Bacteroidetes, Proteobacteria and Actinobacteria comprised &gt; 98% of the species in this study. To understand how bacteria assemblages depend on co-operation, we reconstructed a large co-abundance network based on the public gut microbiome data of &gt; 22,000 samples. From this we demonstrated that the bacterial families which have an increased abundance level in IBD conditions are not well connected to other bacterial groups in the global family co-abundance network. This suggests that these bacteria do not co-exist with healthy gut microbial commensals and supports the concept that healthy assemblages are dependent on metabolic co-operation, due to the high connectivity of bacterial groups found in healthy conditions across &gt; 22,000 samples.
+
+# Methodology
+
+# Sample collection and DNA extraction
+
+Samples were collected from patients in standard 300 ml sterilin tubes and frozen immediately in −80 °C. Patients were asked to produce the first-morning sample for consistency and to avoid alcohol the previous 24 h. Samples were thawed and DNA was extracted using FastDNA Spin Kit for Soil (MPBiomedicals) [30] as per the manufacturer’s instructions.
+
+# 16S rRNA sequencing
+
+454 pyrosequencing using 16S universal eubacterial primers 27F and 534R [31] was performed by Molecular Research (MRDNA), Shallowater, Texas, using an adapted protocol developed in [32]. Number of reads per

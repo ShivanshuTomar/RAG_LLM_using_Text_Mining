@@ -1,0 +1,28 @@
+# Knights et al. Genome Medicine 2014, 6:107
+
+Page 11 of 11
+
+http://genomemedicine.com/content/6/12/107
+
+# References
+
+1. Turnbaugh PJ: Diet rapidly and reproducibly alters the human gut microbiome. Nature 2013, 505:559–563.
+2. Eklund A: beeswarm: The bee swarm plot, an alternative to stripchart [http://cran.r-project.org/web/packages/beeswarm/index.html]
+3. Bach J-F: The effect of infections on susceptibility to autoimmune and allergic diseases. N Engl J Med 2002, 347:911–920.
+
+doi:10.1186/s13073-014-0107-1
+
+Cite this article as: Knights et al.: Complex host genetics influence the microbiome in inflammatory bowel disease. Genome Medicine 2014 6:107.
+
+# Submit your next manuscript to BioMed Central
+
+and take full advantage of:
+
+- Convenient online submission
+- Thorough peer review
+- No space constraints or color figure charges
+- Immediate publication on acceptance
+- Inclusion in PubMed, CAS, Scopus and Google Scholar
+- Research which is freely available for redistribution
+
+Submit your manuscript at www.biomedcentral.com/submit

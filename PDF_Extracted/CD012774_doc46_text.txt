@@ -1,0 +1,58 @@
+# Cochrane Library
+
+# Crothers 2021 (Continued)
+
+Trusted evidence. Informed decisions. Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Inclusion criteria
+
+- Adults with established diagnosis of UC and inflammation extending proximally to at least the recto-sigmoid junction; with baseline total Mayo score 4–10, Endoscopic Mayo subscore ≥ 1, Rectal Bleeding subscore ≥ 1, Stool Frequency subscore ≥ 1
+- On stable dosing of UC-specific medications (e.g. anti-TNFα, oral immunomodulators, oral and topical 5-ASA, methotrexate) for ≥ 6 weeks prior to screening
+
+# Exclusion criteria
+
+- People who were asymptomatic or had severe, refractory disease (Mayo score ≥ 10, endoscopic subscore ≥ 3), proctitis only, infectious colitis, exacerbation of baseline symptoms
+- History of colectomy, gastrointestinal motility disorder, limited life expectancy (< 12 months), pregnancy, lactation, severe immunodeficiency, history of anaphylaxis
+- Corticosteroid use; antibiotic use within 6 weeks or probiotics use within 4 weeks of enrollment
+- Modification to eligibility criteria after trial began, to increase recruitment: probiotic use permitted up to 1 week prior to enrollment
+
+# Interventions
+
+# Experimental arm
+
+n = 7
+
+- Single donor feces for induction therapy via colonoscopy (120 mL at concentration of 1 g stool/2.5 mL)
+- 2 alternating donors' feces for maintenance therapy via capsule (1 daily 550 μL FMT capsule, about 0.5 g stool) for 12 weeks
+
+# Control arm
+
+n = 8
+
+- Sham colonoscopy and sham capsules that resembled the intervention in experimental group
+
+# Outcomes
+
+# Primary outcome
+
+- Adverse events, measured by telephone call 24 hours after induction therapy, at 4 clinic visits (weeks 4, 8, 12, 18), and by telephone call at week 36
+
+# Secondary outcomes
+
+- Clinical remission at week 12 (modified Mayo Score ≤ 2, including Rectal Bleeding subscore of 0, Stool Frequency subscore 0 or ≥ 1 point decrease from baseline to achieve Stool Frequency subscore ≤ 1, Endoscopic subscore ≤ 1)
+- Clinical response at week 12 (decrease in total Mayo score (Stool Frequency, Rectal Bleeding, physical global assessment, Endoscopic Mayo scores) from baseline by ≥ 3 points with Rectal Bleeding subscore of 0 or 1, or decrease in Rectal Bleeding subscore by ≥ 1 point)
+- Serum CRP at week 12
+- Fecal calprotectin at week 12
+- IBDQ total score at week 12
+
+# Notes
+
+Data extraction: participants in both groups were pretreated with antibiotics (ciprofloxacin 250 mg orally every 12 hours and metronidazole 500 mg orally every 8 hours for 7 days prior to FMT or placebo). Even though the study reported outcomes of maintenance of remission, we did not consider these data as the participants received FMT during the active disease phase and were not re-randomized after achieving remission. We only considered the outcomes of induction of remission.
+
+Data interpretation: study authors used an mITT analysis, in which only participants who received ≥ 1 study dose were considered, rather than the total number of participants randomized to each group. They report that the latter included participants who were deemed ineligible after randomization. In our review, we considered the total number of participants randomized to each group in order to remain consistent with our methods used for other studies, and then we conducted a sensitivity analysis with only complete data.
+
+Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

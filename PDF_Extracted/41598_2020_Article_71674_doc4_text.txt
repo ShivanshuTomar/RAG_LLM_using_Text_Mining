@@ -1,0 +1,85 @@
+# Retrieving information regarding target microorganisms for IBD linked ReA from data repositories
+
+# Text mining
+
+# Data identification
+
+# Data screening
+
+# Data selection
+
+# Metabolic network reconstruction
+
+# Creating metabolic network of target microorganisms
+
+# Draft reconstruction
+
+# Manual reconstruction refinement
+
+# Simulation analysis (Cencesscntiality)
+
+# Retrieving essential genes from metabolic network necessary for survival of organism
+
+# Conversion into mathematical model
+
+# Gene deletion
+
+# Retrieval of protein sequences corresponding to essential genes
+
+# Filtering data by removing repeats and homologs from essential genes
+
+# Removal of repeats
+
+# Removal of homologs
+
+# Host-Microbe and microbe-microbe interacting proteins of essential genes
+
+# Deconvoluting common protein signatures from target microorganisms
+
+# Microbe proteins
+
+# Host proteins
+
+# Host essential proteins
+
+# Host-microbe molecular mimicry
+
+# Extricating the essential host proteome complement
+
+# Proteins associated with IBD and ReA
+
+# Protein-drug interaction
+
+# Protein-marker (non-specific) interaction
+
+# Protein-symptom/disease interaction
+
+# Pathway analysis
+
+# Blood sample collection and isolation of PBMCs
+
+# Density gradient centrifugation method
+
+# RNA isolation, qualitative analysis and quantification
+
+# TRIzol method
+
+# Agarose gel electrophoresis
+
+# Nano-drop
+
+# cDNA synthesis
+
+# High Capacity cDNA Reverse Transcription Kit (Applied BiosystemsTM)
+
+# Qualitative and quantitative gene expression
+
+# Reverse-transcriptase Polymerase Chain Reaction
+
+# Quantitative Real-Time Polymerase Chain Reaction (Biorad CFX96)
+
+# Relative gene expression analysis
+
+# Relative Expression Software Tool (RESTO 2009)
+
+# Figure 1. Methodology used for combinatorial analysis.

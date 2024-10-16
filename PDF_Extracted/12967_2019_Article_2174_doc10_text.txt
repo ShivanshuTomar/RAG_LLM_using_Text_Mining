@@ -1,0 +1,57 @@
+# Kumar et al. J Transl Med (2019) 17:419
+
+# References
+
+1. Tontini GE, Vecchi M, Pastorelli L, et al. Differential diagnosis in inflammatory bowel disease colitis: state of the art and future perspectives. World J Gastroenterol. 2015;21:21–46.
+2. Monteiro S, Dias de Castro F, Boal Carvalho P, et al. Essential role of small bowel capsule endoscopy in reclassification of colonic inflammatory bowel disease type unclassified. World J Gastrointest Endosc. 2017;9:34–40.
+3. Oliveira SB, Monteiro IM. Diagnosis and management of inflammatory bowel disease in children. BMJ. 2017;357:j2083.
+4. Samuel Wilks WM. Lectures on pathological anatomy: Lindsay and Blakiston. 1875.
+5. Smith MS, Wakefield AJ. Crohn’s disease: ancient and modern. Postgrad Med J. 1994;70:149–53.
+6. Kim HJ, Hann HJ, Hong SN, et al. Incidence and natural course of inflammatory bowel disease in Korea, 2006–2012: a nationwide population-based study. Inflamm Bowel Dis. 2015;21:623–30.
+7. Molodecky NA, Soon IS, Rabi DM, et al. Increasing incidence and prevalence of the inflammatory bowel diseases with time, based on systematic review. Gastroenterology. 2012;142:46–54.e42 (quiz e30).
+8. Kaplan GG. The global burden of IBD: from 2015 to 2025. Nat Rev Gastroenterol Hepatol. 2015;12:720–7.
+9. Sykora J, Pomahacova R, Kreslova M, et al. Current global trends in the incidence of pediatric-onset inflammatory bowel disease. World J Gastroenterol. 2018;24:2741–63.
+10. Marchesi JR, Adams DH, Fava F, et al. The gut microbiota and host health: a new clinical frontier. Gut. 2016;65:330–9.
+11. Imhann F, Vich Vila A, Bonder MJ, et al. Interplay of host genetics and gut microbiota underlying the onset and clinical presentation of inflammatory bowel disease. Gut. 2018;67:108–19.
+12. Weersma RK, Xavier RJ, Consortium IBDMO, et al. Multiomics analyses to deliver the most effective treatment to every patient with inflammatory bowel disease. Gastroenterology. 2018;155:e1–4.
+13. Fiocchi C. Integrating omics: the future of IBD? Dig Dis. 2014;32(Suppl 1):96–102.
+14. Levine A, Koletzko S, Turner D, et al. ESPGHAN revised porto criteria for the diagnosis of inflammatory bowel disease in children and adolescents. J Pediatr Gastroenterol Nutr. 2014;58:795–806.
+15. Xu XR, Liu CQ, Feng BS, et al. Dysregulation of mucosal immune response in pathogenesis of inflammatory bowel disease. World J Gastroenterol. 2014;20:3255–64.
+16. Shi N, Li N, Duan X, et al. Interaction between the gut microbiome and mucosal immune system. Mil Med Res. 2017;4:14.
+17. Dilauro S, Crum-Cianflone NF. Ileitis: when it is not Crohn’s disease. Curr Gastroenterol Rep. 2010;12:249–58.
+18. Tharian B, George N, Navaneethan U. Endoscopy in the diagnosis and management of complications of inflammatory bowel disease. Inflamm Bowel Dis. 2016;22:1184–97.
+19. Taylor S, Lobo AJ. Diagnosis and treatment of inflammatory bowel disease. Practitioner. 2016;260:19–23.
+20. Padoan A, D’Inca R, Scapellato ML, et al. Improving IBD diagnosis and monitoring by understanding preanalytical, analytical and biological fecal calprotectin variability. Clin Chem Lab Med. 2018;56:1926–35.
+21. Koksal AR, Boga S, Alkim H, et al. How does a biopsy of endoscopically normal terminal ileum contribute to the diagnosis? Which patients should undergo biopsy? Libyan J Med. 2014;9:23441.
+22. Magro F, Langner C, Driessen A, et al. European consensus on the histopathology of inflammatory bowel disease. J Crohns Colitis. 2013;7:827–51.
+23. Surawicz CM, Haggitt RC, Husseman M, et al. Mucosal biopsy diagnosis of colitis: acute self-limited colitis and idiopathic inflammatory bowel disease. Gastroenterology. 1994;107:755–63.
+24. Levine A, Griffiths A, Markowitz J, et al. Pediatric modification of the Montreal classification for inflammatory bowel disease: the Paris classification. Inflamm Bowel Dis. 2011;17:1314–21.
+25. Kornbluth A, Sachar DB, Practice Parameters Committee of the American College of G. Ulcerative colitis practice guidelines in adults (update): American College of Gastroenterology, Practice Parameters Committee. Am J Gastroenterol. 2004;99:1371–85.
+26. Lichtenstein GR, Loftus EV, Isaacs KL, et al. ACG clinical guideline: management of Crohn’s disease in adults. Am J Gastroenterol. 2018;113:481–517.
+27. Bartunkova J, Kolarova I, Sediva A, et al. Antineutrophil cytoplasmic antibodies, anti-Saccharomyces cerevisiae antibodies, and specific IgE to food allergens in children with inflammatory bowel diseases. Clin Immunol. 2002;102:162–8.
+28. Matsui T, Yao T, Sakurai T, et al. Clinical features and pattern of indeterminate colitis: Crohn’s disease with ulcerative colitis-like clinical presentation. J Gastroenterol. 2003;38:647–55.
+29. Franke A, McGovern DP, Barrett JC, et al. Genome-wide meta-analysis increases to 71 the number of confirmed Crohn’s disease susceptibility loci. Nat Genet. 2010;42:1118–25.
+30. Khor B, Gardet A, Xavier RJ. Genetics and pathogenesis of inflammatory bowel disease. Nature. 2011;474:307–17.
+31. Shaw KA, Cutler DJ, Okou D, et al. Genetic variants and pathways implicated in a pediatric inflammatory bowel disease cohort. Genes Immun. 2019;20:131–42.
+32. Homer CR, Richmond AL, Rebert NA, et al. ATG16L1 and NOD2 interact in an autophagy-dependent antibacterial pathway implicated in Crohn’s disease pathogenesis. Gastroenterology. 2010;139:1630–41, 1641 e1–2.
+33. Wellcome Trust Case Control C. Genome-wide association study of 14,000 cases of seven common diseases and 3,000 shared controls. Nature. 2007;447:661–78.
+34. Lloyd-Price J, Abu-Ali G, Huttenhower C. The healthy human microbiome. Genome Med. 2016;8:51.
+35. Althani AA, Marei HE, Hamdi WS, et al. Human microbiome and its association with health and diseases. J Cell Physiol. 2016;231:1688–94.
+36. Human Microbiome Project C. Structure, function and diversity of the healthy human microbiome. Nature. 2012;486:207–14.
+37. Singh P, Kumar M, Al Khodor S. Vitamin D deficiency in the gulf cooperation council: exploring the triad of genetic predisposition, the gut microbiome and the immune system. Front Immunol. 2019;10:1042.
+38. Mathur T, Barman TK, Kumar M, et al. In vitro and in vivo activities of DS-2969b, a novel GyrB inhibitor, against Clostridium difficile. Antimicrob Agents Chemother. 2018;62(4). https://doi.org/10.1128/AAC.02157-17.
+39. Lederberg J, McCray AT. ‘Ome Sweet’ omics—a genealogical treasury of words. Scientist. 2001;15:8.
+40. Gupta VK, Paul S, Dutta C. Geography, ethnicity or subsistence-specific variations in human microbiome composition and diversity. Front Microbiol. 2017;8:1162.
+41. Barko PC, McMichael MA, Swanson KS, et al. The gastrointestinal microbiome: a review. J Vet Intern Med. 2018;32:9–25.
+42. Harmsen HJ, de Goffau MC. The human gut microbiota. Adv Exp Med Biol. 2016;902:95–108.
+43. Hoffmann C, Dollive S, Grunberg S, et al. Archaea and fungi of the human gut microbiome: correlations with diet and bacterial residents. PLoS ONE. 2013;8:e66019.
+44. Lozupone CA, Stombaugh JI, Gordon JI, et al. Diversity, stability and resilience of the human gut microbiota. Nature. 2012;489:220–30.
+45. van de Guchte M, Blottiere HM, Dore J. Humans as holobionts: implications for prevention and therapy. Microbiome. 2018;6:81.
+46. Sirisinha S. The potential impact of gut microbiota on your health: current status and future challenges. Asian Pac J Allergy Immunol. 2016;34:249–64.
+47. Weiss GA, Hennet T. Mechanisms and consequences of intestinal dysbiosis. Cell Mol Life Sci. 2017;74:2959–77.
+48. Peng J, Xiao X, Hu M, et al. Interaction between gut microbiome and cardiovascular disease. Life Sci. 2018;214:153–7.
+49. Mangiola F, Nicoletti A, Gasbarrini A, et al. Gut microbiota and aging. Eur Rev Med Pharmacol Sci. 2018;22:7404–13.
+50. Liu J, Wu M, He J, et al. Antibiotic-induced dysbiosis of gut microbiota impairs corneal nerve regeneration by affecting CCR2-negative macrophage distribution. Am J Pathol. 2018;188:2786–99.
+51. Li N, Wang Q, Wang Y, et al. Oral probiotics ameliorate the behavioral deficits induced by chronic mild stress in mice via the gut microbiota-inflammation axis. Front Behav Neurosci. 2018;12:266.
+52. Jorgensen SF, Fevang B, Aukrust P. Autoimmunity and inflammation in CVID: a possible crosstalk between immune activation, gut microbiota, and epigenetic modifications. J Clin Immunol. 2019;39(1):30–6. https://doi.org/10.1007/s10875-018-0574-z.
+53. Joossens M, Faust K, Gryp T, et al. Gut microbiota dynamics and uraemic toxins: one size does not fit all. Gut. 2019;68:2257–60.

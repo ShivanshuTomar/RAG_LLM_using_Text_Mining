@@ -1,0 +1,42 @@
+# References
+
+1. Ocansey et al. Clin Trans Med (2019) 8:31
+2. Matsuoka K, Kanai T (2015) The gut microbiota and inflammatory bowel disease. Semin Immunopathol 37:47–55. https://doi.org/10.1007/s00281-014-0454-4
+3. Kang J, Zhang L, Luo X et al (2018) Systematic exposition of mesenchymal stem cell for inflammatory bowel disease and its associated colorectal cancer. Biomed Res Int 2018:1–16. https://doi.org/10.1155/2018/9652817
+4. Kilcoyne A (2016) Inflammatory bowel disease imaging: current practice and future directions. World J Gastroenterol 22:917. https://doi.org/10.3748/wjg.v22.i3.917
+5. Fakhoury M, Al-Salami H, Negrulj R, Mooranian A (2014) Inflammatory bowel disease: clinical aspects and treatments. J Inflamm Res. https://doi.org/10.2147/JIR.S65979
+6. Yang L, Tang S, Baker SS et al (2019) Difference in pathomechanism between Crohn’s disease and ulcerative colitis revealed by colon transcriptome. Inflamm Bowel Dis 25:722–731. https://doi.org/10.1093/ibd/izy359
+7. Schaefer JS, Attumi T, Opekun AR et al (2015) MicroRNA signatures differentiate Crohn’s disease from ulcerative colitis. BMC Immunol 16:5. https://doi.org/10.1186/s12865-015-0069-0
+8. Rybaczyk L, Rozmiarek A, Circle K et al (2009) New bioinformatics approach to analyze gene expressions and signaling pathways reveals unique purine gene dysregulation profiles that distinguish between CD and UC. Inflamm Bowel Dis 15:971–984. https://doi.org/10.1002/ibd.20893
+9. Lazaridis L-D, Pistiki A, Giamarellos-Bourboulis EJ et al (2017) Activation of NLRP3 inflammasome in inflammatory bowel disease: differences between Crohn’s disease and ulcerative colitis. Dig Dis Sci 62:2348–2356. https://doi.org/10.1007/s10620-017-4609-8
+10. Mortensen JH, Manon-Jensen T, Jensen MD et al (2017) Ulcerative colitis, Crohn’s disease, and irritable bowel syndrome have different profiles of extracellular matrix turnover, which also reflects disease activity in Crohn’s disease. PLoS ONE 12:e0185855. https://doi.org/10.1371/journal.pone.0185855
+11. Philippe M, Harry S (2015) Gut microbiota and inflammatory bowel disease: a selection of content from the gut microbiota for health experts exchange 2014–2015. Gut microbiota Health 37:47–55
+12. Bloemendaal ALA, Buchs NC, George BD, Guy RJ (2016) Intestinal stem cells and intestinal homeostasis in health and in inflammation: a review. Surgery 159:1237–1248. https://doi.org/10.1016/j.surg.2016.01.014
+13. Nishida A, Inoue R, Inatomi O et al (2018) Gut microbiota in the pathogenesis of inflammatory bowel disease. Clin J Gastroenterol 11:1–10. https://doi.org/10.1007/s12328-017-0813-5
+14. Takahashi K, Nishida A, Fujimoto T et al (2016) Reduced abundance of butyrate-producing bacteria species in the fecal microbial community in Crohn’s disease. Digestion 93:59–65
+15. Fujimoto T, Takahashi K et al (2013) Decreased abundance of Faecalibacterium prausnitzii in the gut microbiota of Crohn’s disease. J Gastroenterol Hepatol 28:613–619
+16. Varela E, Manichanh C, Gallart M et al (2013) Colonisation by Faecalibacterium prausnitzii and maintenance of clinical remission in patients with ulcerative colitis. Aliment Pharmacol Ther 38:151–161
+17. Darfeuille-Michaud A, Boudeau J, Bulois P et al (2004) High prevalence of adherent-invasive Escherichia coli associated with ileal mucosa in Crohn’s disease. Gastroenterology 127:412–421
+18. Png C, Linden S, Gilshenan KS et al (2010) Mucolytic bacteria with increased prevalence in IBD mucosa augment in vitro utilization of mucin by other bacteria. Am J Gastroenterol 105:2420–2428
+19. Pickard JM, Zeng MY, Caruso R, Núñez G (2017) Gut microbiota: role in pathogen colonization, immune responses, and inflammatory disease. Immunol Rev 279:70–89. https://doi.org/10.1111/imr.12567
+20. Norman JM, Handley SA, Baldridge MT et al (2015) Disease-specific alterations in the enteric virome in inflammatory bowel disease. Cell 160:447–460. https://doi.org/10.1016/j.cell.2015.01.002
+21. Colman RJ, Rubin DT (2014) Fecal microbiota transplantation as therapy for inflammatory bowel disease: a systematic review and meta-analysis. J Crohn’s Colitis 8:1569–1581. https://doi.org/10.1016/j.crohns.2014.08.006
+22. van Nood E, Vrieze A, Nieuwdorp M et al (2013) Duodenal infusion of donor feces for recurrent Clostridium difficile. N Engl J Med 368:407–415. https://doi.org/10.1056/NEJMo a1205037
+23. Moayyedi P, Surette MG, Kim PT et al (2015) Fecal microbiota transplantation induces remission in patients with active ulcerative colitis in a randomized controlled trial. Gastroenterology 149:102. https://doi.org/10.1053/j.gastro.2015.04.001
+24. Rossen NG, Fuentes S, van der Spek MJ et al (2015) Findings from a randomized controlled trial of fecal transplantation for patients with ulcerative colitis. Gastroenterology 149:110. https://doi.org/10.1053/j.gastro.2015.03.045
+25. Imdad A, Nicholson MR, Tanner-Smith EE et al (2017) Fecal transplantation for treatment of inflammatory bowel disease. Cochrane Database Syst Rev. https://doi.org/10.1002/14651858.CD012774
+26. Angelberger S, Reinisch W, Makristathis A et al (2013) Temporal bacterial community dynamics vary among ulcerative colitis patients after fecal microbiota transplantation. Am J Gastroenterol 108:1620–1630. https://doi.org/10.1038/ajg.2013.257
+27. Tian Y, Zhou Y, Huang S et al (2019) Fecal microbiota transplantation for ulcerative colitis: a prospective clinical study. BMC Gastroenterol 19:116. https://doi.org/10.1186/s12876-019-1010-4
+28. He Z, Li P, Zhu J et al (2017) Multiple fresh fecal microbiota transplants induces and maintains clinical remission in Crohn’s disease complicated with inflammatory mass. Sci Rep 7:4753. https://doi.org/10.1038/s41598-017-04984-z
+29. Kunde S, Pham A, Bonczyk S et al (2013) Safety, tolerability, and clinical response after fecal transplantation in children and young adults with ulcerative colitis. J Pediatr Gastroenterol Nutr 56:597–601. https://doi.org/10.1097/MPG.0b013e318292fa0d
+30. Zhang F-M, Wang H-G, Wang M et al (2013) Fecal microbiota transplantation for severe enterocolonic fistulizing Crohn’s disease. World J Gastroenterol 19:7213–7216. https://doi.org/10.3748/wjg.v19.i41.7213
+31. Cui B, Feng Q, Wang H et al (2015) Fecal microbiota transplantation through mid-gut for refractory Crohn’s disease: safety, feasibility, and efficacy trial results. J Gastroenterol Hepatol 30:51–58. https://doi.org/10.1111/jgh.12727
+32. Wang H, Cui B, Li Q et al (2018) The safety of fecal microbiota transplantation for Crohn’s disease: findings from a long-term study. Adv Ther 35:1935–1944. https://doi.org/10.1007/s12325-018-0800-3
+33. Paramsothy S, Kamm MA, Kaakoush NO et al (2017) Multidonor intensive faecal microbiota transplantation for active ulcerative colitis: a randomised placebo-controlled trial. Lancet 389:1218–1228. https://doi.org/10.1016/S0140-6736(17)30182-4
+34. Vaughn BP, Vatanen T, Allegretti JR et al (2016) Increased intestinal microbial diversity following fecal microbiota transplant for active Crohnʼs disease. Inflamm Bowel Dis 22:2182–2190. https://doi.org/10.1097/MIB.0000000000000893
+35. Nusbaum DJ, Sun F, Ren J et al (2018) Gut microbial and metabolomic profiles after fecal microbiota transplantation in pediatric ulcerative colitis patients. FEMS Microbiol Ecol. https://doi.org/10.1093/femsec/fiy133
+36. Costello SP, Hughes PA, Waters O et al (2019) Effect of fecal microbiota transplantation on 8-week remission in patients with ulcerative colitis. JAMA 321:156. https://doi.org/10.1001/jama.2018.20046
+37. Paramsothy S, Nielsen S, Kamm MA et al (2019) Specific bacteria and metabolites associated with response to fecal microbiota transplantation in patients with ulcerative colitis. Gastroenterology 156:1440. https://doi.org/10.1053/j.gastro.2018.12.001
+38. Suskind DL, Brittnacher MJ, Wahbeh G et al (2015) Fecal microbial transplant effect on clinical outcomes and fecal microbiome in active Crohnʼs disease. Inflamm Bowel Dis 21:556–563. https://doi.org/10.1097/MIB.0000000000000307
+39. Goyal A, Yeh A, Bush BR et al (2018) Safety, clinical response, and microbiome findings following fecal microbiota transplant in children with inflammatory bowel disease. Inflamm Bowel Dis 24:410–421. https://doi.org/10.1093/ibd/izx035
+40. Li P, Zhang T, Xiao Y et al (2019) Timing for the second fecal microbiota transplantation to maintain the long-term benefit from the first treatment for Crohn’s disease. Appl Microbiol Biotechnol 103:349–360. https://doi.org/10.1007/s00253-018-9447-x

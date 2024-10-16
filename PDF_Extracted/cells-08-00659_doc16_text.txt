@@ -1,0 +1,45 @@
+# Cells 2019, 8, 659
+
+arise from totally different origins and may be closely connected to potential individual confounding factors, including (mental) health status and inter-individual variability in stress responsiveness and/or vulnerability. Therefore, future research involving preclinical studies as well as large-scale, controlled clinical trials should not only focus on unravelling the exact mechanisms through which stress affects IBD. However, it is also of great interest to further investigate the exact mechanisms of how stress management can orchestrate beneficial effects in IBD and how stress-relieving therapies should be implemented in IBD care.
+
+# Author Contributions
+
+Conceptualization, Y.O., C.M.C.O. and R.S.; writing—original draft preparation, Y.O.; writing—review and editing, Y.O., T.Y., T.H., R.S.-S.; funding acquisition, R.S.-S.
+
+# Funding
+
+This research was supported by the Dutch Organization for Scientific Research (NWO; Vidi grant no. 016.126.327), ASPASIA (grant no. 015.008.043), and TKI-LSH (grant no. 40-41200-98-9306).
+
+# Conflicts of Interest
+
+The authors declare no conflict of interest.
+
+# Abbreviations
+
+|Abbreviation|Full Term|
+|---|---|
+|ACTH|Adrenocorticotropic hormone|
+|ANS|Autonomic nervous system|
+|CNS|Central nervous system|
+|CRF|Corticotropin-releasing factor|
+|CRP|C-reactive protein|
+|ENS|Enteric nervous system|
+|HPA|Hypothalamic pituitary adrenal|
+|IBD|Inflammatory bowel disease|
+|IBS|Irritable bowel syndrome|
+|IFNγ|Interferon-gamma|
+|IL|Interleukin|
+|NSAIDs|Non-steroidal anti-inflammatory drugs|
+|MCP1|Monocyte chemotactic protein-1|
+|SCFA|Short-chain fatty acids|
+|TNFα|Tumor necrosis factor alpha|
+
+# References
+
+1. Tontini, G.E.; Vecchi, M.; Pastorelli, L.; Neurath, M.F.; Neumann, H. Differential diagnosis in inflammatory bowel disease colitis: State of the art and future perspectives. World J. Gastroenterol. 2015, 21, 21–46. [CrossRef] [PubMed]
+2. Ananthakrishnan, A.N. Epidemiology and risk factors for IBD. Nat Rev. Gastroenterol. Hepatol. 2015, 12, 205–217. [CrossRef] [PubMed]
+3. Ye, Y.; Pang, Z.; Chen, W.; Ju, S.; Zhou, C. The epidemiology and risk factors of inflammatory bowel disease. Int J. Clin. Exp. Med. 2015, 8, 22529–22542. [PubMed]
+4. Camara, R.J.; Ziegler, R.; Begre, S.; Schoepfer, A.M.; von Kanel, R.; Swiss Inflammatory Bowel Disease Cohort Study Group. The role of psychological stress in inflammatory bowel disease: Quality assessment of methods of 18 prospective studies and suggestions for future research. Digestion 2009, 80, 129–139. [CrossRef] [PubMed]
+5. Mawdsley, J.E.; Rampton, D.S. Psychological stress in IBD: New insights into pathogenic and therapeutic implications. Gut 2005, 54, 1481–1491. [CrossRef] [PubMed]
+6. Yeager, M.P.; Pioli, P.A.; Guyre, P.M. Cortisol exerts bi-phasic regulation of inflammation in humans. Dose Response 2011, 9, 332–347. [CrossRef] [PubMed]
+7. Zheng, G.; Victor Fon, G.; Meixner, W.; Creekmore, A.; Zong, Y.; M, K.D.; Colacino, J.; Dedhia, P.H.; Hong, S.; Wiley, J.W. Chronic stress and intestinal barrier dysfunction: Glucocorticoid receptor and transcription repressor HES1 regulate tight junction protein Claudin-1 promoter. Sci. Rep. 2017, 7, 4502. [CrossRef]

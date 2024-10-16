@@ -1,0 +1,47 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Fang 2021 (Continued)
+
+|Bias Type|Risk|Quote/Comment|
+|---|---|---|
+|Blinding of participants and personnel (performance bias)|High risk|Quote: "The study was designed as an open-label, randomized, parallel-group comparison study." (page 11) Comment: study was open-label, so it likely did not have blinding of participants and personnel.|
+|Blinding of outcome assessment (detection bias)|Low risk|Quote: published protocol stated, "Blind method for clinical efficacy evaluator and analysts."|
+|Incomplete outcome data (attrition bias)|Low risk|Quote: "An intention-to-treat analysis was performed." (page 12) Comment: appeared that all 20 participants (10 in each group) were included in the analysis.|
+|Selective reporting (reporting bias)|Low risk|Comment: a protocol was available for review of methods and a priori outcomes; all intended outcomes were reported in the paper. Trial was registered at www.chictr.org.cn (ChiCTR2000030080).|
+|Other bias|Low risk|Comment: no other risk of bias noted.|
+
+# Haifer 2022
+
+# Study characteristics
+
+# Methods
+
+Multicenter, double-blind RCT conducted in Australia
+
+# Participants
+
+# Inclusion criteria
+
+- Ages 18–75 years diagnosed with clinically and endoscopically active UC for > 3 months, total Mayo score 4–10, Mayo endoscopic subscore ≥ 1
+- Must have been on stable dosing of concomitant medications: oral mesalazine (stable dose for ≥ 4 weeks); thiopurines or methotrexate (stable dose for ≥ 4 weeks), oral prednisolone or equivalent (dose ≤ 20 mg daily and stable dose for ≥ 2 weeks), or first-line biologic therapy with vedolizumab or anti-TNF agent (infliximab, adalimumab, golimumab; stable maintenance dose for ≥ 8 weeks)
+- Patients had to continue stable dosing of all UC therapies during trial period except for prednisolone, for which there was mandatory taper of 2.5 mg weekly until corticosteroid-free status by week 8
+
+# Exclusion criteria
+
+- Features of acute severe colitis (fevers, HR > 100, > 10 stools per day), CD, indeterminate colitis, isolated proctitis limited to < 5 cm from anal verge, Clostridioides difficile colitis or other infectious enterocolitis in the past 3 months, current or history of toxic megacolon, pregnancy, lactation, trying to conceive, significant gastrointestinal surgery (except appendectomy), previous FMT, significant medical comorbidities (e.g. cardiac, liver, renal failure), congenital or acquired immunodeficiency, immunosuppression treatment for another condition, another significant GI condition (e.g. irritable bowel syndrome, diverticulitis, neoplasm), steroid dependency requiring > 20 mg prednisone daily at time of enrollment, participation in any trial or experimental treatment in preceding 12 weeks; history of allergy to penicillin, doxycycline, metronidazole; prior loss of response (primary or secondary) to ≥ 2 biologic medications
+- Use of antibiotics, antimycobacteria therapy, antituberculosis medications, probiotics in preceding 4 weeks
+- Rectal preparations (e.g. steroid or 5-ASA suppositories/enemas) during study period or in preceding 2 weeks
+- Concomitant antibiotic treatment during study period or in preceding 4 weeks
+- Probiotics during study period or in preceding 4 weeks
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

@@ -1,0 +1,55 @@
+# Therapeutic Advances in Gastroenterology
+
+# Review
+
+# The application of omics techniques to understand the role of the gut microbiota in inflammatory bowel disease
+
+Jonathan P. Segal*, Benjamin H. Mullish*, Mohammed Nabil Quraishi*, Animesh Acharjee, Horace R. T. Williams, Tariq Iqbal, Ailsa L. Hart and Julian R. Marchesi
+
+Abstract: The aetiopathogenesis of inflammatory bowel diseases (IBD) involves the complex interaction between a patient’s genetic predisposition, environment, gut microbiota and immune system. Currently, however, it is not known if the distinctive perturbations of the gut microbiota that appear to accompany both Crohn’s disease and ulcerative colitis are the cause of, or the result of, the intestinal inflammation that characterizes IBD. With the utilization of novel systems biology technologies, we can now begin to understand not only details about compositional changes in the gut microbiota in IBD, but increasingly also the alterations in microbiota function that accompany these. Technologies such as metagenomics, metataxomics, metatranscriptomics, metaproteomics and metabonomics are therefore allowing us a deeper understanding of the role of the microbiota in IBD. Furthermore, the integration of these systems biology technologies through advancing computational and statistical techniques are beginning to understand the microbiome interactions that both contribute to health and diseased states in IBD. This review aims to explore how such systems biology technologies are advancing our understanding of the gut microbiota, and their potential role in delineating the aetiology, development and clinical care of IBD.
+
+Keywords: bioinformatics, genomics, gut microbiota, inflammatory bowel diseases, interactome, metagenomics, metatranscriptomics, metabonomics, proteomics
+
+Received: 4 October 2018; revised manuscript accepted: 23 November 2018.
+
+# Introduction
+
+Crohn’s disease (CD) and ulcerative colitis (UC) are relapsing and remitting chronic inflammatory conditions that fall under the umbrella term of inflammatory bowel diseases (IBD). Both disorders generally tend to become apparent in people between the age of 20 and 40 years. The prevalence of IBD in the UK is 0.5–1% with an estimated 620,000 people thought to be affected. Although there are methods of inducing remission in both diseases, currently neither are curable. IBD are multifactorial. The exact aetiology is incompletely understood, but it is thought to involve the complex interaction between a patient’s genetic predisposition, environment, gut microbiota and immune system. To date, when studying these components in isolation, each has shown changes that are associated with CD and UC, but it has not generally been possible to directly link any of these factors in isolation as a cause of IBD. This disconnect leads us to conclude that these components form intricate and complex interactions that contribute both to the initiation and maintenance of the intestinal inflammation that typifies IBD.
+
+Specific interest in the contribution of the gut microbiota to IBD has been growing. It has been established that perturbation of the structure of the gut microbiota has been linked to intestinal inflammation. Characteristic findings include a...
+
+# Correspondence to:
+
+Jonathan P. Segal
+
+Inflammatory Bowel Disease Department, St Mark’s Hospital, Harrow HA1 3UJ, UK
+
+jonathansegal1@nhs.net
+
+Benjamin H. Mullish
+
+Horace R. T. Williams
+
+Division of Integrative Systems Medicine and Digestive Disease, Department of Surgery and Cancer, Faculty of Medicine, Imperial College London, UK
+
+Mohammed Nabil Quraishi
+
+Tariq Iqbal
+
+Institute of Immunology and Immunotherapy, University of Birmingham, Department of Gastroenterology, University Hospital, Birmingham, UK
+
+Animesh Acharjee
+
+College of Medical and Dental Sciences, Institute of Cancer and Genomic Sciences, Centre for Computational Biology, University of Birmingham, Birmingham, UK;
+
+Institute of Translational Medicine, University Hospitals Birmingham NHS Foundation Trust, Birmingham, UK;
+
+NIHR Surgical Reconstruction and Microbiology Research Centre, Birmingham, UK
+
+Ailsa Hart
+
+Inflammatory Bowel Disease Department, St Mark’s Hospital, Harrow, UK;
+
+Department of Surgery and Cancer, Division of Integrative Systems Medicine and Digestive
+
+Creative Commons Non Commercial CC BY-NC: This article is distributed under the terms of the Creative Commons Attribution-NonCommercial 4.0 License (http://www.creativecommons.org/licenses/by-nc/4.0/) which permits non-commercial use, reproduction and distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open Access pages (https://us.sagepub.com/en-us/nam/open-access-at-sage).

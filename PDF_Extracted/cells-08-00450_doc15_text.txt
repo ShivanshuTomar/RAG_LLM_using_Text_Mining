@@ -1,0 +1,24 @@
+# Cells 2019, 8, 450
+
+# References
+
+1. Lewis, S.; Cochrane, S. Alteration of sulfate and hydrogen metabolism in the human colon by changing intestinal transit rate. Am. J. Gastroenterol. 2007, 102, 624–633. [CrossRef] [PubMed]
+2. Belenguer, A.; Duncan, S.H.; Holtrop, G.; Anderson, S.E.; Lobley, G.E.; Flint, H.J. Impact of pH on lactate formation and utilization by human fecal microbial communities. Appl. Environ. Microbiol. 2007, 73, 6526–6533. [CrossRef] [PubMed]
+3. Morrison, D.J.; Preston, T. Formation of short chain fatty acids by the gut microbiota and their impact on human metabolism. Gut Microbes 2016, 7, 189–200. [CrossRef]
+4. Eyster, K.M. The membrane and lipids as integral participants in signal transduction: Lipid signal transduction for the non-lipid biochemist. Adv. Physiol. Educ. 2007, 31, 5–16. [CrossRef]
+5. Cummings, J.H.; Pomare, E.W.; Branch, W.J.; Naylor, C.P.; Macfarlane, G.T. Short chain fatty acids in human large intestine, portal, hepatic and venous blood. Gut 1987, 28, 1221–1227. [CrossRef]
+6. Huda-Faujan, N.; Abdulamir, A.S.; Fatimah, A.B.; Anas, O.M.; Shuhaimi, M.; Yazid, A.M.; Loong, Y.Y. The impact of the level of the intestinal short chain Fatty acids in inflammatory bowel disease patients versus healthy subjects. Open Biochem. J. 2010, 4, 53–58. [CrossRef]
+7. Treem, W.R.; Ahsan, N.; Shoup, M.; Hyams, J.S. Fecal short-chain fatty acids in children with inflammatory bowel disease. J. Pediatr. Gastroenterol. Nutr. 1994, 18, 159–164. [CrossRef]
+8. Arpaia, N.; Campbell, C.; Fan, X.; Dikiy, S.; van der Veeken, J.; deRoos, P.; Liu, H.; Cross, J.R.; Pfeffer, K.; Coffer, P.J.; et al. Metabolites produced by commensal bacteria promote peripheral regulatory T-cell generation. Nature 2013, 504, 451–455. [CrossRef]
+9. Thibault, R.; De Coppet, P.; Daly, K.; Bourreille, A.; Cuff, M.; Bonnet, C.; Mosnier, J.F.; Galmiche, J.P.; Shirazi-Beechey, S.; Segain, J.P. Down-regulation of the monocarboxylate transporter 1 is involved in butyrate deficiency during intestinal inflammation. Gastroenterology 2007, 133, 1916–1927. [CrossRef]
+10. Mathewson, N.D.; Jenq, R.; Mathew, A.V.; Koenigsknecht, M.; Hanash, A.; Toubai, T.; Oravecz-Wilson, K.; Wu, S.R.; Sun, Y.; Rossi, C.; et al. Gut microbiome-derived metabolites modulate intestinal epithelial cell damage and mitigate graft-versus-host disease. Nat. Immunol. 2016, 17, 505–513. [CrossRef]
+11. Harig, J.M.; Soergel, K.H.; Komorowski, R.A.; Wood, C.M. Treatment of diversion colitis with short-chain-fatty acid irrigation. N. Engl. J. Med. 1989, 320, 23–28. [CrossRef]
+12. Scheppach, W.; Sommer, H.; Kirchner, T.; Paganelli, G.M.; Bartram, P.; Christl, S.; Richter, F.; Dusel, G.; Kasper, H. Effect of butyrate enemas on the colonic mucosa in distal ulcerative colitis. Gastroenterology 1992, 103, 51–56. [CrossRef]
+13. Breuer, R.I.; Buto, S.K.; Christ, M.L.; Bean, J.; Vernia, P.; Paoluzi, P.; Di Paolo, M.C.; Caprilli, R. Rectal irrigation with short-chain fatty acids for distal ulcerative colitis. Preliminary report. Dig. Dis. Sci. 1991, 36, 185–187. [CrossRef]
+14. Friedrich, M.; Gerbeth, L.; Gerling, M.; Rosenthal, R.; Steiger, K.; Weidinger, C.; Keye, J.; Wu, H.; Schmidt, F.; Weichert, W.; et al. HDAC inhibitors promote intestinal epithelial regeneration via autocrine TGFβ1 signalling in inflammation. Mucosal. Immunol. 2019, 12, 656–667. [CrossRef]
+15. Luhrs, H.; Gerke, T.; Muller, J.G.; Melcher, R.; Schauber, J.; Boxberge, F.; Scheppach, W.; Menzel, T. Butyrate inhibits NF-kappaB activation in lamina propria macrophages of patients with ulcerative colitis. Scand. J. Gastroenterol. 2002, 37, 458–466. [CrossRef]
+16. Macia, L.; Tan, J.; Vieira, A.T.; Leach, K.; Stanley, D.; Luong, S.; Maruya, M.; Ian McKenzie, C.; Hijikata, A.; Wong, C.; et al. Metabolite-sensing receptors GPR43 and GPR109A facilitate dietary fibre-induced gut homeostasis through regulation of the inflammasome. Nat. Commun. 2015, 6, 6734. [CrossRef]
+17. Gaudier, E.; Jarry, A.; Blottiere, H.M.; de Coppet, P.; Buisine, M.P.; Aubert, J.P.; Laboisse, C.; Cherbut, C.; Hoebler, C. Butyrate specifically modulates MUC gene expression in intestinal epithelial goblet cells deprived of glucose. Am. J. Physiol. Gastrointest. Liver Physiol. 2004, 287, G1168–G1174. [CrossRef]
+18. Hatayama, H.; Iwashita, J.; Kuwajima, A.; Abe, T. The short chain fatty acid, butyrate, stimulates MUC2 mucin production in the human colon cancer cell line, LS174T. Biochem. Biophys. Res. Commun. 2007, 356, 599–603. [CrossRef]
+19. Correa-Oliveira, R.; Fachi, J.L.; Vieira, A.; Sato, F.T.; Vinolo, M.A. Regulation of immune cell function by short-chain fatty acids. Clin. Transl. Immunol. 2016, 5, e73. [CrossRef]
+20. Jiminez, J.A.; Uwiera, T.C.; Abbott, D.W.; Uwiera, R.R.E.; Inglis, G.D. Butyrate Supplementation at High Concentrations Alters Enteric Bacterial Communities and Reduces Intestinal Inflammation in Mice Infected with Citrobacter rodentium. mSphere 2017, 2. [CrossRef]

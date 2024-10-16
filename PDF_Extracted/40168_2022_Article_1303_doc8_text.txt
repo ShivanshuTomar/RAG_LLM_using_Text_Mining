@@ -1,0 +1,46 @@
+# Zhao et al. Microbiome
+
+# (2022) 10:115
+
+# Page 9 of 22
+
+|A-CON|M-DSS|
+|---|---|
+|Firmicutes|Clostridia|
+|Clostridiales|Ruminococcaceae|
+|Lactobacillus|Lactobacillaceae|
+|Desulfovibrionaceae|Desulfovibrionales|
+|Desulfovibrio|Christensenellaceae unclassified|
+|Bacteroides|Bacteroidaceae|
+|Eucomenaceae|Ruminococcaceae|
+|Eubacterium|Paludibacteraceae|
+|Streptococcaceae|Streptococcus|
+|Pseudoramibacter|Scardovia|
+|Helicobacter|Oligosaccharibacter|
+|Prevotellaceae unclassified|Holdemania|
+|Grbacicnum|Aiautin|
+|Prevotella|Prevotellaceae|
+|MCC 010|Prevotella|
+|Corynebacterium|Rhinococcaceae|
+|Prevotellaceae UCG|Aunbacillaceae|
+|Mutisculaceae unclassified|Hacteroidaceae|
+|Hacteroides|Hacteroidetes|
+
+# LDA SCORE (log 10)
+
+|Ycor|T DSS|Ruminococcaceae_UCG_002|Proteobacteria|Desulfovibrionales|Vellonella|Alistipes|Pseudoramibacter|Ruminococcaceae_UCG_003|Clostridiaceae| |
+|---|---|---|---|---|---|---|---|---|---|---|
+| | |Ruminococcaceae|Ruminococcaceae|UCG_002|Ruminococcaceae|UCG|Butyricicoccus|Dorca|Fagcalibacterium|Lachnospiraceae_ND3007|
+
+# Differential Microbes
+
+|M-CON vs. M-DSS|Y-CON vs. Y-DSS|(Fold Change)|
+|---|---|---|
+|Bacteroides|Desulfovibrio|Bophia|
+|Sutterella|Helicobacter|Alistipes|
+|Lactobacillus|Eubacterium|Christensenellaceae unclassified|
+|Ruminococcaceae_UCG_002|Ruminococcaceae_UCG|Ruminococcaceae_UCG|
+
+# Fig. 3
+
+(See legend on previous page.)

@@ -1,0 +1,30 @@
+# Therapeutic Advances in Gastroenterology
+
+# Metataxonomics
+
+# Metagenomics
+
+# Metatranscriptomics
+
+# Metabonomics
+
+# Metaproteomics
+
+# V4
+
+# V4
+
+|Amplication and sequence of the hypervariable regions of the 16S gene from bacteria and archaea in a sample|Sequencing of microbial RNA that informs us on the actual genetic activity within a community phenotype|
+|---|---|
+|Untargeted sequencing of DNA in an environment for strain level resolution and potential community function|The quantitative measurement over time of the metabolic responses of an individual or population to drug treatment or other intervention|
+|High-throughput characterization of the entire constituent profile of microbial proteins within a biofluid or tissue sample| |
+
+*Metaproteomic plot adapted from Xiaoxiao Li et al. Cell Mol Gastroenterol Hepatol. 2016 Sep; 2(5): 567–583.
+
+# Figure 1. Summary of systems biology platforms.
+
+or multivariate analyses - are applied to understand associations (or correlations) between biological features (variables) in different omic data sets. In the literature there are many methods described starting from simple univariate to multivariate methods to determine if there are relationships between individual genes, metabolites, lipids or OTUs (microbiome). In the literature both parametric and nonparametric univariate methods have been applied to link OTUs and metabolomics data. Some examples are that where Theriot and colleagues performed univariate nonparametric correlation analysis (Spearman correlation analysis) between microbiome and metabolomics data from the mouse gut to identify relationships between features, and work by Mao and colleagues, who used parametric correlation analysis (Pearson correlation analysis) to find associations between taxonomic features or OTUs and metabolites.
+
+A major advantage of the univariate correlation is that those methods are easy to understand as they are simple models, but they do not take into account the correlation structure of the data. Multivariate approaches, on the other hand, take into account the correlation (association) structure of the omic data sets, but suffer from high dimensionality of the data. Such high dimensionality is caused by the number of features from any type of omic data set. In the high dimensional settings, we have two issues or challenges.
+
+To overcome the above problems, researchers have suggested some tentative solutions, for example, to create a new feature called a latent feature, using a linear combination of the original variables. Such approaches are called dimension reduction methods. Omic data sets are usually taken into account together to find out joint variations in the features. Some of the methods include partial least squares regression (PLS) and two-way orthogonal partial least squares (O2PLS). Aidy and colleagues used O2PLS to connect transcriptomics, metabolomics and microbiome. Morgan and colleagues used linear discriminant analysis to link host transcriptomics, microbiome and clinical data. Canonical correlation analysis (CCA) is another type of method that maximizes the correlation structure of the two sets, for example, metabolomics and proteomics. Recently, in the literature many versions of the CCA appeared; for example Sparse CCA and Kernel CCA tools have been developed with statistical methods like PLS, O2PLS.

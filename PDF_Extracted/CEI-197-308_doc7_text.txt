@@ -1,0 +1,38 @@
+# NEURO-IMMUNE INTERACTIONS: HOW THE NERVOUS AND IMMUNE SYSTEMS INFLUENCE EACH OTHER
+
+# Depressive symptoms in inflammatory bowel disease
+
+As well as in IBD, the gut–brain axis is thought to be important in the pathogenesis of depressive symptoms in general. In people with depressive symptoms, the wide range of anti-inflammatory treatments in IBD – including immunomodulators, systemic biologicals and gut-specific biologicals – provide unique opportunities to alter the gut–brain axis at different points. Studies testing systemic- and gut-specific agents in depression would help to define the most effective points at which inflammation can be modified to break the cycle of worsening depressive symptoms and IBD outcomes. Changes in depressive symptoms could be tracked over multiple time-points against changes in peripheral inflammation, gut inflammation and even central inflammation. Finally, comparison with other chronic inflammatory conditions would help to define whether there is a somatic subtype of depression that is driven by inflammation and seen across inflammatory conditions.
+
+# Summary
+
+Depressive symptoms are a common co-morbidity in people with IBD and are associated with a worse course of IBD, which is incompletely explained by psychological factors alone. Fatigue and sleep disturbance are particularly common, whether as part of a broader depressive illness or not. Inflammation provides a promising shared origin for both depressive symptoms and poor IBD outcomes. Specifically, changes to the gut microbiome occur in high-risk groups, which leads to exaggerated immune responses. Excess inflammation is then associated with both worsening depressive symptoms and gastrointestinal dysfunction. Established treatments for both depressive symptoms and for IBD provide opportunities to break this cycle by reducing both the causes and effects of inflammation. With a range of treatments targeting inflammation centrally, peripherally and in the gut specifically, IBD provides a unique disease model for understanding the interplay between brain and gut in the pathogenesis of depressive symptoms, both in IBD and in the whole population.
+
+# Acknowledgments
+
+This work was supported by a King’s Together Strategic Award and by the NIHR Biomedical Research Centre at South London and Maudsley NHS Foundation Trust and King’s College London. The views expressed are those of the authors and not necessarily those of the NHS, the NIHR or the Department of Health.
+
+# Disclosure
+
+None.
+
+# Author contributions
+
+C. D. M. and N. P. conceived the manuscript. All authors contributed to the first draft of the manuscript and all authors revised the manuscript for important intellectual content.
+
+# References
+
+1. Cosnes J, Cattan S, Blain A et al. Long-term evolution of disease behavior of Crohn’s disease. Inflamm Bowel Dis 2002; 8:244–50.
+2. Hovde O, Moum BA. Epidemiology and clinical course of Crohn’s disease: results from observational studies. World J Gastroenterol 2012; 18:1723–31.
+3. Burisch J, Munkholm P. The epidemiology of inflammatory bowel disease. Scand J Gastroenterol 2015; 50:942–51.
+4. Burisch J. Crohn’s disease and ulcerative colitis. Occurrence, course and prognosis during the first year of disease in a European population-based inception cohort. Dan Med J 2014; 61:B4778.
+5. National Institute for Health and Care Excellence (NICE). Clinical Guideline 91: depression in adults with a chronic physical health problem: recognition and management [Internet]. Available at: https://www.nice.org.uk/guidance/cg91 (accessed 30th November 2018).
+6. Rush AJ, Trivedi MH, Wisniewski SR et al. Bupropion-SR, sertraline, or venlafaxine-XR after failure of SSRIs for depression. N Engl J Med 2006; 354:1231–42.
+7. Graff LA, Walker JR, Bernstein CN. Depression and anxiety in inflammatory bowel disease: a review of comorbidity and management. Inflamm Bowel Dis 2009; 15:1105–18.
+8. Neuendorf R, Harding A, Stello N, Hanes D, Wahbeh H. Depression and anxiety in patients with Inflammatory bowel disease: a systematic review. J Psychosom Res 2016; 87:70–80.
+9. Kochar B, Barnes EL, Long MD et al. Depression is associated with more aggressive inflammatory bowel disease. Am J Gastroenterol 2018; 113:80–5.
+10. Regueiro M, Greer JB, Szigethy E. Etiology and treatment of pain and psychosocial issues in patients with inflammatory bowel diseases. Gastroenterology 2017; 152:430–439.e4.
+11. Knowles SR, Cook SI, Tribbick D. Relationship between health status, illness perceptions, coping strategies and psychological morbidity: a preliminary study with IBD stoma patients. J Crohns Colitis 2013; 7:e471–e478.
+12. Chan W, Shim HH, Lim MS et al. Symptoms of anxiety and depression are independently associated with inflammatory bowel disease-related disability. Dig Liver Dis 2017; 49:1314–9.
+13. Long MD, Kappelman MD, Martin CF, Chen W, Anton K, Sandler RS. Risk factors for depression in the elderly inflammatory bowel disease population. J Crohns Colitis 2014; 8:113–9.
+14. Nahon S, Lahmek P, Saas C et al. Socioeconomic and psychological factors associated with nonadherence to treatment.

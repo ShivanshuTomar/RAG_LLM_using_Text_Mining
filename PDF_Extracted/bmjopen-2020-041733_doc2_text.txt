@@ -1,0 +1,50 @@
+# Open access
+
+# Objectives
+
+# Primary aims for longitudinal data
+
+1. To determine whether high rates of early adverse experiences are associated with history of more severe disease or treatment resistance in participants with CD, UC or IBS.
+2. To examine the association between symptom severity and multiple domains of function in participants with CD, UC or IBS.
+3. To develop models describing how factors such as microbiome, metabolome, diet, genes and psychiatric symptoms interact in CD, UC and IBS.
+
+# Secondary aims for longitudinal data
+
+1. To compare healthcare resource use between CD, UC, IBS and healthy controls.
+2. To compare work productivity between CD, UC, IBS and healthy controls.
+3. To compare baseline dietary and gut microbiome and urinary metabolome profiles and inflammatory markers in participants that develop anxiety during follow-up versus those who did not have anxiety at any time (CD, UC, IBS and healthy controls analysed separately).
+4. To compare baseline dietary and gut microbiome and urinary metabolome profiles in participants that develop depression during follow-up versus those that did not have depression at any time (CD, UC, IBS and healthy controls analysed separately and if appropriate combined).
+5. To compare gut microbiome, urinary metabolome, genetic, dietary and demographic factors in IBS at baseline in those that change their IBS subtype during follow-up and those that continue with the same IBS subgroup.
+6. To compare which dietary, mental health, gut microbiome and metabolomic profiles precede a clinical relapse in patients with IBD and how these parameters are different in patients with active disease versus those who remain in clinical remission.
+
+# METHODS
+
+# Design
+
+The IMAGINE MAGIC Study is a prospective observational cohort study that is recruiting 2000 participants with each of CD, UC and IBS and also 2000 healthy participants in 15 centres across Canada. Assessment includes psychological status, dietary intake, gut microbiome, urinary metabolomic profile, inflammatory markers, genotype, health-related quality of life, and healthcare resource use and associated costs. The cohort and healthy controls will be followed annually for up to 4 years after the baseline study enrolment.
+
+At each visit, the participant provides blood, urine and stool samples, as well as complete questionnaires assessing disease activity, quality of life, physical pain, lifestyle factors, psychological status and diet. Table 1 summarises participant information collected at each visit.
+
+# Participants
+
+A total of 8000 participants will be recruited, 2000 for each for healthy volunteers, IBS, UC and CD. Inclusion and exclusion criteria are outlined in table 1.
+
+Healthy participants over the age of 4 years will be recruited from the relatives, spouses and friends of IBS and IBD cases taking part and also through advertisement for healthy volunteers. Patients with IBS and IBD will primarily be recruited from gastroenterology clinics at participating centres.
+
+# Irritable bowel syndrome
+
+Persons who meet Rome IV criteria and are 13 years of age or older are enrolled (table 1). Persons with IBS are categorised into diarrhoea-predominant IBS (IBS-D), constipation-predominant IBS (IBS-C), IBS with mixed bowel habits (IBS-M) or unclassified IBS. Patients with IBS that also have coeliac disease will be eligible provided they continue to have symptoms after 6 months of a gluten-free diet and their tissue transglutaminase antibody has returned to normal.
+
+# Inflammatory bowel disease
+
+Persons with either CD or UC over the age of 4 years are enrolled regardless of whether the disease is active or in remission (table 1). Persons with unclassified IBD are included. The Montreal classification is used for adult patients with CD and UC, and the Paris classification for paediatric IBD. The research coordinator conducts a chart review to confirm the date of diagnosis and maximal phenotype at time of enrolment using the Montreal classification.
+
+# Data collection
+
+All participants attend a baseline, 12-month, 24-month, 36-month and 48-month visit. Sources of information for each patient are blood, urine and stool samples, questionnaires and chart review (table 2). Participants complete a questionnaire to obtain age, sex, gender identity, education level attained, ethnic heritage, smoking/alcohol/drug history, comorbidities, medication and therapies, menstrual status at baseline. The study research coordinator records height, weight, body mass index (BMI) and disease-related information.
+
+Participants answer a series of validated questionnaires to assess disease activity, quality of life, physical pain, lifestyle factors, psychological status and diet at each study visit (table 3). Questionnaires measuring anxiety, depression, generalised anxiety disorder, sleep disturbance, perceived stress, adverse childhood experiences, resiliency and pain catastrophising in both adults and children are outlined in table 3.
+
+Healthcare resource uses data and associated costs regarding physician visits, clinical procedures, imaging procedures, hospitalisations, emergency room visits, and medication use are collected by linking the participants.
+
+MoayyedifiP, et al. BMJ Open 2020;10:e041733. doi:10.1136/bmjopen-2020-041733

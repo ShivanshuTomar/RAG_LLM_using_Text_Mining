@@ -1,0 +1,52 @@
+# 1304
+
+# Dickson K. W. Ocansey and others
+
+Research Foundation of Jiangsu University (grant no. FCJJ2015023), Jiangsu University Clinical Medicine Science and Technology Development Fund Project (grant no. JLY20180031), the opening project of the Key Laboratory of Embryo Molecular Biology, Ministry of Health of China, and Shanghai Key Laboratory of Embryo and Reproduction Engineering (grant no. KF201601), Project Funded by the Priority Academic Program Development of Jiangsu Higher Education Institutions and Zhenjiang Key Laboratory of High Technology Research on Exosomes Foundation and Transformation Application (grant no. SS2018003). All authors approved the final version of the article.
+
+The authors declare no conflict of interest.
+
+# XVI. REFERENCES
+
+1. ANDERSON, M. R., KASHANCHI, F. & JACOBSON, S. (2016). Exosomes in viral disease. Neurotherapeutics 13, 535–546.
+2. ANDO, Y., MAZZURANA, L., FORKEL, M., OKAZAKI, K., AOI, M., SCHMIDT, P. T., MJO¨SBERG, J. & BRESSO, F. (2016). Downregulation of microRNA-21 in colonic CD3+ T cells in UC remission. Inflammatory Bowel Diseases 22, 2788–2793.
+3. ARMSTRONG, J. P. K., HOLME, M. N. & STEVENS, M. M. (2017). Re-engineering extracellular vesicles as smart nanoscale therapeutics. ACS Nano 11, 69–83.
+4. ASEA, A., REHLI, M., KABINGU, E., BOCH, J. A., BARE´, O., AURON, P. E., STEVENSON, M. A. & CALDERWOOD, S. K. (2002). Novel signal transduction pathway utilized by extracellular HSP70. Journal of Biological Chemistry 277, 15028–15034.
+5. BABBIN, B. A., LAUKOETTER, M. G., NAVA, P., KOCH, S., LEE, W. Y., CAPALDO, C. T., PEATMAN, E., SEVERSON, E. A., FLOWER, R. J., PERRETTI, M., PARKOS, C. A. & NUSRAT, A. (2008). Annexin A1 regulates intestinal mucosal injury, inflammation, and repair. The Journal of Immunology 181, 5035–5044.
+6. BADAMARANAHALLI, S. S., KOPPARAM, M., BHAGAWATI, S. T. & DURG, S. (2015). Embelin lipid nanospheres for enhanced treatment of ulcerative colitis – preparation, characterization and in vivo evaluation. European Journal of Pharmaceutical Sciences 76, 73–82.
+7. BAGHAEI, K., TOKHANBIGLI, S., ASADZADEH, H., NMAKI, S., REZA ZALI, M. & HASHEMI, S. M. (2019). Exosomes as a novel cell-free therapeutic approach in gastrointestinal diseases. Journal of Cellular Physiology 234, 9910–9926.
+8. BAKIRTZI, K., MAN LAW, I. K., FANG, K., ILIOPOULOS, D. & POTHOULAKIS, C. (2019). MiR-21 in Substance P-induced exosomes promotes cell proliferation and migration in human colonic epithelial cells. American Journal of Physiology-Gastrointestinal and Liver Physiology 317, G802–G810.
+9. BARANYAI, T., HERCZEG, K., ONO´DI, Z., VOSZKA, I., M O´DOS, K., MARTON, N., NAGY, G., MA¨GER, I., WOOD, M. J., E LANDALOUSSI, S., PÁLINKÁS, Z., KUMAR, V., NAGY, P., KITTEL, ., BUZÁS, E. I., et al. (2015). Isolation of exosomes from blood plasma: qualitative and quantitative comparison of ultracentrifugation and size exclusion chromatography methods. PLoS One 10, e0145686.
+10. BARILE, L., MOCCETTI, T., MARBÁN, E. & VASSALLI, G. (2017). Roles of exosomes in cardioprotection. European Heart Journal 38, 1372–1379.
+11. BARILE, L. & VASSALLI, G. (2017). Exosomes: therapy delivery tools and biomarkers of diseases. Pharmacology & Therapeutics 174, 63–78.
+12. BATRAKOVA, E. V. & KIM, M. S. (2015). Using exosomes, naturally-equipped nanocarriers, for drug delivery. Journal of Controlled Release 219, 396–405.
+13. BELOQUI, A., COCO, R., MEMVANGA, P. B., UCAKAR, B., DES RIEUX, A. & PRE´AT, V. (2014). pH-sensitive nanoparticles for colonic delivery of curcumin in inflammatory bowel disease. International Journal of Pharmaceutics 473, 203–212.
+14. BELOQUI, A., COCO, R. & PRE´AT, V. (2016). Targeting inflammatory bowel diseases by nanocarriers loaded with small and biopharmaceutical anti-inflammatory drugs. Current Pharmaceutical Design 22, 6192–6206.
+15. BENNIKE, T. (2014). Biomarkers in inflammatory bowel diseases: current status and proteomics identification strategies. World Journal of Gastroenterology 20, 3231–3244.
+16. BOWIE, R. V., DONATELLO, S., LYES, C., OWENS, M. B., BABINA, I. S., HUDSON, L., WALSH, S. V., O’DONOGHUE, D. P., AMU, S., BARRY, S. P., FALLON, P. G. & HOPKINS, A. M. (2012). Lipid rafts are disrupted in mildly inflamed intestinal microenvironments without overt disruption of the epithelial barrier. American Journal of Physiology-Gastrointestinal and Liver Physiology 302, G781–G793.
+17. BRINTON, L. T., SLOANE, H. S., KESTER, M. & KELLY, K. A. (2015). Formation and role of exosomes in cancer. Cellular and Molecular Life Sciences 72, 659–671.
+18. CAMPBELL, E. L., KAO, D. J. & COLGAN, S. P. (2016). Neutrophils and the inflammatory tissue microenvironment in the mucosa. Immunological Reviews 273, 112–120.
+19. CAO, S. (2018). Cellular stress responses and gut microbiota in inflammatory bowel disease. Gastroenterology Research and Practice 2018, 1–13.
+20. CARRIERE, J., BRETIN, A., DARFEUILLE-MICHAUD, A., BARNICH, N. & NGUYEN, H. T. T. (2016). Exosomes released from cells infected with Crohn’s disease-associated adherent-invasive Escherichia coli activate host innate immune responses and enhance bacterial intracellular replication. Inflammatory Bowel Diseases 22, 516–528.
+21. CHARPENTIER, C., CHAN, R., SALAMEH, E., MBODJI, K., UENO, A., COE¨FFIER, M., GUE´RIN, C., GHOSH, S., SAVOYE, G. & MARION-LETELLIER, R. (2018). Dietary n-3 PUFA may attenuate experimental colitis. Mediators of Inflammation 2018, 1–10.
+22. CHEN, T., XIE, M.-Y., SUN, J.-J., YE, R.-S., CHENG, X., SUN, R.-P., WEI, L.-M., LI, M., LIN, D.-L., JIANG, Q.-Y., XI, Q.-Y. & ZHANG, Y.-L. (2016). Porcine milk-derived exosomes promote proliferation of intestinal epithelial cells. Scientific Reports 6, 33862.
+23. CHEN, T., XUE, H., LIN, R. & HUANG, Z. (2017). MiR-34c and PlncRNA1 mediated the function of intestinal epithelial barrier by regulating tight junction proteins in inflammatory bowel disease. Biochemical and Biophysical Research Communications 486, 6–13.
+24. CHEN, X., ZHOU, Y. & YU, J. (2019a). Exosome-like nanoparticles from ginger rhizomes inhibited NLRP3 inflammasome activation. Molecular Pharmaceutics 16, 2690–2699.
+25. CHEN, Y., SUN, H., BAI, Y. & ZHI, F. (2019b). Gut dysbiosis-derived exosomes trigger hepatic steatosis by transiting HMGB1 from intestinal to liver in mice. Biochemical and Biophysical Research Communications 509, 767–772.
+26. CHENG, L., WANG, Y. & HUANG, L. (2017). Exosomes from M1-polarized macrophages potentiate the cancer vaccine by creating a pro-inflammatory microenvironment in the lymph node. Molecular Therapy 25, 1665–1675.
+27. CHU, Z., WITTE, D. P. & QI, X. (2005). Saposin C–LBPA interaction in late-endosomes/lysosomes. Experimental Cell Research 303, 300–307.
+28. CLAYTON, A. (2005). Induction of heat shock proteins in B-cell exosomes. Journal of Cell Science 118, 3631–3638.
+29. COLGAN, S. P., CURTIS, V. F. & CAMPBELL, E. L. (2013). The inflammatory tissue microenvironment in IBD. Inflammatory Bowel Diseases 19, 2238–2244.
+30. CUENDE, N., RASKO, J. E. J., KOH, M. B. C., DOMINICI, M. & IKONOMOU, L. (2018). Cell, tissue and gene products with marketing authorization in 2018 worldwide. Cytotherapy 20, 1401–1413.
+31. DENG, Z., RONG, Y., TENG, Y., MU, J., ZHUANG, X., TSENG, M., SAMYKUTTY, A., ZHANG, L., YAN, J., MILLER, D., SUTTLES, J. & ZHANG, H.-G. (2017). Broccoli-derived nanoparticle inhibits mouse colitis by activating dendritic cell AMP-activated protein kinase. Molecular Therapy 25, 1641–1654.
+32. DRAGOMIR, M., CHEN, B. & CALIN, G. A. (2018). Exosomal lncRNAs as new players in cell-to-cell communication. Translational Cancer Research 7, S243–S252.
+33. DUIJVESZ, D., LUIDER, T., BANGMA, C. H. & JENSTER, G. (2011). Exosomes as biomarker treasure chests for prostate cancer. European Urology 59, 823–831.
+34. EICHENBERGER, R. M., RYAN, S., JONES, L., BUITRAGO, G., POLSTER, R., MONTES DE OCA, M., ZUVELEK, J., GIACOMIN, P. R., DENT, L. A., ENGWERDA, C. R., FIELD, M. A., SOTILLO, J. & LOUKAS, A. (2018a). Hookworm secreted extracellular vesicles interact with host cells and prevent inducible colitis in mice. Frontiers in Immunology 9, 850.
+35. EICHENBERGER, R. M., TALUKDER, M. H., FIELD, M. A., WANGCHUK, P., GIACOMIN, P., LOUKAS, A. & SOTILLO, J. (2018b). Characterization of Trichuris muris secreted proteins and extracellular vesicles provides new insights into host–parasite communication. Journal of Extracellular Vesicles 7, 1428004.
+36. FERGUSON, S. W. & NGUYEN, J. (2016). Exosomes as therapeutics: the implications of molecular composition and exosomal heterogeneity. Journal of Controlled Release 228, 179–190.
+37. FRO¨ HLICH, D., KUO, W. P., FRU¨ HBEIS, C., SUN, J.-J., ZEHENDNER, C. M., LUHMANN, H. J., PINTO, S., TOEDLING, J., TROTTER, J. & KRA¨ MER-ALBERS, E.-M. (2014). Multifaceted effects of oligodendroglial exosomes on neurons: impact on neuronal firing rate, signal transduction and gene regulation. Philosophical Transactions of the Royal Society B: Biological Sciences 369, 20130510.
+38. GAO, H. N., GUO, H. Y., ZHANG, H., XIE, X. L., WEN, P. C. & REN, F. Z. (2019). Yak-milk-derived exosomes promote proliferation of intestinal epithelial cells in an hypoxic environment. Journal of Dairy Science 102, 985–996.
+39. GARCIA-CONTRERAS, M., BROOKS, R. W., BOCCUZZI, L., ROBBINS, P. D. & RICORDI, C. (2017). Exosomes as biomarkers and therapeutic tools for type 1 diabetes mellitus. European Review for Medical and Pharmacological Sciences 21, 2940–2956.
+40. GOLCHIN, A., HOSSEINZADEH, S. & ARDESHIRYLAJIMI, A. (2018). The exosomes released from different cell types and their effects in wound healing. Journal of Cellular Biochemistry 119, 5043–5052.
+41. GUPTA, S. & KNOWLTON, A. A. (2007). HSP60 trafficking in adult cardiac myocytes: role of the exosomal pathway. American Journal of Physiology-Heart and Circulatory Physiology 292, H3052–H3056.
+42. HANEY, M. J., KLYACHKO, N. L., ZHAO, Y., GUPTA, R., PLOTNIKOVA, E. G., HE, Z., PATEL, T., PIROYAN, A., SOKOLSKY, M., KABANOV, A. V. & BATRAKOVA, E. V. (2015).

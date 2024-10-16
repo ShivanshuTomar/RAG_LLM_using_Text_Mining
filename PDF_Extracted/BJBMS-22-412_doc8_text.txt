@@ -1,0 +1,25 @@
+# Alatawi et al.: Microbiota and anti-TNF-α response in IBD patients
+
+# FIGURE 7. LEfSE shows
+
+(A) Negative LDA scores were enriched in primary non-responders with five taxa. Positive LDA were enriched in responders with one taxon; red (P) indicates primary non-responders and green (R) indicates responders. (B) Cladogram tree of biomarkers.
+
+Lachnospiraceae, Enterobacteriaceae, and Muribaculaceae was observed in non-responders compared to responders. A logical interpretation of the presence of increased populations of SCFA-producing bacteria including Bifidobacteriaceae, Lachnospiraceae, and Muribaculaceae in primary non-responders is a shift toward harboring pro-inflammatory bacteria, thereby promoting inflammation and ultimately leading to worsening conditions in primary non-responders [19].
+
+A variation in the diversity of genera within one family – the Lachnospiraceae family – was detected where intestinal genera had a varied presence in non-responders. The abundance of Roseburia and Coprococcus genera decreased while the concentration of Blautia and Clostridium increased. Furthermore, a variation in abundance was observed in the Ruminococcaceae family: Where the diversity of Feaclbacterium genus increased while the diversity of the Ruminococcus genus decreased. This is consistent with some previous studies [23].
+
+The Enterococcus genus is considered an aggressive genus that is characteristically highly abundant in the fecal samples of non-responders. The virulence and bacteriocinogenic features of the Enterococcus genus have been detected in the human gut. The Enterococcus genus has been associated with intestinal inflammation and a number of other infections, such as bloodstream and urinary tract infections, endocarditis, and peritonitis [24]. The decreased abundance of Escherichia was observed in primary non-responders compared with responders in the present study, which is inconsistent with several previous IBD studies [25]. Aside from these findings, the Fusobacterium genus increased in non-responsive patients, which coheres with some previous studies [26].
+
+The concentration of Klebsiella and Proteus increased in primary non-responders. However, the Bacteroides fragilis (spp.) population, a human commensal bacterial, decreased in non-responders. This result corresponds with the previous studies [27]. A deficiency in several SCFA-producing bacteria in the fecal samples of non-responders was found, including the genera Anaerostipes, Coprococcus, Lachnospira, Roseburia, and Sutterella. This outcome is in line with a number of the previous studies’ [28]. SCFA-producing bacteria contribute to shaping the architecture of the gut community, organize transepithelial transport, are important for intestinal motility, and regulate the microbial homeostasis within the intestine. Moreover, SCFA has important immunomodulatory and anti-inflammatory characteristics [29]. Despite the fact that B. animalis and Faecalibacterium prausnitzii are used as probiotics, an increase in the concentration of these species was observed in primary non-responders and therefore may be used as a biomarker (B. animalis) for similar patients. This increase may be interpreted in rare cases as a result of high consumption of probiotics, associated with a high risk of adverse reactions between microbiota and their hosts. Consequently, this phenomenon may be linked with a number of diseases, such as bacterial infections and sepsis [30].
+
+The Desulfovibrio genus, which belongs to the Proteobacteria phylum, is heterogeneous sulfate-reducing bacteria [31]. An increase in the Desulfovibrio genus has been associated with an elevated glutathione and riboflavin metabolism [32], rising toxins production, and increased bacterial genes attached with virulence agents. In the present study, the abundance of the Desulfovibrio genus was increased in non-responders compared with responders. The high diversity of Desulfovibrio in such patients is consistent with a number of other studies [33].
+
+The present study is limited by its small sample size and lack of TDM measurements, which is typically used to document adequate trough levels and absence of anti-drug antibodies that are necessary to prove primary nonresponse. Nevertheless, this is the first study to examine the microbiota of Saudi IBD patients as potential biomarkers for response to anti-TNF therapy and as such can help pave the way for further larger studies.
+
+# CONCLUSION
+
+The fecal microbiota of primary non-responders to anti-TNF-α therapy demonstrated dysbiosis, in addition to other features, such as decreased biodiversity, augmentation in
+
+Bosn J Basic Med Sci. 2022;22(3):412-426
+
+www.bjbms.org

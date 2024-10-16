@@ -1,0 +1,25 @@
+# Yoshimatsu et al. Inflammation and Regeneration
+
+# (2021) 41:3
+
+# Page 4 of 8
+
+large amount of evidence in animal models [33, 35, 56–58] FMT (Fig. 2) on the benefits of probiotics, but little evidence in clinical trials for human disease. Additionally, studies on intake of probiotics without prebiotics is likely counterproductive; fortunately, in recent years, both probiotic and prebiotic treatments (symbiotics) have been tried. Kimchi, a type of Chinese cabbage (prebiotics), and lactic acid bacteria (probiotics) are examples of symbiotics [59]. Though often forgotten, it is important to note that in probiotic foods (such as yogurt) sold today in health stores, isolated bacteria are present, rather than human-derived bacteria. Gordon et al. demonstrated that mouse gut bacteria, rather than human-derived bacteria, termite-derived bacteria, and soil-derived bacteria, have the best colonization efficiency for the murine intestinal tract [60]. Naturally, probiotics derived from human feces are expected to be the most compatible with human gastrointestinal tracts and have a noticeable therapeutic effect in treatment strategies related to human health and diseases. Unfortunately, human-derived feces are not easily adapted for patients because of a general perception of uncleanliness.
+
+1 AHR SFB Rodentium C. butyricum B. Fragilis Dietary fiber SCFA Clostridium clusters
+
+6 ligands EC-adhesive bacteria Other bacteria and PSA Propionate Butyrate XIVa and IV
+
+o uuqlup UUL dlueuuudu
+
+1 IL-22 SAA others ROS ATP
+
+J RORyt Mc TGFB
+
+ILC3 IL-1O
+
+RORyt FoxP3 Th17 Naive T pTreg
+
+# Fig. 2
+
+Prebiotics, probiotics, and postbiotics each have specific associations with immune cells in the lamina propria. Aryl hydrocarbon receptor (AHR) ligands, which are present in food antigens, promote mucosal healing via IL-22 production from group 3 innate lymphoid cells (ILC3). SFB also promote IL-22 production from ILC3 and activate lamina propria DCs and macrophages to induce Th17 cells through the production of SAA from IECs. C. rodentium and epithelial cell (EC)-adhesive bacteria induce Th17 differentiation by reactive oxygen species (ROS), adenosine triphosphate (ATP), and others. C. butyricum induce intestinal IL-10-producing macrophages, while polysaccharide A (PSA)-positive B. fragilis stimulate DCs to produce IL-10. PSA itself directly promotes the development of the activation of Foxp3-positive Treg cells in a similar way to SCFA, such as propionate and butyrate. Clostridium clusters IV and XIVa also promote Treg cell accumulation via TGF-β production from IEC.

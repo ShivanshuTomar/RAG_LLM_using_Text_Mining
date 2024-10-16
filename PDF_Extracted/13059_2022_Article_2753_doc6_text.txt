@@ -1,0 +1,15 @@
+# Ma et al. Genome Biology (2022) 23:208
+
+# Page 7 of 31
+
+# Fig. 3 Meta-analytic omnibus and per-feature testing reveal novel and previously documented IBD associations.
+
+a Omnibus testing (PERMANOVA on Bray-Curtis dissimilarities with stratification and covariate control where appropriate, see “Methods” and Additional file 5: Table S3) identified between-subject differences as the greatest source of microbiome variability, with IBD phenotype, disease (CD/UC), and sample type (stool/biopsy) as additional main sources of biological variation. MMUPHin successfully reduced between-cohort and within-study batch effects, although these technical sources also remained significant contributors to variability.
+
+b Individual taxa significantly associated with IBD phenotypes or treatments after meta-analysis. Taxa are arranged by family-level median effect size of IBD vs. control for disease results and that of antibiotic usage for treatment results. Effect sizes are aggregated regression coefficients (across studies with random effects modelling) on arcsin square root-transformed relative abundances. Detailed model information in “Methods” and Additional file 5: Table S3. Individual study results in Additional file 6: Table S4.
+
+Discrete structures, MMUPHin_Discrete a) evaluates the existence of discrete clusters within individual microbiome studies and b) validates the reproducibility of such structures among studies meta-analytically (Fig. 2e, f, Additional file 1: Fig. S9), by utilizing established clustering strength evaluation metrics [42]. For continuous structures, MMUPHin_Continuous identifies major axes of variation that explain the largest amount of heterogeneity among microbial profiles that are also consistent across studies. This is generalized from single study principal component analysis (PCA [43]) to multiple studies by constructing a network of correlated top PC loadings [35] (Fig. 2g, h, Additional file 1: Fig. S10). As a result, MMUPHin was able to successfully identify discrete clusters (i.e., microbiome “types”) when present, as well as significantly consistent continuous patterns of microbiome variation that recur among populations (Additional file 2: Supplemental Notes).
+
+# Meta‑analysis of the IBD microbiome
+
+Given these validations of MMUPHin’s accuracy in simulated data, we next applied it to the 10-study, 4,789-sample IBD gut amplicon profile meta-analysis introduced above (Fig. 3). MMUPHin_Correct successfully reduced the effects both of differences among studies, and of batches within studies (study effect correction model- ling disease and sample type as covariates, see “Methods”), although these remained among the strongest source of variation among taxonomic profiles as quantified by PERMANOVA R2 (Fig. 3a, “Methods,” Additional file 5: Table S3). Among biological variables, sample type (biopsy/stool), biopsy location (multiple, conditional).

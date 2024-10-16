@@ -1,0 +1,47 @@
+# Cochrane Library
+
+# Cochrane Database of Systematic Reviews
+
+# NCT04202211 (Continued)
+
+- Need for oral/intravenous systemic antibiotic therapy at time of enrollment
+- Increase in medical therapy for UC within 3 months of enrollment (continued treatment with stable dose of 5-ASA, azathioprine, 6-mecaptopurine, cyclosporine, prednisone, anti-TNF agents, or a combination of these for ≥ 3 months allowed)
+- Use of another investigational product, probiotic (except yogurt)
+- Abdominal surgery within past 60 days
+- Neutropenia (absolute neutrophils < 0.5 × 109/L); evidence of toxic megacolon or gastrointestinal perforation on imaging; peripheral WBC > 35.0 × 109/L, temperature > 38.0 °C; active infectious diarrhea at time of enrollment
+- Pregnancy or lactation
+- History of anaphylaxis to any food
+- Severe underlying disease with life expectancy < 30 days
+- Any condition that would pose harm to participant or research staff
+
+# Interventions
+
+# Experimental arm
+
+- Lyophilized FMT via 10 oral capsules twice-weekly for 8 weeks + placebo enema twice-weekly for 8 weeks
+- Lyophilized FMT via 10 oral capsules twice-weekly for 8 weeks + lyophilized FMT enema twice-weekly for 8 weeks
+
+# Control arm
+
+- Placebo via 10 oral capsules twice-weekly for 8 weeks + placebo enema twice-weekly for 8 weeks
+
+# Outcomes
+
+# Primary outcome
+
+- Remission of UC following lyophilized FMT (Mayo score ≤ 2 and Mayo Endoscopic score ≤ 1) at week 9
+
+# Secondary outcomes
+
+- Incidence/absence of adverse events with lyophilized FMT (safety and tolerability) up to 5 years post-FMT
+- UC disease progression (immediately after FMT to up to 5 years post-FMT) based on:
+
+# Starting date
+
+# Contact information
+
+# Notes
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

@@ -1,0 +1,7 @@
+# Article
+
+https://doi.org/10.1038/s41467-023-42788-0
+
+Our study revealed that IBD patients have reduced levels of K22477, leading to an excess of L-glutamate. This overabundance L-glutamate can cause symptoms such as abdominal pain and diarrhea in IBD patients42(Fig. 5c). Additionally, the lack of K22373 (larA, lactate racemase) prevents the conversion of (S)-lactate to (R)-lactate, which may contribute to the development of intestinal inflammation and malignant transformation43(Fig. 5d). The K00290 (LYS1, saccharopine dehydrogenase) reduces the likelihood of oxidative stress, a hallmark of inflammation in the gut affected by IBD44(Fig. 5e). However, IBD patients with reduced levels of LYS1 are unable to support a healthy microbiota due to the resulting oxidative stress. Urea plays a complex role in intestinal diseases, and in IBD patients, dysbiosis can result in abnormal urea metabolism, causing damage to the intestinal mucosal barrier and exacerbating inflammation45. Our study suggests that a
+
+Nature Communications | (2023)14:7135

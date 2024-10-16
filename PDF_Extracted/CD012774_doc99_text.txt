@@ -1,0 +1,49 @@
+# Cochrane Library
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# UMIN000033127 (Continued)
+
+# Outcomes
+
+# Primary outcome
+
+- Improvement of CDAI score
+
+# Secondary outcomes
+
+- IBDQ
+- Modified SES-CD
+- Hydrogen level in glucose hydrogen breath test
+- Urine lactulose–mannitol ratio
+- Change in fecal microbiome and metabolome
+
+# Starting date
+
+# Contact information
+
+# Notes
+
+5-ASA: 5-aminosalicylic acid; ALT: alanine transaminase; ANC: absolute neutrophil count; AST: aspartate transaminase; BMI: body mass index; CD: Crohn disease; CDAI: Crohn's Disease Activity Index; CMV: cytomegalovirus; CRP: C-reactive protein; EBV: Epstein-Barr virus; ECCO: European Crohn's and Colitis Organisation; eGFR: estimated glomerular filtration rate; EQ-5D: EuroQol Five-Dimensions Questionnaire; ESR: erythrocyte sedimentation rate; FMFT: fecal microbiota filtrate transfer; FMT: fecal microbiota transplantation; HBI: Harvey Bradshaw Index; IBD: inflammatory bowel disease; IBS: irritable bowel syndrome; MCS: Mental Component Score; n: number; PCDAI: Pediatric Crohn's Disease Activity Index; PCR: polymerase chain reaction; PCS: Physical Component Score; PHQ-9: Patient Health Questionnaire-9; PSC: primary sclerosing cholangitis; PUCAI: Paediatric Ulcerative Colitis Activity Index; rCDI: recurrent Clostridioides difficile infection; RCT: randomized controlled trial; rRNA: ribosomal ribonucleic acid; SCCAI: Simple Clinical Colitis Activity Index; SES-CD: Simple Endoscopic Score for Crohn Disease; SF-36: 36-Item Short Form Health Survey; TET: transendoscopic enteral tubing; TNF: tumor necrosis factor; UC: ulcerative colitis; V7: visit 7 (etc.); UCEIS: Ulcerative Colitis Endoscopic Index of Severity; VAS: visual analog scale; WBC: white blood cell count.
+
+# D A T A A N D A N A L Y S E S
+
+# Comparison 1. Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC)
+
+|Outcome or subgroup title|No. of studies|No. of participants|Statistical method|Effect size|
+|---|---|---|---|---|
+|1.1 Induction of clinical remission in UC at longest follow-up|10|468|Risk Ratio (M-H, Random, 95% CI)|1.79 [1.13, 2.84]|
+|1.2 Induction of clinical remission in UC at 8 weeks|8|408|Risk Ratio (M-H, Random, 95% CI)|1.68 [0.93, 3.05]|
+|1.3 Induction of clinical remission in UC at 12 weeks|3|108|Risk Ratio (M-H, Random, 95% CI)|1.54 [0.89, 2.66]|
+|1.4 Induction of clinical remission in UC at longest follow-up: subgroup analysis by route of administration|10|468|Risk Ratio (M-H, Random, 95% CI)|1.79 [1.13, 2.84]|
+|1.4.1 Upper gastrointestinal|2|83|Risk Ratio (M-H, Random, 95% CI)|2.22 [0.97, 5.07]|
+
+Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

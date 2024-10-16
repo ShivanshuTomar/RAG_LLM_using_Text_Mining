@@ -1,0 +1,9 @@
+# REVIEW SERIES: INTERACTIONS OF THE MICROBIOTA WITH THE MUCOSAL IMMUNE SYSTEM
+
+# Immune mechanisms of FMT in UC
+
+Fig. 1. Illustrative summary of evidence to date demonstrating intestinal mucosal immunological changes associated with faecal microbiota transplantation (FMT).
+
+FMT is associated with an increase in production of anti-microbial peptides, including cathelicidin anti-microbial peptide (Camp), S100A8, specific defensins, secretory immunoglobulin A and mucin. Reduction of antigen-presenting cells, including neutrophils and macrophages and up-regulation of regulatory T cells (Tregs), interleukin (IL)-10-secreting CD4 T cells and circulating gut-homing CD4 T cells following FMT. Consequently, there is an increase in IL-10 and transforming growth factor (TGF)-β production and a reduction of proinflammatory cytokines, including tumour necrosis factor (TNF)-α, interferon (IFN)-γ and IL-1β. A down-regulation of major histocompatibility complex (MHC)-II dependent presentation of bacterial antigens via dendritic cells is also noted following administration of FMT. These findings are associated with amelioration of intestinal inflammation. Administration of FMT is associated with enrichment of specific Clostridium clusters that include the short chain fatty acids (SCFA)-producing families Ruminococcaceae and Lachnospiraceae and genus Roseburia in clinical studies.
+
+© 2019 British Society for Immunology, Clinical and Experimental Immunology, 199: 24–38

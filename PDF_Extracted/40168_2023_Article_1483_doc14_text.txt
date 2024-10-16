@@ -1,0 +1,50 @@
+# Armstrong et al. Microbiome
+
+# (2023) 11:39
+
+# References
+
+1. Fairchild S, Knight AM, Dyson PJ, Tomonari K. Co-segregation of a gene encoding a deletion ligand for Tcrb-V3+ T cells with Mtv-3. Immunogenetics. 1991;34(4):227–30.
+2. Kane M, Case LK, Kopaskie K, Kozlova A, MacDearmid C, Chervonsky AV, et al. Successful transmission of a retrovirus depends on the commensal microbiota. Science. 2011;334(6053):245–9.
+3. Madsen K, Jijon H. IL-10 and IL-2 knockout mice: effect on intestinal inflammation. In: Fantuzzi G, editor. Cytokine Knockouts. Totowa: Humana Press Inc.; 2003. p. 237–51.
+4. Madsen KL, Doyle JS, Jewell LD, Tavernini MM, Fedorak RN. Lactobacillus species prevents colitis in interleukin 10 gene-deficient mice. Gastroenterology. 1999;116(5):1107–14.
+5. Madsen K, Fedorak R, Tavernini M, Doyle J. Normal breast milk limits the development of colitis in IL-10–deficient mice. Inflammatory Bowel Disease. 2002;8(6):390–8.
+6. Sharon D, Chen M, Zhang G, Girgis S, Sis B, Graham D, et al. Impact of combination antiretroviral therapy in the NOD.c3c4 mouse model of autoimmune biliary disease. Liver Int. 2015;35(4):1442–50.
+7. Hook LM, Agafonova Y, Ross SR, Turner SJ, Golovkina TV. Genetics of Mouse mammary tumor virus-induced mammary tumors: linkage of tumor induction to the gag gene. J Virol. 2000;74(19):8876–83.
+8. Ndifon W, Gal H, Shifrut E, Aharoni R, Yissachar N, Waysbort N, et al. Chromatin conformation governs T-cell receptor Jbeta gene segment usage. Proc Natl Acad Sci U S A. 2012;109(39):15865–70.
+9. Wang W, Indik S, Wasilenko ST, Faschinger A, Carpenter EJ, Tian Z, et al. Frequent proviral integration of the human betaretrovirus in biliary epithelium of patients with autoimmune and idiopathic liver disease. Aliment Pharmacol Ther. 2015;41(4):393–405.
+10. Jovel J, Patterson J, Wang W, Hotte N, O’Keefe S, Mitchel T, et al. Characterization of the gut microbiome using 16S or shotgun metagenomics. Front Microbiol. 2016;7:459.
+11. Wood DE, Salzberg SL. Kraken: ultrafast metagenomic sequence classification using exact alignments. Genome Biol. 2014;15(3):R46.
+12. Abubucker S, Segata N, Goll J, Schubert AM, Izard J, Cantarel BL, et al. Metabolic reconstruction for metagenomic data and its application to the human microbiome. PLoS Comput Biol. 2012;8(6):e1002358.
+13. Love MI, Huber W, Anders S. Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. Genome Biol. 2014;15(12):550.
+14. Hagen B, Kraase M, Indikova I, Indik S. A high rate of polymerization during synthesis of Mouse mammary tumor virus DNA alleviates hypermutation by APOBEC3 proteins. PLoS Pathog. 2019;15(2):e1007533.
+15. Kuhn R, Lohler J, Rennick D, Rajewsky K, Muller W. Interleukin-10-deficient mice develop chronic enterocolitis. Cell. 1993;75(2):263–74.
+16. Clooney AG, Sutton TDS, Shkoporov AN, Holohan RK, Daly KM, O’Regan O, et al. Whole-virome analysis sheds light on viral dark matter in inflammatory bowel disease. Cell Host Microbe. 2019;26(6):764-78 e5.
+17. Cabrera G, Burzyn D, Mundinano J, Courreges MC, Camicia G, Lorenzo D, et al. Early increases in superantigen-specific Foxp3+ regulatory T cells during Mouse mammary tumor virus infection. J Virol. 2008;82(15):7422–31.
+18. Davidson NJ, Leach MW, Fort MM, Thompson-Snipes L, Kuhn R, Muller W, et al. T helper cell 1-type CD4+ T cells, but not B cells, mediate colitis in interleukin 10-deficient mice. J Exp Med. 1996;184(1):241–51.
+19. Ibbotson JP, Lowes JR. Potential role of superantigen induced activation of cell mediated immune mechanisms in the pathogenesis of Crohn’s disease. Gut. 1995;36(1):1–4.
+20. Skamnelos A, Tatsioni A, Katsanos KH, Tsianos V, Christodoulou D, Tsianos EV. CD4 count remission hypothesis in patients with inflammatory bowel disease and human immunodeficiency virus infection: a systematic review of the literature. Ann Gastroenterol. 2015;28(3):337–46.
+21. Keubler LM, Buettner M, Hager C, Bleich A. A multihit model: colitis lessons from the interleukin-10-deficient mouse. Inflamm Bowel Dis. 2015;21(8):1967–75.
+22. Gorelik L, Flavell RA. Abrogation of TGFbeta signaling in T cells leads to spontaneous T cell differentiation and autoimmune disease. Immunity. 2000;12(2):171–81.
+23. Willerford DM, Chen J, Ferry JA, Davidson L, Ma A, Alt FW. Interleukin-2 receptor alpha chain regulates the size and content of the peripheral lymphoid compartment. Immunity. 1995;3(4):521–30.
+24. Liu X, Mao B, Gu J, Wu J, Cui S, Wang G, et al. Blautia-a new functional genus with potential probiotic properties? Gut Microbes. 2021;13(1):1–21.
+25. Wang W, Chen L, Zhou R, Wang X, Song L, Huang S, et al. Increased proportions of Bifidobacterium and the Lactobacillus group and loss of butyrate-producing bacteria in inflammatory bowel disease. J Clin Microbiol. 2014;52(2):398–406.
+
+# Publisher’s Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+# Ready to submit your research?
+
+Choose BMC and benefit from:
+
+- fast, convenient online submission
+- thorough peer review by experienced researchers in your field
+- rapid publication on acceptance
+- support for research data, including large and complex data types
+- gold Open Access which fosters wider collaboration and increased citations
+- maximum visibility for your research: over 100M website views per year
+
+At BMC, research is always in progress.
+
+Learn more biomedcentral.com/submissions

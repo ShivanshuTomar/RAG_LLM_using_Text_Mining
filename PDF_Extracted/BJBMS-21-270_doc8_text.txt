@@ -1,0 +1,23 @@
+# Dikhnah Alshehri, et al.: Gut microbiota in IBD therapy
+
+# IBD patients
+
+# Consequences of reduction of butyrate-producing bacteria on the balance of local bacterial community in the GI tract of IBD patients
+
+bacterial attachment and blocking bacterial receptors, improving the anaerobic environment for growing anaerobic bacteria [125,126]. This latter approach is based on the finding that reduction in F. prausnitzii has been proven to decrease the production of butyrate in IBD patients, which is considered to be the main source of oxygen for epithelial cells. This leads to the production of energy from the fermentation of glucose to lactose, which increases oxygen levels to up to 3-10% in the GI tract environment. Subsequently, the balance of the local bacterial community is affected as the strict anaerobic environment gradually decreases and facultative anaerobes, such as E. coli, proliferate [49].
+
+Collectively, researchers and physician hope that investigating and manipulating the intestinal microbiota can help to discern the cause or causes behind the relatively recent increase in incidence of IBD.
+
+# CAN MICROBIOME COMPOSITION BE A PREDICTOR OF CLINICAL RESPONSE TO ANTI-TNF?
+
+For example, the abundance of F. prausnitzii in the ileum of CD patients has been linked to the risk of post-operative recurrence [57]. In UC patients, the risk of pouchitis post-colectomy can be predicted by bacterial configuration [128]. In addition, an association between general dysbiosis of the microbiota and relapse following IFX treatment has been posited [129]. In the present study, dysbiosis was observed in CD patients and was typified by low F. prausnitzii (p = 0.003), and a reduction in Firmicutes was identified in relapsers. Furthermore, a low rate of F. prausnitzii (p = 0.014) and a low rate of bacteroides (p = 0.030) were also predictive of relapse. Similarly, the absence of Roseburia and F. prausnitzii, both butyrate-producing bacteria and the abundance of E. coli were found to be linked with an ileal CD phenotype [53]. Another butyrate-producing bacterium, Alistipes, was found to be considerably depleted in IBD patients [130]. These confirm the importance of acetate-to-butyrate conversion bacteria in maintaining GI homeostasis, (Figure 4) [53,130,131].
+
+# CONCLUSION
+
+Within a population, the microbiome exhibits a larger degree of variance with disease than host genetics. Several studies of different diseases have also highlighted the predictive capacity of the microbiome as a biomarker. The total structure and diversity of the microbiota, or even the existence or loss of specific taxa, have been demonstrated to be biomarkers of illnesses or can be used to speculate about potential treatments in several diseases [127].
+
+Owing to the importance of the symbiotic relationship between the intestinal microbiota and the host, it is understandable that shifts in gut microbiota have been implicated in various diseases, ranging from GI conditions, such as IBD, to neurodevelopmental diseases, such as autism [132,133]. Dysbiosis appears to exacerbate the progression of IBD, either as a cause or as a consequence. Restoring the microbiota composition in patients depends on the type and stage.
+
+Bosn J Basic Med Sci. 2021;21(3):270-283
+
+www.bjbms.org

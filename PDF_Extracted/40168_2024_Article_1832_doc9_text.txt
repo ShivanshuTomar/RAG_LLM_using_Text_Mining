@@ -1,0 +1,31 @@
+# Tian et al. Microbiome
+
+# (2024) 12:130
+
+| |Before FVT (d25)|After FVT (d40)|
+|---|---|---|
+|antibiotics-treated mice|FVT from healthy subjects|FVT from IBD patients|
+| |FVT from IBD patients|FVT from healthy subjects|
+| |FVT from IBD patients| |
+
+| |sham|HC-FVT|IBD-FVT|sham|HC-FVT|IBD-FVT|
+|---|---|---|---|---|---|---|
+| |sham|HC-FMT|IBD-FMT|sham|HC-FMT|IBD-FMT|
+
+# Fig. 5
+
+Biological effect evaluation of the gut virome on DSS-induced colitis in mice. a Schematic diagram of the construction of the DSS-induced mouse model of colitis. b Bar plot showing the microbial composition of the feces of mice before and after FVT. c Evaluation of the disease activity index in colitis mice that received gut viromes from IBD patients and healthy controls. d Colon length of mice with colitis. e Representative images of hematoxylin and eosin (HE) staining of the mouse colon. f The expression levels of adhesion and tight junction-related proteins in the mice with colitis. g Levels of inflammatory cytokines in the colon of colitis mice. N = 6. Statistical tests were performed using Student’s t-test: *p < 0.05; **p < 0.01; ***p < 0.001
+
+# Page 10 of 20
+
+|DSS|HC-FMT|sham (n = 6)|
+|---|---|---|
+|DSS|HC-FMT & HC-FVT (n = 6)| |
+|DSS|HC-FMT|IBD-FVT (n = 6)|
+|DSS|IBD-FMT & sham (n = 6)| |
+|DSS|IBD-FMT & HC-FVT (n = 6)| |
+|DSS|IBD-FMT & IBD-FVT (n = 6)| |
+
+# Discussion
+
+increasingly attributed to dysbiosis of the gut microbiota, leading to immune dysfunction and the onset of the disease [37, 38]. While extensive research has identified the

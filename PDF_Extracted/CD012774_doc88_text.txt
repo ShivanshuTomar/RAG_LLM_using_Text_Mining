@@ -1,0 +1,86 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# NCT04434872
+
+# Study name
+
+Fecal microbiota transplantation as a treatment for ulcerative colitis
+
+# Methods
+
+RCT conducted in Israel
+
+# Participants
+
+# Inclusion criteria
+
+- Ages 18–70 years
+- Diagnosis of UC for > 3 months
+- Active colitis disease with endoscopic score > 0
+- Ability to sign an informed consent
+
+# Exclusion criteria
+
+- Acute neutrophilia (&lt; 500 neutrophils/μL)
+- Severe immunodeficiency
+- Clostridioides difficile infection
+- Exposure to antibiotics in previous 2 weeks
+- Hospitalization
+- Proctitis involving &lt; 10 cm of rectum
+- Malignancy within past 5 years (excluding basal cell carcinoma)
+- Unstable dose of steroids or 5-ASA within past 2 weeks or immunomodulator and biologic therapy within past 12 weeks
+
+# Interventions
+
+# Experimental arm
+
+Donor-based FMT once via colonoscopy (250 mL), then 3 more times via either nasojejunal tube or enema (100 mL each), depending on extent of disease
+
+# Control arm
+
+Autologous FMT once via colonoscopy (250 mL), then 3 more times via either nasojejunal tube or enema (100 mL each), depending on extent of disease
+
+# Outcomes
+
+# Primary outcome
+
+Clinical improvement at week 8, defined by SCCAI and Mayo score
+
+# Secondary outcomes
+
+- Histologic remission at week 8, based on sigmoidoscopy assessment
+- Long-term remission after 1 year, based on questionnaires
+
+# Starting date
+
+# Contact information
+
+# Notes
+
+Study was terminated due to lack of budget
+
+# NCT04521205
+
+# Study name
+
+A multicenter clinical trial: efficacy, safety of fecal microbiota transplantation for inflammatory bowel disease
+
+# Methods
+
+RCT conducted in China
+
+# Participants
+
+# Inclusion criteria
+
+Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

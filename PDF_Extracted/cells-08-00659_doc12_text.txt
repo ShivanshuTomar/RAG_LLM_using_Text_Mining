@@ -1,0 +1,19 @@
+|Factor|Type of Study|N|Intervention|Outcome in IBD Patients|Author(s)| |Reference| | |
+|---|---|---|---|---|---|---|---|---|---|
+|Guided imagery/Relaxation training|Pilot RCT|28|Guided imagery with relaxation (GIR)|Improved QL in elderly women with osteoarthritis|Baird, CL. et al.| |150| | |
+| |Prospective RCT|39|Relaxation-training|Beneficial effects on anxiety, pain and stress in IBD patients|Mizrahi, MC. et al.| |163| | |
+|Self-directed stress management|Clinical study|45|self-directed and conventional medical treatment|Trained CD patients showed reduced fatigue, constipation and abdominal pain, whereas no beneficial effects in conventional-treated CD patients|García-Vega, E. et al.| |151| | |
+| |Clinical study|60|60-h training program in lifestyle modification over a period of 10 weeks|Short-term benefits in the QL in UC patients, whereas no long-term effects|Langhorst, J. et al.| |157| | |
+|Lifestyle management|Clinical study|49|8-session information about QL and stress management|No effect on anxiety levels 6 months post-intervention|Larsson, K. et al.| |160| | |
+|Prospective, randomized waiting-control group design| |30|60-h training program on life style management|Improved QL in patients with UC remission|Elsenbruch, S. et al.| |167| | |
+|Physical activity|Prospective, randomized study|32|Low-intensity walking program|Improved QL of CD patients|Ng, V. et al.| |179| | |
+| |Prospective RCT|30|Moderate-intensity running|Improved QL of IBD patients|Klare, P. et al.| |180| | |
+| |Two clinical trials|36|7-session behavioral protocol|57% reduction in IBD relapse in the following 12 months|Keefer, L. et al.| |152| | |
+|Psychotherapy|RCT|41|Primary and Secondary Control Enhancement Therapy-Physical Illness|Beneficial effects on depression in IBD adolescents|Szigethy, E. et al.| |158| | |
+| |Clinical study|178|Nurse-led counselling|Improved QL over 6 rather than 12 months in IBD patients|Smith, GD. et al.| |161| | |
+|Supportive-expressive group psychotherapy|Prospective, uncontrolled open trial|30|No changes in QL, anxiety, or depression over the course of treatment in UC/CD| |Maunder, RG. et al.| |162| | |
+| |Meta-analysis|1824 studies with 14 RCTs|Psychological therapy|Small short-term beneficial effects on QL and depression in IBD patients|Gracie, DJ. et al.| |166| | |
+| | | |Breath-Body-Mind Workshop|RCT|29|Breath-Body-Mind Workshop; questionnaire|Significant long-lasting benefits for IBD symptoms, anxiety, depression and QL|Gerbarg, PL. et al.|155|
+| |Control study|60|Mindfulness-based stress reduction|Improved mood and QL after six months of intervention|Neilson, K. et al.| |156| | |
+| | | |Gut-directed hypnotherapy|RCT|36|Gut-directed hypnotherapy|may be one aspect in a disease-management program for IBD|Keefer, L. et al.|159|
+| | | |Multi-convergent therapy|Clinical trial|66|Multi-convergent therapy (psychotherapy)|Therapy is beneficial in the management of IBD symptoms|Berrill, JW. et al.|164|

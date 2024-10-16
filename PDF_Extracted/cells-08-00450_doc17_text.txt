@@ -1,0 +1,23 @@
+# Cells 2019, 8, 450
+
+# References
+
+1. Gurtner, G.J.; Newberry, R.D.; Schloemann, S.R.; McDonald, K.G.; Stenson, W.F. Inhibition of indoleamine 2,3-dioxygenase augments trinitrobenzene sulfonic acid colitis in mice. Gastroenterology 2003, 125, 1762–1773. [CrossRef] [PubMed]
+2. Zelante, T.; Iannitti, R.G.; Cunha, C.; De Luca, A.; Giovannini, G.; Pieraccini, G.; Zecchi, R.; D’Angelo, C.; Massi-Benedetti, C.; Fallarino, F.; et al. Tryptophan catabolites from microbiota engage aryl hydrocarbon receptor and balance mucosal reactivity via interleukin-22. Immunity 2013, 39, 372–385. [CrossRef]
+3. Lee, J.S.; Cella, M.; McDonald, K.G.; Garlanda, C.; Kennedy, G.D.; Nukaya, M.; Mantovani, A.; Kopan, R.; Bradfield, C.A.; Newberry, R.D.; et al. AHR drives the development of gut ILC22 cells and postnatal lymphoid tissues via pathways dependent on and independent of Notch. Nat. Immunol. 2011, 13, 144–151. [CrossRef] [PubMed]
+4. Li, Y.; Innocentin, S.; Withers, D.R.; Roberts, N.A.; Gallagher, A.R.; Grigorieva, E.F.; Wilhelm, C.; Veldhoen, M. Exogenous stimuli maintain intraepithelial lymphocytes via aryl hydrocarbon receptor activation. Cell 2011, 147, 629–640. [CrossRef] [PubMed]
+5. Shi, L.Z.; Faith, N.G.; Nakayama, Y.; Suresh, M.; Steinberg, H.; Czuprynski, C.J. The aryl hydrocarbon receptor is required for optimal resistance to Listeria monocytogenes infection in mice. J. Immunol. 2007, 179, 6952–6962. [CrossRef] [PubMed]
+6. Veldhoen, M.; Hirota, K.; Westendorf, A.M.; Buer, J.; Dumoutier, L.; Renauld, J.C.; Stockinger, B. The aryl hydrocarbon receptor links TH17-cell-mediated autoimmunity to environmental toxins. Nature 2008, 453, 106–109. [CrossRef]
+7. Kiss, E.A.; Vonarbourg, C.; Kopfmann, S.; Hobeika, E.; Finke, D.; Esser, C.; Diefenbach, A. Natural aryl hydrocarbon receptor ligands control organogenesis of intestinal lymphoid follicles. Science 2011, 334, 1561–1565. [CrossRef]
+8. Qiu, J.; Heller, J.J.; Guo, X.; Chen, Z.M.; Fish, K.; Fu, Y.X.; Zhou, L. The aryl hydrocarbon receptor regulates gut immunity through modulation of innate lymphoid cells. Immunity 2012, 36, 92–104. [CrossRef] [PubMed]
+9. Alfonzo-Mendez, M.A.; Alcantara-Hernandez, R.; Garcia-Sainz, J.A. Novel Structural Approaches to Study GPCR Regulation. Int. J. Mol. Sci. 2016, 18, 27. [CrossRef] [PubMed]
+10. Gether, U. Uncovering molecular mechanisms involved in activation of G protein-coupled receptors. Endocr. Rev. 2000, 21, 90–113. [CrossRef] [PubMed]
+11. Venkatakrishnan, A.J.; Deupi, X.; Lebon, G.; Tate, C.G.; Schertler, G.F.; Babu, M.M. Molecular signatures of G-protein-coupled receptors. Nature 2013, 494, 185–194. [CrossRef]
+12. Brown, A.J.; Goldsworthy, S.M.; Barnes, A.A.; Eilert, M.M.; Tcheang, L.; Daniels, D.; Muir, A.I.; Wigglesworth, M.J.; Kinghorn, I.; Fraser, N.J.; et al. The Orphan G protein-coupled receptors GPR41 and GPR43 are activated by propionate and other short chain carboxylic acids. J. Biol. Chem. 2003, 278, 11312–11319. [CrossRef]
+13. Xiong, Y.; Miyamoto, N.; Shibata, K.; Valasek, M.A.; Motoike, T.; Kedzierski, R.M.; Yanagisawa, M. Short-chain fatty acids stimulate leptin production in adipocytes through the G protein-coupled receptor GPR41. Proc. Natl. Acad. Sci. USA 2004, 101, 1045–1050. [CrossRef]
+14. Tazoe, H.; Otomo, Y.; Karaki, S.; Kato, I.; Fukami, Y.; Terasaki, M.; Kuwahara, A. Expression of short-chain fatty acid receptor GPR41 in the human colon. Biomed. Res. 2009, 30, 149–156. [CrossRef]
+15. Trompette, A.; Gollwitzer, E.S.; Yadava, K.; Sichelstiel, A.K.; Sprenger, N.; Ngom-Bru, C.; Blanchard, C.; Junt, T.; Nicod, L.P.; Harris, N.L.; et al. Gut microbiota metabolism of dietary fiber influences allergic airway disease and hematopoiesis. Nat. Med. 2014, 20, 159–166. [CrossRef]
+16. Kim, M.H.; Kang, S.G.; Park, J.H.; Yanagisawa, M.; Kim, C.H. Short-chain fatty acids activate GPR41 and GPR43 on intestinal epithelial cells to promote inflammatory responses in mice. Gastroenterology 2013, 145, 396–406.e10. [CrossRef]
+17. Wang, A.; Si, H.; Liu, D.; Jiang, H. Butyrate activates the cAMP-protein kinase A-cAMP response element-binding protein signaling pathway in Caco-2 cells. J. Nutr. 2012, 142, 1–6. [CrossRef]
+18. Tazoe, H.; Otomo, Y.; Kaji, I.; Tanaka, R.; Karaki, S.I.; Kuwahara, A. Roles of short-chain fatty acids receptors, GPR41 and GPR43 on colonic functions. J. Physiol. Pharmacol. 2008, 59 (Suppl. 2), 251–262.
+19. Karaki, S.; Mitsui, R.; Hayashi, H.; Kato, I.; Sugiya, H.; Iwanaga, T.; Furness, J.B.; Kuwahara, A. Short-chain fatty acid receptor, GPR43, is expressed by enteroendocrine cells and mucosal mast cells in rat intestine. Cell Tissue Res. 2006, 324, 353–360. [CrossRef]

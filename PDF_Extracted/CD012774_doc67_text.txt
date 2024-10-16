@@ -1,0 +1,72 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Library
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Caenepeel 2022 (Continued)
+
+# Control arm
+
+n = 36
+
+- 4 doses of autologous FMT
+
+# Outcomes
+
+# Primary outcome
+
+- Steroid-free clinical remission (Total Mayo ≤ 2, with no subscore > 1) assessed via sigmoidoscopy at week 8
+
+# Secondary outcomes
+
+- Steroid-free PRO-2 remission (combined Mayo subscores ≤ 1 for Rectal Bleeding + Stool Frequency) at week 8
+- Steroid-free PRO-2 response (decrease of ≥ 3 points or ≥ 50% reduction from baseline (or both) in combined Mayo subscores for Rectal Bleeding + Stool Frequency) at week 8
+- Steroid-free endoscopic remission (Mayo Endoscopy subscore ≤ 1) at week 8
+- Steroid-free endoscopic response (Mayo Endoscopy subscore ≤ 1, with ≥ 1-point reduction from baseline) at week 8
+
+# Notes
+
+# Jitsumura 2022
+
+# Methods
+
+RCT conducted in the UK
+
+# Participants
+
+# Inclusion criteria
+
+- Newly diagnosed histologically confirmed UC with inflammation limited to rectum or rectosigmoid (within 40 cm of anal verge as measured by flexible sigmoidoscope)
+- Age ≥ 18 years
+- Ability to give full informed written consent
+- Willingness to return for sequential FMT dosing and endoscopic assessment
+- Not in receipt of standard medical treatment for colitis such as steroids or 5-ASA, i.e. treatment naive
+
+# Exclusion criteria
+
+- No definitive diagnosis of UC (e.g. diagnosis of CD or infectious colitis)
+- Colitis extending beyond 40 cm from the anal verge
+- Severe acute colitis (defined as > 6 bloodstained stools per 24 hours with 1 of the following: pulse rate > 90, temperature > 37.8 °C, hemoglobin < 105 g/L, ESR > 30 mm/hour)
+- Abdominal tenderness on examination
+- Already commenced standard medical therapy for UC
+- Contraindication to oral bowel preparation
+- Allergy to study antibiotics
+- Age < 18 years
+- Patients belonging to vulnerable groups
+- Pregnancy
+- Immunosuppression, e.g. transplant patient
+- Known communicable disease; ≥ 2 weeks of full recovery from infectious disease, e.g. chickenpox
+- Systemic autoimmunity or atopic diseases
+- Previous prosthetic implant (e.g. metallic heart valve, joint replacement, ventriculoperitoneal shunt, cardiac stent)
+- Chronic pain syndromes (e.g. fibromyalgia, chronic fatigue)
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

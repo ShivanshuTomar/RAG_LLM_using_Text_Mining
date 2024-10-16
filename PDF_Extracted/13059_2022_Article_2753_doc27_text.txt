@@ -1,0 +1,34 @@
+# Ma et al. Genome Biology (2022) 23:208
+
+As we show in Additional file 1: Fig. S12, the dysbiosis score was well validated across studies, except for healthy control samples and the negative control dataset. The Firmicutes-versus-Bacteroidetes tradeoff score, on the other hand, was reasonably well reproduced in all studies and particularly well-established in healthy samples, but, again, was not significantly detected in the negative control dataset.
+
+# Continuous score assignment
+
+Assignment of continuous scores was straightforward given the two consensus loading vectors provided by MMUPHin. Within each study, arcsin square root-transformed relative abundances were centered per-feature, the transformed abundance matrix was then multiplied by each consensus loading via dot product to generate per-sample continuous scores. These scores were used for visualization as in Fig. 4d and Additional file 1: Fig. S10, as well as for testing the difference between CD, UC, non-IBD, and healthy control populations as in Additional file 1: Fig. S16. We provide the two consensus loadings in Additional file 9: Table S7; interested researchers can follow these steps to assign the two continuous scores in other datasets.
+
+# Supplementary Information
+
+The online version contains supplementary material available at https://doi.org/10.1186/s13059-022-02753-4.
+
+- Additional file 1: Supplemental Figures.
+- Additional file 2: Supplemental Notes.
+- Additional file 3: Supplemental Table 1. Additional demographic, clinical, and bioinformatics characteristics of included studies.
+- Additional file 4: Supplemental Table 2. Full set of varying simulation parameters evaluated for MMUPHin validation.
+- Additional file 5: Supplemental Table 3. Detailed specification for omnibus and per-feature differential abundance testing models.
+- Additional file 6: Supplemental Table 4. Per-study and meta-analytically aggregated effect sizes of per-feature differential abundance tests performed.
+- Additional file 7: Supplemental Table 5. Per-study and meta-analytically aggregated effect sizes of tests on per-feature abundance associated with disease phenotypic severity.
+- Additional file 8: Supplemental Table 6. Per-study and meta-analytically aggregated effect sizes of tests on the interaction between disease/treatment and sample type/disease on per-feature abundances.
+- Additional file 9: Supplemental Table 7. Consensus loadings for the two identified continuous scores characterizing the IBD gut microbiome population structure.
+- Additional file 10: Review history.
+
+# Review history
+
+The review history is available as Additional file 10.
+
+# Peer review information
+
+Kevin Pang was the primary editor of this article and managed its editorial process and peer review in collaboration with the rest of the editorial team.
+
+# Authors’ contributions
+
+RX and CH performed conceptualized and determined the study design of this project. SM, RK, and HV acquired the IBD datasets and curated metadata. SM performed the uniform bioinformatics profiling of 16S sequences across studies. SM, DS, and HM developed the methodology for MMUPHin. SM performed the implementation, simulation validation, and IBD application analyses. MS provided interpretations for the meta-analyzed consistent microbial associations. LN provided input on the disease severity / treatment interaction analysis. SM and CH drafted the manuscript. EF, HV, RX, and CH performed substantive text revision. All authors have read and approved the submitted manuscript.

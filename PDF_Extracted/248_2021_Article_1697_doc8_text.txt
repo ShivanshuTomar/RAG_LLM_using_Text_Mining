@@ -1,0 +1,41 @@
+# Paediatric Inflammatory Bowel Disease and its Relationship with the Microbiome
+
+mechanisms of these serious conditions, as well as being crucial for the development of advancements in the treatment options for CD and UC.
+
+# Funding
+
+- Irish Research Council (grant number GOIPG/2017/1573)
+- Crohn’s and Colitis Foundation (grant number 510264)
+- Science Foundation Ireland (grant number SFI/12/RC/2273_P2)
+
+# Open Access
+
+This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+
+# References
+
+1. Dalziel TK (1913) Chronic interstitial enteritis. Br Med J 2:1068–1070
+2. Baumgart DC, Carding SR (2007) Inflammatory bowel disease: cause and immunobiology. Lancet (London, England) 369:1627–1640. https://doi.org/10.1016/s0140-6736(07)60750-8
+3. Geboes K (2008) What histologic features best differentiate Crohn’s disease from ulcerative colitis? Inflamm Bowel Dis 14(Suppl 2):S168–S169. https://doi.org/10.1002/ibd.20598
+4. Xavier RJ, Podolsky DK (2007) Unravelling the pathogenesis of inflammatory bowel disease. Nature 448:427–434
+5. Diefenbach KA, Breuer CK (2006) Pediatric inflammatory bowel disease. World J Gastroenterol 12:3204–3212. https://doi.org/10.3748/wjg.v12.i20.3204
+6. Malham M, Jakobsen C, Paerregaard A, Virta LJ, Kolho K-L, Wewer V (2019) The incidence of cancer and mortality in paediatric onset inflammatory bowel disease in Denmark and Finland during a 23-year period: a population-based study. Aliment Pharmacol Ther 50:33–39. https://doi.org/10.1111/apt.15258
+7. Olén O, Askling J, Sachs M, Frumento P, Neovius M, Smedby K, Ekbom A, Malmborg P, Ludvigsson J (2017) Childhood onset inflammatory bowel disease and risk of cancer: a Swedish nationwide cohort study 1964-2014. BMJ 358:j3951. https://doi.org/10.1136/bmj.j3951
+8. Rosen MJ, Dhawan A, Saeed SA (2015) Inflammatory bowel disease in children and adolescents. JAMA Pediatr 169:1053–1060. https://doi.org/10.1001/jamapediatrics.2015.1982
+9. Sawczenko A, Ballinger AB, Savage MO, Sanderson IR (2006) Clinical features affecting final adult height in patients with pediatric-onset Crohn’s disease. Pediatrics 118:124–129. https://doi.org/10.1542/peds.2005-2931
+10. Long MD, Crandall WV, Leibowitz IH, Duffy L, del Rosario F, Kim SC, Integlia MJ, Berman J, Grunow J, Colletti RB, Schoen BT, Patel AS, Baron H, Israel E, Russell G, Ali S, Herfarth HH, Martin C, Kappelman MD (2011) Prevalence and epidemiology of overweight and obesity in children with inflammatory bowel disease. Inflamm Bowel Dis 17:2162–2168. https://doi.org/10.1002/ibd.21585
+11. Greenley RN, Hommel KA, Nebel J, Raboin T, Li SH, Simpson P, Mackner L (2010) A meta-analytic review of the psychosocial adjustment of youth with inflammatory bowel disease. J Pediatr Psychol 35:857–869. https://doi.org/10.1093/jpepsy/jsp120
+12. Ross SC, Strachan J, Russell RK, Wilson SL (2011) Psychosocial functioning and health-related quality of life in paediatric inflammatory bowel disease. J Pediatr Gastroenterol Nutr 53:480–488. https://doi.org/10.1097/MPG.0b013e31822f2c32
+13. Ng SC, Shi HY, Hamidi N, Underwood FE, Tang W, Benchimol EI, Panaccione R, Ghosh S, Wu JCY, Chan FKL, Sung JJY, Kaplan GG (2018) Worldwide incidence and prevalence of inflammatory bowel disease in the 21st century: a systematic review of population-based studies. Lancet (London, England) 390:2769–2778. https://doi.org/10.1016/s0140-6736(17)32448-0
+14. Molodecky NA, Soon IS, Rabi DM, Ghali WA, Ferris M, Chernoff G, Benchimol EI, Panaccione R, Ghosh S, Barkema HW, Kaplan GG (2012) Increasing incidence and prevalence of the inflammatory bowel diseases with time, based on systematic review. Gastroenterology 142:46–54.e42; quiz e30. https://doi.org/10.1053/j.gastro.2011.10.001
+15. Kelsen J, Baldassano RN (2008) Inflammatory bowel disease: the difference between children and adults. Inflamm Bowel Dis 14:S9–S11. https://doi.org/10.1002/ibd.20560
+16. Benchimol EI, Fortinsky KJ, Gozdyra P, Van den Heuvel M, Van Limbergen J, Griffiths AM (2011) Epidemiology of pediatric inflammatory bowel disease: a systematic review of international trends. Inflamm Bowel Dis 17:423–439. https://doi.org/10.1002/ibd.21349
+17. Hope B, Shahdadpuri R, Dunne C, Broderick AM, Grant T, Hamzawi M, Driscoll K, Quinn S, Hussey S, Bourke B (2012) Rapid rise in incidence of Irish paediatric inflammatory bowel disease. Arch Dis Child 97:590–594. https://doi.org/10.1136/archdischild-2011-300651
+18. Benchimol EI, Guttmann A, Griffiths AM, Rabeneck L, Mack DR, Brill H, Howard J, Guan J, To T (2009) Increasing incidence of paediatric inflammatory bowel disease in Ontario, Canada: evidence from health administrative data. Gut 58:1490–1497. https://doi.org/10.1136/gut.2009.188383
+19. Schirmer M, Garner A, Vlamakis H, Xavier RJ (2019) Microbial genes and pathways in inflammatory bowel disease. Nat Rev Microbiol 17:497–511. https://doi.org/10.1038/s41579-019-0213-6
+20. Van Limbergen J, Radford-Smith G, Satsangi J (2014) Advances in IBD genetics. Nat Rev Gastroenterol Hepatol 11:372–385. https://doi.org/10.1038/nrgastro.2014.27
+21. Ananthakrishnan AN (2015) Epidemiology and risk factors for IBD. Nat Rev Gastroenterol Hepatol 12:205–217. https://doi.org/10.1038/nrgastro.2015.34
+22. Yang H, McElree C, Roth MP, Shanahan F, Targan SR, Rotter JI (1993) Familial empirical risks for inflammatory bowel disease: differences between Jews and non-Jews. Gut 34:517–524. https://doi.org/10.1136/gut.34.4.517
+23. Ananthakrishnan AN, McGinley EL, Binion DG, Saeian K (2010) Ambient air pollution correlates with hospitalizations for inflammatory bowel disease: an ecologic analysis. Inflamm Bowel Dis 17:1138–1145. https://doi.org/10.1002/ibd.21455
+24. Koloski N-A, Bret L, Radford-Smith G (2008) Hygiene hypothesis in inflammatory bowel disease: a critical review of the literature. World J Gastroenterol 14:165–173. https://doi.org/10.3748/wjg.14.165
+25. López-Serrano P, Pérez-Calle JL, Pérez-Fernández MT, Fernández-Font JM, Boixeda de Miguel D, Fernández-Rodríguez CM (2010) Environmental risk factors in inflammatory bowel diseases. Investigating the hygiene hypothesis: a Spanish case–control study. Scand J Gastroenterol 45:1464–1471. https://doi.org/10.3109/00365521.2010.510575

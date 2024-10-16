@@ -1,0 +1,29 @@
+# Yang et al. Journal of Nanobiotechnology
+
+# (2024) 22:166
+
+# Page 13 of 16
+
+impacts associated with IBD. Owing to the mucoadhesive PDA layer that that allows YBNs attach to inflamed colon mucosa, this nano-agents prolonged the retention duration in the intestine, enabling them to maximize the drug bioavailability. The core YBNs showed greater potential to achieve positive gut microbiota regulation when coated with the PDA layer on their surface. The synergistic effect of YBNs@PDA on potently scavenging ROS and modifying microbial homeostasis in intestinal microenvironments simultaneously, resulted in considerably increased protective and therapeutic efficacy in an acute colitis mouse model. Body weight loss and colon length decrease driven by DSS-induced acute colitis were markedly reduced by YBNs@PDA. Moreover, disease severity in colitic mice receiving high dose of YBNs@PDA decreased significantly. The gut microbiota of DSS mice treated with YBNs@PDA was altered considerably compared to PBS-treated mice, demonstrating the capacity to stimulate the colonization of bacteria that produce short-chain fatty acids and favourably regulate the gut microbiota. It is worth noting that PDA nanoparticles may undergo self-degradation after completely reacting with ROS or being digested by microbes [21]. Hence, it is plausible to manage acute colitis by combining strategies that aim to restore gut microbiota and ROS elimination with strategies that aim to restore gut immunological homeostasis.
+
+# Methods and materials
+
+# Materials
+
+Yeast β-glucan were extracted from baker yeast (Angel, China). Dextran sodium sulfate (36–50 kDa) was obtained from MP Biomedical. Thiazolyl blue tetrazolium bromide (MTT), Dimethyl-sulfoxide (DMSO) and Dopamine hydrochloride, FITC and LPS were purchased from Sigma-Aldrich Co. (St. Louis, MO, USA). Spectra/Por membrane was purchased from Spectrum Laboratories Inc. (CA, USA). Penicillin-Streptomycin (P.S.), fetal bovine serum (FBS), Dulbecco’s modified eagle medium (DMEM) and trypsin-EDTA were purchased from Gibco (Karlsruhe, Germany). DCF, ELISA kits (TNF-α, IL-1β, IL-6, MCP-1), Claudin-1 antibody (374,900), Alexa fluor 647 goat anti-rabbit IGG (A21245) were purchased from Thermo Fisher Scientific (Carlsbad, CA, USA). Occludin antibody (AB216327), Myeloperoxidase antibody (AB208670), Mucin-2 antibody (AB272692), Alexa fluor 488 rabbit anti-mouse IGG H&L (AB150125), Alexa fluor 488 goat anti-rabbit IGG H&L (AB150077) were purchased from Abcam (Chicago, IL, USA). TUNEL kit and Antifade Mounting Medium with DAPI were obtained from Beyotime Biotechnology (Shanghai, China).
+
+# Synthesis of YBNs@PDA
+
+YBNs was synthesized according to the previous report with slight changes [45]. Briefly, water- and alkaline-soluble yeast β-glucan fractions were extracted and freeze-dried. The extracted yeast β-glucan was added into formic acid, and the mixture was heated to 85 °C for 3 h. The reaction mixture was subsequently filtered and the filtrate was mixed with 300 mL ethanol to precipitate the product YBF which was lyophilized after being rinsed twice with ethanol. YBF was then re-dissolved in pyridine and stirred for 1 h at 85 °C, after which cooled acetic anhydride was added dropwise and the mixture was allowed to react for 6 h. To produce yeast β-glucan ester (YBA), the mixture was filtered, isolated by precipitation in ethanol, boiled for 3 h for de-formylation, washed twice with ethanol, and dried by lyophilization. YBNs nanoparticles was prepared by nanoprecipitation. Briefly, YBA was added to acetone, followed by the same volume of distilled water added dropwise to precipitate the nanoparticles which were dialyzed against distilled water. YBNs were then dispersed in 10 mM Tris buffer with pH = 8.5. Certain amount of dopamine hydrochloride was first dissolved in ddHO,2 and subsequently added into the YBNs dispersion to achieve the final concentration of dopamine hydrochloride 0.4 mg/mL. This reaction was carried out by stirring for 3 h. The final product was centrifuged and washed by water for three times.
+
+# Physicochemical characterization of YBNs@PDA
+
+Particle sizes, polydispersity index (PDI), and ζ-potentials of PDA@YBNs and YBNs were evaluated using a Malvern Zetasizer Nano ZS. The morphology of YBNs was studied by both transmission electron microscopy (TEM) (Hitachi H-7650, Japan) and scanning electron microscopy (SEM) (JEOL JSM-7800 F). YBNs, PDA and YBNs@PDA samples prepared in KBr disc were scanned by a Fourier Transform Infrared (FT-IR) spectrometer (Spectrum One, PerkinElmer, USA) and a fluorescent spectrometer (Shimadzu RF 6000). The XPS fingerprint of the nanoparticles was obtained by X-Ray Photoelectron Spectroscopy (XPS) (Thermo Fisher Nexsa). The YBNs, PDA, and YBNs@PDA were subjected to thermogravimetric analysis (TGA) using a TGA6 (Perkin Elmer) analyser with a sample size of 5 mg heated in a nitrogen environment from 0 to 800 °C at a heating rate of 10 °C per minute.
+
+# Cellular uptake
+
+For cellular uptake of nanoparticles, 6 or 12 well plates were seeded with RAW264.7 or HT-29 cells and incubated overnight at 37 °C. The cells were then treated with nanoparticles or free FITC in a fresh complete DMEM for different treatment times. Flow cytometry (BD FACSVerse) or a Zeiss microscope was used to quantitatively analyze the FITC intensity levels in the cells.
+
+# Intracellular ROS measurement and in vitro anti-inflammatory activity
+
+2′,7′-dichlorodihydrofluorescein diacetate (DCF), a fluorescent probe for ROS, was used in flow cytometry and confocal laser scanning.

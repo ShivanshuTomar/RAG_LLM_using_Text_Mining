@@ -1,0 +1,31 @@
+# Moderate-intensity aerobic and resistance exercise is safe and favorably influences body composition in patients with quiescent Inflammatory Bowel Disease: a randomized controlled cross-over trial
+
+# Owen Cronin1,2*
+
+# Yvonne McCarthy1, Wiley Barton1,2,3, Carthage Moran 1,2, Donal Sheehan 1,2, Ronan Whiston 3, Helena Nugent 1, Fergus Shanahan1,2, Catherine B. Molloy1, Orla O’Sullivan 2,3, Paul D. Cotter 2,3, Michael G. Molloy 1,2
+
+# Abstract
+
+Background: Overweight and metabolic problems now add to the burden of illness in patients with Inflammatory Bowel Disease. We aimed to determine if a program of aerobic and resistance exercise could safely achieve body composition changes in patients with Inflammatory Bowel Disease.
+
+Methods: A randomized, cross-over trial of eight weeks combined aerobic and resistance training on body composition assessed by Dual Energy X-ray Absorptiometry was performed. Patients in clinical remission and physically inactive with a mean age of 25 ± 6.5 years and Body Mass Index of 28.9 ± 3.8 were recruited from a dedicated Inflammatory Bowel Disease clinic. Serum cytokines were quantified, and microbiota assessed using metagenomic sequencing.
+
+Results: Improved physical fitness was demonstrated in the exercise group by increases in median estimated VO2max (Baseline: 43.41mls/kg/min; post-intervention: 46.01mls/kg/min; p = 0.03). Improvement in body composition was achieved by the intervention group (n = 13) with a median decrease of 2.1% body fat compared with a non-exercising group (n = 7) (0.1% increase; p = 0.022). Lean tissue mass increased by a median of 1.59 kg and fat mass decreased by a median of 1.52 kg in the exercising group. No patients experienced a deterioration in disease activity scores during the exercise intervention. No clinically significant alterations in the α- and β-diversity of gut microbiota and associated metabolic pathways were evident.
+
+Conclusions: Moderate-intensity combined aerobic and resistance training is safe in physically unfit patients with quiescent Inflammatory Bowel Disease and can quickly achieve favourable body compositional changes without adverse effects.
+
+Trial registration: The study was registered at ClinicalTrials.gov; Trial number: NCT02463916.
+
+Keywords: Clinical trials, Microbiome, Exercise, Body composition
+
+# Correspondence:
+
+Owen Cronin
+
+Department of Medicine, National University of Ireland, University College Cork, Cork University Hospital, Wilton, T12 DC4A, Cork, Ireland
+
+APC Microbiome Ireland, National University of Ireland, Cork T12 YT20, Ireland
+
+Full list of author information is available at the end of the article
+
+© The Author(s). 2019 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.

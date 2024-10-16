@@ -1,0 +1,74 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# #11 FMT
+
+# #12 Fecal NEXT transfusion*
+
+# #13 Fecal NEXT bacteriotherap*
+
+# #14 #6 OR #7 OR #8 OR #9 OR #10 OR #11 OR #12 OR #13
+
+# #15 #5 AND #14
+
+International Standard Registered Clinical/Social Study Number registry (ISRCTN; searched 22 December 2022)
+
+1. Fecal transplantation AND Inflammatory Bowel Disease
+2. Fecal transplant AND Inflammatory Bowel Disease
+3. Fecal microbiota transplant AND Inflammatory Bowel Disease
+
+# WHAT'S NEW
+
+|Date|Event|Description|
+|---|---|---|
+|25 April 2023|New search has been performed|Additional studies added in this update|
+|25 April 2023|New citation required and conclusions have changed|We added 7 studies with 222 participants. The certainty of evidence changed.|
+
+# HISTORY
+
+Protocol first published: Issue 8, 2017
+
+Review first published: Issue 11, 2018
+
+# CONTRIBUTIONS OF AUTHORS
+
+Design of the review: AI, MN, SA, OG
+
+Co-ordination of the review: AI
+
+Search and selection of studies for inclusion in the review: AI, NP, MZ, NZM
+
+Collection of data for the review: AI, NP, MZ
+
+Assessment of the risk of bias in the included studies: AI, NP, MZ
+
+Analysis of data: AI, NP, MZ, NZM
+
+Assessment of the certainty of the evidence: AI
+
+Interpretation of data: AI, NZM, ETS, MN, SA, OG
+
+Writing of the review: AI, ETS, NZM, MZ, NP, MN
+
+# DECLARATIONS OF INTEREST
+
+AI: none.
+
+NP: none.
+
+MZ: none.
+
+NZM: none.
+
+ETS: none.
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

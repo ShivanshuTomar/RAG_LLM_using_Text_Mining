@@ -1,0 +1,75 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Library
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Sarbagili Shabat 2022
+
+# Study characteristics
+
+# Methods
+
+Multicenter, single-blind RCT conducted in Israel and Italy
+
+# Participants
+
+# Inclusion criteria
+
+- Ages 18–70 years (inclusive)
+- Established diagnosis of UC, confined to the large intestine with rectosigmoid involvement for ≥ 3 months
+- Mild-to-moderate active disease, SCCAI score ≥ 5 and < 10 with Endoscopic subscore ≥ 2
+- Refractory to mesalamine for 6 weeks, steroids > 14 days, or immunomodulator therapy for 12 weeks, biologics for ≥ 12 weeks
+- No use or stable use of medical cannabis for 2 weeks
+- Informed consent
+
+# Exclusion criteria
+
+- Acute severe UC in past 3 months
+- Start of new biologic therapy in previous 12 weeks, FMT in last 6 months
+- Evidence of Clostridioides difficile infection, any confirmed current infection such as cytomegalovirus, positive stool culture, or parasite
+- Current extra-intestinal manifestation of UC such as active arthritis or primary sclerosing cholangitis
+- Immune deficiency (other than drug-induced)
+- Current use of calcineurin inhibitor
+- Pregnancy
+- Suspected toxic megacolon, guarding on palpation, or signs of peritoneal inflammation; presence of a pouch or pouchitis
+- Other IBD-unrelated disease such as autoimmune disorders, renal failure, fever (< 38 °C) or current infection (UTI, strep throat, pneumonia, etc.)
+- Prior or current neoplasia, active malignant disease or prior malignancy in past 5 years (excluding skin basal cell carcinoma)
+- Inability or reluctance to use enema
+- Anticipation of antibiotic use within the study period (such as for elective surgery or dental treatment)
+- Participation in another clinical interventional trial
+
+# Interventions
+
+# Experimental arm
+
+- FMT by colonoscopy on day 1 + 60 mL enemas on days 2 and 14 from the same donor, with dietary pre-conditioning of donor for 14 days and dietary treatment of patient for 12 weeks
+
+# Control arm 1
+
+- FMT by colonoscopy on day 1 + 60 mL enemas on days 2 and 14 from the same donor, without dietary conditioning
+
+# Control arm 2
+
+- Dietary treatment of participant for 12 weeks without FMT
+
+# Outcomes
+
+# Primary outcome
+
+- Clinical remission at week 8, determined by SCCAI score < 3
+
+# Secondary outcomes
+
+- Improvement in SCCAI score for each group at weeks 8 and 12
+- Mayo Endoscopic score < 2 (for participants undergoing sigmoidoscopy) at week 8
+
+Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

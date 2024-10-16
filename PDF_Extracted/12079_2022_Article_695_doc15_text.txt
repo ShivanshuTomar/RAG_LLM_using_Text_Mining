@@ -1,0 +1,71 @@
+# References
+
+A. Shahini, A. Shahini
+
+Devaraj S, Hemarajata P, Versalovic J (2013) The human gut microbiome and body metabolism: implications for obesity and diabetes. Clin Chem 59(4):617–628
+
+Diehl SA, Schmidlin H, Nagasawa M, Blom B, Spits H (2012) IL-6 triggers IL-21 production by human CD4+ T cells to drive STAT3-dependent plasma cell differentiation in B cells. Immunol Cell Biol 90(8):802–811
+
+Dimitrov S, Lange T, Benedict C, Nowell MA, Jones SA, Scheller J, Rose-John S, Born J, Dimitrov S, Lange T (2006) Sleep enhances IL-6 trans-signaling in humans. FASEB J 20(12):2174–2176
+
+Dinarello CA (1999) IL-18: A TH1-inducing, proinflammatory cytokine and new member of the IL-1 family. J Allergy Clin Immunol 103(1):11–24
+
+Dinarello CA (2009) Interleukin-1β and the autoinflammatory diseases. Mass Medical Soc 360:2467–2470
+
+Dolcet X, Llobet D, Pallares J, Matias-Guiu X (2005) NF-kB in development and progression of human cancer. Virchows Arch 446(5):475–482
+
+Dong L, Du H, Zhang M, Xu H, Pu X, Chen Q, Luo R, Hu Y, Wang Y, Tu H (2022) Anti-inflammatory effect of Rhein on ulcerative colitis via inhibiting PI3K/Akt/mTOR signaling pathway and regulating gut microbiota. Phytother Res 36(5):2081–2094
+
+Elabd EMY, Morsy SM, Elmalt HA (2018) Investigating of Moringa oleifera role on gut microbiota composition and inflammation associated with obesity following high fat diet feeding. Open Access Macedonian J Med Sci 6(8):1359
+
+Faghfoori Z, Navai L, Shakerhosseini R, Somi MH, Nikniaz Z, Norouzi MF (2011) Effects of an oral supplementation of germinated barley foodstuff on serum tumour necrosis factor-α, interleukin-6 and-8 in patients with ulcerative colitis. Ann Clin Biochem 48(3):233–237
+
+Fantini MC, Guadagni I (2021) From inflammation to colitis-associated colorectal cancer in inflammatory bowel disease: pathogenesis and impact of current therapies. Dig Liver Dis 53(5):558–565
+
+Fattori E, Cappelletti M, Costa P, Sellitto C, Cantoni L, Carelli M, Faggioni R, Fantuzzi G, Ghezzi P, Poli V (1994) Defective inflammatory response in interleukin 6-deficient mice. J Exp Med 180(4):1243–1250
+
+Federico A, Tuccillo C, Grossi E, Abbiati R, Garbagna N, Romano M, Tiso A, Blanco CDV, Loguercio C (2009) The effect of a new symbiotic formulation on plasma levels and peripheral blood mononuclear cell expression of some pro-inflammatory cytokines in patients with ulcerative colitis: a pilot study. Eur Rev Med Pharmacol Sci 13(4):285–293
+
+Fielding CA, McLoughlin RM, McLeod L, Colmont CS, Najdovska M, Grail D, Ernst M, Jones SA, Topley N, Jenkins BJ (2008) IL-6 regulates neutrophil trafficking during acute inflammation via STAT3. J Immunol 181(3):2189–2195
+
+Friedrich M, Pohin M, Powrie F (2019) Cytokine networks in the pathophysiology of inflammatory bowel disease. Immunity 50(4):992–1006. https://doi.org/10.1016/j.immuni.2019.03.017
+
+Fung TC, Bessman NJ, Hepworth MR, Kumar N, Shibata N, Kobuley D, Wang K, Ziegler CG, Goc J, Shima T (2016) Lymphoid-tissue-resident commensal bacteria promote members of the IL-10 cytokine family to establish mutualism. Immunity 44(3):634–646
+
+Gabay C (2006) Interleukin-6 and chronic inflammation. Arthritis Res Ther 8(2):1–6
+
+Gabay C, Kushner I (1999) Acute-phase proteins and other systemic responses to inflammation. N Engl J Med 340(6):448–454
+
+Garbers C, Hermanns HM, Schaper F, Müller-Newen G, Grötzinger J, Rose-John S, Scheller J (2012) Plasticity and cross-talk of interleukin 6-type cytokines. Cytokine Growth Factor Rev 23(3):85–97
+
+Gay J, Kokkotou E, O’Brien M, Pothoulakis C, Karalis KP (2006) Interleukin-6 genetic ablation protects from trinitrobenzene sulfonic acid-induced colitis in mice. NeuroImmunoModulation 13(2):114–121
+
+Ge H, Cai Z, Chai J, Liu J, Liu B, Yu Y, Liu J, Zhang T (2021) Egg white peptides ameliorate dextran sulfate sodium-induced acute colitis symptoms by inhibiting the production of pro-inflammatory cytokines and modulation of gut microbiota composition. Food Chem 360:129981
+
+Genovese MC, McKay JD, Nasonov EL, Mysler EF, da Silva NA, Alecock E, Woodworth T, Gomez-Reino JJ (2008) Interleukin-6 receptor inhibition with tocilizumab reduces disease activity in rheumatoid arthritis with inadequate response to disease-modifying antirheumatic drugs: the tocilizumab in combination with traditional disease-modifying antirheumatic drug therapy study. Arthritis & Rheumatism: off J Am Coll Rheumatol 58(10):2968–2980
+
+Giner E, Recio MC, Ríos JL, Cerdá-Nicolás JM, Giner RM (2016) Chemopreventive effect of oleuropein in colitis-associated colorectal cancer in c57bl/6 mice. Mol Nutr Food Res 60(2):242–255
+
+Glassner KL, Abraham BP, Quigley EM (2020) The microbiome and inflammatory bowel disease. J Allergy Clin Immunol 145(1):16–27
+
+Goldberg R, Prescott N, Lord GM, MacDonald TT, Powell N (2015) The unusual suspects—innate lymphoid cells as novel therapeutic targets in IBD. Nat Rev Gastroenterol Hepatol 12(5):271–283
+
+Grivennikov S, Karin E, Terzic J, Mucida D, Yu G-Y, Vallabhapurapu S, Scheller J, Rose-John S, Cheroutre H, Eckmann L (2009) IL-6 and Stat3 are required for survival of intestinal epithelial cells and development of colitis-associated cancer. Cancer Cell 15(2):103–113
+
+Gross V, Andus T, Caesar I, Roth M, Schölmerich J (1992) Evidence for continuous stimulation of interleukin-6 production in Crohn’s disease. Gastroenterology 102(2):514–519
+
+Gu D, Zhou S, Yao L, Tan Y, Chi X, Shi D, Guo S, Liu C (2020) Shen-Ling BaiZhu San alleviates Ulcerative colitis in rats by regulating gut microbiota. https://doi.org/10.21203/rs.3.rs-90760/v1
+
+Gu Z, Zhu Y, Mei F, Dong X, Xia G, Shen X (2021) Tilapia head glycolipids protect mice against dextran sulfate sodium-induced colitis by ameliorating the gut barrier and suppressing NF-kappa B signaling pathway. Int Immunopharmacol 96:107802
+
+Guan Q (2019) A comprehensive review and update on the pathogenesis of inflammatory bowel disease. J Immunol Res 2019:7247238. https://doi.org/10.1155/2019/7247238
+
+Guo S, Geng W, Chen S, Wang L, Rong X, Wang S, Wang T, Xiong L, Huang J, Pang X (2021) Ginger alleviates DSS-induced ulcerative colitis severity by improving the diversity and function of gut microbiota. Front Pharmacol 12:53
+
+Gupta RA, Motiwala MN, Mahajan UN, Sabre SG (2018) Protective effect of Sesbania grandiflora on acetic acid induced ulcerative colitis in mice by inhibition of TNF-α and IL-6. J Ethnopharmacol 219:222–232
+
+Halfvarson J, Brislawn CJ, Lamendella R, Vázquez-Baeza Y, Walters WA, Bramer LM, D’amato M, Bonfiglio F, McDonald D, Gonzalez A (2017) Dynamics of the human gut microbiome in inflammatory bowel disease. Nat Microbiol 2(5):1–7
+
+Han R, Wang L, Zhao Z, You L, Pedisić S, Kulikouskaya V, Lin Z (2020) Polysaccharide from Gracilaria Lemaneiformis prevents colitis in Balb/c mice via enhancing intestinal barrier function and attenuating intestinal inflammation. Food Hydrocolloids 109:106048
+
+Hanauer SB, Feagan BG, Lichtenstein GR, Mayer LF, Schreiber S, Colombel JF, Rachmilewitz D, Wolf DC, Olson A, Bao W (2002) Maintenance infliximab for Crohn’s disease: the ACCENT I randomised trial. The Lancet 359(9317):1541–1549

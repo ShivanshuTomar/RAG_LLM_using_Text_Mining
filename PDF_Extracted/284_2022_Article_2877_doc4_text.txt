@@ -1,0 +1,19 @@
+# Association of Gut Microbiota with Inflammatory Bowel Disease and COVID‑19 Severity: A Possible…
+
+# Page 5 of 15
+
+# Table 1 (continued)
+
+# Microbiota change in gastrointestinal tract and respiratory tract during SARS-CoV-2 infection
+
+|Commensals|Pathogens|References| |
+|---|---|---|---|
+|BALF samples demonstrated the enrichment of commensal microflora in control group and patients with community acquired pneumonia (CAP) than COVID-19 patients|Acinetobacter, Pseudomonas, Chryseobacterium, Escherichia, Streptococcus, Enterococcus, Rothia and Lactobacillus, were responsible for developing dysbiosis in lung microbiota of COVID-19 patients|[3]| |
+|Protobacteria, Firmicutes, and Bacteroidetes are the most frequent phyla noticed through transient lung ecosystem|Pseudomonas, Streptococcus, Prevotella, Fusobacteria, Porphyromonas, and Veillonella have been mainly studied|[31]| |
+|N/A|Acinetobacter, Chryseobacterium, Burkholderia, Brevundimonas, Sphingobium and Enterobacteriaceae are the common bacteria isolated from the lungs of deceased patients|[3]| |
+|Cryptococcus, Issatchenkia, Wallemia, Cladosporium and Alternaria were the prevalent fungi identified|N/A|Capnocytophaga and Veillonella spp. co-infection with unknown pathogenicity; obtained from BALF samples of two COVID-19 patients|[3]|
+|Firmicutes, Bacteroidetes, Protobacteria, Actinobacteria, and Fusobacteria remained robust in microbiota of nasopharynx, eventually stopped the SARS CoV-2 growth|Dolosignarulum, Moraxella, Staphylococcus, Streptococcus etc. were obtained after volunteers experienced the mild disease when challenged with H3N2| |[33]|
+|Prevotella, Streptococcus, and Veillonella were present in the lungs of normal healthy subjects|Acinetobacter (A. baumannii), Brevundimonas, Burkholderia, Chryseobacterium, Sphingobium and genus from Enterobacteriaceae. Enterobacteriaceae included some pathogenic bacteria like Enterobacter, Escherichia coli, Klesiella, and Proteus detected in the lung samples of deceased patients|[34]| |
+|Cryptococcus, Aspergillus, Alternaria, Dipodascus, Mortierella, Naganishia, Diutina, candida, Cladosporium, Issatchenkia, and Wallemia. Opportunistic species such as, Issatchenkia, Cladosporium, and Candida are the lung mycobiota responsible for causing mycosis in immunosuppressed patients|Cryptococcus related infections cause higher mortality in immunocompromised patients| | |
+
+GIT human gastrointestinal tract, SCFA short chain fatty acid, CRP C-reactive protein, BALF bronchoalveolar lavage fluid, CAP community acquired pneumonia, N/A not applicable

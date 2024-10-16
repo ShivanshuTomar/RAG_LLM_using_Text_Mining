@@ -1,0 +1,80 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# NCT04924270 (Continued)
+
+# Control arm
+
+• Placebo capsules consisting of 0.9% sodium chloride and glycerol, added brown food coloring
+
+# Outcomes
+
+# Primary outcome
+
+• Change from baseline in the PCS of the SF-36 at week 8 (± 1 week)
+
+# Secondary outcomes
+
+- • Change from baseline in the MCS of the SF-36 at week 8 (± 1 week)
+- • Change from baseline in Patient Global Assessment (VAS 0–100 mm) at week 8 (± 1 week)
+- • Change from baseline in participant fatigue (VAS 0–100 mm) at week 8 (± 1 week)
+- • Change from baseline in participant pain (VAS 0–100 mm) at week 8 (± 1 week)
+- • Change from baseline in Physician's Global Assessment (VAS 0–100 mm) at week 8 (± 1 week)
+- • Change from baseline in CRP at week 8 (± 1 week)
+- • Change from baseline in the PCS of the SF-36 at week 52 (± 2 week)
+- • Change from baseline in the MCS of the SF-36 at week 52 (± 2 week)
+- • Change from baseline in Patient Global Assessment (VAS 0–100 mm) at week 52 (± 2 week)
+- • Change from baseline in participant fatigue (VAS 0–100 mm) at week 52 (± 2 week)
+- • Change from baseline in participant pain (VAS 0–100 mm) at week 52 (± 2 week)
+- • Change from baseline in Physician's Global Assessment (VAS 0–100 mm) at week 52 (± 2 week)
+- • Change from baseline in CRP at week 52 (± 2 week)
+
+# Starting date
+
+First posted: 11 June 2021
+
+# Contact information
+
+Torkell Ellingsen, MD PhD
+
+Tel: +45 6611 3333; email: torkell.ellingsen@rsyd.dk
+
+# Notes
+
+# NCT04970446
+
+# Study name
+
+The MIRO II study: microbial restoration in inflammatory bowel diseases (MIRO II)
+
+# Methods
+
+Multicenter RCT conducted in Australia
+
+# Participants
+
+# Inclusion criteria
+
+- • Active CD
+- • Age 18–70 years
+
+# Exclusion criteria
+
+- • Active perianal or fistulizing disease, symptomatic stricture likely to require surgical treatment, PSC, enteropathy or colitis other than CD, active gastrointestinal infection
+- • Presence of stoma or ileoanal pouch
+- • Pregnancy
+- • Immunodeficiency (beyond that caused by immunosuppressants used with IBD), e.g. HIV or common variable immune deficiency
+- • Prednisolone dose > 20 mg or budesonide dose > 6 mg
+- • Alcohol consumption of a dependent nature
+- • Recent overseas travel
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

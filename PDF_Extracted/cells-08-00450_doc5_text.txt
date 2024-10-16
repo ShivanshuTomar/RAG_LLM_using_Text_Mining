@@ -1,0 +1,13 @@
+# Cells 2019, 8, 450
+
+# Table 1. Summary of metabolite-sensing G protein-coupled receptors (GPCRs).
+
+|Receptor|Ligands|G Protein|Main Expression|Effects on Immune System|Effects on Metabolism|Key IBD-Related Findings|
+|---|---|---|---|---|---|---|
+|GPR41 (FFAR3)|SCFAs (C2–C6): butyrate, acetate, propionate, valerate|Gαi|Immune cells: peripheral blood monocular cells and macrophages. Enteroendocrine cells, adipocytes, pancreatic islets|DC cells maturation, Th2 development, anti-inflammatory|Regulation of energy balance|Protective effect in DSS and TNBS-induced colitis|
+|GPR43 (FFAR2)|SCFAs (C2–C6): butyrate, acetate, propionate, valerate, formate|Gαi/Gαq|Immune cells: neutrophils, eosinophils. Enteroendocrine cells, adipocytes, pancreatic islets|Tumor suppressor, anti-inflammatory|Loss of glucose tolerance, Impaired insulin secretion|Protective effect in DSS and TNBS-induced colitis|
+|GPR109A (NACR1)|SCFAs (C4–C8): butyrate and nicotinic acid (niacin)|Gαi/Gαq|Immune cells: DC, neutrophils and macrophages. Intestinal epithelial cells, adipocytes|Inhibition of pro-inflammatory cytokines secretion, anti-inflammatory|Regulation of insulin secretion and glucose tolerance|Protective effect in DSS-induced colitis|
+|GPR40 (FFAR1)|C12–C18: medium and long-chain fatty acids|Gαq/11|Pancreatic cells, Enteroendocrine K cells|Anti-inflammatory|Regulation of insulin secretion and glucose tolerance|Protective effect in DSS-induced colitis, Ameliorate intestinal epithelial barrier|
+|GPR84|C9–C14: medium-chain fatty acids|Gαi|Immune cells: leucocytes, neutrophils and macrophages. Adipocytes|Unclear|Unclear|Unstudied|
+|GPR120 (FFAR4)|(C12–C22): long-chain fatty acids, unsaturated, ω-3 and ω-6 fatty acids|Gαi/Gαq|Immune cells: macrophages, DC, eosinophils. Adipocytes and colon enteroendocrine cells|Inhibition of pro-inflammatory cytokines secretion|Regulation of insulin secretion|Protective effect in IL-10−/− induced chronic colitis, Induce the secretion of antimicrobial peptides|
+|GPR35|kynurenic acid, lysophosphatidic acid and pamoic acid|Gαi|Immune cells: DC, monocytes, neutrophils, macrophages. Intestinal epithelial cells and nervous tissues|Leukocyte recruitment|Unstudied|Protective effect in DSS-induced colitis|

@@ -1,0 +1,52 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# T A B L E O F C O N T E N T S
+
+|ABSTRACT|1|
+|---|---|
+|PLAIN LANGUAGE SUMMARY|2|
+|SUMMARY OF FINDINGS|4|
+|BACKGROUND|10|
+|OBJECTIVES|11|
+|METHODS|11|
+|RESULTS|14|
+|Figure 1|15|
+|Figure 2|19|
+|Figure 3|21|
+|Figure 4|21|
+|Figure 5|22|
+|Figure 6|23|
+|DISCUSSION|25|
+|AUTHORS' CONCLUSIONS|27|
+|ACKNOWLEDGEMENTS|28|
+|REFERENCES|29|
+|CHARACTERISTICS OF STUDIES|39|
+|DATA AND ANALYSES|96|
+|Analysis 1.1. Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 1: Induction of clinical remission in UC at longest follow-up|99|
+|Analysis 1.2. Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 2: Induction of clinical remission in UC at 8 weeks|100|
+|Analysis 1.3. Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 3: Induction of clinical remission in UC at 12 weeks|100|
+|Analysis 1.4. Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 4: Induction of clinical remission in UC at longest follow-up: subgroup analysis by route of administration|101|
+|Analysis 1.5. Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 5: Induction of clinical remission in UC at longest follow-up: subgroup analysis by type of donor|102|
+|Analysis 1.6. Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 6: Induction of clinical remission in UC at longest follow-up: subgroup analysis by age|103|
+|Analysis 1.7. Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 7: Induction of clinical remission in UC at longest follow-up: subgroup analysis by frequency of FMT|104|
+|Analysis 1.8. Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 8: Induction of clinical remission in UC at longest follow-up: sensitivity analysis using fixed-effect model|105|
+|Analysis 1.9. Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 9: Induction of clinical remission in UC at longest follow-up: sensitivity analysis for available cases|105|
+|Analysis 1.10. Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 10: Induction of clinical remission in UC at longest follow-up: composite of clinical score and endoscopic score|106|
+|Analysis 1.11. Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 11: Serious adverse events for induction of remission in UC|106|
+|Analysis 1.12. Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 12: Serious adverse events for induction of remission in UC: subgroup analysis by route of administration|107|
+|Analysis 1.13. Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 13: Serious adverse events for induction of remission in UC: subgroup analysis by type of donor|108|
+|Analysis 1.14. Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 14: Serious adverse events for induction of remission in UC: subgroup analysis by age|109|
+|Analysis 1.15. Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 15: Serious adverse events for induction of remission in UC: sensitivity analysis using fixed-effect model|110|
+|Analysis 1.16. Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 16: Serious adverse events for induction of remission in UC: sensitivity analysis for available cases| |
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

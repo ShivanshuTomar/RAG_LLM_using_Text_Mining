@@ -1,0 +1,44 @@
+# Cochrane Library
+
+# Crothers 2021 (Continued)
+
+Trusted evidence. Informed decisions. Better health.
+
+# Cochrane Database of Systematic Reviews
+
+Funding: University of Vermont Larner College of Medicine, the Departments of Medicine and Pathology & Laboratory Medicine (University of Vermont Medical Center), the National Institutes of Health (P30GM118228 [RCB]), (DK113800 [GMM]), the MIT Center for Microbiome Informatics and Therapeutics, and OpenBiome.
+
+# Risk of bias
+
+|Bias|Authors' judgement|Support for judgement|
+|---|---|---|
+|Random sequence generation (selection bias)|Low risk|Quote: "Eligible subjects were randomized 1:1 by a computer-generated randomization list maintained off-site at OpenBiome (Cambridge, MA) to ensure concealment of allocation and double blinding." (page 3)|
+|Allocation concealment (selection bias)|Low risk|Quote: "The treatment allocation was blinded to the subject, and all on-site investigators and staff." (page 3)|
+|Blinding of participants and personnel (performance bias)|Low risk|Quote: "The treatment allocation was blinded to the subject, and all on-site investigators and staff." (page 3)|
+|Blinding of outcome assessment (detection bias)|Low risk|Quote: "The treatment allocation was blinded to the subject, and all on-site investigators and staff." (page 3)|
+|Incomplete outcome data (attrition bias)|High risk|Comment: 1/7 (14.3%) were excluded from analysis in experimental group, while 2/8 (25%) were excluded from analysis in control group, though each group excluded 1 due to no evidence of disease and control group excluded 1 due to worsening symptoms of disease. (page 5)|
+|Selective reporting (reporting bias)|Low risk|Comment: all intended outcomes were reported in the paper. The trial was registered on ClinicalTrials.gov (NCT02390726).|
+|Other bias|Low risk|Comment: no other risk of bias noted.|
+
+# Fang 2021
+
+# Study characteristics
+
+# Methods
+
+Single-center, open-label RCT conducted in China
+
+# Participants
+
+# Inclusion criteria
+
+- Adults ages 18–75 years with recurrent active UC, hospitalized at the study center; those with Mayo score 4–12, previously on stable dosing of 5-ASA for ≥ 4 weeks but no other therapy (e.g. immunosuppressive agents, biologics, surgery)
+
+# Exclusion criteria
+
+- Pregnancy; history of abdominal surgery or FMT treatment; use of antibiotics, probiotics, or prebiotics within 4 weeks of study participation
+- Infections (e.g. Clostridioides difficile, CMV, EBV, extra-intestinal infections requiring antibiotics)
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

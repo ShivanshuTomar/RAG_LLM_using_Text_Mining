@@ -1,0 +1,39 @@
+# Tian et al. Microbiome
+
+# (2024) 12:130
+
+# Page 6 of 20
+
+compared to controls in both datasets, while that of virales (mainly composed of Microviridae) significantly decreased (Supplementary Fig. 4).
+
+# Identification of IBD‑associated viral signatures
+
+To determine the viral species associated with IBD, we conducted a case–control comparison of the vOTU composition in both the VLP and bulk viromes using the Wilcoxon rank‐sum test with Benjamini–Hochberg adjustment. This analysis identified a total of 139 vOTUs that displayed significant differences in relative abundances and consistent trends in case–control comparisons in both datasets (Fig. 3a; Supplementary Table 4); these vOTUs were designated IBD-associated gut viral signatures. Notably, a Fisher’s exact test analysis indicated a high level of agreement in the identification of differential vOTUs between the two datasets (odds ratio = 163; p < 0.001), signifying that these IBD-associated markers.
+
+|IBD-enriched vOTUs|control-enriched vOTUs|
+|---|---|
+|Ko6909: phage terminase large subunit|PF06114.14 Peptidase_M78|
+|PF05133.15 Phage_prot Gp6PF13479.AAA 24|PFO8605.12 Prophage_tail|
+|PFO5709.12 Sipho_tail|04069. pyruvate formate lyase activating enzyme|
+|PF09682.11 Phage_K01160 RusAholin|PF04883.13 Phage_tail HK97-gp10_like|
+|K21636: nrdD|PF02413.18 tail fibre assembly protein|
+|PF05382.14 Amidase|PF14265.7 DUF4355|
+|K16398. ATP-dependent nuclease subunit A|PF13356_ Arm-DNA-bind|
+|Fisher P<0.001|K02335 polA; DNA polymerase|
+|K06191: nrdH|PF09956.10 DUF219O|
+|PF12363 = Phage TAC_12|PF16775.5 ZoocinA_TRD|
+|PF18819.2 MuF|K04763: xerD; integraselrecombinase XerD|
+|K01447: N-acetylmuramoyl-L-alanine amidase|K00986: ItrA ; RNA-directed DNA polymerase|
+|K03205: type IV secretion system protein VirD4|PF03432.15 Relaxase|
+|K03496 chromosome partitioning protein|PFO5713.12 Mobc|
+|PF12957 . DUF3846|K03088: RNA polymerase sigma-70 factor|
+|K12053 comB4- ComB4 competence protein|PF12866. Prgl|
+|PF18291. HU-HIG| |
+
+# Occurrence ratio (%)
+
+|Others|mqultipic|Unclassifed|
+|---|---|---|
+| | | |
+
+Fig. 3 Identification of IBD-associated vOTUs and exploration of their prokaryotic hosts and potential functions. a Scatter plot of q-values of vOTUs in the VLP and bulk datasets. Red and blue nodes represent the vOTUs that are significantly enriched in the viromes of IBD patients and healthy controls, respectively, with the same tendency in the VLP and bulk datasets. Statistical significance is determined using the Wilcoxon rank-sum test with Benjamini–Hochberg adjustment. b Distribution of the taxonomic annotation and host assignment of the IBD-enriched and control-enriched vOTUs. The vOTUs are grouped at the family level, and the prokaryotic host taxa are also shown at the family level. c Occurrence rates of 40 differential functions in IBD-enriched and control-enriched vOTUs. Red and blue nodes represent the IBD-enriched and control-enriched vOTUs, respectively. Statistical significance is determined using Fisher’s exact test with Benjamini–Hochberg adjustment, and a q < 0.05 was considered statistically significant.

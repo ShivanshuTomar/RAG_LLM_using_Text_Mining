@@ -1,0 +1,34 @@
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+# Cochrane
+
+Trusted evidence. Informed decisions. Better health.
+
+# Clinical Trials
+
+|Trial ID|Description|First Received|
+|---|---|---|
+|NCT04436874|Oral fecal microbiota transplantation in pediatric ulcerative colitis (T-FORE).|18 June 2020|
+|NCT05202990|Oral fecal microbiota transplantation in pediatric ulcerative colitis (T-FORE).|24 January 2022|
+|NCT03006809|Optimal fecal microbiota transplant dosing for mild to moderate ulcerative colitis.|30 December 2016|
+|NCT03016780|Fecal microbiota transplantation for ulcerative colitis (FMTFUC).|11 January 2017|
+|UMIN000025846|A trial of a combination therapy of fecal microbial transplantation and antibiotics for inflammatory bowel disease.|1 February 2017|
+|UMIN000026485|Research on the efficacy of fecal microbiota transplantation and microbiota in Japanese children with ulcerative colitis.|9 March 2017|
+|UMIN000041968|Single center randomized study: alginate combined fecal microbiota transplantation for ulcerative colitis.|1 October 2020|
+|NCT01793831|Standardized fecal microbiota transplantation for Crohn's disease.|18 February 2013|
+
+# Published Studies
+
+- Okahara K, Ishikawa D, Nomura K, Ito S, Haga K, Takahashi M, et al. Matching between donors and ulcerative colitis patients is important for long-term maintenance after fecal microbiota transplantation. Journal of Clinical Medicine 2020;9(6):1650.
+- Osaki H, Jodai Y, Koyama K, Omori T, Horiguchi N, Kamano T, et al. Clinical response and changes in the fecal microbiota and metabolite levels after fecal microbiota transplantation in patients with inflammatory bowel disease and recurrent Clostridioides difficile infection. Fujita Medical Journal 2021;7(3):87-98.
+- Quraishi MN, Yalchin M, Blackwell C, Segal J, Sharma N, Hawkey P, et al. STOP-Colitis pilot trial protocol: a prospective, open-label, randomised pilot study to assess two possible routes of faecal microbiota transplant delivery in patients with ulcerative colitis. BMJ Open 2019;9(11):e030659.
+- Quraishi N, Quince C, Hewitt C, Beggs A, Gerasimidis K, Sharma N, et al. Novel interactions between bacterial strains and mucosal immune profiles after FMT for UC: STOP-colitis results. Gut 2022;71:A28.
+- Rainer F, Blesl A, Petritsch W, Wenzl HH, Baumann-Durchschein F, Posch A, et al. Frozen donor stool for fecal microbiota transplantation is as effective as fresh stool in inducing response and remission in active ulcerative colitis. United European Gastroenterology Journal 2018;6(Suppl 8):A69-70.
+- Silber J, Norman J, Kanno T, Crossette E, Szabady R, Menon R, et al. Randomized, double-blind, placebo (pbo)-controlled, single- and multiple-dose phase 1 study of VE202, a defined bacterial consortium for treatment of IBD: safety and colonization dynamics of a novel live biotherapeutic product (LBP) in healthy adults. Gastroenterology 2022;162(3):S65-6.
+- Sood A, Mahajan R, Juyal G, Midha V, Grewal CS, Mehta V, et al. Efficacy of fecal microbiota therapy in steroid dependent ulcerative colitis: a real world intention-to-treat analysis. Intestinal Research 2019;17(1):78-86.
+- Steube A, Vital M, Grunert P, Pieper DH, Stallmach A. Long-term multidonor faecal microbiota transfer by oral capsules for active ulcerative colitis. Journal of Crohn's and Colitis 2019;13(11):1480-1.
+- Wei Y, Gong J, Zhu W, Tian H, Ding C, Gu L, et al. Pectin enhances the effect of fecal microbiota transplantation in ulcerative colitis by delaying the loss of diversity of gut flora. BMC Microbiology 2016;16(1):255.
+- Xiang L, Ding X, Li Q, Wu X, Dai M, Long C, et al. Efficacy of faecal microbiota transplantation in Crohn's disease: a new target treatment? Microbial Biotechnology 2020;13(3):760-9.
+- Yang Z, Bu C, Yuan W, Shen Z, Quan Y, Wu S, et al. Fecal microbiota transplant via endoscopic delivering through small.
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

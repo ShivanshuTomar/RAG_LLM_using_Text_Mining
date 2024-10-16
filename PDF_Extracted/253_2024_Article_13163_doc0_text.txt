@@ -1,0 +1,46 @@
+# Applied Microbiology and Biotechnology
+
+# (2024) 108:333
+
+# https://doi.org/10.1007/s00253-024-13163-w
+
+# APPLIED MICROBIAL AND CELL PHYSIOLOGY
+
+# Dual engineered bacteria improve inflammatory bowel disease in mice
+
+Yong‑Qi Wu 1 · Zhen‑Ping Zou1 · Ying Zhou 1 · Bang‑Ce Ye1,2
+
+Received: 9 August 2023 / Revised: 23 April 2024 / Accepted: 28 April 2024
+
+© The Author(s) 2024
+
+# Abstract
+
+Currently, there are many different therapies available for inflammatory bowel disease (IBD), including engineered live bacterial therapeutics. However, most of these studies focus on producing a single therapeutic drug using individual bacteria, which may cause inefficacy. The use of dual drugs can enhance therapeutic effects. However, expressing multiple therapeutic drugs in one bacterial chassis increases the burden on the bacterium and hinders good secretion and expression. Therefore, a dual-bacterial, dual-drug expression system allows for the introduction of two probiotic chassis and enhances both therapeutic and probiotic effects. In this study, we constructed a dual bacterial system to simultaneously neutralize pro-inflammatory factors and enhance the anti-inflammatory pathway. These bacteria for therapy consist of Escherichia coli Nissle 1917 that expressed and secreted anti-TNF-α nanobody and IL-10, respectively. The oral administration of genetically engineered bacteria led to a decrease in inflammatory cell infiltration in colon and a reduction in the levels of pro-inflammatory cytokines. Additionally, the administration of engineered bacteria did not markedly aggravate gut fibrosis and had a moderating effect on intestinal microbes. This system proposes a dual-engineered bacterial drug combination treatment therapy for inflammatory bowel disease, which provides a new approach to intervene and treat IBD.
+
+# Key points
+
+- The paper discusses the effects of using dual engineered bacteria on IBD
+- Prospects of engineered bacteria in the clinical treatment of IBD
+
+# Keywords
+
+Engineered bacteria · Inflammatory bowel disease · E.coli Nissle 1917 · Anti-TNF-α nanobody · IL-10
+
+# Introduction
+
+Inflammatory bowel disease (IBD) is a serious gastrointestinal disorder that typically presents with symptoms, such as diarrhea, abdominal discomfort, bloody stools and weight loss. Persistent inflammation may elevate the likelihood of developing severe conditions, including colorectal cancer (Chen et al. 2023). The main therapeutic agents for IBD currently include chemotherapeutic agents (aminosalicylics) and protein drugs (infliximab and adalimumab). These drugs are typically administered systemically via intravenous injection to treat IBD (Chen et al. 2023). It is worth noting that intravenous administration of protein drugs is prone to adverse reactions, with a higher incidence of allergic reactions than that oral administration (Hanauer et al. 2002; Lichtenstein et al. 2006). Oral administration of engineered live bacterial therapeutics can partially overcome these disadvantages (Harimoto et al. 2022; Li et al. 2021). Praveschotinunt et al. (2019) orally administered engineered Escherichia coli Nissle 1917 (EcN) that secreted fibrous matrices to mice with dextran sodium sulfate (DSS)-induced colitis, which effectively promoted gut epithelial integrity in situ. The daily oral administration of Lactobacillus secreting anti-mTNF nanobodies achieved targeted delivery to the
+
+Yong-Qi Wu and Zhen-Ping Zou contributed equally to this work.
+
+* Ying Zhou
+zhouying@ecust.edu.cn
+
+* Bang-Ce Ye
+bcye@ecust.edu.cn
+
+1 Laboratory of Biosystems and Microanalysis, State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology, Shanghai 200237, China
+
+2 Institute of Engineering Biology and Health, Collaborative Innovation Center of Yangtze River Delta Region Green Pharmaceuticals, College of Pharmaceutical Sciences, Zhejiang University of Technology, Hangzhou, Zhejiang 310014, China
+
+Published online: 13 May 2024

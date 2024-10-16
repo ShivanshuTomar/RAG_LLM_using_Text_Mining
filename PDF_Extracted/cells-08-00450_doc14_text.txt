@@ -1,0 +1,24 @@
+# Cells 2019, 8, 450
+
+# References
+
+1. Lee, D.; Albenberg, L.; Compher, C.; Baldassano, R.; Piccoli, D.; Lewis, J.D.; Wu, G.D. Diet in the pathogenesis and treatment of inflammatory bowel diseases. Gastroenterology 2015, 148, 1087–1106. [CrossRef]
+2. Khalili, H.; Malik, S.; Ananthakrishnan, A.N.; Garber, J.J.; Higuchi, L.M.; Joshi, A.; Peloquin, J.; Richter, J.M.; Stewart, K.O.; Curhan, G.C.; et al. Identification and Characterization of a Novel Association between Dietary Potassium and Risk of Crohn’s Disease and Ulcerative Colitis. Front. Immunol. 2016, 7, 554. [CrossRef]
+3. Ananthakrishnan, A.N.; Khalili, H.; Song, M.; Higuchi, L.M.; Richter, J.M.; Chan, A.T. Zinc intake and risk of Crohn’s disease and ulcerative colitis: A prospective cohort study. Int. J. Epidemiol. 2015, 44, 1995–2005. [CrossRef]
+4. Investigators, I.B.D.i.E.S.; Tjonneland, A.; Overvad, K.; Bergmann, M.M.; Nagel, G.; Linseisen, J.; Hallmans, G.; Palmqvist, R.; Sjodin, H.; Hagglund, G.; et al. Linoleic acid, a dietary n-6 polyunsaturated fatty acid, and the aetiology of ulcerative colitis: A nested case-control study within a European prospective cohort study. Gut 2009, 58, 1606–1611. [CrossRef]
+5. Fallani, M.; Young, D.; Scott, J.; Norin, E.; Amarri, S.; Adam, R.; Aguilera, M.; Khanna, S.; Gil, A.; Edwards, C.A.; et al. Intestinal microbiota of 6-week-old infants across Europe: Geographic influence beyond delivery mode, breast-feeding, and antibiotics. J. Pediatr. Gastroenterol. Nutr. 2010, 51, 77–84. [CrossRef]
+6. Nabhani, Z. A Weaning Reaction to Microbiota Is Required for Resistance to Immunopathologies in the Adult. Immunity 2019. [CrossRef]
+7. Brown, K.; DeCoffe, D.; Molcan, E.; Gibson, D.L. Diet-induced dysbiosis of the intestinal microbiota and the effects on immunity and disease. Nutrients 2012, 4, 1095–1119. [CrossRef]
+8. David, L.A.; Maurice, C.F.; Carmody, R.N.; Gootenberg, D.B.; Button, J.E.; Wolfe, B.E.; Ling, A.V.; Devlin, A.S.; Varma, Y.; Fischbach, M.A.; et al. Diet rapidly and reproducibly alters the human gut microbiome. Nature 2014, 505, 559–563. [CrossRef]
+9. Klingbeil, E.; de La Serre, C.B. Microbiota modulation by eating patterns and diet composition: Impact on food intake. Am. J. Physiol. Regul. Integr. Comp. Physiol. 2018, 315, R1254–R1260. [CrossRef] [PubMed]
+10. Wu, G.D.; Chen, J.; Hoffmann, C.; Bittinger, K.; Chen, Y.Y.; Keilbaugh, S.A.; Bewtra, M.; Knights, D.; Walters, W.A.; Knight, R.; et al. Linking long-term dietary patterns with gut microbial enterotypes. Science 2011, 334, 105–108. [CrossRef]
+11. De Filippo, C.; Cavalieri, D.; Di Paola, M.; Ramazzotti, M.; Poullet, J.B.; Massart, S.; Collini, S.; Pieraccini, G.; Lionetti, P. Impact of diet in shaping gut microbiota revealed by a comparative study in children from Europe and rural Africa. Proc. Natl. Acad. Sci. USA 2010, 107, 14691–14696. [CrossRef] [PubMed]
+12. Zimmer, J.; Lange, B.; Frick, J.S.; Sauer, H.; Zimmermann, K.; Schwiertz, A.; Rusch, K.; Klosterhalfen, S.; Enck, P. A vegan or vegetarian diet substantially alters the human colonic faecal microbiota. Eur. J. Clin. Nutr. 2012, 66, 53–60. [CrossRef] [PubMed]
+13. N, I.J.; Derrien, M.; van Doorn, G.M.; Rijnierse, A.; van den Bogert, B.; Muller, M.; Dekker, J.; Kleerebezem, M.; van der Meer, R. Dietary heme alters microbiota and mucosa of mouse colon without functional changes in host-microbe cross-talk. PLoS ONE 2012, 7, e49868. [CrossRef]
+14. Ijssennagger, N.; Belzer, C.; Hooiveld, G.J.; Dekker, J.; van Mil, S.W.; Muller, M.; Kleerebezem, M.; van der Meer, R. Gut microbiota facilitates dietary heme-induced epithelial hyperproliferation by opening the mucus barrier in colon. Proc. Natl. Acad. Sci. USA 2015, 112, 10038–10043. [CrossRef]
+15. Turnbaugh, P.J.; Ridaura, V.K.; Faith, J.J.; Rey, F.E.; Knight, R.; Gordon, J.I. The effect of diet on the human gut microbiome: A metagenomic analysis in humanized gnotobiotic mice. Sci. Transl. Med. 2009, 1, 6ra14. [CrossRef]
+16. Flint, H.J.; Scott, K.P.; Louis, P.; Duncan, S.H. The role of the gut microbiota in nutrition and health. Nat. Rev. Gastroenterol. Hepatol. 2012, 9, 577–589. [CrossRef]
+17. Marcobal, A.; Kashyap, P.C.; Nelson, T.A.; Aronov, P.A.; Donia, M.S.; Spormann, A.; Fischbach, M.A.; Sonnenburg, J.L. A metabolomic view of how the human gut microbiota impacts the host metabolome using humanized and gnotobiotic mice. ISME J. 2013, 7, 1933–1943. [CrossRef]
+18. Cummings, J.H.; Macfarlane, G.T. Role of intestinal bacteria in nutrient metabolism. JPEN J. Parenter Enteral. Nutr. 1997, 21, 357–365. [CrossRef] [PubMed]
+19. Topping, D.L.; Clifton, P.M. Short-chain fatty acids and human colonic function: Roles of resistant starch and nonstarch polysaccharides. Physiol. Rev. 2001, 81, 1031–1064. [CrossRef] [PubMed]
+20. Macfarlane, S.; Macfarlane, G.T. Regulation of short-chain fatty acid production. Proc. Nutr. Soc. 2003, 62, 67–72. [CrossRef] [PubMed]

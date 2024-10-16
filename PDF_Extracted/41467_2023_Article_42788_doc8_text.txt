@@ -1,0 +1,33 @@
+# Article
+
+# Fig. 4 | Demonstration of Metabolomic Alterations across Different IBD Cohorts and Utilization of Signature Metabolites for IBD Diagnosis
+
+a Overall composition of the population across 4 metabolomics datasets (n = 398).
+
+b A principal coordinates analysis (PCoA) was performed on individuals from the Puxi cohort. The analysis showed significant differences in metabolites composition between control (n = 25) and IBD (n = 83) (P = 0.001), as determined by PERMANOVA using Bray-Curtis distance with 999 permutations (two-sided test).
+
+c Orthogonal Partial Least Squares Discriminant Analysis (OPLS-DA) model of Puxi cohort individuals based on gut metabolomic profiles (Q2Y: 0.618). The full model’s predictive performance is evaluated using the cumulative Q2Y metric: Q2Y ranges from 0 to 1, and the higher the Q2Y, the better the performance. OPLS-DA model validation utilizes a permutation test (permI = 200, two-sided test), which is a nonparametric test.
+
+d The presented bar graph depicts metabolites that demonstrate significant differences between normal controls and IBD, with their significance scores calculated using a two-sided Wilcoxon test with FDR-corrected P values (cut-off value: P < 0.0001, denoted as ****). Each bar on the graph shows a white number that signifies the VIP score of the OPLS-DA model. The colors of the bars represent various categories of metabolites, with blue star-marked bars indicating metabolites that are depleted in IBD, while unmarked bars represent enriched metabolites in IBD. Exact p values are provided in the Source data file (Supplementary Table 5).
+
+e The workflow for identifying metabolites across four cohorts involved annotating with the Human Metabolome Database (HMDB).
+
+f The ridge plot shows the concentration differences of 13 featured metabolites between the normal control and IBD (Unit: log2 (μmol/g)). Their significance scores calculated using a two-sided Wilcoxon test with FDR-corrected p values (denoted as ****p < 0.0001). Exact p values are provided in the Source data file.
+
+g, h We developed random forest (RF) classifiers trained on metabolites to identify IBD patients. We performed 10-fold cross-validation (red), leave-one-out cross-validation (LOOCV) (blue) and independent validation (green). Shaded areas represent the 95% confidence intervals of the corresponding ROC curves. Source data are provided as a Source Data file.
+
+Reduction in the symbiotic bacterial community involved in urea metabolism leads to the downregulation of K01476 (rocF, arginase), ultimately resulting in urea accumulation. These findings indicate that the gut microbial biotransformation is impaired in patients with IBD, resulting from a substantial reduction in the gut commensal community.
+
+# Identification of multi-omics biomarkers for distinguishing subtypes of IBD
+
+As the treatment strategies for UC and CD differ significantly, we next aimed to identify a subset of markers from the multi-omics panel mentioned above that could distinguish between the two subtypes of IBD. Using the IFE approach, we selected 12 features from the multi-omics panel. The RF model revealed that the 12 selected markers could effectively differentiate between UC and CD.
+
+The AUROC values for 10-fold cross-validation and LOOCV were approximately 0.8 in both internal and external cohorts, with independent validation achieving values above 0.7. This sub-panel can aid clinicians in further categorizing the disease following the diagnosis of IBD.
+
+# Discussion
+
+Although previous studies have utilized fecal biomarkers for diagnosing IBD, there are still two unresolved issues: the reliable reproducibility of biomarkers obtained from fecal samples across different cohorts and populations, and whether it’s possible to further enhance the diagnostic performance of the existing fecal diagnostic model.
+
+In this study, we integrated metagenomic and metabolomic data from multiple cohorts to identify 31 species, 25 KO genes and 13 metabolites distinguishing normal control from IBD cases. These biomarkers demonstrate robust reproducibility across various cohorts. In contrast to the current invasive gold standard for diagnosing IBD, colonoscopic examination, we have demonstrated the potential of utilizing gut fecal microbiota and metabolites as a non-invasive approach to diagnosis, which contributes to the early detection and prediction of IBD, facilitating timely interventions and reducing the risk of complications.
+
+Moreover, through the integration of diverse omics data, we have achieved a significant enhancement in the performance of our machine learning models for diagnosing IBD, achieving an AUROC value of 0.98 in Renji cohorts, compared to previous non-invasive diagnostic models. Furthermore, we have successfully pinpointed a subset of markers from the multi-omics panel that exhibit the remarkable ability to distinguish between UC and CD with an impressive average AUROC value of up to 0.8. This discovery offers a promising potential for a non-invasive biomarker that could play a pivotal role in clinically categorizing distinct subtypes of IBD.

@@ -1,0 +1,21 @@
+# Knights et al. Genome Medicine 2014, 6:107
+
+Page 4 of 11
+
+http://genomemedicine.com/content/6/12/107
+
+# Recode 5 categoricals
+
+Meds, Remove = redundant-diagnosis, biopsy type, age, variates etc.
+
+# Clinical metadata
+
+# Figure 1
+
+Schematic of multiomics genotype-microbiome association testing methodology. Host genome-microbiome association testing involves potentially thousands or millions of genetic polymorphisms and hundreds or thousands of bacterial taxa and genes. Full feature-by-feature association testing is likely to be underpowered in all but the largest cohorts or meta-analyses; therefore, our methodology includes careful feature selection from both data types. Raw genetic polymorphisms were derived from Immunochip data and filtered by known IBD associations from a large-cohort GWAS study [1]. Microbiome sequences were binned by lineage at all taxonomic levels. After data normalization and filtering (see Methods), a simple linear test was performed for association between minor allele count and bacterial taxon relative abundance while controlling for clinical covariates. QTL, quantitative trait loci.
+
+We chose the FDR of 0.25 for this analysis due to the large number of tests and the fact that we used the significant results mainly to test for enrichment of certain host pathways, rather than to focus on individual associations. We note that it is important to compare only the directionality of SNP-taxon effects between studies, and not the magnitudes of the SNP-taxon regression coefficients, because the magnitude of a coefficient is closely linked to the mean relative abundance of a given taxon. To decrease bias toward a particular taxonomic level of association, we performed these tests using bacterial taxa at all taxonomic levels from phylum to genus, collapsing those with redundant signals. In contrast to using OTU clusters, binning by taxonomy allows inherent flexibility in the level of 16S gene sequence identity within each bin in different lineages.
+
+A number of host genes, some with known involvement in microbial handling, and others with unknown function, demonstrated reproducible effects on the taxonomic structure of the microbiome across two or more cohorts. Effect size and directionality of genotype-microbiome associations were highly reproducible between cohorts in the case of NOD2 and 48 other host genes (FDR <0.25; Additional file 4). NOD2 had one of the most highly reproducible sets of associations with bacterial taxa (MCC = 0.75, FDR = 2.6 × 10-4 comparing Boston versus Netherlands; Figure 2a). Other genes with significantly conserved directionality of effects on bacterial taxa between at least one pair of studies included tumor necrosis factor (ligand) superfamily, member 15 (TNFSF15; MCC = 0.87, FDR = 9.5 × 10-3, Boston versus Netherlands) and subunit beta of interleukin 12 (IL12B; MCC = 0.74, FDR = 1.5 × 10-3, Boston versus Netherlands).
+
+NOD2 variants were the first genetic associations identified in CD, and they remain some of the strongest risk factors. NOD2-driven murine dysbiosis causes inflammation even when the dysbiotic microbiota are transplanted into a wild-type mouse [13]. Expression of TNFSF15, a member of the tumor necrosis factor ligand superfamily, causes proinflammatory cytokine production, and is specifically expressed more highly in the gut in IBD patients compared with healthy controls. Interestingly, a receptor for a member of the same family, TNFSF14, enhances immune response to pathogenic bacteria via signal transducer and activator of transcription 3 (STAT3) activation.

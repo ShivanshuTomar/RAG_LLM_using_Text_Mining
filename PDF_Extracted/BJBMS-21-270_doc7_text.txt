@@ -1,0 +1,29 @@
+# Dikhnah Alshehri, et al.: Gut microbiota in IBD therapy
+
+of mucosal healing [117]. The most frequently used anti-TNF agents in clinical practice are IFX and ADA [118,119]. Notwithstanding the considerable success achieved by antibody-based treatments, there remains a largely unmet clinical need for novel therapeutic approaches for the sub-groups of patients that fail to respond to IFX or ADA (primary non-response) or show loss of response over time (secondary-loss of response) [99]. For example, about 30% of CD patients show no response to the anti-TNF antibody, whereas 50% experience a steady loss of response to anti-TNF therapy after primary clinical response [113]. According to the microbiota dysbiosis theory of IBD pathogenesis, effective treatments for IBD should somehow affect the composition of gut microbiota. It is possible that the dysbiosis that has been reported as a hallmark of IBD can be restored to a normal state in patients that respond to anti-TNF therapies. However, there is insufficient evidence of a positive relationship between anti-TNF drugs and rebalancing of the GI microbiota composition or the impact of anti-TNF drugs on microbiota in long-term disease outcomes.
+
+In a study investigating the effect of using anti-TNF therapies on the fecal microbiota composition of UC patients, fecal samples at baseline were obtained from four patients who responded to treatment and from three patients that were primary non-responders [120]. Samples were also collected from eight responders and seven non-responders at week 2, as well as from eight responders and five non-responders at week 6. The study found that responders had lower average dysbiosis scores than non-responders. Also, a higher abundance of F. prausnitzii was observed in responders at every time point (Figure 3). Recolonization of F. prausnitzii is known to be associated with maintaining remission after CD relapse [121].
+
+# FIGURE 3. Faecalibacterium prausnitzii in responders to anti-TNF compared to non-responders, reproduced from Yoshihara et al. [113].
+
+| |Responders|Non-responders|
+|---|---|---|
+|p=0.01|0.010|0.001|
+|p-0|O0O1|1|
+|p=0.003|1|1|
+
+A study by Li et al. investigated Chinese pediatric patients with CD who were treated with IFX, assessing the dynamic changes in microbiota during treatment and the influence of the anti-TNF agent on the composition of microbiota. Their results suggested that IFX altered the structure of the gut microbiome and its metabolic function. Furthermore, they found that CD-correlated GI microbial dysbiosis was characterized by a significant increase in the number of SCFA-producing bacterial taxa, such as Anaerostipes, Blautia, Coprococcus, Faecalibacterium, Lachnospira, Odoribacter, Roseburia, Ruminococcus, and Sutterella [122].
+
+Although immunosuppressive drugs have been proven to be effective for the treatment of IBD, significant limitations in these therapies have been found, such as being successful only in subsets of patients and with risks of adverse effects [123]. There is, thus, a need for non-immunosuppressive treatments that selectively focus on the distribution of gut microbiota related to IBD [100]. Studying how these therapies may perturb and or reconstitute the gut microbiota is essential to determine what aspects of the structural changes to the gut microbiome in active colitis and treatment-induced remission can be targeted by therapeutics.
+
+Broadly, there is evidence of intestinal dysbiosis in IBD and evidence for the symbiotic relationship between intestinal microbiota and the intestinal immune system. Current therapies are expected to influence the diversity of gut microbiota in treated patients and there is potential for microbiome-modulating therapeutic approaches in preventing relapsing colitis.
+
+# POTENTIAL THERAPIES FOR IBD BY MODULATING MICROBIOME COMPOSITION AND FUNCTION
+
+The main goal of current IBD therapeutic approaches is the induction and maintenance of remission. Continued remission of the disease can be achieved through traditional treatments, such as corticosteroids or biologics, combined with some physiologic, and less toxic treatments that can specifically modulate microbiota composition. One approach for treating IBD is to initially target inflammation by modulating the microbiota. This alternative therapeutic approach, which is called microbiome-modulating therapy [124], can enable the correction of dysbiosis, restitution of normal microbial function, normalization of the immune system responses, and repair of epithelial barrier deficiencies. Therefore, there is an increasing need for developing novel therapeutic approaches that can fully cure or even prevent IBD.
+
+Many other promising approaches have been suggested for treating IBD, such as probiotics, prebiotics, fecal microbiota transplantation, synthetic combinations of specific bacteria, and personalized therapies based on individual microbiome profiles; the latter customizes a patient’s diet and applies highly selective antibiotics for major aggressive bacterial species. Other novel but hypothetical approaches include stimulation of the protective host pathways via synthetic microbial metabolites or using recombinant bacterial species, utilizing bacteriophages to target aggressive microbes, and disabling.
+
+Bosn J Basic Med Sci. 2021;21(3):270-283
+
+www.bjbms.org

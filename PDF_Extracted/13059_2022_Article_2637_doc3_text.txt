@@ -1,0 +1,32 @@
+# Abbas-Egbariya et al. Genome Biology (2022) 23:61
+
+# Table 1 (continued)
+
+|Disease|Study|Cases|Controls|Country|Reads (mean)|Reads (median)| |
+|---|---|---|---|---|---|---|---|
+|IBD‑Ulcerative Colitis|American Gut Project|39|66|USA|16149|16209| |
+|(n = 5)|Contijoch, Britton [21]|109|35|multi|58202|57492| |
+| |aGevers, Kugathasan [2]|85|29|USA|22600|21069| |
+| |Mar, LaMere [25]|30|13|USA|103111|91547| |
+| |Zhou, Xu [24]|73|69|China|3974|3948| |
+|Irritable bowel syndrome|American Gut Project|444|717|USA|15510|13368| |
+|(n = 3)|Pozuelo, Panda [26]|110|66|Spain|37606|37624| |
+| |UK Twins Project|21|22|UK|60589|58436| |
+|Lupus|(n = 1)|14|17|USA|27159|25961| |
+|Obesity|(n = 4)|American Gut Project|503|436|USA|15842|13939|
+| |de la Cuesta‑Zuluaga, Corrales‑Agudelo [28]|172|269|Colombia|30051|25461| |
+| |Vangay, Johnson [29]|24|151|multi|4507|3500| |
+| |UK Twins Project|33|40|UK|68091|64462| |
+|Pancreatitis|(n = 1)|Zhu, He [30]|145|35|China|18158|17881|
+|Parkinson’s|(n = 3)|Heintz‑Buschart, Pandey [31]|46|37|Germany|14819|14880|
+| |Hill‑Burns, Debelius [32]|213|135|USA|9561|9050| |
+| |Wallen, Appah [33]|524|316|USA|66616|66459| |
+|Psoriasis|(n = 1)|UK Twins Project|43|42|UK|66034|61304|
+|Rheumatoid arthritis|(n = 1)|UK Twins Project|34|40|UK|74062|64753|
+|Schizophrenia|(n = 2)|Nguyen, Kosciolek [34]|18|20|USA|21810|17053|
+| |Xu, Wu [35]|44|40|China|69747|70013| |
+|Total 28 disease|Total 59 case‑control comparisons|6337|6501| | | | |
+
+a Studies using biopsies
+
+To overcome these study-specific signals and facilitate comparison across disease cohorts, we devised a per-study effect size-based pipeline (Fig. 1). The concept is to calculate the case/control effect-size for each ASV within each disease cohort separately, and then perform the meta-analysis on these effect-sizes rather than on the ASV frequencies. Specifically, we first identified ASVs showing a potential case/control difference in at least one study. Since this initial screening is used to identify ASVs that are then further selected using additional statistical tests, and in order to prevent bias in ASV identification due to different cohort sizes, we selected a small subset of samples per study, with a high FDR (dsFDR< 0.25 [37]), in order to include as many studies and differentially abundant ASVs as possible (Fig. 1). Seven hundred thirty-one bacterial ASVs showing significant disease association in at least one cohort were combined (Fig. 1 heatmap), and the effect size [labeled herein as normalized rank mean difference

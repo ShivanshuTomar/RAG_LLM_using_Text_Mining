@@ -1,0 +1,9 @@
+# Article
+
+https://doi.org/10.1038/s41467-023-42788-0
+
+IBD, as it has been associated with creeping fat and intestinal strictures in Crohn’s disease and is inherently resistant to vancomycin29. In addition, Erysipelatoclostridium ramosum, a bacterium that has been documented sparsely in the studies, but appears to be more prevalent in IBD, as confirmed in multiple cohorts (Supplementary Fig. 2d). The role of this bacterium in the pathogenesis and progression of IBD is not yet fully understood, and therefore requires further investigation. Overall, our findings highlight the significant alterations in the gut microbiota of patients with IBD and the potential role of specific bacterial groups in the pathogenesis of this disease.
+
+Subsequently, we utilized a machine learning method (Random Forest, RF), for the diagnosis of IBD. To enhance the accuracy and interpretability of our model, as well as minimize the impact of redundant and irrelevant features, we utilized the Iterative Feature
+
+Nature Communications | (2023)14:7135

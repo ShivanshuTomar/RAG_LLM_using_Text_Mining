@@ -1,0 +1,29 @@
+# Tian et al. Microbiome (2024) 12:130
+
+# Fig. 2 Diversity and structure of the gut virome associated with IBD
+
+|Eukaryotic virome|Prokaryotic virome|HC|
+|---|---|---|
+|1000|CD|UC|
+|100|2|8|
+|1|300|1|
+|100|I|8|
+| |3| |
+|HC|HC|CD|
+|HC|HC|HC|
+|PCoA1 5%| | |
+|1000|00o| |
+|100|1|g 1000|
+|13|CD|UC|
+|HC|CD|2|
+| |VLP virome| |
+|1| | |
+|8| | |
+|bulk virome| | |
+|1 1 1 1 1 7|1 1L 1 1 I L L7 J L|7 1 1|
+
+Boxplot showing the comparison of eukaryotic (a) and prokaryotic (b) viromes between IBD patients and healthy controls. Boxes represent the interquartile range between the first and third quartiles and the median (internal line). Whiskers denote the lowest and highest values within 1.5 times the range of the first and third quartiles, respectively; dots represent outlier samples beyond the whiskers. Wilcoxon rank-sum test: *p &lt; 0.05; **p &lt; 0.01; ***p &lt; 0.001. HC, healthy controls.
+
+c Principal coordinate analysis (PCoA) reveals the differences in the VLP (upper panel) and bulk (bottom panel) viromes of IBD patients and healthy controls. The samples are shown at the first and second principal coordinates (PCoA1 and PCoA2), and the ratio of variance contributed by these two PCs is shown. PERMANOVA adonis test: ***p &lt; 0.001; ns not significant. The ellipses represent a 95% confidence interval surrounding each group.
+
+d Family-level comparison of the VLP and bulk viromes of patients and controls. The bar plot shows p-values from the Wilcoxon rank-sum test for comparison between two groups. The direction (positive or negative) of the bars indicates how the average relative abundance of each family differs between the patient and control groups. The names of the eukaryotic viruses are bolded.

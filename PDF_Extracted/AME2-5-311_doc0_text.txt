@@ -1,0 +1,43 @@
+Received: 30 December 2021 | Accepted: 21 May 2022
+
+DOI: 10.1002/ame2.12255
+
+# R E V I E W
+
+# Association between intestinal microbiota and inflammatory bowel disease
+
+Yunchang Zhang1 | Xuemeng Si2,3 | Ling Yang4 | Hui Wang4 | Ye Sun5 | Ning Liu2,3
+
+1Ministry of Agriculture and Rural Affairs, Institute of Feed Research, Chinese Academy of Agricultural Sciences, Beijing, China
+
+2State Key Laboratory of Animal Nutrition, Department of Animal Nutrition and Feed Science, China Agricultural University, Beijing, China
+
+3Beijing Advanced Innovation Center for Food Nutrition and Human Health, Department of Nutrition and Health, China Agricultural University, Beijing, China
+
+4Department of Food and Bioengineering, Beijing Vocational College of Agriculture, Beijing, China
+
+5Institute of Medical Laboratory Animal Science, Chinese Academy of Medical Sciences & Comparative Medical Center, Peking Union Medical College, Beijing, China
+
+# Correspondence
+
+Ye Sun, Institute of Medical Laboratory Animal Science, Chinese Academy of Medical Sciences & Comparative Medical Center, Peking Union Medical College, Beijing 100021, China. Email: sunye1224@163.com
+
+Ning Liu, Beijing Advanced Innovation Center for Food Nutrition and Human Health, Department of Nutrition and Health China Agricultural University, Beijing 100193, China. Email: nuli982390@163.com
+
+# Abstract
+
+Inflammatory bowel disease (IBD), which includes Crohn's disease (CD) and ulcerative colitis (UC), has emerged as a global disease with high incidence, long duration, devastating clinical symptoms, and low curability (relapsing immune response and barrier function defects). Mounting studies have been performed to investigate its pathogenesis to provide an ever-expanding arsenal of therapeutic options, while the precise etiology of IBD is not completely understood yet. Recent advances in high-throughput sequencing methods and animal models have provided new insights into the association between intestinal microbiota and IBD. In general, dysbiosis characterized by an imbalanced microbiota has been widely recognized as a pathology of IBD. However, intestinal microbiota alterations represent the cause or result of IBD process remains unclear. Therefore, more evidences are needed to identify the precise role of intestinal microbiota in the pathogenesis of IBD. Herein, this review aims to outline the current knowledge of commonly used, chemically induced, and infectious mouse models, gut microbiota alteration and how it contributes to IBD, and dysregulated metabolite production links to IBD pathogenesis.
+
+# K E Y W O R D S
+
+dysbiosis, IBD model, intestinal microbiota, metabolites
+
+# Funding information
+
+National Natural Science Foundation of China, Grant/Award Number: nos. 32000082 and 31625025; Project funded by China Postdoctoral Science Foundation, Grant/Award Number: 2022M713405; R&D Program of Beijing Municipal Education Commission, Grant/Award Number: KM202212448002; and the 111 Project, Grant/Award Number: B16044
+
+This is an open access article under the terms of the Creative Commons Attribution- NonCommercial License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.
+
+© 2022 The Authors. Animal Models and Experimental Medicine published by John Wiley & Sons Australia, Ltd on behalf of The Chinese Association for Laboratory Animal Sciences.
+
+Anim Models Exp Med. 2022;5:311–322. wileyonlinelibrary.com/journal/ame2 | 311

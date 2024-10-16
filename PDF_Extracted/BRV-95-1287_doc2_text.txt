@@ -1,0 +1,40 @@
+# Exosomes and IBD
+
+# Gut microbiota
+
+Gut lumen
+
+Epithelial cells
+
+Decreased expression of tight junction proteins
+
+Immune dysregulation
+
+Influx of DAMPs and PAMPs
+
+|Inflammatory Mediators|Effects|
+|---|---|
+|TNF-α|Altered microbiota composition and diversity|
+|IFN-γ|Compromised epithelial barrier integrity|
+|IL-1|Tissue destruction|
+|IL-6|Macrophage activation|
+|IL-23|Th17 response|
+|IL-18|Inflammation|
+|IL-4|Regulatory T cells|
+|IL-10|Inhibits inflammation|
+|IL-15|Immune response modulation|
+|IL-17|Inflammation|
+|IL-2|T cell proliferation|
+|TGF-β|Regulation of immune response|
+|ROS|Cellular stress|
+|MMPs|Tissue remodeling|
+
+Fig 1: The active inflammatory bowel disease (IBD) microenvironment. Within the inflamed bowel, increased recruitment takes place of innate immune cells such as macrophages, monocytes, dendritic cells, neutrophils and T-cells. The inflammatory cascade continues via cytokines secreted by these cells and other chemokines expressed in the IBD microenvironment. Together these elements lead to dysregulation, dysbiosis, and compromised intestinal barrier integrity. CCL2, chemokine c-c motif ligand 2; DAMPs, damage-associated molecular patterns; DC, dendritic cell; IFN-γ, interferon gamma; IL, interleukin; iNOS, inducible nitric oxide synthase; MMPs, matrix metalloproteinases; NETs, neutrophil extracellular traps; PAMPs, pathogen-associated molecular patterns; PMN, polymorphonuclear leukocytes; ROS, reactive oxygen species; TGF-β, transforming growth factor β; Th, T helper; TNF-α, tumour necrosis factor α; Treg, regulatory T cells.
+
+# II. GENERAL FUNCTIONS AND COMPOSITION OF EXOSOMES
+
+Exosomes are actively secreted from cells through an exocytosis pathway during crosstalk between cells and in receptor removal mechanisms. This pathway involves initiation of activated growth factor receptors located on the plasma membrane surface (Stoorvogel et al., 2002). These 30–150 nm membrane vesicles are generated in the endosomal compartment and function in intercellular modulation in both physiological and pathological activities. They play critical roles in the immune system by modulating immune responses due to their potent immune-activating or immunosuppressive effects (Tan et al., 2016). Exosomes are also essential for neuronal cell communication that improves cellular functions such as the ability of microglia to support axonal integrity and myelination. It has been demonstrated that, under oxidative stress conditions, neurons survive better in the presence of oligodendroglial exosomes, and that this process involves the Akt and extracellular-regulated kinase (ERK) signalling pathways (Fröhlich et al., 2014). The cardiovascular system also relies on exosomes for normal function. Cardiomyocytes secrete exosomes constitutively, but the quantity released triples under conditions of hypoxia or cellular stress (Gupta & Knowlton, 2007). This increased secretion together with upregulated exosomal tumor necrosis factor-α (TNF-α) expression induces cardiomyocyte apoptosis (Yu et al., 2012).
+
+The functional effects of exosomes have been well studied in many pathological and non-pathological conditions including diabetic cardiomyopathy (Salem & Fan, 2017), cardiovascular disease and cardioprotection (Barile et al., 2017; Suzuki et al., 2017), joint diseases (Li et al., 2018b), wound healing (Golchin, Hosseinzadeh, & Ardeshirylajimi, 2018), Alzheimer’s Disease (Malm, Loppi, & Kanninen, 2016), placental homeostasis and pregnancy disorders (Salomon & Rice, 2017), viral disease (Anderson, Kashanchi, & Jacobson, 2016), and various cancers (Kibria et al., 2018; Sundararajan, Sarkar, & Ramasamy, 2018) among others. Although mechanisms involved in the biogenesis and secretion of exosomes are still not fully understood, certain vital factors or mechanisms that control the composition and hence the functions and secretion of exosomes have been documented (Palmulli & van Niel, 2018).
+
+Biological Reviews 95 (2020) 1287–1307 © 2020 The Authors. Biological Reviews published by John Wiley & Sons Ltd on behalf of Cambridge Philosophical Society.

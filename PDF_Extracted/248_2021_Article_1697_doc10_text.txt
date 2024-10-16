@@ -1,0 +1,53 @@
+# Paediatric Inflammatory Bowel Disease and its Relationship with the Microbiome
+
+843
+
+Morgan XC, Kostic AD, Luo C, González A, McDonald D, Haberman Y, Walters T, Baker S, Rosh J, Stephens M, Heyman M, Markowitz J, Baldassano R, Griffiths A, Sylvester F, Mack D, Kim S, Crandall W, Hyams J, Huttenhower C, Knight R, Xavier RJ (2014) The treatment-naive microbiome in new-onset Crohn’s disease. Cell Host Microbe 15:382–392. https://doi.org/10.1016/j.chom.2014.02.005
+
+49. Assa A, Butcher J, Li J, Elkadri A, Sherman PM, Muise AM, Stintzi A, Mack D (2016) Mucosa-associated ileal microbiota in new-onset pediatric Crohn’s disease. Inflamm Bowel Dis 22:1533–1539. https://doi.org/10.1097/mib.0000000000000776
+
+50. Claesson MJ, Clooney AG, O’Toole PW (2017) A clinician’s guide to microbiome analysis. Nat Rev Gastroenterol Hepatol 14:585–595. https://doi.org/10.1038/nrgastro.2017.97
+
+51. Michail S, Durbin M, Turner D, Griffiths AM, Mack DR, Hyams J, Leleiko N, Kenche H, Stolfi A, Wine E (2012) Alterations in the gut microbiome of children with severe ulcerative colitis. Inflamm Bowel Dis 18:1799–1808. https://doi.org/10.1002/ibd.22860
+
+52. Iljazovic A, Roy U, Gálvez EJC, Lesker TR, Zhao B, Gronow A, Amend L, Will SE, Hofmann JD, Pils MC, Schmidt-Hohagen K, Neumann-Schaal M, Strowig T (2020) Perturbation of the gut microbiome by Prevotella spp. enhances host susceptibility to mucosal inflammation. Mucosal Immunol. https://doi.org/10.1038/s41385-020-0296-4
+
+53. Atarashi K (2017) Ectopic colonization of oral bacteria in the intestine drives TH1 cell induction and inflammation. Science 358:359–365. https://doi.org/10.1126/science.aan4526
+
+54. Hyams JS, Ferry GD, Mandel FS, Gryboski JD, Kibort PM, Kirschner BS, Griffiths AM, Katz AJ, Grand RJ, Boyle JT, Michener WM, Levy JS, Lesser ML (1991) Development and validation of a pediatric Crohn’s disease activity index. J Pediatr Gastroenterol Nutr 12:439
+
+55. Lewis JD, Chuai S, Nessel L, Lichtenstein GR, Aberra FN, Ellenberg JH (2008) Use of the noninvasive components of the mayo score to assess clinical response in ulcerative colitis. Inflamm Bowel Dis 14:1660–1666. https://doi.org/10.1002/ibd.20520
+
+56. Turner D, Hyams J, Markowitz J, Lerer T, Mack DR, Evans J, Pfefferkorn M, Rosh J, Kay M, Crandall W, Keljo D, Otley AR, Kugathasan S, Carvalho R, Oliva-Hemker M, Langton C, Mamula P, Bousvaros A, LeLeiko N, Griffiths AM, Group PICR (2009) Appraisal of the pediatric ulcerative colitis activity index (PUCAI). Inflamm Bowel Dis 15:1218–1223. https://doi.org/10.1002/ibd.20867
+
+57. Peyrin-Biroulet L, Panés J, Sandborn WJ, Vermeire S, Danese S, Feagan BG, Colombel JF, Hanauer SB, Rycroft B (2016) Defining disease severity in inflammatory bowel diseases: current and future directions. Clin Gastroenterol Hepatol 14:348–354.e317. https://doi.org/10.1016/j.cgh.2015.06.001
+
+58. Henke MT, Kenny DJ, Cassilly CD, Vlamakis H, Xavier RJ, Clardy J (2019) Ruminococcus gnavus, a member of the human gut microbiome associated with Crohn’s disease, produces an inflammatory polysaccharide. Proc Natl Acad Sci 116:12672–12677. https://doi.org/10.1073/pnas.1904099116
+
+59. Hall AB, Yassour M, Sauk J, Garner A, Jiang X, Arthur T, Lagoudas GK, Vatanen T, Fornelos N, Wilson R, Bertha M, Cohen M, Garber J, Khalili H, Gevers D, Ananthakrishnan AN, Kugathasan S, Lander ES, Blainey P, Vlamakis H, Xavier RJ, Huttenhower C (2017) A novel Ruminococcus gnavus clade enriched in inflammatory bowel disease patients. Genome Med 9:103. https://doi.org/10.1186/s13073-017-0490-5
+
+60. Lewis JD, Chen EZ, Baldassano RN, Otley AR, Griffiths AM, Lee D, Bittinger K, Bailey A, Friedman ES, Hoffmann C, Albenberg L, Sinha R, Compher C, Gilroy E, Nessel L, Grant A, Chehoud C, Li H, Wu GD, Bushman FD (2015) Inflammation, antibiotics, and diet as environmental stressors of the gut microbiome in pediatric Crohn’s disease. Cell Host Microbe 18:489–500. https://doi.org/10.1016/j.chom.2015.09.008
+
+61. Vangay P, Ward T, Gerber JS, Knights D (2015) Antibiotics, pediatric dysbiosis, and disease. Cell Host Microbe 17:553–564. https://doi.org/10.1016/j.chom.2015.04.006
+
+62. Hviid A, Svanström H, Frisch M (2011) Antibiotic use and inflammatory bowel diseases in childhood. Gut 60:49–54. https://doi.org/10.1136/gut.2010.219683
+
+63. Kronman MP, Zaoutis TE, Haynes K, Feng R, Coffin SE (2012) Antibiotic exposure and IBD development among children: a population-based cohort study. Pediatrics 130:e794–e803. https://doi.org/10.1542/peds.2011-3886
+
+64. Ruemmele FM, Veres G, Kolho KL, Griffiths A, Levine A, Escher JC, Amil Dias J, Barabino A, Braegger CP, Bronsky J, Buderus S, Martín-de-Carpi J, De Ridder L, Fagerberg UL, Hugot JP, Kierkus J, Kolacek S, Koletzko S, Lionetti P, Miele E, Navas López VM, Paerregaard A, Russell RK, Serban DE, Shaoul R, Van Rheenen P, Veereman G, Weiss B, Wilson D, Dignass A, Eliakim A, Winter H, Turner D (2014) Consensus guidelines of ECCO/ESPGHAN on the medical management of pediatric Crohn’s disease. J Crohn's Colitis 8:1179–1207. https://doi.org/10.1016/j.crohns.2014.04.005
+
+65. Quince C, Ijaz UZ, Loman N, Eren AM, Saulnier D, Russell J, Haig SJ, Calus ST, Quick J, Barclay A, Bertz M, Blaut M, Hansen R, McGrogan P, Russell RK, Edwards CA, Gerasimidis K (2015) Extensive modulation of the fecal metagenome in children with Crohn’s disease during exclusive enteral nutrition. Am J Gastroenterol 110:1718–1729; quiz 1730. https://doi.org/10.1038/ajg.2015.357
+
+66. Levine A, Wine E, Assa A, Sigall Boneh R, Shaoul R, Kori M, Cohen S, Peleg S, Shamaly H, On A, Millman P, Abramas L, Ziv-Baran T, Grant S, Abitbol G, Dunn KA, Bielawski JP, Van Limbergen J (2019) Crohn’s disease exclusion diet plus partial enteral nutrition induces sustained remission in a randomized controlled trial. Gastroenterology 157:440–450.e448. https://doi.org/10.1053/j.gastro.2019.04.021
+
+67. Svolos V, Hansen R, Nichols B, Quince C, Ijaz UZ, Papadopoulou RT, Edwards CA, Watson D, Alghamdi A, Brejnrod A, Ansalone C, Duncan H, Gervais L, Tayler R, Salmond J, Bolognini D, Klopfleisch R, Gaya DR, Milling S, Russell RK, Gerasimidis K (2019) Treatment of Active Crohn’s disease with an ordinary food-based diet that replicates exclusive enteral nutrition. Gastroenterology 156:1354–1367.e1356. https://doi.org/10.1053/j.gastro.2018.12.002
+
+68. Fang H, Fu L, Wang J (2018) Protocol for fecal microbiota transplantation in inflammatory bowel disease: a systematic review and meta-analysis. Biomed Res Int 2018:8941340–8941311. https://doi.org/10.1155/2018/8941340
+
+69. He Z, Li P, Zhu J, Cui B, Xu L, Xiang J, Zhang T, Long C, Huang G, Ji G, Nie Y, Wu K, Fan D, Zhang F (2017) Multiple fresh fecal microbiota transplants induces and maintains clinical remission in Crohn’s disease complicated with inflammatory mass. Sci Rep 7:4753. https://doi.org/10.1038/s41598-017-04984-z
+
+70. Nishida A, Imaeda H, Ohno M, Inatomi O, Bamba S, Sugimoto M, Andoh A (2017) Efficacy and safety of single fecal microbiota transplantation for Japanese patients with mild to moderately active ulcerative colitis. J Gastroenterol 52:476–482. https://doi.org/10.1007/s00535-016-1271-4
+
+71. Suskind DL, Brittnacher MJ, Wahbeh G, Shaffer ML, Hayden HS, Qin X, Singh N, Damman CJ, Hager KR, Nielson H, Miller SI (2015) Fecal microbial transplant effect on clinical outcomes and fecal microbiome in active Crohn’s disease. Inflamm Bowel Dis 21:556–563. https://doi.org/10.1097/mib.0000000000000307
+
+72. Kunde S, Pham A, Bonczyk S, Crumb T, Duba M, Conrad HJ, Cloney D, Kugathasan S (2013) Safety, tolerability, and clinical response after fecal transplantation in children and young adults.

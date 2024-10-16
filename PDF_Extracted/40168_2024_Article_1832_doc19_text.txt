@@ -1,0 +1,13 @@
+# Tian et al. Microbiome
+
+# (2024) 12:130
+
+# Page 20 of 20
+
+1. Mistry J, Bateman A, Finn RD. Predicting active site residue annotations in the Pfam database. BMC Bioinformatics. 2007;8:298.
+2. Skennerton C. Minced—mining CRISPRs in environmental datasets. In: github. 2016: http://github.com/ctSkennerton/minced.
+3. Huo X, Li D, Wu F, Li S, Qiao Y, Wang C, Wang Y, Zhou C, Sun L, Luan Z, Yan Q, Wang J, Zhang Y, Zhao T, An Y, Zhang B, Tian X, Yu Z, Ma X. Cultivated human intestinal fungus Candida metapsilosis M2006B attenuates colitis by secreting acyclic sesquiterpenoids as FXR agonists. Gut. 2022;71:2205–17.
+
+Publisher’s Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.

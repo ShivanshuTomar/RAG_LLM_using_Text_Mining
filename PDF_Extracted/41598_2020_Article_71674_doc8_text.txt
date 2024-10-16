@@ -1,0 +1,31 @@
+# Essential protein interactors of KYNU
+
+# Essential protein interactors associated with IBD
+
+# Essential protein interactors associated with IBD and ReA
+
+# Non-specific protein diagnostic markers of TBD and ReA
+
+# Total essential protein interactors in a single connected network
+
+# Symptoms/diseases associated with ID and ReA
+
+# Essential protein interactor involved in IBD and ReA associated with maximum symptoms/diseases leading to IBD and ReA
+
+# Pathways associated with essential protein interactors involved in BD and ReA
+
+# Pathway associated with majority of essential protein interactors
+
+Carbon metabolism
+
+# Drugs used to suppress effect of ID and ReA
+
+# Figure 6. Host-microbe disease network (nodes = 555; edges = 3,319) of IBD co-evolved ReA.
+
+Escherichia coli O157:H7 (239–245), Klebsiella oxytoca (197–253), Salmonella typhimurium (239–245), Shigella dysenteriae (239–245) and Yersinia enterocolitica (230–284).
+
+Experimental evidences to identify the signature molecules in patients. The in-silico analysis followed for the molecular signature identification till far through gene expression datasets and curated metabolic reconstructs strongly indicate the host protein, KYNU being the singular common predictive markers for all pathogenic microbes. KYNU has also been indicated in the expression data of inflammatory linked disorder.
+
+Scientific Reports | (2020) 10:15131 | https://doi.org/10.1038/s41598-020-71674-8
+
+Vol.:(0123456789)

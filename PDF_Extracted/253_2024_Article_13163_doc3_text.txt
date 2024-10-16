@@ -1,0 +1,35 @@
+# Applied Microbiology and Biotechnology (2024) 108:333
+
+# Experimental Procedure
+
+On days one and two of the experimental period, each mouse received either PBS or gavage with 5 × 10 colony-forming units (CFUs) of either EcN alone or combined with EcN-TNFαNb, EcN-IL10, or both via oral administration. Starting from day zero to day four consecutively thereafter (day 0–day 4), all mice except those in non-colitis group drank water containing 4% dextran sulfate sodium (DSS) (MW = 36,000–50,000, MP Biomedicals, Irvine, CA, USA). The weights of mice were recorded every day. Seven days after administration, the mice were euthanized, and the lengths of their large intestines were recorded. The section nearest the rectum was fixed in paraformaldehyde for 24 h at room temperature, followed by hematoxylin and eosin staining (HE staining). The middle section was used for cytokines detection. The section closer to the cecum was also stored at -80℃ for future use. Cytokine concentrations were determined using ELISA kits from Sangon Biotech (Shanghai, China).
+
+# Tissue sections
+
+The paraffin-embedded samples were stained with both hematoxylin and eosin (HE staining), as well as Masson trichrome staining solution (Zou et al. 2023). The stained samples were then captured by an inverted microscope.
+
+# Bacterial 16 S rRNA gene sequencing
+
+On the 5th day following administration, fecal samples were collected, promptly frozen at -80℃, and then shipped to Sangon Biotech (Shanghai, China) Co., Ltd., for further analysis, as detailed in the project identification number PRJNA1012370.
+
+# Results
+
+# Characterization of anti‑TNF‑α nanobody and IL‑10 in vitro
+
+The anti-TNF-α nanobody and IL-10 genes were obtained from a commercial source and then cloned into a pET28-a plasmid. Successful soluble expression of both the anti-TNF-α nanobody and IL-10 proteins were achieved in the E. coli BL21 strain (Fig. 1A–B). SDS-PAGE was used to confirm proper expression of anti-TNF-α nanobody and IL-10. The production levels of the nanobodies and IL-10 were measured at 228.6 μg/mL and 171.7 μg/mL by the BCA kit (Beyotime, Shanghai, China).
+
+We subsequently characterized the specificity and affinity of the antibody to TNF-α. The ELISA results demonstrated the specific binding of the anti-TNF-α nanobody to TNF-α (Fig. 1C). In the affinity assay, we observed a dose-dependent interaction between the antigen (mouse TNF-α) and the anti-TNF-α nanobody (Fig. 1C). These findings indicate that the anti-TNF-α nanobody exhibits high specificity and affinity.
+
+We assessed the efficacy of the anti-TNF-α nanobody and IL-10 in mitigating inflammation through cellular experiments. RAW264.7 macrophages were stimulated with LPS to establish an inflammation model. ELISA was then employed to measure the secretion of cytokines (Supplemental Fig. S1). In comparison to the untreated control group, the RAW264.7 inflammation model showed a significant increase in secretion levels of TNF-α, IL-6, and MCP-1 (P ≤ 0.0001). The purified anti-TNF-α nanobody and IL-10 effectively reduced the cytokine levels, demonstrating significant differences compared with the model group (P ≤ 0.0001) (Fig. 1D–F). Our findings suggest that the two drug proteins had a certain alleviating effect on LPS-induced inflammation within RAW264.7 cells; furthermore, their combined effect was superior to either protein alone.
+
+# Statistical analysis
+
+Statistical analysis and graphical representation of the data were performed using GraphPad Prism 8 software (GraphPad Inc., Boston, MA, USA). The results were expressed as the mean ± SEM. Statistical significance between groups was determined using a one-way ANOVA test (non-significant = n.s.>0.05, *P ≤ 0.05, **P ≤ 0.01, ***P ≤ 0.001, ****P ≤ 0.0001).
+
+# Data availability
+
+All data presented in this paper will be made available by the corresponding author upon request.
+
+# Construction of the engineered EcN for secreting anti‑TNF‑α nanobody and IL‑10 proteins
+
+To develop engineered bacteria capable of simultaneous secretion of anti-TNF-α nanobodies and IL-10, we integrated the genes encoding an anti-TNF-α nanobody and IL-10 into a low copy plasmid with the pSC101 origin of replication. The expression of anti-TNF-α nanobody and IL-10 was controlled by constitutive promoters PJ23119 and PJ23100, respectively. It is worth noting that low copy number plasmids usually lead to lower metabolic burden in bacteria and demonstrate greater genetic stability and strong promoters can provide higher protein levels (Barger et al. 2021). To enhance secretion efficiency, we fused the drug protein.

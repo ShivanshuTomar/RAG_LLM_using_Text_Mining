@@ -1,0 +1,27 @@
+# Ma et al. Genome Biology (2022) 23:208
+
+consists of PCs from different datasets that are similar to each other—whether or not they occur in the same order or with similar percent variance explained—and which thus represent strong feature covariation signals that are recurrent in studies.
+
+# (4)
+
+For a module k containing PC set M, its consensus vector Wk is calculated as the average of sign-corrected loading vectors in M, i.e., Wk := ∑wij ∈Mkw∼ij. Note that the average is taken not over the original loading vectors wij, but rather their sign-corrected versions w∼ij. Specifically, the signs of each wij in Mk are corrected so that all loading vectors have positive cosine coefficients.
+
+# (a)
+
+We note that, given a specific cosine threshold for constructing edges of the network, it is not guaranteed that such a correction is always possible. That is, with all possible sign corrections, there are still certain intracluster PCs that have negative cosine coefficients. Such cases are unlikely to happen in empirical evaluations and are further reduced by our modularity clustering approach (Additional file 1: Fig. S18). We discuss this issue in Additional file 2: Supplemental Notes.
+
+# (b)
+
+In the case where such issues occur, a higher cosine threshold is recommended. With a sufficiently high cosine threshold, clusters are guaranteed to be consistent (all PCs will have positive cosines), but also be smaller and thus are less interpretable in terms of consistent biological signals across studies.
+
+# (5)
+
+The module-wide consensus vectors Wk represent strong, mutually independent, and reproducible covariation signals across the microbial datasets; they are used to identify continuously varying gradients in microbial abundance profiles that represent reproducible population structures. Specifically, given a sample with normalized and transformed microbial abundance measurements x, its continuous score for module k is defined as x′Wk.
+
+# (6)
+
+If additional studies are available, the reproducibility of each Wk can be further examined by correlating Wk with the top PC loadings in each such validation study. For each additional study, Wk is considered to be validated in that dataset if its absolute cosine coefficient with at least one of the dataset’s top PCs surpasses the coefficient similarity cutoff threshold; the number of top PCs to consider in the validation dataset loadings is determined with the same cutoff threshold.
+
+# Simulation validation of MMUPHin
+
+We performed extensive simulation studies (Fig. 2, Additional file 1: Figs. S6-S10, Additional file 4: Table S2) to validate the performance of each component of MMUPHin.

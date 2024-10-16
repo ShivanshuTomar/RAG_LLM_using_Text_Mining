@@ -1,0 +1,37 @@
+# REVIEW SERIES: INTERACTIONS OF THE MICROBIOTA WITH THE MUCOSAL IMMUNE SYSTEM
+
+# M. N. Quraishi et al.
+
+1. Saruta M, Yu QT, Fleshner PR et al. Characterization of FOXP3+CD4+ regulatory T cells in Crohn’s disease. Clin Immunol 2007; 125:281–90.
+2. Ueno A, Jijon H, Chan R et al. Increased prevalence of circulating novel IL-17 secreting Foxp3 expressing CD4+ T cells and defective suppressive function of circulating Foxp3+ regulatory cells support plasticity between Th17 and regulatory T cells in inflammatory bowel disease patients. Inflamm Bowel Dis 2013; 19:2522–34.
+3. Hovhannisyan Z, Treatman J, Littman DR, Mayer L. Characterization of interleukin-17-producing regulatory T cells in inflamed intestinal mucosa from patients with inflammatory bowel diseases. Gastroenterology 2011; 140:957–65.
+4. Lord JD, Valliant-Saunders K, Hahn H, Thirlby RC, Ziegler SF. Paradoxically increased FOXP3+ T cells in IBD do not preferentially express the isoform of FOXP3 lacking exon 2. Dig Dis Sci 2012; 57:2846–55.
+5. Ueno A, Jeffery L, Kobayashi T, Hibi T, Ghosh S, Jijon H. Th17 plasticity and its relevance to inflammatory bowel disease. J Autoimmun 2018; 87:38–49.
+6. Nyirenda MH, Sanvito L, Darlington PJ et al. TLR2 stimulation drives human naive and effector regulatory T cells into a Th17-like phenotype with reduced suppressive function. J Immunol 2011; 187:2278–90.
+7. Atarashi K, Tanoue T, Shima T et al. Induction of colonic regulatory T cells by indigenous Clostridium species. Science 2011; 331:337–41.
+8. Atarashi K, Tanoue T, Oshima K et al. Treg induction by a rationally selected mixture of Clostridia strains from the human microbiota. Nature 2013; 500:232–6.
+9. Lopetuso LR, Scaldaferri F, Petito V, Gasbarrini A. Commensal Clostridia: leading players in the maintenance of gut homeostasis. Gut Pathog 2013; 5:23.
+10. Britton GJ, Contijoch EJ, Mogno I et al. Microbiotas from humans with inflammatory bowel disease alter the balance of gut Th17 and RORgammat(+) regulatory T cells and exacerbate colitis in mice. Immunity 2019; 50:212–24.e4.
+11. Tezuka H, Abe Y, Iwata M et al. Regulation of IgA production by naturally occurring TNF/iNOS-producing dendritic cells. Nature 2007; 448:929–33.
+12. Hirota K, Turner JE, Villa M et al. Plasticity of Th17 cells in Peyer’s patches is responsible for the induction of T cell-dependent IgA responses. Nat Immunol 2013; 14:372–9.
+13. Macpherson A, Khoo UY, Forgacs I, Philpott-Howard J, Bjarnason I. Mucosal antibodies in inflammatory bowel disease are directed against intestinal bacteria. Gut 1996; 38:365–75.
+14. Hevia A, Lopez P, Suarez A et al. Association of levels of antibodies from patients with inflammatory bowel disease with extracellular proteins of food and probiotic bacteria. Biomed Res Int 2014; 2014:351204.
+15. Furrie E, Macfarlane S, Cummings JH, Macfarlane GT. Systemic antibodies towards mucosal bacteria in ulcerative colitis and Crohn’s disease differentially activate the innate immune response. Gut 2004; 53:91–8.
+16. Palm NW, de Zoete MR, Cullen TW et al. Immunoglobulin A coating identifies colitogenic bacteria in inflammatory bowel disease. Cell 2014; 158:1000–10.
+17. Argollo M, Fiorino G, Hindryckx P, Peyrin-Biroulet L, Danese S. Novel therapeutic targets for inflammatory bowel disease. J Autoimmun 2017; 85:103–16.
+18. Wehkamp J, Stange EF. Recent advances and emerging therapies in the non-surgical management of ulcerative colitis. F1000Res 2018; 7:1207.
+19. Segal JP, Ding NS, Worley G et al. Systematic review with meta-analysis: the management of chronic refractory pouchitis with an evidence-based treatment algorithm. Aliment Pharmacol Ther 2017; 45:581–92.
+20. Ledder O, Turner D. Antibiotics in IBD: still a role in the biological era? Inflamm Bowel Dis 2018; 24:1676–88.
+21. Derwa Y, Gracie DJ, Hamlin PJ, Ford AC. Systematic review with meta-analysis: the efficacy of probiotics in inflammatory bowel disease. Aliment Pharmacol Ther 2017; 46:389–400.
+22. Shen J, Zuo ZX, Mao AP. Effect of probiotics on inducing remission and maintaining therapy in ulcerative colitis, Crohn’s disease, and pouchitis: meta-analysis of randomized controlled trials. Inflamm Bowel Dis 2014; 20:21–35.
+23. Mullish BH, Quraishi MN, Segal JP et al. The use of faecal microbiota transplant as treatment for recurrent or refractory Clostridium difficile infection and other potential indications: joint British Society of Gastroenterology (BSG) and Healthcare Infection Society (HIS) guidelines. Gut 2018; 67:1920–41.
+24. Allegretti JRMB, Kelly C, Fischer M. The evolution of the use of faecal microbiota transplantation and emerging therapeutic indications. Lancet 2019; 394:420–31.
+25. Quraishi MN, Widlak M, Bhala N et al. Systematic review with meta-analysis: the efficacy of faecal microbiota transplantation for the treatment of recurrent and refractory Clostridium difficile infection. Aliment Pharmacol Ther 2017; 46:479–93.
+26. Baktash A, Terveer EM, Zwittink RD et al. Mechanistic insights in the success of fecal microbiota transplants for the treatment of Clostridium difficile infections. Front Microbiol 2018; 9:1242.
+27. Paramsothy S, Paramsothy R, Rubin DT et al. Faecal microbiota transplantation for inflammatory bowel disease: a systematic review and meta-analysis. J Crohns Colitis 2017; 11:1180–99.
+28. Levy AN, Allegretti JR. Insights into the role of fecal microbiota transplantation for the treatment of inflammatory bowel disease. Therap Adv Gastroenterol 2019; 12:1756284819836893.
+29. Costello SP, Hughes PA, Waters O et al. Effect of fecal microbiota transplantation on 8-week remission in patients with ulcerative colitis: a randomized clinical trial. JAMA 2019; 321:156–64.
+30. Vaughn BP, Vatanen T, Allegretti JR et al. Increased intestinal microbial diversity following fecal microbiota transplant for active Crohn’s disease. Inflamm Bowel Dis 2016; 22:2182–90.
+31. Zhang T, Cui B, Li P et al. Short-term surveillance of cytokines and C-reactive protein cannot predict efficacy of fecal microbiota transplantation for ulcerative colitis. PLOS ONE 2016; 11:e0158227.
+
+© 2019 British Society for Immunology, Clinical and Experimental Immunology, 199: 24–38

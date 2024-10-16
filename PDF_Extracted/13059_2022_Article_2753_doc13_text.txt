@@ -1,0 +1,17 @@
+# Conclusions
+
+We provide a novel framework for microbial community meta-analysis and apply it to the first large-scale integration of over 5100 amplicon profiles of the stool and mucosal microbiomes in IBD. This identified a significantly reproducible gradient in the gut microbiome indicative of increasing dysbiosis in subsets of patients. Our results supported many of the taxonomic associations previously ascribed to IBD (e.g., Faecalibacterium, Ruminococcus, Enterobacteriaceae) while uncovering new associations (Turicibacter, Acinetobacter) not confidently associated with inflammation by other populations or data types. Almost all effects were exhibited similarly using either stool or mucosal profiling, with a small number of exceptions showing significant differentiation (e.g., Dehalobacterium). Novel disease-treatment response interactions were observed (e.g., steroids on Enterobacteriaceae). The study also showed no evidence of additional population structure, such as microbiome-driven discrete disease subtypes, within CD or UC. The meta-analysis framework developed for the study, MMUPHin, has been extensively evaluated and its performance for batch effect removal, supervised meta-analysis of exposures and covariates, and unsupervised population structure discovery validated on a variety of simulated microbial community types. It is extensible to integration of microbial community taxonomic or functional profiles from other data types (e.g., metagenomic sequencing), environments, or health conditions.
+
+# Methods
+
+# MMUPHin: a uniform statistical framework for meta‑analysis of microbial community studies
+
+We developed MMUPHin (Meta-analysis Methods with a Uniform Pipeline for Heterogeneity in microbiome studies) as a framework for meta-analysis of microbial community studies using taxonomic, functional, or other abundance profiles. It includes components for batch effect adjustment, differential abundance testing, and unsupervised discrete and continuous population structure discovery.
+
+# Batch adjustment: MMUPHin_Correct
+
+For microbial community batch correction, we extended the batch correction method developed for gene expression data in ComBat [15] with an additional component to allow for the zero-inflated nature of microbial abundance data. In our model, sample read count Y was modelled with respect to both batch variable and biologically relevant covariate(s) X:
+
+Yijp = exp(βpXij′ + σpγip + δipǫijp × Iijp)
+
+where i indicates batch/study, j indicates sample, and p indicates feature. γip and δip are batch-specific location and scale parameters. σp is a feature-specific standardization factor. βp are covariate-specific coefficients, and ϵijp is an independent error term following a standard normal distribution. Iijp is a binary (0, 1) zero-count indicator, to allow for zero inflation of features. As in ComBat, γip and δip are modelled with normal and inverse-gamma priors, respectively. Hyperparameters are estimated with empirical.

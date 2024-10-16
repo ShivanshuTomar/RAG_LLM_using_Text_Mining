@@ -1,0 +1,75 @@
+# Cochrane Library
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Pai 2021 (Continued)
+
+study team members were not blinded due to study resource and ethics constraints." (page 393)
+
+# Blinding of participants and personnel (performance bias)
+
+|Risk|Quote|Comment|
+|---|---|---|
+|Low risk|"Random sampling numbers were contained in a set of sealed envelopes per block and drawn at the moment of assignment by a study team member. Patients and caregivers were unaware of treatment allocation, but study team members were not blinded due to study resource and ethics constraints." (page 393)|most likely done.|
+
+# Blinding of outcome assessment (detection bias)
+
+|Risk|Quote|Comment|
+|---|---|---|
+|High risk|"Patients and caregivers were unaware of treatment allocation, but study team members were not blinded due to study resource and ethics constraints." (page 393)|it appeared that the outcome assessors were not blinded.|
+
+# Incomplete outcome data (attrition bias)
+
+|Risk|Comment|
+|---|---|
+|High risk|9/25 (36%) participants were withdrawn from the study (5/12 of the experimental group and 3/13 of the control group had treatment failures).|
+
+# Selective reporting (reporting bias)
+
+|Risk|Comment|
+|---|---|
+|Low risk|all a priori outcomes were reported in the paper. A published protocol is available and the trial was registered on ClinicalTrials.gov (NCT02487238).|
+
+# Other bias
+
+|Risk|Comment|
+|---|---|
+|Low risk|no other risk of bias noted.|
+
+# Paramsothy 2017
+
+# Study characteristics
+
+# Methods
+
+Multicenter, double-blind RCT conducted in Australia
+
+# Participants
+
+# Inclusion criteria
+
+- Adults ages 18–75 years with UC for > 3 months; clinically and endoscopically active UC with total Mayo score 4–10 (Mayo Endoscopy subscore ≥ 1 and Physician's Global Assessment subscore ≤ 2); any disease extent except proctitis confined to the distal 5 cm
+- People on stable dosing of oral 5-ASA (stable dose for 4 weeks), thiopurines and methotrexate (on medication for ≥ 90 days and stable dose for 4 weeks), oral prednisone (dose ≤ 20 mg daily and stable for 2 weeks) preceding enrollment; Participants had to remain on same dose of 5-ASA, thiopurine, methotrexate; oral prednisone mandatory taper of up to 2.5 mg per week until steroid-free by week 8
+
+# Exclusion criteria
+
+- Indeterminate colitis, major comorbid chronic disease, major food allergy, irritable bowel syndrome, history of bowel cancer, pregnancy, previous gastrointestinal surgery apart from appendectomy > 3 months before the study, gastrointestinal infection at study entry (e.g. parasitic and Clostridioides difficile infections)
+- No rectal therapies, including corticosteroids or 5-ASA (within 2 weeks of enrollment)
+- No antibiotics or probiotics (within 4 weeks of enrollment)
+- No biologic therapies or calcineurin inhibitors (within 12 weeks of enrollment)
+
+# Interventions
+
+Experimental arm
+
+n = 41
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

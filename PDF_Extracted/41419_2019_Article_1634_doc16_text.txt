@@ -1,0 +1,30 @@
+# Wang et al. Cell Death and Disease (2019) 10:391
+
+# References
+
+1. Darnaud, M. et al. Enteric delivery of regenerating family member 3 alpha alters the intestinal microbiota and controls inflammation in mice with colitis. Gastroenterology 154, 1009–1023 e1014 (2018).
+2. Micic, D., Hirsch, A., Setia, N. & Rubin, D. T. Enteric infections complicating ulcerative colitis. Intest. Res. 16, 489–493 (2018).
+3. Walujkar, S. A. et al. Molecular profiling of mucosal tissue associated microbiota in patients manifesting acute exacerbations and remission stage of ulcerative colitis. World J. Microbiol. Biotechnol. 34, 76 (2018).
+4. Tschurtschenthaler, M. et al. Defective ATG16L1-mediated removal of IRE1alpha drives Crohn’s disease-like ileitis. J. Exp. Med. 214, 401–422 (2017).
+5. Lee, H. Y. et al. Autophagy deficiency in myeloid cells increases susceptibility to obesity-induced diabetes and experimental colitis. Autophagy 12, 1390–1403 (2016).
+6. Langhorst, J., Hofstetter, A., Wolfe, F. & Hauser, W. Short-term stress, but not mucosal healing nor depression was predictive for the risk of relapse in patients with ulcerative colitis: a prospective 12-month follow-up study. Inflamm. Bowel Dis. 19, 2380–2386 (2013).
+7. Bernstein, C. N. et al. A prospective population-based study of triggers of symptomatic flares in IBD. Am. J. Gastroenterol. 105, 1994–2002 (2010).
+8. Bitton, A. et al. Psychosocial determinants of relapse in ulcerative colitis: a longitudinal study. Am. J. Gastroenterol. 98, 2203–2208 (2003).
+9. Wallon, C. et al. Corticotropin-releasing hormone (CRH) regulates macromolecular permeability via mast cells in normal human colonic biopsies in vitro. Gut 57, 50–58 (2008).
+10. Saito-Nakaya, K., Hasegawa, R., Nagura, Y., Ito, H. & Fukudo, S. Corticotropin-releasing hormone receptor 1 antagonist blocks colonic hypersensitivity induced by a combination of inflammation and repetitive colorectal distension. Neurogastroenterol. Motility 20, 1147–1156 (2008).
+11. Gravanis, A. & Margioris, A. N. The corticotropin-releasing factor (CRF) family of neuropeptides in inflammation: potential therapeutic applications. Curr. Med. Chem. 12, 1503–1512 (2005).
+12. Im, E. et al. Corticotropin-releasing hormone family of peptides regulates intestinal angiogenesis. Gastroenterology 138, 2457–2467 (2010).
+13. Cabrera, S. et al. ATG4B/autophagin-1 regulates intestinal homeostasis and protects mice from experimental colitis. Autophagy 9, 1188–1200 (2013).
+14. Zhang, H. et al. The protection role of Atg16l1 in CD11c(+) dendritic cells in murine colitis. Immunobiology 222, 831–841 (2017).
+15. Hu, X. et al. ATF4 deficiency promotes intestinal inflammation in mice by reducing uptake of glutamine and expression of antimicrobial peptides. Gastroenterology 156, 1098–1111 (2019).
+16. Qi, M. et al. Autophagy maintains the function of bone marrow mesenchymal stem cells to prevent estrogen deficiency-induced osteoporosis. Theranostics 7, 4498–4516 (2017).
+17. Iwasaki, Y. et al. Activating transcription factor 4 links metabolic stress to interleukin-6 expression in macrophages. Diabetes 63, 152–161 (2014).
+18. Zhao, E. et al. KDM4C and ATF4 Cooperate in Transcriptional Control of Amino Acid Metabolism. Cell Rep. 14, 506–519 (2016).
+19. Wang, C. et al. ATF4 regulates lipid metabolism and thermogenesis. Cell Res. 20, 174–184 (2010).
+20. Bretin, A. et al. Activation of the EIF2AK4-EIF2A/eIF2alpha-ATF4 pathway triggers autophagy response to Crohn disease-associated adherent-invasive Escherichia coli infection. Autophagy 12, 770–783 (2016).
+21. Bouman, L. et al. Parkin is transcriptionally regulated by ATF4: evidence for an interconnection between mitochondrial stress and ER stress. Cell Death Differ. 18, 769–782 (2011).
+22. Hu, X. et al. ATF4 deficiency promotes intestinal inflammation in mice by reducing uptake of glutamine and expression of antimicrobial peptides. Gastroenterology 156, 1098–1111 (2019).
+23. Macias-Ceja, D. C. et al. Stimulation of autophagy prevents intestinal mucosal inflammation and ameliorates murine colitis. Br. J. Pharmacol. 174, 2501–2511 (2017).
+24. Iida, T., Onodera, K. & Nakase, H. Role of autophagy in the pathogenesis of inflammatory bowel disease. World J. Gastroenterol. 23, 1944–1953 (2017).
+
+Official journal of the Cell Death Differentiation Association

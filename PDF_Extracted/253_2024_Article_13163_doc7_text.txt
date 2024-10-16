@@ -1,0 +1,11 @@
+# Applied Microbiology and Biotechnology
+
+# (2024) 108:333
+
+|Condition|EcN (DSS)|EcN-TNFaNb (DSS)|EcN-ILIO (DSS)|PBS (DSS)|EcNIPRS|
+|---|---|---|---|---|---|
+|4% DSS|PBS (DSS+)|EcN (DSS+)|EcN-TNFaNb|EcN-ILIO|EcN-TNFaNb|
+|PBS (DSS)|PBS (DSS)|EcN (DSS)|EcN-TNFaNb|EcN-ILIO|EcN-TNFaNb|
+|EcN-TNFaNb|EcN-ILIO|EcN-TNFaNb|EcN-ILIO|EcN-TNFaNb|EcN-ILIO|
+|EcN-TNFaNb|EcN-ILIO|EcN-TNFaNb|EcN-ILIO|EcN-TNFaNb|EcN-ILIO|
+|EcN-TNFaNb|EcN-ILIO|EcN-TNFaNb|EcN-ILIO|EcN-TNFaNb|EcN-ILIO|

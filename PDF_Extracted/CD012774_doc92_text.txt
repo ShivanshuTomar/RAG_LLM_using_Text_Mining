@@ -1,0 +1,76 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# NCT04970446 (Continued)
+
+# Interventions
+
+# Experimental arm
+
+• FMT after 1 week of antibiotic therapy
+
+# Control arm
+
+• Placebo liquid formulation after 1 week of antibiotic therapy
+
+# Outcomes
+
+# Primary outcome
+
+• Clinical response (CDAI decrease ≥ 100 or CDAI < 150) at week 8
+
+# Starting date
+
+First posted: 21 July 2021
+
+# Contact information
+
+Amy Wilson O'Brien
+
+Tel: +61430461146; email: amy.wilson-obrien@svha.org.au
+
+# Notes
+
+# NCT04997733
+
+# Study name
+
+Fecal microbiota transplantation in Crohn's disease as relay after anti-TNF withdrawal (MIRACLE)
+
+# Methods
+
+RCT conducted in France
+
+# Participants
+
+# Inclusion criteria
+
+- Age ≥ 18 to < 75 years
+- CD diagnosis (according to Lennard-Jones criteria) for ≥ 6 months
+- Steroid-free clinical remission for ≥ 6 months with anti-TNF agent (no clinical evidence of flare, no change in CD-specific treatment (anti-TNF, immunosuppressive, etc.) within 6 months before inclusion) and CDAI < 150 the week before inclusion; willingness to withdraw anti-TNF treatment
+- Women of childbearing age with active birth control during at least the period of treatment (week 52)
+- With health insurance
+- Informed written consent
+
+# Exclusion criteria
+
+- CD complication requiring surgical treatment
+- Contraindication to colonoscopy or anesthesia
+- Pregnancy or lactation (see Addendum 4 in publication)
+- Diagnosis of CD restricted to the upper gastrointestinal tract (esophagus, stomach, duodenum, jejunum)
+- Active perineal disease (evidence of perineal abscess or active draining fistula or presence of seton or perineal ulceration)
+- History of bowel resection
+- Current stoma (ileostomy or colostomy) or stoma in the last 6 months; any other intra-abdominal surgery within 3 months prior to inclusion
+- Participation in any other interventional study
+- People under legal protection
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

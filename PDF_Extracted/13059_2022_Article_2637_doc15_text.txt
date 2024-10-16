@@ -1,0 +1,31 @@
+# Quantification of cohort vs. case/control distance contribution
+
+Bray-Curtis distances between pairs of aggregated samples were calculated for the following pairs: case and control pairs from the same disease cohort, cases from different disease cohorts, and controls from different disease cohorts. The distribution of the distances of these three groups was compared using a two-sided non-parametric Mann-Whitney test.
+
+# Effect size [normalized rank‑mean difference (NRMD)] based analysis
+
+# Selection of ASVs and calculation of the per‑ASV effect size
+
+To create the per disease cohort ASV case/control effect table, we used only ASVs that show significant differential abundance (between cases and controls) within at least one disease cohort. These ASVs were identified independently within each disease cohort using a non-parametric rank mean test as implemented in Calour [62] with dsFDR multiple hypothesis correction [37] (FDR < 0.25), based on a random subset of 23 cases and 10 controls samples per disease cohort, in order to avoid the dominance of disease cohorts with a large number of samples (since a larger number of samples can provide higher statistical power). A unified list of ASVs showing potential differential abundance in at least one study was then generated. For each of those ASVs, we then calculated the direction of change and the effect size [normalized rank mean difference NRMD) between the mean of cases and controls] in each case-control comparison using all samples in the disease cohort across all studies (to provide a better estimation of the real effect size). The per-ASV normalized rank-mean difference (NRMD) is scaled to be in the range of − 1 to 1 (independent of the number of samples in each group) and was calculated using the formula:
+
+NRMD(i, x) = (mean(Gcase(i, x)) − mean(Gcontrol (i, x)))/( n(Gcase(i, x)) + n(Gcontrol (i, x))
+
+2
+
+where NRMD(i, x) is the normalized effect size for ASV x in disease cohort i, Gcase(i, x), G control(i, x) represent the ranked frequencies of the case/control (respectively) for ASV x in disease cohort i, and n(G) represents the number of samples in group G.
+
+# NRMD‑based beta diversity analysis
+
+To quantify the similarity/dissimilarity between the different disease cohorts, we used the normalized difference between cases and controls in each disease cohort (NRMD). Since not all ASVs are present in all disease cohorts, for each pair of disease cohorts, we calculated a modified Bray-Curtis distance using only the ASVs present in both disease cohorts. The distance was calculated as follows:
+
+D(i, j) = ∑ || NRMD(i, x) − NRMD(j, x) |
+
+NRMD(i, x)| + | NRMD(j, x) |
+
+x is in disease cohort i
+
+and
+
+x is in disease cohort j
+
+where i and j denote two disease cohorts, and D(i, j) is the modified Bray-Curtis distance between these two disease cohorts.

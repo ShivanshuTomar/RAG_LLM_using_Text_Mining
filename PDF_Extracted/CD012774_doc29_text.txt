@@ -1,0 +1,41 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Library
+
+# Better health.
+
+including the transfer of multiple drug-resistant organisms, SARS-CoV-2 transmission, and mortality (FDA 2020a; FDA 2020b).
+
+# Most studies included in this review assessed the use of FMT for induction of remission in people with active UC
+
+and showed low-certainty evidence that FMT may increase rates of clinical and endoscopic remission. The potential benefit of FMT for treatment of UC seems to be biologically plausible, based on earlier observations suggesting that people with UC have dysbiosis of the gut (Bejaoui 2015; Kostic 2014; Vindigni 2016), and that those who respond to FMT demonstrate reversal of this dysbiosis (Costello 2019; Paramsothy 2017). In addition, other therapeutic agents that target the microbiome, such as probiotics, have demonstrated efficacy in maintenance of remission in UC (Kaur 2020). A causal association between dysbiosis and UC seems to be further supported by the studies in this review, as microbiome analyses suggested differential responses in the microbiota of responders versus non-responders, highlighted by a shift towards the donor community microbiota in FMT responders (Crothers 2021; Moayyedi 2015; Paramsothy 2017; Rossen 2015; Sokol 2020). Notably, Paramsothy 2017 was also able to identify several taxa that were associated with induction of remission and the presence of other taxa that were associated with a lack of effect. Similarly, increased alpha diversity was associated with increased likelihood of a positive response.
+
+# Most of the participants with active UC in the included studies had mild-to-moderate UC
+
+and it is not clear whether the efficacy would be similar, better, or worse in participants with severe UC. Also, it is not clear whether a combination of interventions, such as the use of antibiotics, nutritional therapy, or probiotics with FMT, has advantages over FMT alone. Furthermore, all the studies on active UC included participants who have failed at least one drug and none of the participants were treatment-naive.
+
+There was notable clinical heterogeneity in the use of FMT among participants with active UC in terms of route, dosage, frequency, donor type, and pooling of stool from multiple donors. We updated the subgroup analyses for people with UC, but the number of studies in each subgroup analysis remained small, so no conclusive statement could be made about a differential effect of FMT on induction of clinical remission in UC based on age, route, frequency, or donor.
+
+# The number of studies on FMT for treatment of CD was small
+
+and no conclusive statement could be made about the use of FMT for induction or maintenance of remission in CD.
+
+# Quality of the evidence
+
+In the previous version of this review (Imdad 2018), the certainty of the evidence for most outcomes was low. With the addition of eight new studies to the analysis on induction of remission among participants with active UC, the evidence remained of low certainty for most outcomes. The most common reasons for downgrading the certainty of the evidence were risk of bias and imprecision due to a low number of studies and participants in a given analysis. Even though the overall precision of the summary estimate improved with the addition of new studies, the variation of effect around the summary estimate included a possibility of little or no effect. For example, the risk difference for the effect of FMT on induction of clinical remission in UC was about 15%; however, the lower limit of the CIs showed a risk difference of only 5%, which might not be clinically meaningful. We considered a minimal important difference of at least 10% to 15% for induction of remission in people with active UC, which is a conservative target compared to those of other trials on treatment of IBD (Bahnam 2023; Gordon 2021). We might revise our certainty assessment with the addition of newer studies in future updates.
+
+We prioritized five outcomes to be included in the summary of findings tables in this version of the review, compared to seven outcomes included in the last version of the review. We included quality-of-life scores and excluded clinical and endoscopic response from the summary of findings tables based on the clinical importance of these outcomes. We generated separate summary of findings tables for induction and maintenance of remission in each subtype of IBD. We think that this approach is clinically meaningful for clinicians to access the most up-to-date evidence-based information on use of FMT for induction and maintenance of remission in UC and CD. As the body of evidence on this topic grows, more data will be reported in these tables, especially as we noted 29 ongoing studies.
+
+# Potential biases in the review process
+
+This review was conducted following the standardized methods of Cochrane. We searched for both published and ongoing studies, and two review authors extracted data from each published study. In the previous version of this review, we had aimed to include non-randomized cohort studies with control arms, but no such studies were available. In this update, we did not consider any observational studies and only included randomized trials. Three included studies were stopped early due to futility issues (Moayyedi 2015; Rossen 2015; Sarbagili Shabat 2022), and one trial enrolled approximately half of its goal participant number (Pai 2021). One trial was discontinued because the primary endpoint, remission of UC, was deemed unlikely to be achieved by the institution's Data Monitoring and Safety Board (DMSB), but enrolled participants were allowed to complete the trial (Moayyedi 2015). Similarly, another trial was advised by its DMSB to terminate early due to serious adverse events, less-than-expected treatment effect, and the need to expand its sample size uncovered during interim analysis (Rossen 2015). This study collected three months of data prior to its termination and an ITT analysis of its reported outcomes has been included in the current review. A third trial was also stopped early by the DMSB upon review of interim data after more than half of the intended participants had been enrolled (Sarbagili Shabat 2022). However, the Cochrane Handbook for Systematic Reviews of Interventions guidelines do not consider these studies to be at high risk of bias (Higgins 2011).
+
+There is a debate on which outcome is most important to define the efficacy of an intervention for induction of remission in people with IBD (Armuzzi 2012; Auzoux 2017; Dave 2012; Dulai 2015; Peyrin-Biroulet 2011). The most commonly used outcome is 'clinical remission,' which is based on clinical symptom scores. The literature has suggested the need to assess mucosal healing as part of the response to therapy in IBD, as it might better predict long-term outcomes, including the risk of surgery (Auzoux 2017; De Preter 2012; Dulai 2015). In the protocol (Imdad 2017) of the first published version of this review (Imdad 2018), we had decided a priori that the primary outcome of 'clinical remission' would be based on definitions derived from clinical scores. In this updated version of the review, we updated the same analysis but also
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

@@ -1,0 +1,59 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+|Outcome or subgroup title|No. of studies|No. of participants|Statistical method|Effect size|
+|---|---|---|---|---|
+|1.23 Withdrawals in studies on induction of remission in UC|10|468|Risk Ratio (M-H, Random, 95% CI)|0.91 [0.62, 1.34]|
+|1.24 Erythrocyte sedimentation rate (ESR) at longest follow-up for induction of remission in UC (mm/hour)|2|113|Mean Difference (IV, Random, 95% CI)|2.98 [-0.38, 6.34]|
+|1.25 ESR at longest follow-up for induction of remission in UC: sensitivity analysis without Moayyedi 2015 (mm/hour)|1|81|Mean Difference (IV, Random, 95% CI)|3.00 [-0.56, 6.56]|
+|1.26 C-reactive protein (CRP) at longest follow-up for induction of remission in UC (mg/L)|3|128|Mean Difference (IV, Random, 95% CI)|1.11 [-1.85, 4.08]|
+|1.27 CRP at longest follow-up for induction of remission in UC: sensitivity analysis without Moayyedi 2015 (mg/L)|2|96|Mean Difference (IV, Random, 95% CI)|-0.44 [-6.52, 5.64]|
+|1.28 Fecal calprotectin at longest follow-up for induction of remission in UC (μg/mg)|3|131|Mean Difference (IV, Random, 95% CI)|-69.49 [-260.62, 121.65]|
+
+# Analysis 1.1. Comparison 1: Fecal microbiota transplantation (FMT) versus control for induction of remission in ulcerative colitis (UC), Outcome 1: Induction of clinical remission in UC at longest follow-up
+
+|Study or Subgroup|FMT Events|FMT Total|Control Events|Control Total|Weight|Risk Ratio M-H, Random, 95% CI|Risk Ratio M-H, Random, 95% CI|Risk of Bias|
+|---|---|---|---|---|---|---|---|---|
+|Březina 2021|12|23|8|22|15.3%|1.43 [0.73 , 2.82]| |+ ? − + + + +|
+|Costello 2019|12|38|3|35|9.2%|3.68 [1.13 , 11.98]| |+ + + + + +|
+|Crothers 2021|2|7|0|8|2.3%|5.63 [0.31 , 100.52]| |+ + + + − +|
+|Fang 2021|9|10|5|10|15.7%|1.80 [0.94 , 3.46]| |+ ? − + + + +|
+|Haifer 2022|8|15|3|20|9.5%|3.56 [1.13 , 11.18]| |+ + + + + +|
+|Moayyedi 2015|9|38|2|37|6.9%|4.38 [1.01 , 18.94]| |+ + + + + +|
+|Pai 2021|4|13|4|12|9.5%|0.92 [0.29 , 2.89]| |+ + + − − +|
+|Paramsothy 2017|11|41|3|40|9.0%|3.58 [1.08 , 11.88]| |+ + + + + +|
+|Rossen 2015|7|23|5|25|11.1%|1.52 [0.56 , 4.13]| |+ + + + + +|
+|Sarbagili Shabat 2022|6|36|6|15|11.5%|0.42 [0.16 , 1.09]| |+ + + + + +|
+
+Total (95% CI): 244 / 224 = 100.0% 1.79 [1.13 , 2.84]
+
+Total events: 80 / 39
+
+Heterogeneity: Tau² = 0.24; Chi² = 17.15, df = 9 (P = 0.05); I² = 48%
+
+Test for overall effect: Z = 2.47 (P = 0.01)
+
+Favors control Favors FMT
+
+Test for subgroup differences: Not applicable
+
+# Risk of bias legend
+
+- (A) Random sequence generation (selection bias)
+- (B) Allocation concealment (selection bias)
+- (C) Blinding of participants and personnel (performance bias)
+- (D) Blinding of outcome assessment (detection bias)
+- (E) Incomplete outcome data (attrition bias)
+- (F) Selective reporting (reporting bias)
+- (G) Other bias
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

@@ -1,0 +1,29 @@
+# Biology 2024, 13, 674
+
+# Health
+
+An alteration in the F/B ratio, whether an increase or a decrease, is indicative of dysbiosis [32].
+
+# The Gut Microbiome
+
+|Healthy microbiome|Unbalanced microbiome (Dysbiosis)|
+|---|---|
+|regulation of gut immune homeostasis|stimulate inflammatory cells|
+|inhibit immunosuppressive cells| |
+|Lactobacillus Spp,|Lachnospiraceae|
+|Bacteroides fragili|Ruminococcaceae|
+|Helicobacter|Alloprevotella|
+|Oscillibacter|Prevotella|
+|Pseudoflavonifractor|Allobaculum|
+|Clostridium XIVa|Turicibacter|
+|Johnsonella|Parasutterella spp:|
+
+# Figure 1
+
+Mechanisms by which high salt intake affects the microbiological composition of the gut. The maintenance of gut microbial homeostasis is integral to the regulation of the immune environment within the gut. An excessive intake of dietary salt can result in alterations to the gut flora, which, in turn, can affect the immune balance within the gut. It is notable that there is a reduction in the prevalence of Lactobacillus and related species, accompanied by an increase in some bacteria. Such disturbances in the flora have been observed to stimulate the activity of inflammatory cells and inhibit the activity of immunosuppressive cells, thereby contributing to an increase in intestinal inflammation.
+
+In contrast, a high salt intake has also been linked to an increased level of certain microbial species. In a more detailed classification, Wang C et al. found that the abundances of Lachnospiraceae and Ruminococcaceae are greater and that there is a higher ratio of Firmicutes to Bacteroidetes (F/B) in mice fed with a high-salt diet than in those fed with a low-salt diet [29]. Members of Ruminococcus have been identified as the primary mucolytic bacterium in patients with Crohn’s disease [30]. Their metabolites have the potential to disrupt the mucus layer, thereby facilitating bacterial translocation and establishing a link with IBD [31]. Furthermore, the F/B ratio is one of the biomarkers used to assess gut health. An alteration in the F/B ratio, whether an increase or a decrease, is indicative of dysbiosis [32].
+
+Parasutterella spp. exhibited an increase [15]. The findings of this study indicate that excessive salt consumption results in alterations to the gut microbiome. However, the precise mechanisms through which these microorganisms exert their effects remain to be elucidated.
+
+In conclusion, these findings suggest that an excessive salt intake in the diet induces microbiological changes in the intestinal flora of humans and mice. These changes include a reduction in beneficial bacterial species, which leads to alterations in intestinal immune homeostasis and exacerbates the inflammatory response in the gut. It can be postulated that these changes represent a risk factor for inflammatory or immune diseases of the gut. Furthermore, these microbial alterations offer a novel strategy for the treatment of related diseases.

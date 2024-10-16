@@ -1,0 +1,21 @@
+# Khanna et al. Microbiome (2017) 5:55
+
+# Page 4 of 8
+
+56 days to 1 year, and n = 3 beyond 1 year, Additional file 1: Table S2) had another episode of CDI and 10.5% (n = 4/38) required a second FMT due to multiply recurrent CDI. One patient with rCDI was treated with vancomycin. The risk of another episode of CDI after FMT in IBD patients was 25% (n = 3/12) compared to 7.7% (n = 2/26) in non-IBD patients (p = 0.16, chi-square test). Seven of the 12 patients with IBD were on systemic immunosuppression. None of the patients with IBD had improvement in their IBD course after FMT, and none were able to withhold, de-escalate, or stop IBD treatment. This is in agreement with other studies showing a lack of improvement in IBD following a single FMT.
+
+# FMT decreases microbial dysbiosis
+
+FMT led to a significant increase in alpha diversity based on Faith’s phylogenetic diversity, Shannon’s diversity index, and observed species, both at day 7 and day 28 (Mann-Whitney p < 0.05; Additional file 2: Figure S1, comparing pre- and post-FMT in patients with CDI with or without underlying IBD). Also, patient’s stool closely resembled donor stool, as evidenced by a rapid and sustained change in unweighted and weighted UniFrac-based beta diversity following FMT at day 7 and 28 post-transplant (Fig. 1a; PERMANOVA p < 0.05) [21].
+
+In order to determine if the changes seen in our subjects following FMT were similar to other published studies, we compared our samples with recently published data from Weingarden et al. 2015 (Additional file 3: Figure S2A) wherein four patients with recurrent CDI (but not IBD) received FMT from a single donor [19]. Similar to our findings, there was a rapid and sustained change in beta diversity (Additional file 3: Figure S2A) following FMT and the regression to the donor plane (change in microbial PC2 (5.13 %u) 0351 Doncr 037| BrYu FUT (351 7 dara aner FMT 1 CCIX -hIBD FCI (27.4994) NA Dcnor).
+
+# Days Since FMT
+
+|Patient|Pre FMT|Post FMT Day 7|Post FMT Day 28|
+|---|---|---|---|
+|Patient_Altcr TMT|I1|Data|Data|
+
+# Fig. 1
+
+a Principal Coordinates Analysis of the unweighted UniFrac distances, showing a significant change in the phylogenetic diversity between patients with CDI, 7 and 28 days after fecal microbiota transplant (PERMANOVA p < 0.05). b Change in dysbiosis index following fecal microbiota transplant in patients with CDI with or without IBD, demonstrating that the microbial dysbiosis index values were significantly higher in patients with CDI compared to donors (Mann-Whittney’s U, p < 0.05). c Spearman correlation to donor stool 7 and 28 days following fecal microbiota transplantation demonstrating that the fecal microbial communities from patients with CDI were distinct from donor communities prior to transplant (Spearman’s r < 0.2 for all subjects).

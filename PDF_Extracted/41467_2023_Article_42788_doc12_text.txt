@@ -1,0 +1,37 @@
+# Article
+
+https://doi.org/10.1038/s41467-023-42788-0
+
+# Metagenomic profiling
+
+The study utilized the bioBakery meta-omics workflow to generate taxonomic and functional profiles from metagenomic data. To ensure the use of high-quality microbial reads free from contaminants, KneadData was employed for data filtering. Taxonomic profiling was performed using MetaPhlan3, which utilizes a library of clade-specific markers to provide pan-microbial profiling. Functional profiling was conducted using HUMAnN3, which constructs a sample-specific reference database from the pangenomes of the subset of species detected in the samples by MetaPhlAn3. To quantify gene presence and abundance on a per-species basis, sample reads are mapped against this database. In cases where reads fail to map at the nucleotide level, a translated search is conducted against a UniRef-based protein sequence catalogue to identify gene families (UniRef90s). The resulting abundance profiles are stratified by each species contributing to those genes and further summarized into higher-level gene groups such as KOs (KEGG Orthologs) and EggNOGs (Evolutionary Genealogy of Genes: Non-supervised Orthologous Groups).
+
+# Stool sample collection
+
+All participants are required to provide a minimum of 3.0 grams of stool sample upon enrollment. Samples are to be collected in a sterile specimen collector (Thermo Scientific, USA, R21922) provided by the investigator in advance. After collection, the samples must be promptly transferred to a −80 °C ultra-low temperature cryogenic freezer for storage within 4 hours, pending further processing in three months.
+
+# Study design and Sample filtering
+
+We included a total of nine metagenomic datasets, consisting of 6 discovery cohorts and 3 independent verification cohorts (Fig. 2a), as well as four metabolomics datasets, including two targeted metabolomics datasets and two untargeted metabolomics datasets (Fig. 4a). Among these datasets, four datasets contained both metagenomic and metabolomic data (Fig. 5a). Considering that some subjects were sampled at different time points, we only retained the data from the first sampling to ensure the accuracy of the diagnostic model. Additionally, as country or region is a major confounding factor, we only included subjects from the same country in each dataset to minimize confounding effects. Furthermore, because there were significantly more normal controls than IBD cases in the LifeLD VilaAV 2018 cohort, we randomly removed some of the normal controls to maintain a ratio of 1:2 to 1:3 between normal controls and IBD cases for precision of the study.
+
+# Preprocessing of taxonomic abundance profiles and functional abundance profiles
+
+To ensure the accuracy and reliability of statistical analysis on metagenomic data, it is essential to undertake stringent data filtering measures to reduce data noise and enhance data quality. One crucial step is the removal of low-abundance microorganisms or genes, which exhibit low expression levels in the sample and may represent contaminants or batch effects in the environment. Similarly, entities with no variance must be filtered out before analysis. This approach can minimize the impact of technical noise or experimental errors, resulting in improved reproducibility and greater stability of experimental results.
+
+# Metagenomic sequencing
+
+The DNA from the stool samples was extracted utilizing the HiPure Stool DNA Mini Kit (Magen Biotechnology, China). The quality, size, and concentration of the extracted DNA were evaluated via agarose gel electrophoresis and the Qubit™ 4 Fluorometer (Thermo Fisher Scientific, USA). The metagenomic libraries were subsequently constructed by NeoBIO technology utilizing the Hieff NGS® Ultima DNA Library Prep Kit for Illumina® (Yeasen Biotechnology, China) following the manufacturer's protocol. After ensuring the quality of the libraries, high-throughput sequencing was performed on the NovaSeq6000 platform (Illumina, USA).
+
+# Metabolite quantification
+
+Targeted metabolomics profiling was conducted using the Q300 Metabolite Array Kit from Metabo-Profile Biotechnology of China (Xie et al. 53). In brief, to extract metabolites from lyophilized feces, a homogenate was prepared using 10 mg of feces with 25 μL of water. The mixture was then extracted with 185 μL of cold ACN-Methanol (8/2, v/v) and centrifuged. Next, 30 μL of the supernatant was derivatized with 20 μL of freshly prepared derivative reagents on a Biomek 4000 workstation. Internal standards were added to the derivatized samples, which were then randomly analyzed and quantitated using an ultra-performance liquid chromatography coupled to tandem mass spectrometry (UPLC-MS/MS) system. A total of 310 standard substances, including 12 subclasses, were obtained from Sigma-Aldrich, Steraloids Inc, and TRC Chemicals. To ensure the quality of the metabolomics platform, three types of quality control samples were routinely used: test mixtures, internal standards, and pooled biological samples. The derivatized pooled quality control samples were injected every 14 test samples (Supplementary Fig. 4a). The raw data generated by UPLC-MS/MS were processed using the QuanMET software (v2.0, Metabo-Profile, Shanghai, China) for peak integration, calibration, and quantification of each metabolite. Through mass spectrometry-based quantitative metabolomics, metabolomic features were annotated to metabolites with Level 1 of confidence by comparing them to the standard metabolites.
+
+# Confounder analysis
+
+We conducted an ANOVA-type analysis to determine the impact of potential confounding factors on individual microbial species, relative to the impact of IBD. A linear model was employed, which included both IBD status and the confounding factor as explanatory variables for species abundance. The analysis assessed the total variance within the abundance of a specific microbial species relative to the variance explained by disease status and the variance explained by the confounding factor. Overall, this methodology facilitated a more comprehensive assessment of the factors that influence the microbiome and their potential impact on disease outcomes.
+
+# Microbial ecological analysis
+
+Alpha diversity metrics, namely the Shannon and Simpson Indices, were utilized to evaluate the diversity and evenness of species within a community. The primary objective was to investigate the differences in alpha diversity between IBD and control cases using the statistical tool MMUPHin. In this analysis, the cohort was treated as the independent variable, while potential confounding factors such as gender and age were accounted for as random effects. This approach facilitated a more precise evaluation of the relationship between IBD and alpha diversity. Beta diversity was evaluated by computing the Bray-Curtis distance, which quantifies the dissimilarity of microbial communities across samples. To investigate the differences in microbial community.
+
+Nature Communications | (2023)14:7135

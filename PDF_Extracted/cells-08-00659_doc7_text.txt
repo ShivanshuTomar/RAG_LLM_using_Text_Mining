@@ -1,0 +1,30 @@
+# Cells 2019, 8, 659
+
+# Table 2. Studies investigating the link between stress and gut microbiota.
+
+|Factor|Type of Study|N|Intervention/Methodology|Outcome|Author(s)|Reference|
+|---|---|---|---|---|---|---|
+|Prenatal/early life stress|In-vivo mouse study|6–20 mice per group|Maternal high-fat diet|Dysbiosis and low-grade inflammation in the intestine|Xie, R. et al.|83|
+|In-vivo rat study|6–10 per group|Prenatal stress|Long-lasting alterations in the intestinal microbiota composition|Golubeva, AV. et al.|84| |
+|In-vivo mouse study|21–23 mice per group|Prenatal stress|Alterations in vaginal microbiota contributed to reprogramming of the developing brain|Jasarevic, E. et al.|85| |
+|In vivo primates study|20|Maternal separation|Maternal separation-induced psychological disturbances altered intestinal microflora|Bailey, MT. et al.|91| |
+| |22|Maternal separation|Early life stress induced alterations in gut-brain axis contributing to IBD symptoms|O’Mahony, SM. et al.|92| |
+|Longitudinal clinical study|192 children|Questionnaire|Prenatal stress is associated with microbial colonization patterns in infants|Zijlmans, MA. et al.|104| |
+|Chronic/social/environmental stress|In-vivo mouse study|7–20 mice per group|Chronic social defeat|Stress induced complex structural changes in the gut microbiota|Bharwani, A. et al.|81|
+|In-vivo mouse study|10 mice per group|Lactation|Cellular transfer of bacterial translocation occurred in pregnant and lactating mice|Donnet-Hughes, A. et al.|87| |
+|In-vivo mouse study|5 mice per group|SDR|Stress led to significant changes in intestinal microbiota colonization|Bailey, MT. et al.|88| |
+|In-vivo mouse study|10–12 (3 independent experiments)|Unpredictable chronic mild stress|Altered intestinal microbiota composition, specifically the lactobacillus compartment|Marin, IA. et al.|89| |
+|In-vivo mouse study|5 mice per group|SDR|Affected microbial populations that are closely associated with the colonic mucosa|Galley, JD. et al.|90| |
+|In-vivo mouse study|4–6 mice per group|Chronic restraint stress|Disturbed gut microbiota and subsequent activation of immune system led to colitis|Gao, X. et al.|93| |
+|In-vivo rat study|7–8 rats per group|WAS|Intestinal inflammation by impaired mucosal defenses against luminal bacteria|Soderholm, JD. et al.|94| |
+|In-vivo rat study|6|Cold-restraint stress or WAS|Exacerbated intestinal inflammation due to increased uptake of immunogenic substances|Saunders, PR. et al.|95| |
+|In-vivo rat study|not specified|Stress induction|Increased gastrointestinal permeability, allowing luminal constituents to the mucosal immune system|Meddings, JB. et al.|96| |
+|In-vivo rat study|4 rats per group|WAS|Stress-induced epithelial mitochondrial damage and mucosal mast cell activation|Santos, J. et al.|97| |
+|Field experiment in wild birds|64|Corticosterone-implant|Altered gut microbiome in free-living birds|Noguera, JC. et al.|101| |
+|In-vivo rat study|13–14 rats per group|WAS|Altered intestinal mucus composition|Da Silva, S et al.|102| |
+|Germ-free and specific-pathogen free|In-vivo mouse study|18–24 mice per group|Acute restraint stress|Commensal microbiota can affect the postnatal development of the HPA stress response|Sudo, N. et al.|108|
+|In-vivo mouse study|12 mice per group|Germ-free and specific-pathogen free|Conventional intestinal microbiota influenced the development of behavior|Neufeld, KM. et al.|109| |
+|In-vivo mouse study|7–14 mice per group|Germ-free and specific-pathogen free|Gut microbiota affected mammalian brain development and subsequent adult behavior|Diaz Heijtz, R. et al.|110| |
+|Clinical study|263|Daily interview assessment|Stress is associated with digestive problems and gastrointestinal health|Walker, LS. et al.|103| |
+| |40|Depression|Increased bacterial translocation and activated immune responses against commensal bacteria|Maes, M. et al.|105| |
+| |65|Coping style instrument|IBD adolescents used more avoidant coping styles compared to healthy controls|Van der Zaag-Loonen, HJ. et al.|106| |

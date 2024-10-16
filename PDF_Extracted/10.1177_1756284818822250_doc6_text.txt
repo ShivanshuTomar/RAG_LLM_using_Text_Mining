@@ -1,0 +1,24 @@
+# J.P. Segal, B.H. Mullish et al.
+
+# Table 1. Summary of changes in IBD using a systems biology approach when compared with healthy people.
+
+|Metagenomics|• Genes associated with butanoate and propanoate metabolism genes are decreased in IBD • Decrease in genes associated with the biosynthesis of amino acids and an increase in amino acid transporters and metabolism of the sulfur containing amino acid cysteine in IBD|
+|---|---|
+|Metataxonomics|• Depletion of bacteria with anti-inflammatory effects, including Bifidobacterium, Lactobacillus, Faecalibacterium prausnitzii and other SCFA-producing bacteria • Relative expansion in pathogenic bacteria, including Proteobacteria such as adherent-invasive Escherichia coli|
+|Metatranscriptomics|• Gut microbial functional potential (based on metagenomics) is often but not always proportional to metatranscriptomic profiles. • Multiple metabolic pathways were found to be differentially expressed such as methylerythritol phosphate pathway predominantly by Alistipes putredinis and dTDP-L-rhamnose biosynthesis by F. prausnitzii|
+|Metaproteomics|• Depletion of a large range of microbial proteins (Crohn’s disease, especially ileal disease) • Distinct protein modules at the mucosal-luminal interface differed between healthy controls and patients with IBD|
+|Metabonomics|• IBD patients have low urinary hippurate levels • IBD patients have lower levels of faecal short-chain fatty acids • Specifically, stool butyrate and acetate were reduced in Crohn’s disease|
+
+IBD, inflammatory bowel disease; SCFA, short-chain fatty acid.
+
+High due to the gut microbiota’s role in the deconjugation of bile acids. Further work on faeces was performed by Jansson and colleagues who found that patients with ileal CD had a greater abundance of Bacteroides vulgatus (BV), B. ovatus (BO) and E. coli when compared with healthy people which correlated most strongly to bile acids, including taurocholic and cholic acids, and fatty acids, including stearic and docosapentanoic acids, and concluded that there are correlations between metabolites and the bacterial microbiota but causality will need further exploration.
+
+Tissue is another source of material that can be analyzed using metabonomics. It is one of the less studied. Sharma and colleagues highlighted that the metabolic profile of amino acid membrane components and lactate were similar between noninflamed IBD segments and inflamed segments. Bjerrum and colleagues reported that colonic biopsies from patients with active UC had higher levels of antioxidants and a range of amino acids, but lower levels of lipid, glycerophosphocholine (GPC), myo-inositol, and betaine when compared with healthy people. Whilst both these studies suggest mechanistic pathways, neither integrated metabonomic with microbiota data.
+
+# Omics data integration methods
+
+Integrating the omics is challenging because of multiple types of data set, but the process is improving. Each of the omic data sets convey knowledge from different labels (layers) of the molecular organization; for example, gene expression is about genes that changes globally but also those that change significantly between diseases versus controls (for example IBD and non-IBD patients). Other omic data sets (such as metabonomics, lipidomics, metagenomics, and microbiome) also provide similar types of knowledge. Linking, fusing or integrating those multi-omics matrices provides a holistic picture of the disease versus control patients in terms of the mechanistic understanding of the disease state. Multi-omics data usually consist of two or more matrices (for example, transcriptomics and metabonomics, metabonomics and microbiome, lipidomics and transcriptomics, metabonomics and proteomics) that share the same patients (sample numbers or same objects) but contain different biological features (variables) such as genes, metabolites, lipids or OTUs.
+
+# Univariate versus multivariate methods
+
+Different statistical approaches - specifically, univariate

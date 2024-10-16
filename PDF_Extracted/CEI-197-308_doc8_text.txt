@@ -1,0 +1,37 @@
+# C. D. Moulton et al.
+
+# NEURO-IMMUNE INTERACTIONS: HOW THE NERVOUS AND IMMUNE SYSTEMS INFLUENCE EACH OTHER
+
+# References
+
+1. Horst S, Chao A, Rosen M et al. Treatment with immunosuppressive therapy may improve depressive symptoms in patients with inflammatory bowel disease. Dig Dis Sci 2015; 60:465–70.
+2. Jonefjall B, Ohman L, Simren M, Strid H. IBS-like symptoms in patients with ulcerative colitis in deep remission are associated with increased levels of serum cytokines and poor psychological well-being. Inflamm Bowel Dis 2016; 22:2630–40.
+3. Selinger CP, Eaden J, Jones DB et al. Modifiable factors associated with nonadherence to maintenance medication for inflammatory bowel disease. Inflamm Bowel Dis 2013; 19:2199–206.
+4. Mikocka-Walus A, Bampton P, Hetzel D, Hughes P, Esterman A, Andrews JM. Cognitive–behavioural therapy has no effect on disease activity but improves quality of life in subgroups of patients with inflammatory bowel disease: a pilot randomised controlled trial. BMC Gastroenterol 2015; 15:54.
+5. Medzhitov R, Janeway CJ. Innate immunity. N Engl J Med 2000; 343:338–44.
+6. Stuart MJ, Baune BT. Chemokines and chemokine receptors in mood disorders, schizophrenia, and cognitive impairment: a systematic review of biomarker studies. Neurosci Biobehav Rev 2014; 42:93–115.
+7. Neurath MF. Cytokines in inflammatory bowel disease. Nat Rev Immunol 2014; 14:329–42.
+8. Wing JK, Babor T, Brugha T et al. Schedules for clinical assessment in neuropsychiatry. Arch Gen Psychiatry 1990; 47:589–93.
+9. Kroenke K, Spitzer RL, Williams JB. The PHQ-9: validity of a brief depression severity measure. J Gen Intern Med 2001; 16:606–13.
+10. Frolkis AD, Vallerand IA, Shaheen A-A et al. Depression increases the risk of inflammatory bowel disease, which may be mitigated by the use of antidepressants in the treatment of depression. Gut 2018. doi: 10.1136/gutjnl-2018-317182.
+11. Danese A, Moffitt TE, Harrington H et al. Adverse childhood experiences and adult risk factors for age-related disease. Arch Pediatr Adolesc Med 2009; 163:1135–43.
+12. Jakobsen C, Paerregaard A, Munkholm P, Wewer V. Environmental factors and risk of developing paediatric inflammatory bowel disease – a population based study 2007–2009. J Crohns Colitis 2013; 7:79–88.
+13. Molendijk M, Molero P, Ortuno Sanchez-Pedreno F, Van der Does W, Angel Martinez-Gonzalez M. Diet quality and depression risk: a systematic review and dose–response meta-analysis of prospective studies. J Affect Disord 2018; 226:346–54.
+14. Ananthakrishnan AN. Epidemiology and risk factors for IBD. Nat Rev Gastroenterol Hepatol 2015; 12:205–17.
+15. Pasco JA, Williams LJ, Jacka FN et al. Tobacco smoking as a risk factor for major depressive disorder: population-based study. Br J Psychiatry 2008; 193:322–6.
+16. Parkes GC, Whelan K, Lindsay JO. Smoking in inflammatory bowel disease: impact on disease course and insights into the aetiology of its effect. J Crohns Colitis 2014; 8:717–25.
+17. Biedermann L, Fournier N, Misselwitz B et al. Rates of smoking especially in female Crohn’s disease patients and low use of supportive measures to achieve smoking cessation – data from the Swiss IBD Cohort Study. J Crohns Colitis 2015; 9:819–29.
+18. Alexakis C, Kumar S, Saxena S, Pollok R. Systematic review with meta-analysis: the impact of a depressive state on disease course in adult inflammatory bowel disease. Aliment Pharmacol Ther 2017; 46:225–35.
+19. Gracie DJ, Hamlin PJ, Ford AC. Longitudinal impact of IBS-type symptoms on disease activity, healthcare utilization, psychological health, and quality of life in inflammatory bowel disease. Am J Gastroenterol 2018; 113:702–12.
+20. Barnes EL, Kochar B, Long MD et al. Risk factors for hospital readmission among patients with inflammatory bowel disease in a nationwide database. Inflamm Bowel Dis 2017; 23:875–81.
+21. Barnes EL, Kochar B, Long MD et al. The burden of hospital readmissions among pediatric patients with inflammatory bowel disease. J Pediatr 2017; 191:184–189.e1.
+22. Ananthakrishnan AN, Gainer VS, Perez RG et al. Psychiatric co-morbidity is associated with increased risk of surgery in Crohn’s disease. Aliment Pharmacol Ther 2013; 37:445–54.
+23. Mikocka-Walus A, Pittet V, Rossel J-B, vonKanel R. Symptoms of depression and anxiety are independently associated with clinical recurrence of inflammatory bowel disease. Clin Gastroenterol Hepatol 2016; 14:829–835.e1.
+24. Valkanova V, Ebmeier KP, Allan CL. CRP, IL-6 and depression: a systematic review and meta-analysis of longitudinal studies. J Affect Disord 2013; 150:736–44.
+25. Beurel E, Harrington LE, Jope RS. Inflammatory T helper 17 cells promote depression-like behavior in mice. Biol Psychiatry 2013; 73:622–30.
+26. Martin-Subero M, Anderson G, Kanchanatawan B, Berk M, Maes M. Comorbidity between depression and inflammatory bowel disease explained by immune-inflammatory, oxidative, and nitrosative stress; tryptophan catabolite; and gut-brain pathways. CNS Spectr 2016; 21:184–98.
+27. Kohler O, Benros ME, Nordentoft M et al. Effect of anti-inflammatory treatment on depression, depressive symptoms, and adverse effects: a systematic review and meta-analysis of randomized clinical trials. JAMA Psychiatry 2014; 71:1381–91.
+28. Abautret-Daly A, Dempsey E, Riestra S et al. Association between psychological measures with inflammatory and disease-related markers of inflammatory bowel disease. Int J Psychiatry Clin Pract 2017; 21:221–30.
+29. Duivis HE, Kupper N, Vermunt JK et al. Depression trajectories, inflammation, and lifestyle factors in adolescence: the TRacking Adolescents’ Individual Lives Survey. Heal Psychol 2015; 34:1047–57.
+
+© 2019 British Society for Immunology, Clinical and Experimental Immunology, 197: 308–318

@@ -1,0 +1,27 @@
+# Applied Microbiology and Biotechnology
+
+# (2024) 108:333
+
+# Page 11 of 14
+
+# Characterization of inducible engineered bacteria
+
+Fig. 5 Gene route design of inducible engineered bacteria thio-EcN-TNF-α Nb (left) and thio-EcN-IL10 (right).
+
+# A
+
+Western blot detection results of TNF-α Nb (left) and IL-10 (right) secretion. After 10 h of induction with thiosulfate, the supernatant (“LB medium supernatant”) was collected from the culture by centrifugation, and the pellet was suspended in PBS and then subjected to ultrasonic cell disruption to obtain whole protein from the cells (“whole protein”). Subsequently, the supernatant from the samples (“supernatant protein”) was collected through centrifugation.
+
+# B
+
+Detection of TNF-α Nb (left) and IL-10 (right) secretion in culture medium by ELISA.
+
+|Thiosulfate concentration (pM)|Whole Supernatant LK medium protein|Whole Supernatant LB medium protein|
+|---|---|---|
+|125|20.8 kDa|26 kDa|
+|250| | |
+|500| | |
+
+First, the ELISA detection results indicated that the anti-TNF-α nanobody exhibited specific binding to mouse tumor necrosis factor-α and this binding is dose-dependent between the antigen (mouse TNF-α) and anti-TNF-α nanobody. The therapeutic proteins, including anti-TNF-α nanobody and/or IL-10, can effectively suppress the release of TNF-α, IL-6, and MCP-1 levels in LPS-stimulated RAW264.7 cells. Our experiments revealed that both drug proteins individually alleviated LPS-induced inflammation in RAW264.7 cells, with the combined administration exhibiting a superior effect compared to either protein alone. Although there were no follow-up studies on macrophages from the animal experiments, we used other indicators, such as body weight, length of colon, the content of pro-inflammatory cytokines, and fibrosis, to demonstrate the therapeutic effect of engineered bacteria on IBD.
+
+ELISA and western blotting indicated that anti-TNF-α nanobody and IL-10 could be detected in the medium supernatant of the EcN-TNFαNb and EcN-IL10 strains, and the expression of anti-TNF-α nanobody and IL-10 was time-dependent, ranging from 6 to 12 h. We subsequently assessed the therapeutic efficacy of the engineered bacteria alone and in combination with the dual bacterial treatment. EcN-TNFaNb and EcN-IL10 demonstrated effective mitigation of DSS-induced mouse colitis, as indicated by reduced colon length shortening, lower disease activity index (DAI), and altered expression of pro-inflammatory cytokines in colon tissues, such as TNF-α, IL-6, IL-17 A, and MCP-1. More interestingly, architectural changes, inflammatory cell infiltrations, and epithelial injuries were reduced in the EcN-TNFaNb or/and EcN-IL10 group by hematoxylin and eosin (HE) staining. Animals given EcN-IL10 stopped losing weight after 3 days, which may be due to changes in food intake. However, in this study, we did not measure food intake among the different groups over the entire course of the experiment. This needs to be addressed in further experiments. In addition, all DSS + animals showed a decrease in Bifidobacterium, Akkermansia, and Lactobacillus compared with DSS− animals.

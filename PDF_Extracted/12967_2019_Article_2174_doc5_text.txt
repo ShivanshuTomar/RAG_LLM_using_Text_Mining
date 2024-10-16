@@ -1,0 +1,49 @@
+# Kumar et al. J Transl Med (2019) 17:419
+
+# Page 6 of 13
+
+|Higher in healthy control|Higher in CD or UC|Not reported|
+|---|---|---|
+|CD|UC|L] Imhann = 4 1|
+|a 1 144 etal,1 1 L etal;4 1 a4 1|1 44 Papa ,L 4|Papa , Lewis -|
+
+# Microbial Taxonomy
+
+- Enterobacteriaceae
+- Escherichia
+- Proteobacteria
+- - Gammaproteobacteria
+- Betaproteobacteria
+- Deltaproteobacteria
+
+Actinobacteria
+- - Bifidobacteriaceae
+- Coriobacteriaceae
+- Enterococcaceae
+- Lactobacillaceae
+
+Bacilli
+- - Erysipelotrichaceae
+- Christensenellaceae
+- Clostridiaceae
+- Faecalibacterium
+- Eubacteriaceae
+- Blautia
+- Firmicutes
+
+Bacteroidetes
+- - Bacteroidales
+- Odoribacter
+- Rikenellaceae
+
+Fusobacteria
+- - Fusobacterium
+
+Euryarchaeota
+- - Methanobacteriaceae
+
+Verrucomicrobia
+
+# Fig. 2
+
+Gut microbiota dysbiosis in CD or UC patients. Qualitative comparison of relative microbial dysbiosis in CD and UC patients, retrieved from different original studies (Halfvarson et al., Pascal et al., Moustafa et al., Imhann et al., Papa et al., Franzosa et al., and Lewis et al.). The relative increase or decrease in microbial levels is represented by red or blue dots respectively. White dots represent data not reported.

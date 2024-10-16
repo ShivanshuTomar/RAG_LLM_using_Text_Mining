@@ -1,0 +1,49 @@
+# Exosomes and IBD
+
+apoptosis through inhibiting TLR4/NF-κB and p53 pathways in intestinal epithelial cells. Journal of Agricultural and Food Chemistry 67, 9477–9491.
+
+X IONG, Y., L OU, Y., SU, H., F U, Y. & KONG, J. (2016). Cholecalciterol cholesterol emulsion ameliorates experimental colitis via down-regulating the pyroptosis signaling pathway. Experimental and Molecular Pathology 100, 386–392.
+
+X U, A. T., L U, J. T., R AN, Z. H. & Z HENG, Q. (2016). Exosome in intestinal mucosal immunity. Journal of Gastroenterology and Hepatology 31, 1694–1699.
+
+Y ANG, J., L IU, X.-X., F AN, H., T ANG, Q., S HOU, Z.-X., Z UO, D.-M., Z OU, Z., XU, M., CHEN, Q.-Y., P ENG, Y., D ENG, S.-J. & LIU, Y.-J. (2015). Extracellular vesicles derived from bone marrow mesenchymal stem cells protect against experimental colitis via attenuating colon inflammation, oxidative stress and apoptosis. PLoS One 10, e0140551.
+
+Y ANG, R., LIAO, Y., W ANG, L., H E, P., HU, Y., YUAN, D., W U, Z. & SUN, X. (2019). Exosomes derived from M2b macrophages attenuate DSS-induced colitis. Frontiers in Immunology 10, 2346.
+
+Y ANG, X., MENG, S., JIANG, H., CHEN, T. & W U, W. (2010). Exosomes derived from interleukin-10-treated dendritic cells can inhibit trinitrobenzene sulfonic acid-induced rat colitis. Scandinavian Journal of Gastroenterology 45, 1168–1177.
+
+Y U, L., YANG, F., JIANG, L., C HEN, Y., W ANG, K., XU, F., W EI, Y., CAO, X., W ANG, J. & CAI, Z. (2013). Exosomes with membrane-associated TGF-β1 from gene-modified dendritic cells inhibit murine EAE independently of MHC restriction. European Journal of Immunology 43, 2461–2472.
+
+Y U, X., DENG, L., W ANG, D., L I, N., C HEN, X., C HENG, X., Y UAN, J., GAO, X., L IAO, M., W ANG, M. & L IAO, Y. (2012). Mechanism of TNF-α autocrine effects in hypoxic cardiomyocytes: initiated by hypoxia inducible factor 1α, presented by exosomes. Journal of Molecular and Cellular Cardiology 53, 848–857.
+
+Z HANG, J., LI, S., L I, L., L I, M., GUO, C., YAO, J. & MI, S. (2015a). Exosome and exosomal microRNA: trafficking, sorting, and function. Genomics, Proteomics & Bioinformatics 13, 17–24.
+
+Z HANG, M., W ANG, X., H AN, M. K., COLLINS, J. F. & MERLIN, D. (2017). Oral administration of ginger-derived nanolipids loaded with siRNA as a novel approach for efficient siRNA drug delivery to treat ulcerative colitis. Nanomedicine 12, 1927–1943.
+
+Z HANG, M., XU, C., L IU, D., H AN, M. K., W ANG, L. & MERLIN, D. (2018a). Oral delivery of nanoparticles loaded with ginger active compound, 6-shogaol, attenuates ulcerative colitis and promotes wound healing in a murine model of ulcerative colitis. Journal of Crohn’s and Colitis 12, 217–229.
+
+Z HANG, X., D EEKE, S. A., N ING, Z., S TARR, A. E., B UTCHER, J., LI, J., M AYNE, J., C HENG, K., LIAO, B., L I, L., S INGLETON, R., M ACK, D., STINTZI, A. & F IGEYS, D. (2018b). Metaproteomics reveals associations between microbiome and intestinal extracellular vesicle proteins in pediatric inflammatory bowel disease. Nature Communications 9, 2873.
+
+Z HANG, X., YUAN, X., SHI, H., WU, L., Q IAN, H. & X U, W. (2015b). Exosomes in cancer: small particle, big player. Journal of Hematology & Oncology 8, 83.
+
+Z HANG, Y., LIU, Y., LIU, H. & TANG, W. H. (2019). Exosomes: biogenesis, biologic function and clinical potential. Cell & Bioscience 9, 19.
+
+Z HAO, Z., YU, S., L I, M., GUI, X. & LI, P. (2018). Isolation of exosome-like nanoparticles and analysis of microRNAs derived from coconut water based on small RNA high-throughput sequencing. Journal of Agricultural and Food Chemistry 66, 2749–2757.
+
+Z HEN, Y. & Z HANG, H. (2019). NLRP3 inflammasome and inflammatory bowel disease. Frontiers in Immunology 10, 276.
+
+Z HENG, X., C HEN, F., ZHANG, Q., LIU, Y., Y OU, P., S UN, S., L IN, J. & CHEN, N. (2017). Salivary exosomal PSMA7: a promising biomarker of inflammatory bowel disease. Protein & Cell 8, 686–695.
+
+Z HOU, F., P AZ, H. A., SADRI, M., C UI, J., K ACHMAN, S. D., F ERNANDO, S. C. & Z EMPLENI, J. (2019). Dietary bovine milk exosomes elicit changes in bacterial communities in C57BL/6 mice. American Journal of Physiology-Gastrointestinal and Liver Physiology 317, G618–G624.
+
+Z HOU, G., YU, L., F ANG, L., YANG, W., YU, T., MIAO, Y., C HEN, M., W U, K., C HEN, F., C ONG, Y. & LIU, Z. (2018a). CD177+ neutrophils as functionally activated neutrophils negatively regulate IBD. Gut 67, 1052–1063.
+
+Z HOU, H., XIAO, J., W U, N., LIU, C., XU, J., LIU, F. & W U, L. (2015). MicroRNA-223 regulates the differentiation and function of intestinal dendritic cells and macrophages by targeting C/EBPβ. Cell Reports 13, 1149–1160.
+
+Z HOU, R., C HEN, K. K., ZHANG, J., X IAO, B., H UANG, Z., JU, C., S UN, J., Z HANG, F., LV, X.-B. & HUANG, G. (2018b). The decade of exosomal long RNA species: an emerging cancer antagonist. Molecular Cancer 17, 75.
+
+Z HU, Q., H EON, M., Z HAO, Z. & H E, M. (2018). Microfluidic engineering of exosomes: editing cellular messages for precision therapeutics. Lab on a Chip 18, 1690–1703.
+
+(Received 10 February 2020; revised 20 April 2020; accepted 22 April 2020; published online 14 May 2020)
+
+Biological Reviews 95 (2020) 1287–1307 © 2020 The Authors. Biological Reviews published by John Wiley & Sons Ltd on behalf of Cambridge Philosophical Society.

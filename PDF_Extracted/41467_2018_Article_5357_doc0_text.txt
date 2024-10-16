@@ -1,0 +1,25 @@
+# ARTICLE
+
+# DOI: 10.1038/s41467-018-05357-4
+
+# Metaproteomics reveals associations between microbiome and intestinal extracellular vesicle proteins in pediatric inflammatory bowel disease
+
+Xu Zhang1, Shelley A. Deeke, Zhibin Ning1, Amanda E. Starr, James Butcher, Jennifer Li, Janice Mayne1, Kai Cheng1, Bo Liao, Leyuan Li, Ruth Singleton2, David Mack2, Alain Stintzi1 & Daniel Figeys1,3,4
+
+Alterations in gut microbiota have been implicated in the pathogenesis of inflammatory bowel disease (IBD), however factors that mediate the host–microbiota interactions remain largely unknown. Here we collected mucosal-luminal interface samples from a pediatric IBD inception cohort and characterized both the human and microbiota proteins using metaproteomics. We show that microbial proteins related to oxidative stress responses are upregulated in IBD cases compared to controls. In particular, we demonstrate that the expression of human proteins related to oxidative antimicrobial activities is increased in IBD cases and correlates with the alteration of microbial functions. Additionally, we reveal that many of these human proteins are present and show altered abundance in isolated free extracellular vesicles (EVs). Therefore, our study suggests that the alteration of intestinal EV proteomes is associated with the aberrant host–microbiota interactions in IBD.
+
+1Ottawa Institute of Systems Biology and Department of Biochemistry, Microbiology and Immunology, Faculty of Medicine, University of Ottawa, 451 Smyth Road, Ottawa, ON K1H 8M5, Canada.
+
+2Department of Paediatrics, Faculty of Medicine, University of Ottawa and Children’s Hospital of Eastern Ontario Inflammatory Bowel Disease Centre and Research Institute, 401 Smyth Road, Ottawa, ON K1H 8L1, Canada.
+
+3Department of Chemistry and Biomolecular Sciences, University of Ottawa, 10 Marie Curie, Ottawa, ON K1N 6N5, Canada.
+
+4Canadian Institute for Advanced Research, 661 University Ave, Toronto, ON M5G 1M1, Canada.
+
+These authors contributed equally: Xu Zhang, Shelley A. Deeke.
+
+D.M. (email: dmack@cheo.on.ca) or to A.S. (email: astintzi@uottawa.ca) or to D.F. (email: dfigeys@uottawa.ca)
+
+Correspondence and requests for materials should be addressed to
+
+NATURE COMMUNICATIONS | (2018) 9:2873 | DOI: 10.1038/s41467-018-05357-4 | www.nature.com/naturecommunications

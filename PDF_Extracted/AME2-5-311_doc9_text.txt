@@ -1,0 +1,43 @@
+# References
+
+1. Liu B, Liu T, Wang X, et al. Effects of Guchang capsule on dextran sulphate sodium-induced experimental ulcerative colitis in mice. Evid Based Complement Alternat Med. 2016;2016:3150651.
+2. Jin B-R, Chung K-S, Cheon S-Y, et al. Rosmarinic acid suppresses colonic inflammation in dextran sulphate sodium (DSS)- induced mice via dual inhibition of NF-κB and STAT3 activation. Sci Rep. 2017;7:46252.
+3. Creyns B, Cremer J, Hoshino T, et al. Fibrogenesis in chronic DSS colitis is not influenced by neutralisation of regulatory T cells, of major T helper cytokines or absence of IL-13. Sci Rep. 2019;9:10064.
+4. Ben-Ami Shor D, Lachnish J, Bashi T, et al. Immunomodulation of murine chronic DSS-induced colitis by tuftsin-phosphorylcholine. J Clin Med. 2019;9:65.
+5. Vidal-Lletjós S, Andriamihaja M, Blais A, et al. Mucosal healing progression after acute colitis in mice. World J Gastroenterol. 2019;25:3572-3589.
+6. Abad C, Martinez C, Juarranz MG, et al. Therapeutic effects of vasoactive intestinal peptide in the trinitrobenzene sulfonic acid mice model of Crohn's disease. Gastroenterology. 2003;124:961-971.
+7. Fuss IJ, Boirivant M, Lacy B, et al. The interrelated roles of TGF-beta and IL-10 in the regulation of experimental colitis. J Immunol. 2002;168:900-908.
+8. Lee IA, Hyun YJ, Kim DH. Berberine ameliorates TNBS-induced colitis by inhibiting lipid peroxidation, enterobacterial growth and NF-κB activation. Eur J Pharmacol. 2010;648:162-170.
+9. Oh SY, Cho KA, Kang JL, et al. Comparison of experimental mouse models of inflammatory bowel disease. Int J Mol Med. 2014;33:333-340.
+10. Colombo BB, Fattori V, Guazelli CFS, et al. Vinpocetine ameliorates acetic acid-induced colitis by inhibiting NF-κB activation in mice. Inflammation. 2018;41:1276-1289.
+11. Zhang J, Jiao Y, Hou S, et al. S100A4 contributes to colitis development by increasing the adherence of Citrobacter rodentium in intestinal epithelial cells. Sci Rep. 2017;7:12099.
+12. Tsai PY, Zhang B, He WQ, et al. IL-22 upregulates epithelial claudin-2 to drive diarrhea and enteric pathogen clearance. Cell Host Microbe. 2017;21:671-681.e4.
+13. Park JI, Seo SM, Park JH, et al. A murine colitis model developed using a combination of dextran sulfate sodium and Citrobacter rodentium. J Microbiol. 2018;56:272-279.
+14. Durgan DJ, Lee J, McCullough LD, et al. Examining the role of the microbiota-gut-brain axis in stroke. Stroke 2019;50:2270-2277.
+15. Fava F, Danese S. Intestinal microbiota in inflammatory bowel disease: friend or foe? World J Gastroenterol. 2011;17:557-566.
+16. Dovrolis N, Michalopoulos G, Theodoropoulos GE, et al. The interplay between mucosal microbiota composition and host gene expression is linked with infliximab response in inflammatory bowel diseases. Microorganisms. 2020;8:438.
+17. Matsuoka K, Kanai T. The gut microbiota and inflammatory bowel disease. Semin Immunopathol. 2015;37:47-55.
+18. Frank DN, St Amand AL, Feldman RA, et al. Molecular-phylogenetic characterization of microbial community imbalances in human inflammatory bowel diseases. Proc Natl Acad Sci USA. 2007;104:13780-13785.
+19. Walker AW, Sanderson JD, Churcher C, et al. High-throughput clone library analysis of the mucosa-associated microbiota reveals dysbiosis and differences between inflamed and non-inflamed regions of the intestine in inflammatory bowel disease. BMC Microbiol. 2011;11:7.
+20. Sartor RB, Wu GD. Roles for intestinal bacteria, viruses, and fungi in pathogenesis of inflammatory bowel diseases and therapeutic approaches. Gastroenterology. 2017;152:327-339.e4.
+21. Knox NC, Forbes JD, Peterson CL, et al. The gut microbiome in inflammatory bowel disease: lessons learned from other immune-mediated inflammatory diseases. Am J Gastroenterol. 2019;114:1051-1070.
+22. Gevers D, Kugathasan S, Denson LA, et al. The treatment-naive microbiome in new-onset Crohn's disease. Cell Host Microbe. 2014;15:382-392.
+23. Bartels LE, Jepsen P, Christensen LA, et al. Diagnosis of helicobacter pylori infection is associated with lower prevalence and subsequent incidence of Crohn's disease. J Crohns Colitis. 2016;10:443-448.
+24. Mirsepasi-Lauridsen HC, Vrankx K, Engberg J, et al. Disease-specific enteric microbiome dysbiosis in inflammatory bowel disease. Front Med. 2018;5:304.
+25. Vester-Andersen MK, Mirsepasi-Lauridsen HC, Prosberg MV, et al. Increased abundance of proteobacteria in aggressive Crohn's disease seven years after diagnosis. Sci Rep. 2019;9:13473.
+26. Shaw KA, Bertha M, Hofmekler T, et al. Dysbiosis, inflammation, and response to treatment: a longitudinal study of pediatric subjects with newly diagnosed inflammatory bowel disease. Genome Med. 2016;8:75.
+27. Bajer L, Kverka M, Kostovcik M, et al. Distinct gut microbiota profiles in patients with primary sclerosing cholangitis and ulcerative colitis. World J Gastroenterol. 2017;23:4548-4558.
+28. Machiels K, Joossens M, Sabino J, et al. A decrease of the butyrate-producing species Roseburia hominis and Faecalibacterium prausnitzii defines dysbiosis in patients with ulcerative colitis. Gut. 2014;63:1275-1283.
+29. Ohkusa T, Sato N, Ogihara T, et al. Fusobacterium varium localized in the colonic mucosa of patients with ulcerative colitis stimulates species-specific antibody. J Gastroenterol Hepatol. 2002;17:849-853.
+30. Li AL, Ni WW, Zhang QM, et al. Effect of cinnamon essential oil on gut microbiota in the mouse model of dextran sodium sulfate-induced colitis. Microbiol Immunol. 2020;64:23-32.
+31. Håkansson Å, Tormo-Badia N, Baridi A, et al. Immunological alteration and changes of gut microbiota after dextran sulfate sodium (DSS) administration in mice. Clin Exp Med. 2015;15:107-120.
+32. Jang SE, Jeong JJ, Kim JK, et al. Simultaneous amelioration of colitis and liver injury in mice by bifidobacterium longum LC67 and Lactobacillus plantarum LC27. Sci Rep. 2018;8:7500.
+33. Jang SE, Lim SM, Jeong JJ, et al. Gastrointestinal inflammation by gut microbiota disturbance induces memory impairment in mice. Mucosal Immunol. 2018;11:369-379.
+34. Li P, Lei J, Hu G, et al. Matrine mediates inflammatory response via gut microbiota in TNBS-induced murine colitis. Front Physiol. 2019;10:28.
+35. Wu X, Zheng Y, Ma J, et al. The effects of dietary glycine on the acetic acid-induced mouse model of colitis. Mediators Inflamm. 2020;2020:5867627.
+36. K-da S, Peerakietkhajorn S, Siringoringo B, et al. Oligosaccharides from Gracilaria fisheri ameliorate gastrointestinal dysmotility and gut dysbiosis in colitis mice. J Funct Foods. 2020;71:104021.
+37. Lin R, Piao M, Song Y. Dietary quercetin increases colonic microbial diversity and attenuates colitis severity in citrobacter rodentium-infected mice. Front Microbiol. 2019;10:1092.
+38. Xavier RJ, Podolsky DK. Unravelling the pathogenesis of inflammatory bowel disease. Nature. 2007;448:427-434.
+39. Glassner KL, Abraham BP, Quigley EMM. The microbiome and inflammatory bowel disease. J Allergy Clin Immunol. 2020;145:16-27.
+40. Nagao-Kitamoto H, Shreiner AB, Gillilland MG 3rd, et al. Functional characterization of inflammatory bowel disease-associated gut dysbiosis in gnotobiotic mice. Cell Mol Gastroenterol Hepatol. 2016;2:468-481.
+41. Bien J, Palagani V, Bozko P. The intestinal microbiota dysbiosis and Clostridium difficile infection: is there a relationship with inflammatory bowel disease? Therap Adv Gastroenterol. 2013;6:53-68.

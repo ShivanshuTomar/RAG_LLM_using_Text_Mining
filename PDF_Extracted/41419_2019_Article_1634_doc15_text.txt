@@ -1,0 +1,59 @@
+# Microbial and imputed metagenomic analysis
+
+The 16S rRNA sequencing data were processed by the Quantitative Insights Into Microbial Ecology platform (V.1.9.1) and MegaBLAST search was conducted to align the reads of the Operational taxonomic units against the reference sequences in the National Center for Biotechnology Information 16S rRNA database as described previously69. For metagenomic analysis, the metagenomes of gut microbiome were imputed from 16S rRNA sequences with PICRUSt (Phylogenetic Investigation of Communities by Reconstruction of Unobserved States). The gene contents were predicted for each sample and pathways present in less than 10% of the samples were not included in the comparison analysis.
+
+# Statistical analysis
+
+Data were presented as means ± SEM. A two-way analysis of variance (ANOVA) followed by Bonferroni’s post-hoc test for repeated measures were used for the analysis of the statistical significance of the colitis clinical scores between treatments. For other analysis, a Kruskal–Wallis test followed by Dunn’s post-hoc test and one-way ANOVA followed by Bonferroni’s post-hoc test was used to determine nonparametric data and continuous variables, respectively. A P-value < 0.05 was considered statistically significant. Data were analyzed with SPSS 21.0 K for Windows (SPSS, Chicago, IL, USA).
+
+# Acknowledgements
+
+Chao-Yu Miao is supported by National Natural Science Foundation of China Major Project (Grant No 81730098). Yu Bai is supported by the National Key R&D Program of China (2017YFC1308800, 2018YFC1313103), National Natural Science Foundation of China (Grant No. 81670473 and 81873546) and Three Engineering Training Funds in Shenzhen (No. SYLY201718).
+
+# Author details
+
+1Department of Gastroenterology, Changhai Hospital, Second Military Medical University/Naval Medical University, Shanghai, China. 2General Hospital of the Chinese People’s Liberation Army, Beijing, China. 3 Department of Pharmacology, Second Military Medical University/Naval Medical University, Shanghai, China
+
+# Authors' contributions
+
+S.-L.W. and B.-Z.S. designed and performed the majority of the experiments, analyzed the data, and wrote the manuscript. S.-B.Z. conducted some animal experiments, analyzed the data, and wrote the manuscript. X.C. conducted some animal experiments and analyzed some data. P.W. edited and reviewed the manuscript. C.-Y.M. designed the experiments, supervised the study, and edited and reviewed the manuscript. Z.-S.L. formulated the hypothesis, supervised the study, and edited and reviewed the manuscript. Y.B. formulated the hypothesis, designed the experiments, and edited and reviewed the manuscript.
+
+# Conflict of interest
+
+The authors declare that they have no conflict of interest.
+
+# Publisher’s note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Supplementary Information accompanies this paper at (https://doi.org/10.1038/s41419-019-1634-x).
+
+Received: 2 February 2019 Revised: 14 April 2019 Accepted: 7 May 2019 Published online: 30 September 2019
+
+# References
+
+1. Palmela, C. et al. Adherent-invasive Escherichia coli in inflammatory bowel disease. Gut 67, 574–587 (2018).
+2. Singh, S. et al. Postoperative mortality among patients with inflammatory bowel diseases: A systematic review and meta-analysis of population-based studies. Gastroenterology 149, 928–937 (2015).
+3. Gracie, D. J. & Ford, A. C. A bidirectional relationship between symptom reporting and perceived stress, but not disease activity, in inflammatory bowel disease: more questions than answers? Gastroenterology 153, 1444–1445 (2017).
+4. Guerrero-Alba, R. et al. Stress activates pronociceptive endogenous opioid signalling in DRG neurons during chronic colitis. Gut 66, 2121–2131 (2017).
+5. Gavin, K. M. et al. Gonadotropin releasing hormone agonist in premenopausal women does not alter hypothalamic-pituitary-adrenal axis response to corticotropin-releasing hormone. Am. J. Physiol. Endocrinol. Metabol. 315, 316–325 (2018).
+6. Armario, A. Activation of the hypothalamic-pituitary-adrenal axis by addictive drugs: different pathways, common outcome. Trends Pharmacol. Sci. 31, 318–325 (2010).
+7. Vanuytsel, T. et al. Psychological stress and corticotropin-releasing hormone increase intestinal permeability in humans by a mast cell-dependent mechanism. Gut 63, 1293–1299 (2014).
+8. Li, B. et al. Inhibition of corticotropin-releasing hormone receptor 1 and activation of receptor 2 protect against colonic injury and promote epithelium repair. Sci. Rep. 7, 46616 (2017).
+9. Kountouras, J., Polyzos, S. A. & Deretzi, G. Multiple bidirectionality brain-gut interactions in patients with inflammatory bowel disease. Gastroenterology 155, 1651–1652 (2018).
+10. Mawdsley, J. E. & Rampton, D. S. Psychological stress in IBD: new insights into pathogenic and therapeutic implications. Gut 54, 1481–1491 (2005).
+11. Shao, B. Z., Han, B. Z., Zeng, Y. X., Su, D. F. & Liu, C. The roles of macrophage autophagy in atherosclerosis. Acta Pharmacol. Sinica 37, 150–156 (2016).
+12. Wang, P. et al. Autophagy in ischemic stroke. Prog. Neurobiol. 163–164, 98–117 (2018).
+13. Pott, J., Kabat, A. M. & Maloy, K. J. Intestinal epithelial cell autophagy is required to protect against TNF-induced apoptosis during chronic colitis in mice. Cell Host Microbe 23, 191–202 e194 (2018).
+14. Kabat, A. M. et al. The autophagy gene Atg16l1 differentially regulates Treg and TH2 cells to control intestinal inflammation. Elife 5, e12444 (2016).
+15. Dai, Y. C. et al. Jianpi Qingchang decoction regulates intestinal motility of dextran sulfate sodium-induced colitis through reducing autophagy of interstitial cells of Cajal. World J. Gastroenterol. 23, 4724–4734 (2017).
+16. Zhang, Y. S., Wang, F., Cui, S. X. & Qu, X. J. Natural dietary compound naringin prevents azoxymethane/dextran sodium sulfate-induced chronic colorectal inflammation and carcinogenesis in mice. Cancer Biol. Ther. 19, 735–744 (2018).
+17. Marchesi, J. R. et al. The gut microbiota and host health: a new clinical frontier. Gut 65, 330–339 (2016).
+18. Schaubeck, M. et al. Dysbiotic gut microbiota causes transmissible Crohn’s disease-like ileitis independent of failure in antimicrobial defence. Gut 65, 225–237 (2016).
+19. Morgan, X. C. et al. Dysfunction of the intestinal microbiome in inflammatory bowel disease and treatment. Genome Biol. 13, R79 (2012).
+20. Murakami, T. et al. Changes in intestinal motility and gut microbiota composition in a rat stress model. Digestion 95, 55–60 (2017).
+21. Bedini, O. A., Naves, A., San Miguel, P., Quispe, A. & Guida, C. [Metaplasic Paneth cells in ulcerative colitis]. Acta Gastroenterologica Latinoamericana 44, 285–289 (2014).
+22. AlShawaqfeh, M. K. et al. A dysbiosis index to assess microbial changes in fecal samples of dogs with chronic inflammatory enteropathy. FEMS Microbiol. Ecol. 93 (2017). https://doi.org/10.1093/femsec/fix136.
+23. Suchodolski, J. S. et al. The fecal microbiome in dogs with acute diarrhea and idiopathic inflammatory bowel disease. PLoS ONE 7, e51907 (2012).
+
+Official journal of the Cell Death Differentiation Association

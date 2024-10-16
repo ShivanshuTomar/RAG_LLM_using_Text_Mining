@@ -1,0 +1,31 @@
+# Wang et al. Cell Death and Disease (2019) 10:391
+
+# Fig. 6 Chloroquine ameliorates CRH-induced colonic damage and Paneth cell metaplasia in IBD mice.
+
+DSS (3%) was given to C57BL/6 mice for 6 days while water was given to the control group. For certain groups, CRH (50 μg/kg body weight) and/or chloroquine (60 mg/kg body weight) was intraperitoneally given from day 1 to day 6 and saline was injected as vehicle.
+
+a–c Body weight, the presence of occult or gross blood per rectum, stool consistency, and colon length were determined by two investigators blinded to the treatment groups. Compared to the DSS + Vehicle group, the mice in the DSS + CRH group exhibited significant deterioration in body weight loss, bloody stool score, and colon length, while the administration of chloroquine largely attenuated the aggravated effect of CRH (n = 8 per group). **P &lt; 0.01 vs. the control group, ##P &lt; 0.01 vs. the DSS + Vehicle group, $$P &lt; 0.01 vs. the DSS + CRH group.
+
+d–h The left edge of the left colon was isolated and the levels of TNF-α, IL-18, IL-7, MPO, and the MPO activity in the left colon were analyzed by ELISA and O-dianisidine method. Compared to the DSS + Vehicle group, the mice in the DSS + CRH group showed aggravated colonic inflammation, while the administration of chloroquine largely attenuated the effect of CRH (n = 6 per group). *P &lt; 0.05, **P &lt; 0.01.
+
+i The left edge of the left colon was isolated and fixed and H&E staining was used for the detection of histological score. Compared to the DSS + Vehicle group, the mice in the DSS + CRH group showed aggravated inflammatory infiltration in the left colon, while the administration of chloroquine largely attenuated the effect of CRH (n = 8 per group). *P &lt; 0.05, **P &lt; 0.01.
+
+j The left edge of the colon was separated and fixed and immunohistochemical staining was used for the detection of Paneth cell. IOD values were analyzed. Compared to the DSS + Vehicle group, the mice in the DSS + CRH group showed enhancement of Paneth cell metaplasia in the epithelium of the left colon, while the administration of chloroquine largely attenuated the effect of CRH (n = 6 per group). *P &lt; 0.05, **P &lt; 0.01.
+
+# (Fig. 8c–f)
+
+In addition, chloroquine attenuated CRH-induced increase in CD68 messenger RNA (mRNA) and decrease in CD206 mRNA in LPS-treated BMDM (Supplemental Fig. 2). Taken together, these data indicated that autophagy was involved in CRH-induced enhancement of the M1/M2 ratio in the left colon from IBD mice and in murine BMDM under the challenge of LPS.
+
+Our results showed that there was a moderate correlation between the perceived stress and IBD severity in patients. In addition, this study for the first time reported the influence of peripheral CRH in the homeostasis of gut microbiota.
+
+# Discussion
+
+Various studies have illustrated that patients with IBD symptoms are more likely to have higher levels of psychosocial or perceived stress. There are several major findings in this report. Firstly, this study demonstrated that autophagy was substantially enhanced in the intestinal tissue of CRH-administrated IBD mice, suggesting a negative role of autophagy in psychosocial stress-related IBD.
+
+Furthermore, we confirmed this phenotype by showing that autophagic blocker successfully abolished the action of CRH in IBD model and in LPS-treated BMDM. Second, CRH administration markedly changed the gut microbiota in the intestine of IBD mice. Finally, our results clearly indicated that the psychosocial stress was positively associated with autophagy marker in intestinal samples from IBD patients.
+
+All of these data imply that autophagy plays a crucial role in the pathophysiology of psychosocial stress-related IBD by regulating the interaction between intestinal mucosal barrier and microbiota and promoting macrophage M1/M2 polarization (Supplemental Fig. 3).
+
+CRH was highly produced in the mucosal epithelial cells of colonic tissues from IBD patients both in protein and mRNA levels and was involved in the damage to mucosal barrier function and induction of colonic hyper-permeability. The present study used CRH to induce stress orders resulting in the stress-related intestinal disorder and showed that peripheral administration of CRH in IBD mice significantly deteriorated the severity of IBD in the.
+
+Official journal of the Cell Death Differentiation Association

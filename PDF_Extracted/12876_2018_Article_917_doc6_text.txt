@@ -1,0 +1,37 @@
+# Imhann et al. BMC Gastroenterology (2019) 19:5
+
+# Future LONGITUDAL sampling of biomaterial
+
+In addition to the current 1000IBD biomaterial collections, subsets of the 1000IBD cohort will be sampled longitudinally. In the IBD Tracker project, a selection of 1000IBD participants will undergo weekly stool sampling. A separate IRB approval has been obtained for this project.
+
+# Local infrastructure and software
+
+Structured IBD-specific electronic health record
+
+All clinical phenotype data from described in the information model (Additional file 1: Table S1) is collected using an IBD-specific electronic health record (IBD-EHR). This IBD-EHR is used in clinical care and will, in time, be integrated into the new UMCG hospital electronic health record system, EPIC (http://www.epic.com).
+
+# Patient reported outcome measures using an online tool: myIBDcoach
+
+Some phenotypes are scored by the IBD patients themselves. To assist patients in scoring these patient-reported outcome measures (PROMS), e.g. clinical disease activity, a smartphone app and a web application called myIBDcoach is used [33]. Gradually, more PROMS will be implemented and added to the phenotype model.
+
+# Research data in MOLGENIS research
+
+Once phenotype data is extracted from the IBD-EHR and the myIBDCoach smartphone app, it is uploaded into MOLGENIS Research, a web-based application that automatically generates the summary statistics [34, 35].
+
+# Raw sequencing data stored on a high-performance computer cluster
+
+Raw sequencing data is stored on the Calculon high-performance computer cluster of the UMCG.
+
+# 16S rRNA gene tag sequencing data
+
+The hyper-variable region V4 of the 16S rRNA gene of microbial DNA of 315 stool samples from 315 1000IBD participants and 107 intestinal biopsies of 107 1000IBD participants was sequenced using the Illumina MiSeq. After sequencing, custom scripts were used to remove the primer sequences and align the paired end reads [7].
+
+# Shotgun metagenomic sequencing data from stool samples
+
+Microbial DNA of 544 stool samples from 544 1000IBD participants was whole genome shotgun sequenced using the Illumina HiSeq platform. Basic QC was performed by the sequencing facility using an in-house pipeline to remove low quality reads from the raw metagenomic sequencing data. Samples with a read depth less than 10 million reads were excluded. Next, quality trimming and adapter removal was performed using Trimmomatic (v.0.32) [32].
+
+# Utility and discussion
+
+Use of 1000IBD data
+
+The data of the 1000IBD project has already led to a number of important discoveries. The Immunochip genotypes were used to unravel the host genetic landscape of IBD as part of the IBD Genetics Consortium effort [2, 3, 6]. The UC pooled targeted resequencing study lead to the discovery of a novel UC-associated variant [28]. The gut microbiome data was used to detect the microbial composition of the gut in IBD patients [8]. Phenotype, genotype and gut

@@ -1,0 +1,54 @@
+# Scientific Reports
+
+# (2023) 13:19428
+
+# www.nature.com/scientificreports/
+
+largest was the one mainly composed of R. torques, Anaerostipes hadrus, Lachnospiraceae bacterium 5 1 63FAA, plus other minor species. The pathways belonging to the last two mentioned species were strictly intertwined forming the second largest ball-shaped group of nodes. The same ball-shaped group of nodes was present in the CD correlation network, by contrast, in the UC correlation network, the two species were in the same module and the nodes were not mixed in the ball but they laid separately. The highest betweenness centralities of each correlation network can be found respectively in Tables 7, 8, and 9. The NI network contains a variety of central pathways from different bacterium species, by contrast, the UC network has several central pathways belonging to Enterocloster bolteae.
+
+In the NI network projection, we obtained a network with 910 nodes and 20078 edges. As it is possible to notice in Fig. 5, several modules emerged from the network. The most evident was the E. coli module which was one of the modules that composed the E. coli group in the uncommon pathways. This bigger module was
+
+# Table 7. Top 10 pathway nodes with the highest betweenness centrality in the non-IBD (NI) correlation network with uncommon pathways.
+
+|Node|Pathway|Betweenness centrality|
+|---|---|---|
+|263|PANTO-PWY|RUMINOCOCCUS_GNAVUS|0.163|
+|969|PWY-7208|EUBACTERIUM_RECTALE|0.112|
+|1159|PWY0-1298|UNCLASSIFIED|0.043|
+|1112|PWY-7383|UNCLASSIFIED|0.039|
+|1007|PWY-7219|EUBACTERIUM_HALLII|0.035|
+|836|PWY-6609|RUMINOCOCCUS_GNAVUS|0.034|
+|819|PWY-6527|FAECALIBACTERIUM_PRAUSNITZII|0.033|
+|756|PWY-6385|BACTEROIDES_XYLANISOLVENS|0.032|
+|1250|RHAMCAT-PWY|ROSEBURIA_INTESTINALIS|0.031|
+|198|ILEUSYN-PWY|RUMINOCOCCUS_OBEUM|0.028|
+
+# Table 8. Top 10 pathway nodes with the highest betweenness centrality in the Crohn’s disease (CD) correlation network with uncommon pathways.
+
+|Node|Pathway|Betweenness centrality|
+|---|---|---|
+|156|GLCMANNANAUT-PWY|DOREA_LONGICATENA|0.180|
+|500|PWY-5676|UNCLASSIFIED|0.072|
+|265|PANTO-PWY|BURKHOLDERIALES_BACTERIUM_1_1_47|0.059|
+|395|PWY-5097|BACTEROIDES_STERCORIS|0.058|
+|247|P162-PWY|UNCLASSIFIED|0.053|
+|913|PWY-6897|UNCLASSIFIED|0.052|
+|1312|VALSYN-PWY|DOREA_FORMICIGENERANS|0.048|
+|895|PWY-6737|DOREA_LONGICATENA|0.046|
+|670|PWY-6151|ROSEBURIA_INTESTINALIS|0.043|
+|1003|PWY-7219|DOREA_FORMICIGENERANS|0.042|
+
+# Table 9. Top 10 pathway nodes with the highest betweenness centrality in the ulcerative colitis (UC) correlation network with uncommon pathways.
+
+|Node|Pathway|Betweenness centrality|
+|---|---|---|
+|131|DTDPRHAMSYN-PWY|ESCHERICHIA_COLI|0.175|
+|571|PWY-6121|ENTEROCLOSTER_BOLTEAE|0.129|
+|753|PWY-6353|UNCLASSIFIED|0.097|
+|1096|PWY-7282|BACTEROIDES_FRAGILIS|0.097|
+|622|PWY-6123|BACTEROIDES_FRAGILIS|0.095|
+|178|GLYCOL-GLYOXDEG-PWY|ESCHERICHIA_COLI|0.053|
+|599|PWY-6122|ENTEROCLOSTER_BOLTEAE|0.039|
+|713|PWY-6277|ENTEROCLOSTER_BOLTEAE|0.039|
+|155|GLCMANNANAUT-PWY|RUMINOCOCCUS_TORQUES|0.029|
+|1143|PWY0-1296|ENTEROCLOSTER_BOLTEAE|0.027|

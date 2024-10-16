@@ -1,0 +1,17 @@
+# Zhao et al. Microbiome (2022) 10:115
+
+# Enzyme‑linked immunosorbent assay
+
+The cytokines in colon homogenate and TJ proteins in mucosal tissue were analysed using an enzyme-linked immunosorbent assay (ELISA) kit (Hnybio, Shanghai, China) according to the manufacturer’s instructions.
+
+# Statistical analysis
+
+Phenotypic clinical evaluation, colonic SCFA concentration and immune cell and key immune factor content data were analysed using SPSS statistical software with the t-test. The results are presented as the mean and standard error of the mean (SEM). Statistical significance was based on a P-value < 0.05 (*P < 0.05, **P < 0.01 and ***P < 0.001). Microbial families and genera were compared using linear discriminant analysis effect size (LEfSe), and significant differences were denoted by an LDA score > 2 and P-value < 0.05. For metabolome data, partial least squares discriminant analysis (PLS-DA) and t-tests were performed between control and diseased individuals of the two breeds, with P < 0.05 and VIP > 1 indicating significantly different metabolites.
+
+# Results
+
+# Pig breeds exhibit varying degrees of phenotypic characteristics of disease resistance
+
+The unambiguously different disease resistance phenotypes of Min and Yorkshire pigs may be related to gut microbiota composition and host gut biological function. For this reason, it is imperative to first determine if there are distinct phenotypic differences between Min pigs and Yorkshire pigs. Therefore, we compared control Min pigs with acute colitis models of Min pigs (M-CON vs. M-DSS) and control Yorkshire pigs with acute colitis models of Yorkshire pigs (Y-CON vs. Y-DSS) (Fig. 1a).
+
+To enable a more intuitive comparison of two pig breeds, the disease activity index (DAI) and histological activity index (HAI) evaluation were used to compare disease activity between control individuals and DSS-induced colitis models. The DAI and HAI were increased in M-DSS and Y-DSS pigs compared with M-CON and Y-CON pigs, confirming the successful establishment of experimental colitis. Although impairments were observed in both M-DSS and Y-DSS pigs, Y-DSS pigs exhibited earlier and more severe organismal damage, as indicated by high body weight loss, stool consistency and haematochezia scores and extensive mucosal disease and crypt loss (P < 0.01) (Fig. 1b, c and g). These observations suggested differences in disease resistance between the two pig breeds. An important element of immunophenotype is the proportion of the colon and spleen, an immune organ containing abundant lymphocytes, in.

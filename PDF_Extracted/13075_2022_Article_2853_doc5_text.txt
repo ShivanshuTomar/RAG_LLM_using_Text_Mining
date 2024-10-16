@@ -1,0 +1,13 @@
+# Sternes et al. Arthritis Research & Therapy (2022) 24:163
+
+# Page 6 of 10
+
+# Fig. 3
+
+Comparison of microbiome composition in the Australian cohort, sampled from terminal ileum, rectum, right colon and stool, whilst accounting for repeated sampling. Composition was measured according to BASDAI. A sPLSDA visualisation of microbiome composition (beta diversity) according to BASDAI. B PERMANOVA significance testing of beta diversity according to BASDAI. C Comparison of species richness (alpha diversity) according to BASDAI.
+
+IBD patients with elevated FCP, and Lachnospira was noted to be depleted in both IBD and IBD patients with elevated FCP.
+
+# Discussion
+
+Using a standardised analysis, this study reconfirmed the occurrence of gut dysbiosis in AS and IBD patients relative to healthy controls, as well as demonstrating a significant difference between the AS and IBD microbiomes. Differences were not only limited to the overall microbial composition (beta diversity), but also the species richness (alpha diversity), with IBD patients exhibiting a significantly less diverse microbiome compared to AS patients (Fig. 1). Clinically evident IBD has been observed in 6–14% [36] of AS patients. In the current study, AS patients with concomitant IBD (AS-IBD) exhibited a further differentiation of the microbiome compared to AS patients, both in terms of the overall composition and by reduced species richness, acknowledging.

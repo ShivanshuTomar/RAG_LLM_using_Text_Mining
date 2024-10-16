@@ -1,0 +1,98 @@
+# Wang et al. Cell Death and Disease (2019) 10:391
+
+# Page 9 of 17
+
+|Cotrcl|Chloroquine|B|Control|Chlorcquine|Cioocur|D|Coo|Chcrocuno|
+|---|---|---|---|---|---|---|---|---|
+|CrH|#chlcroquine|CRH|DSStchioroquine|DSS-chcroclno|DSS|DSS-CRHtchlorcquine|DSS|DSS+CRH-chloroquine|
+|DSS-CRH| |DSS+CRH| |CSS-CAA| | | | |
+
+# 1
+
+110
+
+# 100
+
+8
+
+# 80
+
+3
+
+# Time (days)
+
+# E
+
+[
+
+# 1
+
+[
+
+# 2
+
+!
+
+# 8
+
+2
+
+8
+
+# 8
+
+Control
+
+CRH
+
+DSS
+
+DSS+CRH
+
+Chloroquine
+
+DSS+Chloroquine
+
+DSS+CRH+Chloroquine
+
+Contrc'
+
+DSS cbiodunt
+
+CEEE nSS+CRH
+
+L
+
+# Control
+
+CRH
+
+DSS
+
+DSS+CRH
+
+1
+
+Chloroquine
+
+DSS+Chloroquine
+
+DSS+CRH+Chloroquine
+
+Conlio
+
+Chocorna
+
+DSS-CRH
+
+# 80000
+
+# 60000
+
+# 40000
+
+# 20000
+
+# Fig. 6 (See legend on next page.)
+
+Official journal of the Cell Death Differentiation Association

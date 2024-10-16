@@ -1,0 +1,26 @@
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+|Outcome|Adverse Events|Estimation|Studies|Certainty|Comments|
+|---|---|---|---|---|---|
+|Any adverse events with use of FMT for maintenance of remission in CD|—|—|Not estimable (1 RCT)|⊕⊝⊝⊝|The evidence is very uncertain about the effect of FMT on any adverse events in people with CD in remission. The number of events was very small and the data were reported in such a way that an effect size could not be calculated from the only included study for this outcome.|
+|Maintenance of endoscopic remission in CD|—|—|—|(0 studies)|No data reported for this outcome.|
+|Quality-of-life scores with use of FMT for maintenance of remission in CD|—|—|—|(0 studies)|No data reported for this outcome.|
+
+*The risk in the intervention group (and its 95% confidence interval) is based on the assumed risk in the comparison group and the relative effect of the intervention (and its 95% CI).
+
+CD: Crohn disease; CI: confidence interval; FMT: fecal microbiota transplantation; RCT: randomized controlled trial; RR: risk ratio.
+
+# GRADE Working Group grades of evidence
+
+- High certainty: we are very confident that the true effect lies close to that of the estimate of the effect.
+- Moderate certainty: we are moderately confident in the effect estimate: the true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different.
+- Low certainty: our confidence in the effect estimate is limited: the true effect may be substantially different from the estimate of the effect.
+- Very low certainty: we have very little confidence in the effect estimate: the true effect is likely to be substantially different from the estimate of the effect.
+
+a Downgraded one level for risk of bias. The only included study was at high risk of bias due to lack of blinding of outcome assessors and high attrition.
+
+b Downgraded two levels due to imprecision. The number of events was very small and the data were reported in such a way that an effect size could not be calculated from the only included study for this outcome.
+
+Better health. Informed decisions. Trusted evidence.
+
+Cochrane Database of Systematic Reviews

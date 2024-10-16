@@ -1,0 +1,27 @@
+# Systematic assessment of secondary bile acid metabolism in gut microbes reveals distinct metabolic capabilities in inflammatory bowel disease
+
+# Almut Heinken1, Dmitry A. Ravcheev1, Federico Baldini2, Laurent Heirendt2, Ronan M. T. Fleming3 and Ines Thiele1,2,4*
+
+# Abstract
+
+Background: The human gut microbiome performs important functions in human health and disease. A classic example for host-gut microbial co-metabolism is host biosynthesis of primary bile acids and their subsequent deconjugation and transformation by the gut microbiome. To understand these system-level host-microbe interactions, a mechanistic, multi-scale computational systems biology approach that integrates the different types of omic data is needed. Here, we use a systematic workflow to computationally model bile acid metabolism in gut microbes and microbial communities.
+
+Results: Therefore, we first performed a comparative genomic analysis of bile acid deconjugation and biotransformation pathways in 693 human gut microbial genomes and expanded 232 curated genome-scale microbial metabolic reconstructions with the corresponding reactions (available at https://vmh.life). We then predicted the bile acid biotransformation potential of each microbe and in combination with other microbes. We found that each microbe could produce maximally six of the 13 secondary bile acids in silico, while microbial pairs could produce up to 12 bile acids, suggesting bile acid biotransformation being a microbial community task. To investigate the metabolic potential of a given microbiome, publicly available metagenomics data from healthy Western individuals, as well as inflammatory bowel disease patients and healthy controls, were mapped onto the genomes of the reconstructed strains. We constructed for each individual a large-scale personalized microbial community model that takes into account strain-level abundances. Using flux balance analysis, we found considerable variation in the potential to deconjugate and transform primary bile acids between the gut microbiomes of healthy individuals. Moreover, the microbiomes of pediatric inflammatory bowel disease patients were significantly depleted in their bile acid production potential compared with that of controls. The contributions of each strain to overall bile acid production potential across individuals were found to be distinct between inflammatory bowel disease patients and controls. Finally, bottlenecks limiting secondary bile acid production potential were identified in each microbiome model.
+
+Conclusions: This large-scale modeling approach provides a novel way of analyzing metagenomics data to accelerate our understanding of the metabolic interactions between the host and gut microbiomes in health and diseases states. Our models and tools are freely available to the scientific community.
+
+# Keywords:
+
+Gut microbiome, Bile acids, Host-microbe interactions, Metabolism, Genome-scale reconstruction, Constraint-based modeling, Personalized modeling, Systems biology
+
+# Correspondence:
+
+Ines.thiele@nuigalway.ie
+
+School of Medicine, National University of Ireland, Galway, University Road, Galway, Ireland
+
+Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belvaux, Luxembourg
+
+Full list of author information is available at the end of the article
+
+© The Author(s). 2019 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.

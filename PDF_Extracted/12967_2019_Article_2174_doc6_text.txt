@@ -1,0 +1,38 @@
+# Kumar et al. J Transl Med (2019) 17:419
+
+# Table 2 Presence of pathogenic bacteria (pathobionts) in CD or UC patients
+
+|Phylum|Family/species|Disease|References|
+|---|---|---|---|
+|Proteobacteria|Campylobacter concisus|CD/UC|[87]|
+| |Invasive Escherichia coli|CD|[86, 89]|
+| |Pseudomonas spp.|CD|[104]|
+| |Helicobacter spp.|CD|[146]|
+| |Desulfovibrio spp.|UC|[88]|
+|Actinobacteria|Atopobium parvulum|CD|[107]|
+| |Collinsella spp.|UC|[119]|
+| |Mycobacterium avium spp.|CD|[106]|
+| |Pasteurellaceae|CD|[106]|
+|Firmicutes|Clostridium difficile|CD/UC|[117]|
+| |Ruminococcus gnavus|CD/UC|[110]|
+| |Veillonellaceae|CD|[119, 120]|
+| |Streptococcus spp.|CD/UC|[119]|
+|Fusobacteria|Fucobacterium spp.|CD|[108]|
+|Ascomycota|Clavispora lusitaniae|CD|[118, 128]|
+| |Kluyveromyces marxianus|CD|[118]|
+| |Candida albicans|CD|[118, 129]|
+| |Saccharomyces cerevisiae| |[118]|
+| |Cyberlindnera jadinii|CD|[124]|
+|Bacteriophage|Caudovirales|CD|[130, 131]|
+
+This end, many extensive longitudinal IBD cohorts were initiated with the aim to identify microbial signature for CD and UC. For instance, Pascal et al., used a frequent sampling every 3 months, and revealed eight microbial groups including Fusobacterium, Escherichia, Faecalibacterium, Collinsella, Anaerostipes, Methanobrevibacter, an unknown Peptostreptococcaceae, and an unknown Christensenellaceae that were differentially present in CD and UC patients [119, 120]. Similarly, in recent years many studies have combined cutting-edge methodologies to characterize differentially abundant gut microbial composition in CD and UC patients, but inconsistency in microbial signature across studies [16, 119–124] hinders the identification of universal microbial biomarker for disease prediction (Fig. 2). The discrepancy in microbial composition could be due to the complexity of interaction between the fluctuating gut microbiota and host features during disease course, in which the gut microbiota either influences other host functions or is being influenced by other factors- such as host genetic, diet, drugs, disease, life-style can shape the composition of gut microbiota [125]. Although, these factors and interactions are common but certainly not identical among patients.
+
+To further establish a comprehensive insight into the host-microbial interaction and other intrinsic as well as extrinsic factors in IBD, Lloyd-Prince et al. recently provided the most detailed view of the microbiome, metabolome and host response in IBD patients [126]. Due to high inter-individual variations, which contributed to the majority of data variance, the researchers could not identify consistent microbial signature. However, researchers presented dynamic view of the complex interaction during active disease, which was well beyond the host-microbial interaction, involving multiple other downstream components including the metabolome, proteome and transcriptome [126, 127]. Despite the promising findings, the key challenges in these studies still hinder future progress for developing biomarkers. Including data reproducibility due to the lack of standard protocols for sample collection, storage, DNA extraction and sequencing methods [19]. More work is still needed to address the challenges in order to define CD and UC-specific microbial signature and to improve clinical decision making, especially in cases where a diagnosis is hard to be reached.
+
+Apart from bacteria, the role of other microorganisms in IBD pathogenesis have been widely overlooked. These microorganisms include fungi, archaea, and viruses. Development of culture-independent methods such as sequencing of the 18S ribosomal subunit or the internal transcribed spacer region has allowed a comprehensive assessment of the mycobiome in human disease [128]. Gut mycobiome dysbiosis is observed in IBD patients and is characterized by an increase in Basidiomycota to Ascomycota ratio, a decrease in the proportion of Saccharomyces cerevisiae to Malassezia sympodialis and an increase in the abundance of Candida albicans (Table 2) [118]. Although, Candida remains asymptomatic in many IBD patients, immune-suppression and/or antibiotic treatment, which is commonly used in CD patients, are independently associated with the expansion of C. albicans [129].
+
+Similarly, changes in bacteriophage composition in the gut of IBD patients have been described, particularly an increase in Caudovirales numbers was detected in ileal biopsy collected from CD patients [130, 131]. However, a direct contribution of the virome to IBD pathogenesis remains to be investigated.
+
+# Immuno‑proteomics in IBD pathogenesis
+
+Recent studies have highlighted a complex interplay between host genetics and environmental factors in the perturbation of the host epithelial barrier function. Thereby allowing the translocation of microbial antigens into the bowel wall, which results in aberrant immune response in the mucosal layer [132, 133]. Excessive cytokines production in the mucosal layer, not only induces intestinal inflammation and associated clinical symptoms of IBD, but also induces the systemic effects.

@@ -1,0 +1,56 @@
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+*The risk in the intervention group (and its 95% confidence interval) is based on the assumed risk in the comparison group and the relative effect of the intervention (and its 95% CI).
+
+CI: confidence interval; FMT: fecal microbiota transplantation; IBDQ: Inflammatory Bowel Disease Questionnaire; MD: mean difference; RCT: randomized controlled trial; RR: risk ratio; UC: ulcerative colitis.
+
+# GRADE Working Group grades of evidence
+
+- High certainty: we are very confident that the true effect lies close to that of the estimate of the effect.
+- Moderate certainty: we are moderately confident in the effect estimate: the true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different.
+- Low certainty: our confidence in the effect estimate is limited: the true effect may be substantially different from the estimate of the effect.
+- Very low certainty: we have very little confidence in the effect estimate: the true effect is likely to be substantially different from the estimate of the effect.
+
+Better health. Informed decisions. Trusted evidence.
+
+a Downgraded one level due to risk of bias. Three studies were at high risk of bias due to lack of blinding of participants or outcome assessors. Two studies had significant attrition.
+
+b Not downgraded for inconsistency. The direction of effect was in favor of the intervention in eight of 10 studies. I2 = 48%.
+
+c Downgraded one level due to imprecision. We acknowledge that the overall absolute effect was 138 per 1000 or 13.8% higher for FMT, which is clinically meaningful (we considered an absolute effect of 10% to 15% as a minimally important difference); however, the CIs were wide and included an absolute effect as low as 2.3%, which might not be clinically meaningful.
+
+d Downgraded two levels for very serious imprecision because the numbers of events were very small (total 26) and the CIs around the summary estimate were wide. The ratio of upper limit of CI to lower limit of CI exceeded four, indicating that the current pooled sample size is lower than optimal information size.
+
+e Downgraded one level due to imprecision because the CIs around the summary estimate were wide and included a null effect.
+
+f Not downgraded for risk of bias even though one study was at high risk of bias due to lack of allocation concealment and lack of blinding of participants; we considered these factors as less likely to cause significant risk of bias due to the objective nature of the outcome.
+
+g Not downgraded for inconsistency (I2 = 38%).
+
+h Downgraded two levels for very serious imprecision. Overall number of events was small and the CIs around the summary estimate were very wide.
+
+i Not downgraded for risk of bias. Even though one study had high attrition, it was balanced between groups.
+
+j Downgraded one level for inconsistency and I2 = 56%.
+
+k Downgraded two levels for very serious imprecision because the CIs around the summary estimate were very wide and almost included a null effect. In addition, the ratio of upper CI to lower CI exceeded 3, indicating that optimal information size was not achieved.
+
+# Summary of findings 2. Fecal microbiota transplantation compared to control for maintenance of remission in ulcerative colitis
+
+# Cochrane Database of Systematic Reviews
+
+Patient or population: people with UC in remission
+
+Setting: inpatient or outpatient
+
+Intervention: FMT
+
+Comparison: control
+
+# Outcomes
+
+|Outcomes|Anticipated absolute effects* (95% CI)|Relative effect (95% CI)|№ of participants (studies)|Certainty of the evidence (GRADE)|What happens|
+|---|---|---|---|---|---|
+| | | | | | |

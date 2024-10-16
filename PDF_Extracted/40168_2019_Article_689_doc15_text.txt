@@ -1,0 +1,43 @@
+# Heinken et al. Microbiome
+
+# (2019) 7:75
+
+# Page 16 of 18
+
+necessary for the biomass production of at least one AGORA reconstruction [15]. Each microbiota community model was constrained with the Average European diet using a dedicated function in the Microbiome Modeling Toolbox [33] (adaptVMHDietToAGORA.m). Additionally, to enable modeling of bile acid transformation, the uptake of the conjugated primary bile acids Glyco-CA (VMH ID: gchola), Tauro-CA (VMH ID: tchola), Glyco-CDCA (VMH ID: dgchol), and Tauro-CDCA (VMH ID: tdchola) was allowed to be taken up unlimitedly by setting the lower bounds on the corresponding exchange reactions to − 1000 mmol × person-1 × day -1. The lower bounds on all other dietary exchange reactions were set to zero preventing the uptake of these metabolites. The constraints implemented to simulate the diet are given in Additional file 1: Table S3.
+
+# Interrogation of models for bile acid synthesis capabilities
+
+The bile acid production potential in 232 AGORA reconstructions and 26,796 pairwise models was determined using FBA [9]. To predict the maximally possible bile acid production flux, the exchange reactions (in the single and pairwise models) and the fecal secretion reactions (in the community models) for CA, CDCA, and 13 secondary bile acids were individually chosen as the objective function and maximized. The 194 sample-specific community models were interrogated using distributedFBA [76]. To determine the total maximal production potential, the maximal flux through the fecal exchange reactions in the community models was maximized. To retrieve the contribution of each individual strain to overall production, the minimal fluxes through the luminal exchange reactions of each joined AGORA model (representing secretion into lumen) were extracted. Shadow prices were retrieved from each computed flux balance solution [7]. To extract the shadow prices for all metabolites in the respective community model that were computed while maximizing the production flux of secondary bile acids, a dedicated function (analyseObjectiveShadowPrices.m) in the Microbiome Modeling Toolbox [33] was used.
+
+# Simulations
+
+Model creation and contextualization, and simulations were carried out using the COBRA Toolbox [34] and the Microbiome Modeling Toolbox [33] in MATLAB version 2016b (Mathworks, Inc.) as programming environment. Flux balance analysis (FBA) [9] for pairwise simulations was performed using the optimization solver CPLEX through the Tomlab (Tomlab, Inc.) interface for MATLAB. Distributed flux balance analysis (distributedFBA) [76] for personalized microbiome simulations was performed using the IBM CPLEX solver (IBM, Inc.) through the CPLEX interface for Julia.
+
+# Data analysis
+
+The calculation of the Spearman correlation and the two-sided Wilcoxon rank-sum test was performed in MATLAB version 2016b (Mathworks, Inc.) using the corr and ranksum functions, respectively. The p values were adjusted for false-positive discovery rate with the Benjamini-Hochberg method using the mafdr function in MATLAB. Heatmaps were generated with R version 3.3.2 [77] using the aheatmap, pheatmap, ggplot2, easy-Ggplot2, and RColorBrewer packages, as well as the ComplexHeatmap package in Bioconductor 2.7 (http://www.bioconductor.org/). Principal Coordinates Analysis (PCoA) was performed with the vegan package in R using the Bray-Curtis dissimilarity index. Other plots were generated with MATLAB.
+
+# Additional files
+
+- Additional file 1: Table S1. Bile acid deconjugation and transformation genes identified in the 693 analyzed genomes.
+- Table S2. Description of the bile acid metabolism subsystem reconstructed for AGORA: a) metabolites, b) reactions.
+- Table S3. Constraints implemented to simulate the Average European (AE) diet supplemented with taurocholate, glycocholate, taurochenodeoxycholate, and glycochenodeoxycholate.
+- Table S4. Bile acid production potential for each of the 232 AGORA models carrying bile acid reactions.
+- Table S5. Secondary bile acids produced in pairwise AGORA models that could not be produced individually by either model.
+- Table S6. Bile acid production potential (mmol × person-1 × day -1) predicted for the community models representing 194 human microbiomes.
+- Table S7. Features that significantly differed between 15 pediatric Crohn's Disease patients and 25 healthy controls.
+- Table S9. Correlations between total community bile acid production (mmol × person-1 × day -1) and total community reaction abundance across all 194 community models.
+- Table S10. Shadow prices in the flux balance solutions when optimizing for secondary bile acid production in all community models. Shown are metabolites that had a nonzero shadow price in at least one model.
+- Table S11. Description of newly reconstructed strains in this study as an update to the AGORA resource. (XLSX 2194 kb)
+- Additional file 2: Figure S1. Maximum-likelihood phylogenetic tree for bile salt hydrolase (BSH) proteins and their homologs in 693 analyzed human gut microbe genomes.
+- Figure S2. Maximum-likelihood phylogenetic tree for hydroxysteroid dehydrogenase (HSDH)/ bai cluster proteins and their homologs in 693 analyzed human gut microbe genomes.
+- Figure S3. Genomic organization of baiNOP containing loci.
+- Figure S4. Maximal-likelihood phylogenetic tree for homologs of the BaiN protein in 693 analyzed human gut microbe genomes.
+- Figure S5. Maximal-likelihood phylogenetic tree for homologs of the BaiO protein in 693 analyzed human gut microbe genomes.
+- Figure S6. Maximal-likelihood phylogenetic tree for homologs of the BaiP protein in 693 analyzed human gut microbe genomes.
+- Figure S7. Heat map of the strain-level contributions clustered in Fig. 3d, and presented in Additional file 1: Table S8. (DOCX 3573 kb)
+
+# Acknowledgments
+
+The authors thank the members of the Molecular Systems Physiology group for valuable discussions.

@@ -1,0 +1,46 @@
+# References
+
+1. Alam, M. T. et al. Microbial imbalance in inflammatory bowel disease patients at different taxonomic levels. Gut. Pathog. 12, 1. https://doi.org/10.1186/s13099-019-0341-6 (2020).
+2. Fischer, H. et al. Altered microbiota in microscopic colitis. Gut 64(7), 1185 (2015).
+3. Wong, J. M. W. et al. Colonic health: Fermentation and short chain fatty acids. J. Clin. Gastroenterol. 40(3), 235–243 (2006).
+4. Song, X. et al. Microbial bile acid metabolites modulate gut RORgamma(+) regulatory T cell homeostasis. Nature 577(7790), 410–415 (2020).
+5. Parada Venegas, D. et al. Short chain fatty acids (SCFAs)-mediated gut epithelial and immune regulation and its relevance for inflammatory bowel diseases. Front. Immunol. 10, 277. https://doi.org/10.3389/fimmu.2019.00277 (2019).
+6. Walther, B. et al. Menaquinones, bacteria, and the food supply: The relevance of dairy and fermented food products to vitamin K requirements. Adv. Nutr. 4(4), 463–473 (2013).
+7. Campieri, M. New steroids and new salicylates in inflammatory bowel disease: A critical appraisal. Gut 50, iii43–iii46 (2002).
+8. Kelly, C. J. et al. Crosstalk between microbiota-derived short-chain fatty acids and intestinal epithelial HIF augments tissue barrier function. Cell Host Microbe 17(5), 662–671 (2015).
+9. Kelly, C. J. et al. Microbial-derived butyrate promotes epithelial barrier function through IL-10 receptor-dependent repression of claudin-2. J. Immunol. 199(8), 2976–2984 (2017).
+10. Zhao, Y. et al. GPR43 mediates microbiota metabolite SCFA regulation of antimicrobial peptide expression in intestinal epithelial cells via activation of mTOR and STAT3. Mucosal. Immunol. 11(3), 752–762 (2018).
+11. Thangaraju, M. et al. GPR109A is a G-protein-coupled receptor for the bacterial fermentation product butyrate and functions as a tumor suppressor in colon. Cancer Res. 69(7), 2826–2832 (2009).
+12. Cox, M. A. et al. Short-chain fatty acids act as antiinflammatory mediators by regulating prostaglandin E(2) and cytokines. World J. Gastroenterol. 15(44), 5549–5557 (2009).
+13. Donohoe, D. R. et al. The microbiome and butyrate regulate energy metabolism and autophagy in the mammalian colon. Cell Metab. 13(5), 517–526 (2011).
+14. Correa-Oliveira, R. et al. Regulation of immune cell function by short-chain fatty acids. Clin. Transl. Immunol. 5(4), e73. https://doi.org/10.1038/cti.2016.17 (2016).
+
+# Acknowledgements
+
+We gratefully acknowledge the NGS core facility at NIBSC for their support in producing data for this manuscript. The authors would like to acknowledge the sad loss of our colleague Dr. Rolland Iriarte (Aug 1982–Feb 2021) Rolland was funny, nice, calm, kind-hearted and superb clinician. He touched so many lives around him. May he rest in peace.
+
+# Author contributions
+
+G.C.A.A. co-designed the study, co-analysed data, drafted paper, C.S. collected and co-analysed data, proof-reading of draft, A.L. collected and co-analysed data, proof-reading of draft, R.I. collected and co-analysed data, A.B. collected and co-analysed data, S.C. collected and co-analysed data, E.M.H.W. co-analysed data and proof reading of draft, S.R. co-analysed data and proof reading of draft, R.P.A. co-designed the study, co-analysed data, proof-reading of draft.
+
+# Funding
+
+This paper is based on independent research commissioned and funded by the NIHR Policy Research Programme (NIBSC Regulatory Science Research Unit). The views expressed in the publication are those of the author(s) and not necessarily those of the NHS, the NIHR, the Department of Health, ‘arms’ length bodies, or other government departments. Funding is also from the UHCW Trust’s charity.
+
+# Competing interests
+
+The authors declare no competing interests.
+
+# Additional information
+
+The online version contains supplementary material available at https://doi.org/10.1038/s41598-021-96942-z.
+
+Correspondence and requests for materials should be addressed to G.C.A.A.
+
+Reprints and permissions information is available at www.nature.com/reprints.
+
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+
+© Crown 2021

@@ -1,0 +1,66 @@
+# Cochrane Library
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Haifer 2022 (Continued)
+
+# Interventions
+
+# Experimental arm
+
+n = 15
+
+- Single donor feces; 0.35 g of lyophilized stool administered via capsules
+- 6 capsules 3 times daily for 1 week, then 6 capsules twice daily for 1 week, then 6 capsules once daily for 6 weeks
+
+# Control arm
+
+n = 20
+
+- Administered via capsules identical to those used in experimental group
+
+# Outcomes
+
+# Primary outcome
+
+Combined corticosteroid-free clinical remission with endoscopic remission or response (total Mayo score ≤ 2, with all Mayo subscores ≤ 1, and ≥ 1-point reduction of Mayo Endoscopic subscore from baseline endoscopy) at week 8
+
+# Secondary outcomes
+
+- Corticosteroid-free clinical remission (combined Mayo subscores for Rectal Bleeding and Stool Frequency ≤ 1) at week 8
+- Corticosteroid-free clinical response (reduction in partial Mayo score of ≥ 3 or ≥ 50% reduction of Rectal Bleeding and Stool Frequency Mayo subscores) at week 8
+- Corticosteroid-free Endoscopic Remission (UCEIS ≤ 1) at week 8
+- Corticosteroid-free endoscopic response (reduction in UCEIS of ≥ 3 or ≥ 50% reduction from baseline UCEIS score) at week 8
+- Maintenance of clinical remission at week 56
+- Maintenance of endoscopic remission at week 56
+- Change in IBDQ scores at weeks 8 and 56
+- Change in fecal calprotectin levels at weeks 8 and 56
+- Change in CRP
+- Rates of adverse events
+
+# Notes
+
+Data extraction: data on quality-of-life scores and fecal calprotectin were reported as medians and IQR, so they were converted to mean and SD per methods described in Hozo 2005, with the help of the calculator at vassarstats.net/median_range.html. The paper reported that CRP levels were measured, but the data were not found. We only extracted data on clinical and endoscopic remission rates, adverse events, and withdrawals during the maintenance period.
+
+Data interpretation: the study authors used an mITT analysis, in which only the participants who received ≥ 1 study dose were considered, which included all participants who were originally randomized. The authors stated in the 'Statistical analysis' section of their published paper that any missing value was imputed using the last recorded value for that participant.
+
+Funding: St Vincent's Clinic Foundation, Gastroenterological Society of Australia, Gutsy Group.
+
+# Risk of bias
+
+# Bias
+
+|Authors' judgement|Support for judgement|
+|---|---|
+|Random sequence generation (selection bias)|Low risk|
+|Quote: "Patients were randomised centrally by the Centre for Digestive Diseases (Sydney, NSW, Australia) in a 1:1 ratio to receive either FMT or placebo, using a pre-established computer-generated randomisation list created by an online list generator with permutated blocks of eight. The individual who performed the randomisation was not otherwise involved in the trial." (page 143)|Quote: "Patients were randomised centrally by the Centre for Digestive Diseases (Sydney, NSW, Australia) in a 1:1 ratio to receive either FMT or placebo, using a pre-established computer-generated randomisation list created by an online list generator with permutated blocks of eight. The individual who performed the randomisation was not otherwise involved in the trial." (page 143)|
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

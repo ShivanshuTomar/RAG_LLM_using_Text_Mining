@@ -1,0 +1,29 @@
+# References
+
+1. Mysara M, Njima M, Leys N, et al. From reads to operational taxonomic units: an ensemble processing pipeline for MiSeq amplicon sequencing data. Gigascience 2017; 6: 1–10.
+2. Carlos N, Tang YW and Pei Z. Pearls and pitfalls of genomics-based microbiome analysis. Emerg Microbes Infect 2012; 1: e45.
+3. Janda JM and Abbott SL. 16S rRNA gene sequencing for bacterial identification in the diagnostic laboratory: pluses, perils, and pitfalls. J Clin Microbiol 2007; 45: 2761–2764.
+4. Kerkhof LJ, Dillon KP, Häggblom MM, et al. Profiling bacterial communities by MinION sequencing of ribosomal operons. Microbiome 2017; 5: 116.
+5. Aßhauer KP, Wemheuer B, Daniel R, et al. Tax4Fun: predicting functional profiles from metagenomic 16S rRNA data. Bioinformatics 2015; 31: 2882–2884.
+6. Langille MGI, Zaneveld J, Caporaso JG, et al. Predictive functional profiling of microbial communities using 16S rRNA marker gene sequences. Nat Biotechnol 2013; 31: 814–821.
+7. Escobar-Zepeda A, Vera-Ponce de León A and Sanchez-Flores A. The road to metagenomics: from microbiology to DNA sequencing technologies and bioinformatics. Front Genet 2015; 6: 348.
+8. Quince C, Walker AW, Simpson JT, et al. Shotgun metagenomics, from sampling to analysis. Nat Biotechnol 2017; 35: 833–844.
+9. Oulas A, Pavloudi C, Polymenakou P, et al. Metagenomics: tools and insights for analyzing next-generation sequencing data derived from biodiversity studies. Bioinform Biol Insights 2015; 9: 75–88.
+10. Gilbert JA and Dupont CL. Microbial metagenomics: beyond the genome. Ann Rev Mar Sci 2011; 3: 347–371.
+11. Huttenhower C, Gevers D, Knight R, et al. Structure, function and diversity of the healthy human microbiome. Nature 2012; 486: 207–214.
+12. Kostic AD, Xavier RJ and Gevers D. The microbiome in inflammatory bowel diseases: current status and the future ahead. Gastroenterology 2014; 146: 1489–1499.
+13. Matsuoka K and Kanai T. The gut microbiota and inflammatory bowel disease. Semin Immunopathol 2015; 37: 47–55.
+14. Jostins L, Ripke S, Weersma RK, et al. Host-microbe interactions have shaped the genetic architecture of inflammatory bowel disease. Nature 2012; 491: 119–124.
+15. Manichanh C, Borruel N, Casellas F, et al. The gut microbiota in IBD. Nat Rev Gastroenterol Hepatol 2012; 9: 599–608.
+16. Loh G and Blaut M. Role of commensal gut bacteria in inflammatory bowel diseases. Gut Microbes 2012; 3: 544–555.
+17. Sokol H, Pigneur B, Watterlot L, et al. Faecalibacterium prausnitzii is an anti-inflammatory commensal bacterium identified by gut microbiota analysis of Crohn disease patients. Proc Natl Acad Sci 2008; 105: 16731–16736.
+18. Prorok-Hamon M, Friswell MK, Alswied A, et al. Colonic mucosa-associated diffusely adherent afaC+ Escherichia coli expressing lpfA and pks are increased in inflammatory bowel disease and colon cancer. Gut 2014; 63: 761–770.
+19. Ni J, Wu GD, Albenberg L, et al. Gut microbiota and IBD: causation or correlation? Nat Rev Gastroenterol Hepatol 2017; 14: 573.
+20. Olesen SW and Alm EJ. Dysbiosis is not an answer. Nature Microbiology 2016; 1: 16228.
+21. Bashiardes S, Zilberman-Schapira G and Elinav E. Use of metatranscriptomics in microbiome research. Bioinform Biol Insights 2016; 10: 19–25.
+22. Gosalbes MJ, Durbán A, Pignatelli M, et al. Metatranscriptomic approach to analyze the functional human gut microbiota. PLoS One 2011; 6: e17447.
+23. Lavelle A and Sokol H. Gut microbiota: beyond metagenomics, metatranscriptomics illuminates microbiome functionality in IBD. Nat Rev Gastroenterol Hepatol 2018; 15: 193.
+24. Petrova OE, Garcia-Alcalde F, Zampaloni C, et al. Comparative evaluation of rRNA depletion procedures for the improved analysis of bacterial biofilm and mixed pathogen culture transcriptomes. Sci Rep 2017; 7: 41114.
+25. Reck M, Tomasch J, Deng Z, et al. Stool metatranscriptomics: a technical guideline for mRNA stabilisation and isolation. BMC Genomics 2015; 16: 494.
+26. Schirmer M, Franzosa EA, Lloyd-Price J, et al. Dynamics of metatranscription in the inflammatory bowel disease gut microbiome. Nat Microbiol 2018; 3: 337–346.
+27. Bikel S, Valdez-Lara A, Cornejo-Granados F, et al. Combining metagenomics,

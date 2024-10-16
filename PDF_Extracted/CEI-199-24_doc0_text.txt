@@ -1,0 +1,51 @@
+# Immunological mechanisms underpinning faecal microbiota transplantation for the treatment of inflammatory bowel disease
+
+# REVIEW SERIES: INTERACTIONS OF THE MICROBIOTA WITH THE MUCOSAL IMMUNE SYSTEM
+
+# Clinical and Experimental Immunology
+
+# Guest Editors: Calum Bain and Vuk Cerovic
+
+# Other Articles Published in This Review Series
+
+- Interactions of the microbiota with the mucosal immune system. Clinical and Experimental Immunology 2020, 199: 9-11.
+- Microbial interactions in the atopic march. Clinical and Experimental Immunology 2020, 199: 12-23.
+- Understanding immune–microbiota interactions in the intestine. Immunology 2020, 159: 4-14.
+- ‘Layered immunity’ and the ‘neonatal window of opportunity’ – timed succession of non-redundant phases to establish mucosal host–microbial homeostasis after birth. Immunology 2020, 159: 15-25.
+- Regulation of mononuclear phagocyte function by the microbiota at mucosal sites. Immunology 2020, 159: 26-38.
+- The interaction of intestinal microbiota and innate lymphoid cells in health and disease throughout life. Immunology 2020, 159: 39-51.
+- Growing, evolving and sticking in a flowing environment: understanding IgA interactions with bacteria in the gut. Immunology 2020, 159: 52-62.
+
+# Authors
+
+M. N. Quraishi, W. Shaheen, Y. H. Oo, and T. H. Iqbal
+
+* Centre for Liver and Gastroenterology Research, NIHR Birmingham Biomedical Research Centre, University of Birmingham,
+
+† Department of Gastroenterology, Queen Elizabeth Hospital, University Hospitals Birmingham,
+
+‡ University of Birmingham Microbiome Treatment Centre, University of Birmingham, and
+
+§ Liver Transplant and Hepatobiliary Unit, Queen Elizabeth Hospital, University Hospitals Birmingham, Birmingham, UK
+
+# Accepted for publication
+
+21 October 2019
+
+# Correspondence
+
+T. H. Iqbal, University of Birmingham Microbiome Treatment Centre, University of Birmingham, Birmingham, UK.
+
+E-mail: t.h.iqbal@bham.ac.uk
+
+# Summary
+
+Inflammatory bowel disease (IBD) is a chronic gastrointestinal disease that results from a dysregulated immune response against specific environmental triggers in a genetically predisposed individual. Increasing evidence has indicated a causal role for changes in gut microbiota (dysbiosis) contributing to this immune-mediated intestinal inflammation. These mechanisms involve dysregulation of multiple facets of the host immune pathways that are potentially reversible. Faecal microbiota transplantation (FMT) is the transfer of processed stool from a healthy donor into an individual with an illness. FMT has shown promising results in both animal model experiments and clinical studies in IBD in the resolution of intestinal inflammation. The underlying mechanisms, however, are unclear. Insights from these studies have shown interactions between modulation of dysbiosis via changes in abundances of specific members of the gut microbial community and changes in host immunological pathways. Unravelling these causal relationships has promising potential for a translational therapy role to develop targeted microbial therapies and understand the mechanisms that underpin IBD aetiopathogenesis. In this review, we discuss current evidence for the contribution of gut microbiota in the disruption of intestinal immune homeostasis and immunoregulatory mechanisms that are associated with the resolution of inflammation through FMT in IBD.
+
+# Keywords
+
+faecal microbiota transplantation, immunology, inflammatory bowel disease
+
+# Introduction
+
+This critical significance of environmental influences is further supported by growing recognition of the fundamental role of the gut microbiota in the development and progression of inflammation in IBD. Inflammatory bowel disease (IBD) is a chronic, immune-mediated gastrointestinal condition that affects more than 1 million of the UK population. It broadly comprises two diseases: ulcerative colitis (UC) and Crohn’s disease (CD). Patients typically present with a constellation of symptoms that include chronic diarrhoea, rectal bleeding and abdominal pain as a consequence of chronic inflammation. Traditionally, IBD was considered to be an autoimmune disease. It is now increasingly accepted that it is the result of a dysregulated immune response against specific environmental triggers in genetically predisposed individuals. Shifts in the composition and function of gut microbiota (known as dysbiosis) have been associated with a multitude of immune-mediated chronic diseases of the gastrointestinal tract, including IBD and primary sclerosing cholangitis.

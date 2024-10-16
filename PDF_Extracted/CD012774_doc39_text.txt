@@ -1,0 +1,97 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Library
+
+# Better health.
+
+# Pediatric Gastroenterology, Hepatology, and Nutrition and the European Society for Pediatric Gastroenterology, Hepatology, and Nutrition.
+
+Journal of Pediatric Gastroenterology and Nutrition 2019;68(1):130-43.
+
+# De Preter 2012
+
+De Preter V, Arijs I, Windey K, Vanhove W, Vermeire S, Schuit F, et al. Decreased mucosal sulfide detoxification is related to an impaired butyrate oxidation in ulcerative colitis. Inflammatory Bowel Diseases 2012;18(12):2371-80.
+
+# Dulai 2015
+
+Dulai PS, Levesque BG, Feagan BG, D'Haens G, Sandborn WJ. Assessment of mucosal healing in inflammatory bowel disease: review. Gastrointestinal Endoscopy 2015;82(2):246-55.
+
+# Cochrane Database of Systematic Reviews
+
+Clostridioides difficile infection. New England Journal of Medicine 2022;386(3):220-9.
+
+# Fuentes 2017
+
+Fuentes S, Rossen NG, van der Spek MJ, Hartman JH, Huuskonen L, Korpela K, et al. Microbial shifts and signatures of long-term remission in ulcerative colitis after faecal microbiota transplantation. ISME Journal 2017;11(8):1877-89.
+
+# GBD 2020
+
+GBD 2017 Inflammatory Bowel Disease Collaborators. The global, regional, and national burden of inflammatory bowel disease in 195 countries and territories, 1990–2017: a systematic analysis for the Global Burden of Disease Study 2017. Lancet Gastroenterology and Hepatology 2020;5(1):17-30.
+
+# Dumville 2006
+
+Dumville JC, Torgerson DJ, Hewitt CE. Reporting attrition in randomised controlled trials. BMJ 2006;332(7547):969-71.
+
+# FDA 2020a
+
+US Food and Drug Administration. Fecal microbiota for transplantation: safety alert – risk of serious adverse events likely due to transmission of pathogenic organisms. www.fda.gov/safety/medical-product-safety-information/fecal-microbiota-transplantation-safety-alert-risk-serious-adverse-events-likely-due-transmission (accessed 1 April 2023).
+
+# Ghebre 2014
+
+Ghebre RG, Jones LA, Wenzel JA, Martin MY, Durant RW, Ford JG. State-of-the-science of patient navigation as a strategy for enhancing minority clinical trial accrual. Cancer 2014;120(Suppl 7):1122-30.
+
+# Gordon 2021
+
+Gordon M, Lakunina S, Sinopoulou V, Akobeng A. Minimum sample size estimates for trials in inflammatory bowel disease: a systematic review of a support resource. World Journal of Gastroenterology 2021;27(43):7572-81.
+
+# FDA 2020b
+
+US Food and Drug Administration. Safety alert regarding use of fecal microbiota for transplantation and additional safety protections pertaining to SARS-CoV-2 and COVID-19. www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/safety-alert-regarding-use-fecal-microbiota-transplantation-and-additional-safety-protections (accessed 1 April 2023).
+
+# FDA 2022
+
+US Food and Drug Administration. Enforcement policy regarding investigational new drug requirements for use of fecal microbiota for transplantation to treat Clostridium difficile infection not responsive to standard therapies. www.fda.gov/regulatory-information/search-fda-guidance-documents/enforcement-policy-regarding-investigational-new-drug-requirements-use-fecal-microbiota (accessed 1 April 2023).
+
+# Feakins 2013
+
+Feakins RM, British Society of Gastroenterology. Inflammatory bowel disease biopsies: updated British Society of Gastroenterology reporting guidelines. Journal of Clinical Pathology 2013;66(12):1005-26.
+
+# Fehily 2021
+
+Fehily SR, Basnayake C, Wright EK, Kamm MA. Fecal microbiota transplantation therapy in Crohn's disease: systematic review. Journal of Gastroenterology and Hepatology 2021;36(10):2672-86.
+
+# Feuerstadt 2022
+
+Feuerstadt P, Louie TJ, Lashner B, Wang EE, Diao L, Bryant JA, et al. SER-109, an oral microbiome therapy for recurrent.
+
+# Gupta 2011
+
+Gupta SK. Intention-to-treat concept: a review. Perspectives in Clinical Research 2011;2(3):109-12.
+
+# Guyatt 2011
+
+Guyatt G, Oxman AD, Akl EA, Kunz R, Vist G, Brozek J, et al. GRADE guidelines: 1. Introduction – GRADE evidence profiles and summary of findings tables. Journal of Clinical Epidemiology 2011;64(4):383-94.
+
+# Higgins 2011
+
+Higgins JP, Green S, editor(s). Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 (updated March 2011). The Cochrane Collaboration, 2011. Available from training.cochrane.org/handbook/archive/v5.1/.
+
+# Hozo 2005
+
+Hozo SP, Djulbegovic B, Hozo I. Estimating the mean and variance from the median, range, and the size of a sample. BMC Medical Research Methodology 2005;5:13.
+
+# Iheozor-Ejiofor 2020
+
+Iheozor-Ejiofor Z, Kaur L, Gordon M, Baines PA, Sinopoulou V, Akobeng AK. Probiotics for maintenance of remission in ulcerative colitis. Cochrane Database of Systematic Reviews 2020, Issue 12. Art. No: CD007443. [DOI: 10.1002/14651858.CD007443.pub3]
+
+# Kassam 2013
+
+Kassam Z, Lee CH, Yuan Y, Hunt RH. Fecal microbiota transplantation for Clostridium difficile infection: systematic review and meta-analysis. American Journal of Gastroenterology 2013;108(4):500-8.
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

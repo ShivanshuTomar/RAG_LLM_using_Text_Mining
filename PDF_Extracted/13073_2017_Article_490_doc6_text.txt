@@ -1,0 +1,17 @@
+# Hall et al. Genome Medicine (2017) 9:103
+
+# Fig. 2 R. gnavus transiently dominates the gut microbiome in IBD.
+
+a The maximum relative abundance of R. gnavus across samples (time courses) is shown for all subjects in the LSS (n = 266), Lewis et al. (n = 368), and HMP (n = 80) cohorts. While the abundance of most anaerobes are lower in IBD patients, the abundance of R. gnavus is significantly higher in IBD patients compared to controls.
+
+b Relative abundance of R. gnavus over time for IBD patients in the LSS cohort. The abundance of R. gnavus is not constantly high, but rather has transient increases in the IBD gut.
+
+c A principle coordinate analysis (PCoA) of the Bray-Curtis distance of species-level microbial communities of LSS IBD patient p8808 over 9 months. The dominant R. gnavus strain in months 4–10 and month 12 is R. gnavus clade 1, while in month 11 the dominant strain of R. gnavus is R. gnavus clade 2 (Fig. 3). Inset shows the Harvey-Bradshaw Index (HBI) score, a clinical indication of active disease and inflammation, for this patient over time. The dramatic, transient increased abundances of R. gnavus in month 11 corresponds to an increase in HBI values (i.e., disease activity).
+
+d Colony forming units of R. gnavus, Eubacterium elegans, and E. coli at 0, 1, and 3 h post-transfer to atmospheric oxygen conditions (see “Methods”). Error bars represent standard deviation. Dotted line signifies limit of detection. No colonies were detected for the obligate anaerobe E. elegans at the 1- and 3-h time points. As expected, E. coli showed growth during oxygen exposure, and interestingly, despite being classified as an obligate anaerobe, R. gnavus was able to tolerate atmospheric oxygen for several hours, which may partially explain its increased abundance in the increased oxidative stress of the IBD gut.
+
+that are annotated as belonging only to R. gnavus genome (denoted “marker genes”). Nucleotide variations in reads mapping to such marker genes would suggest the presence of multiple strains of this species. Indeed, using single nucleotide polymorphism (SNP) profiles of R. gnavus marker genes, we identified two prominent clades of R. gnavus strains, which we named clade 1 and clade 2 (Fig. 3).
+
+Most commonly, strains from the same individual belong to the same clade, with several exceptions. One notable case is patient 8808, whose gut microbiome underwent a shift between months 10 and 11, coinciding with an increase in the Harvey-Bradshaw Index (HBI) of disease. The higher abundance of R. gnavus found at month 11 (41.6% relative abundance) is not merely an expansion of the previous strain, belonging to clade 1, but rather a bloom of R. gnavus clade 2 (Figs. 2c and 3).
+
+Second, we wanted to examine the functional differences between these two clades. We used the collection of gene families from all sequenced reference R. gnavus genomes (denoted as the R. gnavus pangenome) to search for genes that are differentially present in the two clades, suggesting

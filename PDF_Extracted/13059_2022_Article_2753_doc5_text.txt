@@ -1,0 +1,25 @@
+# Ma et al. Genome Biology (2022) 23:208
+
+# Effectiveness of batch correction, association meta-analysis, and unsupervised population structure discovery methods
+
+All evaluations use simulated microbial community profiles as detailed in “Methods.” Left panels summarize representative subsets of results (full set of simulation cases presented in Additional file 4: Table S2 and results in Additional file 1: Figs. S6-S9), and right panels show examples of batch-influenced data pre- and post-correction.
+
+# a, b
+
+MMUPHin_Correct is effective for covariate-adjusted batch effect reduction while maintaining the effect of positive control variables. For panel a, PERMANOVA R2 statistics summarize the effect of batch and positive/negative control variables on the overall microbial composition, before and after batch correction. Results shown correspond to the subset of details in Additional file 1: Fig. S6 with number of samples per batch = 500, number of batches = 4, and number of features = 1000 with 5% spiked with associations.
+
+# c, d
+
+Batch correction and meta-analysis with MMUPHin_MetaDA reduces false positives when an exposure is spuriously associated with microbiome features due to an imbalanced distribution between batches. Corresponds to Additional file 1: Fig. S7 with number of samples per batch = 500, number of features = 1000 with 10% spiked associations, and case proportion difference between batches = 0.8. Evaluations of BDMMA generate low FPRs due to the zero-inflated nature of simulated microbial abundances, and are included only in Additional file 1: Fig. S7.
+
+# e, f
+
+Batch correction improves correct identification of the true underlying number of clusters during discrete population structure discovery. Success rate is measured as the percentage of selecting the true number of clusters (before and after correction) across simulation iterations. Corresponds to Additional file 1: Fig. S8 with number of samples per batch = 500 and number of batches = 2.
+
+# g, h
+
+Continuous structure discovery with MMUPHin_Continuous accurately recovers microbiome compositional gradients in a simulated population. We compare identified continuous structure loading with true scores with Pearson correlations. Corresponds to Additional file 1: Fig. S9 with number of batches = 6.
+
+While quantile normalization [18] and BDMMA [19] had either inflated or overly conservative false positive rates (Fig. 2c, d, Additional file 1: Figs. S7-S8).
+
+We also validated MMUPHin’s support for unsupervised population structure discovery, in addition to these “supervised” differential abundance and statistical association tests. In microbial communities, valid, generalizable population structure can manifest as either discretely clustered subtypes [40] or as continuously variable gradients of community configurations [41], but methods for discovery are particularly susceptible to false positives in the presence of technical artifacts [32, 41].

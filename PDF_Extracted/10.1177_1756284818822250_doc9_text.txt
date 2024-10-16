@@ -1,0 +1,29 @@
+# Therapeutic Advances in Gastroenterology
+
+# References
+
+1. Inflammatory bowel diseases with time, based on systematic review. Gastroenterology 2012; 142: 46–54.e42.
+2. Rutgeerts P, Goboes K, Peeters M, et al. Effect of faecal stream diversion on recurrence of Crohn’s disease in the neoterminal ileum. Lancet 1991; 338: 771–774.
+3. Frank DN, St Amand AL, Feldman RA, et al. Molecular-phylogenetic characterization of microbial community imbalances in human inflammatory bowel diseases. Proc Natl Acad Sci U S A 2007; 104: 13780–13785.
+4. Manichanh C. Reduced diversity of faecal microbiota in Crohn’s disease revealed by a metagenomic approach. Gut 2006; 55: 205–211.
+5. Willing BP, Dicksved J, Halfvarson J, et al. A pyrosequencing study in twins shows that gastrointestinal microbial profiles vary with inflammatory bowel disease phenotypes. Gastroenterology 2010; 139: 1844–1854.e1.
+6. Tong M, Li X, Wegener Parfrey L, et al. A modular organization of the human intestinal mucosal microbiota and its association with inflammatory bowel disease. PLoS One 2013; 8: e80702.
+7. Scanlan PD, Shanahan F, O’Mahony C, et al. Culture-independent analyses of temporal variation of the dominant fecal microbiota and targeted bacterial subgroups in Crohn’s disease. J Clin Microbiol 2006; 44: 3980–3988.
+8. Sokol H, Seksik P, Furet JP, et al. Low counts of Faecalibacterium prausnitzii in colitis microbiota. Inflamm Bowel Dis 2009; 15: 1183–1189.
+9. Morgan XC, Tickle TL, Sokol H, et al. Dysfunction of the intestinal microbiome in inflammatory bowel disease and treatment. Genome Biol 2012; 13: R79.
+10. Marchesi JR, Adams DH, Fava F, et al. The gut microbiota and host health: a new clinical frontier. Gut 2016; 65: 330–339.
+11. Browne HP, Forster SC, Anonye BO, et al. Culturing of ‘unculturable’ human microbiota reveals novel taxa and extensive sporulation. Nature 2016; 533: 543–546.
+12. Thompson AI and Lees CW. Genetics of ulcerative colitis. Inflamm Bowel Dis 2011; 17: 831–848.
+13. Zhang W, Li F and Nie L. Integrating multiple “omics” analysis for microbial biology: application and methodologies. Microbiology 2010; 156: 287–301.
+14. Iborra M, Bernuzzi F, Invernizzi P, et al. MicroRNAs in autoimmunity and inflammatory bowel disease: Crucial regulators in immune response. Autoimmun Rev 2012; 11: 305–314.
+15. Granlund A van B, Flatberg A, Østvik AE, et al. Whole genome gene expression meta-analysis of inflammatory bowel disease colon mucosa demonstrates lack of major differences between Crohn’s disease and ulcerative colitis. PLoS One 2013; 8: e56818.
+16. Coskun M, Bjerrum JT, Seidelin JB, et al. MicroRNAs in inflammatory bowel disease - pathogenesis, diagnostics and therapeutics. World J Gastroenterol 2012; 18: 4629.
+17. Lin J, Welker NC, Zhao Z, et al. Novel specific microRNA biomarkers in idiopathic inflammatory bowel disease unrelated to disease activity. Mod Pathol 2014; 27: 602–608.
+18. Duttagupta R, DiRienzo S, Jiang R, et al. Genome-wide maps of circulating miRNA biomarkers for ulcerative colitis. PLoS One 2012; 7: e31241.
+19. Haberman Y, Tickle TL, Dexheimer PJ, et al. Pediatric Crohn disease patients exhibit specific ileal transcriptome and microbiome signature. J Clin Invest 2014; 124: 3617–3633.
+20. Brest P, Lapaquette P, Souidi M, et al. A synonymous variant in IRGM alters a binding site for miR-196 and causes deregulation of IRGM-dependent xenophagy in Crohn’s disease. Nat Genet 2011; 43: 242–245.
+21. de Bruyn M, Machiels K, Vandooren J, et al. Infliximab restores the dysfunctional matrix remodeling protein and growth factor gene expression in patients with inflammatory bowel disease. Inflamm Bowel Dis 2014; 20: 339–352.
+22. Qin J, Li R, Raes J, et al. A human gut microbial gene catalogue established by metagenomic sequencing. Nature 2010; 464: 59–65.
+23. Walker AW, Duncan SH, Louis P, et al. Phylogeny, culturing, and metagenomics of the human gut microbiota. Trends Microbiol 2014; 22: 267–274.
+24. Clarridge JE, III. Impact of 16S rRNA gene sequence analysis for identification of bacteria on clinical microbiology and infectious diseases. Clin Microbiol Rev 2004; 17: 840–862.
+25. Caporaso JG, Lauber CL, Walters WA, et al. Global patterns of 16S rRNA diversity at a depth of millions of sequences per sample. Proc Natl Acad Sci 2011; 108(Suppl. 1): 4516–4522.

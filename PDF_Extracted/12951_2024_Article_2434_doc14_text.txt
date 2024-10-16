@@ -1,0 +1,87 @@
+# Yang et al. Journal of Nanobiotechnology
+
+# (2024) 22:166
+
+# Page 15 of 16
+
+# In vivo toxicity test.
+
+Healthy mice were orally administered with 10 mg kg−1 YBNs, 5 mg kg−1 YBNs@PDA, 10 mg kg−1 YBNs@PDA or PBS for 7 days. Body weight changes were monitored during treatment. Mice serum was collected for biochemistry assessment with several blood parameters: ALT, AST, CRE and BUN. Histological changes of major organs (heart, liver, spleen, lung, kidney and colon) were analysed through H&E staining.
+
+# Statistical analysis.
+
+All measurements were taken with separate samples rather than with repeated measurements. For data analysis, GraphPad Prism version 8 (GraphPad Software; San Diego, CA) was utilized. Unless otherwise specified, statistical analysis was performed using the two-tailed student’s t-test, and results are presented as means ± standard deviations. Statistics were considered to be significant when the P value was less than 0.05.
+
+# Supplementary Information
+
+The online version contains supplementary material available at https://doi.org/10.1186/s12951-024-02434-3.
+
+- Supplementary Material 1
+- Supplementary Material 2
+
+# Acknowledgements
+
+Not applicable.
+
+# Author contributions
+
+Fan Yang and Peter Chi Keung Cheung designed the research. Fan Yang performed most of the experiments; Yuting Su conducted and analyzed some of the characterization data; Chi Yan helped analyze the 16 S rRNA genes sequencing data. Fan Yang wrote the paper; Tianfeng Chen and Peter Chi Keung Cheung revised the paper. All authors have approved the final version of the manuscript.
+
+# Funding
+
+Not applicable.
+
+# Data availability
+
+The datasets used and/or analysed during the current study are available from the corresponding author on reasonable request.
+
+# Declarations
+
+# Competing interests
+
+The authors declare no competing interests.
+
+# Consent for publication
+
+Not applicable.
+
+# Ethics approval and consent to participate
+
+Not applicable.
+
+# Authors’ information
+
+School of Life Sciences, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China.
+
+Fan Yang, Yuting Su, Chi Yan, Peter Chi Keung Cheung.
+
+College of Chemistry and Materials Science, Jinan University, Guangzhou, China.
+
+Tianfeng Chen.
+
+# Received: 25 September 2023 / Accepted: 22 March 2024
+
+# References
+
+1. Khor B, Gardet A, Xavier RJ. Genetics and pathogenesis of inflammatory bowel disease. Nature. 2011;474:307–17.
+2. Graham DB, Xavier RJ. Pathway paradigms revealed from the genetics of inflammatory bowel disease. Nature. 2020;578:527–39.
+3. Caruso R, Lo BC, Nunez G. Host-microbiota interactions in inflammatory bowel disease. Nat Rev Immunol. 2020;20:411–26.
+4. Taylor CT, Colgan SP. Regulation of immunity and inflammation by hypoxia in immunological niches. Nat Rev Immunol. 2017;17:774–85.
+5. Maloy KJ, Powrie F. Intestinal homeostasis and its breakdown in inflammatory bowel disease. Nature. 2011;474:298–306.
+6. Xavier RJ, Podolsky DK. Unravelling the pathogenesis of inflammatory bowel disease. Nature. 2007;448:427–34.
+7. Zaiatz Bittencourt V, Jones F, Doherty G, Ryan EJ. Targeting Immune Cell Metabolism in the treatment of inflammatory bowel disease. Inflamm Bowel Dis. 2021;27:1684–93.
+8. Bourgonje AR, Feelisch M, Faber KN, Pasch A, Dijkstra G, van Goor H. Oxidative stress and redox-modulating therapeutics in inflammatory bowel disease. Trends Mol Med. 2020;26:1034–46.
+9. Campbell EL, Colgan SP. Control and dysregulation of redox signalling in the gastrointestinal tract. Nat Rev Gastroenterol Hepatol. 2019;16:106–20.
+10. Ballal SA, Veiga P, Fenn K, Michaud M, Kim JH, Gallini CA, Glickman JN, Quere G, Garault P, Beal C, et al. Host lysozyme-mediated lysis of Lactococcus lactis facilitates delivery of colitis-attenuating superoxide dismutase to inflamed colons. Proc Natl Acad Sci USA. 2015;112:7803–8.
+11. Liu J, Wang Y, Heelan WJ, Chen Y, Li Z, Hu Q. Mucoadhesive probiotic backpacks with ROS nanoscavengers enhance the bacteriotherapy for inflammatory bowel diseases. Sci Adv. 2022;8:eabp8798.
+12. Morgan XC, Tickle TL, Sokol H, Gevers D, Devaney KL, Ward DV, Reyes JA, Shah SA, LeLeiko N, Snapper SB, et al. Dysfunction of the intestinal microbiome in inflammatory bowel disease and treatment. Genome Biol. 2012;13:R79.
+13. Moura FA, de Andrade KQ, Dos Santos JCF, Araujo ORP, Goulart MOF. Anti-oxidant therapy for treatment of inflammatory bowel disease: does it work? Redox Biol. 2015;6:617–39.
+14. Stallmach A, Hagel S, Bruns T. Adverse effects of biologics used for treating IBD. Best Pract Res Clin Gastroenterol. 2010;24:167–82.
+15. Bernstein CN, Fried M, Krabshuis JH, Cohen H, Eliakim R, Fedail S, Gearry R, Goh KL, Hamid S, Khan AG, et al. World Gastroenterology Organization Practice Guidelines for the diagnosis and management of IBD in 2010. Inflamm Bowel Dis. 2010;16:112–24.
+16. Lee Y, Sugihara K, Gillilland MG 3rd, Jon S, Kamada N, Moon JJ. Hyaluronic acid-bilirubin nanomedicine for targeted modulation of dysregulated intestinal barrier, microbiome and immune responses in colitis. Nat Mater. 2020;19:118–26.
+17. Wang R, Cao S, Bashir MEH, Hesser LA, Su Y, Hong SMC, Thompson A, Culleen E, Sabados M, Dylla NP, et al. Treatment of peanut allergy and colitis in mice via the intestinal release of butyrate from polymeric micelles. Nat Biomed Eng. 2023;7:38–55.
+18. Lamprecht A. Nanomedicines in gastroenterology and hepatology. Nat Rev Gastroenterol Hepatol. 2015;12:195–204.
+19. Yang H, Zhu CH, Yuan WL, Wei X, Liu C, Huang JR, Yuan M, Wu YJ, Ling QJ, Hoffmann PR et al. Mannose-rich oligosaccharides-functionalized selenium nanoparticles mediates macrophage reprogramming and inflammation resolution in ulcerative colitis. Chem Eng J 2022; 435.
+20. Shi C, Dawulieti J, Shi F, Yang C, Qin Q, Shi T, Wang L, Hu H, Sun M, Ren L, et al. A nanoparticulate dual scavenger for targeted therapy of inflammatory bowel disease. Sci Adv. 2022;8:eabj2372.
+21. Liu Y, Ai K, Lu L. Polydopamine and its derivative materials: synthesis and promising applications in energy, environmental, and biomedical fields. Chem Rev. 2014;114:5057–115.
+22. Liu YL, Ai KL, Ji XY, Askhatova D, Du R, Lu LH, Shi JJ. Comprehensive insights into the multi-antioxidative mechanisms of melanin nanoparticles and their

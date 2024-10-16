@@ -1,0 +1,82 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# NCT04034758 (Continued)
+
+# Inclusion criteria
+
+- Failure to acquire clinical remission after full dose and adequate course (4 weeks) of 5-ASA or precursor treatment
+- Written informed consent (or assent when appropriate, according to institutional guidelines)
+
+# Exclusion criteria
+
+- HIV/AIDS or other severe immunodeficiency
+- Severe prior allergic reaction to food or supplementary material of placebo
+- Pregnancy or lactation
+- CMV or EBV colitis suspected by endoscopic findings and confirmed by immunohistochemistry and biopsy PCR
+- Decompensated life-threatening disease including but not restricted to liver cirrhosis (bleeding varices, ascites, encephalopathy, or icterus), myocardial infarction, and malignancy
+
+# Interventions
+
+# Experimental arm
+
+- Oral administration of 30 SQIMC-md capsules containing 2 × 1013 copies of prepared fecal microbiota lyophilized powder from multiple healthy donors' fresh feces + full dose of oral 5-ASA
+
+# Control arm
+
+- Oral administration of 30 placebo capsules containing edible pigmented starch + full dose of oral 5-ASA
+
+# Outcomes
+
+# Primary outcome
+
+- Clinical response rate after SQIMC-md treatment (Mayo score decrease ≥ 3 points and ≥ 30% from baseline, with decrease of ≥ 1 point in subscore for Rectal Bleeding or absolute subscore ≤ 1 for Rectal Bleeding) at week 8
+
+# Secondary outcomes
+
+- Incidence of treatment-emergent adverse events at week 12
+- Clinical response rate at weeks 4 and 12
+- Clinical remission rate (Mayo score ≤ 2 points and no single score > 1 point) at week 12
+- Mean (or median) decrease of fecal calprotectin at week 12
+- Mean (or median) change from baseline in IBDQ Total score and subscore at week 12
+
+# Starting date
+
+30 August 2019
+
+# Contact information
+
+Department of Gastroenterology, Tongji Hospital, China
+
+# Notes
+
+# NCT04202211
+
+# Study name
+
+FMT for remission of active ulcerative colitis in adults
+
+# Methods
+
+RCT conducted in Canada
+
+# Participants
+
+# Inclusion criteria
+
+- Active UC (Mayo score > 3 and Mayo Endoscopic subscore > 1, within 30 days of enrollment or at baseline)
+
+# Exclusion criteria
+
+- Severe UC requiring hospitalization at time of enrollment
+
+Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

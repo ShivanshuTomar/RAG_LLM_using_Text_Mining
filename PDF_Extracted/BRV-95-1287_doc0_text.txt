@@ -1,0 +1,38 @@
+# Exosome-mediated effects and applications in inflammatory bowel disease
+
+Xu Zhang1, Wenrong Xu1†, Li Zhang1,31*, Dickson K. W. Ocansey1,2, and Fei Mao†, Yifei Wang1, Yongmin Yan1, Hui Qian1
+
+1Key Laboratory of Medical Science and Laboratory Medicine of Jiangsu Province, School of Medicine, Jiangsu University, 301 Xuefu Road, Zhenjiang, Jiangsu, 212013, China
+
+2Directorate of University Health Services, University of Cape Coast, PMB, Cape Coast, Ghana
+
+3Nanjing Lishui People’s Hospital, Zhongda Hospital Lishui Branch, Southeast University, Nanjing, Jiangsu, 211200, China
+
+# ABSTRACT
+
+Gut mucosal barriers, including chemical and physical barriers, spatially separate the gut microbiota from the host immune system to prevent unwanted immune responses that could lead to intestinal inflammation. In inflammatory bowel disease (IBD), there is mucosal barrier dysfunction coupled with immune dysregulation and dysbiosis. The discovery of exosomes as regulators of vital functions in both physiological and pathological processes has generated much research interest. Interestingly, exosomes not only serve as natural nanocarriers for the delivery of functional RNAs, proteins, and synthetic drugs or molecules, but also show potential for clinical applications in tissue repair and regeneration as well as disease diagnosis and prognosis. Biological or chemical modification of exosomes can broaden, change and enhance their therapeutic capability. We review the modulatory effects of exosomal proteins, RNAs and lipids on IBD components such as immune cells, the gut microbiota and the intestinal mucosal barrier. Mechanisms involved in regulating these factors towards attenuating IBD have been explored in several studies employing exosomes derived from different sources. We discuss the potential utility of exosomes as diagnostic markers and drug delivery systems, as well as the application of modified exosomes in IBD.
+
+# Key words:
+
+exosome, inflammatory bowel disease, microenvironment, immune system cells, gut microbiota, intestinal mucosal barrier, therapy
+
+# CONTENTS
+
+1. I. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1288
+2. II. General functions and composition of exosomes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1289
+3. III. Sources of exosomes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1290
+1. (1) Stem cells . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1290
+2. (2) Food . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1290
+3. (3) Immune cells . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1290
+4. (4) Body fluids . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1291
+5. (5) IECs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1291
+6. (6) Tumours . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1291
+4. IV. Exosome-induced modulation in IBD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1292
+1. (1) Exosomal proteins . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1292
+1. (a) Immune cell modulation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1292
+2. (b) Gut-microbiome modulation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1292
+3. (c) Intestinal barrier modulation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1293
+
+*†Authors contributed equally to this work. Address for correspondence (Tel: ++86 511 8503 8215; Fax: ++86 511 8503 8215; E-mail: maofei2003@ujs.edu.cn)
+
+Biological Reviews 95 (2020) 1287–1307 © 2020 The Authors. Biological Reviews published by John Wiley & Sons Ltd on behalf of Cambridge Philosophical Society. This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.

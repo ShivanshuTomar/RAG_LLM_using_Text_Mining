@@ -1,0 +1,39 @@
+# High-Salt Diet and Intestinal Microbiota: Influence on Cardiovascular Disease and Inflammatory Bowel Disease
+
+Xueyang Wang 1, Fuyuan Lang 1 and Dan Liu 1,2,*
+
+1 Queen Mary College, Nanchang University, Xuefu Road, Nanchang 330001, China;
+xueyang.wang@se21.qmul.ac.uk (X.W.);
+f.lang@se21.qmul.ac.uk (F.L.)
+
+2 School of Pharmacy, Jiangxi Medical College, Nanchang University, Nanchang 330006, China
+
+* Correspondence: liudan1201jx@ncu.edu.cn
+
+# Simple Summary
+
+Salt, or sodium chloride, is a crucial component of a balanced diet. However, an excessive consumption of salt can lead to a range of adverse health effects that are often overlooked. Salt enters the body’s digestive system through the ingestion of everyday foods and exerts an effect on a key component of the digestive system, namely the intestinal microbiota. Some studies have indicated that alterations in the composition of the intestinal microbiota may influence the functioning of the human body. This paper presents a review of the effects of a high-salt diet on the gut microbiome and, in turn, on the development of cardiovascular disease and inflammatory bowel disease. Furthermore, it synthesizes recent research on the effects of high-salt diets on the gut microbiome and the gut immune system. This further elucidates the mechanisms through which a high-salt diet affects the gut microbiome and associated diseases.
+
+# Citation
+
+Wang, X.; Lang, F.; Liu, D. High-Salt Diet and Intestinal Microbiota: Influence on Cardiovascular Disease and Inflammatory Bowel Disease. Biology 2024, 13, 674. https://doi.org/10.3390/biology13090674
+
+# Abstract
+
+Salt, or sodium chloride, is an essential component of the human diet. Recent studies have demonstrated that dietary patterns characterized by a high intake of salt can influence the abundance and diversity of the gut microbiota, and may play a pivotal role in the etiology and exacerbation of certain diseases, including inflammatory bowel disease and cardiovascular disease. The objective of this review is to synthesize the effects of elevated salt consumption on the gut microbiota, including its influence on gut microbial metabolites and the gut immune system. Additionally, this review will investigate the potential implications of these effects for the development of cardiovascular disease and inflammatory bowel disease. The findings of this study offer novel insights and avenues for the management of two common conditions with significant clinical implications.
+
+# Keywords
+
+high-salt diet; intestinal microbiota; inflammatory bowel disease; cardiovascular disease
+
+# Academic Editor
+
+Guilherme Zweig Rocha
+
+# 1. Introduction
+
+The intestinal microbiota constitute of millions of microorganisms that inhabit the gastrointestinal tract and can interact with the host on a regular basis. These microorganisms include bacteria, fungi, archaea, protozoa, and viruses [1]. The primary capabilities of the intestinal microbiota are the digestion of food, the provision of vital nutrients to the host, defense against different pathogens, and the regulation of the differentiation and growth of intestinal epithelial cells [2]. It is, therefore, crucial to ensure the maintenance of the typical microbiota composition in the intestine to safeguard human digestive and immune health. Recently, several studies have demonstrated relevance between changes in the abundance and diversity of the intestinal microbiome (dysbiosis) and the etiology of a range of diseases, including cardiovascular disease [3], atherosclerosis, hypertension [4], and inflammatory bowel disease [5]. Moreover, it has been demonstrated that additional host factors, such as dietary habits, can influence the composition of the microbiota [1].
+
+Salt, also known as sodium chloride and NaCl, is a vital part of the human diet. The terms “salt” and “sodium” are frequently employed in a manner that suggests an
+
+Copyright: © 2024 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).

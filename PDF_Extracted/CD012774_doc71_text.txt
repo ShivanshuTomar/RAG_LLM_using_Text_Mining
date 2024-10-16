@@ -1,0 +1,78 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Library
+
+# Better health.
+
+# CTRI/2021/03/032131 (Continued)
+
+# Contact information
+
+Ajit Sood
+
+# Cochrane Database of Systematic Reviews
+
+Department of Gastroenterology, Third Floor Dayanand Medical College and Hospital, Ludhiana, Punjab, India; email: ajitsood10@gmail.com
+
+# Notes
+
+EUCTR 2019-003816-29
+
+# Study name
+
+Fecal microbiota transplantation in Crohn's disease as relay after anti-TNF withdrawal
+
+# Methods
+
+RCT conducted in France
+
+# Participants
+
+# Inclusion criteria
+
+- Age 18 years < 75 years
+- CD (according to the Lennard-Jones criteria) for ≥ 6 months
+- In steroid-free clinical remission for ≥ 6 months under anti-TNF agent (no clinical evidence of flare or change in CD-specific treatment and CDAI < 150 the week before inclusion [see Addendum 2 in publication]) with willingness to withdraw anti-TNF treatment
+- For females of child-bearing age: active birth control during at least the period of treatment (week 52)
+- With health insurance (AME except)
+- Informed written consent
+
+# Exclusion criteria
+
+- CD complication requiring surgical treatment
+- Contraindication to colonoscopy or anesthesia
+- Pregnancy or lactation during the study (see Addendum 4 of paper)
+- Diagnosis of CD restricted to upper gastrointestinal tract (esophagus, stomach, duodenum, jejunum)
+- History of bowel resection
+- Current stoma (ileostomy or colostomy) or stoma in last 6 months or any other intra-abdominal surgery within 3 months prior to inclusion
+- Participation in any other interventional study
+- People under legal protection
+
+# Interventions
+
+# Experimental arm
+
+FMT in rectal solution or capsule
+
+# Control arm
+
+Sham FMT
+
+# Outcomes
+
+# Primary outcome
+
+Clinical remission (defined by CDAI < 150) at week 52 (V8) without any flare between week 0 (colonoscopy [V2]) and week 52 (V8)
+
+# Secondary outcomes
+
+- Relapse-free survival rate from week 0 (V2) to week 52 (V8)
+- Proportion of endoscopic remission (SES-CD = 2) at week 52 (V8) and change (in %) in endoscopic score (SES-CD) between week 0 (V2) and 52 (V8)
+
+Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

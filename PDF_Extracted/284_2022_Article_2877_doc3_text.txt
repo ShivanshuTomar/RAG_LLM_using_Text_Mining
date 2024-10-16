@@ -1,0 +1,28 @@
+# Table 1
+
+# Etiological observational studies on the alteration of microbiota through commensals being substituted by pathogens under different conditions during SARS-CoV-2 infection
+
+# Microbiota change in gastrointestinal tract and respiratory tract during SARS-CoV-2 infection
+
+|Commensals|Pathogens|References|
+|---|---|---|
+|Escherichia (Protobacteria), Lactobacillus, Bacillus, and Clostridium (Firmicutes)|N/A|[18, 19]|
+|Bifidobacterium (Actinobacteria), and Bacteroides are present in normal GIT|Bacteroidaceae, Lachnospiraceae, and Ruminococcaceae were depleted bacterial Enterococcus, Staphylococcus, Serratia, and Collinsella along with Lactobacillus|[20]|
+| |Lactococcus, Actinomycetes etc. were the substituted pathogens| |
+|Bacteroides dorei, Bacteroides thetaiotaomicron, Bacteroides massiliensis, and Bacteroides ovatus|Streptococcus spp., Rothia spp., Veillonella spp. and Actinomyces spp.; were reported|[20, 23, 25, 28]|
+| |over the course of hospitalization; inversely correlated with viral loads to increase significantly in the fecal samples| |
+|Coprobacillus, Clostridium ramosum, Clostridium hathewayi abundance were directly correlated with COVID-19 severity events| | |
+|Parabacteroides merdae, Bacteroides stercoris, Alistipes onderdonkii, and Lachnospiraceae bacterium|Collinsella aerofaciens, Collinsella tanakaei, Streptococcus infantis, Morganella morganii etc.; were associated with high virus transcriptional signature|[26]|
+|Bifidobacterium, Lactobacillus and Eubacterium spp., are the gut anaerobes; linked with disease severity|Corynebacterium (Actinobacteria) & Ruthenibacterium were noticeable opportunistic pathogens especially in the hospitalized patients|[3, 31]|
+|Firmicutes-Coprobacillus spp., Clostridium ramosum, and C. hathewayi are the bacterial taxa involved with fecal microbiome|Fermicutes spp. appeared to be diversely affected in the COVID-19 patients|[3, 23, 25, 28]|
+|Parabacteroides, Bacteroides, and Lachnospiraceae families of gut microbiota are known to produce SCFAs, butyric acid help modulate the immune response and maintain the mucosal integrity against endotoxin infiltration|N/A|[3, 20, 23, 31]|
+|N/A|Peptostreptococcus, Fusobacterium, and Citrobacter abundance positively correlated with IL-18 levels might contribute to the SARS-CoV-2 induced production of inflammatory cytokines, have the potential to develop cytokine storm|[30]|
+|Bacteroides, Roseburia, Faecalibacterium, Coprococcus, and Parabacteroides were found to be in lower abundance|but Streptococcus, Clostridium, Lactobacillus, and Bifidobacterium served in increasing number in COVID-19 patients than the control group|[3]|
+|Candida and Aspergillus were the enriched fungal pathogens than the control subjects, Eubacterium were also decreased|prolonged the dysbiosis persisted for ~ 12 days after disappearance of SARS-CoV-2 from nasopharynx| |
+|N/A|Candida albicans and human alpha herpesvirus 1 in upper respiratory tract were found in 46.7% COVID-19 patients|[3, 25]|
+|Influenza A/B or rhino or enteroviruses or respiratory syncytial virus co-infection found to developed with SARS CoV-2| | |
+|Haemophilus parainfluenzae, Neisseria cinerea, Streptococcus mitis, Streptococcus bovis, Leptotrichia buccalis, and Rothia mucilaginosa were detected in COVID-19 patient microflora through throat swab| | |
+|Faecalibacterium prausnitzii favors anti-inflammatory environment and was inversely correlated with COVID-19 severity|Coprobacillus, Clostridium ramosum, Clostridium hathewayi are positively correlated with COVID-19 severity|[25, 28, 32]|
+|Bacteroides dorei, B. massiliensis, B. ovatus and B. thetaiotaomicron, were inversely correlated with viral loads detected in the fecal samples of patients during hospitalization|and have shown to downregulate the ACE-2 expression in the mouse intestine| |
+|A. flavus and A. niger were detected in the fecal mycobiome after recovery from the respiratory symptoms|provided the indication of unstable intestinal microbiome in some patients|[25]|
+| |detected as opportunistic fungi during hospitalization by shotgun metagenomic profiling| |

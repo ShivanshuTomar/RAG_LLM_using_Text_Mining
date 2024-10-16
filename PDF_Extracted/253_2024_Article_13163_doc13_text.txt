@@ -1,0 +1,15 @@
+# Applied Microbiology and Biotechnology
+
+# (2024) 108:333
+
+bacterium. Infect Immun 72:5750–5758. https://doi.org/10.1128/IAI.72.10.5750-5758.2004
+
+Zou ZP, Du Y, Fang TT, Zhou Y, Ye BC (2023) Biomarker-responsive engineered probiotic diagnoses, records, and ameliorates inflammatory bowel disease in mice. Cell Host Microbe 31:199–212. https://doi.org/10.1016/j.chom.2022.12.004
+
+Xu HM, Huang HL, Liu YD, Zhu JQ, Zhou YL, Chen HT, Xu J, Zhao HL, Guo X, Shi W (2021) Selection strategy of dextran sulfate sodium-induced acute or chronic colitis mouse models based on gut microbial profile. BMC Microbiol 21:279. https://doi.org/10.1186/s12866-021-02342-8
+
+Zhai Q, Feng S, Arjan N, Chen W (2019) A next generation probiotic, Akkermansia muciniphila. Crit Rev Food Sci Nutr 59:3227–3236. https://doi.org/10.1080/10408398.2018.1517725
+
+# Publisher’s Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.

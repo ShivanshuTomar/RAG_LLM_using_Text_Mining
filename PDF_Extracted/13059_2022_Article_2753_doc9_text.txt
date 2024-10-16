@@ -1,0 +1,15 @@
+# Ma et al. Genome Biology (2022) 23:208
+
+# Page 10 of 31
+
+# Fig. 4
+
+IBD-associated taxa are aggravated in more severe disease; disease biogeography and CD/UC differentially affect some taxa with respect to disease and treatment.
+
+a Statistically significant genera from meta-analytically synthesized differential abundance effects among severity of CD and UC phenotypes as quantified by Montreal classification. The difference between the most severe phenotype with the least severe one (B3 vs. B1 for CD, E3 vs. E1 for UC) was in most cases more aggravated than that of the intermediate phenotype. Many of the identified features overlap with those associated with IBD vs. control differences, suggesting a consistent gradient of severity effects on the microbiome. Individual study results in Additional file 7: Table S5.
+
+b Genus Dehalobacterium as an example in which a taxon is uniquely affected in the stool microbiome during CD and not at the mucosa. Likewise, family Enterobacteriaceae as an example in which steroid treatment corresponds with enrichment of the clade in CD samples, but depletion in UC. In all panels, effect sizes are aggregated regression coefficients on arcsin square root-transformed relative abundances. Full sets of statistically significant interactions, with individual study results, are in Additional file 8: Table S6.
+
+of IBD. It has been linked to CD in at least one existing 16S-based stool study [50]. In contrast, several UC-specific microbial disruptions were more prominent at the mucosa (i.e., in biopsies, Additional file 8: Table S6). Coupled with the severity-linked differences above, this suggests CD-induced changes in the entire gut microbial ecosystem largely as a consequence of inflammation, with UC-induced dysbioses both more local and more specific to disease and treatment regime. Additional results include effect of steroids on the Enterobacteriaceae, which tended to be more abundant in CD patients receiving steroids, but less abundant in UC recipients (Fig. 4b, Additional file 8: Table S6, Additional file 2: Supplemental Notes).
+
+Lastly, we also conducted a more direct comparison of IBD microbiome associations found after applying each of the three batch correction methods (quantile normalization, ComBat, and MMUPHin_Correct) to our meta-analysis dataset. This employed a simpler post-correction testing strategy, as previously recommended [18], thus making the results more directly comparable but likely less biologically relevant than those discussed previously (Fig. 3). MMUPHin_Correct-processed abundance profiles still identified more IBD-associated genera compared to ComBat and quantile normalization, while also showing the best agreement with both other methods (Additional file 1: Fig.

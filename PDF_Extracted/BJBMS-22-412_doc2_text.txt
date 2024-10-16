@@ -1,0 +1,25 @@
+# Alatawi et al.: Microbiota and anti-TNF-α response in IBD patients
+
+# Ethical statement
+
+This study was approved by the Research Committee, Unit of Biomedical Ethics, Faculty of Medicine at King Abdulaziz University, Jeddah, Saudi Arabia (Ref. No. 372-19). Informed consent was obtained from all patients.
+
+# Figure 1
+
+The taxonomic composition distribution of relative abundance (A) at the phylum level, (B) the genus level among the samples of both groups; (P) refers to primary non-responders and (R) to responders. (C) is a phylogenetic tree showing the evolutionary distance in biological taxa.
+
+|Phylum|Relative Abundance|
+|---|---|
+|A|100|
+|Dorea|Oscillospira|
+|Akkermansia|0|
+|Faecalibacterium|Enterococcus|
+|Escherichia|Phascolarctobacterium|
+|Eubacterium|Porphyromonas|
+|Clostridium|Succinivibrio|
+|Coprobacillus|Lactobacillus|
+|Coprococcus|Megasphaera|
+|Desulfovibrio|Haemophilus|
+|D|Dialister|
+
+B: Genus species phylogeny tree

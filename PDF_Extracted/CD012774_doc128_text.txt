@@ -1,0 +1,19 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# Table 1. Microbiome outcomes (Continued)
+
+|Study|Condition|Method|Findings|
+|---|---|---|---|
+|Fang 2021|UC|Illumina MiSeq|"Alpha diversity index calculation was performed with abundance indexes (Chao1 and ACE) and diversity indexes (Shannon and Simpson). The alpha diversity index of the fecal microbiota in active UC patients, healthy donors and patients after FMT treatment showed no significant difference." "The beta diversity of the samples was measured using the Bray-Curtis distance based on an evenly rarefied OTU abundance table. Statistical differences in measured β-diversity metrics across groups were determined using PERMANOVA with 999 permutations, using adonis in the R package vegan." "Shared OTUs were calculated and visualized using the R package Venn diagram." "To measure the level of similarity between gut microbial communities, analysis of similarities (ANOSIM) was performed." "The gut microbiota was assessed by 16S ribosomal RNA sequencing. The V3–V4 hypervariable region of the 16S rRNA gene was amplified via high-throughput sequencing on the Illumina MiSeq platform, and the raw sequencing data from stool samples from individual donors and FMT recipients pre- and post-FMT treatment were processed into operational taxonomic units at 97% similarity." "Principal coordinate analysis (PCoA) was used to indicate the similarity of the microbiota composition among samples. PCoA revealed that the gut microbiota in UC patients significantly deviated from that in healthy donors. Treatment with FMT improved the distance markedly, and the samples clustered tightly together, showing a trend similar to that of their related donors, but did not return to the level of healthy donors." "The system clustering tree also indicated that a significant difference existed between UC patients and healthy donors." "Linear discriminant analysis effect size (LEfSe) was used to identify differential microorganism communities between groups. The taxonomic profiles showed that the phyla Bacteroidetes, Firmicutes and Proteobacteria were dominant bacteria in the fecal microbiota of healthy donors and active UC patients. The relative abundance of Bacteroidetes was significantly decreased and that of Proteobacteria was significantly increased in people with active UC patients. Firmicutes showed no significant changes among healthy donors and active UC patients." "Compared with healthy donors, patients with active UC showed an increased ratio of Firmicutes and Bacteroidetes. Single fresh FMT could significantly reconstruct the dysbiotic gut microbiota and maintain stability, with an increased proportion of Bacteroidetes and a decreased proportion of Proteobacteria."|
+
+# Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

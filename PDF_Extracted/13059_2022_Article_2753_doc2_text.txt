@@ -1,0 +1,20 @@
+# Ma et al. Genome Biology (2022) 23:208
+
+# Table 1
+
+Ten uniformly processed 16S rRNA gene sequencing studies of the IBD mucosal/stool microbiomes. For longitudinal cohorts, numbers in parentheses indicate baseline sample size. For age, mean and standard error (parenthesized) are shown. Additional covariates are summarized in Additional file 3: Table S1
+
+|Study|Brief description|N subject|N sample|Phenotype(s)|Age|Gender|Sample type(s)|
+|---|---|---|---|---|---|---|---|
+|PROTECT [23]|Longitudinal cohort of newly diagnosed UC|405|1212 (539)|UC 405|12.71 (3.29)|Male 52%/ Female 48%|Biopsy 22%/ Stool 78%|
+|RISK [7]|Pediatric cohort of treatment-naïve CD|631|882|CD 430/Control 201|12.16 (3.22)|Male 59%/ Female 41%|Biopsy 72%/ Stool 28%|
+|Herfarth [26]|Densely (daily) sampled longitudinal cohort|31|860 (31)|CD 19/Control 12|36.03 (14.12)|Male 35%/ Female 58%/ Missing 6%|Stool|
+|Jansson-Lamendella [22]|Longitudinal follow-up with fecal samples|137|683 (137)|CD 49/UC 60/ Control 28| |Male 42%/ Female 58%|Stool|
+|Pouchitis [27]|Patients recruited underwent IPAA for treatment of UC or FAP prior to enrollment.|353|577|CD 42/UC 266/ Control 45|46.19 (13.58)|Male 52%/ Female 48%|Biopsy|
+|CS-PRISM [28]|Cross-sectional cohort nested in PRISM|397|467|CD 215/UC 144/Control 38|41.68 (15.22)|Male 47%/ Female 53%|Biopsy 29%/ Stool 71%|
+|HMP2 [9]|Large cohort of newly diagnosed IBD with multi-‘omics measurement.|81|177 (162)|CD 37/UC 22/ Control 22|29.76 (19.63)|Male 51%/ Female 49%|Biopsy|
+|MucosalIBD [29]|Pediatric cohort with Paneth cell phenotypes|83|132|CD 36/Control 47|12.93 (3.65)|Male 58%/ Female 42%|Biopsy|
+|LSS-PRISM [30]|Longitudinal cohort nested in PRISM.|18|88 (19)|CD 12/UC 6|30.37 (10.52)|Male 39%/ Female 61%|Stool|
+|BIDMC-FMT [31]|FMT Trial design|8|16|CD 8|38.38 (12.73)|Male 62%/ Female 38%|Stool|
+
+longitudinal sampling, pediatric and adult populations, diseases (CD and UC), treated and treatment-naive patients, biopsy and stool samples, and inclusion of healthy/non-IBD controls. Covariates were manually curated to ensure consistency across studies (“Methods”). Major factors available from all or most studies included demographics (age/sex/race), biogeography, disease location and/or extent, antibiotic usage, immunosuppression, and steroid and/or 5-ASA usage.

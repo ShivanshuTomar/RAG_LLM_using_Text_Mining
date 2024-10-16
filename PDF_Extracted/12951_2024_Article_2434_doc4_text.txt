@@ -1,0 +1,15 @@
+# Yang et al. Journal of Nanobiotechnology (2024) 22:166
+
+# Page 5 of 16
+
+from 3.125 to 100 μg/mL) were noncytotoxic to human intestinal epithelial HT-29 and murine macrophage RAW 264.7 cell lines after 48 h (Fig. 2A and B), suggesting that YBNs@PDA is a suitable and safe drug candidate to reach the local inflamed colonic regions. Flow cytometry analysis for detecting nanoparticles internalization efficacy in cells are shown in Additional file 1: Fig. S3. YBNs@PDA were rapidly internalized into cells within only 1 h in both the RAW264.7 and HT-29 cells. Using 2′,7′-dichlorodihydrofluorescein diacetate (DCF) labeling, we were able to quantify the increased amount of intracellular ROS generation in RAW 264.7 cells (Fig. 2D and E) and HT-29 (Additional file 1: Fig. S4) under LPS-induced or H2O2 stress conditions. YBNs@PDA, but not YBNs alone, induced generation of pro-inflammatory cytokines was substantially attenuated the intracellular ROS over-generation. Nonetheless, it is intriguing that YBNs did not exhibit ROS-responsiveness and were incapable of preserving HT-29 cells, revealing PDA possesses prominent cytoprotective effect. Subsequently, the anti-inflammation effects of YBNs@PDA were examined by measuring the typical pro-inflammatory cytokine levels, including tumor necrosis factor-alpha (TNF-α), interleukin-1 beta (IL-1β), interleukin-6 (IL-6) and monocyte chemoattractant protein-1 (MCP-1). Figure 2F shows that the LPS-induced generation of pro-inflammatory cytokines was greatly reduced by YBNs@PDA, whereas no noticeable impact was seen in the YBNs-treated group, which was.
+
+|A|200|RAW264.| | | | | |
+|---|---|---|---|---|---|---|---|
+|B|200|HT-29|120 -|Control| | | |
+|8150|0|100|1|1|PBS|YBNs@PDA|YBNs|
+|8|125|Control|Concentration (μg/mL)|Control|Concentration (μg/mL)| | |
+|RAW264.7|Control|PBS|YBNs@PDA-25|YBNs@PDA-50|YBNs| | |
+|D|Unstained|Control|LPS|DCF|YBNs@PDA 25|YBNs@PDA 50|YBNs|
+
+Fig. 2 Antioxidant and anti-inflammatory effects of YBNs@PDA. (A, B) Cytotoxicity profiles of YBNs@PDA towards RAW264.7 and HT-29 cells for 48 h. (C) Cell viability of HT-29 treated with YBNs@PDA (50 μg/mL) for 12 h and 100 μM H2O2 for the following 12 h. (D, E) Flow cytometry analysis and CLSM images of intracellular ROS levels of RAW264.7 cells after treated with PBS, YBNs@PDA-25 μg/mL, YBNs@PDA-50 μg/mL and YBNs (50 μg/mL). (F) Relative expression levels of TNF-α, IL-1β, IL-6 and MCP-1 in LPS-induced RAW 264.7 macrophages after different treatments. Data are presented as mean ± standard deviation from a representative experiment (n = 3). *P &lt; 0.05, **P &lt; 0.01, ***P &lt; 0.001, analysed by two-tailed unpaired Student’s t-test

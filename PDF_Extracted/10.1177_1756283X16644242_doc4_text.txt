@@ -1,0 +1,21 @@
+# Therapeutic Advances in Gastroenterology 9(4)
+
+# Immune system in IBD
+
+The immune system plays a critical role in the development of IBD and it is likely that invading microorganisms are necessary for potentiating its effects [Geremia et al. 2014] (Figure 2). Microorganisms that invade epithelial cells, the submucosa, or systemic space can stimulate various components of the immune system, including autophagy [Parkes, 2012], innate immunity [Abraham and Medzhitov, 2011], and adaptive immunity [Kato et al. 2014]. Dysfunction in these pathways plays a role in IBD pathogenesis.
+
+Autophagy, the regulated mechanism by which cells process and destruct organelles and intracellular pathogens, is disrupted in some forms of CD. Mutations in key autophagy genes like nucleotide oligomerization domain 2 (NOD2) and ATG16L1 are associated with terminal ileal Crohn’s, and certain intracellular pathogens are able to manipulate autophagy to form autophagic vacuoles where they remain protected from immune responses [Parkes, 2012].
+
+Microorganisms that reach the submucosa through disrupted tight junctions can interact with the basolateral surface of epithelial cells that are covered in pattern recognition receptors such as toll-like receptors that recognize various components of microbial pathogens [Man et al. 2011]. They stimulate the release of inflammatory cytokines recruiting phagocytic cells and components of the adaptive immune system. Toll-like receptors and regulating molecules have been shown to have altered expression in both active and inactive IBD [Fernandes et al. 2015].
+
+# IBD risk factors
+
+Both genetic and environmental risk factors influence the development of IBD (Figure 3). Understanding how these factors impact disease susceptibility, onset, and exacerbation can guide future investigations aimed at identifying targets for disease treatment and prevention.
+
+# Genetic risks
+
+Monozygotic twin concordance rates are only 15–20% in UC and less than 50% in CD [Halme et al. 2006], indicating that although genes confer increased susceptibility to IBD, they are not sufficient for the development of disease. Twins and family members of patients with IBD often demonstrate abnormal gut parameters, including leaky gut [Buhner et al. 2006; D’Inca et al. 2006] and altered microbiome without developing IBD, suggesting that genetics predispose people to gut dysfunction but other environmental factors are necessary for triggering disease onset [Willing et al. 2010; Halfvarson, 2011; Hedin et al. 2014].
+
+Genome-wide association studies (GWAS) have identified over 200 IBD-associated loci [Ogura et al. 2001; Jostins et al. 2012; Knights et al. 2013; McGovern et al. 2015]. All gene variants carry a low penetrance with the highest odds ratio of 7 conferred by NOD2, a gene coding for an intracellular receptor that recognizes a component of bacterial cell walls. Other gene associations have odds ratios of less than 1. A mutation in the IL23 receptor has been shown to offer a two- to threefold protection against developing IBD [McGovern et al. 2015]. Genes likely influence all three components of IBD pathophysiology (microbiome, barrier function, and immunity) but primarily affect barrier function and immunity through their impact on mucus production, tight junctions, autophagy, and the innate and adaptive immune response [Jostins et al. 2012; Dalal and Chang, 2014; Van Limbergen et al. 2014; Bianco et al. 2015].
+
+Figure 3. Risk factors for inflammatory bowel disease (IBD). There are multiple risk factors, both genetic and environmental, that mutually contribute to the development and exacerbation of IBD. Genetics directly affect barrier function and the immune system, whereas environmental factors (e.g. diet, tobacco use, infections, stress, surgical procedures, and medications, including antibiotic exposure) directly affect barrier function and the microbiota.

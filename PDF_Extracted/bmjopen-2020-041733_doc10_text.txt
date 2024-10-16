@@ -1,0 +1,66 @@
+# Competing interests
+
+PM holds the Audrey Campbell Chair in Ulcerative Colitis Research. PM, PB and AF have no conflicts of interest. CNB is supported in part by the Bingham Chair in Gastroenterology. He is on Advisory Boards for AbbVie Canada, Janssen Canada, Takeda Canada, Pfizer Canada. He is a consultant for Mylan Pharmaceuticals. He is receiving educational grants from AbbVie Canada, Pfizer Canada, Shire Canada, Takeda Canada, Janssen Canada. Speaker’s panel for AbbVie Canada, Janssen Canada, Takeda Canada, and Medtronic Canada. Received research funding from AbbVie Canada. JDR receives research funding from Pfizer. LAD is on the Advisory Boards for Janssen Canada, AbbVie Canada, Pfizer Canada and Takeda Canada. DAM holds a Canada Research Chair (2008–2018) and the Arthur J.E. Child Chair and receives travel reimbursement through Illumina for meetings of the Global Economics and Evaluation of Clinical Genomics Sequencing Working Group. SV was supported by an educational grant from Allergan. SZ is a patient research partner and received a grant from Takeda Canada.
+
+# Patient consent for publication
+
+Not required.
+
+# Provenance and peer review
+
+Not commissioned; externally peer reviewed.
+
+# Supplemental material
+
+This content has been supplied by the author(s). It has not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been peer-reviewed. Any opinions or recommendations discussed are solely those of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and responsibility arising from any reliance placed on the content. Where the content includes any translated material, BMJ does not warrant the accuracy and reliability of the translations (including but not limited to local regulations, clinical guidelines, terminology, drug names and drug dosages), and is not responsible for any error and/or omissions arising from translation and adaptation or otherwise.
+
+# Open access
+
+This is an open access article distributed in accordance with the Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited, appropriate credit is given, any changes made indicated, and the use is non-commercial. See: http://creativecommons.org/licenses/by-nc/4.0/.
+
+# ORCID iDs
+
+- Paul Moayyedi http://orcid.org/0000-0002-3616-9292
+- Jennifer Cunningham http://orcid.org/0000-0001-8137-6779
+- Deborah A Marshall http://orcid.org/0000-0002-8467-8008
+
+# REFERENCES
+
+1. Thompson WG, Irvine EJ, Pare P, et al. Functional gastrointestinal disease in Canada. Dig Dis Sci 2002;47:225–35.
+2. Sperber AD, Bangdiwala SI, Drossman DA, et al. Worldwide prevalence and burden of functional gastrointestinal disorders, results of Rome Foundation global study. Gastroenterology 2020;S0016-5085:30487–X.
+3. Ng SC, Shi HY, Hamidi N, et al. Worldwide incidence and prevalence of inflammatory bowel disease in the 21st century: a systematic review of population-based studies. Lancet 2018;390:2769–78.
+4. Brandt LJ, Chey WD, et al. An evidence-based position statement on the management of irritable bowel syndrome. Am J Gastroenterol 2009;104 Suppl 1:S8–35.
+5. Talley NJ, Abreu MT, Achkar J-P, et al. An evidence-based systematic review on medical therapies for inflammatory bowel disease. Am J Gastroenterol 2011;106 Suppl 1:S2–25.
+6. Gralnek IM, Hays RD, Kilbourne A, et al. The impact of irritable bowel syndrome on health-related quality of life. Gastroenterology 2000;119:654–60.
+7. Casellas F, López-Vivancos J, Badia X, et al. Influence of inflammatory bowel disease on different dimensions of quality of life. Eur J Gastroenterol Hepatol 2001;13:567–72.
+8. Bernstein CN, Loftus EV, Ng SC, et al. Hospitalisations and surgery in Crohn's disease. Gut 2012;61:622–9.
+9. Peery AF, Crockett SD, Barritt AS, et al. Burden of gastrointestinal, liver, and pancreatic diseases in the United States. Gastroenterology 2015;149:1731–41.
+10. Lee C, Doo E, Choi JM, et al. The increased level of depression and anxiety in irritable bowel syndrome patients compared with healthy controls: systematic review and meta-analysis. J Neurogastroenterol Motil 2017;23:349–62.
+11. Mikocka-Walus A, Knowles SR, Keefer L, et al. Controversies revisited: a systematic review of the comorbidity of depression and anxiety with inflammatory bowel diseases. Inflamm Bowel Dis 2016;22:752–62.
+12. Jones R, Latinovic R, Charlton J, et al. Physical and psychological co-morbidity in irritable bowel syndrome: a matched cohort study using the general practice research database. Aliment Pharmacol Ther 2006;24:879–86.
+13. Roy-Byrne PP, Davidson KW, Kessler RC, et al. Anxiety disorders and comorbid medical illness. Gen Hosp Psychiatry 2008;30:208–25.
+14. Ford AC, Moayyedi P, Lacy BE, et al. American College of gastroenterology monograph on the management of irritable bowel syndrome and chronic idiopathic constipation. Am J Gastroenterol 2014;109 Suppl 1:S2–26.
+15. Moayyedi P, Simrén M, Bercik P. Evidence-Based and mechanistic insights into exclusion diets for IBS. Nat Rev Gastroenterol Hepatol 2020;17:406–13.
+16. Moayyedi P. Update on fecal microbiota transplantation in patients with inflammatory bowel disease. Gastroenterol Hepatol 2018;14:319–22.
+17. MacQueen G, Surette M, Moayyedi P. The gut microbiota and psychiatric illness. J Psychiatry Neurosci 2017;42:75–7.
+18. Pittayanon R, Lau JT, Yuan Y, et al. Gut microbiota in patients with irritable bowel syndrome-a systematic review. Gastroenterology 2019;157:97–108.
+19. Pittayanon R, Lau JT, Yuan Y, et al. Gut microbiota in patients with inflammatory bowel disease – a systematic review. Gastroenterology 2020;158:930–46.
+20. IMAGINE. Will transform the management of IBD and IBS and associated mental health issues with these disorders. Available: www.imaginespor.com
+21. Palsson OS, Whitehead WE, van Tilburg MAL, et al. Development and validation of the Rome IV diagnostic questionnaire for adults. Gastroenterology 2016;150:1481–91.
+22. Satsangi J, Silverberg MS, Vermeire S, et al. The Montreal classification of inflammatory bowel disease: controversies, consensus, and implications. Gut 2006;55:749–53.
+23. Levine A, Griffiths A, Markowitz J, et al. Pediatric modification of the Montreal classification for inflammatory bowel disease: the Paris classification. Inflamm Bowel Dis 2011;17:1314–21.
+24. Ruemmele FM, Hyams JS, Otley A, et al. Outcome measures for clinical trials in paediatric IBD: an evidence-based, expert-driven practical statement paper of the paediatric ECCO Committee. Gut 2015;64:438–46.
+25. Shklarov S, Marshall DA, Wasylak T, et al. "Part of the Team": Mapping the outcomes of training patients for new roles in health research and planning. Health Expect 2017;20:1428–36.
+26. Marlett N, Shklarov S, Marshall D, et al. Building new roles and relationships in research: a model of patient engagement research. Qual Life Res 2015;24:1057–67.
+27. Moayyedi P, Surette MG, Kim PT, et al. Fecal microbiota transplantation induces remission in patients with active ulcerative colitis in a randomized controlled trial. Gastroenterology 2015;149:102–9.
+28. Hu FB. Dietary pattern analysis: a new direction in nutritional epidemiology. Curr Opin Lipidol 2002;13:3–9.
+29. Hu FB, Rimm EB, Stampfer MJ, et al. Prospective study of major dietary patterns and risk of coronary heart disease in men. Am J Clin Nutr 2000;72:912–2.
+30. Northstone K, Ness AR, Emmett PM, et al. Adjusting for energy intake in dietary pattern investigations using principal components analysis. Eur J Clin Nutr 2008;62:931–8.
+31. Lau JT, Whelan FJ, Herath I, et al. Capturing the diversity of the human gut microbiota through culture-enriched molecular profiling. Genome Med 2016;8:72.
+32. Woo TE, Lim R, Heirali AA, et al. A longitudinal characterization of the non-cystic fibrosis bronchiectasis airway microbiome. Sci Rep 2019;9:6871.
+33. Xu J. Fungal DNA barcoding. Genome 2016;59:913–32.
+34. Whelan FJ, Surette MG. A comprehensive evaluation of the sl1p pipeline for 16S rRNA gene sequencing analysis. Microbiome 2017;5:100.
+35. Callahan BJ, McMurdie PJ, Rosen MJ, et al. DADA2: high-resolution sample inference from Illumina amplicon data. Nat Methods 2016;13:581–3.
+36. Schmieder R, Edwards R. Fast identification and removal of sequence contamination from genomic and metagenomic datasets. PLoS One 2011;6:e17288.
+37. Franzosa EA, McIver LJ, Rahnavard G, et al. Species-Level functional profiling of metagenomes and metatranscriptomes. Nat Methods 2018;15:962–8.
+38. Segata N, Waldron L, Ballarini A, et al. Metagenomic microbial community profiling using unique clade-specific marker genes. Nat Methods 2012;9:811–4.

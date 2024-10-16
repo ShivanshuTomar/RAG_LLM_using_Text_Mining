@@ -1,0 +1,61 @@
+# BJBMS
+
+# REVIEW ARTICLE
+
+# MICROBIOLOGY
+
+# Dysbiosis of gut microbiota in inflammatory bowel disease: Current therapies and potential for microbiota-modulating therapeutic approaches
+
+# Dikhnah Alshehri1,2*, Omar Saadah3,4, Mahmoud Mosli1,6, Ahmed Bahieldin1,6,5, Sherif Edris1,6,7, Rashad Alhindi1
+
+# ABSTRACT
+
+There is a growing body of evidence reinforcing the unique connections between the host microbiome, health, and diseases. Due to the extreme importance of the symbiotic relationship between the intestinal microbiome and the host, it is not surprising that any alteration in the gut microbiota would result in various diseases, including inflammatory bowel disease (IBD), Crohn’s disease (CD) and ulcerative colitis (UC). IBD is a chronic, relapsing-remitting condition that is associated with significant morbidity, mortality, compromised quality of life, and costly medical care. Dysbiosis is believed to exacerbate the progression of IBD. One of the currently used treatments for IBD are anti-tumor necrosis factor (TNF) drugs, representing a biologic therapy that is reported to have an impact on the gut microbiota composition. The efficacy of anti-TNF agents is hindered by the possibility of non-response, which occurs in 10-20% of treated patients, and secondary loss of response, which occurs in up to 30% of treated patients. This underscores the need for novel therapies and studies that evaluate the role of the gut microbiota in these conditions. The success of any therapeutic strategy for IBD depends on our understanding of the interactions that occur between the gut microbiota and the host. In this review, the health and disease IBD-associated microbiota patterns will be discussed, in addition to the effect of currently used therapies for IBD on the gut microbiota composition, as well as new therapeutic approaches that can be used to overcome the current treatment constraints.
+
+# KEYWORDS
+
+Inflammatory bowel disease; microbiota; dysbiosis; anti-TNF-α; microbiome-modulating therapy
+
+# INTRODUCTION
+
+It has been estimated that more than one million residents of the United States and 2.5 million individuals living in the European Union suffer from inflammatory bowel disease (IBD). IBD is a chronic inflammatory disorder that has been associated with high morbidity and mortality, low quality of life, and financially demanding medical care [1,2]. The incidence of IBD has been rapidly increasing in developed and industrialized countries over the last two decades. Furthermore, IBD is an inflammatory disease of the gastrointestinal (GI) tract that exhibits a chronic relapsing-remitting course. The causes of this disease are multi-factorial, but it can be subdivided into two main types, Crohn’s disease (CD) and ulcerative colitis (UC). Even though both conditions have similar clinical and pathological presentations, it seems that the main biological processes involved in the development of CD and UC are different [3]. CD can affect any part of the GI tract with a particular preference for the terminal ileum, whereas UC can only affect the large intestine, i.e., the colon [4]. In a minority of cases where only the colon is affected, CD can be indistinguishable from UC, and such cases are often described as “indeterminate colitis.” Both conditions can cause irreversible impairment of the structure and function of the GI tract [3].
+
+The diversity and composition of the human gut microbiota are believed to play a critical role in human health and the development of disease. A well-balanced composition of microbes in the gut (symbiosis) is recognized as crucial for maintaining a normal and healthy GI tract. Gut microbes have also been implicated in the pathophysiology of inflammation, especially in patients with confirmed IBD [5].
+
+# Affiliations
+
+1 Department of Biological Sciences, Faculty of Science, King Abdulaziz University, Jeddah, Saudi Arabia
+
+2 Department of Biology, Faculty of Science, Tabuk University, Tabuk, Saudi Arabia
+
+3 Department of Pediatrics, Faculty of Medicine, King Abdulaziz University, Jeddah, Saudi Arabia
+
+4 Inflammatory Bowel Disease Research Group, King Abdulaziz University, Jeddah, Saudi Arabia
+
+5 Department of Medicine, Faculty of Medicine, King Abdulaziz University, Jeddah, Saudi Arabia
+
+6 Department of Genetics, Faculty of Agriculture, Ain Shams University, Cairo, Egypt
+
+7 Princess Al Jawhara Albrahim Center of Excellence in Research of Hereditary Disorders (PACER-HD), Faculty of Medicine, King Abdulaziz University, Jeddah, Saudi Arabia
+
+# Corresponding author
+
+Dikhnah Alshehri, Department of Biology, Faculty of Science, University of Tabuk, Alrawdah, Tabuk, 71411, Saudi Arabia. Phone: 00966555620021. E-mail: dalsheheri@ut.edu.sa
+
+# DOI
+
+https://dx.doi.org/10.17305/bjbms.2020.5016
+
+# Submitted
+
+26 July 2020
+
+# Accepted
+
+17 September 2020
+
+# Conflict of interest statement
+
+The authors declare no conflict of interests
+
+©The Author(s) (2021). This work is licensed under a Creative Commons Attribution 4.0 International License

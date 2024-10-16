@@ -1,0 +1,75 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# NCT05030064 (Continued)
+
+# Exclusion Criteria
+
+- Unspecified UC
+- Travel abroad in past month
+- History of alcoholism, drug abuse, or smelting
+- Use of antibiotics and probiotic preparations within 1 month
+- Bipolar disorder, persistent mood disorder, and mania
+- Pregnancy and lactation
+- Malignant tumors, gastrointestinal infection, IBS, bowel cancer and other gastrointestinal diseases
+- History of gastrointestinal surgery
+- Obesity, hypertension, diabetes, heart disease, stroke, and other serious chronic diseases (hereditary, metabolic, endocrine diseases)
+- Other serious diseases (e.g. of the heart, brain, lung, liver, kidney)
+- Infectious diseases: hepatitis B or C, HIV, syphilis (rapid recovery of positive plasma), EBV and CMV infection (immunoglobulin M positive)
+- Abnormal liver function: AST or ALT > 2 × upper limit of normal
+- Renal insufficiency: serum creatine > 1.5 × upper limit of normal or eGFR < 60 mL/minute
+- Dyslipidemia: total cholesterol > 4.0 mmol/L, triglycerides > 2.0 mmol/L, low-density lipoprotein cholesterol > 2.5 mmol/L, high-density lipoprotein cholesterol < 1.0 mmol/L
+- CRP > 8 mg/L
+- Anticoagulation therapy
+- Participation in other clinical trials at the time of enrollment
+- Refusal to join group or other factors affecting compliance and participation
+
+# Interventions
+
+# Experimental arm
+
+16 FMT capsules (each containing 200 mg of intestinal bacteria), once a week for 4 weeks
+
+# Control arm
+
+16 placebo capsules, once a week for 4 weeks
+
+# Outcomes
+
+# Primary outcome
+
+PHQ-9 score at week 12
+
+# Secondary outcomes
+
+- Self-Rating Depression Scale score at week 12
+- Hamilton Anxiety Scale score at week 12
+- Hamilton Depression Scale score at week 12
+- Hospital Anxiety and Depression Scale score at week 12
+- Gastrointestinal Symptom Rating Scale score at week 12
+- Modified Mayo score for UC at week 12
+- IBDQ score at week 12
+- WBC, CRP, ESR, procalcitonin, interleukin-6, intestinal flora at week 12
+
+# Starting date
+
+10 September 2021
+
+# Contact information
+
+Yanling Wei, Deputy Chief Physician, Third Military Medical University, Chongqing, China
+
+Tel: 86-15310354666; email: lingzi016@126.com
+
+# Notes
+
+Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

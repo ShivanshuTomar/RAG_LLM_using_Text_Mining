@@ -1,0 +1,21 @@
+# Changes in microbial ecology after fecal microbiota transplantation for recurrent C. difficile infection affected by underlying inflammatory bowel disease
+
+# Sahil Khanna1†, Yoshiki Vazquez-Baeza 2†, Antonio González 3, Sophie Weiss 4, Bradley Schmidt 1, David A. Muñiz-Pedrogo1, John F. Rainey III1, Patricia Kammer 1, Heidi Nelson5, Michael Sadowsky 6, Alexander Khoruts7, Stefan L. Farrugia 1, Rob Knight 2,3, Darrell S. Pardi 1* and Purna C. Kashyap 1*
+
+# Abstract
+
+Background: Gut microbiota play a key role in maintaining homeostasis in the human gut. Alterations in the gut microbial ecosystem predispose to Clostridium difficile infection (CDI) and gut inflammatory disorders such as inflammatory bowel disease (IBD). Fecal microbiota transplantation (FMT) from a healthy donor can restore gut microbial diversity and pathogen colonization resistance; consequently, it is now being investigated for its ability to improve inflammatory gut conditions such as IBD. In this study, we investigated changes in gut microbiota following FMT in 38 patients with CDI with or without underlying IBD.
+
+Results: There was a significant change in gut microbial composition towards the donor microbiota and an overall increase in microbial diversity consistent with previous studies after FMT. FMT was successful in treating CDI using a diverse set of donors, and varying degrees of donor stool engraftment suggesting that donor type and degree of engraftment are not drivers of a successful FMT treatment of CDI. However, patients with underlying IBD experienced an increased number of CDI relapses (during a 24-month follow-up) and a decreased growth of new taxa, as compared to the subjects without IBD. Moreover, the need for IBD therapy did not change following FMT. These results underscore the importance of the existing gut microbial landscape as a decisive factor to successfully treat CDI and potentially for improvement of the underlying pathophysiology in IBD.
+
+Conclusions: FMT leads to a significant change in microbial diversity in patients with recurrent CDI and complete resolution of symptoms. Stool donor type (related or unrelated) and degree of engraftment are not the key for successful treatment of CDI by FMT. However, CDI patients with IBD have higher proportion of the original community after FMT and lack of improvement of their IBD symptoms and increased episodes of CDI on long-term follow-up.
+
+Keywords: Fecal microbiota transplantation, Microbiome, Clostridium difficile infection, Inflammatory bowel disease
+
+Correspondence: pardi.darrell@mayo.edu; kashyap.purna@mayo.edu
+
+1†Equal contributors Division of Gastroenterology and Hepatology, Mayo Clinic, Rochester, MN 55905, USA
+
+Full list of author information is available at the end of the article
+
+© The Author(s). 2017 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.

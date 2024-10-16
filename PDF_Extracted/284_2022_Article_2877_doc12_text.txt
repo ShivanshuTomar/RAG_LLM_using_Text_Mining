@@ -1,0 +1,41 @@
+# Association of Gut Microbiota with Inflammatory Bowel Disease and COVID‑19 Severity: A Possible…
+
+# References
+
+1. Zhang H, Kang Z, Gong H et al (2020) Digestive system is a potential route of COVID-19: an analysis of single cell co-expression pattern of key proteins in the viral entry process. Gut 69:1010–1018
+2. Sencio V, Machado MG, Trottein F (2021) The lung-gut axis during viral respiratory infections: the impact of gut dysbiosis on secondary disease outcomes. Mucosal Immunol 14(2):296–304. https://doi.org/10.1038/s41385-020-00361-8
+3. Kaushal A (2020) Mutants and variants of SARS-CoV-2 across the globe-A comprehensive review. Acta Sci Microbiol 4(5):93–113
+4. Kaushal A (2020) Immune response and pathogenesis of COVID-19 and the strategies for developing target drugs. Acta Sci Microbiol 3(9):92–102
+5. Noor R, Maniha SM (2020) A brief outline of respiratory viral disease outbreaks: 1889 – till date on the public health perspectives. Virus Dis 31(4):441–449. https://doi.org/10.1007/s13337-020-00628-5
+6. WHO (World Health Organization) Coronavirus diseases (COVID-19) Dashboard. Updated on 5:30pm CEST, 3 August 2021. https://covid19.who.int/ Accessed 25 Aug 2021.
+7. Gómez CE, Perdiguero B, Esteban M (2021) Emerging SARS-CoV-2 variants and impact in global vaccination programs against SARS-CoV-2/COVID-19. Vaccines (Basel) 9(3):243. https://doi.org/10.3390/vaccines9030243
+8. Korber B (2020) Tracking changes in SARS-CoV-2 spike: evidence that D614G increases infectivity of the COVID-19 virus. Cell 182(4):812–827. https://doi.org/10.1016/j.cell.2020.06.043
+9. Hoffmann M, Arora P, Groß R, Seidel A et al (2021) SARS-CoV-2 variants B.1.351 and P.1 escape from neutralizing antibodies. Cell 184(9):2384-2393.e12. https://doi.org/10.1016/j.cell.2021.03.036
+10. Ferreira C, Viana SD, Reis F (2020) Gut microbiota dysbiosis-immune hyperresponse-inflammation triad in coronavirus disease- (COVID-19): impact of pharmacological and nutraceutical approaches. Microorganisms 8:1514. https://doi.org/10.3390/microorganisms8101514
+11. Li J, Jia H, Cai X, Zhong H, Feng Q et al (2014) An integrated catalog of reference genes in the human gut microbiome. Nat Biotechnol 32:834–841
+12. Gaibani P, D’Amico F, Bartoletti M et al (2021) The gut microbiota of critically Ill patients with COVID-19. Front Cell Infect Microbiol 11:670424. https://doi.org/10.3389/fcimb.2021.670424
+13. Aktas B, Aslim B (2020) Gut-lung axis and dysbiosis in COVID-19. Turk J Biol 44(3):265–272
+14. Chen Y, Gu S, Chen Y, Lu H, Shi D, Guo J et al (2021) Six-month follow-up of gut microbiota richness in patients with COVID-19. Gut 71:222. https://doi.org/10.1136/gutjnl-2021-324090
+15. Gu S, Chen Y, Wu Z, Chen Y et al (2020) Alterations of the gut microbiota in patients with coronavirus disease 2019 or H1N1 influenza. Clin Infect Dis 71(10):2669–2678. https://doi.org/10.1093/cid/ciaa709
+16. Viana SD, Nunes S, Reis F (2020) ACE2 imbalance as a key player for the poor outcomes in COVID-19 patients with age-related comorbidities: role of gut microbiota dysbiosis. Ageing Res Rev 62:101123. https://doi.org/10.1016/j.arr.2020.101123
+17. Zuo T, Zhang F, Lui GCY, Yeoh YK, Li AYL, Zhan H et al (2020) Alterations in gut microbiota of patients with COVID-19 during time of hospitalization. Gastroenterology 159:944–955. https://doi.org/10.1053/j.gastro.2020.05.048
+18. Zuo T, Liu Q, Zhang F, Lui GC, Tso EY, Yeoh YK et al (2021) Depicting SARS-Cov-2 faecal viral activity in association with gut microbiota composition in patients with COVID-19. Gut 70:276–284. https://doi.org/10.1136/gutjnl-2020-322294
+19. Zhou J, Li C, Liu X, Chiu MC, Zhao X, Wang D et al (2020) Infection of bat and human intestinal organoids by SARS-CoV-2. Nat Med 26(7):1077–1083. https://doi.org/10.1038/s41591-020-0912-6
+20. Zuo T, Zhan H, Zhang F, Liu Q, Tso EYK, Lui GCY et al (2020) Alterations in fecal fungal microbiome of patients with COVID-19 during time of hospitalization until discharge. Gastroenterology 159(1302–10):e5. https://doi.org/10.1053/j.gastro.2020.06.048
+21. Zhu S, Ding S, Wang P, Wei Z et al (2017) Nlrp9b inflammasome restricts rotavirus infection in intestinal epithelial cells. Nature 546:667–670
+22. Tao W, Zhang G, Wang X, Guo M, Zeng W, Xu Z et al (2020) Analysis of the intestinal microbiota in COVID-19 patients and its correlation with the inflammatory factor IL-18. Med Microecol 5:100023. https://doi.org/10.1016/j.medmic.2020.100023
+23. Allali I, Bakri Y, Amzazi S, Ghazal H (2021) Gut-lung axis in COVID-19. Interdiscip Perspect Infect Dis 2021:6655380. https://doi.org/10.1155/2021/6655380
+24. Geva-Zatorsky N, Sefik E, Kua L, Pasman L et al (2017) Mining the human gut microbiota for immunomodulatory organisms. Cell 168(928–43):e11. https://doi.org/10.1016/j.cell.2017.01.022
+25. de Maio F, Posteraro B, Ponziani FR et al (2020) Nasopharyngeal microbiota profiling of SARS-CoV-2 infected patients. Biol Proced 22:18. https://doi.org/10.1186/s12575-020-00131-7
+26. Fan J, Li X, Gao Y, Zhou J et al (2020) The lung tissue microbiota features of 20 deceased patients with COVID-19. J Infect 81:e64–e67. https://doi.org/10.1016/j.jinf.2020.06.047
+27. Liu Y, Liu Q, Jiang Y et al (2020) Surface-displayed porcine IFN- λ3 in Lactobacillus plantarum inhibits porcine enteric coronavirus infection of porcine intestinal epithelial cells. J Microbiol Biotechnol 30(4):515–525
+28. Haiminen N, Utro F, Seabolt E, Parida L (2021) Functional profiling of COVID-19 respiratory tract microbiomes. Sci Rep 11(1):6433. https://doi.org/10.1038/s41598-021-85750-0
+29. Budden KF, Gellatly SL, Wood DLA et al (2017) Emerging pathogenic links between microbiota and the gut-lung axis. Nat Rev Microbiol 15(1):55–63
+30. Dumas A, Bernard L, Poquet Y et al (2018) The role of lung microbiota and the gut-lung axis in respiratory infectious diseases. Cell Microbiol 20:e12966
+31. Fanos V, Pintus MC, Pintus R, Marcialis MA (2020) Lung microbiota in the acute respiratory disease: from coronavirus to metabolomics. J Pediatr Neonat Ind Med 9:90139–90139
+32. Fujimura KE, Sitarik AR, Havstad S et al (2018) Neonatal gut microbiota associates with childhood multisensitized atopy and T cell differentiation. Nat Med 22(10):1187–1191
+33. Wang J, Li F, Wei H et al (2014) Respiratory influenza virus infection induces intestinal immune injury via microbiota-mediated Th17 cell-dependent inflammation. J Exp Med 211(12):2397–2410
+34. Lee KH, Gordon A, Shedden K, Kuan G et al (2019) The respiratory microbiome and susceptibility to influenza virus infection. PLoS ONE 14:e0207898. https://doi.org/10.1371/journal.pone.0207898
+35. Xiong Y, Liu Y, Cao L, Wang D, Guo M, Jiang A et al (2020) Transcriptomic characteristics of bronchoalveolar lavage fluid and peripheral blood mononuclear cells in COVID-19 patients. Emerg Microbes Infect 9:761–770. https://doi.org/10.1080/22221751.2020.1747363
+36. Budding A, Sieswerda E, Wintermans B, Bos M (2021) An age dependent pharyngeal microbiota signature associated with SARS-CoV-2 infection. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3582780 Accessed 15 Jan 15 2021
+37. Qin T, Geng T, Zhou H, Han Y, Ren H, Qiu Z et al (2020) Super-dominant pathobiontic bacteria in the nasopharyngeal microbiota as causative agents of secondary bacterial infection in influenza patients. Emerg Microbes Infect 9:605–615. https://doi.org/10.1080/22221751.2020.1737578

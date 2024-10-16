@@ -1,0 +1,53 @@
+# References
+
+SM Vindigni, TL Zisman et al. of ulcerative colitis with the probiotic Escherichia coli Nissle 1917 is as effective as with standard mesalazine. Gut 53: 1617–1623.
+
+Kump, P., Gröchenig, H., Lackner, S., Trajanoski, S., Reicht, G., Hoffmann, K. et al. (2013) Alteration of intestinal dysbiosis by fecal microbiota transplantation does not induce remission in patients with chronic active ulcerative colitis. Inflamm Bowel Dis 19: 2155–2165.
+
+Kunde, S., Pham, A., Bonczyk, S., Crumb, T., Duba, M., Conrad Jr, H. et al. (2013) Safety, tolerability, and clinical response after fecal transplantation in children and young adults with ulcerative colitis. J Pediatr Gastroenterol Nutr 56: 597–601.
+
+Lee, D., Albenberg, L., Compher, C., Baldassano, R., Piccoli, D., Lewis, J. et al. (2015) Diet in the pathogenesis and treatment of inflammatory bowel diseases. Gastroenterology 148: 1087–1106.
+
+Lepage, P., Leclerc, M., Joossens, M., Mondot, S., Blottiere, H., Raes, J. et al. (2013) A metagenomic insight into our gut’s microbiome. Gut 62: 146–158.
+
+Lerner, A. and Matthias, T. (2015) Changes in intestinal tight junction permeability associated with industrial food additives explain the rising incidence of autoimmune disease. Autoimmun Rev 14: 479–489.
+
+Ley, R., Peterson, D. and Gordon, J. (2006) Ecological and evolutionary forces shaping microbial diversity in the human intestine. Cell 124: 837–848.
+
+Li, Q., Zhang, Q., Wang, M., Zhao, S., Ma, J., Luo, N. et al. (2008) Interferon-gamma and tumor necrosis factor-alpha disrupt epithelial barrier function by altering lipid composition in membrane microdomains of tight junction. Clin Immunol 126: 67–80.
+
+Louis, P., Hold, G. and Flint, H. (2014) The gut microbiota, bacterial metabolites and colorectal cancer. Nat Rev Microbiol 12: 661–672.
+
+Lozupone, C., Stombaugh, J., Gordon, J., Jansson, J. and Knight, R. (2012) Diversity, stability and resilience of the human gut microbiota. Nature 489: 220–230.
+
+Lutgendorff, F., Akkermans, L. and Soderholm, J. (2008) The role of microbiota and probiotics in stress-induced gastro-intestinal damage. Curr Mol Med 8: 282–298.
+
+Maccaferri, S., Vitali, B., Klinder, A., Kolida, S., Ndagijimana, M., Laghi, L. et al. (2010) Rifaximin modulates the colonic microbiota of patients with Crohn’s disease: an in vitro approach using a continuous culture colonic model system. J Antimicrob Chemother 65: 2556–2565.
+
+MacDermott, R., Nash, G. and Nahm, M. (1989) Antibody secretion by human intestinal mononuclear cells from normal controls and inflammatory bowel disease patients. Immunol Invest 18: 449–457.
+
+Machiels, K., Joossens, M., Sabino, J., De Preter, V., Arijs, I., Eeckhaut, V. et al. (2014) A decrease of the butyrate-producing species Roseburia hominis and Faecalibacterium prausnitzii defines dysbiosis in patients with ulcerative colitis. Gut 63: 1275–1283.
+
+Man, S., Kaakoush, N. and Mitchell, H. (2011) The role of bacteria and pattern-recognition receptors in Crohn’s disease. Nat Rev Gastroenterol Hepatol 8: 152–168.
+
+Manichanh, C., Borruel, N., Casellas, F. and Guarner, F. (2012) The gut microbiota in IBD. Nat Rev Gastroenterol Hepatol 9: 599–608.
+
+Manichanh, C., Rigottier-Gois, L., Bonnaud, E., Gloux, K., Pelletier, E., Frangeul, L. et al. (2006) Reduced diversity of faecal microbiota in Crohn’s disease revealed by a metagenomic approach. Gut 55: 205–211.
+
+Margolis, D., Fanelli, M., Hoffstad, O. and Lewis, J. (2010) Potential association between the oral tetracycline class of antimicrobials used to treat acne and inflammatory bowel disease. Am J Gastroenterol 105: 2610–2616.
+
+Martinez-Medina, M., Denizot, J., Dreux, N., Robin, F., Billard, E., Bonnet, R. et al. (2014) Western diet induces dysbiosis with increased E coli in CEABAC10 mice, alters host barrier function favouring AIEC colonisation. Gut 63: 116–124.
+
+Matsunaga, H., Hokari, R., Ueda, T., Kurihara, C., Hozumi, H., Higashiyama, M. et al. (2011) Physiological stress exacerbates murine colitis by enhancing proinflammatory cytokine expression that is dependent on IL-18. Am J Physiol Gastrointest Liver Physiol 301: G555–G564.
+
+McGilligan, V., Wallace, J., Heavey, P., Ridley, D. and Rowland, I. (2007) The effect of nicotine in vitro on the integrity of tight junctions in Caco-2 cell monolayers. Food Chem Toxicol 45: 1593–1598.
+
+McGovern, D., Kugathasan, S. and Cho, J. (2015) Genetics of inflammatory bowel diseases. Gastroenterology 149: 1163–1176.e1162.
+
+McNees, A.L., Markesich, D., Zayyani, N.R. and Graham, D.Y. (2015) Mycobacterium paratuberculosis as a cause of Crohn’s disease. Expert Rev Gastroenterol Hepatol 9: 1523–1534.
+
+Melgar, S., Engstrom, K., Jagervall, A. and Martinez, V. (2008) Psychological stress reactivates dextran sulfate sodium-induced chronic colitis in mice. Stress 11: 348–362.
+
+Merga, Y., Campbell, B. and Rhodes, J. (2014) Mucosal barrier, bacteria and inflammatory bowel disease: possibilities for therapy. Dig Dis 32: 475–483.
+
+Metzker, M. (2010) Sequencing technologies – the next generation. Nat Rev Genet 11: 31–46.

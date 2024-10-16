@@ -1,0 +1,35 @@
+# Minot and Willis Microbiome
+
+https://doi.org/10.1186/s40168-019-0722-6 (2019) 7:110
+
+# Microbiome
+
+# R E S E A R C H
+
+# Open Access
+
+# Clustering co-abundant genes identifies components of the gut microbiome that are reproducibly associated with colorectal cancer and inflammatory bowel disease
+
+Samuel S. Minot1* and Amy D. Willis2
+
+# Abstract
+
+# Background:
+
+Whole-genome “shotgun” (WGS) metagenomic sequencing is an increasingly widely used tool for analyzing the metagenomic content of microbiome samples. While WGS data contains gene-level information, it can be challenging to analyze the millions of microbial genes which are typically found in microbiome experiments. To mitigate the ultrahigh dimensionality challenge of gene-level metagenomics, it has been proposed to cluster genes by co-abundance to form Co-Abundant Gene groups (CAGs). However, exhaustive co-abundance clustering of millions of microbial genes across thousands of biological samples has previously been intractable purely due to the computational challenge of performing trillions of pairwise comparisons.
+
+# Results:
+
+Here we present a novel computational approach to the analysis of WGS datasets in which microbial gene groups are the fundamental unit of analysis. We use the Approximate Nearest Neighbor heuristic for near-exhaustive average linkage clustering to group millions of genes by co-abundance. This results in thousands of high-quality CAGs representing complete and partial microbial genomes. We applied this method to publicly available WGS microbiome surveys and found that the resulting microbial CAGs associated with inflammatory bowel disease (IBD) and colorectal cancer (CRC) were highly reproducible and could be validated independently using multiple independent cohorts.
+
+# Conclusions:
+
+This powerful approach to gene-level metagenomics provides a powerful path forward for identifying the biological links between the microbiome and human health. By proposing a new computational approach for handling high dimensional metagenomics data, we identified specific microbial gene groups that are associated with disease that can be used to identify strains of interest for further preclinical and mechanistic experimentation.
+
+# Background
+
+Metagenomic analysis of the microbiome typically falls into the categories of taxonomic classification, metabolic pathway reconstruction, or genome reconstruction. While each has been used to good effect, each also has its own limitations. Taxonomic analysis is constrained by the size and quality of reference databases, which have started to provide decreasing taxonomic precision as the number of sequenced genomes grows[1]. Metabolic analysis is limited by our ability to annotate biochemical function from primary sequence, with only a minority of genes receiving any sort of annotation. Genome reconstruction (or “genome-resolved metagenomics”) has made immense contributions to our understanding of microbial diversity and evolution but is challenging to exhaustively characterize environments like the human gut, which contain hundreds or thousands of strains. In contrast, we took the approach of quantifying each individual gene de novo from a given metagenome. While this approach presented considerable computational challenges, it is unconstrained by the limitations of reference databases or annotation systems and therefore presents the possibility of discovering novel biological patterns in the human microbiome.
+
+While the microbiome has been implicated in a number of human diseases, we chose to focus on colorectal cancer (CRC) and inflammatory bowel disease (IBD).
+
+© The Author(s). 2019 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.

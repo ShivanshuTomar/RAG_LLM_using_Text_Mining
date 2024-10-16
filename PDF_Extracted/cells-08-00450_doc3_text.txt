@@ -1,0 +1,32 @@
+# 5. Metabolites and Mucosal Inflammation
+
+There is now overwhelming evidence about positive benefits of bacterial metabolites particularly in the gut (Figure 1) where they are present at the concentration of 60 mM, while in peripheral organs the concentration of these metabolites are significantly lower (80 μM and 3 μM for acetate, and butyrate, respectively) [40].
+
+| | | |Dietary elements|Milk| |
+|---|---|---|---|---|---|
+|Anaerobic fermentation|Gut microbiota composition| | | | |
+| | |↑ Clostridia species| | | |
+|Acetate Butyrate Propionate| | | | | |
+| |SCFAs| | | | |
+| |Indole|Tryptophan| | | |
+| | |↑ TJ| | | |
+| |Goblet cells|Epithelial cells| | | |
+| |↑ MUC2|↑ Integrity| | | |
+|CD4+ T cells| |Epithelial cells| | | |
+| | |↑ Integrity|T regs| | |
+| | |↑ Repair|↑ Repair| | |
+|Dendritic cells| | | | | |
+| |↑ Trefoil factor 2| | | | |
+| | |Neutrophil|B cells| | |
+| |Macrophage| |↑ IL-22| | |
+| | | |ILC3|↑ Expansion| |
+|through HDAC inhibition| | | | | |
+|↓ Maturation| |↓ Chemotaxis| | | |
+|↑ Antibodies| | |↑ IL-22| | |
+|↓ Pro-inflammatory cytokines| | | | | |
+
+Figure 1. Dietary fibers are fermented by the gut microbiota that produce short chain fatty acids (SCFAs) (green). SCFAs exert anti-inflammatory effects, such as (1) inhibiting the maturation of dendritic cells, (2) reducing production of pro-inflammatory cytokines by innate immune cells, (3) promoting the intestinal barrier via epithelial cells and goblet cells, (4) reducing neutrophils infiltrate, (5) facilitating production of antibodies by B cells, (6) the expansion of regulatory T and (7) enhancing the epithelial integrity by increasing Clostridia species in the gut which promote IL-22 production by CD4+ T cells. Tryptophan is degraded to indole derivatives (purple). Indoles exert anti-inflammatory effects by promoting the intestinal epithelial barrier through supporting type 3 innate lymphoid cells, the major producers of IL-22. (adapted from SERVIER MEDICAL ART (CC of license 3.0)).
+
+# 5.1. SCFAs
+
+In IBD patients, lower levels of SCFAs have been reported, compared to healthy subjects [41,42]. Furthermore, reduced numbers of SCFAs-producing bacteria (Bacteroidetes and Firmicutes) were observed in IBD patients [43]. Moreover, the two SCFAs transporters (MCT1 and SMCT1) are down-regulated during inflammation and in the inflamed mucosa of IBD patients [44,45]. On the other hand, the administration of SCFAs reduces the human colitis severity [46–48]. Friedrich and co-workers [49] recently showed that Givinostat, a potent HDAC inhibitor, improved barrier recovery and epithelial wound healing in vivo and in vitro. With regards, SCFAs, such as butyrate, exert its anti-inflammatory effects via the inhibition of HDAC, leading to hyperacetylation of histones with suppression of nuclear factor kappa B on activated lamina propria macrophages isolated from patients with ulcerative colitis [50]. In animal models, low-fiber diets aggravate DSS-induced colitis while high-fiber protects from colitis [51]. Consistent with these findings, multiple in vivo and in vitro studies indicate that intracellular SCFAs, mainly butyrate may have beneficial effects on gut health. Indeed, butyrate reinforces the intestinal epithelial barrier by stimulating the production of MUC2 as well as tight junction (TJ) proteins [52–54]. Furthermore, several studies showed that butyrate decreases the severity of colitis by increasing the expression of trefoil factor 3, a protein synthesized.

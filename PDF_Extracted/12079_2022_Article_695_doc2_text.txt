@@ -1,0 +1,25 @@
+# Role of interleukin-6-mediated inflammation in the pathogenesis of inflammatory bowel disease
+
+IL-6R binding and initiating various intracellular signaling pathways (Taga et al. 1989; Hibi et al. 1990). It has been revealed that in the IL-6 cytokine family, gp130 is a common subunit receptor (Kishimoto 2010). Almost all cells express gp130; nevertheless, IL-6R is expressed by CD4+ T cells, monocytes, neutrophils, and hepatocytes (Atreya et al 2000; Borghini et al. 2021). Interestingly, IL-6 does not have a binding affinity for gp130 alone, and only in cells that express the IL-6R along with gp130 does effective binding occur and lead to signaling (Taga et al. 1989). The IL-6R can have two forms; attached to the cell membrane (mIL-6R) and the soluble (sIL-6R). The soluble form of IL-6R is created by mRNA splicing as well as the proteolytic cleavage of the mIL-6R (Lust et al. 1992; Mülberg et al. 1993; Dimitrov et al. 2006). In the IL-6R biostructure, the cytoplasmic part could be detached without any signaling disruption, and the transmembrane domain is not required for IL-6 activity (Taga et al. 1989). The two main signaling types are known depending on the type of IL-6R. Signals of sIL-6R are routed through trans-signaling, and mIL-6R signals are routed through classic signaling (Rose-John and Heinrich 1994; Garbers et al. 2012). The homodimerization of IL-6, IL-6R, and gp130 complex activates Janus kinases (JAKs), resulting in tyrosine residues phosphorylation of the cytoplasmic domain of gp130. Following these occurrences, various pathways, including mitogen-activated protein kinases (MAPK), signal transducer and transcription-3 (STAT3), phosphoinositol-3 kinase (PI3K)/AKT, and nuclear factor kappa-light-chain-enhancer of activated B cells (NFKB) could trigger (Dolcet et al. 2005; Bradham and McClay 2006).
+
+Augmented IL-6 levels are detected in several human inflammatory disorders, such as rheumatoid arthritis (RA), systemic juvenile idiopathic arthritis, Castleman's disease, IBD, colorectal cancer and autoimmune diseases (Mihara et al. 2012).
+
+IL-6 supports the proliferation and regeneration of intestinal epithelial cells (IECs). It has been revealed that IL-6-deficient mice are highly sensitive to dextran sulfate sodium salt (DSS)-induced colitis (Grivennikov et al. 2009). Interestingly, following the DSS challenge, mucosal regeneration needs concomitant initiation of Yes-associated protein (YAP) and Notch (Okamoto et al. 2009; Cai et al. 2010). As a transcriptional co-activator, YAP can be involved in tissue growth. However, in normal conditions, YAP is inactive in the cytoplasm via serine phosphorylation by the Hippo effector kinase LATS and is activated following tyrosine phosphorylation by Yes (a member of Src family kinase) or suppression of Hippo signaling (Rosenbluh et al. 2013).
+
+|IL-6|IL-6/IL-6R/gp130|
+|---|---|
+|Gp130|mIL-6R|
+
+IL-6/sIL-6R
+
+ADAM10/17
+
+IL-6R mRNA splicing
+
+JAK/STAT and NFKB activation
+
+|NFKB|STAT3|
+|---|---|
+|Gene transcription| |
+
+by ADAM10 or ADAM17. STAT; signal transducer and activator of transcription, NFKB; nuclear factor-kappa B, ADAM; A disintegrin and metalloprotease, sIL-6R; soluble IL-6R, mIL-6R; membrane IL-6R

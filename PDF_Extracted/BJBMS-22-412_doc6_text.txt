@@ -1,0 +1,25 @@
+# Alatawi et al.: Microbiota and anti-TNF-α response in IBD patients
+
+|Sobs|Chao|ACE|
+|---|---|---|
+|300|300|300|
+|200|200| |
+|100| | |
+
+# FIGURE 5
+
+Plot of microbial alpha diversity in patients responding to anti-TNF-α treatment, calculated using observed species (A) [Sobs], (B) Chao, (C) ACE, (D) Shannon, and (E) Simpson indices in different faecal samples. Alpha diversity was non-significant. Primary non-responders (P) = purple, and responders (R) = blue.
+
+[Figure 6C]. The weighted UniFrac phylogenetic tree indicated that the community shared a lot of evolutionary history at the phylum level. However, at the genus and species level, the microbial community tends to diverge. Overall, half of the phylogenetic tree of unresponsive individuals were unique to responders, with a distance of 0.5 (fraction) [Figure 6D].
+
+# LEfSe analysis
+
+The LEfSe analysis suggests that Klebsiella sp. and Bifidobacterium animalis robustly correlated with primary non-response [Figure 7A]. Furthermore, Eubacteriaceae, Streptococcaceae (RF32), and Muribaculaceae (S24-7) families are characterized by non-responsiveness to anti-TNF-α agents [Figure 7A and B]. Response to anti-TNF-α agents was distinguished by the presence of Bacteroides caccae, hence, the Bacteroidetes phylum can be considered as a biomarker for response.
+
+# DISCUSSION
+
+This study examined the microbiota pattern of IBD patients that did not respond to anti-TNF-α therapies compared to those of demonstrated response [4,17]. The gut microbiota were compared to assess the nature of the dysbiosis and identify the microbes that could potentially be responsible for dysbiosis, and consequently to a lack of response. The present study depended on next-generation sequencing technologies, especially for the 16S rRNA gene sequencing, which permits describing the gut microbiota architecture. The 16S rRNA gene sequencing is a taxonomic genomic marker that is specialized for examination of a particular part of the microbiota, the bacteria, and archaea, regardless of other microorganisms, such as virobiota, mycobiota, and eukaryota [18]. The overall vision of the study is to identify microbiota structures that could be used as a prognostic indicator for clinical non-response to anti-TNF-α therapy in Saudi Arabian patients with IBD. According to the previous literature, it has been shown that high concentrations of Klebsiella, S24-7, Eubacteriaceae, and Bifidobacterium animalis are associated with clinical nonresponse to anti-TNF-α treatment, while low concentrations of B. caccae can be used as a biomarker for response. Patients that demonstrated nonresponse to treatment had a characteristic reduction of SCFA-producing bacteria or a shift toward an inflammation-producing bacterium [19]. Furthermore, a greater number of opportunistic pathogens such as Muribaculaceae, Proteus, Odoribacter, Alistipes,
+
+Bosn J Basic Med Sci. 2022;22(3):412-426
+
+www.bjbms.org

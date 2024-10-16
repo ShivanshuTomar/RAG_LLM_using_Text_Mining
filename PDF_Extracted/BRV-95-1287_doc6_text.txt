@@ -1,0 +1,38 @@
+# Exosomes and IBD
+
+# Gut lumen
+
+|Gut microbiota|Improve diversity and composition of gut microbiota|
+|---|---|
+|Epithelial cells|Improved antigen presentation|
+|Exosomes|Repair epithelial cells and enhance barrier function|
+|MGH class|TNF-a|
+|Lamina propria|activation|
+|AMPK|Claudin 8|
+|miR-223|IL-7|
+|IL-10|iNOS|
+|IL-6|IL-1β|
+|Inhibit DC activation|Induce DC tolerance|
+|TGF-β|Expressed exosomes|
+|IFN-γ|Expressed exosomes|
+|IL-10|Alternative activation|
+|IL-17|IL-6|
+|IL-2|IL-1β|
+
+KEY
+
+- Activates
+- Inhibits
+- Secretes
+
+Fig 3 Exosomal-induced modulation of immune system cells. The administration of exosomes into the inflammatory bowel disease (IBD) environment promotes anti-inflammatory responses via polarizing macrophages into the M2 phenotype, inhibiting dendritic cell activation and inducing their immune tolerance, and triggering regulatory T cells (Treg) activation while inhibiting T helper type 1 (Th1) cells. Exosome-treated immune cells further express exosomes that encourage anti-inflammatory responses. In summary, the functional exosomal components that are expressed inhibit inflammatory and pro-inflammatory factors, and promote anti-inflammatory factors. AMPK, AMP-activated protein kinase; DC, dendritic cell; IFN-γ, interferon gamma; IL, interleukin; iNOS, inducible nitric oxide synthase; M, macrophage; MCH, major histocompatibility complex; MDSC, myeloid-derived suppressor cell; miR, microRNA; MT2, melanotan 2; TGF-β, transforming growth factor β; Th, T helper; TNF-α, tumour necrosis factor α; Treg, regulatory T cells; 15-lox-1, 15-lipoxygenase-1; φ, macrophage.
+
+# Breast milk and its components
+
+Breast milk has been shown to contain a diverse array of microbiota together with many biologically active components like exosomes that assist in mucosal tissue, immune system and microbiome development and maintenance (Le Doare et al., 2018). van Herwijnen et al. (2016) analysed protein constituents of milk-derived EVs and reported a total of 1963 proteins, including common EV-associated proteins such as CD9, Flotillin-1, and Annexin A5, as well as 633 unidentified proteins. Such active EV components are likely to participate in gut-microbiome modulation in both the normal and IBD mucosal microenvironment: bovine milk-derived exosomes alter gut microbiome diversity and composition in mice (Zhou et al., 2019). This further emphasizes that exosomes and their cargos do not merely regulate gut-microbiome communities but actively participate in crosstalk between bacteria and their hosts.
+
+# (c) Intestinal barrier modulation
+
+IECs are an indispensable component of the intestinal barrier. Studies have shown that IEC-6 cells can take up exosomes derived from milk, which in turn regulate the functions of the intestinal barrier. Exosomal proteins such as TSG101, CD63, and HSP70 are found in high concentrations in yak milk-derived exosomes that facilitate intestinal cell survival and proliferation (Gao et al., 2019). Further proteomic analysis of 9430 unique milk colostrum-derived exosomal proteins revealed that the exosomes were highly enriched in proteins associated with cellular growth and immune modulation (Samuel et al., 2017). In several other studies, exosomes derived from different types of milk have been documented to enhance IEC viability, proliferation, stem cell activities and the development of intestinal tract (Chen et al., 2016; Hock et al., 2017). Exosomes from bone-marrow MSCs significantly restore abnormal intestinal barrier functions by decreasing intestinal permeability and reducing infiltration of gut microbiota into the lamina propria. The mRNA levels of colonic antimicrobial proteins such as lysozyme 1 (Lyz1), angiogenin-4 and the defensins Defa29 and Defa20 were also restored. The exosomal protein metallothionein-2 was particularly necessary for the anti-inflammatory responses (Liu et al., 2019).
+
+Biological Reviews 95 (2020) 1287–1307 © 2020 The Authors. Biological Reviews published by John Wiley & Sons Ltd on behalf of Cambridge Philosophical Society.

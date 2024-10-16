@@ -1,0 +1,27 @@
+# REVIEW SERIES: INTERACTIONS OF THE MICROBIOTA WITH THE MUCOSAL IMMUNE SYSTEM
+
+# Immune mechanisms of FMT in UC
+
+1. Fujino S, Andoh A, Bamba S et al. Increased expression of interleukin 17 in inflammatory bowel disease. Gut 2003; 52:65–70.
+2. Vaishnava S, Yamamoto M, Severson KM et al. The antibacterial lectin RegIIIgamma promotes the spatial segregation of microbiota and host in the intestine. Science 2011; 334:255–8.
+3. Wu YY, Hsu CM, Chen PH, Fung CP, Chen LW. Toll-like receptor stimulation induces nondefensin protein expression and reverses antibiotic-induced gut defense impairment. Infect Immun 2014; 82:1994–2005.
+4. Cash HL, Whitham CV, Behrendt CL, Hooper LV. Symbiotic bacteria direct expression of an intestinal bactericidal lectin. Science 2006; 313:1126–30.
+5. Goldberg R, Prescott N, Lord GM, MacDonald TT, Powell N. The unusual suspects – innate lymphoid cells as novel therapeutic targets in IBD. Nat Rev Gastroenterol Hepatol 2015; 12:271–83.
+6. Geremia A, Arancibia-Carcamo CV. Innate lymphoid cells in intestinal inflammation. Front Immunol 2017; 8:1296.
+7. Momozawa Y, Mni M, Nakamura K et al. Resequencing of positional candidates identifies low frequency IL23R coding variants protecting against inflammatory bowel disease. Nat Genet 2011; 43:43–7.
+8. Zelante T, Iannitti RG, Cunha C et al. Tryptophan catabolites from microbiota engage aryl hydrocarbon receptor and balance mucosal reactivity via interleukin-22. Immunity 2013; 39:372–85.
+9. Hepworth MR, Fung TC, Masur SH et al. Immune tolerance. Group 3 innate lymphoid cells mediate intestinal selection of commensal bacteria-specific CD4(+) T cells. Science 2015; 348:1031–5.
+10. Honda K, Littman DR. The microbiota in adaptive immune homeostasis and disease. Nature 2016; 535:75–84.
+11. Xavier RJ, Podolsky DK. Unravelling the pathogenesis of inflammatory bowel disease. Nature 2007; 448:427–34.
+12. Aranda R, Sydora BC, McAllister PL et al. Analysis of intestinal lymphocytes in mouse colitis mediated by transfer of CD4+, CD45RBhigh T cells to SCID recipients. J Immunol 1997; 158:3464–73.
+13. Powrie F, Mauze S, Coffman RL. CD4+ T-cells in the regulation of inflammatory responses in the intestine. Res Immunol 1997; 148:576–81.
+14. Cong Y, Brandwein SL, McCabe RP et al. CD4 + T cells reactive to enteric bacterial antigens in spontaneously colitic C3H/HeJBir mice: increased T helper cell type 1 response and ability to transfer disease. J Exp Med 1998; 187:855–64.
+15. Yang Y, Torchinsky MB, Gobert M et al. Focused specificity of intestinal TH17 cells towards commensal bacterial antigens. Nature 2014; 510:152–6.
+16. Hegazy AN, West NR, Stubbington MJT et al. Circulating and tissue-resident CD4(+) T cells with reactivity to intestinal microbiota are abundant in healthy individuals and function is altered during inflammation. Gastroenterology 2017; 153:1320–37.e16.
+17. Bamias G, Arseneau KO, Cominelli F. Mouse models of inflammatory bowel disease for investigating mucosal immunity in the intestine. Curr Opin Gastroenterol 2017; 33:411–6.
+18. Sellon RK, Tonkonogy S, Schultz M et al. Resident enteric bacteria are necessary for development of spontaneous colitis and immune system activation in interleukin-10-deficient mice. Infect Immun 1998; 66:5224–31.
+19. Schultz M, Veltkamp C, Dieleman LA et al. Lactobacillus plantarum 299V in the treatment and prevention of spontaneous colitis in interleukin-10-deficient mice. Inflamm Bowel Dis 2002; 8:71–80.
+20. Balish E, Warner T. Enterococcus faecalis induces inflammatory bowel disease in interleukin-10 knockout mice. Am J Pathol 2002; 160:2253–7.
+21. Maul J, Loddenkemper C, Mundt P et al. Peripheral and intestinal regulatory CD4+ CD25(high) T cells in inflammatory bowel disease. Gastroenterology 2005; 128:1868–78.
+
+© 2019 British Society for Immunology, Clinical and Experimental Immunology, 199: 24–38

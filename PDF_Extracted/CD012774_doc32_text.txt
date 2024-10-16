@@ -1,0 +1,64 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Library
+
+# Better health.
+
+# Cochrane Database of Systematic Reviews
+
+# REFERENCES
+
+# References to studies included in this review
+
+# Březina 2021 {published data only (unpublished sought but not used)}
+
+- Březina J, Bajer L, Wohl P, Ďuricová D, Hrabák P, Novotný A, et al. Fecal microbial transplantation versus mesalamine enema for treatment of active left-sided ulcerative colitis-results of a randomized controlled trial. Journal of Clinical Medicine 2021;10(13):2753. [PMID: 34206663]
+- Schierová D, Březina J, Mrázek J, Fliegerová KO, Kvasnová S, Bajer L, et al. Gut microbiome changes in patients with active left-sided ulcerative colitis after fecal microbiome transplantation and topical 5-aminosalicylic acid therapy. Cells 2020;9(10):2283.
+
+# Costello 2019 {published data only}
+
+- Costello SP, Hughes PA, Waters O, Bryant RV, Vincent AD, Blatchford P, et al. Effect of fecal microbiota transplantation on 8-week remission in patients with ulcerative colitis: a randomized clinical trial. JAMA 2019;321(2):156-64. [PMID: 30644982]
+
+# Crothers 2021 {published data only}
+
+- Crothers JW, Chu ND, Nguyen LT, Phillips M, Collins C, Fortner K, et al. Daily, oral FMT for long-term maintenance therapy in ulcerative colitis: results of a single-center, prospective, randomized pilot study. BMC Gastroenterology 2021;21(1):281. [PMID: 34238227]
+- NCT02390726. Fecal Microbiota Transplant in the Treatment of Ulcerative Colitis (FMTUC). clinicaltrials.gov/ct2/show/NCT02390726 (first received 17 March 2015).
+
+# Fang 2021 {published data only}
+
+- Fang H, Fu L, Li X, Lu C, Su Y, Xiong K, et al. Long-term efficacy and safety of monotherapy with a single fresh fecal microbiota transplant for recurrent active ulcerative colitis: a prospective randomized pilot study. Microbial Cell Factories 2021;20(1):18. [PMID: 33468164]
+
+# Haifer 2022 {published data only}
+
+- ACTRN12619000611123. Lyophilised oral faecal microbiota transplantation in the management of ulcerative colitis (LOTUS Study). www.anzctr.org.au/Trial/Registration/TrialReview.aspx?id=377325 (first received 3 April 2019).
+- Haifer C, Paramsothy S, Kaakoush NO, Saikal A, Ghaly S, Yang T, et al. Lyophilised oral faecal microbiota transplantation for ulcerative colitis (LOTUS): a randomised, double-blind, placebo-controlled trial. Lancet Gastroenterology and Hepatology 2022;7(2):141-51. [PMID: 34863330]
+
+# Moayyedi 2015 {published and unpublished data}
+
+- Moayyedi P, Surette M, Wolfe M, Taraschi R, Kim P, Libertucci J, et al. A randomized, placebo controlled trial of fecal microbiota therapy in active ulcerative colitis. Gastroenterology 2014;146(5):S-159.
+- Moayyedi P, Surette MG, Kim PT, Libertucci J, Wolfe M, Onischi C, et al. Fecal microbiota transplantation induces remission in patients with active ulcerative colitis in a randomized controlled trial. Gastroenterology 2015;149(1):102-9. [PMID: 25857665]
+
+# Pai 2021 {published data only}
+
+- NCT02487238. Pediatric FEcal Microbiota Transplant for Ulcerative Colitis (PediFETCh). clinicaltrials.gov/ct2/show/NCT02487238 (first received 1 July 2015).
+- Pai N, Popov J, Hill L, Hartung E, Grzywacz K, Moayyedi P, et al. Results of the first pilot randomized controlled trial of fecal microbiota transplant in pediatric ulcerative colitis: lessons, limitations, and future prospects. Gastroenterology 2021;161(2):388-93. [PMID: 33961887]
+- Pai N, Popov J, Lee C. A randomized, placebo-controlled trial of fecal microbial transplantation for pediatric ulcerative colitis [Pedifetch Trial]. Journal of Pediatric Gastroenterology and Nutrition 2016;63:S79-80.
+- Pai N, Popov J. Protocol for a randomised, placebo-controlled pilot study for assessing feasibility and efficacy of faecal microbiota transplantation in a paediatric ulcerative colitis population: PediFETCh trial. BMJ Open 2017;7(8):e016698.
+- Popov J, Hartung E, Hill L, Chauhan U, Pai N. Fecal microbiota transplantation: perceptions and experiences in a pediatric ulcerative colitis population (PediFETCH trial). Gastroenterology 2019;156(6):S-458.
+- Popov J, Hartung E, Hill L, Chauhan U, Pai N. Pediatric patient and parent perceptions of fecal microbiota transplantation for the treatment of ulcerative colitis. Journal of Pediatric Gastroenterology and Nutrition 2021;73(6):684-8.
+
+# Paramsothy 2017 {published data only}
+
+- Paramsothy S, Kamm MA, Kaakoush NO, Walsh AJ, van den Bogaerde J, Samuel D, et al. Multidonor intensive faecal microbiota transplantation for active ulcerative colitis: a randomised placebo-controlled trial. Lancet 2017;389(10075):1218-28. [PMID: 28214091]
+- Paramsothy S, Kamm MA, Walsh A, van den Bogaerde J, Samuel D, Leong RW, et al. Multi donor intense faecal microbiota transplantation is an effective treatment for resistant ulcerative colitis: a randomised placebo-controlled trial. Gastroenterology 2016;150(4):S122-3.
+- Paramsothy S, Kamm MA, Walsh AJ, van den Bogaerde J, Samuel D, Leong RW, et al. Multi donor intense faecal microbiota transplantation is an effective treatment for resistant ulcerative colitis: a randomised placebo controlled trial and microbiota analysis. Journal of Gastroenterology and Hepatology (Australia) 2016;31:143.
+
+# Rossen 2015 {published data only}
+
+- Fuentes S, Rossen NG, van der Spek MJ, Hartman JH, Huuskonen L, Korpela K, et al. Microbial shifts and signatures of Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

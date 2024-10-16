@@ -1,0 +1,30 @@
+# Yang et al. Journal of Nanobiotechnology (2024) 22:166
+
+# Page 3 of 16
+
+# Oral administration
+
+# Colitis
+
+# After YBNs@PDA treatment
+
+# Microbiome richness and diversity
+
+|YBNs|PDA|
+|---|---|
+|Restore epithelial barrier|MuuI|
+|3. ROS| |
+|Pro-inflammatory cytokines|TNF-a, IL-1B, IL-6, MCP-1|
+|MPO| |
+|Epithelium|Pathogenic microbes|
+|Neutrophil|Commensals|
+|ROS| |
+|Macrophage|Tight junction protein|
+|Colon|Pro-inflammatory cytokines|
+|NPs| |
+
+# Scheme 1
+
+Schematic of the rational design of mucoadhesive YBNs@PDA with ROS-scavenging and gut microbiota regulatory activity for IBD therapy
+
+for the following regioselective derivatization. Subsequently, esterification of yeast β-glucan formate (YBF) was achieved with acetic anhydride addition to form yeast β-glucan acetate (YBA). According to the NMR spectrum (Additional file 1: Fig. S1B), the proton on the formyl group had a distinct chemical shift at approximately 8.3 ppm. Methyl protons on the acetyl group in YBA were responsible for the 1.8–2.2 ppm chemical shift. The structure was further illustrated by Fourier-Transform Infrared spectroscopy (FT-IR) (Additional file 1: Fig. S1C). The bands at around 1750 cm-1, 1430 cm-1, 1370 cm-1 and 1230 cm-1 in the spectra of YBA corresponded to carbonyl C = O stretch vibration, CH3 anti-symmetric deformation vibration, and carbonyl C-O stretch vibration, respectively. After modifying with ester group, YBA was subsequently dissolved in commonly used organic solvents to prepare homogeneous nanospheres YBNs through nanoprecipitation methods. Next, dopamine hydrochloride was introduced into YBNs solution under an alkaline pH to induce dopamine self-polymerization and form a PDA coating on the surface of YBNs. Transmission Electron Microscopy (TEM) and Scanning Electron Microscope (SEM) (Fig. 1B; Additional file 1: Fig. S2) were initially used to confirm the successful construction of YBNs and YBNs@PDA, revealing homogenous YBNs with distinct PDA shell with a rough surface. To optimize the size of nanoparticles and avoid self-aggregation of PDA, we adjusted the dopamine concentration to prepare YBNs@PDA with a suitable particle size around 300 nm (Fig. 1B; Additional file 1: Fig. S2A). The hydrodynamic size was found to be about 187.1 ± 9.59 nm (polydispersity index (PDI) = 0.09 ± 0.07) for YBNs and 297.4 ± 9.95 nm (PDI = 0.06 ± 0.05) for YBNs@PDA, respectively (Fig. 1C; Additional file 1: Fig. S2B). Zeta potential measurements were also performed to confirm the presence of negatively charged polydopamine on YBNs (Fig. 1D). The successful modification of YBNs@PDA was also proven by FT-IR (Fig. 1E). The N-H bending vibrations, shown by the distinct peaks at approximately 1605 cm-1, suggested the existence of indole structures in PDA. The above results were also corroborated by the Thermogravimetric analysis (TGA) and X-ray photoelectron spectroscopy (XPS). Results from TGA performed at temperatures ranging from 100 to 800 °C are shown in Fig. 1F. The weight curve of YBNs@PDA showed a significant decline in contrast to that of the YBNs at approximately 250 °C, which corresponded to the degradation temperature of PDA, confirming the synthesis of PDA coating on YBNs nanoparticles. Since the PDA layer contains amino groups (the source of nitrogen element), XPS analysis (Fig. 1G) showed the existence of the N element in the YBNs@PDA spectrum. The in vivo biodistribution of YBNs@PDA and their cellular interaction were investigated through the utilization of FITC labeling. The successful incorporation of the fluorescein isothiocyanate (FITC) label onto YBNs@PDA was shown by the appearance of an emission peak at 525 nm in the spectra of FITC-labeled YBNs@PDA (Fig. 1H). In addition, the presence of deprotonated hydroxyl groups on PDA.

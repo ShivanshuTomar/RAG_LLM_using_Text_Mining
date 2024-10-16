@@ -1,0 +1,29 @@
+# Microbial Ecology (2021) 82:833–844
+
+# HOST MICROBE INTERACTIONS
+
+# Paediatric Inflammatory Bowel Disease and its Relationship with the Microbiome
+
+Rachel S. Fitzgerald 1,2 & Ian R. Sanderson 3 & Marcus J. Claesson 1,2
+
+Received: 31 July 2020 / Accepted: 19 January 2021 / Published online: 5 March 2021
+
+# The Author(s) 2021
+
+# Abstract
+
+Paediatric inflammatory bowel disease (IBD) is a chronic inflammatory disorder of the digestive tract, comprising of Crohn’s disease (CD), ulcerative colitis (UC), and, where classification is undetermined, inflammatory bowel disease unclassified (IBDU). Paediatric IBD incidence is increasing globally, with prevalence highest in the developed world. Though no specific causative agent has been identified for paediatric IBD, it is believed that a number of factors may contribute to the development of the disease, including genetics and the environment. Another potential component in the development of IBD is the microbiota in the digestive tract, particularly the gut. While the exact role that the microbiome plays in IBD is unclear, many studies acknowledge the complex relationship between the gut bacteria and pathogenesis of IBD. In this review, we look at the increasing number of studies investigating the role the microbiome and other biomes play in paediatric patients with IBD, particularly changes associated with IBD, varying disease states, and therapeutics. The paediatric IBD microbiome is significantly different to that of healthy children, with decreased diversity and differences in bacterial composition (such as a decrease in Firmicutes). Changes in the microbiome relating to various treatments of IBD and disease severity have also been observed in multiple studies. Changes in diversity and composition may also extend to other biomes in paediatric IBD, such as the virome and the mycobiome. Research into biome differences in IBD paediatric patients may help progress our understanding of the aetiology of the disease.
+
+# Keywords
+
+Gut microbiota . Microbiome . Paediatric inflammatory bowel disease . Ulcerative colitis . Crohn’s disease . Review
+
+# Introduction
+
+Crohn’s disease (CD) and ulcerative colitis (UC) are idiopathic inflammatory bowel diseases (IBD). Wilhelm Fabry discovered Crohn’s disease in 1623, and its features were more definitively described by T.K. Dalziel in Scotland in 1913 [1] though it was later described by and named Burril B Crohn in 1932. The British physician Sir Samuel Wilks was the first to describe ulcerative colitis in 1859 [2]. Both CD and UC can occur in adults and children. There are a number of proposed risk factors in the development of IBD. One such potential risk factor or perhaps, as some have suggested, even a causative agent, is perturbed microbiota in the intestine. This review will look at the role of the microbiome in paediatric patients with IBD, outlining the findings thus far and the potential future of this particular area of research.
+
+# Pathology of Crohn’s Disease and Ulcerative Colitis
+
+# Primary Effects
+
+Although both Crohn’s disease (CD) and ulcerative colitis (UC) are chronic inflammatory disorders of the gastrointestinal tract, they have unique features which distinguish them as distinct diseases. UC is a mucosal disease which originates in the rectum and may extend proximally. The ileum is generally not involved, and diffuse inflammation (a microscopic feature of UC) is confined to the mucosa and submucosa [3, 4]. CD shows patchy and segmental distribution and may involve any part of the gastrointestinal tract [3–5], though most commonly

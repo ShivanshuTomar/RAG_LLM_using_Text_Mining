@@ -1,0 +1,47 @@
+# A. Heinken et al.
+
+# Metagenomic data
+
+# 25 healthy microbiomes
+
+# 63 non-dysbiotic IBD microbiomes
+
+# 20 dysbiotic IBD microbiomes
+
+# Personalized Distributed flux balance analysis community models
+
+# Strain
+
+# Strain 2
+
+# Strain
+
+# Predicted metabolic profiles
+
+# AGORA genomes
+
+Reference set of Diet Designer (http Ilvmh life)
+
+Fig. 1 AGORA18 genomes, and the strain-level relative abundances were retrieved. For each metagenomic sample, a personalised microbiome model was constructed. The models were parameterised further with a simulated “Average European” diet retrieved from the Virtual Metabolic Human17 database. The metabolic profile of each microbiome model was then computed with distributed flux balance analysis 53. Required input data are shown in green and required tools are shown in purple.
+
+Personalised dietary supplements, predict the potential for metabolic cross-feeding were predicted in patients and controls, stratify subtypes according to their metabolic networks, and predict treatment efficacy.
+
+Previously, Lewis et al. have performed metagenomic sequencing of the microbiomes of paediatric Crohn’s Disease patients and healthy control children and found that the Crohn’s Disease microbiomes stratified into two clusters, i.e., a “near cluster”, which resembled the healthy microbiomes in composition and a “far cluster” characterised by microbial dysbiosis that was distinct in composition from both healthy controls and the near cluster microbiomes. Based on these results, they separated the patients into two groups, IBD.
+
+We have previously constructed personalised models for a “non-dysbiotic” and “dysbiotic” subset of 20 dysbiotic Crohn’s Disease and 25 healthy control microbiomes from this cohort. We have then applied the COBRA approach to predict the bile acid deconjugation and biotransformation potential of each sample. The computational modelling stratified the Crohn’s Disease microbiomes and healthy microbiomes by their bile acid metabolism profiles.
+
+Here, we substantially expanded the computation of metabolic profiles to a wide variety of metabolic subsystems. We systematically predicted the potential of each microbiome to secrete and take up all metabolites, for which biosynthesis pathways and transport reactions were present in the community models and identified the metabolites that best stratified the dysbiotic and non-dysbiotic individuals. For all secreted metabolites, we computed the respective contributing strains in each microbiome. Finally, we validated the predictions for amino acid metabolites against published metabolomic data from the same cohort. Taken together, we present a computational systems biology approach that bridges the gap between metagenomic and metabolomic data and provides mechanistic, testable hypotheses for metabolite–microbe associations.
+
+# RESULTS
+
+In this study, we aimed at improving the understanding, which microbial metabolites may be altered in IBD due to altered faecal microbial community structure. Therefore, we predicted the metabolic profile, i.e., the combined quantitative potential of all community members to take up dietary metabolites and secrete metabolic end products, as well as the strain-level contributions to these overall fluxes, of 108 analysed microbiomes, corresponding to 20 IBD microbiomes with dysbiosis, 63 non-dysbiotic IBD microbiomes, and 25 control individuals as defined in ref. 8 (Fig. 1, Methods). We stratified the 108 microbiomes according to the predicted metabolic profiles. We demonstrate that the metabolite profiles of microbiomes from individuals with IBD and dysbiosis were distinct from both healthy microbiomes and IBD microbiomes with dysbiosis and identify the features that best separate these groups. Finally, we compared our results with published metabolomic data from the same individuals. In agreement with published findings, we predicted that dysbiotic Crohn’s Disease microbiomes have an increased potential to synthesise amino acids.
+
+# Profiling the range of metabolic capabilities present in the 108 microbiomes
+
+First, we developed a large-scale, computationally efficient constraint-based modelling approach. Briefly, we created a personalised microbiome model for each sample by mapping the relative strain-level abundances onto the reference set of reconstructed organisms and by then joining the corresponding AGORA reconstructions together as described previously. A community biomass reaction was formulated that ensured growth of the strains at experimentally determined ratios. Each personalised microbiome model was further contextualised by simulating the intake of an Average European diet. The metabolic profile of each microbiome was then computed as follows: All dietary, faecal, and strain-specific exchange reactions present in the model were retrieved, and the minimal and maximal fluxes through these exchange reactions were computed using distributed flux balance analysis. This approach enabled a systematic evaluation of secretion potential, uptake potential, and strain-specific contributions for each metabolite that could be transported by at least one microbiome model. The modelling framework captured the range of metabolic capabilities encoded by the human gut microbiome, and the variation in metabolic potential as a function of microbiome composition.
+
+# Qualitative metabolic potential in the 108 microbiomes
+
+Overall, the 108 microbiome models accounted for exchange reactions for 419 metabolites, for which the minimal and maximal fluxes were computed. We calculated the microbiomes’ theoretical.
+
+npj Systems Biology and Applications (2021) 19 Published in partnership with the Systems Biology Institute

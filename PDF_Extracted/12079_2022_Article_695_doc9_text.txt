@@ -1,0 +1,19 @@
+# Table 1 (continued)
+
+|Compound|Outcomes|Ref.|
+|---|---|---|
+|Lactobacillus helveticus KLDS 1.8701, Lactobacillus plantarum KLDS 1.0318, and Lactobacillus acidophilus KLDS 1.0901|↓ The colon shortening ↓ DAI ↓ IL-1β, IL-6, PGE2, TNF-α ↓ MPO activity ↑ Production of SCFAs Improving intestinal barrier|Shi et al. (2021)|
+|Lactobacillus reuteri F-9–35|↓ MPO activity ↓ The expression of IL-6, COX-2, and TNF-α Modulating the gut microbiota dysbiosis|Sun et al. (2018)|
+|Bifidobacterium longum|Producing CLA ↑ Goblet cells, mucin2, α-catenin, ZO-1, and claudin-3 ↓ The release of IL-6 and TNF-α ↑ The production of IL-10|(Chen et al. 2021)|
+|SEL001|↓ IL-6 and TNF-α ↓ The number of Firmicutes|Rather et al. (2020)|
+|Desmethylbellidifolin|Modulating the gut microbiome ↓ DAI was reduced, and colonic inflammation ↓ The expression of IL-6 and TNF-α|Zelante et al (2013)|
+|Saccharomyces boulardii|Modulating the gut microbiome ↓ UC tumorigenesis ↓ Tumor load ↓ The IL-6 and TNF-α ↓ The number of Lachnoclostridium and Lachnospiraceae|Wang et al. (2019)|
+|Akkermansia muciniphila|↓ The symptoms of DSS-induced acute colitis ↓ Colon histological inflammatory score, body weight loss, and colon length shortening ↑ The expression of the mucin family ↓ IL-1β, IL-6, TNF-α, and CCL2|Qu et al. (2021)|
+
+and has been terminated due to the sponsor's decision (CSL Behring). Moreover, a study on IL-10−/− mice demonstrated that complete blockade of IL-6 significantly worsens gut inflammation. The exact mechanism of this outcome is not yet fully understood; nevertheless, intestinal inflammation may develop following Treg/CD152 inhibition and induction of the IL-1β/Th2 pathway. It has also been shown that more severe inflammatory conditions are seen in the intestines of double-mutant mice (IL-10−/− , IL-6 −/− ), indicating the importance of IL-6 in the homeostasis of mucosal immune responses. As a result, blockade of the IL-6/IL-6R axis components in IBD patients should be associated with greater caution as it may worsen the patient's condition (Ye et al. 2020).
+
+Regarding the role of ILCs in IBD pathogenesis, these cells might be potential therapeutic targets for IBD treatment (Goldberg et al. 2015). For instance, depletion of ILCs as well as targeting IL-6, IL-23, and JAK signaling can lead to inhibition of ILCs and Th17 (Buonocore et al. 2010). Consequently, inhibiting Th17 and ILCs as IL-6 producers in the inflamed intestinal tissue can suppress the IL-6/IL-6R/STAT3 signals, reducing inflammatory responses and enhancing apoptosis of effector T cells. Filgotinib is a JAK inhibitor that impairs downstream signals of IL-6, IL-10, and interferon (IFN) family cytokines via hindering JAK1. Findings of a clinical trial study (NCT02048618) demonstrated that using this inhibitor in patients with CD had a promising clinical outcome. This study reported that following 20 weeks of treatment of CD patients with filgotinib (200 mg once a day), patients achieved significantly clinical remission, defined as Crohn's disease activity index (CDAI) of less than 150. Advantageous effects of filgotinib therapy were also realized on D'Haens histopathology scores, simple endoscopic score for Crohn's disease (SES-CD) responses, and inflammatory biomarkers activity (Vermeire et al. 2017).
+
+Evidence shows that tryptanthrin (TRYP) with anti-inflammatory properties has been successful in DSS-induced colitis by improving the histopathological structure of the inflamed colon tissue and reducing IL-6, STAT3, and TNF-α. Additionally, the phosphorylation of STAT3 was repressed by TRYP. These findings demonstrated that TRYP could regulate the IL-6/STAT3 and TNF-α/NFKB p56 signaling pathways by hindering STAT3 phosphorylation and degradation of IκBα (Wang et al. 2018).
+
+It has been shown that Sphaerophysa salsula, honey bee propolis, and Pterocarpus marsupium contain 3′-Hydroxypterostilbene (trans-3,5-dimethoxy-3′,4′-hydroxystilbene), which

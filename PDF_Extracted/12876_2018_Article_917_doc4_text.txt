@@ -1,0 +1,20 @@
+# Imhann et al. BMC Gastroenterology (2019) 19:5
+
+# Table 1 Clinical phenotypes of 1215 1000IBD participants
+
+|No. of participants|Age (Median ± IQR)|Sex|Diagnosis|Montreal Classification|Age at Diagnosis in years (Median ± IQR)|Disease Duration at Recruitment in years (Median ± IQR)|Medication Exposure|
+|---|---|---|---|---|---|---|---|
+|1215|41 ± 25|Male (%) Female (%)|Crohn’s Disease (%) Ulcerative Colitis (%) IBDU (%) Other (microscopic colitis, IBDI, reconsidering IBD diagnosis) (%)|A: Age of Onset A1 (%) A2 (%) A3 (%) L: Disease Location (CD only) L1 (%) L2 (%) L3 (%) L4 (%) B: Disease Behaviour (CD only) B1 (%) B2 (%) B3 (%) Perianal E: Disease Extent (UC only) E1 (%) E2 (%) E3 (%) S: Disease Severity (UC only) S1 (%) S2 (%) S3 (%) S4 (%)| | | |
+| | |510 (41.97) 705 (58.03)|56.67 37.30 55.07 17.37 25.00| | | | |
+| | |615 (50.62) 495 (40.74) 61 (5.02) 44 (3.62)|44.34 18.06 70.99 83.33| | | | |
+| | | |2.99 ± 3.18 1.61 ± 1.97| | | | |
+
+aFor each patient, the median disease activity was determined. For the entire group the average of the individual medians is presented here.
+
+IQR interquartile range, CD Crohn’s disease, UC ulcerative colitis, IBDU inflammatory bowel disease undetermined, IBDI inflammatory bowel disease intermediate, HBI Harvey-Bradshaw Index, SSCAI Simple Clinical Colitis Activity Index.
+
+The Groningen IBD Environmental Questionnaire (GIEQ) is designed to study the role of lifestyle and environment in the development and course of IBD. The GIEQ includes a large number of factors that could potentially influence disease risk and disease course such as mode of birth (vaginal vs. caesarean), whether patients were breast-fed, their living surroundings and sun exposure. In the GIEQ, 1000IBD participants are also asked about differences in lifestyle before and after their IBD diagnosis to see which lifestyle changes coincide with the onset of IBD. The GIEQ has just been published and validated [23].
+
+Generation of new molecular data and previously generated data. Molecular data of multiple –omics layers is being generated during the 1000IBD project. However, the 1000IBD cohort is comprised of both newly generated molecular data and data that was previously generated from samples from the same IBD patients. If informed consent was given, all this data has been added to the 1000IBD project.
+
+Generation of host genetic data. Host genomic data is generated in the 1000IBD project using genotyping (Illumina ImmunoChip, Global Screening Array, and the HumanExomeChip) and sequencing (Pooled targeted re-sequencing and whole exome sequencing). Peripheral blood samples were drawn from.

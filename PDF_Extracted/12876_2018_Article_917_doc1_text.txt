@@ -1,0 +1,29 @@
+# Imhann et al. BMC Gastroenterology (2019) 19:5
+
+# Conclusions
+
+We report on the establishment and future development of the 1000IBD project: the first comprehensive multi-omics dataset aimed at discovering IBD biomarker profiles and treatment targets.
+
+# Keywords
+
+Inflammatory bowel disease, Crohn’s disease, Ulcerative colitis, Genome, Microbiome, Transcriptome, Dataset
+
+# Background
+
+Inflammatory bowel disease (IBD), comprising Crohn’s disease (CD) and ulcerative colitis (UC), is a chronic complex disease of the gastrointestinal (GI) tract. IBD is very heterogeneous: disease location within the GI tract, disease behaviour, and average disease activity can vary greatly between patients [1]. Thus far, large numbers of individual genetic variants, environmental factors and gut microbes have been discovered that associate with the onset of IBD [1–9]. However, it remains largely unknown how pathophysiological changes in specific pathways lead to different clinical subphenotypes of IBD, and which treatment could best be applied.
+
+Given our current lack of understanding of these pathophysiological pathways, patients with IBD are classified into subtypes using only clinical characteristics. The classification tool currently in use is the Montreal classification, which consists of age of onset (A), disease location (L), and disease behaviour (B) for CD and age of onset (A), disease extent (E), and disease severity (S) for UC [10]. A combination of the Montreal classification and current disease activity is used to determine a treatment regimen comprising anti-inflammatory drugs and/or surgery.
+
+Meanwhile, the number of new anti-inflammatory biological drugs targeting specific molecular pathways is rising rapidly. Currently, these new drugs are used when regular anti-inflammatory drug treatment fails. However, identifying IBD subtypes on the molecular pathway level could enable a much more targeted treatment approach in which the pathways affected in specific subtypes of IBD could be targeted by specific monoclonal antibodies.
+
+Multiple research groups and consortia throughout the world are generating datasets combining clinical data with either genome data, transcriptome data, or gut microbiome data. By studying these datasets, researchers can answer important individual questions. However, an integrated effort is required if we are to meet the key objectives needed to pursue targeted treatment:
+
+1. To discover molecular subtypes of IBD and match available monoclonal antibody treatment to these subtypes.
+2. To discover biomarker profiles that capture the clinical heterogeneity of IBD and can be used as predictors.
+3. To discover and prioritise the best new targets for early-stage drug discovery.
+
+Meeting these objectives requires the assessment and integration of different layers of -omics information, supplemented with high-resolution phenotype data in the same IBD patients. Important IBD multi-omics projects already exist in the longitudinal integrative Human Microbiome Project [11] (iHMP or HMP2), the PRISM-cohort [12], and the RISK-cohort [7] in the United States. Previous efforts from the RISK cohort, the PRISM cohort, and samples from patients treated in our university hospital, as well as from consortia in which these cohorts participate, have already enabled the first steps towards precision medicine in IBD. For example, the discovery of genetic variants enables the prediction of the risk of pancreatitis as a severe side-effect of azathioprine, a commonly used immunosuppressant in IBD [13]. Microbial DNA profiles and RNA-sequencing profiles from the intestinal biopsies of the RISK cohort have uncovered RNA-microbe interactions and shown that biopsies taken from the distal colon can predict the IBD disease location higher up in the intestine [7, 14]. In addition, stool samples from the PRISM cohort have also been used to discover microbial profiles that can predict the efficacy of vedolizumab, a biological drug regulating T-cell homing to the gut [15], while a genetic variant in the WWOX gene discovered using genotypes of IBD patients treated in our hospital can be used to assess the risk of stricturing and penetrating Crohn’s disease behavior [16].
+
+We initiated the 1000IBD project to prospectively follow more than 1000 IBD patients from the Northern provinces of the Netherlands and collect a uniquely large number of phenotypes. Phenotype data include—but are not limited to—information on dietary and environmental factors, drug responses and adverse drug events. In addition, we will generate cross-sectional multi-omics layers.
+
+Here, we report on the establishment and future development of the 1000IBD project and release the first data from the project. This first release and future data releases will be stored externally in the European Genome-phenome Archive (EGA) of the European Bioinformatics Institute (EBI) and Centre for Genomic Regulation [17]. This first 1000IBD data release includes basic phenotypes of 1215 participants, host genotypes based on the Immunochip for 314 participants, and gut microbiome data from 315 stool samples (one per participant) and 107 biopsies (one per participant) generated by tag sequencing the 16S rRNA gene.

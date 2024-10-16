@@ -1,0 +1,81 @@
+# Molecular Systems Biology
+
+# Amrisha Bhosle et al
+
+perfringens isolated from human neonatal fecal flora. J Chromatogr B Analyt Technol Biomed Life Sci 833:149–157
+
+Vitek L, Tiribelli C (2020) Bilirubin, intestinal integrity, the microbiome, and inflammation. New Engl J Med 383:684–686
+
+Vogel ME, Zucker SD (2016) Bilirubin acts as an endogenous regulator of inflammation by disrupting adhesion molecule-mediated leukocyte migration. Inflamm Cell Signal 3:e1178
+
+Wang M, Carver JJ, Phelan VV, Sanchez LM, Garg N, Peng Y, Nguyen DD, Watrous J, Kapono CA, Luzzatto-Knaan T et al (2016) Sharing and community curation of mass spectrometry data with Global Natural Products Social Molecular Networking. Nat Biotechnol 34:828–837
+
+Wikoff WR, Anfora AT, Liu J, Schultz PG, Lesley SA, Peters EC, Siuzdak G (2009) Metabolomics analysis reveals large effects of gut microflora on mammalian blood metabolites. Proc Natl Acad Sci USA 106:3698–3703
+
+Williams HR, Cox IJ, Walker DG, Cobbold JF, Taylor-Robinson SD, Marshall SE, Orchard TR (2010) Differences in gut microbial metabolism are responsible for reduced hippurate synthesis in Crohn’s disease. BMC Gastroenterol 10:108
+
+Wishart DS, Guo A, Oler E, Wang F, Anjum A, Peters H, Dizon R, Sayeeda Z, Tian S, Lee BL et al (2022) HMDB 5.0: the human metabolome database for 2022. Nucleic Acids Res 50:D622–D631
+
+Yen S, McDonald JA, Schroeter K, Oliphant K, Sokolenko S, Blondeel EJ, Allen-Vercoe E, Aucoin MG (2015) Metabolomic analysis of human fecal microbiota: a comparison of feces-derived communities and defined mixed communities. J Proteome Res 14:1472–1482
+
+Yoshino J, Mills KF, Yoon MJ, Imai S (2011) Nicotinamide mononucleotide, a key NAD(+) intermediate, treats the pathophysiology of diet- and age-induced diabetes in mice. Cell Metab 14:528–536
+
+Zhang Y, Bhosle A, Bae S, McIver LJ, Pishchany G, Accorsi EK, Thompson KN, Arze C, Wang Y, Subramanian A et al (2022) Discovery of bioactive microbial gene products in inflammatory bowel disease. Nature 606:754–760
+
+Zheng JD, He Y, Yu HY, Liu YL, Ge YX, Li XT, Li X, Wang Y, Guo MR, Qu YL et al (2019) Unconjugated bilirubin alleviates experimental ulcerative colitis by regulating intestinal barrier function and immune inflammation. World J Gastroenterol 25:1865–1878
+
+Zhou XJ, Kao MC, Huang H, Wong A, Nunez-Iglesias J, Primig M, Aparicio OM, Finch CE, Morgan TE, Wong WH (2005) Functional annotation and network reconstruction through cross-platform integration of microarray data. Nat Biotechnol 23:238–243
+
+Zhu X, Shen W, Wang Y, Jaiswal A, Ju Z, Sheng Q (2017) Nicotinamide adenine dinucleotide replenishment rescues colon degeneration in aged mice. Signal Transduct Target Ther 2:17017
+
+Zierer J, Jackson MA, Kastenmuller G, Mangino M, Long T, Telenti A, Mohney RP, Small KS, Bell JT, Steves CJ et al (2018) The fecal metabolome as a functional readout of the gut microbiome. Nat Genet 50:790–795
+
+Zucker SD, Vogel ME, Kindel TL, Smith DL, Idelman G, Avissar U, Kakarlapudi G, Masnovi ME (2015) Bilirubin prevents acute DSS-induced colitis by inhibiting leukocyte infiltration and suppressing upregulation of inducible nitric oxide synthase. Am J Physiol Gastrointest Liver Physiol 309:G841–854
+
+# Acknowledgements
+
+This work was partially supported by NIH NIDDK grants R24DK110499 (CH, WSG, and RJX). We especially appreciate the participants in the HMP2 cohort who made this study possible. The computations in this paper were run in part on the FASRC Cannon cluster supported by the FAS Division of Science Research Computing Group at Harvard University. We thank Dana-Farber/Harvard Cancer Center for the use of the Rodent Histopathology Core which processed intestinal tissue for the assessment of histopathology.
+
+# Author contributions
+
+Amrisha Bhosle: Conceptualization; Data curation; Software; Formal analysis; Validation; Visualization; Methodology; Writing—original draft; Writing—review and editing.
+
+Sena Bae: Resources; Formal analysis; Validation; Investigation; Visualization; Writing—original draft; Writing—review and editing.
+
+Yancong Zhang: Software; Formal analysis; Writing—review and editing.
+
+Eunyoung Chun: Investigation.
+
+Julian Avila-Pacheco: Resources; Data curation; Writing—review and editing.
+
+Ludwig Geistlinger: Software.
+
+Gleb Pishchany: Investigation.
+
+Jonathan N Glickman: Investigation.
+
+Monia Michaud: Investigation.
+
+Levi Waldron: Supervision.
+
+Clary B Clish: Resources; Supervision.
+
+Ramnik J Xavier: Supervision; Funding acquisition.
+
+Hera Vlamakis: Data curation.
+
+Eric A Franzosa: Conceptualization; Supervision; Methodology; Writing—review and editing.
+
+Wendy S Garrett: Resources; Supervision; Funding acquisition; Project administration; Writing—review and editing.
+
+Curtis Huttenhower: Conceptualization; Supervision; Funding acquisition; Methodology; Project administration; Writing—review and editing.
+
+# Disclosure and competing interests statement
+
+CH is on the scientific advisory board of ZOE, Seres Therapeutics, and Empress Therapeutics. WSG is on the scientific advisory board of Freya Biosciences, Sail Biomedicines, Scipher Medicine, and Empress Therapeutics. The laboratory of WSG receives funding from Merck and Astellas, unrelated to current work. RJX is a member of the scientific advisory board of Nestle and Senda Biosciences.
+
+# Open Access
+
+This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/. Creative Commons Public Domain Dedication waiver http://creativecommons.org/public-domain/zero/1.0/ applies to the data associated with this article, unless otherwise stated in a credit line to the data, but does not extend to the graphical or creative elements of illustrations, charts, or figures. This waiver removes legal barriers to the re-use and mining of research data. According to standard scholarly practice, it is recommended to provide appropriate citation and attribution whenever technically possible.
+
+© The Author(s) 2024

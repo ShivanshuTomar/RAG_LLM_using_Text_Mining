@@ -1,0 +1,43 @@
+# Chu Genome Medicine
+
+# (2017) 9:69
+
+More diverse microbiome and its microbial metabolites are important in maintaining intestinal homeostasis. However, dysbiosis may result in a loss of microbial functional pathways important in the production of bacterial metabolites, such as tryptophan [9], short chain fatty acids (SCFAs), and other compounds with anti-inflammatory activities to regulate intestinal inflammation [1]. Specifically, IBD patients have lower levels of tryptophan and SCFAs in serum and fecal samples [9]. Further work is necessary to determine if these bacterial metabolites may serve as biomarkers for IBD, and if supplementation of these missing bacterial populations (as probiotics) and/or metabolites may be sufficient to serve as a potential IBD therapy.
+
+Exploring gene–gut microbiome interactions may uncover novel strategies for early diagnosis and treatment of IBD. As probiotics and fecal microbiota transplant therapies become increasingly prevalent for IBD treatment, there is also a need to understand the mechanisms by which host immune pathways integrate microbiome-derived signals to promote intestinal homeostasis. Understanding whether individuals carrying risk alleles associated with IBD are receptive to the beneficial effects of microbial therapies will facilitate personalized approaches to treatment. The implications of the microbiome on precision medicine may be an important consideration for treatment of IBD and other immune-mediated diseases. In fact, recent studies have shown that the gut microbiome can predict patient responsiveness to immunomodulatory therapies, including both chemotherapies and an anti-integrin therapy (vedolizumab) used in IBD [11]. A personalized medicine approach that takes into consideration both host genetics and the gut microbiome could serve to predict therapeutic responses in the treatment of IBD and other immune-mediated diseases. Furthermore, future studies to identify novel pathways and their interactions with microbial communities could provide targets for more effective therapies and a better understanding of the pathogenesis of IBD.
+
+Published online: 24 July 2017
+
+# References
+
+1. Khor B, Gardet A, Xavier RJ. Genetics and pathogenesis of inflammatory bowel disease. Nature. 2011;474:307–17.
+2. Chu H, Mazmanian SK. Innate immune recognition of the microbiota promotes host-microbial symbiosis. Nat Immunol. 2013;14:668–75.
+3. Spor A, Koren O, Ley R. Unravelling the effects of the environment and host genotype on the gut microbiome. Nat Rev Microbiol. 2011;9:279–90.
+4. Knights D, Silverberg MS, Weersma RK, Gevers D, Dijkstra G, Huang H, et al. Complex host genetics influence the microbiome in inflammatory bowel disease. Genome Med. 2014;6:107.
+5. Blekhman R, Goodrich JK, Huang K, Sun Q, Bukowski R, Bell JT, et al. Host genetic variation impacts microbiome composition across human body sites. Genome Biol. 2015;16:191.
+6. Goodrich JK, Waters JL, Poole AC, Sutter JL, Koren O, Blekhman R, et al. Human genetics shape the gut microbiome. Cell. 2014;159:789–99.
+7. Al Nabhani Z, Dietrich G, Hugot JP, Barreau F. Nod2: the intestinal gate keeper. PLoS Pathog. 2017;13:e1006177.
+8. Ramanan D, Tang MS, Bowcutt R, Loke P, Cadwell K. Bacterial sensor Nod2 prevents inflammation of the small intestine by restricting the expansion of the commensal Bacteroides vulgatus. Immunity. 2014;41:311–24.
+9. Lamas B, Richard ML, Leducq V, Pham HP, Michel ML, Da Costa G, et al. CARD9 impacts colitis by altering gut microbiota metabolism of tryptophan into aryl hydrocarbon receptor ligands. Nat Med. 2016;22:598–605.
+10. Chu H, Khosravi A, Kusumawardhani IP, Kwon AH, Vasconcelos AC, Cunha LD, et al. Gene–microbiota interactions contribute to the pathogenesis of inflammatory bowel disease. Science. 2016;352:1116–20.
+11. Ananthakrishnan AN, Luo C, Yajnik V, Khalili H, Garber JJ, Stevens BW, et al. Gut microbiome function predicts response to anti-integrin biologic therapy in inflammatory bowel diseases. Cell Host Microbe. 2017;21:603–10.
+
+# Abbreviations
+
+CD: Crohn’s disease; GWAS: Genome-wide association study; IBD: Inflammatory bowel disease; SCFA: Short-chain fatty acids; UC: Ulcerative colitis
+
+# Acknowledgements
+
+The author would like to thank Gil Sharon for thoughtful discussions and critical reading of the manuscript.
+
+# Funding
+
+The author is supported by NIH grant K99DK110534.
+
+# Competing interests
+
+The author declares that she has no competing interests.
+
+# Publisher’s Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.

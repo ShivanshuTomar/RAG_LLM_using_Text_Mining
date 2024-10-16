@@ -1,0 +1,57 @@
+# Cochrane
+
+# Trusted evidence.
+
+# Informed decisions.
+
+# Library
+
+# Better health.
+
+# 27 reports of 12 Cochrane Database of Systematic Reviews published studies
+
+# Figure 1. (Continued)
+
+12 studies included in qualitative synthesis
+
+12 studies included in quantitative synthesis (meta-analysis)
+
+A literature search was conducted on 15 January 2022 and updated on 22 December 2022, which identified 4602 studies (Figure 1). After removal of duplicates, 3144 studies were retained for the title and abstract screening, and 96 studies met the criteria for full-text review. We excluded 44 studies for reasons outlined in the Characteristics of excluded studies table, four studies are awaiting classification (Characteristics of studies awaiting classification table), and 29 studies are ongoing (Characteristics of ongoing studies table).
+
+In summary, four studies were carried over from the last version of this review and eight studies were newly included, of which two were previously ongoing and are now completed and published, for a total of 12 studies published in 27 reports in this systematic review (Březina 2021; Costello 2019; Crothers 2021; Fang 2021; Haifer 2022; Moayyedi 2015; Pai 2021; Paramsothy 2017; Rossen 2015; Sarbagili Shabat 2022; Sokol 2020; Sood 2019a).
+
+# Included studies
+
+Twelve RCTs assessed FMT for the treatment of IBD in peer-reviewed journals (Březina 2021; Costello 2019; Crothers 2021; Fang 2021; Haifer 2022; Moayyedi 2015; Pai 2021; Paramsothy 2017; Rossen 2015; Sarbagili Shabat 2022; Sokol 2020; Sood 2019a).
+
+Eleven studies assessed FMT for the treatment of UC, of which eight studies assessed FMT for induction of clinical remission in adults with UC (Březina 2021; Costello 2019; Crothers 2021; Fang 2021; Moayyedi 2015; Paramsothy 2017; Rossen 2015; Sarbagili Shabat 2022). One study assessed FMT for induction of clinical remission in children with UC (Pai 2021). One study assessed FMT for both induction and maintenance of remission in UC (Haifer 2022), while one study assessed FMT for only maintenance of remission in UC (Sood 2019a). None of the included studies assessed the use of FMT for induction of remission in CD. One study assessed FMT for maintenance of remission in CD (Sokol 2020). The complete details of these studies can be found in the Characteristics of included studies table.
+
+# Country
+
+Three studies were conducted in Australia (Costello 2019; Haifer 2022; Paramsothy 2017), two in Canada (Moayyedi 2015; Pai 2021), one in China (Fang 2021), one in the Czech Republic (Březina 2021), one in France (Sokol 2020), one in India (Sood 2019a), one in Israel and Italy (Sarbagili Shabat 2022), one in the Netherlands (Rossen 2015), and one in the US (Crothers 2021). Five studies were conducted at a single center (Březina 2021; Crothers 2021; Fang 2021; Rossen 2015; Sood 2019a), and seven were conducted at multiple centers (Costello 2019; Haifer 2022; Moayyedi 2015; Pai 2021; Paramsothy 2017; Sarbagili Shabat 2022; Sokol 2020).
+
+# Study population
+
+# Age and gender
+
+The percentages of males in the included studies ranged from 20% (Fang 2021) to 72.5% (Sarbagili Shabat 2022). The ages of participants ranged from children (Pai 2021) to adults with a mean age of 48 years (Fang 2021).
+
+# History of prior medication treatment
+
+All studies included participants who had previously received some form of treatment for IBD (i.e. no studies included only treatment-naive participants), and only one study excluded people who had previously received biologic therapy as part of their treatment (Fang 2021).
+
+# Duration of disease
+
+The mean duration of disease in the studies on adults with UC ranged from 4.29 years (Sood 2019a) to 9.35 years (Crothers 2021). The mean duration of disease in the study on participants with CD was nine years (Sokol 2020).
+
+# Severity of disease
+
+All 10 studies on FMT for induction of remission in UC reported the severity of disease during enrollment, of which nine studies included people experiencing mild-to-moderate UC with correlating Mayo scores at the time of inclusion (Březina 2021; Costello 2019; Crothers 2021; Haifer 2022; Moayyedi 2015; Pai 2021; Paramsothy 2017; Rossen 2015; Sarbagili Shabat 2022), and one study included people with mild, moderate, and severe UC (Fang 2021). The two studies that assessed FMT for maintenance of remission in UC included people who were induced into remission with FMT (Haifer 2022; Sood 2019a), while one study that assessed FMT for maintenance of remission in CD included people who were induced into remission with steroids (Sokol 2020).
+
+# Indications for fecal microbiota transplantation
+
+Ten studies used FMT for induction of remission in participants with active UC (Březina 2021; Costello 2019; Crothers 2021; Fang 2021; Haifer 2022; Moayyedi 2015; Pai 2021; Paramsothy 2017; Rossen 2015; Sarbagili Shabat 2022). Two studies used FMT for maintenance of remission in UC (Haifer 2022; Sood 2019a), and one study used FMT for maintenance of remission in CD (Sokol 2020).
+
+Fecal transplantation for treatment of inflammatory bowel disease (Review)
+
+Copyright © 2023 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

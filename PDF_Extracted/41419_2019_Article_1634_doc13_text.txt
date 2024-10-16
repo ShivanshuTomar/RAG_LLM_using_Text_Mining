@@ -1,0 +1,27 @@
+# Wang et al. Cell Death and Disease (2019) 10:391
+
+# Animal care and use
+
+C57BL/6 mice were purchased from Shanghai Super-B&K Laboratory Animal Corp., Ltd. (Shanghai, China). Mice were kept at 22 °C under a 12-h light/dark cycle with unlimited access to water and a standard rodent diet. During the experiments, the mice were anesthetized with phenobarbital sodium (60 mg/kg, i.p.) and were euthanized using cervical dislocation under anesthesia unless indicated otherwise. All of the experiments were approved and conducted in accordance with the guidelines of the Animal Care Committee of Second Military Medical University/ Naval Medical University, Shanghai, China.
+
+# Induction of IBD in mice
+
+The IBD model was induced in C57BL/6 mice with 3% DSS (mol. wt. 36,000 to 50,000 kDa, MP Biomedicals LLC, Santa Ana, CA, USA) dissolved in drinking water given ad libitum (days 1–6) as previously described 65. For some groups, CRH (50 μg/kg body weight, Tocris, Ellisville, MO, USA), chloroquine (60 mg/kg body weight, Sigma-Aldrich, St. Louis, MO, USA), and/or rapamycin (1.25 mg/kg body weight, Selleck Chemicals, Houston, TX, USA) were intraperitoneally injected from day 1 to day 6. Saline was injected as vehicle.
+
+# Clinical score and histological analysis in mice
+
+Body weight, the presence of occult or gross blood per rectum, stool consistency, and colon length were determined by two investigators blinded to the treatment groups. A scoring system was used to assess diarrhea and the presence of occult or overt blood in the stool66. Body weight changes were shown as loss of baseline body weight. Postmortem, the colon was removed, and pieces of colonic tissue were used for ex vivo analysis. For histology, rings of certain parts of the colon were fixed in 4% buffered formalin and embedded in paraffin. Sections were stained with H&E according to standard protocols.
+
+Histological scoring was performed in a blinded way by a pathologist. Focally increased the number of inflammatory cells in the lamina propria was scored as 1, the confluence of inflammatory cells extending into the submucosa as 2, and the transmural extension of the infiltrate as 3. For tissue damage, discrete lymphoepithelial lesions were scored as 1, mucosal erosions as 2, and extensive mucosal damage and/or extension through the deeper structures of the bowel wall as 3. The two equally weighted subscores (cell infiltration and tissue damage) were added and the combined histological colitis severity score ranged from 0 to 6.
+
+# Cell culture and treatment of bone marrow cells
+
+Murine BMDM were obtained through the incubation bone marrow was flushed out from femurs and tibias, cultured, and differentiated in bone marrow growth medium comprised of Dulbecco’s modified Eagle’s medium (Gibco, Grand Island, NY, USA) supplemented with 10% fetal bovine serum (Gibco, Grand Island, NY, USA), 30% L929 cell-conditioned media (source of macrophage-colony stimulating factor, M-CSF), and penicillin/streptomycin at 37 °C in a humidified incubator with 5% CO2. The bone marrow growth medium was renewed every 2 days. After 7-day cultivation, fresh medium was replaced. For certain groups, lipopolysaccharide (LPS) (100 ng/ml, Sigma-Aldrich, St. Louis, MO, USA), CRH (10−8 M, Tocris, Ellisville, MO, USA) and/or chloroquine (10 μM, Sigma-Aldrich, St. Louis, MO) were administered for the stimulation of 12 h.
+
+# Facial action coding system (FACS) analysis
+
+After the aforementioned treatment, murine BMDM were digested and washed with PBS three times. Cells were collected and incubated with CD68 antibody (1:500, eBioscience, San Diego, CA, USA) or CD206 antibody (1:500, eBioscience, San Diego, CA, USA) for 30 min at room temperature. Mouse IgG1 kappa was used as negative control (eBioscience, San Diego, CA, USA). The ratio of CD68+ cells and CD206+ cells were analyzed using a flow cytometer (Thermo Fisher Scientific, Waltham, MA, USA).
+
+# Western blotting
+
+Proteins were extracted from the colonic tissues or murine BMDM using a standard extraction reagent supplemented with the protease inhibitor (KANGCHEN; Shanghai, China). The protein concentration was determined using a bicinchoninic acid protein assay kit (Beyotime Institute of Biotechnology, Haimen, China). Proteins were then separated using sodium dodecyl sulfate polyacrylamide gel electrophoresis and electro-transferred to nitrocellulose membranes as described previously68, incubated with a primary antibody overnight at 4 °C. The samples were then incubated with an IRDye800CW-conjugated secondary antibody (Rockland, Gilbertsville, PA, USA) for 1 h at 25 °C. The image was acquired with the Odyssey infrared imaging system (Li-Cor Biosciences, Lincoln, NE, USA). All of the immunoblotting experiments were repeated at least five times. The following primary antibodies were used: Beclin-1 antibody (1:500; Cell Signaling Technology).

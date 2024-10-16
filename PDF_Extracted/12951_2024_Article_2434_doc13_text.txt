@@ -1,0 +1,35 @@
+# Yang et al. Journal of Nanobiotechnology (2024) 22:166
+
+# Page 14 of 16
+
+# Microscopy Study
+
+To determine intracellular ROS levels, RAW264.7 and HT-29 cells were initially treated with YBNs or YBNs@PDA (50 μg/mL) for 12 h. Both LPS at 0.1 mg/mL and HO2 at 100 μM were used to activate the cells for 2 h. At the end, DCF was applied for the ROS staining according to the manufacturer’s instructions. RAW264.7 macrophages were treated with different nanoparticles in 12 or 24-well plates to assess their anti-inflammatory efficacy in vitro. Following 24 h of incubation, cells were stimulated with 0.1 mg/mL LPS for 6 h. The supernatants were then collected, and the levels of several inflammatory factors including TNF-α, IL-1β, IL-6, and MCP-1 were determined using ELISA kits according to the manufacturer’s instructions.
+
+# Biodistribution Study
+
+Mice with DSS-induced acute colitis were allowed to fast for 24 h while still having access to water in order to compare colon absorption of FITC-YBNs and FITC-YBNs@PDA. Subsequently, mice were given an oral gavage of each sample with 10 mg kg-1 for either 6–12 h, followed by being sacrificed for colon collection. The PerkinElmer IVIS Lumina III In Vivo Imaging System was used to assess the fluorescence signal. After 12–24 h of fixation in 4% paraformaldehyde, colons were embedded in OCT and sectioned using a microtome. After that, slides were mounted and observed using a Leica TCS SP8 Confocal Microscope.
+
+# DSS-induced Mouse Models of Colitis
+
+All animal work was carried out in accordance with the regulations of the Animal Experimentation Ethics Committee of The Chinese University of Hong Kong (Ref. 22-177-MIS). C57BL/6J mice (male, aged 6 weeks) were given 2.5% DSS in their drinking water for 5 days before being switched to normal water in the treatment duration. PBS was orally given to healthy mice as a normal control group. Colitis mice were administered YBNs orally at dosages of 10 mg kg-1 and YBNs@PDA at doses of 5 mg kg-1 or 10 mg kg-1 for 5 or 7 days. Mice with colitis that were treated with PBS served as a negative control. During the whole experiment, all mice had free access to water and a regular laboratory diet. The day after the last treatment, all mice were sacrificed and their entire colons were removed for further assessment such as colon length assessment, H&E staining, and other histopathological analysis.
+
+# Histopathology Study
+
+Colon tissues or organs fixed in 10% formaldehyde solution underwent tissue processing before paraffin embedding. The paraffin sections of 5 μm were cut by a Leica microtome, stained for H&E, and dried overnight. The H&E images were taken with a Zeiss microscope. Alcian blue was used to stain acid mucosubstances and acetic mucins such as GAGs.
+
+# Immunofluorescence
+
+Sections of paraffin-embedded colon samples were deparaffinized and rehydrated. Sodium citrate buffer was utilized to recover the antigens, followed by permeabilization with 0.25% Triton X-100 for 15 min, incubating with 0.3% H2O2 and blocking with 5% goat serum. The sections were then treated with the primary antibodies (Occludin, Claudin-1, MPO) at 4 °C for one night, followed by secondary antibodies incubation for 1 h at room temperature. After being rinsed in PBS, the sections were mounted in antifade mounting media containing DAPI. Confocal microscopy using a Leica TCS SP8 was used to capture the fluorescent pictures.
+
+# Terminal Deoxynucleotidyl Transferase-mediated dUTP Nick End Labeling (TUNEL) Staining
+
+The TUNEL assay was performed in accordance with the manufacturer’s instructions. Briefly, xylene was used to deparaffinize tissue sections of the colon, and PBS was used to rehydrate the sections. The sections were then treated with proteinase K and lasted for 20 min at 37 °C. The sections were washed three times in PBS buffer and then treated with Labeling Mix and TdT Enzyme for 1 h in the dark at 37 °C, followed by rinsing with PBS to remove any remaining debris. Finally, a Leica TCS SP8 Confocal Microscope was used to examine the DAPI-stained mounted slides.
+
+# Fluorescence In Situ Hybridization (FISH) of 16 S rRNA
+
+FISH analysis was performed via a Cy3-labeled Eubacterial (universal) 16 S rRNA probe (Ribo technologies) to identify bacterial colonization of the colonic mucosa. Briefly, paraffin-embedded colon sections were deparaffinized, stained with a hybridization mixture comprising a Cy3-conjugated-eubacterial 16 S rRNA probe overnight in the dark at 50 °C. Sections were washed with PBS and stained with anti-Muc2 antibody for mucin staining. Secondary antibody anti-rabbit-488 was applied, followed by DAPI staining to reveal nucleus. Leica TCS SP8 Confocal Microscope was used for the observation of the pictures.
+
+# Gut Microbiota 16 S rRNA Genes Sequencing
+
+After receiving various treatments, colon contents were collected, frozen in liquid nitrogen, and afterward subjected to DNA extraction. The 16 S rRNA genes (V3 - V4 hyper-variable regions) were targeted using PCR amplification and then sequenced on the DNBSEQ PE300 technology (BGI Tech, China). QIIME 2 (version 2021.8) was used to analyze the 16 S rRNA gene sequences. DADA2 was used to process the raw read with default settings, assemble and demultiplex the paired-end sequenced dataset to yield amplicon sequence variation (ASV). Then, taxonomic annotation was performed by reference to pre-trained Silva 138 database. Chao metrics were used to determine alpha diversity, while the Bray-Curtis technique was used to determine beta diversity. After QIIME 2 data export, a heatmap was created to display the relative abundance of each group at the genus level. In order to discover taxa that were differentially abundant across biological circumstances of interest, a Linear.

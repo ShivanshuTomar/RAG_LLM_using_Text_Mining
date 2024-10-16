@@ -1,0 +1,33 @@
+# IMAGINE Network’s Mind And Gut Interactions Cohort (MAGIC) Study: a protocol for a prospective observational multicentre cohort study in inflammatory bowel disease and irritable bowel syndrome
+
+Paul Moayyedi1 Karen L Madsen9 Russell J de Souza10,13,1 Glenda MacQueen2 Charles N Bernstein3 Stephen Vanner4 Levinus A Dieleman8 Elena Verdú5 Michael Surette6 John D Rioux7 Premysl Bercik11 Anthony Otley12 Laura Targownik6 Jennifer Cunningham14 Deborah A Marshall15 Aida Fernandes1
+
+To cite: Moayyedi P, MacQueen G, Bernstein CN, et al. IMAGINE Network’s Mind And Gut Interactions Cohort (MAGIC) Study: a protocol for a prospective observational multicentre cohort study in inflammatory bowel disease and irritable bowel syndrome. BMJ Open 2020;10:e041733. doi:10.1136/bmjopen-2020-041733
+
+# ABSTRACT
+
+# Introduction
+
+Gut microbiome and diet may be important in irritable bowel syndrome (IBS), inflammatory bowel disease (IBD) and comorbid psychiatric conditions, but the mechanisms are unclear. We will create a large cohort of patients with IBS, IBD and healthy controls, and follow them over time, collecting dietary and mental health information and biological samples, to assess their gastrointestinal (GI) and psychological symptoms in association with their diet, gut microbiome and metabolome.
+
+# Methods and analysis
+
+This 5-year observational prospective cohort study is recruiting 8000 participants from 15 Canadian centres. Persons with IBS who are 13 years of age and older or IBD ≥5 years will be recruited. Healthy controls will be recruited from the general public and from friends or relatives of those with IBD or IBS who do not have GI symptoms. Participants answer surveys and provide blood, urine and stool samples annually. Surveys assess disease activity, quality of life, physical pain, lifestyle factors, psychological status and diet. The main outcomes evaluated will be the association between the diet, inflammatory, genetic, microbiome and metabolomic profiles in those with IBD and IBS compared with healthy controls using multivariate logistic regression. We will also compare these profiles in those with active versus quiescent disease and those with and without psychological comorbidity.
+
+# Ethics and dissemination
+
+Approval has been obtained from the institutional review boards of all centres taking part in the study. We will develop evidence-based knowledge translation initiatives for patients, clinicians and policymakers to disseminate results to relevant stakeholders.
+
+Trial registration number: NCT03131414
+
+# INTRODUCTION
+
+Two-thirds of the population experience significant gastrointestinal (GI) symptoms at some point in their life. One of the most common GI disorders is irritable bowel syndrome (IBS), affecting up to 10% of persons worldwide, depending on the definition. Another GI disorder that is associated with significant healthcare resources is inflammatory bowel disease (IBD) which affects approximately 0.3% of the world’s industrialised population.
+
+The cardinal features of IBS include chronic abdominal pain over 3 months per year related to a change in bowel habit and the disease can present at any age. IBD is a term encompassing two distinct but related diseases: ulcerative colitis (UC) and Crohn’s disease (CD). The cardinal symptom of UC is bloody diarrhoea while in CD abdominal pain is a more prominent symptom, but diarrhoea is a feature as well. IBD has the highest incidence in second and third decades of life and are lifelong relapsing and remitting.
+
+© Author(s) (or their employer(s)) 2020. Re-use permitted under CC BY-NC. No commercial re-use. See rights and permissions. Published by BMJ.
+
+For numbered affiliations see end of article.
+
+Correspondence to Professor Paul Moayyedi; moayyep@mcmaster.ca

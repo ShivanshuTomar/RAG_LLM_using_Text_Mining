@@ -1,0 +1,21 @@
+# Khanna et al. Microbiome
+
+# (2017) 5:55
+
+# Page 6 of 8
+
+|Source|Taxa that Changed Significantly (No IBD)|Taxa that Changed Significantly (IBD)| | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|
+|Day Since FMT|Day Since IMT|Day Since FMT|Day Since IMT| | | | | | |
+|Acinetobacter| |5|1| | | |8|1| |
+|Bacteroides| | | | | |10|10|10|10|
+|Erwinia|10|6|10|6| | | | | |
+|Klebsiella|10|6|10|6| | | | | |
+|Proteus|10|6|10|6| | | | | |
+|Salmonella|10|6|10|6| | | | | |
+|Serra|10|6|10|6| | | | | |
+|Faecalibacterium|10|6|10|6| | | | | |
+
+Fig. 2 a, b Subjects with IBD retain a higher proportion of their original communities (*Mann-Whitney p < 0.05 at day 7 and p = 0.06 at day 28, and a significantly lower proportion of new communities (*Mann-Whitney p < 0.05 at days 7 and 28), as compared to the patients without IBD using SourceTracker. c Bacterial taxa that change significantly in patients with IBD after FMT (ANCOM p < 0.05, corrected for multiple comparisons using Bonferroni-Holm’s method). d Bacterial taxa that change significantly in patients without IBD after FMT (ANCOM p < 0.05, corrected for multiple comparisons using Bonferroni-Holm’s method). e Change in phylogenetic diversity-based alpha diversity 7 and 28 days following fecal microbiota transplant in patients with CDI with and without IBD (Mann-Whitney’s U p < 0.001)
+
+FMT in patients with CDI and IBD, but this was not statistically significant, likely given the small sample size. We also did not see changes in need for IBD therapy in the subset of patients with IBD underlying CDI. However, we have previously reported similar findings in a larger cohort of patients with CDI and IBD [8], where gut microbiota changes were not monitored. Interestingly, in this cohort, all patients had an initial clinical or microbiological remission (negative C. difficile testing in the presence of ongoing diarrhea) of CDI following FMT, and we did not see a difference in initial response reported in a recent study [7], which is also likely due to the smaller sample size of our study and differences in underlying disease characteristics. Future studies designed to study the effect of compositional and dynamic variations can be seen in patients following FMT [19], patients with underlying IBD in our study show a higher proportion of the original pre-transplant microbial community and lower recovery of phylogenetic diversity following FMT compared to those without IBD. This lack of beneficial change in microbial ecology may be relevant for long-term response of CDI in patients with IBD and the lack of clinical response of IBD to FMT seen in our and previous studies [7].

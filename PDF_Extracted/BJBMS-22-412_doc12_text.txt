@@ -1,0 +1,70 @@
+# Alatawi et al.: Microbiota and anti-TNF-α response in IBD patients
+
+# Figure S2
+
+The taxonomic composition distribution in family-level across 20 samples of responders and non-responders to anti-TNF-α treatments.
+
+|Family|Percentage|
+|---|---|
+|DAlcaligenaceae|100|
+|QMogibactetiaceae| |
+|UBactcroidaccae| |
+|U] Odoribacleraceac| |
+|DBarnesiellaceae| |
+|A Paraprevolellaceae| |
+|D Bifidobacteriaceac| |
+|JPasieurcllaccae| |
+|Clislensenellaceae| |
+|9Peptostreptocaccaceae| |
+|Porphyromonadaceae| |
+|Closiridiaceac| |
+|Catiobacleriaceae| |
+|APrevotellaceae| |
+|E Erterobacterieceae| |
+|DDdesullovibionatceae| |
+|DAysipelottichaceae| |
+|Corunebacletinceae| |
+|JRikenellaceae| |
+|ARuminococcaceae| |
+|DTissierellaceae| |
+|Streptococcaceae| |
+|D Eubacletiaccae| |
+|AVcillonellaceac| |
+|Fusobacleriaceae| |
+|AVemcomicrobi acene| |
+|Lachnospiraccac| |
+|Unclassilicd| |
+
+# Figure S3
+
+The taxonomic composition distribution in species-level across 20 samples of responders and non-responders to anti-TNF-α treatments.
+
+|Species|Percentage|
+|---|---|
+|Akmenansia muciniphila| |
+|ECoprobacillus caleniformis| |
+|CPaabacletoides gordonii| |
+|Bacictorio: CCcC| |
+|FEschorichia_coli| |
+|CPevoteIla| |
+|FBacietonc:| |
+|dolich| |
+|Kunccoccu| |
+|Lom| |
+|EMaemoshilus parainiluenzae| |
+|Cnuminococcus Torgues| |
+|DShcuocaccus| |
+|Dulyricicoccuspullicaecoum| |
+|actobacillu;| |
+|Strepx ccoccus angmosus| |
+|LactobaIcilhr;| |
+|Veillonella sp| |
+|Clostridiun smdosUI| |
+|Parabacleroide s gafi| |
+|Morgamell:t| |
+|asasons| |
+|0 Unclassilied| |
+
+Bosn J Basic Med Sci. 2022;22(3):412-426
+
+www.bjbms.org

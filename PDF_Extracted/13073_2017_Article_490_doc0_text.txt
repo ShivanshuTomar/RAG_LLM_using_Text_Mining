@@ -1,0 +1,29 @@
+# A novel Ruminococcus gnavus clade enriched in inflammatory bowel disease patients
+
+# Georgia K. Lagoudas1,2†, Moran Yassour 1,2, Nadine Fornelos 1,2, Robin Wilson 3, Madeline Bertha 6, Eric S. Lander 1,7,8, Andrew Brantley Hall1,5, Tommi Vatanen 1,2†, Jenny Sauk 3,10, Ashley Garner1,2, Xiaofang Jiang 1,4, Timothy Arthur 1,2, John Garber3, Hamed Khalili 3, Dirk Gevers 1,2,11, Ashwin N. Ananthakrishnan 3, Subra Kugathasan 6, Melissa Cohen 3, Paul Blainey1,5, Hera Vlamakis 1,2, Ramnik J. Xavier 1,2,3,4* and Curtis Huttenhower 1,9*
+
+# Abstract
+
+Background: Inflammatory bowel disease (IBD) is characterized by chronic inflammation of the gastrointestinal tract that is associated with changes in the gut microbiome. Here, we sought to identify strain-specific functional correlates with IBD outcomes.
+
+Methods: We performed metagenomic sequencing of monthly stool samples from 20 IBD patients and 12 controls (266 total samples). These were taxonomically profiled with MetaPhlAn2 and functionally profiled using HUMAnN2. Differentially abundant species were identified using MaAsLin and strain-specific pangenome haplotypes were analyzed using PanPhlAn.
+
+Results: We found a significantly higher abundance in patients of facultative anaerobes that can tolerate the increased oxidative stress of the IBD gut. We also detected dramatic, yet transient, blooms of Ruminococcus gnavus in IBD patients, often co-occurring with increased disease activity. We identified two distinct clades of R. gnavus strains, one of which is enriched in IBD patients. To study functional differences between these two clades, we augmented the R. gnavus pangenome by sequencing nine isolates from IBD patients. We identified 199 IBD-specific, strain-specific genes involved in oxidative stress responses, adhesion, iron-acquisition, and mucus utilization, potentially conferring an adaptive advantage for this R. gnavus clade in the IBD gut.
+
+Conclusions: This study adds further evidence to the hypothesis that increased oxidative stress may be a major factor shaping the dysbiosis of the microbiome observed in IBD and suggests that R. gnavus may be an important member of the altered gut community in IBD.
+
+# Background
+
+IBD is associated with increased generation of reactive oxygen species (ROS) and reactive nitrogen species (RNS), causing oxidative stress for both host cells and the gut microbiome [2–4]. Additionally, the gut microbiome in IBD shows dysbiosis characterized by increased abundance of functional pathways involved in the microbial response to oxidative stress [5]. However, the species and/or strains of microbes that contribute to this functionality remain unclear.
+
+The increased availability of whole metagenome sequencing, as opposed to 16S rRNA gene sequencing, has provided the opportunity to study the taxonomic composition of microbiomes at unprecedented resolution.
+
+* Correspondence: xavier@molbio.mgh.harvard.edu; chuttenh@hsph.harvard.edu
+
+1†Equal contributors
+
+Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA
+
+Full list of author information is available at the end of the article
+
+© The Author(s). 2017 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.

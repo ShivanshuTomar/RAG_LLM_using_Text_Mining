@@ -1,0 +1,12 @@
+# Alatawi et al.: Microbiota and anti-TNF-α response in IBD patients
+
+|Index|Value|
+|---|---|
+|Simpson|1|
+|Shannon|1.5|
+
+Alpha-diversity was calculated using the observed number of operational taxonomic units [OTUs], Shannon index, and Simpson index among faecal samples in primary non-responders (P) (purple) and responders (R) (blue) to anti-TNF-α treatment.
+
+Bosn J Basic Med Sci. 2022;22(3):412-426
+
+www.bjbms.org

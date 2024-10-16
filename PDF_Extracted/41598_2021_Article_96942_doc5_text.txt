@@ -1,0 +1,27 @@
+# Figure 3
+
+# (A) Cladogram demonstrating taxa which are enriched for UC or Healthy Controls.
+
+# (B) Changes in metabolic pathways between healthy volunteers and UC patients.
+
+|A|AUC|
+|---|---|
+|a: Bifidobacterium| |
+|b: Bifidobacteriaceae| |
+|c: Bifidobacteriales| |
+|d: Collinsella| |
+|e: Coriobacteriaceae| |
+|f: Coriobacteriales| |
+|g: Rikenellaceae| |
+|h: Blautia| |
+|i: Veillonella| |
+|j: Eubacterium_hallii_group| |
+|k: Acinetobacter| |
+|l: Dorea| |
+|m: Lachnospiraceae| |
+|n: Moraxellaceae| |
+|o: Pseudomonadales| |
+
+taxa were observed when accounting for disease severity of UC or CD, though this could be due to a low sample numbers of moderate and severe disease.
+
+Scientific Reports | (2021) 11:18699 | https://doi.org/10.1038/s41598-021-96942-z

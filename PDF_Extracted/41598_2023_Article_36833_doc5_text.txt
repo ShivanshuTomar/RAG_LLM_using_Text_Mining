@@ -1,0 +1,10 @@
+# Figure 3.
+
+Potential genes implicated in both rheumatoid arthritis (RA) and inflammatory bowel disease (IBD) were discovered using WGCNA52. (A) Analysis of the network topology for RA utilizing various soft-threshold powers. (B) Determination of the gene modules that RA co-expresses. The 28 modules comprising the dendrogram’s branches are each assigned a different color. (C) A study of network topology for Crohn’s disease (CD) utilizing various soft-threshold powers. (D) Determination of the gene modules that CD co-expresses. The 52 modules comprising the dendrogram’s branches are each assigned a different color. (E) Analysis of the network topology for ulcerative colitis (UC) utilizing various soft-threshold powers. (F) Identification of the gene modules co-expressed by UC. The 57 modules comprising the dendrogram’s branches are each assigned a different color. (G) Heatmap depicting the association between the prevalence of RA and module genes. (H) Heatmap depicting the association between the prevalence of CD and module genes. (I) Heatmap depicting the association between the prevalence of UC and module genes. Red and blue show a positive and negative association, respectively, with the hue’s depth indicating each’s strength. (J) Venn diagram demonstrating the overlap between candidate genes of two IBD (CD and UC) modules and those of one RA module.
+
+|Gene|Gene|Gene|Gene|
+|---|---|---|---|
+|J|CXCL9|CCL18|CXCL10|
+|MMP9|RARRES3|S100A8|FCN1|
+|ISG20|LILRB2|IDO1|CD19|
+|CIITA|SIRPG|DUOX2| |

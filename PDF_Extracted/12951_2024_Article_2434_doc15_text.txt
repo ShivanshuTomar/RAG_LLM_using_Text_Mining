@@ -1,0 +1,33 @@
+# Yang et al. Journal of Nanobiotechnology
+
+# (2024) 22:166
+
+# Page 16 of 16
+
+application to protect brain from Injury in ischemic stroke. J Am Chem Soc. 2017;139:856–62.
+
+1. Nam J, Son S, Ochyl LJ, Kuai R, Schwendeman A, Moon JJ. Chemo-photo-thermal therapy combination elicits anti-tumor immunity against advanced metastatic cancer. Nat Commun. 2018;9:1074.
+2. Huang L, Liu M, Huang H, Wen Y, Zhang X, Wei Y. Recent advances and progress on melanin-like materials and their Biomedical Applications. Biomacromolecules. 2018;19:1858–68.
+3. Li J, Wang T, Kirtane AR, Shi Y, Jones A, Moussa Z, Lopes A, Collins J, Tamang SM, Hess K et al. Gastrointestinal synthetic epithelial linings. Sci Transl Med 2020; 12.
+4. Hu SS, Yang ZX, Wang S, Wang LP, He QQ, Tang H, Ji P, Chen T. Zwitterionic polydopamine modified nanoparticles as an efficient nanoplatform to overcome both the mucus and epithelial barriers. Chem Eng J 2022; 428.
+5. Poinard B, Kamaluddin S, Tan AQQ, Neoh KG, Kah JCY. Polydopamine Coating enhances Mucopenetration and Cell Uptake of nanoparticles. ACS Appl Mater Interfaces. 2019;11:4777–89.
+6. Li J, Hou W, Lin S, Wang L, Pan C, Wu F, Liu J. Polydopamine nanoparticle-mediated dopaminergic immunoregulation in colitis. Adv Sci (Weinheim Ger). 2022;9:e2104006.
+7. Wen X, Xi K, Tang Y, Bian J, Qin Y, Xiao W, Pan T, Cheng X, Ge Z, Cui W. Immunized microspheres Engineered Hydrogel membrane for reprogramming macrophage and mucosal repair. Small. 2023;19:e2207030.
+8. Gao S, Zheng H, Xu S, Kong J, Gao F, Wang Z, Li Y, Dai Z, Jiang X, Ding X, Lei H. Novel Natural Carrier-Free Self-assembled nanoparticles for treatment of Ulcerative Colitis by Balancing Immune Microenvironment and Intestinal Barrier. Adv Healthc Mater. 2023;12:e2301826.
+9. Yang F, Cheung PCK. Fungal β-Glucan-based nanotherapeutics: from fabrication to application. J Fungi 2023; 9.
+10. Xu J, Ma Q, Zhang Y, Fei Z, Sun Y, Fan Q, Liu B, Bai J, Yu Y, Chu J, et al. Yeast-derived nanoparticles remodel the immunosuppressive microenvironment in tumor and tumor-draining lymph nodes to suppress tumor growth. Nat Commun. 2022;13:110.
+11. Mo X, Sun Y, Liang X, Li L, Hu S, Xu Z, Liu S, Zhang Y, Li X, Liu L. Insoluble yeast beta-glucan attenuates high-fat diet-induced obesity by regulating gut microbiota and its metabolites. Carbohydr Polym. 2022;281:119046.
+12. Cao Y, Sun Y, Zou S, Duan B, Sun M, Xu X. Yeast beta-glucan suppresses the chronic inflammation and improves the Microenvironment in adipose tissues of ob/ob mice. J Agric Food Chem. 2018;66:621–9.
+13. Sun Y, Shi X, Zheng X, Nie S, Xu X. Inhibition of dextran sodium sulfate-induced colitis in mice by baker’s yeast polysaccharides. Carbohydr Polym. 2019;207:371–81.
+14. Zhao P, Xia X, Xu X, Leung KKC, Rai A, Deng Y, Yang B, Lai H, Peng X, Shi P, et al. Nanoparticle-assembled bioadhesive coacervate coating with prolonged gastrointestinal retention for inflammatory bowel disease therapy. Nat Commun. 2021;12:7162.
+15. Zhou J, Li M, Chen Q, Li X, Chen L, Dong Z, Zhu W, Yang Y, Liu Z, Chen Q. Programmable probiotics modulate inflammation and gut microbiota for inflammatory bowel disease treatment after effective oral delivery. Nat Commun. 2022;13:3432.
+16. Wan Y, Yang L, Jiang S, Qian D, Duan J. Excessive apoptosis in Ulcerative Colitis: Crosstalk between apoptosis, ROS, ER stress, and intestinal homeostasis. Inflamm Bowel Dis. 2022;28:639–48.
+17. Dong L, Xie J, Wang Y, Jiang H, Chen K, Li D, Wang J, Liu Y, He J, Zhou J, et al. Mannose ameliorates experimental colitis by protecting intestinal barrier integrity. Nat Commun. 2022;13:4804.
+18. Mudter J, Neurath MF. Il-6 signaling in inflammatory bowel disease: pathophysiological role and clinical relevance. Inflamm Bowel Dis. 2007;13:1016–23.
+19. Ma L, Ni Y, Wang Z, Tu W, Ni L, Zhuge F, Zheng A, Hu L, Zhao Y, Zheng L, Fu Z. Spermidine improves gut barrier integrity and gut microbiota function in diet-induced obese mice. Gut Microbes. 2020;12:1–19.
+20. Sun S, Luo L, Liang W, Yin Q, Guo J, Rush AM, Lv Z, Liang Q, Fischbach MA, Sonnenburg JL, et al. Bifidobacterium alters the gut microbiota and modulates the functional metabolism of T regulatory cells in the context of immune checkpoint blockade. Proc Natl Acad Sci USA. 2020;117:27509–15.
+21. Mazzarella G, Perna A, Marano A, Lucariello A, Rotondi Aufiero V, Sorrentino A, Melina R, Guerra G, Taccone FS, Iaquinto G, De Luca A. Pathogenic role of Associated Adherent-Invasive Escherichia coli in Crohn’s Disease. J Cell Physiol. 2017;232:2860–8.
+22. Mata-Garrido J, Xiang Y, Chang-Marchand Y, Reisacher C, Ageron E, Guerrera IC, Casafont I, Bruneau A, Cherbuy C, Treton X, et al. The heterochromatin protein 1 is a regulator in RNA splicing precision deficient in ulcerative colitis. Nat Commun. 2022;13:6834.
+23. Wu C, Chu B, Kuang L, Meng B, Wang X, Tang S. Synthesis of beta-1,3-glucan esters showing nanosphere formation. Carbohydr Polym. 2013;98:807–12.
+
+Publisher’s Note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.

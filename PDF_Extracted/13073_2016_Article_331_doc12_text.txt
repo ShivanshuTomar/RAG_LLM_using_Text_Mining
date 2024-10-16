@@ -1,0 +1,23 @@
+# Shaw et al. Genome Medicine (2016) 8:75
+
+# References
+
+1. Kostic AD, Gevers D, Pedamallu CS, Michaud M, Duke F, Earl AM, Ojesina AI, Jung J, Bass AJ, Tabernero J, et al. Genomic analysis identifies association of Fusobacterium with colorectal carcinoma. Genome Res. 2012;22:292–8.
+2. Kostic AD, Chun E, Robertson L, Glickman JN, Gallini CA, Michaud M, Clancy TE, Chung DC, Lochhead P, Hold GL, et al. Fusobacterium nucleatum potentiates intestinal tumorigenesis and modulates the tumor-immune microenvironment. Cell Host Microbe. 2013;14:207–15.
+3. Rossi O, van Berkel LA, Chain F, Tanweer Khan M, Taverne N, Sokol H, Duncan SH, Flint HJ, Harmsen HJ, Langella P, et al. Faecalibacterium prausnitzii A2-165 has a high capacity to induce IL-10 in human and murine dendritic cells and modulates T cell responses. Sci Rep. 2016;6:18507.
+4. Maruo T, Sakamoto M, Ito C, Toda T, Benno Y. Adlercreutzia equolifaciens gen. nov., sp. nov., an equol-producing bacterium isolated from human faeces, and emended description of the genus Eggerthella. Int J Syst Evol Microbiol. 2008;58:1221–7.
+5. Tyler AD, Kirsch R, Milgrom R, Stempak JM, Kabakchiev B, Silverberg MS. Microbiome heterogeneity characterizing intestinal tissue and inflammatory bowel disease phenotype. Inflamm Bowel Dis. 2016;22:807–16.
+
+# Submit your next manuscript to BioMed Central
+
+and we will help you at every step:
+
+- We accept pre-submission inquiries
+- Our selector tool helps you to find the most relevant journal
+- We provide round the clock customer support
+- Convenient online submission
+- Thorough peer review
+- Inclusion in PubMed and all major indexing services
+- Maximum visibility for your research
+
+Submit your manuscript at www.biomedcentral.com/submit

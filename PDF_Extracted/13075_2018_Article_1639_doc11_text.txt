@@ -1,0 +1,45 @@
+# References
+
+1. HLA association in patients with inflammatory bowel disease. Rheumatol Int. 2006;26(7):663–8.
+2. Faustini F, Zoli A, Ferraccioli GF. Immunologic and genetic links between spondylarthropathies and inflammatory bowel diseases. Eur Rev Med Pharmacol Sci. 2009;13(Suppl 1):1–9.
+3. Jacques P, Elewaut D. Joint expedition: linking gut inflammation to arthritis. Mucosal Immunol. 2008;1(5):364–71.
+4. Wright PB, McEntegart A, McCarey D, McInnes IB, Siebert S, Milling SW. Ankylosing spondylitis patients display altered dendritic cell and T cell populations that implicate pathogenic roles for the IL-23 cytokine axis and intestinal inflammation. Rheumatology (Oxford). 2016;55(1):120–32.
+5. Catana CS, Berindan Neagoe I, Cozma V, Magdas C, Tabaran F, Dumitrascu DL. Contribution of the IL-17/IL-23 axis to the pathogenesis of inflammatory bowel disease. World J Gastroenterol. 2015;21(19):5823–30.
+6. Tito RY, Cypers H, Joossens M, Varkas G, Van Praet L, Glorieus E, Van den Bosch F, De Vos M, Raes J, Elewaut D. Brief report: dialister as a microbial marker of disease activity in spondyloarthritis. Arthritis Rheumatol. 2017;69(1):114–21.
+7. Breban M, Tap J, Leboime A, Said-Nahal R, Langella P, Chiocchia G, Furet JP, Sokol H. Faecal microbiota study reveals specific dysbiosis in spondyloarthritis. Ann Rheum Dis. 2017;76(9):1614–22.
+8. Costello ME, Ciccia F, Willner D, Warrington N, Robinson PC, Gardiner B, Marshall M, Kenna TJ, Triolo G, Brown MA. Intestinal dysbiosis in ankylosing spondylitis. Arthritis Rheumatol. 2015;67(3):686–91.
+9. Frank DN, Robertson CE, Hamm CM, Kpadeh Z, Zhang T, Chen H, Zhu W, Sartor RB, Boedeker EC, Harpaz N, et al. Disease phenotype and genotype are associated with shifts in intestinal-associated microbiota in inflammatory bowel diseases. Inflamm Bowel Dis. 2011;17(1):179–84.
+10. Frank DN, St Amand AL, Feldman RA, Boedeker EC, Harpaz N, Pace NR. Molecular-phylogenetic characterization of microbial community imbalances in human inflammatory bowel diseases. Proc Natl Acad Sci U S A. 2007;104(34):13780–5.
+11. Gevers D, Kugathasan S, Denson LA, Vazquez-Baeza Y, Van Treuren W, Ren B, Schwager E, Knights D, Song SJ, Yassour M, et al. The treatment-naive microbiome in new-onset Crohn's disease. Cell Host Microbe. 2014;15(3):382–92.
+12. Kuhn KA, Schulz HM, Regner EH, Severs EL, Hendrickson JD, Mehta G, Whitney AK, Ir D, Ohri N, Robertson CE, et al. Bacteroidales recruit IL-6-producing intraepithelial lymphocytes in the colon to promote barrier integrity. Arthritis Rheumatol. 2017;2018. https://doi.org/10.1002/art.40490. [Epub ahead of print].
+13. Cheroutre H, Lambolez F, Mucida D. The light and dark sides of intestinal intraepithelial lymphocytes. Nat Rev Immunol. 2011;11(7):445–56.
+14. Najarian RM, Hait EJ, Leichtner AM, Glickman JN, Antonioli DA, Goldsmith JD. Clinical significance of colonic intraepithelial lymphocytosis in a pediatric population. Mod Pathol. 2009;22(1):13–20.
+15. Torrente F, Barabino A, Bellini T, Murch SH. Intraepithelial lymphocyte eotaxin-2 expression and perineural mast cell degranulation differentiate allergic/eosinophilic colitis from classic IBD. J Pediatr Gastroenterol Nutr. 2014;59(3):300–7.
+16. Dalton HR, Dipaolo MC, Sachdev GK, Crotty B, Hoang P, Jewell DP. Human colonic intraepithelial lymphocytes from patients with inflammatory bowel disease fail to down-regulate proliferative responses of primed allogeneic peripheral blood mononuclear cells after rechallenge with antigens. Clin Exp Immunol. 1993;93(1):97–102.
+17. Ahn JY, Lee KH, Choi CH, Kim JW, Lee HW, Kim JW, Kim MK, Kwon GY, Han S, Kim SE, et al. Colonic mucosal immune activity in irritable bowel syndrome: comparison with healthy controls and patients with ulcerative colitis. Dig Dis Sci. 2014;59(5):1001–11.
+18. Rudwaleit M, van der Heijde D, Landewe R, Listing J, Akkoc N, Brandt J, Braun J, Chou CT, Collantes-Estevez E, Dougados M, et al. The development of assessment of SpondyloArthritis International Society classification criteria for axial spondyloarthritis (part II): validation and final selection. Ann Rheum Dis. 2009;68(6):777–83.
+19. Brumbaugh DE, Arruda J, Robbins K, Ir D, Santorico SA, Robertson CE, Frank DN. Mode of delivery determines neonatal pharyngeal bacterial composition and early intestinal colonization. J Pediatr Gastroenterol Nutr. 2016;63(3):320–8.
+20. Lemas DJ, Young BE, Baker PR 2nd, Tomczik AC, Soderborg TK, Hernandez TL, de la Houssaye BA, Robertson CE, Rudolph MC, Ir D, et al. Alterations in human milk leptin and insulin are associated with early changes in the infant intestinal microbiome. Am J Clin Nutr. 2016;103(5):1291–300.
+21. Markle JG, Frank DN, Mortin-Toth S, Robertson CE, Feazel LM, Rolle-Kampczyk U, von Bergen M, McCoy KD, Macpherson AJ, Danska JS. Sex differences in the gut microbiome drive hormone-dependent regulation of autoimmunity. Science. 2013;339(6123):1084–8.
+22. Pandrea I, Xu C, Stock JL, Frank DN, Ma D, Policicchio BB, He T, Kristoff J, Cornell E, Haret-Richter GS, et al. Antibiotic and antiinflammatory therapy transiently reduces inflammation and hypercoagulation in acutely SIV-infected pigtailed macaques. PLoS Pathog. 2016;12(1):e1005384.
+23. Frank DN. BARCRAWL and BARTAB: software tools for the design and implementation of barcoded primers for highly multiplexed DNA sequencing. BMC Bioinformatics. 2009;10:362.
+24. iGenomes [http://support.illumina.com/sequencing/sequencing_software/ igenome.html]. Accessed 8 Dec 2014.
+25. Langmead B, Salzberg SL. Fast gapped-read alignment with bowtie 2. Nat Methods. 2012;9(4):357–9.
+26. Ewing B, Green P. Base-calling of automated sequencer traces using phred. II. Error probabilities. Genome Res. 1998;8(3):186–94.
+27. Ewing B, Hillier L, Wendl MC, Green P. Base-calling of automated sequencer traces using phred. I. Accuracy assessment. Genome Res. 1998;8(3):175–85.
+28. Edgar RC, Haas BJ, Clemente JC, Quince C, Knight R. UCHIME improves sensitivity and speed of chimera detection. Bioinformatics. 2011;27(16):2194–200.
+29. Schloss PD, Westcott SL. Assessing and improving methods used in operational taxonomic unit-based approaches for 16S rRNA gene sequence analysis. Appl Environ Microbiol. 2011;77(10):3219–26.
+30. Pruesse E, Peplies J, Glockner FO. SINA: accurate high-throughput multiple sequence alignment of ribosomal RNA genes. Bioinformatics. 2012;28(14):1823–9.
+31. Quast C, Pruesse E, Yilmaz P, Gerken J, Schweer T, Yarza P, Peplies J, Glockner FO. The SILVA ribosomal RNA gene database project: improved data processing and web-based tools. Nucleic Acids Res. 2013;41(Database issue):D590–6.
+32. Robertson CE, Harris JK, Wagner BD, Granger D, Browne K, Tatem B, Feazel LM, Park K, Pace NR, Frank DN. Explicet: graphical user interface software for metadata-driven management, analysis and visualization of microbiome data. Bioinformatics. 2013;29(23):3100–1.
+33. Gorfu G, Rivera-Nieves J, Ley K. Role of beta7 integrins in intestinal lymphocyte homing and retention. Curr Mol Med. 2009;9(7):836–50.
+34. Qiu Y, Yang H. Effects of intraepithelial lymphocyte-derived cytokines on intestinal mucosal barrier function. J Interf Cytokine Res. 2013;33(10):551–62.
+35. Fantini MC, Pallone F, Monteleone G. Common immunologic mechanisms in inflammatory bowel disease and spondylarthropathies. World J Gastroenterol. 2009;15(20):2472–8.
+36. Kabeerdoss J, Sandhya P, Danda D. Gut inflammation and microbiome in spondyloarthritis. Rheumatol Int. 2016;36(4):457–68.
+37. Casini-Raggi V, Kam L, Chong YJ, Fiocchi C, Pizarro TT, Cominelli F. Mucosal imbalance of IL-1 and IL-1 receptor antagonist in inflammatory bowel disease. A novel mechanism of chronic intestinal inflammation. J Immunol. 1995;154(5):2434–40.
+38. Olsen T, Rismo R, Cui G, Goll R, Christiansen I, Florholmen J. TH1 and TH17 interactions in untreated inflamed mucosa of inflammatory bowel disease, and their potential to mediate the inflammation. Cytokine. 2011;56(3):633–40.
+39. Sun YP, Wang HH, He Q, Cho CH. Effect of passive cigarette smoking on colonic alpha7-nicotinic acetylcholine receptors in TNBS-induced colitis in rats. Digestion. 2007;76(3–4):181–7.
+40. Gill T, Asquith M, Rosenbaum JT, Colbert RA. The intestinal microbiome in spondyloarthritis. Curr Opin Rheumatol. 2015;27(4):319–25.
+41. Stebbings S, Munro K, Simon MA, Tannock G, Highton J, Harmsen H, Welling G, Seksik P, Dore J, Grame G, et al. Comparison of the faecal microflora of patients with ankylosing spondylitis and controls using molecular methods of analysis. Rheumatology (Oxford). 2002;41(12):1395–401.
+42. Santoru ML, Piras C, Murgia A, Palmas V, Camboni T, Liggi S, Ibba I, Lai MA, Orru S, Loizedda AL, et al. Cross sectional evaluation of the gut-microbiome metabolome axis in an Italian cohort of IBD patients. Sci Rep. 2017;7(1):9523.
+43. Forbes JD, Van Domselaar G, Bernstein CN. Microbiome survey of the inflamed and noninflamed gut at different compartments within the gastrointestinal tract of inflammatory bowel disease patients. Inflamm Bowel Dis. 2016;22(4):817–25.

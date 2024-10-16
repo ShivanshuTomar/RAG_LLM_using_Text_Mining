@@ -1,0 +1,76 @@
+# NATURE COMMUNICATIONS
+
+# References
+
+1. Kojima, A. et al. Infection of specific strains of *Streptococcus mutans*, oral bacteria, confers a risk of ulcerative colitis. Sci. Rep. 2, 332 (2012).
+2. Kotlowski, R., Bernstein, C. N., Sepehri, S. & Krause, D. O. High prevalence of *Escherichia coli* belonging to the B2+D phylogenetic group in inflammatory bowel disease. Gut 56, 669–675 (2007).
+3. Mirsepasi-Lauridsen, H. C. et al. Extraintestinal pathogenic *Escherichia coli* are associated with intestinal inflammation in patients with ulcerative colitis. Sci. Rep. 6, 31152 (2016).
+4. Zhu, H. & Li, Y. R. Oxidative stress and redox signaling mechanisms of inflammatory bowel disease: updated experimental and clinical evidence. Exp. Biol. Med. 237, 474–480 (2012).
+5. Albenberg, L. et al. Correlation between intraluminal oxygen gradient and radial partitioning of intestinal microbiota. Gastroenterology 147, 1055–1063 e1058 (2014).
+6. Ou, G. et al. Proximal small intestinal microbiota and identification of rod-shaped bacteria associated with childhood celiac disease. Am. J. Gastroenterol. 104, 3058–3067 (2009).
+7. Nagaoka, K. et al. Multiple lung abscesses caused by *Actinomyces graevenitzii* mimicking acute pulmonary coccidioidomycosis. J. Clin. Microbiol. 50, 3125–3128 (2012).
+8. Kononen, E. & Wade, W. G. *Actinomyces* and related organisms in human infections. Clin. Microbiol. Rev. 28, 419–442 (2015).
+9. Wong, V. K., Turmezei, T. D. & Weston, V. C. Actinomycosis. BMJ 343, d6099 (2011).
+10. Lin, K. et al. A rare thermophilic bug in complicated diverticular abscess. Case Rep. Gastroenterol. 11, 569–575 (2017).
+11. Nahum, A., Filice, G. & Malhotra, A. A complicated thread: abdominal actinomycosis in a young woman with Crohn disease. Case Rep. Gastroenterol. 11, 377–381 (2017).
+12. Burr, N. E., Hull, M. A. & Subramanian, V. Folic acid supplementation may reduce colorectal cancer risk in patients with inflammatory bowel disease. J. Clin. Gastroenterol. 51, 247–253 (2017).
+13. Jeong, S. Y., Im, Y. N., Youm, J. Y., Lee, H. K. & Im, S. Y. l-glutamine attenuates DSS-induced colitis via induction of MAPK phosphatase-1. Nutrients 10, E288 (2018).
+14. Gu, C., Mao, X., Chen, D., Yu, B. & Yang, Q. Isoleucine plays an important role for maintaining immune function. Curr. Protein Pept. Sci. 20, 644–651 (2019).
+15. Martinez, Y. et al. The role of methionine on metabolism, oxidative stress, and diseases. Amino Acids 49, 2091–2098 (2017).
+16. Limketkai, B. N., Wolf, A. & Parian, A. M. Nutritional interventions in the patient with inflammatory bowel disease. Gastroenterol. Clin. North Am. 47, 155–177 (2018).
+17. Overbeek, R. et al. The SEED and the Rapid Annotation of microbial genomes using Subsystems Technology (RAST). Nucleic Acids Res. 42, D206–D214 (2014).
+18. Franzosa, E. A. et al. Relating the metatranscriptome and metagenome of the human gut. Proc. Natl Acad. Sci. USA 111, E2329–E2338 (2014).
+19. Mehta, R. S. et al. Stability of the human faecal microbiome in a cohort of adult men. Nat. Microbiol. 3, 347–355 (2018).
+20. Schirmer, M. et al. Dynamics of metatranscription in the inflammatory bowel disease gut microbiome. Nat. Microbiol. 3, 337–346 (2018).
+21. Schirmer, M. et al. Linking the human gut microbiome to inflammatory cytokine production capacity. Cell 167, 1897–1897 (2016).
+22. ter Horst, R. et al. Host and environmental factors influencing individual human cytokine responses. Cell 167, 1111–1124 (2016).
+23. Tigchelaar, E. F. et al. Cohort profile: LifeLines DEEP, a prospective, general population cohort study in the northern Netherlands: study design and baseline characteristics. BMJ Open 5, e006772 (2015).
+24. Kurilshikov, A. et al. Gut microbial associations to plasma metabolites linked to cardiovascular phenotypes and risk: a cross-sectional study. Circ. Res. 124, 1808–1820 (2019).
+25. ter Horst, R. et al. Sex-Specific Regulation of Inflammation and Metabolic Syndrome in Obesity. Arterioscler Thromb Vasc Biol. 40, 1787–1800 (2020).
+26. Imhann, F. et al. The 1000IBD project: multi-omics data of 1000 inflammatory bowel disease patients; data release 1. BMC Gastroenterol. 19, 5 (2019).
+27. Langmead, B., Trapnell, C., Pop, M. & Salzberg, S. L. Ultrafast and memory-efficient alignment of short DNA sequences to the human genome. Genome Biol. 10, R25 (2009).
+28. Truong, D. T. et al. MetaPhlAn2 for enhanced metagenomic taxonomic profiling. Nat. Methods 12, 902–903 (2015).
+29. Franzosa, E. A. et al. Species-level functional profiling of metagenomes and metatranscriptomes. Nat. Methods 15, 962–968 (2018).
+30. Bateman, A. et al. UniProt: a hub for protein information. Nucleic Acids Res. 43, D204–D212 (2015).
+31. Caspi, R. et al. The MetaCyc database of metabolic pathways and enzymes and the BioCyc collection of pathway/genome databases. Nucleic Acids Res. 44, D471–D480 (2016).
+32. Caspi, R. et al. The MetaCyc database of metabolic pathways and enzymes. Nucleic Acids Res. 46, D633–D639 (2018).
+33. Lark, R. M. Compositional data analysis in the geosciences: from theory to practice. J. R. Stat. Soc. Ser. A 171, 313–314 (2008).
+34. Filzmoser, P. & Hron, K. Correlation analysis for compositional data. Math. Geosci. 41, 905–919 (2009).
+35. Gloor, G. B., Wu, J. R., Pawlowsky-Glahn, V. & Egozcue, J. J. It’s all relative: analyzing microbiome data as compositions. Ann. Epidemiol. 26, 322–329 (2016).
+36. van den Boogaart, K. G. & Tolosana-Delgado, R. “compositions”: a unified R package to analyze compositional data. Comput Geosci. 34, 320–338 (2008).
+37. Weiss, S. et al. Correlation detection strategies in microbial data sets vary widely in sensitivity and precision. ISME J. 10, 1669–1681 (2016).
+38. Schwarzer, G. meta: an R package for meta-analysis. R News 7, 6 (2007).
+39. Barbato, G., Barini, E. M., Genta, G. & Levi, R. Features and performance of some outlier detection methods. J. Appl Stat. 38, 2133–2149 (2011).
+40. Proctor, L. M. & Network, I. H. I. R. The Integrative Human Microbiome Project: dynamic analysis of microbiome-host omics profiles during periods of human health and disease. Cell Host Microbe 16, 276–289 (2014).
+41. Zhernakova, D. V. et al. Individual variations in cardiovascular-disease-related protein levels are driven by genetics and gut microbiome. Nat. Genet. 50, 1524–1532 (2018).
+42. Csardi, G. N. T. The igraph software package for complex network research. InterJ. Complex Syst. 1695, 1–9 (2006).
+
+# Acknowledgements
+
+We thank the participants and staff of LifeLines-DEEP, 500FG, 300OB and the IBD cohort for their collaboration and the support of the LifeLines Cohort study and the Human Functional Genomics Project. We thank J. Dekens, M. Platteel, A. Maatman and J. Arends for management and technical support and K. Mc Intyre for English editing. This project was funded by the Netherlands Heart Foundation (IN-CONTROL CVON grant 2012-03 and 2018-27 to L.A.B.J., N.P.R., M.G.N., F.K., A.Z. and J.F.); the Top Institute Food and Nutrition, Wageningen, the Netherlands (TiFN GH001 to C.W.); the Netherlands Organization for Scientific Research (NWO) (NWO-VIDI 864.13.013 to J.F., NWO-VIDI 016.178.056 to A.Z., NWO Spinoza Prize SPI 94-212 to M.G.N., NWO Spinoza Prize SPI 92-266 to C.W. and NWO Gravitation Netherlands Organ-on-Chip Initiative (024.003.001) to C.W.); the European Research Council (ERC) (FP7/2007-2013/ERC Advanced Grant Agreement 2012-322698 to C.W., ERC Consolidator Grant 310372 to M.G.N. and ERC Starting Grant 715772 to A.Z.); the Stiftelsen Kristian Gerhard Jebsen Foundation (Norway) to C.W.; L.A.B.J. was supported by a Competitiveness Operational Programme grant of the Romanian Ministry of European Funds (P_37_762, MySMIS 103587); the RuG Investment Agenda Grant Personalized Health to C.W. and the Foundation De Cock-Hadders grant (20:20-13) to L.C. A.Z. holds a Rosalind Franklin Fellowship from the University of Groningen. L.C. is supported by a joint fellowship from the University Medical Center Groningen and China Scholarship Council (CSC201708320268). The funders had no role in the study design, data collection and analysis, decision to publish or preparation of the manuscript.
+
+# Author contributions
+
+C.W., A.Z., M.G.N., R.K.W. and J.F. conceptualized and managed the study. L.C., V.C., M.J., I.C.L.v.d.M., A.V.V., A.K., R.G., T.S., M.O., L.A.B.J., J.H.W.R. and N.P.R. collected the samples and generated the data. L.C. analysed the data. L.C., V.C. and J.F. drafted the manuscript. All the authors reviewed and edited the manuscript.
+
+# Competing interests
+
+The authors declare no competing interests.
+
+# Additional information
+
+Supplementary information is available for this paper at https://doi.org/10.1038/s41467-020-17840-y.
+
+# Correspondence
+
+Correspondence and requests for materials should be addressed to J.F.
+
+# Peer review information
+
+Nature Communications thanks the anonymous reviewers for their contribution to the peer review of this work. Peer reviewer reports are available.
+
+# Reprints and permission information
+
+Reprints and permission information is available at http://www.nature.com/reprints.
+
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.

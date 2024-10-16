@@ -1,0 +1,19 @@
+# Scientific Reports
+
+# (2021) 11:18699
+
+# https://doi.org/10.1038/s41598-021-96942-z
+
+# Figure 2.
+
+(A) Cladogram demonstrating taxa which are enriched in each patient group when comparing Healthy Controls and CD patients. (B) Cladogram demonstrating taxa which are enriched in each patient group when comparing Healthy Controls and CD patients when accounting for disease location. (C) Changes in metabolic pathways between Healthy Controls and CD Patients. (D) Changes in metabolic pathways between Healthy Controls and CD patients when accounting for disease location.
+
+Clear enrichment in CD patients for facultative anaerobic bacteria such as the phyla Bacilli and Proteobacteria. At the genus level Streptococcus, Burkholderia and Actinetobacter were significantly enriched relative to healthy controls, suggesting an enrichment of opportunistic pathogens in CD (LDA (log10) > 2.0, p < 0.05).
+
+When stratifying CD by disease location, several taxa significantly differed between individual disease locations and healthy controls (Fig. 2, Supplementary Table 13). CD-TI was significantly enriched for Faecalibacterium relative to other CD conditions and had multiple taxa usually characteristic of a healthy gut enriched relative to other CD disease locations (LDA (log10) > 3.0, p < 0.05, Supplementary Table 13). Only CD-CC and CD-SB were enriched for opportunistic pathogens with CD-CC patients enriched for Streptococcus and Burkholderia relative to all other disease locations and healthy controls, and CD-SB enriched for Escherichia and Acinetobacter relative to all other disease locations and healthy controls (LDA (log10) > 2.0, p < 0.05, Supplementary Table 13).
+
+Although enrichment of CD 7–9, data here demonstrates this only applies to certain subsets of CD such as CD-CC and CD-SB, with clear Escherichia coli and reduction in Faecalibacterium is a well-established signature of differences in the taxa present between CD-TI and CD-CC and CD-SB.
+
+Despite having no clear changes in alpha diversity, the microbiome of UC patients had several taxa important for human health enriched or decreased compared to healthy controls supporting the demonstrated changes in compositional analysis (Fig. 3, Supplementary Table 14). Although there were clear enrichments for opportunistic pathogens such as Actinetobacter, obligate anaerobes including Blautia, Eubacterium and Collinsella, were enriched in UC relative to healthy controls suggesting a complex dysbiosis unlike that of CD (LDA (log10) > 2.0, p < 0.05 in all cases, Supplementary Table 14).
+
+Important taxonomic signatures of CD such as a reduction in Faecalibacterium and enrichment in Escherichia relative to healthy controls were not found in UC patients supporting our composition and diversity data that UC and CD patients have different dysbiosis, as well as work by studies prior 7,8. Indeed, when comparing CD and UC directly, there were over 30 taxa significantly differentially abundant between the two conditions with an LDA score of > 2.0 (Supplementary Table 15). Relative to the microbiome of CD patients, UC patients were enriched for obligate anaerobes such as Actinobacteria, Rumonococcacae, Erysipelotrichiae, with CD being enriched for the Proteobacteria family Pasteurellaceae relative to UC. There were no taxa which differed across disease locations for UC, supporting the finding that there were no significant differences in diversity or composition across different UC disease locations.
