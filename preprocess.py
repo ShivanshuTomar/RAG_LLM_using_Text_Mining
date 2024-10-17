@@ -132,9 +132,9 @@ with open("paper_graph.gpickle", "rb") as f:
 # Define the path where you want to save the node information
 output_file = "graph_nodes_attributes.txt"
 
-# Open the file in write mode and save the node attributes
-with open(output_file, "w", encoding = 'utf-8') as file:
-    for node, attributes in loaded_graph.nodes(data=True):
-        file.write(f"Node: {node}, Attributes: {attributes}\n")
+# # Open the file in write mode and save the node attributes
+# with open(output_file, "w", encoding = 'utf-8') as file:
+#     for node, attributes in loaded_graph.nodes(data=True):
+#         file.write(f"Node: {node}, Attributes: {attributes}\n")
 
-print(f"Node attributes saved to {output_file}")
+# print(f"Node attributes saved to {output_file}")
