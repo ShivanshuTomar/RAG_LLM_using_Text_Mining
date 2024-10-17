@@ -2,6 +2,7 @@ import os
 import re
 import cv2
 import networkx as nx
+import pickle
 from collections import defaultdict
 import nltk
 from nltk.corpus import stopwords
@@ -14,11 +15,12 @@ graph = nx.Graph()  # Changed to undirected graph
 
 # Ensure required NLTK packages are downloaded
 nltk.download('punkt')
+nltk.download('punkt_tab')
 nltk.download('stopwords')
 nltk.download('wordnet')
 
 # Define the path to the directory with your data
-data_dir = './papers_data/'
+data_dir = r"E:\BTP\PDF_Extracted"
 
 # Initialize NLP tools
 lemmatizer = WordNetLemmatizer()
@@ -27,7 +29,7 @@ stop_words = set(stopwords.words('english'))
 # Function to preprocess text (stopword removal, lemmatization, and optional summarization)
 def preprocess_text(file_path):
     try:
-        with open(file_path, 'r') as file:
+        with open(file_path, 'r', encoding='utf-8') as file:
             text = file.read()
 
         # Simple section detection using regex
@@ -103,15 +105,18 @@ for file_name in os.listdir(data_dir):
         except Exception as e:
             print(f"Error processing paper {file_name}: {e}")
 
-# Add undirected connections between every paper node
-for i in range(len(papers)):
-    for j in range(i + 1, len(papers)):
-        graph.add_edge(papers[i], papers[j])  # Create an undirected connection
+# # Add undirected connections between every paper node
+# for i in range(len(papers)):
+#     for j in range(i + 1, len(papers)):
+#         graph.add_edge(papers[i], papers[j])  # Create an undirected connection
 
 # Save the graph in multiple formats
 nx.write_gml(graph, "paper_graph.gml")
 nx.write_graphml(graph, "paper_graph.graphml")  # GraphML for better compatibility
-nx.write_gpickle(graph, "paper_graph.gpickle")  # For Python object serialization
+
+# Serialize the graph using pickle
+with open("paper_graph.gpickle", "wb") as f:
+    pickle.dump(graph, f)
 
 # Visualization
 plt.figure(figsize=(12, 12))
@@ -119,3 +124,17 @@ pos = nx.spring_layout(graph, seed=42)  # Positions for all nodes
 nx.draw(graph, pos, with_labels=True, node_color='skyblue', font_size=10, font_weight='bold')
 plt.title('Paper Graph with Undirected Connections between Paper Nodes')
 plt.show()
+
+
+with open("paper_graph.gpickle", "rb") as f:
+    loaded_graph = pickle.load(f)
+
+# Define the path where you want to save the node information
+output_file = "graph_nodes_attributes.txt"
+
+# Open the file in write mode and save the node attributes
+with open(output_file, "w", encoding = 'utf-8') as file:
+    for node, attributes in loaded_graph.nodes(data=True):
+        file.write(f"Node: {node}, Attributes: {attributes}\n")
+
+print(f"Node attributes saved to {output_file}")
