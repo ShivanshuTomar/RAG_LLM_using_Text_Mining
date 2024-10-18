@@ -7,7 +7,7 @@ from llama_index.core import SimpleDirectoryReader
 from pdf2image import convert_from_path
 import numpy as np
 # Load environment variables
-load_dotenv(r'E:\BTP\BTP_env_variables.env')
+load_dotenv(r"C:\Users\shiva\Downloads\BTP_env_variables.env")
 
 # Get API key and folder paths
 LLAMAPARSE_API_KEY = os.getenv('LLAMAPARSE_API_KEY')
