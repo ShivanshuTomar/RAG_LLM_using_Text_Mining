@@ -7,6 +7,7 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 from neo4j import GraphDatabase
+from dotenv import load_dotenv
 
 # Ensure required NLTK packages are downloaded
 nltk.download('punkt')
@@ -18,10 +19,14 @@ nltk.download('wordnet')
 lemmatizer = WordNetLemmatizer()
 stop_words = set(stopwords.words('english'))
 
-# Neo4j connection details
-NEO4J_URI="neo4j+s://4c488646.databases.neo4j.io"
-NEO4J_USERNAME="neo4j"
-NEO4J_PASSWORD="kPDwblYDYOU5ucl0kz-jpqp44VaSx6mUtxpeR_xxNhI"
+# Load environment variables
+load_dotenv(r"C:\Users\shiva\Downloads\BTP_env_variables.env")
+
+# Get API key and folder paths
+NEO4J_URI = os.getenv('NEO4J_URI')
+NEO4J_USERNAME = os.getenv('NEO4J_USERNAME')
+NEO4J_PASSWORD = os.getenv('NEO4J_PASSWORD')
+
 driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USERNAME, NEO4J_PASSWORD))
 
 # Function to run Cypher queries
