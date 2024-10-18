@@ -4,3 +4,7 @@
 41598_2020_Article_62811.pdf
 
 start from cells-09-01013.pdf tomorrow
+
+neo4j part done
+now implementation of gemini using langchain needs to be done where it will fetch this graph data
+
